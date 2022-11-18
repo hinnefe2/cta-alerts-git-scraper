@@ -35,16 +35,16 @@
   },
   {
     "AlertId": "89075",
-    "Headline": "63rd-bound Green Line and Midway-bound Orange Line Service Delayed at Roosevelt",
-    "ShortDescription": "63rd-bound Green Line and Midway-bound Orange Line trains are standing at Roosevelt due to a minor fire at track level. Crews working to restore service.",
+    "Headline": "No trains between Roosevelt and Halsted",
+    "ShortDescription": "Orange Line service has been temporarily suspended between Roosevelt and Halsted due to fire department activity.",
     "FullDescription": {
-      "#cdata-section": "<p>63rd-bound Green Line and Midway-bound Orange Line trains are standing at Roosevelt due&nbsp;to a minor fire at track level.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Orange Line service has been temporarily suspended between Roosevelt and Halsted due to fire department activity.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Midway and Halsted at this time.</strong></p>\r\n\r\n<p>Shuttle buses will&nbsp; be&nbsp;available to provide connecting service through the affected area.&nbsp;</p>\r\n\r\n<p>&nbsp;At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
+    "SeverityScore": "84",
     "SeverityColor": "c00c00",
     "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2022-11-18T16:10:00",
+    "Impact": "Service Disruption",
+    "EventStart": "2022-11-18T16:29:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
@@ -52,32 +52,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89075"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "d103897f-dcc5-4fca-a1a6-64d96daa70cf"
+    "GUID": "ff7d5cca-45cd-4f50-b247-97960858972c"
   }
 ]
