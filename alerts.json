@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "89112",
-    "Headline": "#3 King Drive and #4 Cottage Grove Temporary Reroute at Michigan/14th",
-    "ShortDescription": "3 King Drive and 4 Cottage Grove buses are temporarily rerouted via Michigan, 16th, Indiana, Roosevelt and Michigan, due to street blockage near Michigan/14th.",
+    "Headline": "#3 King Drive and #4, #X4 Cottage Grove/Exp Temporary Reroute at Michigan/14th",
+    "ShortDescription": "3 King Drive, X4, 4 Cottage Grove/Exp buses are temporarily rerouted via Michigan, 16th, Indiana, Roosevelt & Michigan, due to street blockage at Michigan/14th.",
     "FullDescription": {
-      "#cdata-section": "<p>#3 King Drive and #4 Cottage Grove buses are temporarily rerouted in both Michigan, 16th, Indiana, Roosevelt and Michigan, due to street blockage near Michigan/14th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#3 King Drive,&nbsp;#4&nbsp;Cottage Grove and #X4 Cottage Grove Express buses are temporarily rerouted in both directions, Michigan, 16th, Indiana, Roosevelt and Michigan, due to street blockage near Michigan/14th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -74,11 +74,22 @@
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/bus/4/"
           }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove Express",
+          "ServiceId": "X4",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
+          }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "57b61c05-58c4-4915-8cb9-b85453e3536d"
+    "GUID": "99a765ff-a4f9-4d09-8dd4-5190d0801d57"
   },
   {
     "AlertId": "89113",
