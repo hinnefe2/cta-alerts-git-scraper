@@ -69,10 +69,10 @@
   },
   {
     "AlertId": "89174",
-    "Headline": "Forest Park-bound Blue Line Service Delayed at Kedzie-Homan",
-    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Kedzie-Homan due to a sick customer. Crews working to restore service.",
+    "Headline": "Forest Park-bound Blue Line Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following an earlier sick customer at Kedzie-Homan. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Kedzie-Homan due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays following an earlier sick customer at Kedzie-Homan.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -85,8 +85,20 @@
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89174"
     },
-    "ImpactedService": null,
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
     "ttim": "0",
-    "GUID": "87aa61e4-052b-4cb0-b25a-a6d31cdbf5e1"
+    "GUID": "232561a6-f0b1-4b7c-a52d-af3083d4dd31"
   }
 ]
