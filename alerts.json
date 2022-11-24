@@ -34,87 +34,6 @@
     "GUID": "7e9f894b-f70d-46b3-89fe-2723483704fa"
   },
   {
-    "AlertId": "89194",
-    "Headline": "#22 Clark and #36 Broadway Temporary Southbound Reroute near Dearborn/Congress",
-    "ShortDescription": "SB 22 Clark and 36 Broadway buses are temporarily rerouted via Clark, Adams, LaSalle, Wacker, Dearborn and Clark, due to street blockage near Dearborn/Congress.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #22 Clark and #36 Broadway buses are temporarily rerouted via Clark, Adams, LaSalle, Wacker, Dearborn and Clark, due to street blockage near Dearborn/Congress.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2022-11-24T08:24:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89194"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Clark",
-          "ServiceId": "22",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/22/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Broadway",
-          "ServiceId": "36",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/36/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "f25f4390-751a-4bc6-8169-ba01a1c54afd"
-  },
-  {
-    "AlertId": "89195",
-    "Headline": "#20 Madison Temporary Eastbound Reroute near Clark/Monroe",
-    "ShortDescription": "EB 20 Madison buses are temporarily rerouted via Washington, LaSalle and Madison, due to street blockage near Clark/Monroe.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #20 Madison buses are temporarily rerouted via Washington, LaSalle and Madison, due to street blockage near Clark/Monroe.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2022-11-24T08:27:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89195"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Madison",
-        "ServiceId": "20",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/20/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "744b41d1-2085-4524-809e-d54704d8b358"
-  },
-  {
     "AlertId": "89196",
     "Headline": "#56 Milwaukee Temporary Southbound Reroute near Clark/Monroe",
     "ShortDescription": "SB 56 Milwaukee buses are temporarily rerouted via Washington, LaSalle and Madison, due to street blockage near Clark/Monroe.",
@@ -147,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "a93ab7fa-174a-4db7-a331-ba69f06101b4"
+  },
+  {
+    "AlertId": "89199",
+    "Headline": "O'Hare-bound Blue Line Service Delayed at Illinois Medical District",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Illinois Medical District due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Illinois Medical District due to a sick customer.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2022-11-24T12:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89199"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3633064f-10d9-4054-a0f3-731447a0db7b"
   }
 ]
