@@ -162,22 +162,56 @@
     "GUID": "ea8555ad-2a38-4e45-bb20-1bcfaf6b3bec"
   },
   {
-    "AlertId": "89217",
-    "Headline": "95th-bound Red Line Delays",
-    "ShortDescription": "95th-bound Red Line trains are running w/residual delays following earlier police activity at 35th. Service is resuming, allow extra time.",
+    "AlertId": "89218",
+    "Headline": "#80 Irving Park Temporary Reroute at Irving Park/Menard",
+    "ShortDescription": "80 Irving Park  buses are temporarily rerouted via Irving Park, Austin, Addison, Central, and Irving Park due to,street blockage near Irving Park/Menard.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are running w/residual delays following earlier police activity at 35th.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#80 Irving Park&nbsp; buses are temporarily rerouted via Irving Park, Austin, Addison, Central, and Irving Park due to,street blockage near Irving Park/Menard.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-11-25T18:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89218"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Irving Park",
+        "ServiceId": "80",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/80/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "894ee5a0-9b80-403b-8ff6-9cc459575bee"
+  },
+  {
+    "AlertId": "89219",
+    "Headline": "Howard-bound Red Line Delays",
+    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays following an earlier sick customer at North/Clybourn.  Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are running w/residual delays following an earlier sick customer at North/Clybourn.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2022-11-25T18:17:00",
+    "EventStart": "2022-11-25T18:58:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89217"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89219"
     },
     "ImpactedService": {
       "Service": {
@@ -193,6 +227,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "c462399e-4ba0-4864-9b51-e2aa77a8721f"
+    "GUID": "7648a119-39ee-4b41-a9fd-a3dfad39304a"
+  },
+  {
+    "AlertId": "89220",
+    "Headline": "#39 Pershing Temporary Eastbound Reroute near 40th/Lake Park",
+    "ShortDescription": "EB 39 Pershing buses are temporarily rerouted via: 39th, Cottage Grove, Oakwood, Pershing, Ellis, due to, street blockage, near 40th/Lake Park.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound&nbsp;#39 Pershing buses are temporarily rerouted via 39th, Cottage Grove, Oakwood, Pershing, Ellis, due to, street blockage, near 40th/Lake Park.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-11-25T19:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89220"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pershing",
+        "ServiceId": "39",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/39/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cbfa7e9a-66c9-48ed-8951-0d8f58a15ae3"
   }
 ]
