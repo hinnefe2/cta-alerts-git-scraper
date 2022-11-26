@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "89214",
-    "Headline": "#106 East 103rd Temporary Eastbound Reroute near 103rd/Cottage Grove",
-    "ShortDescription": "EB 106 East 103rd  buses are temporarily rerouted via: 103rd, King Drive, 111th, Corliss, 103rd, due to, street blockage, near 103rd/Cottage Grove.",
+    "Headline": "#106 East 103rd Temporary Reroute near 103rd/Cottage Grove",
+    "ShortDescription": "106 East 103rd buses temp. rerouted EB: 103rd, King Drive, 111th, Corliss, 103rd; WB: 103rd, Cottage Grove, 107th, King Drive,103rd near 103rd/Cottage Grove.",
     "FullDescription": {
-      "#cdata-section": "<p>Eastbound #106 East 103rd buses are temporarily rerouted via: 103rd, King Drive, 111th, Corliss, 103rd, due to, street blockage, near 103rd/Cottage Grove.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#106 East 103rd buses are temporarily rerouted in both directions near 103rd/Cottage Grove, due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via: 103rd, King Drive, 111th, Corliss, and 103rd</p>\r\n\r\n<p>Westbound buses will operate via: 103rd, Cottage Grove, 107th, King Drive, and 103rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -65,7 +65,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "747ee277-0c75-4886-8220-cc44b5f81777"
+    "GUID": "2700bc91-bfa4-4287-9db7-3cbbe3f2e9f4"
   },
   {
     "AlertId": "89215",
@@ -194,40 +194,6 @@
     },
     "ttim": "0",
     "GUID": "894ee5a0-9b80-403b-8ff6-9cc459575bee"
-  },
-  {
-    "AlertId": "89219",
-    "Headline": "Howard-bound Red Line Delays",
-    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays following an earlier sick customer at North/Clybourn.  Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are running w/residual delays following an earlier sick customer at North/Clybourn.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2022-11-25T18:58:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89219"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "7648a119-39ee-4b41-a9fd-a3dfad39304a"
   },
   {
     "AlertId": "89220",
