@@ -68,40 +68,6 @@
     "GUID": "eeb5ffd0-4205-4b18-9aca-eb70d91ad868"
   },
   {
-    "AlertId": "89226",
-    "Headline": "Red line Line Delays",
-    "ShortDescription": "Red Line trains are running w/residual delays following earlier unauthorized person on the tracks near Roosevelt. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running w/residual delays following earlier unauthorized person on the tracks near Roosevelt. Service is resuming, allow extra time.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2022-11-26T01:27:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89226"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8ab915f3-7d49-4e72-bf0c-9e28e443eb73"
-  },
-  {
     "AlertId": "89227",
     "Headline": "#9 Ashland Temporary Reroute at Ashland/75th",
     "ShortDescription": "9 Ashland buses are temporarily rerouted via Ashland, 74th, Loomis, 76th, and Ashland due to street blockage near Ashland/75th.",
@@ -134,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "be2f0708-ad32-4917-83e5-ef4a02e08448"
+  },
+  {
+    "AlertId": "89228",
+    "Headline": "Delays Affecting Blue Line Trains",
+    "ShortDescription": "Blue Line trains are experiencing moving delays leaving Forest Park. Expect longer than usual wait times.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue&nbsp;Line trains are experiencing moving delays leaving Forest Park. Expect longer than usual wait times.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Please allow extra travel time.&nbsp; &nbsp;&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2022-11-26T02:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89228"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "19a399c0-9c62-48e0-a10a-4edf2b69e123"
   }
 ]
