@@ -113,5 +113,52 @@
     },
     "ttim": "0",
     "GUID": "001b33da-4446-4bcb-a5e2-a3d495818ed0"
+  },
+  {
+    "AlertId": "89216",
+    "Headline": "#9 Ashland & #X9 Ashland Express Temporary Reroute at Ashland/46th",
+    "ShortDescription": "9 Ashland & X9 Ashland Express buses are temporarily rerouted via Ashland, 43rd, Western, 47th, and Ashland due to, a fire near Ashland/46th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#9 Ashland &amp; #X9 Ashland Express buses are temporarily rerouted via Ashland, 43rd, Western, 47th, and Ashland due to, a fire near Ashland/46th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-11-25T17:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89216"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ea8555ad-2a38-4e45-bb20-1bcfaf6b3bec"
   }
 ]
