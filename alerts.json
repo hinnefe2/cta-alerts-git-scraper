@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "89338",
-    "Headline": "#12 Roosevelt Temporary Eastbound Reroute near Central/Harrison",
-    "ShortDescription": "Update: EB 12 Roosevelt buses are temporarily rerouted via Harrison, Laramie and Roosevelt due to, street blockage near Central/Harrison.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #12 Roosevelt&nbsp;buses are temporarily rerouted via Harrison, Laramie and Roosevelt due to, street blockage near Central/Harrison.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2022-12-01T18:59:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89338"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Roosevelt",
-        "ServiceId": "12",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/12/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "86a4c0fa-99d1-4833-be89-83e9f5876040"
-  },
-  {
     "AlertId": "89339",
     "Headline": "#75 74th-75th Temporary Reroute at 75th/Eberhart",
     "ShortDescription": "75 74th-75th buses are temporarily rerouted via 75th,King Drive,76th,Cottage Grove,and 75th due to,street blockage near 75th/Eberhart.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "3cf47d43-078a-4e24-bf89-d662a7abd9d1"
+  },
+  {
+    "AlertId": "89340",
+    "Headline": "Red Line Service Delayed at Lake",
+    "ShortDescription": "Red Line trains are standing at Lake due to an authorized person on the tracks. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are standing at Lake due to an authorized person on the tracks.</p>\r\n\r\n<p>&nbsp;At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2022-12-02T00:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89340"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "97857d3d-706a-45e7-a7fe-11e4dfb52796"
   }
 ]
