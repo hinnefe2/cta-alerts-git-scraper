@@ -1,57 +1,10 @@
 [
   {
-    "AlertId": "89349",
-    "Headline": "95th-bound Red and Loop-bound Brown Line Delays",
-    "ShortDescription": "95th-bound Red and Loop-bound Brown Line trains are running w/res delays following an earlier mechanical problem on a train near Armitage. Service is resuming.",
-    "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red and Loop-bound Brown Line trains are running w/residual delays following an earlier mechanical problem on a train near Armitage.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2022-12-02T11:14:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89349"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "0f743be9-ecec-44fd-b52e-f3158cd465ab"
-  },
-  {
     "AlertId": "89350",
-    "Headline": "63rd-bound Green Line Service Delayed at Indiana",
-    "ShortDescription": "63rd-bound Green Line trains are standing at Indiana due to police activity. Crews working to restore service.",
+    "Headline": "63rd-bound Green Line Delays",
+    "ShortDescription": "63rd-bound Green Line trains are running w/residual delays following earlier police activity at Indiana. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>63rd-bound Green Line trains are standing at Indiana due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>63rd-bound Green Line trains are running w/residual delays following earlier police activity at Indiana.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -78,40 +31,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "e828839a-a105-4fd5-af4a-f2f89cb80b55"
-  },
-  {
-    "AlertId": "89351",
-    "Headline": "Harlem-bound Green Line trains bypassing Indiana Station",
-    "ShortDescription": "Harlem-bound Green Line trains are running, but not stopping at Indiana due to police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green Line trains are running, but not stopping at Indiana due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
-    },
-    "SeverityScore": "74",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Significant Delays, Station(s) Bypassed",
-    "EventStart": "2022-12-02T11:35:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89351"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "04584a35-506c-4810-9a9e-5935edb4e8fc"
+    "GUID": "4a103ca0-5cb7-4ac2-b906-83cb3e7877fe"
   }
 ]
