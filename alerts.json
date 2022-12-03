@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "AlertId": "89380",
+    "Headline": "Green and Orange Line Service Delayed near Roosevelt",
+    "ShortDescription": "Green and Orange Line trains are standing near Roosevelt due to a fire near the tracks. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green and Orange&nbsp;Line trains are standing near Roosevelt due to a fire near the tracks.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2022-12-03T14:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89380"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Roosevelt",
+          "ServiceId": "41400",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=122"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "bf44d067-eed6-4a9e-814e-2e6eb5175838"
+  }
+]
