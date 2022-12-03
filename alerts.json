@@ -32,5 +32,63 @@
     },
     "ttim": "0",
     "GUID": "dad23811-2d93-435c-8ddb-5f6c927977b4"
+  },
+  {
+    "AlertId": "89366",
+    "Headline": "#56 Milwaukee, #81 Lawrence, and #88 Higgins Temporary Reroute at Millwaukee/Veterans Place",
+    "ShortDescription": "56 Milwaukee, 81 Lawrence, & 88 Higgins buses are temporarily rerouted via Lipps, Lawrence, and Milwaukee due to, street blockage near Milwaukee/Veterans Place",
+    "FullDescription": {
+      "#cdata-section": "<p>#56 Milwaukee, #81 Lawrence, and&nbsp;#88 Higgins buses are temporarily rerouted via Lipps, Lawrence, and Milwaukee due to, street blockage near Milwaukee/Veterans Place.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-03T04:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89366"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Milwaukee",
+          "ServiceId": "56",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/56/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Lawrence",
+          "ServiceId": "81",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/81/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Higgins",
+          "ServiceId": "88",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/88/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "edacd1de-024f-420d-a239-f2e1b2de843e"
   }
 ]
