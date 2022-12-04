@@ -32,5 +32,73 @@
     },
     "ttim": "0",
     "GUID": "88751cff-f2b8-4f9e-93a3-6575c2cf53c1"
+  },
+  {
+    "AlertId": "89385",
+    "Headline": "Blue Line Service Delayed ",
+    "ShortDescription": "Blue Line trains are experiencing delays. Expect longer than usual wait times.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are experiencing delays. Expect longer than usual wait times.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>&nbsp;Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2022-12-04T00:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89385"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "17ab8b48-99b9-45c9-8258-7e28ebc5913d"
+  },
+  {
+    "AlertId": "89386",
+    "Headline": "Brown Line Service Delayed ",
+    "ShortDescription": "Brown Line trains are experiencing delays. Expect longer than usual wait times.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line trains are experiencing delays. Expect longer than usual wait times.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2022-12-04T00:10:00",
+    "EventEnd": "2022-12-04T03:00:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89386"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "76d57e55-97cc-43cd-8a79-4631d0d526e7"
   }
 ]
