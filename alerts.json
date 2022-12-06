@@ -1,36 +1,70 @@
 [
   {
-    "AlertId": "89422",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following an earlier mechanical problem at Grand. Service is resuming, allow extra time.",
+    "AlertId": "89423",
+    "Headline": "#15 Jeffery Local Temporary Northbound Reroute near 47th/Wentworth",
+    "ShortDescription": "NB 15 Jeffery Local buses are temporarily rerouted via 51st, State and 47th, due to street blockage near 47th/Wentworth.",
     "FullDescription": {
-      "#cdata-section": "<p><font face=\"Helvetica\"><span style=\"color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: FreeSans, Helvetica, Arial, sans-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">O&#39;Hare-bound Blue Line trains are running w/residual delays following an earlier mechanical problem at Grand.</span><br style=\"color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: FreeSans, Helvetica, Arial, sans-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; box-sizing: inherit; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" />\r\n<br style=\"color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: FreeSans, Helvetica, Arial, sans-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; box-sizing: inherit; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" />\r\n<span style=\"color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Trains are moving and normal service is being restored.</span><br style=\"color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: FreeSans, Helvetica, Arial, sans-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; box-sizing: inherit; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" />\r\n<br style=\"color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: FreeSans, Helvetica, Arial, sans-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; box-sizing: inherit; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" />\r\n<span style=\"color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: FreeSans, Helvetica, Arial, sans-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Allow extra travel time.</span></font></p>\r\n"
+      "#cdata-section": "<p>Northbound&nbsp;#15 Jeffery Local buses are temporarily rerouted via&nbsp;51st, State and 47th, due to street blockage near 47th/Wentworth.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2022-12-06T11:41:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-06T12:10:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89422"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89423"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Local",
+        "ServiceId": "15",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/15/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "622d4a8e-23b1-4033-a4da-6c735b23449e"
+    "GUID": "10b9498e-5b3f-4f81-9628-3857a72960b6"
+  },
+  {
+    "AlertId": "89424",
+    "Headline": "#51 51st Temporary  Eastbound Reroute near 47th/Wentworth",
+    "ShortDescription": "EB 51 51st buses are temporarily rerouted via 51st, State, 47th and Wentworth, due to street blockage near 47th/Wentworth.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #51 51st&nbsp;buses are temporarily rerouted via 51st, State, 47th and Wentworth, due to street blockage near 47th/Wentworth.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-06T12:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89424"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "51st",
+        "ServiceId": "51",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/51/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cadeb16b-10f1-498f-b41c-a03864c6f81f"
   }
 ]
