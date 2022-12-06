@@ -68,72 +68,59 @@
     "GUID": "f7ed536b-4546-4b56-91b0-5908dc5daad3"
   },
   {
-    "AlertId": "89415",
-    "Headline": "Loop 'L' (elevated lines) Delays",
-    "ShortDescription": "Green, Orange, Purple & Pink Line trains are running w/residual delays following an earlier mechanical problem on a train near Clark/Lake. Service is resuming.",
+    "AlertId": "89416",
+    "Headline": "Howard-bound Yellow Line Delays",
+    "ShortDescription": "Howard-bound Yellow Line trains are running w/residual delays following earlier police activity at Dempster-Skokie. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Green, Orange, Purple &amp; Pink Line trains are running with residual delays following an earlier mechanical problem on a train near Clark/Lake.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Yellow Line trains are running with residual delays following earlier police activity at Dempster-Skokie.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2022-12-06T10:29:00",
+    "EventStart": "2022-12-06T10:45:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89415"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89416"
+    },
+    "ImpactedService": null,
+    "ttim": "0",
+    "GUID": "638b9abe-4324-4d9b-b1ba-9e52a3644fbd"
+  },
+  {
+    "AlertId": "89417",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at Rosemont",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Rosemont due to a door problem on a train. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Rosemont due to a door problem on a train.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2022-12-06T10:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89417"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "2c83f896-3355-4ed3-9343-3410555202a3"
+    "GUID": "376e800e-dbb6-4c47-8f07-b07fea4e9288"
   }
 ]
