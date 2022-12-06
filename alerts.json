@@ -4,14 +4,14 @@
     "Headline": "Delays on Loop 'L' (elevated lines)",
     "ShortDescription": "Brown, Green, Orange, Purple & Pink Line trains are experiencing delays due to a mechanical problem on a train near Adams/Wabash.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown, Green, Orange, Purple &amp; Pink Line trains are experiencing delays due to mechanical problem on a train near Adams/Wabash.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown, Green, Orange, Purple &amp; Pink Line trains are experiencing delays due to mechanical problem on a train near Adams/Wabash.&nbsp;</p>\r\n\r\n<p>Loop &#39;L&#39; trains are being rerouted to the Outer Loop; board trains on the Brown Line platform at Loop stations. At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2022-12-05T18:04:00",
-    "EventEnd": "2022-12-05T18:34:00",
+    "EventEnd": "2022-12-05T19:38:00",
     "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
@@ -66,14 +66,14 @@
       ]
     },
     "ttim": "0",
-    "GUID": "7297d8e5-b90f-42db-ae05-fc2edf0bdf3d"
+    "GUID": "ee511fd8-9600-4ab7-8db9-fe0329d86c99"
   },
   {
     "AlertId": "89407",
-    "Headline": "Red Line Service Delayed near 63rd",
-    "ShortDescription": "Red Line trains are standing near 63rd due to police activity. Crews working to restore service.",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running w/residual delays following earlier police activity at 63rd. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing near 63rd due to police activity.<br />\r\n<br />\r\nAt this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running with residual delays following earlier police activity at 63rd.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -100,6 +100,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "66ae3de2-460e-485b-a0a5-246814b399b0"
+    "GUID": "b5743774-b7a0-4a43-97b8-1669f6661c5e"
+  },
+  {
+    "AlertId": "89408",
+    "Headline": "#79 79th Temporary Reroute near 79th/Central Park",
+    "ShortDescription": "79 79th buses temp. rerouted EB: 79th, Lawndale, 83rd, Southwest Hghway, 79th; WB: 79th, Southwest Highway, 83rd, Lawndale, 79th, near 79th/Central Park.",
+    "FullDescription": {
+      "#cdata-section": "<p>#79 79th buses are temporarily rerouted in both directions near 79th/Central Park, due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via: 79th, Lawndale, 83rd, Southwest Hghway, 79th.</p>\r\n\r\n<p>Westbound buses will operate via: 79th, Southwest Highway, 83rd, Lawndale, 79th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-05T18:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89408"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "13c0069b-c33b-487a-a6ca-16a6c8155e70"
   }
 ]
