@@ -1,49 +1,15 @@
 [
   {
-    "AlertId": "89459",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following earlier sick customer at California. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/residual delays following earlier sick customer at California.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2022-12-07T20:47:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89459"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "59308c94-128a-47d6-89ec-e682e27e1cc0"
-  },
-  {
     "AlertId": "89460",
     "Headline": "O'Hare-bound Blue Line Service Delayed at UIC-Halsted",
     "ShortDescription": "O'Hare-bound Blue Line trains are standing at UIC-Halsted due to a mechanical problem on the train. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at UIC-Halsted due to a mechanical problem on the train.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at UIC-Halsted due to a mechanical problem on the train.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2022-12-07T21:07:00",
     "EventEnd": null,
     "TBD": "1",
@@ -65,6 +31,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "3cfa9482-d92a-48e3-8364-62398a9247ea"
+    "GUID": "04512984-ad9c-4cbb-955a-2ddd440bceab"
   }
 ]
