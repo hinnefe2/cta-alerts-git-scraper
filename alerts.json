@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "89479",
+    "Headline": "Harlem-bound Green and Kimball-bound Brown Line Delays",
+    "ShortDescription": "Harlem-bound Green and Kimball-bound Brown Line trains are running w/residual delays following earlier sick customer at Clark/Lake. Service is resuming.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green and Kimball-bound Brown Line trains are running w/residual delays following earlier sick customer at Clark/Lake.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2022-12-08T20:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89479"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4324e7ee-45a8-4ed9-9816-405e78e7082f"
+  }
+]
