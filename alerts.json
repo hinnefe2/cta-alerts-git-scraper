@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "89490",
+    "Headline": "#26 South Shore Express and #30 South Chicago Temporary Northbound Reroute near Ewing/100th",
+    "ShortDescription": "NB 26 South Shore Express and 30 South Chicago buses are temp rerouted via Ewing, 100th, Avenue L, 98th, and Ewing, due to police activity near Ewing/100th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #26 South Shore Express and #30 South Chicago buses are temporarily rerouted via Ewing, 100th, Avenue L, 98th, and Ewing, due to police activity near Ewing/100th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-09T07:29:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89490"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Chicago",
+          "ServiceId": "30",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/30/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "aca4c348-f637-4168-8150-6e7379209214"
+  }
+]
