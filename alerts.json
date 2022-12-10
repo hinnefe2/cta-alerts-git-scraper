@@ -47,74 +47,6 @@
     "GUID": "88619ba2-fad9-405e-95ce-21c639ce451c"
   },
   {
-    "AlertId": "89505",
-    "Headline": "#75 74th-75th Temporary Reroute at 75th/Colfax",
-    "ShortDescription": "75 74th-75th buses are temporarily rerouted via 75th, Yates, 76th, South Shore Drive and 75th due to, street blockage near 75th/Colfax.",
-    "FullDescription": {
-      "#cdata-section": "<p>#75 74th-75th&nbsp;buses are temporarily rerouted in both directions via 75th, Yates, 76th, South Shore Drive and 75th due to, street blockage near 75th/Colfax.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2022-12-09T20:30:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89505"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "74th-75th",
-        "ServiceId": "75",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/75/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "2b2cfebe-e187-4590-b50e-77ea1eef2543"
-  },
-  {
-    "AlertId": "89506",
-    "Headline": "Eastbound #74 Fullerton Temporary Reroute near Webster/Lincoln",
-    "ShortDescription": "Eastbound 74 Fullerton buses are temporarily rerouted via Fullerton, Halsted, Armitage, Lincoln due to, street blockage near Webster/Lincoln.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #74 Fullerton buses are temporarily rerouted via Fullerton, Halsted, Armitage, Lincoln due to, street blockage near Webster/Lincoln.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2022-12-09T22:21:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89506"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Fullerton",
-        "ServiceId": "74",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/74/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "2c7bc3d1-c834-44c3-b55e-c77b07f99a76"
-  },
-  {
     "AlertId": "89509",
     "Headline": "#53 Pulaski Temporary Reroute at Pulaski/Diversey",
     "ShortDescription": "53 Pulaski buses are temporarily rerouted via Pulaski, Diversey, Central Park, Fullerton, and Pulaski near Pulaski/Diversey.",
@@ -147,5 +79,39 @@
     },
     "ttim": "0",
     "GUID": "418ff59b-755a-4d1f-8f2d-858aaa122964"
+  },
+  {
+    "AlertId": "89510",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following a mechanical problem on the train at Racine. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/residual delays following a mechanical problem on the train at Racine.</p>\r\n\r\n<p>&nbsp;Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2022-12-10T04:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89510"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cb2a7d33-f336-4816-8954-9994e70fe833"
   }
 ]
