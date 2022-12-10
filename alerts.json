@@ -34,37 +34,37 @@
     "GUID": "418ff59b-755a-4d1f-8f2d-858aaa122964"
   },
   {
-    "AlertId": "89512",
-    "Headline": "#30 South Chicago Temporary Reroute near Ewing/100th",
-    "ShortDescription": "30 South Chicago buses are temporarily rerouted ion both directions via Ewing, 100th, Avenue L, 98th, and Ewing, due to street blockage near Ewing/100th.",
+    "AlertId": "89513",
+    "Headline": "Green Line Service Delayed near 43rd",
+    "ShortDescription": "Green Line trains are standing near 43rd. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p style=\"margin: 0px 0px 1em; color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: FreeSans, Helvetica, Arial, sans-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; box-sizing: inherit; orphans: 2; widows: 2; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">#30 South Chicago buses are temporarily rerouted ion both directions via Ewing, 100th, Avenue L, 98th, and Ewing, due to street blockage near Ewing/100th.</p>\r\n\r\n<p style=\"margin: 0px 0px 1em; color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: FreeSans, Helvetica, Arial, sans-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; box-sizing: inherit; orphans: 2; widows: 2; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green&nbsp;Line trains are standing near 43rd.</p>\n\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\n\n<p>Personnel are working to restore service. Allow extra travel time.</p>\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2022-12-10T06:31:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2022-12-10T06:42:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89512"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89513"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Chicago",
-        "ServiceId": "30",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/30/"
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "f316c5ac-195f-4311-9b4b-049f74223340"
+    "GUID": "b60ea1ad-6e13-4fed-bae5-528c107cc02b"
   }
 ]
