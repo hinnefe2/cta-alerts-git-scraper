@@ -82,10 +82,10 @@
   },
   {
     "AlertId": "89534",
-    "Headline": "Howard-bound Red Line Service Delayed at Loyola",
-    "ShortDescription": "Howard-bound Red Line trains are standing at Loyola due to a sick customer. Crews working to restore service.",
+    "Headline": "Howard-bound Red Line Delays",
+    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays following an earlier sick customer at Loyola. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Loyola due to a sick customer.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are running with residual delays following an earlier sick customer at Loyola.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -112,6 +112,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "7a7d5743-1fee-43c8-aabd-66d77ce869cc"
+    "GUID": "9cc84b07-b14c-4b6e-8aad-dc5a30ebad42"
+  },
+  {
+    "AlertId": "89535",
+    "Headline": "Howard-bound Red Line Delays",
+    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays following earlier police activity at Cermak-Chinatown. Service is resuming, allow extra time.  ",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are running with residual delays following earlier police activity at Cermak-Chinatown.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2022-12-11T11:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89535"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cab2f15a-e210-481c-b577-11d02bd495a5"
   }
 ]
