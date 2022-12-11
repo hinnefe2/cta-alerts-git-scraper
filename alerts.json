@@ -1,36 +1,49 @@
 [
   {
-    "AlertId": "89527",
-    "Headline": "#85 Central Temporary Reroute at Central Ave/Henderson",
-    "ShortDescription": "85 Central buses are temporarily rerouted via Central, Irving Park, Austin, Belmont, and Central due to, street blockage near Central Ave/Henderson.",
+    "AlertId": "89516",
+    "Headline": "#55 Garfield and #171 U. of Chicago/Hyde Park Temporary Westbound Reroute near 55th/Blackstone",
+    "ShortDescription": "WB 55 and 171 buses are temporarily rerouted via 55th, Lake Park, 53rd, Woodlawn and 55th, due to street blockage near 55th/Blackstone.",
     "FullDescription": {
-      "#cdata-section": "<p>#85 Central buses are temporarily rerouted via Central, Irving Park, Austin, Belmont, and Central due to, street blockage near Central Ave/Henderson.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound&nbsp; #55 Garfield and #171 U. of Chicago/Hyde Park buses are temporarily rerouted via 55th, Lake Park, 53rd, Woodlawn and 55th, due to street blockage near 55th/Blackstone.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2022-12-11T05:02:00",
-    "EventEnd": "2022-12-14T05:02:00",
-    "TBD": "0",
+    "EventStart": "2022-12-10T08:36:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89527"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89516"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Central",
-        "ServiceId": "85",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/85/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Garfield",
+          "ServiceId": "55",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/55/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "U. of Chicago/Hyde Park",
+          "ServiceId": "171",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/171/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "1cedde3e-02af-4d1e-a401-e9a15cbffdd4"
+    "GUID": "c8df192f-645c-4a9b-9fa5-3c2fefb9d5d5"
   }
 ]
