@@ -47,34 +47,79 @@
     "GUID": "467b2109-77ad-4b0d-b8cf-cc8fa1aabd0b"
   },
   {
-    "AlertId": "89581",
-    "Headline": "95th-bound Red Line Delays",
-    "ShortDescription": "95th-bound Red Line trains are running w/residual delays following earlier mechanical problems at Wellington. Service is resuming, allow extra time.",
+    "AlertId": "89582",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running w/residual delays and congestion following unauthorized person on the tracks. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are running w/residual delays following earlier mechanical problems at Wellington.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are running w/residual delays and congestion following unauthorized person on the tracks.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2022-12-13T18:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89582"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "97dc66f7-f5b9-450c-a77a-a135f8569bc5"
+  },
+  {
+    "AlertId": "89583",
+    "Headline": "Elevator at Chicago Temporarily Out-of-Service",
+    "ShortDescription": "The Kimball- and Linden-bound platform elevator at Chicago (Brown, Purple Lines) is temporarily out-of-service. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>The Kimball- and Linden-bound platform elevator at Chicago (Brown, Purple Lines) is temporarily out-of-service.<br />\r\n<br />\r\nOur crews are working to assess the repair time for this elevator&mdash;this alert will be updated with additional information if/when we can estimate its return to service.</p>\r\n\r\n<p>Crews are working to return this elevator to service as quickly as possible.</p>\r\n\r\n<p>Learn more about the work we do to maintain, repair and upgrade elevators.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2022-12-13T18:26:00",
+    "EventStart": "2022-12-13T19:05:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89581"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89583"
     },
     "ImpactedService": {
       "Service": [
         {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Chicago",
+          "ServiceId": "40710",
+          "ServiceBackColor": "62361b",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=37"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
           }
         },
         {
@@ -91,6 +136,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "915688cb-7889-4148-92d7-52e7908356ce"
+    "GUID": "dcd1f59a-fe81-46e8-8509-6ef90c0b1308"
   }
 ]
