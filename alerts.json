@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "89609",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays  following an earlier mechanical problem at Austin. Service is resuming.",
+    "AlertId": "89610",
+    "Headline": "#53 Pulaski Temporary Southbound Reroute near Pulaski/26th",
+    "ShortDescription": "SB 53 Pulaski buses are temporarily rerouted via Pulaski, 26th, Kostner, 31st, Komensky, and into the terminal, due to police activity near Pulaski/26th.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/residual delays&nbsp; following an earlier mechanical problem at Austin.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #53 Pulaski buses are temporarily rerouted via Pulaski, 26th, Kostner, 31st, Komensky, and into the terminal, due to police activity near Pulaski/26th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2022-12-15T07:20:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-15T07:43:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89609"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89610"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pulaski",
+        "ServiceId": "53",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/53/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "171d02ea-f18f-44f4-a7c0-4ae43ae21119"
+    "GUID": "5ead2bd2-3516-41de-9008-2685c2580a02"
   }
 ]
