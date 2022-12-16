@@ -1,1 +1,117 @@
-[]
+[
+  {
+    "AlertId": "89632",
+    "Headline": "Harlem-bound Green and 54th/Cermak-bound Pink Line Delays",
+    "ShortDescription": "Harlem-bound Green and 54th/Cermak-bound Pink Line trains are running w/residual delays following an earlier door problem at Clinton. Service is resuming.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green and 54th/Cermak-bound Pink Line trains are running w/residual delays following an earlier door problem at Clinton.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2022-12-16T10:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89632"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "559eeaad-00e1-4917-952a-051b727f6dfb"
+  },
+  {
+    "AlertId": "89633",
+    "Headline": "#81W West Lawrence Temporary Eastbound Reroute near Lawrence/Milwaukee",
+    "ShortDescription": "Eastbound 81W West Lawrence buses are temporarily rerouted via Lawrence, Central, HIggins, and Milwaukee, due to street blockage near Lawrence/Milwaukee.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #81W West Lawrence buses are temporarily rerouted via Lawrence, Central, HIggins, and Milwaukee, due to street blockage near Lawrence/Milwaukee.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-16T10:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89633"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "West Lawrence",
+        "ServiceId": "81W",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/81w/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "85667580-6389-4e8f-9d06-9eefd6ad7e99"
+  },
+  {
+    "AlertId": "89634",
+    "Headline": "91 Austin Temporary Eastbound Reroute near Lawrence/MIlwaukee",
+    "ShortDescription": "Eastbound 91 Austin buses are temporarily rerouted via Austin, Lawrence, Central, Higgins, and Milwaukee, due to street blockage near Lawrence/MIlwaukee.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #91 Austin buses are temporarily rerouted via Austin, Lawrence, Central, Higgins, and Milwaukee, due to street blockage near Lawrence/Milwaukee.</p>\r\n\r\n<p>Westbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-16T10:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89634"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Austin",
+        "ServiceId": "91",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/91/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "55628e1d-f7b0-48ee-829e-e871e44c4a16"
+  }
+]
