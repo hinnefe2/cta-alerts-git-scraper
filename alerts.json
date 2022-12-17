@@ -6,10 +6,10 @@
     "FullDescription": {
       "#cdata-section": "<p>Red Line trains are running w/residual delays following earlier unauthorized person on the tracks at Grand.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2022-12-17T13:11:00",
     "EventEnd": null,
     "TBD": "1",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "66df9b92-70ba-45b4-b1c6-18d9f94cda6c"
+    "GUID": "f441922e-d565-4ea7-95ad-e1ebc20b7406"
+  },
+  {
+    "AlertId": "89660",
+    "Headline": "#75 74th-75th Temporary Reroute at 75th/Exchange",
+    "ShortDescription": "75 74th-75th buses are temporarily rerouted via: 75th, Exchange, 76th, Coles, and 75th, due to, street blockage, near 75th/Exchange.",
+    "FullDescription": {
+      "#cdata-section": "<p>#75 74th-75th&nbsp;buses are temporarily rerouted in both directions via: 75th, Exchange, 76th, Coles, and 75th, due to, street blockage, near 75th/Exchange.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-17T13:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89660"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "74th-75th",
+        "ServiceId": "75",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/75/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e3ccbfc6-2d3f-4ae0-be56-d67125a08a7d"
   }
 ]
