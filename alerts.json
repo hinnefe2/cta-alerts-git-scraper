@@ -1,83 +1,15 @@
 [
   {
-    "AlertId": "89649",
-    "Headline": "#8 Halsted Temporary Reroute at Halsted/Chicago",
-    "ShortDescription": "8 Halsted buses are temporarily rerouted via Halsted, Milwaukee, Chicago and Halsted, due to street blockage near Halsted/Chicago.",
-    "FullDescription": {
-      "#cdata-section": "<p>#8 Halsted buses are temporarily rerouted in both directions via Halsted, Milwaukee, Chicago and Halsted, due to street blockage near Halsted/Chicago.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2022-12-17T04:31:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89649"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Halsted",
-        "ServiceId": "8",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/8/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "90bd65de-7fb8-475b-b3f2-209c9a03ccc4"
-  },
-  {
-    "AlertId": "89653",
-    "Headline": "#65 Grand Temporary Reroute near Halsted/Chicago",
-    "ShortDescription": "65 Grand buses temp. rerouted EB: Grand, Green, Milwaukee, Ogden, and Chicago; WB: Chicago, Ogden, Milwaukee, and Halsted, due to street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>#65 Grand buses are temporarily rerouted in both directions near Halsted/Chicago, due to street blockage.</p>\r\n\r\n<p>Eastbound&nbsp;buses will operate via Grand, Green, Milwaukee, Ogden, and Chicago.</p>\r\n\r\n<p>Westbound&nbsp;buses will operate via Chicago, Ogden, Milwaukee, and Halsted.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2022-12-17T06:14:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89653"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Grand",
-        "ServiceId": "65",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/65/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4bff4c39-0a19-458a-9859-cf796c8e699f"
-  },
-  {
     "AlertId": "89654",
-    "Headline": "No trains between 54th/Cermak and 18th",
-    "ShortDescription": "Pink Line service has been temporarily suspended between 54th/Cermak and 18th due to a police investigation.",
+    "Headline": "Pink Line Delays",
+    "ShortDescription": "Pink Line trains are running w/residual delays following an earlier police investigation at Central Park. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Pink Line service has been temporarily suspended between 54th/Cermak and 18th due to a a police investigation.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between the &#39;Loop&#39;&nbsp;and 18th at this time.</strong></p>\r\n\r\n<p>Shuttle buses are available between 18th and 54th/Cermak&nbsp;to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as the #21 Cermak bus route, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Pink Line trains are running with residual delays following an earlier police investigation at Central Park.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2022-12-17T06:21:00",
     "EventEnd": null,
     "TBD": "1",
@@ -99,6 +31,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "08e0ec4f-ab3c-4fa5-b6a8-fa0ae2f80997"
+    "GUID": "fbfddd21-9c11-45ca-919b-42cedc14e252"
   }
 ]
