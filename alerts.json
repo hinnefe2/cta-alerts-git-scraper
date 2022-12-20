@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "89728",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line  trains are running w/residual delays following earlier police activity at Illinois Medical District. Service is resuming.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line&nbsp; trains are running w/residual delays following earlier police activity at Illinois Medical District.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2022-12-20T09:17:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89728"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "09f8edef-0a55-48d9-841f-a8a6475da1e9"
-  },
-  {
     "AlertId": "89729",
     "Headline": "Red Line Delays",
     "ShortDescription": "Red Line trains are running w/residual delays following earlier unauthorized person on the tracks at Chicago. Service is resuming, allow extra time.",
@@ -69,10 +35,10 @@
   },
   {
     "AlertId": "89730",
-    "Headline": "Green and Pink Line Service Delayed at Clinton",
-    "ShortDescription": "Green and Pink Line trains are standing near Clinton due to an unauthorized person on the tracks. Crews working to restore service.",
+    "Headline": "Green and Pink Line Delays",
+    "ShortDescription": "Green and Pink Line trains are running w/residual delays following an earlier unauthorized person on the tracks near Clinton. Service is resuming.",
     "FullDescription": {
-      "#cdata-section": "<p>Green and Pink Line trains are standing near Clinton due to an unauthorized person on the tracks.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green and Pink Line trains are running w/residual delays following an earlier unauthorized person on the tracks near Clinton.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -112,6 +78,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "62d81d60-77ed-4085-8e9c-3665949ac90c"
+    "GUID": "e91cf23b-108c-41f9-8c04-61bae695c46b"
+  },
+  {
+    "AlertId": "89731",
+    "Headline": "Northbound #82 Kimball-Homan Temporary Reroute near Lawndale/27th",
+    "ShortDescription": "Northbound 82 Kimball-Homan buses are temporarily rerouted via Central Park, 26th, and Lawndale due to, street blockage near Lawndale/27th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #82 Kimball-Homan buses are temporarily rerouted via Central Park, 26th, and Lawndale due to, street blockage near Lawndale/27th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-20T09:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89731"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kimball-Homan",
+        "ServiceId": "82",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/82/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "79153979-de65-4f33-8638-85f0cee28354"
   }
 ]
