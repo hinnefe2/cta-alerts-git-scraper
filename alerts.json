@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "89728",
-    "Headline": "O-Hare-bound Blue Line Service Delayed at Illinois Medical District",
-    "ShortDescription": "O-Hare-bound Blue Line trains are standing at Illinois Medical District due to police activity. Crews working to restore service.",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line  trains are running w/residual delays following earlier police activity at Illinois Medical District. Service is resuming.",
     "FullDescription": {
-      "#cdata-section": "<p>O-Hare-bound Blue Line trains are standing at Illinois Medical District due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line&nbsp; trains are running w/residual delays following earlier police activity at Illinois Medical District.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "12d34bb9-fb34-47c8-9635-d3aad08bb604"
+    "GUID": "09f8edef-0a55-48d9-841f-a8a6475da1e9"
+  },
+  {
+    "AlertId": "89729",
+    "Headline": "Red Line Service Delayed near Chicago",
+    "ShortDescription": "Red Line trains are standing near Chicago due to a unauthorized person on the tracks. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are standing near Chicago due to a unauthorized person on the tracks.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2022-12-20T09:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89729"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "1af12ef6-7427-43de-8b12-6e74712a5042"
   }
 ]
