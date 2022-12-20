@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "89729",
-    "Headline": "Red Line Service Delayed near Chicago",
-    "ShortDescription": "Red Line trains are standing near Chicago due to a unauthorized person on the tracks. Crews working to restore service.",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running w/residual delays following earlier unauthorized person on the tracks at Chicago. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing near Chicago due to a unauthorized person on the tracks.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running w/residual delays following earlier unauthorized person on the tracks at Chicago.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -65,6 +65,53 @@
       }
     },
     "ttim": "0",
-    "GUID": "1af12ef6-7427-43de-8b12-6e74712a5042"
+    "GUID": "90d30be8-5820-4fc8-bc5a-c5f2bcf0fcae"
+  },
+  {
+    "AlertId": "89730",
+    "Headline": "Green and Pink Line Service Delayed at Clinton",
+    "ShortDescription": "Green and Pink Line trains are standing near Clinton due to an unauthorized person on the tracks. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green and Pink Line trains are standing near Clinton due to an unauthorized person on the tracks.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2022-12-20T09:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89730"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "62d81d60-77ed-4085-8e9c-3665949ac90c"
   }
 ]
