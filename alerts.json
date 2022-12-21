@@ -1,70 +1,36 @@
 [
   {
-    "AlertId": "89731",
-    "Headline": "Northbound #82 Kimball-Homan Temporary Reroute near Lawndale/27th",
-    "ShortDescription": "Northbound 82 Kimball-Homan buses are temporarily rerouted via Central Park, 26th, and Lawndale due to, street blockage near Lawndale/27th.",
+    "AlertId": "89740",
+    "Headline": "#79 79th Temporary Reroute at Cicero/78th",
+    "ShortDescription": "79 79th buses are temporarily rerouted via  79th, Pulaski, 76th,Ford City Mall due to, street blockage near Cicero/ 78th.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #82 Kimball-Homan buses are temporarily rerouted via Central Park, 26th, and Lawndale due to, street blockage near Lawndale/27th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#79 79th buses are temporarily rerouted via&nbsp; 79th, Pulaski, 76th,Ford City Mall due to, street blockage near Cicero/ 78th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2022-12-20T09:51:00",
+    "EventStart": "2022-12-20T20:05:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89731"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89740"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
+        "ServiceName": "79th",
+        "ServiceId": "79",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "79153979-de65-4f33-8638-85f0cee28354"
-  },
-  {
-    "AlertId": "89739",
-    "Headline": "Red Line Delays",
-    "ShortDescription": "Red Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Roosevelt. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Roosevelt.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2022-12-20T19:16:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89739"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e7f22f40-e84e-4954-b608-1a237c813323"
+    "GUID": "4ca891ce-3ea2-4868-9f10-9da132fbfd74"
   }
 ]
