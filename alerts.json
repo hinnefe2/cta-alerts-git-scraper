@@ -1,49 +1,36 @@
 [
   {
-    "AlertId": "89749",
-    "Headline": "95th-bound Red and Loop-bound Purple Line Exp Delays",
-    "ShortDescription": "95th-bound Red and Loop-bound Purple Line Exp trains are running with residual delays following an earlier mechanical problem at Wilson.Service is resuming,",
+    "AlertId": "89750",
+    "Headline": "O'Hare-bound Blue Line Service Delayed at Oak Park",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Oak Park due to a door problem. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red and Loop-bound Purple Line Exp trains are running with&nbsp;residual delays following an earlier mechanical problem at Wilson.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Oak Park due to a door problem.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2022-12-21T08:36:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2022-12-21T09:03:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89749"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89750"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "b055c73b-1e01-4c18-956b-c521ad263bd2"
+    "GUID": "7087db75-0260-49d2-b3fd-4a4b56f45b01"
   }
 ]
