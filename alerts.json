@@ -545,10 +545,10 @@
   },
   {
     "AlertId": "89783",
-    "Headline": "#18 16th-18th Temporary Westbound Reroute near 16th/46th Court",
-    "ShortDescription": "Westbound 18 16th-18th buses are temporarily rerouted via 16th,Pulask,Roosevelt,Roosevelt,Cicero,16th,Terminal due to,street blockage near 16th/46th Court.",
+    "Headline": "#18 16th-18th Temporary Reroute at 16th/46th Court ",
+    "ShortDescription": "18 16th-18th buses are temporarily rerouted in both directions via 16th,Kostner,Roosevelt,Cicero,16th,Terminal due to, street blockage near 16th/46th Court.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound #18 16th-18th buses are temporarily rerouted via 16th,Pulask,Roosevelt,Roosevelt,Cicero,16th,Terminal due to,street blockage near 16th/46th Court.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#18 16th-18th buses are temporarily rerouted in both directions via 16th,Kostner,Roosevelt,Cicero,16th,Terminal due to, street blockage near 16th/46th Court.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -575,6 +575,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "6a329967-b4a0-4bb7-aa6f-75244b46cdbe"
+    "GUID": "674778c0-5181-43ed-a5e5-dd745cbd2862"
+  },
+  {
+    "AlertId": "89784",
+    "Headline": "#21 Cermak Temporary Westbound Reroute near 16th/46th Court",
+    "ShortDescription": "Westbound 21 Cermak  buses are temporarily rerouted via Kostner, Roosevelt,Cicero due to,street blockage near 16th/46th Court.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #21 Cermak&nbsp; buses are temporarily rerouted via Kostner, Roosevelt,Cicero due to,street blockage near 16th/46th Court.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-22T17:39:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89784"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cermak",
+        "ServiceId": "21",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/21/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "439bd622-0b46-4756-ba79-73bda41a23ed"
   }
 ]
