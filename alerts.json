@@ -155,5 +155,120 @@
     },
     "ttim": "0",
     "GUID": "065bb9c1-c03c-443a-89a1-82422c219b4f"
+  },
+  {
+    "AlertId": "89769",
+    "Headline": "Temporary Reroute Away From DuSable Lake Shore Drive",
+    "ShortDescription": "2 and 28 buses are temporarily rerouted via via Lake Park, 47th, King Dr, Cermak, Michigan, Balbo due to severe weather.",
+    "FullDescription": {
+      "#cdata-section": "<p>Buses, in both directions, are rerouted via Lake Park, 47th, King Drive, Cermak, Michigan and Balbo.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-22T15:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89769"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Hyde Park Express",
+          "ServiceId": "2",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/2/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stony Island",
+          "ServiceId": "28",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/28/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "04b02ecb-adb1-4407-8673-2cc5bed16889"
+  },
+  {
+    "AlertId": "89770",
+    "Headline": "Temporary Reroute Away From DuSable Lake Shore Drive",
+    "ShortDescription": "6 buses are temporarily rerouted NB via Lake Park, 47th, King Dr, Cermak to Michigan. SB via reverse from Balbo/Michigan, due to severe weather.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound buses are rerouted via Lake Park, 47th, King Drive and Cermak then resume their normal route on Michigan.</p>\r\n\r\n<p>Southbound buses are rerouted via the same streets, starting after Balbo/Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-22T15:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89770"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8c7f2076-ec0d-4f7e-9642-8845965d6d10"
+  },
+  {
+    "AlertId": "89771",
+    "Headline": "Temporary Reroute Away From DuSable Lake Shore Drive",
+    "ShortDescription": "J14 buses are temporarily rerouted via Jeffery, 67th, Stony Isl, 57th, Hyde Pk, Lake Pk, 47th, King Dr, Cermak, Michigan and Balbo, due to severe weather.",
+    "FullDescription": {
+      "#cdata-section": "<p>Buses, in both directions, are rerouted via Jeffery, 67th, Stony Island, 57th, Hyde Park, Lake Park, 47th, King Drive, Cermak, Michigan and Balbo.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-22T15:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89771"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Jump",
+        "ServiceId": "J14",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "022fdcec-590e-4fee-be65-4c545c146836"
   }
 ]
