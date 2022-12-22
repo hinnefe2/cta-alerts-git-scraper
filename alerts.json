@@ -159,9 +159,9 @@
   {
     "AlertId": "89769",
     "Headline": "Temporary Reroute Away From DuSable Lake Shore Drive",
-    "ShortDescription": "2 and 28 buses are temporarily rerouted via via Lake Park, 47th, King Dr, Cermak, Michigan, Balbo due to severe weather.",
+    "ShortDescription": "2 and 28 buses are temporarily rerouted via Lake Park, 47th, King Dr, Cermak, Michigan, Balbo due to roadway conditions from severe weather.",
     "FullDescription": {
-      "#cdata-section": "<p>Buses, in both directions, are rerouted via Lake Park, 47th, King Drive, Cermak, Michigan and Balbo.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Buses, in both directions, are rerouted via Lake Park, 47th, King Drive, Cermak, Michigan and Balbo due to roadway conditions from severe weather.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -201,7 +201,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "04b02ecb-adb1-4407-8673-2cc5bed16889"
+    "GUID": "7567029d-e02e-4852-99d2-23241e2ad89c"
   },
   {
     "AlertId": "89770",
@@ -270,5 +270,107 @@
     },
     "ttim": "0",
     "GUID": "022fdcec-590e-4fee-be65-4c545c146836"
+  },
+  {
+    "AlertId": "89772",
+    "Headline": "Temporary Reroute Away From DuSable Lake Shore Drive",
+    "ShortDescription": "26 buses are temporarily rerouted via Jeffery, 67th, Stony Isl, 57th, Hyde Pk, Lake Pk, 47th, King Dr, Cermak, Michigan and Balbo, due to severe weather.",
+    "FullDescription": {
+      "#cdata-section": "<p>Buses, in both directions, are rerouted via Jeffery, 67th, Stony Island, 57th, Hyde Park, Lake Park, 47th, King Drive, Cermak, Michigan and Balbo.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-22T15:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89772"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Shore Express",
+        "ServiceId": "26",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/26/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d143cd0f-9a76-4a76-bd02-fbcfeadaad5c"
+  },
+  {
+    "AlertId": "89773",
+    "Headline": "Temporary Reroute Away From DuSable Lake Shore Drive",
+    "ShortDescription": "134 buses are temporarily rerouted via Wacker, Michigan, LSDr, LaSalle and Stockton, due to severe weather.",
+    "FullDescription": {
+      "#cdata-section": "<p>Buses, in both directions, are rerouted via Wacker, Michigan, Lake Shore Drive, LaSalle and Stockton.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-22T15:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89773"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Stockton/LaSalle Express",
+        "ServiceId": "134",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/134/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9e2dec50-fea7-44d6-996c-6084d7c78bc2"
+  },
+  {
+    "AlertId": "89774",
+    "Headline": "Temporary Reroute Away From DuSable Lake Shore Drive",
+    "ShortDescription": "135 buses temporarily rerouted via NB via Wckr, Mch, LSDr, LaSalle, Stktn, Cannon, Sheridan to LSDr; SB LSDr, LSD West, Cannon, Flrtn, Stktn, LaS, LSDr, Mich.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound buses are rerouted via Wacker, Michigan, Lake Shore Drive, LaSalle, Stockton, Cannon, Sheridan to Lake Shore Drive.</p>\r\n\r\n<p>Southbound buses are rerouted via Lake Shore Drive, Lake Shore Drive West, Cannon, Fullerton, Stockton, LaSalle, Lake Shore Drive and Michigan, to Wacker.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-22T15:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89774"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clarendon/LaSalle Express",
+        "ServiceId": "135",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/135/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f0d4866e-dd74-44e8-85f5-6dccb52797a3"
   }
 ]
