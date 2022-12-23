@@ -137,6 +137,74 @@
     "GUID": "022fdcec-590e-4fee-be65-4c545c146836"
   },
   {
+    "AlertId": "89778",
+    "Headline": "Temporary Reroute Away From DuSable Lake Shore Drive",
+    "ShortDescription": "146 buses temp rerouted NB via Michigan, LSDr, LaSalle, Stockton, Cannon, Sheridan, LSDr; SB LSDr, LSD West, Cannon, Flrtn, Stockton, LaSalle, LSDr & Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p>Buses are temporarily rerouted in both directions&nbsp;due to roadway conditions from severe weather:</p>\r\n\r\n<ul>\r\n\t<li><strong>Northbound </strong>buses are rerouted via Michigan, Lake Shore Drive, LaSalle, Stockton, Cannon, Sheridan and Lake Shore Drive.</li>\r\n\t<li><strong>Southbound </strong>buses are rerouted via Foster, Marine, Lake Shore Drive, Lake Shore Drive West, Cannon, Fullerton, Stockton, LaSalle, Lake Shore Drive and Michigan.&nbsp;</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-22T16:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89778"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Inner Lake Shore/Michigan Express",
+        "ServiceId": "146",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/146/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "62883205-027b-406d-943c-97a6b2b84f01"
+  },
+  {
+    "AlertId": "89779",
+    "Headline": "Temporary Reroute Away From DuSable Lake Shore Drive",
+    "ShortDescription": "147 buses temp rerouted NB via Michigan, Inner, LaSalle, Stockton, Cannon, Sheridan, LSDr; SB Inner, LSD West, Cannon, Flrtn, Stockton, LaSalle, Inner, Mich.\r\n",
+    "FullDescription": {
+      "#cdata-section": "<p>Buses are temporarily rerouted in both directions due to roadway conditions from severe weather.</p>\r\n\r\n<ul>\r\n\t<li><strong>Northbound </strong>buses are rerouted via Michigan, Lake Shore Drive, LaSalle, Stockton, Cannon, Sheridan, and Lake Shore Drive.</li>\r\n\t<li><strong>Southbound </strong>buses are rerouted via Lake Shore Drive, Lake Shore Drive West, Cannon, Fullerton, Stockton, LaSalle, Lake Shore Drive and Michigan.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-22T16:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89779"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Outer DuSable Lake Shore Express",
+        "ServiceId": "147",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/147/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "55b9695c-40a0-4b47-8fae-4a3884eade92"
+  },
+  {
     "AlertId": "89808",
     "Headline": "Orange Line Experiencing Delays; Boarding change at Pulaski",
     "ShortDescription": "Orange Line service running w/delays due to earlier track switching problems at Midway; board all trains on the Midway-bound side at Pulaski.",
