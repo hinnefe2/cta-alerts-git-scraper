@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "89777",
-    "Headline": "Temporary Reroute Away From DuSable Lake Shore Drive   ",
-    "ShortDescription": "143 Stockton/Michigan buses are temporarily rerouted via Michigan, LSDr, LaSalle and Stockton.",
-    "FullDescription": {
-      "#cdata-section": "<p>Buses are temporarily rerouted via Michigan, Lake Shore Drive, LaSalle and Stockton due to roadway conditions from severe weather.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2022-12-22T15:54:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89777"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Stockton/Michigan Express",
-        "ServiceId": "143",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/143/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b17d68a0-9e08-4be7-a2ee-5b78eb9e1aef"
-  },
-  {
     "AlertId": "89778",
     "Headline": "Temporary Reroute Away From DuSable Lake Shore Drive",
     "ShortDescription": "146 buses temp rerouted NB via Michigan, LSDr, LaSalle, Stockton, Cannon, Sheridan, LSDr; SB LSDr, LSD West, Cannon, Flrtn, Stockton, LaSalle, LSDr & Michigan.",
@@ -100,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "55b9695c-40a0-4b47-8fae-4a3884eade92"
-  },
-  {
-    "AlertId": "89808",
-    "Headline": "Normal Orange Line Service Resumes at Pulaski",
-    "ShortDescription": "Normal Orange Line service has resumed at Pulaki after earlier track switching problems.",
-    "FullDescription": {
-      "#cdata-section": "<p>Normal Orange Line service has resumed at Pulaki after earlier track switching problems.</p>\r\n\r\n<p><span style=\"color: #0d1218\">Trains are boarding normally at Pulaski.</span></p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2022-12-23T03:49:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89808"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Orange Line",
-        "ServiceId": "Org",
-        "ServiceBackColor": "f9461c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/orangeline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c50840ee-4bd3-4f5d-9221-53010a061f9f"
   }
 ]
