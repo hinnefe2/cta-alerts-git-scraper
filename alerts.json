@@ -548,12 +548,12 @@
     "Headline": "Orange Line Experiencing Delays; Boarding change at Pulaski",
     "ShortDescription": "Orange Ln srvc running w/delays due to earlier track switching prob at Midway; board all trains on the Midway-bnd side at Pulaski. Shuttle bus Pulaski to Midway",
     "FullDescription": {
-      "#cdata-section": "<p>Orange Line service running w/delays due to earlier track switching problems at Midway.</p>\r\n\r\n<p>Trains, in both directions, are running on the same track at&nbsp;Pulaski.</p>\r\n\r\n<p>Board/exit all trains on the Midway-bound side of the platform at Pulaski.</p>\r\n\r\n<p>Shutttle bus available Pulaski to Midway.</p>\r\n\r\n<p>We&#39;re working to restore normal service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Orange Line service running w/delays due to earlier track switching problems at Midway.</p>\r\n\r\n<p>Trains, in both directions, are running on the same track at&nbsp;Pulaski.</p>\r\n\r\n<p>Board/exit all trains on the Midway-bound side of the platform at Pulaski.</p>\r\n\r\n<p>Shuttle bus available Pulaski to Midway.</p>\r\n\r\n<p>We&#39;re working to restore normal service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2022-12-23T03:49:00",
     "EventEnd": null,
     "TBD": "1",
@@ -575,7 +575,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "2b014485-57ae-48b6-979b-bee2cd281212"
+    "GUID": "e3d3defe-5d16-4e75-bf6a-9fe959591e4c"
   },
   {
     "AlertId": "89814",
@@ -610,5 +610,39 @@
     },
     "ttim": "0",
     "GUID": "0de02fd6-f0b5-40f1-83ad-c6011cea5d4f"
+  },
+  {
+    "AlertId": "89815",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following an earlier mechanical problem at Kedzie-Homan. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/residual delays following an earlier mechanical problem at Kedzie-Homan.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2022-12-23T06:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89815"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ecfa0fda-8418-4359-b76b-275896520132"
   }
 ]
