@@ -1,16 +1,16 @@
 [
   {
     "AlertId": "89845",
-    "Headline": "Green Line No trains between Harlem and Ashland/Lake",
-    "ShortDescription": "Green Line service has been temporarily suspended between Harlem and Ashland/Lake due to track switching problems.",
+    "Headline": "Green Line Delays",
+    "ShortDescription": "Green Line trains are running w/residual delays following earlier track switching problems at Harlem. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Green Line service has been temporarily suspended between Harlem and Ashland/Lake due to track switching problems.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between 63rd Terminals&nbsp;and Ashland/Lake&nbsp;at this time.</strong></p>\r\n\r\n<p>Shuttle buses are available between Harlem and Ashland/Lake&nbsp;to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Board the Pink Line at Ashland/Lake for continuing service to the Loop.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Service on the Green Line has&nbsp;resumed, trains are&nbsp;running with residual delays following earlier track switching problems at Harlem.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2022-12-23T16:09:00",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2022-12-23T18:10:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
@@ -31,7 +31,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "718f280b-8ef6-4602-95f6-d378ccecb769"
+    "GUID": "b56ce828-c42d-43c8-9d6e-5594a5e655f4"
   },
   {
     "AlertId": "89849",
@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "c1d398a4-603d-40d8-ae13-d9b9137f8845"
+  },
+  {
+    "AlertId": "89850",
+    "Headline": "#8 Halsted Temporary Northbound Reroute near Halsted/Western",
+    "ShortDescription": "NB 8 Halsted buses are temporarily rerouted via: Halsted, Western, Lincoln, and Halsted, due to, street blockage, near Halsted/Western.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound&nbsp;#8 Halsted buses are temporarily rerouted via: Halsted, Western, Lincoln, and Halsted, due to, street blockage, near Halsted/Western.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-23T18:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89850"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Halsted",
+        "ServiceId": "8",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/8/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f50f7725-0234-4754-a3b9-3a0cc33a922f"
   }
 ]
