@@ -68,37 +68,37 @@
     "GUID": "f50f7725-0234-4754-a3b9-3a0cc33a922f"
   },
   {
-    "AlertId": "89858",
-    "Headline": "#29 State Temporary Southbound Reroute near 51st/State",
-    "ShortDescription": "SB 29 State buses are temporarily rerouted via: State, 51st, Wabash, 55th and State, due to, street blockage, near 51st/State.",
+    "AlertId": "89860",
+    "Headline": "Purple Line Experiencing Delays; Boarding change at Howard",
+    "ShortDescription": "Purple Line service running; board all Purple Line trains on the Howard-bound side at Howard.",
     "FullDescription": {
-      "#cdata-section": "<p>Southbound&nbsp;#29 State&nbsp;buses are temporarily rerouted via:&nbsp;State, 51st, Wabash, 55th and State, due to, street blockage, near 51st/State.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Purple Line service is running with delays.</p>\r\n\r\n<p>Board/exit all Purple Line trains on the Howard-bound side of the platform at Howard.</p>\r\n\r\n<p>We&#39;re working to restore normal service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2022-12-23T20:02:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2022-12-23T20:15:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89858"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89860"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "State",
-        "ServiceId": "29",
-        "ServiceBackColor": "059",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "1d51ca0c-3bb4-4405-979e-414b2f50603a"
+    "GUID": "28c5822b-d686-4e07-b6b4-32566c3c83b5"
   }
 ]
