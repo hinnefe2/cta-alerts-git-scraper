@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "89888",
+    "Headline": "#8 Halsted Temporary Reroute at Halsted/59th",
+    "ShortDescription": "8 Halsted  buses are temporarily rerouted via Halsted, 59th, Morgan, 61st and Halsted, due to street blockage near Halsted/59th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#8 Halsted buses are temporarily rerouted in both directions via Halsted, 59th, Morgan, 61st and Halsted, due to street blockage near Halsted/59th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-24T20:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89888"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Halsted",
+        "ServiceId": "8",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/8/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "1a1202fa-0e36-4be3-ae2e-3d1925b223b5"
+  },
+  {
+    "AlertId": "89889",
+    "Headline": "#59 59th/61st Temporary Reroute at Halsted/59th",
+    "ShortDescription": "59 59th/61st buses are temporarily rerouted via 59th, Union, 58th, Morgan and 59th, due to street blockage near Halsted/59th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#59 59th/61st buses are temporarily rerouted in both directions via 59th, Union, 58th, Morgan and 59th, due to street blockage near Halsted/59th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-24T20:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89889"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "59th/61st",
+        "ServiceId": "59",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/59/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "fc9105bd-e7da-4125-b482-73a4202d0823"
+  }
+]
