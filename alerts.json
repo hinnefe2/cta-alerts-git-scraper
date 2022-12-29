@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "89938",
-    "Headline": "#20 Madison Temporary Eastbound Reroute near Madison/Laramie",
-    "ShortDescription": "EB 20 Madison buses are temporarily rerouted via Madison, Laramie, Washington, Cicero, and Madison due to, police activity near Madison/Laramie.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #20 Madison buses are temporarily rerouted via Madison, Laramie, Washington, Cicero, and Madison due to, police activity near Madison/Laramie.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2022-12-28T22:22:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89938"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Madison",
-        "ServiceId": "20",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/20/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "05f7e6d0-d917-4683-b96f-321041fdc0a6"
-  },
-  {
     "AlertId": "89939",
     "Headline": "Update: Howard-bound Subway Trains Rerouted to Elevated Tracks",
     "ShortDescription": "Update: Howard-bound Red Line subway trains are temporarily rerouted to the elevated tracks between Cermak and Fullerton due to a police investigation.",
@@ -100,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "f838ab14-3322-4b1f-af85-ca2a39c24b3d"
-  },
-  {
-    "AlertId": "89942",
-    "Headline": "95th-bound Red Line Delays",
-    "ShortDescription": "95th-bound Red Line trains are running w/residual delays following earlier police activity at Wilson. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are running w/residual delays following earlier police activity at Wilson.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2022-12-29T01:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89942"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "3192dae4-0e28-4bd3-adfd-9c7ea4954545"
   }
 ]
