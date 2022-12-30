@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "89955",
+    "Headline": "#9 Ashland, #X9 Ashland Express Temporary Northbound Reroute near Ashland/89th",
+    "ShortDescription": "NB 9 Ashland, X9 Ashland Exp buses are temporarily rerouted via Ashland, 95th, Vincennes, 87th and Ashland: due to, street blockage near Ashland/89th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #9 Ashland, #X9 Ashland Express&nbsp;buses are temporarily rerouted via Ashland, 95th, Vincennes, 87th and Ashland: due to, street blockage near Ashland/89th.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2022-12-29T19:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=89955"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5c5bf91c-ca0c-47f3-9c55-13dd37c4824e"
+  }
+]
