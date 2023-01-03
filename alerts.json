@@ -70,7 +70,7 @@
   },
   {
     "AlertId": "90011",
-    "Headline": "Temporary Reroute Away From DuSable Lake Shore Drive",
+    "Headline": "#146 Inner Lake Shore/Michigan Express Temporary Reroute Away From DuSable Lake Shore Drive",
     "ShortDescription": "146 buses temp. NB via Michigan,Inner, LaSalle,Stockton,Cannon, Sheridan,LSDr;SB Inner,LSD West,Cannon,Flrtn,Stktn,Las,Inner,Mich\r\n",
     "FullDescription": {
       "#cdata-section": "<p>Buses are temporarily rerouted in both directions, due to roadway conditions from severe weather:</p>\r\n\r\n<p>Northbound buses are rerouted via Michigan, Lake Shore Drive, LaSalle, Stockton, Cannon, Sheridan and Lake Shore Drive.<br />\r\nSouthbound buses are rerouted via Foster, Marine, Lake Shore Drive, Lake Shore Drive West, Cannon, Fullerton, Stockton, LaSalle, Lake Shore Drive and Michigan.&nbsp;<br />\r\nAllow extra travel time.</p>\r\n"
@@ -100,11 +100,11 @@
       }
     },
     "ttim": "0",
-    "GUID": "a1561294-90a0-4012-96f0-9d7bbe6e4745"
+    "GUID": "2980e6fa-b9ff-4be3-a72d-e3e827999573"
   },
   {
     "AlertId": "90012",
-    "Headline": "Temporary Reroute Away From DuSable Lake Shore Drive",
+    "Headline": "#147 Outer DuSable Lake Shore Express Temporary Reroute Away From DuSable Lake Shore Drive",
     "ShortDescription": "147 Outer DuSable LSD Express NB via Michigan, Inner, LaSalle, Stockton, Cannon, Sheridan, LSDr; SB Inner, LSD West, Cannon, Flrtn, Stktn, LaS, Inner, Mich",
     "FullDescription": {
       "#cdata-section": "<p>Buses are temporarily rerouted in both directions due to roadway conditions from severe weather.</p>\r\n\r\n<p>Northbound buses are rerouted via Michigan, Lake Shore Drive, LaSalle, Stockton, Cannon, Sheridan, and Lake Shore Drive.<br />\r\nSouthbound buses are rerouted via Lake Shore Drive, Lake Shore Drive West, Cannon, Fullerton, Stockton, LaSalle, Lake Shore Drive and Michigan.<br />\r\nAllow extra travel time.</p>\r\n"
@@ -134,6 +134,108 @@
       }
     },
     "ttim": "0",
-    "GUID": "63e542a2-d890-4dce-a41e-2dc0e3b7d1d8"
+    "GUID": "4aa5e406-d2b7-40fe-b850-ff6ea9afa403"
+  },
+  {
+    "AlertId": "90013",
+    "Headline": "#6 Jackson Park Express Temporary Reroute Away From DuSable Lake Shore Drive",
+    "ShortDescription": "6 buses are temporarily rerouted NB via Lake Park, 47th, King Dr, Cermak to Michigan. SB via reverse from Balbo/Michigan, due to severe weather.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound buses are rerouted via Lake Park, 47th, King Drive and Cermak then resume their normal route on Michigan.<br />\r\nSouthbound buses are rerouted via the same streets, starting after Balbo/Michigan.<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-01-02T20:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90013"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c96124a9-ba0b-42d0-ab6f-e6ef85637965"
+  },
+  {
+    "AlertId": "90014",
+    "Headline": "#J14 Jeffery Jump Temporary Reroute Away From DuSable Lake Shore Drive",
+    "ShortDescription": "J14 buses are temporarily rerouted via Jeffery, 67th, Stony Isl, 57th, Hyde Pk, Lake Pk, 47th, King Dr, Cermak, Michigan and Balbo, due to severe weather.",
+    "FullDescription": {
+      "#cdata-section": "<p>Buses, in both directions, are rerouted via Jeffery, 67th, Stony Island, 57th, Hyde Park, Lake Park, 47th, King Drive, Cermak, Michigan and Balbo.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-01-02T20:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90014"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Jump",
+        "ServiceId": "J14",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "121afbd9-0238-4c78-b00d-66dc2be7775a"
+  },
+  {
+    "AlertId": "90015",
+    "Headline": "#94 California Temporary Reroute at California/43rd",
+    "ShortDescription": "94 California buses are temporarily rerouted via California, Archer, Kedzie, 47th, and California due to, police activity near California/43rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#94 California buses are temporarily rerouted via California, Archer, Kedzie, 47th, and California due to, police activity near California/43rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-01-02T20:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90015"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "dc516cc8-3af6-4f69-b775-1525d2b60b30"
   }
 ]
