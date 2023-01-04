@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "90032",
-    "Headline": "63rd-bound Green Line Delays",
-    "ShortDescription": "63rd-bound Green Line trains are running w/residual delays following earlier sick customer at Roosevelt. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>63rd-bound Green Line trains are running w/residual delays following earlier sick customer at Roosevelt.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-01-03T20:44:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90032"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d91c32c3-354a-41b5-9cd3-ef03d6fc9322"
-  },
-  {
     "AlertId": "90033",
     "Headline": "#49 Western & #X49 Western Express Temporary Reroute at Western/Belmont",
     "ShortDescription": "49 Western & X49 Western Express buses are temporarily rerouted via Western, Elston, California, Belmont, Western due to police activity near Western/Belmont.",
@@ -79,5 +45,39 @@
     },
     "ttim": "0",
     "GUID": "3ccdd057-4a9e-4169-9c9c-e286d73a2ef1"
+  },
+  {
+    "AlertId": "90034",
+    "Headline": "95th-bound Red Line Service Delayed at 35th",
+    "ShortDescription": "95th-bound Red Line trains are standing at 35th due to debris near the tracks. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are standing at 35th due to debris near the tracks.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-01-03T21:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90034"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3483062b-10c7-4bdc-a49c-d087813e6306"
   }
 ]
