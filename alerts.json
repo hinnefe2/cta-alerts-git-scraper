@@ -151,10 +151,10 @@
   },
   {
     "AlertId": "90036",
-    "Headline": "#147 Outer DuSable Lake Shore Express Temporary Reroute away From DuSable Lake Shore Drive",
-    "ShortDescription": "Buses are temporarily rerouted in both directions, due to roadway conditions from severe weather:",
+    "Headline": "#146 Inner Lake Shore/Michigan Express Temporary Reroute away From DuSable Lake Shore Drive",
+    "ShortDescription": "Corection: Buses are temporarily rerouted in both directions, due to roadway conditions from severe weather:",
     "FullDescription": {
-      "#cdata-section": "<p>Buses are temporarily rerouted in both directions, due to roadway conditions from severe weather:</p>\r\n\r\n<p>Northbound buses are rerouted via Michigan, Lake Shore Drive, LaSalle, Stockton, Cannon, Sheridan and Lake Shore Drive.<br />\r\nSouthbound buses are rerouted via Foster, Marine, Lake Shore Drive, Lake Shore Drive West, Cannon, Fullerton, Stockton, LaSalle, Lake Shore Drive and Michigan.&nbsp;<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Correction: Buses are temporarily rerouted in both directions, due to roadway conditions from severe weather:</p>\r\n\r\n<p>Northbound buses are rerouted via Michigan, Lake Shore Drive, LaSalle, Stockton, Cannon, Sheridan and Lake Shore Drive.<br />\r\nSouthbound buses are rerouted via Foster, Marine, Lake Shore Drive, Lake Shore Drive West, Cannon, Fullerton, Stockton, LaSalle, Lake Shore Drive and Michigan.&nbsp;<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -171,16 +171,50 @@
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Outer DuSable Lake Shore Express",
-        "ServiceId": "147",
+        "ServiceName": "Inner Lake Shore/Michigan Express",
+        "ServiceId": "146",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          "#cdata-section": "http://www.transitchicago.com/bus/146/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "4d396960-ed9e-4a09-a9a7-567e338a7857"
+    "GUID": "84203958-6e00-405c-b6aa-5bb636b047ef"
+  },
+  {
+    "AlertId": "90037",
+    "Headline": "#J14 Jeffery Jump Temporary Reroute Away from DuSable Lake Shore Drive",
+    "ShortDescription": "Buses, in both directions, are rerouted via Jeffery, 67th, Stony Island, 57th, Hyde Park, Lake Park, 47th, King Drive, Cermak, Michigan and Balbo.",
+    "FullDescription": {
+      "#cdata-section": "<p>Buses, in both directions, are rerouted via Jeffery, 67th, Stony Island, 57th, Hyde Park, Lake Park, 47th, King Drive, Cermak, Michigan and Balbo.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-01-03T21:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90037"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Jump",
+        "ServiceId": "J14",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "533b2610-3c15-4a82-bd13-e1fc73a13c73"
   }
 ]
