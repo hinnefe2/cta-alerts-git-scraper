@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "90135",
+    "Headline": "O'Hare-bound Blue Line Service Delayed at UIC/Halsted",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing at UIC/Halsted due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at UIC/Halsted due to a sick customer.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-01-10T10:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90135"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "03548870-3372-4cc4-8b6b-5fd6523ab920"
+  },
+  {
+    "AlertId": "90136",
+    "Headline": "Howard-bound Red Line Service Delayed at 79th",
+    "ShortDescription": "Howard-bound Red Line trains are standing at 79th due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing at 79th due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-01-10T10:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90136"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "86c96a24-940e-4447-975d-09b316e4f9f9"
+  }
+]
