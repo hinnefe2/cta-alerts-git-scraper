@@ -1,15 +1,15 @@
 [
   {
     "AlertId": "90135",
-    "Headline": "O'Hare-bound Blue Line Service Delayed at UIC/Halsted",
-    "ShortDescription": "O'Hare-bound Blue Line trains are standing at UIC/Halsted due to a sick customer. Crews working to restore service.",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following an earlier sick customer at UIC/Halsted. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at UIC/Halsted due to a sick customer.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/residual delays following an earlier sick customer at UIC/Halsted.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2023-01-10T10:04:00",
     "EventEnd": null,
     "TBD": "1",
@@ -31,19 +31,19 @@
       }
     },
     "ttim": "0",
-    "GUID": "03548870-3372-4cc4-8b6b-5fd6523ab920"
+    "GUID": "c5d37a3d-5779-445f-a7d3-439d6e1b83b4"
   },
   {
     "AlertId": "90136",
-    "Headline": "Howard-bound Red Line Service Delayed at 79th",
-    "ShortDescription": "Howard-bound Red Line trains are standing at 79th due to police activity. Crews working to restore service.",
+    "Headline": "Trains bypassing 79th Station",
+    "ShortDescription": "Red Line trains are running, but not stopping at 79th due to police activity.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are standing at 79th due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running, but not stopping at 79th due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "58",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
     "EventStart": "2023-01-10T10:06:00",
     "EventEnd": null,
     "TBD": "1",
@@ -65,6 +65,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "86c96a24-940e-4447-975d-09b316e4f9f9"
+    "GUID": "0ebd8767-0b93-48b6-9a68-a96d3ef6097f"
   }
 ]
