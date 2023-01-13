@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "0e7fc92b-32f3-4c10-93ac-eeb053b5cb05"
+  },
+  {
+    "AlertId": "90184",
+    "Headline": "63rd-bound Green Line and Loop-bound Pink Line Service Delayed at Morgan",
+    "ShortDescription": "63rd-bound Green Line and Loop-bound Pink Line trains are standing at Morgan due to police activity.  Personnel are working to restore service. ",
+    "FullDescription": {
+      "#cdata-section": "<p>63rd-bound Green Line and Loop-bound Pink Line trains are standing at Morgan due to police activity.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-01-13T09:31:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90184"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b833eeb2-7179-4257-86c0-444ee1e0f8a1"
   }
 ]
