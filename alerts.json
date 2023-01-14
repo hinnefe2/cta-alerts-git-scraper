@@ -1,49 +1,15 @@
 [
   {
-    "AlertId": "90203",
-    "Headline": "Harlem-bound Green Line Delays",
-    "ShortDescription": "Harlem-bound Green Line trains are running w/residual delays following earlier police activity at Laramie. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green Line trains are running w/residual delays following earlier police activity at Laramie.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-01-14T13:28:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90203"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b00a3ac9-ebf2-40a0-aa2f-4f7af05b2597"
-  },
-  {
     "AlertId": "90204",
-    "Headline": "95th-bound Red Line Service Delayed at Sheridan",
-    "ShortDescription": "95th-bound Red Line trains are standing at Sheridan due to police activity. Crews working to restore service.",
+    "Headline": "95th-bound Red Line Delays",
+    "ShortDescription": "95th-bound Red Line trains are running w/residual delays following earlier police activity at Sheridan. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are standing at Sheridan due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th-bound Red Line trains are running w/residual delays following earlier police activity at Sheridan.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2023-01-14T14:15:00",
     "EventEnd": null,
     "TBD": "1",
@@ -65,6 +31,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "531ada87-43b3-4c6a-9fcd-7c97809b2e61"
+    "GUID": "4a75e47e-b9ed-4ce3-93fa-01d72465f99c"
   }
 ]
