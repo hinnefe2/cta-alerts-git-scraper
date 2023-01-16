@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "c1f2fa6b-b4b0-4b4c-9adb-7879713b9b0e"
+  },
+  {
+    "AlertId": "90240",
+    "Headline": "KImball-bound Brown and Harlem-bound Green Line Delays",
+    "ShortDescription": "KImball-bound Brown and Harlem-bound Green Line trains are running w/residual delays following an earlier door problem at Washington/Wabash. ",
+    "FullDescription": {
+      "#cdata-section": "<p>KImball-bound Brown and Harlem-bound Green Line trains are running w/residual delays following an earlier door problem at Washington/Wabash.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-01-16T09:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90240"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "368c85b8-4dd3-4bf4-88a1-79b7a26ad54b"
   }
 ]
