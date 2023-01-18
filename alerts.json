@@ -1,36 +1,70 @@
 [
   {
-    "AlertId": "90288",
-    "Headline": "Loop-bound Pink Line Delays",
-    "ShortDescription": "Loop-bound Pink Line trains are running w/residual delays following an earlier mechanical problem at Kedzie. Service is resuming, allow extra time.",
+    "AlertId": "90289",
+    "Headline": "#91 Austin Temporary Reroute near Austin/South Blvd",
+    "ShortDescription": "NB 91 Austin buses are temporarily rerouted via  Austin, Washington, Central, Corcoran and Austin: due to street blockage near Austin/South Blvd.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Pink Line trains are running with residual delays following an earlier mechanical problem at Kedzie.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#91 Austin&nbsp;buses are temporarily rerouted, in both directions,&nbsp;due to, street blockage near&nbsp;Austin/South Blvd.<br />\r\n<br />\r\nNorthbound buses will operate via Austin, Washington, Central, Corcoran and Austin.<br />\r\n<br />\r\nSouthbound buses will operate via&nbsp;Austin, Lake, Mayfield, Corcoran, Central, Washington and Austin.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-01-18T08:15:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-01-18T08:48:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90288"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90289"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Austin",
+        "ServiceId": "91",
+        "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/91/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "2b49f298-aa74-45cf-b793-6334fe9ec3f7"
+    "GUID": "3e4356fa-3f16-4cab-8414-7a0229d686d0"
+  },
+  {
+    "AlertId": "90290",
+    "Headline": "#91 Austin Temporary Reroute near Austin/South Blvd",
+    "ShortDescription": "SB 91 Austin buses are temporarily rerouted via Austin, Lake, Mayfield, Corcoran, Central, Washington and Austin: due to street blockage near Austin/South Blvd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#91 Austin buses are temporarily rerouted, in both directions, due to, street blockage near Austin/South Blvd.<br />\r\n<br />\r\nSouthbound buses will operate via&nbsp;Austin, Lake, Mayfield, Corcoran, Central, Washington and Austin.</p>\r\n\r\n<p>Northbound buses will operate via Austin, Washington, Central, Corcoran and Austin.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-01-18T08:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90290"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Austin",
+        "ServiceId": "91",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/91/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "376f2fd8-24dd-4c56-8f2d-8170ed9d5a48"
   }
 ]
