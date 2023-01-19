@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "90298",
-    "Headline": "Green Line Service Delayed at Pulaski",
-    "ShortDescription": "Green Line trains are standing at Pulaki due to an unauthorized person on the tracks. Crews working to restore service.",
+    "Headline": "Green and Pink Line Delays",
+    "ShortDescription": "Green and Pink Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Pulaski. Allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Green Line trains are standing at Pulaki due to an unauthorized person on the tracks.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green and Pink Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Pulaski.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -18,19 +18,32 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90298"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "0f2b0d30-e9e4-42ca-a733-3f90e9c7c4b8"
+    "GUID": "1e6ce517-8d3e-4c66-aba0-5cc4c6c05be8"
   }
 ]
