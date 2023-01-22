@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "7c4565b7-4311-431b-bb0d-51ec45041096"
+  },
+  {
+    "AlertId": "90348",
+    "Headline": "Loop-bound Brown Line Delays",
+    "ShortDescription": "Loop-bound Brown Line trains are running w/residual delays following an earlier door problem at Armitage. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Brown Line trains are running w/residual delays following an earlier door problem at Armitage.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-01-21T21:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90348"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ae6f620b-ad36-408b-85b5-477353924379"
   }
 ]
