@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "f0b6c601-6c66-4d2b-bffc-b3326552d6e1"
+  },
+  {
+    "AlertId": "90363",
+    "Headline": "#67 67th-69th-71st  & #N5 South Shore Night Bus Temporary Reroute at 67th/Woodlawn- Minerva",
+    "ShortDescription": "67 67th-69th-71st & N5 South Shore Night Bus buses are temp rerouted via 67th, Cottage Gr, Marquette, Stony Island, 67th due to police activity at 67th/Woodlawn",
+    "FullDescription": {
+      "#cdata-section": "<p>#67 67th-69th-71st&nbsp;&amp; #N5 South Shore Night Bus buses are temp rerouted via 67th, Cottage Gr, Marquette, Stony Island, 67th due to police activity at 67th/Woodlawn.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-01-22T23:45:00",
+    "EventEnd": "2023-01-25T23:45:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90363"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Night Bus",
+          "ServiceId": "N5",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/n5/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "67th-69th-71st",
+          "ServiceId": "67",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/67/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ad165fc9-9542-4102-bcfd-4dd1bb3657ab"
   }
 ]
