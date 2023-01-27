@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "90431",
-    "Headline": "Red Line Delays",
-    "ShortDescription": "Red Line trains are running w/residual delays following an earlier track condition at Howard. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running w/residual delays following an earlier track condition at Howard.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2023-01-26T20:26:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90431"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "afdef1a7-4e5a-4e9f-beca-47f81dc7f20f"
-  },
-  {
     "AlertId": "90432",
     "Headline": "Yellow Line Running with Delays; Boarding change at Howard",
     "ShortDescription": "Yellow Line service running w/delays due to track conditions at Howard; board/exit all trains on the 95th-bound side at Howard.",
@@ -51,7 +17,19 @@
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90432"
     },
-    "ImpactedService": null,
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Yellow Line",
+        "ServiceId": "Y",
+        "ServiceBackColor": "f9e300",
+        "ServiceTextColor": "000000",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/yellowline/"
+        }
+      }
+    },
     "ttim": "0",
     "GUID": "0b3118f0-73d1-42a0-a4a8-244d6f161d52"
   }
