@@ -103,19 +103,19 @@
   },
   {
     "AlertId": "90464",
-    "Headline": "Correction: Purple Line Service Temporarily Suspended",
-    "ShortDescription": "Service on the Purple Line has been temporarily suspended due to track conditions.",
+    "Headline": "Normal Purple Line Service Being Restored",
+    "ShortDescription": "Normal Purple Line service is operating with residual delays following an earlier track condition. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Correction: Service on the Purple Line has been temporarily suspended due to track conditions.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Normal Purple Line service is operating with residual delays following an earlier track condition. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "90",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Suspended",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2023-01-28T23:45:00",
     "EventEnd": null,
     "TBD": "1",
-    "MajorAlert": "1",
+    "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90464"
     },
@@ -133,7 +133,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "9ed04f71-9cfc-45a0-bdad-451101bd03eb"
+    "GUID": "0c1cfb63-0a03-4edd-82d5-beda0bfd1ad5"
   },
   {
     "AlertId": "90465",
@@ -171,15 +171,15 @@
   },
   {
     "AlertId": "90466",
-    "Headline": "Blue Line Service Delayed at Chicago",
-    "ShortDescription": "Blue Line trains are standing at Chicago due to an unauthorized person on the tracks. Crews working to restore service.",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Chicago. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue&nbsp;Line trains are standing at Chicago due to an unauthorized person on the tracks.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Chicago.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-01-29T00:14:00",
     "EventEnd": null,
     "TBD": "1",
@@ -201,6 +201,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "b076e8c1-cd65-4f0a-be77-3b9c79f83834"
+    "GUID": "03a59a72-d465-477f-9ef5-e08ea776b2f2"
   }
 ]
