@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "90461",
+    "Headline": "No trains between Polk and the Loop",
+    "ShortDescription": "Pink Line service has been temporarily suspended between Polk and the Loop due to track conditions.",
+    "FullDescription": {
+      "#cdata-section": "<div>Pink Line service has been temporarily suspended between Polk and the Loop due to track conditions.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>We are working to restore service as quickly as possible. Allow extra travel time.</div>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2023-01-28T22:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90461"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "61bed430-3743-451a-ab7f-a9688a475906"
+  },
+  {
     "AlertId": "90462",
     "Headline": "Green Line Service Temporarily Suspended",
     "ShortDescription": "Service on the Green Line is temporarily suspended due to a track condition.",
