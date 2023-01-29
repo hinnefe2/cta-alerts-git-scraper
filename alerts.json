@@ -2,9 +2,9 @@
   {
     "AlertId": "90473",
     "Headline": " Loop 'L' (elevated lines) Line Delays",
-    "ShortDescription": " Loop 'L' (elevated lines) Line trains are running w/residual delays following a mechanical problem on the train near Roosevelt. Service is resuming.",
+    "ShortDescription": " Loop 'L' (elevated lines) Line trains are running w/residual delays following a unauthorized person on the tracks near Roosevelt. Service is resuming.",
     "FullDescription": {
-      "#cdata-section": "<p>&nbsp;Loop &#39;L&#39; (elevated lines) Line trains are running w/residual delays following a mechanical problem on the train near Roosevelt.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>&nbsp;Loop &#39;L&#39; (elevated lines) Line trains are running w/residual delays following a unauthorized person on the tracks near Roosevelt.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -66,6 +66,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "dbdc8272-b3be-4301-a259-5c9fb7a1ac3a"
+    "GUID": "88ecabb8-85da-43c4-a61b-de49d7db6a77"
+  },
+  {
+    "AlertId": "90474",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running w/residual delays following earlier unauthorized person on the tracks near Roosevelt. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running w/residual delays following earlier unauthorized person on the tracks near Roosevelt.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-01-29T15:45:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90474"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9b99113c-9ef1-476e-8978-6973694c6afe"
   }
 ]
