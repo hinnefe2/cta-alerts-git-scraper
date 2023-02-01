@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "90522",
-    "Headline": "#79 79th Temporary Eastbound Reroute near 79th/Greenwood",
-    "ShortDescription": "Eastbound 79 79th buses are temporarily rerouted via 79th, Greenwood, 76th, South Chicago and 79th due to, street blockage near 79th/Greenwood.",
+    "AlertId": "90523",
+    "Headline": "Yellow Line Delays",
+    "ShortDescription": "Yellow Line trains are running w/residual delays following earlier police activity near Oakton. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Eastbound #79 79th&nbsp; buses are temporarily rerouted via 79th, Greenwood, 76th, South Chicago and 79th due to, street blockage near 79th/Greenwood.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Yellow Line trains are running with residual delays following earlier police activity near Oakton.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-01-31T19:52:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-01-31T20:27:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90522"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90523"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "79th",
-        "ServiceId": "79",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Yellow Line",
+        "ServiceId": "Y",
+        "ServiceBackColor": "f9e300",
+        "ServiceTextColor": "000000",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+          "#cdata-section": "http://www.transitchicago.com/yellowline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "2b0be06d-ade4-4203-bba4-7617b396dc38"
+    "GUID": "2b0c5dac-e6fc-4599-94cb-8542950f0227"
   }
 ]
