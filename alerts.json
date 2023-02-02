@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "f03098bb-0159-4f79-836e-4f2e9dad84be"
+  },
+  {
+    "AlertId": "90548",
+    "Headline": "#87th Temporary Reroute at 87th/Avalon",
+    "ShortDescription": "87th buses are temporarily rerouted via: 87th, Cottage Grove, 83rd, Stony Island, and 87th, due to, street blockage, near 87th/Avalon.",
+    "FullDescription": {
+      "#cdata-section": "<p>#87th&nbsp;buses are temporarily rerouted in both directions via: 87th, Cottage Grove, 83rd, Stony Island, and 87th, due to, street blockage, near 87th/Avalon.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-02-02T09:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90548"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "87th",
+          "ServiceId": "41430",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=12"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "632e0a35-51f6-48e6-be36-65fa556df4af"
   }
 ]
