@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "90586",
+    "Headline": "#34 South Michigan & #119 Michigan/119th Temporary Reroute at Michigan/111th",
+    "ShortDescription": "34 South Michigan & 119 Michigan/119th buses are temporarily rerouted via Michigan, 113th, State, 110th, Michigan due to, street blocakge near Michigan/111th. ",
+    "FullDescription": {
+      "#cdata-section": "<p>#34 South Michigan &amp; #119 Michigan/119th buses are temporarily rerouted via Michigan, 113th, State, 110th, Michigan due to, street blocakge near Michigan/111th.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-02-03T18:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90586"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Michigan",
+          "ServiceId": "34",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/34/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Michigan/119th",
+          "ServiceId": "119",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/119/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "40bddc1a-67c0-439d-8572-77c62b266d00"
+  }
+]
