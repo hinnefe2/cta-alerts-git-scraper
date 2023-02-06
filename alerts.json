@@ -6,10 +6,10 @@
     "FullDescription": {
       "#cdata-section": "<p>Green and Orange Line trains are running w/residual delays and congestion following earlier signal problems near Roosevelt.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2023-02-05T19:57:00",
     "EventEnd": null,
     "TBD": "1",
@@ -44,6 +44,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "44ad8e0d-5221-4863-bcc8-f0eaf10c220e"
+    "GUID": "d79ccdcf-85a7-4521-945a-0747aa05520c"
+  },
+  {
+    "AlertId": "90620",
+    "Headline": "#79 79th Temporary Reroute at 79th/Lawndale",
+    "ShortDescription": "79 79th buses are temporarily rerouted via 79th, Kedzie, 71st, 79th due to, street blockage near 79th/Lawndale.",
+    "FullDescription": {
+      "#cdata-section": "<p>#79 79th buses are temporarily rerouted via 79th, Kedzie, 71st, 79th due to, street blockage near 79th/Lawndale.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-02-05T20:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90620"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6c20b2cd-577e-49f4-b801-b446fb7889a6"
   }
 ]
