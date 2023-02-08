@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "f8c86cee-4116-4db6-b9c9-23b8be9fc31d"
+  },
+  {
+    "AlertId": "90665",
+    "Headline": "Loop 'L' Delays",
+    "ShortDescription": "Loop 'L' trains are running w/residual delays and congestion following earlier police activity at Merchandise Mart. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop &#39;L&#39; trains are running w/residual delays and congestion following earlier police activity at Merchandise Mart.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-02-08T17:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90665"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "a7b0a3e5-b405-4449-9abe-be3f7781a1a8"
   }
 ]
