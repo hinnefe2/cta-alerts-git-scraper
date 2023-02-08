@@ -34,18 +34,52 @@
     "GUID": "1bd37120-1893-46ca-99a4-8ebffcb11ae4"
   },
   {
-    "AlertId": "90657",
-    "Headline": "Forest Park-bound Blue Line Service Delayed at Oak Park",
-    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Oak Park due to police activity. Crews working to restore service.",
+    "AlertId": "90653",
+    "Headline": "#26 South Shore Express Temporary Southbound Reroute near South Shore/71st",
+    "ShortDescription": "SB 26 South Shore Exp buses are temporarily rerouted via 71st, Coles, 75th and South Shore due to, street blockage near  South Shore/71st.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Oak Park due to police activity.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #26 South Shore Express&nbsp;buses are temporarily rerouted via 71st, Coles, 75th and South Shore due to, street blockage near&nbsp;South Shore/71st.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-02-07T15:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90653"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Shore Express",
+        "ServiceId": "26",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/26/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "55078eb1-3259-4986-a933-4d8b288cb9f7"
+  },
+  {
+    "AlertId": "90657",
+    "Headline": "Forest Park-bound Blue Line Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following earlier police activity at Oak Park. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with residual delays following earlier police activity at Oak Park.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
     "EventStart": "2023-02-07T20:51:00",
-    "EventEnd": "2023-02-07T21:07:00",
+    "EventEnd": "2023-02-07T21:17:00",
     "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
@@ -65,6 +99,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "fc8ea1ce-5dd7-45d8-aab1-63a7d6da0fad"
+    "GUID": "97da8829-8dcd-4e6b-b3fe-5af4f5ba79d9"
   }
 ]
