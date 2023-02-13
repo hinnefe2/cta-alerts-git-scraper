@@ -69,16 +69,16 @@
   },
   {
     "AlertId": "90735",
-    "Headline": "Kimball-bound Brown and Harlem-bound Green Line Line Service Delayed at Clark/Lake",
-    "ShortDescription": "Kimball-bound Brown and Harlem-bound Green Line trains will be rerouted to the Inner Loop due to a mechanical problem at Clark/Lake. ",
+    "Headline": "No trains between Merchandise Mart and the Loop",
+    "ShortDescription": "Brown Line service has been temporarily suspended between Merchandise Mart and the Loop due to a mechanical problem.",
     "FullDescription": {
-      "#cdata-section": "<p>Kimball-bound Brown and Harlem-bound Green Line trains will be rerouted to the Inner Loop due to a mechanical problem at Clark/Lake.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line service has been temporarily suspended between Merchandise Mart and the Loop due to a mechanical problem.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Kimball&nbsp;and Merchanise Mart at this time.</strong></p>\r\n\r\n<p>Shuttle buses are available between Merchandise Mart&nbsp;and the Loop to&nbsp;provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-02-13T10:36:00",
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2023-02-13T10:50:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
@@ -86,32 +86,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90735"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "1964829f-d7b9-4789-8e0d-3571c4188d38"
+    "GUID": "a7371e78-b19c-4538-b855-b33def85cfd8"
   }
 ]
