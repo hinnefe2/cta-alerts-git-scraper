@@ -38,12 +38,12 @@
     "Headline": "Harlem-bound Green Line Service Delayed at Cermak-McCormick Place",
     "ShortDescription": "Harlem-bound Green Line trains are standing at at Cermak-McCormick Place due to police activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green Line trains are standing at at Cermak-McCormick Place due to police activity.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Harlem-bound Green Line trains are standing at at Cermak-McCormick Place due to police activity.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-02-14T16:32:00",
     "EventEnd": null,
     "TBD": "1",
@@ -65,6 +65,53 @@
       }
     },
     "ttim": "0",
-    "GUID": "989730ba-f547-4801-a286-2098a41a2447"
+    "GUID": "5de089c4-3947-4c19-9486-f611f4c43185"
+  },
+  {
+    "AlertId": "90754",
+    "Headline": "63rd-bound Green Line trains bypassing Cermak-McCormick Place",
+    "ShortDescription": "63rd-bound Green Line trains are running, but not stopping at Cermak-McCormick Place due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>63rd-bound Green Line trains are running, but not stopping at Cermak-McCormick Place due to police activity.</p>\r\n\r\n<p><span style=\"font-family: FreeSans, Helvetica, Arial, sans-serif; background-color: rgb(255, 255, 255);\">At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes such as #3 King Drive route, or using buses to other rail lines.</span></p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2023-02-14T17:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90754"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Cermak-McCormick Place",
+          "ServiceId": "41690",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=149"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d17f3d6c-d6d6-4efa-88bd-24f28452ebcb"
   }
 ]
