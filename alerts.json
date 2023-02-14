@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "AlertId": "90751",
+    "Headline": "#71 71st/South Shore, #6 Jackson Park Exp & #26 South Shore Exp Temporary Reroute at South Shore/77th",
+    "ShortDescription": "71 71st/South Shore, 26 South Shore Exp & 6 Jackson Park Exp buses are temporarily rerouted via South Shore, 79th, Coles, 76th and South Shore.",
+    "FullDescription": {
+      "#cdata-section": "<p>#71 71st/South Shore, #6 Jackson Park Express&nbsp;and #26 South Shore Express buses are temporarily rerouted in both directions via South Shore, 79th, Coles, 76th and South Shore, due to police activity&nbsp;near South Shore/77th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-02-14T14:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90751"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "71st/South Shore",
+          "ServiceId": "71",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/71/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5e0e4d16-8eae-4fb4-ac0e-089f0a183e98"
+  }
+]
