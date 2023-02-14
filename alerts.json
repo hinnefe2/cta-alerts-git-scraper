@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "7178c5c9-de80-4516-bff0-571603055aa6"
+  },
+  {
+    "AlertId": "90740",
+    "Headline": "Purple Line Delays",
+    "ShortDescription": "Purple Line trains are running w/residual delays following an earlier sick customer at Howard. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Purple Line trains are running w/residual delays following an earlier sick customer at Howard.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-02-13T21:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90740"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b75437a5-4052-4ca6-b14a-ff9704819c00"
   }
 ]
