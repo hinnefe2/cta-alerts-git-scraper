@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "ea8baa49-e8a4-4d2f-b351-e0b6e9fa2eab"
+  },
+  {
+    "AlertId": "90825",
+    "Headline": "#8A South Halsted and #79 79th Temporary Reroute at 79th/Parnell",
+    "ShortDescription": "SB 8A South Halsted and  WB 79 79th buses are temporarily rerouted via 79th, Vincennes, 76th, Halsted, and 79th due to, street blockage near 79th/Parnell.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #8A South Halsted and&nbsp; Westbound&nbsp;#79 79th buses are temporarily rerouted via 79th, Vincennes, 76th, Halsted, and 79th due to, street blockage near 79th/Parnell.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-02-19T17:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90825"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Halsted",
+          "ServiceId": "8A",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/8a/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "79th",
+          "ServiceId": "79",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/79/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "99561354-16a8-43fb-a9c1-672841f59e33"
   }
 ]
