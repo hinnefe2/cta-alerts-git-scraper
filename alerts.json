@@ -1,15 +1,15 @@
 [
   {
     "AlertId": "90828",
-    "Headline": "Kimball-bound Brown Line Service Delayed near Damen",
-    "ShortDescription": "Kimball-bound Brown Line trains are standing near Damen due to police activity. Crews working to restore service.",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running w/residual delays following earlier police activity near Damen. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Kimball-bound Brown Line trains are standing near Damen due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are running w/residual delays following earlier&nbsp; police activity near Damen.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-02-20T02:07:00",
     "EventEnd": null,
     "TBD": "1",
@@ -21,16 +21,16 @@
       "Service": {
         "ServiceType": "R",
         "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "6fce1ec4-fd48-4160-bf28-59bb91cedfd3"
+    "GUID": "3a7b31b0-616c-492b-9e68-b56e4f763d16"
   }
 ]
