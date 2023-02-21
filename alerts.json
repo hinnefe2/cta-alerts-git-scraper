@@ -1,49 +1,15 @@
 [
   {
-    "AlertId": "90855",
-    "Headline": "Howard-bound Red Line Service Delayed at Fullerton",
-    "ShortDescription": "Howard-bound Red Line trains are standing at Fullerton due to a sick customer. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Fullerton due to a sick customer.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-02-21T10:05:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90855"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "75791a6c-d14a-47dc-9c2a-bd5db1c7d1e8"
-  },
-  {
     "AlertId": "90856",
-    "Headline": "Red, Purple and Brown Line Service Delayed at Fullerton",
-    "ShortDescription": "Red, Purple and Brown Line trains are standing near Fullerton due to track switching problems. Crews working to restore service.",
+    "Headline": "Red, Purple and Brown Line Delays",
+    "ShortDescription": "Red, Purple and Brown Line trains are running w/residual delays following earlier track switching problems at Fullerton. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Red, Purple and Brown Line trains are standing near Fullerton due to track switching problems.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red, Purple and Brown Line trains are running w/residual delays following earlier track switching problems at Fullerton.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2023-02-21T10:21:00",
     "EventEnd": "2023-02-21T10:51:00",
     "TBD": "0",
@@ -89,6 +55,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "b5571d07-9733-469b-b9ea-90d64392808a"
+    "GUID": "7dea804f-06b0-47c2-b89f-f01935dccc8c"
   }
 ]
