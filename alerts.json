@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "90909",
-    "Headline": "Forest Park-bound Blue Line Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following an earlier police activity at Western. Service is resuming, allow extra time.",
+    "AlertId": "90910",
+    "Headline": "#73 Armitage Temporary Reroute at Armitage/Hamlin",
+    "ShortDescription": "73 Armitage buses are temporarily rerouted via Armitage, Pulaski, North Ave, Central Park, and Armitage due to, street blockage near Armitage/Hamlin.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays following an earlier police activity at Western.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#73 Armitage buses are temporarily rerouted via Armitage, Pulaski, North Ave, Central Park, and Armitage due to, street blockage near Armitage/Hamlin.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-02-25T05:47:00",
-    "EventEnd": "2023-02-25T06:17:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-02-25T06:11:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90909"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90910"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Armitage",
+        "ServiceId": "73",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/73/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "5159614d-f5f0-4a12-9799-d8c28b5dc332"
+    "GUID": "e14dfe9b-3630-4502-a8ed-dafe33c0eb46"
   }
 ]
