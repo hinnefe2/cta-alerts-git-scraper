@@ -34,50 +34,50 @@
     "GUID": "6dec44d7-d602-40af-8823-d8c27dd40bc8"
   },
   {
-    "AlertId": "90933",
-    "Headline": "Southbound #9 Ashland & #X9 Ashland Express Temporary Reroute near Ashland/15th",
-    "ShortDescription": "SB 9 Ashland & X9 Ashland Express buses are temp rerouted via Ashland, Roosevelt, Racine, Blue Island, 18th, Ashland due to street blockage near Ashland/15th",
+    "AlertId": "90935",
+    "Headline": "Delays on Loop 'L' (elevated lines)",
+    "ShortDescription": "Orange and Pink Line trains are experiencing delays due to a door problem on train at Quincy.",
     "FullDescription": {
-      "#cdata-section": "<p>Southbound #9 Ashland &amp; #X9 Ashland Express buses are temporarily rerouted via Ashland, Roosevelt, Racine, Blue Island, 18th, and Ashland due to, street blockage near Ashland/15th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Orange and Pink Line trains are experiencing delays due to a door problem on train at Quincy.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-02-27T10:20:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-02-27T10:46:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90933"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90935"
     },
     "ImpactedService": {
       "Service": [
         {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ashland",
-          "ServiceId": "9",
-          "ServiceBackColor": "059",
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
           }
         },
         {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ashland Express",
-          "ServiceId": "X9",
-          "ServiceBackColor": "059",
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "edde09c7-e317-406b-95f6-80030c7adb2b"
+    "GUID": "93bf515c-c639-4b5c-b036-d3a1cc94ff6b"
   }
 ]
