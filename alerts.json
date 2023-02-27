@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "6dec44d7-d602-40af-8823-d8c27dd40bc8"
+  },
+  {
+    "AlertId": "90933",
+    "Headline": "Southbound #9 Ashland & #X9 Ashland Express Temporary Reroute near Ashland/15th",
+    "ShortDescription": "SB 9 Ashland & X9 Ashland Express buses are temp rerouted via Ashland, Roosevelt, Racine, Blue Island, 18th, Ashland due to street blockage near Ashland/15th",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #9 Ashland &amp; #X9 Ashland Express buses are temporarily rerouted via Ashland, Roosevelt, Racine, Blue Island, 18th, and Ashland due to, street blockage near Ashland/15th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-02-27T10:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90933"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "edde09c7-e317-406b-95f6-80030c7adb2b"
   }
 ]
