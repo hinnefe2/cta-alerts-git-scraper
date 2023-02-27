@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "90931",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following earlier mechanical problem on the train at Jefferson Park. Service is resuming.",
+    "AlertId": "90932",
+    "Headline": "#70 Division Temporary Reroute at Division/Kolmar",
+    "ShortDescription": "70 Division buses are temporarily rerouted via Division, Cicero, Augusta, Kostner, and  Division due to, street blockage near Division/Kolmar.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/residual delays following earlier mechanical problem on the train at Jefferson Park.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#70 Division buses are temporarily rerouted via Division, Cicero, Augusta, Kostner, and&nbsp; Division due to, street blockage near Division/Kolmar.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-02-27T08:43:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-02-27T09:15:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90931"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90932"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Division",
+        "ServiceId": "70",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/70/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "ed0f566f-d26a-4269-83b7-2f41117f4d7d"
+    "GUID": "6dec44d7-d602-40af-8823-d8c27dd40bc8"
   }
 ]
