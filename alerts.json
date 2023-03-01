@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "90980",
-    "Headline": "#81 Lawrence Temporary Reroute at Lawrence/Kenmore",
-    "ShortDescription": "81 Lawrence buses are temporarily rerouted via Wilson (Red Line), Sheridan and Lawrence due to, street blockage near Lawrence/Kenmore.",
-    "FullDescription": {
-      "#cdata-section": "<p>#81 Lawrence buses are temporarily rerouted in both directions via Wilson (Red Line), Sheridan and Lawrence due to, street blockage, near&nbsp;Lawrence/Kenmore.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-03-01T15:50:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90980"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Lawrence",
-        "ServiceId": "81",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/81/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "eef7cee5-9ffb-48e3-b140-330471f654fb"
-  },
-  {
     "AlertId": "90981",
     "Headline": "#81 Lawrence Temporary Reroute at Lawrence/Kenmore",
     "ShortDescription": "81 Lawrence buses are temporarily rerouted via Wilson (Red Line), Sheridan and Lawrence due to, street blockage near Lawrence/Kenmore.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "4b0f312c-c096-446c-8700-f72a42c49f87"
+  },
+  {
+    "AlertId": "90983",
+    "Headline": "O'Hare-bound Blue Line Service Delayed at Addison",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Addison due to a door problem on a train. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Addison due to a door problem on a train.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-03-01T17:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90983"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "65dcefb4-6f10-480d-8f8a-6344332462e2"
   }
 ]
