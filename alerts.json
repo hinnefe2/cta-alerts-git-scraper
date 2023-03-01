@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "90983",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following an earlier door problem at Addison. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with residual delays following an earlier door problem at Addison.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-03-01T17:15:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90983"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "9066a0d1-ce26-4761-b9ac-9368c3237a24"
-  },
-  {
     "AlertId": "90984",
     "Headline": "#52A South Kedzie, 52 Kedzie Temporary Reroute at 55th/Kedzie",
     "ShortDescription": "52A South Kedzie and 52 Kedzie buses are temporarily rerouted via Kedzie, 55th, California, 51st and Kedize due to, street blockage near 55th/Kedzie.",
@@ -79,5 +45,39 @@
     },
     "ttim": "0",
     "GUID": "913d698a-c9cf-49d0-bca5-246394b20519"
+  },
+  {
+    "AlertId": "90985",
+    "Headline": "#55 Garfield Temporary Reroute at 55th/Kedzie",
+    "ShortDescription": "55 Garfield buses are temporarily rerouted via 55th, Pulaski, 59th, Kedzie and 55th due to, street blockage near 55th/Kedzie.",
+    "FullDescription": {
+      "#cdata-section": "<p>#55 Garfield buses are temporarily rerouted in both directions via 55th, Pulaski, 59th, Kedzie and 55th due to, street blockage near 55th/Kedzie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-01T17:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90985"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Garfield",
+        "ServiceId": "55",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/55/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ec3fa28a-5720-48fc-b1c3-4c801d590655"
   }
 ]
