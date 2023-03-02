@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "90986",
+    "Headline": "#18 16th-18th Temporary Eastbound Reroute near Sacramento/Ogden",
+    "ShortDescription": "EB 18 16th-18th buses are temporarily rerouted via 16th, Kedzie, Roosevelt and Western due to, street blockage near Sacramento/Ogden.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound&nbsp;#18 16th-18th&nbsp;buses are temporarily rerouted via 16th, Kedzie, Roosevelt and Western due to, street blockage near Sacramento/Ogden.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-01T19:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90986"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "16th-18th",
+        "ServiceId": "18",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/18/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7667f7b2-268a-4b7c-82b1-764cc283a52e"
+  },
+  {
+    "AlertId": "90987",
+    "Headline": "#94 California Temporary Reroute at California/16th",
+    "ShortDescription": "94 California buses are temporarily rerouted via California, Cermak, Western, Roosevelt anf California due to, street blockage near California/16th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#94 California buses are temporarily rerouted in both directions via California, Cermak, Western, Roosevelt and&nbsp;California due to, street blockage near California/16th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-01T19:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90987"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b3970171-bf42-4590-84ad-9000eec1db5b"
+  }
+]
