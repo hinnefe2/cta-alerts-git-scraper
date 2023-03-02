@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "90990",
-    "Headline": "Red Line Delays",
-    "ShortDescription": "Red Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Monroe. Service is resuming, allow extra time. ",
+    "AlertId": "90991",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at O'Hare",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing  at O'Hare due to a sick customer. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Monroe.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing&nbsp; at O&#39;Hare due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2023-03-02T00:34:00",
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-03-02T01:08:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90990"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=90991"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "R",
         "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "ca11b454-9f20-4fe5-89cd-890bc24017d5"
+    "GUID": "f511d3dd-ea66-4082-903a-3f632e5f286b"
   }
 ]
