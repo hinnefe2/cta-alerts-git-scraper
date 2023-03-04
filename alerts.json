@@ -1,15 +1,15 @@
 [
   {
     "AlertId": "91024",
-    "Headline": "Loop 'L' Service Delayed near Clark/Lake",
-    "ShortDescription": "Loop 'L' Service trains are standing near Clark/Lake due to a track condition. Crews working to restore service.",
+    "Headline": "No trains between Clark/Lake and Armitage",
+    "ShortDescription": "Brown Line service has been temporarily suspended between Clark/Lake and Armitage due to a track condition.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop &#39;L&#39; Service trains are standing near Clark/Lake due to a track condition.</p>\n\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\n\n<p>Personnel are working to restore service. Allow extra travel time.</p>\n"
+      "#cdata-section": "<p>Brown Line service has been temporarily suspended between Clark/Lake and Armitage due to a track condition.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Kimball and Armitage at this time.</strong></p>\r\n\r\n<p>Shuttle buses have been requested between Clark/Lake and Armitage to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include Red Line rail service.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
+    "SeverityScore": "84",
     "SeverityColor": "c00c00",
     "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "Impact": "Service Disruption",
     "EventStart": "2023-03-03T19:46:00",
     "EventEnd": null,
     "TBD": "1",
@@ -18,54 +18,53 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91024"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "d3128ebd-2067-4e56-82f6-94a0f6d0a9a4"
+    "GUID": "cd7a8bf1-6aa6-4dca-beda-6ecf19c1a131"
+  },
+  {
+    "AlertId": "91025",
+    "Headline": "Green Line Service Delayed near Clark/Lake",
+    "ShortDescription": "Green Line trains are standing near Clark/Lake due to a track condition. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green Line trains are standing near Clark/Lake due to a track condition.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Harlem-bound Green Line trains have been re-routed to the Inner Loop. Board Harlem-bound Green Line trains on the Orange Line platform side.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2023-03-03T20:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91025"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "07548ee3-3ed0-4c2d-999e-e154eeeda1b5"
   }
 ]
