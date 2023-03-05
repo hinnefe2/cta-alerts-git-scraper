@@ -32,5 +32,73 @@
     },
     "ttim": "0",
     "GUID": "4fe4c2b7-8139-4d4e-86ad-859c88938ba8"
+  },
+  {
+    "AlertId": "91037",
+    "Headline": "#3 King Drive Temporary Reroute at King Drive/79th",
+    "ShortDescription": "3 King Drive buses are temporarily rerouted via 95th, Cottage Grove, 76th, and King Dr due to, street blockage near King Drive/79th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#3 King Drive buses are temporarily rerouted in both directions via 95th, Cottage Grove, 76th, and King Dr due to, street blockage near King Drive/79th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-04T20:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91037"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "King Drive",
+        "ServiceId": "3",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/3/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c37a0769-595c-4eaa-b83a-9ba6363fcb25"
+  },
+  {
+    "AlertId": "91038",
+    "Headline": "63rd-bound Green Line Service Delayed at Pulaski",
+    "ShortDescription": "63rd-bound Green Line trains are standing at Pulaski due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>63rd-bound Green Line trains are standing at Pulaski due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-03-04T20:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91038"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8af189ba-b409-48dc-933a-6815267ae5b5"
   }
 ]
