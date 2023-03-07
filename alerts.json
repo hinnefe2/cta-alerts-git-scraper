@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "91083",
+    "Headline": "#3 King Drive and #4 Cottage Grove Temporary Northbound Reroute near Michigan/9th Street",
+    "ShortDescription": "NB 3 and 4 buses are temporarily rerouted via Michigan, Roosevelt, State, Balbo, and Michigan due to street blockage near Michigan/9th Street.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound&nbsp;&nbsp;#3 King Drive and #4 Cottage Grove buses are temporarily rerouted via Michigan, Roosevelt, State, Balbo, and Michigan due to street blockage near Michigan/9th Street.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-06T21:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91083"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "King Drive",
+          "ServiceId": "3",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/3/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c3b719bb-50f0-4ae3-841f-3c303f18665c"
+  }
+]
