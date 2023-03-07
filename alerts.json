@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "91097",
-    "Headline": "Loop 'L' Service Delayed near Clark/Lake",
-    "ShortDescription": "Loop 'L' Service trains are standing near Clark/Lake due to police activity. Crews working to restore service.",
+    "Headline": "Loop 'L'  Delays",
+    "ShortDescription": "Loop 'L' trains are running w/residual delays and congestion following earlier polilce activity near Clark/Lake. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop &#39;L&#39; Service trains are standing near Clark/Lake due to police activity.</p>\n\n<p>Personnel are working to restore service. Allow extra travel time.</p>\n"
+      "#cdata-section": "<p>Loop &#39;L&#39; trains are running w/residual delays and congestion following earlier polilce activity near Clark/Lake.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -100,6 +100,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "6e747376-edb4-4794-b272-10734b96ab09"
+    "GUID": "e977bbf9-5774-47b3-acc5-aac16049db28"
+  },
+  {
+    "AlertId": "91098",
+    "Headline": "#44 Wallace/Racine Temporary Reroute at Racine/67th",
+    "ShortDescription": "44 Wallace/Racine buses are temporarily rerouted via Racine, 63rd, Loomis, Marquette, and Racine due to, police activity near Racine/67th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#44 Wallace/Racine buses are temporarily rerouted via Racine, 63rd, Loomis, Marquette, and Racine due to, police activity near Racine/67th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-07T17:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91098"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Wallace/Racine",
+        "ServiceId": "44",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/44/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2778a5c0-b7fc-4007-92db-88617b844504"
   }
 ]
