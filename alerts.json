@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "bf19844b-7485-4e49-bbb9-4b1618d627e8"
+  },
+  {
+    "AlertId": "91087",
+    "Headline": "#3 King Drive and #4 Cottage Grove Temporary Southbound Reroute near Michigan/18th",
+    "ShortDescription": "SB 3 and 4 buses are temporarily rerouted via Michigan, 16th, Wabash, Cullerton, and Michigan due to, street blockage near Michigan/18th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #3 King Drive and #4 Cottage Grove buses are temporarily rerouted via Michigan, 16th, Wabash, Cullerton, and Michigan due to, street blockage near Michigan/18th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-07T00:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91087"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "King Drive",
+          "ServiceId": "3",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/3/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "38ea0ac3-9bcd-4352-b107-46218b1f384f"
   }
 ]
