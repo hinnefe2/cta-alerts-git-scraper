@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "91125",
-    "Headline": "Westbound #37 Sedgwick Temporary Reroute near Van Buren/Wacker",
-    "ShortDescription": "Westbound 37 Sedgwick buses are temporarily rerouted via Van Buren, Wacker, Adams, and Clinton due to, a closed bridge.",
+    "AlertId": "91138",
+    "Headline": "Delays Affecting Howard-bound Red Line Trains",
+    "ShortDescription": "Howard-bound Red Line trains are running with delays from congestion after an earlier door problem at Jarvis. Crews working to restore normal service.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound #37 Sedgwick buses are temporarily rerouted via Van Buren, Wacker, Adams, and Clinton due to, a closed bridge.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are running with delays from congestion after an earlier door problem at Jarvis.&nbsp;</p>\r\n\r\n<p>Crews are working to clear the congestion that&#39;s formed and restore normal travel times through the area.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-03-09T09:30:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-03-09T15:57:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91125"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91138"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Sedgwick",
-        "ServiceId": "37",
-        "ServiceBackColor": "059",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/37/"
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "4ced13e9-d459-4b0c-93c7-39f959bf2878"
+    "GUID": "503ac691-5b81-42da-941f-7ddc8f3d0b1e"
   }
 ]
