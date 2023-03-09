@@ -36,9 +36,9 @@
   {
     "AlertId": "91131",
     "Headline": "#8A South Halsted Temporary Reroute at 79th/Wentworth",
-    "ShortDescription": "8A South Halsted buses temp rerouted NB 79th, Vincennes, 76th, Lafayette 79th, Perry SB 79th, Lafayette, 83rd, Halsted due to police activity by 79th/Wentworth",
+    "ShortDescription": "8A South Halsted buses temp rerouted NB 79th, Vincennes, 76th, Lafayette 79th, Perry SB 79th, Lafayette, 83rd, Halsted due to street blockage by 79th/Wentworth",
     "FullDescription": {
-      "#cdata-section": "<p>#8A South Halsted buses are temporarily rerouted in both directions near&nbsp;due to police activity&nbsp;near 79th/Wentworth.</p>\r\n\r\n<p>Northbound buses will operate via 79th, Vincennes, 76th, Lafayette 79th, Perry.</p>\r\n\r\n<p>Southbound buses will operate via&nbsp;79th, Lafayette, 83rd, Halsted.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#8A South Halsted buses are temporarily rerouted in both directions near&nbsp;due to street blockage near 79th/Wentworth.</p>\r\n\r\n<p>Northbound buses will operate via 79th, Vincennes, 76th, Lafayette 79th, Perry.</p>\r\n\r\n<p>Southbound buses will operate via&nbsp;79th, Lafayette, 83rd, Halsted.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -65,6 +65,74 @@
       }
     },
     "ttim": "0",
-    "GUID": "7a9fa49f-f1a6-4597-8696-452e68583054"
+    "GUID": "409690a2-611f-4153-a5f8-969ef9661b62"
+  },
+  {
+    "AlertId": "91132",
+    "Headline": "#24 Wentworth Temporary Reroute near 79th/Wentworth",
+    "ShortDescription": "24 Wentworth buses temp. rerouted SB Vincennes 76th Lafayette 83rd Vincennes; NB Vincennes 83rd State 76th Vincennes due to street blockage by 79th/Wentworth.",
+    "FullDescription": {
+      "#cdata-section": "<p>#24 Wentworth&nbsp;buses are temporarily rerouted in both directions near 79th/Wentworth, due to street blockage.</p>\r\n\r\n<p>Southbound buses will operate via Vincennes, 76th, Lafayette, 83rd, Vincennes.</p>\r\n\r\n<p>Northbound&nbsp; buses will operate via Vincennes, 83rd, State, 76th, Vincennes.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-09T10:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91132"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Wentworth",
+        "ServiceId": "24",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/24/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f50f2ec4-75a7-44b3-891e-41fb04ba2dd9"
+  },
+  {
+    "AlertId": "91133",
+    "Headline": "#79 79th Temporary Reroute at 79th/Wentworth",
+    "ShortDescription": "79 79th buses are temporarily rerouted via 79th, Vincennes, 76th, Lafayette, and 79th due to, street blockage near 79th/Wentworth.",
+    "FullDescription": {
+      "#cdata-section": "<p>#79 79th buses are temporarily rerouted via 79th, Vincennes, 76th, Lafayette, and 79th due to, street blockage near 79th/Wentworth.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-09T10:16:00",
+    "EventEnd": "2023-03-12T11:16:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91133"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "93a95721-0d10-4035-95e7-872db39e9a0e"
   }
 ]
