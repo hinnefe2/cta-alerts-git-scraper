@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "91157",
+    "Headline": "#34 South Michigan Temporary Reroute near 111th/Michigan",
+    "ShortDescription": "34 South Michigan buses temp. rerouted NB: Michigan, 112th, State, 111th, and Michigan; SB: Michigan, 111th, State, 113th and Michigan: due to, street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#34 South Michigan buses are temporarily rerouted in both directions&nbsp;due to street blockage&nbsp;near 111th/Michigan.</p>\r\n\r\n<p>Northbound buses will operate via Michigan, 112th, State, 111th, and Michigan.</p>\r\n\r\n<p>Southbound buses will operate via Michigan, 111th, State, 113th and Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-10T17:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91157"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Michigan",
+        "ServiceId": "34",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/34/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9a60da24-9e5e-45e1-b6ed-d2364939dd44"
+  },
+  {
+    "AlertId": "91158",
+    "Headline": "Forest Park-bound Blue Line Service Delayed near Jefferson Park",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing near Jefferson Park due to signal problems. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing near Jefferson Park due to signal problems.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-03-10T17:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91158"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "92867754-f5fd-4f19-b7b2-e1972eca7237"
+  }
+]
