@@ -1,15 +1,15 @@
 [
   {
     "AlertId": "91145",
-    "Headline": "63rd-bound Green and Pink Line Service Delayed at Ashland/Lake",
-    "ShortDescription": "63rd-bound Green and Pink Line trains are standing at Ashland/Lake due to a sick customer. Crews working to restore service.",
+    "Headline": "63rd-bound Green Line and Loop-bound Pink Line Delays",
+    "ShortDescription": "Some 63rd-bound Green Line and Loop-bound Pink Line trains are operating with residual delays after an earlier sick customer at Ashland/Lake. Allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>63rd-bound Green and Pink Line trains are standing at Ashland/Lake due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Some 63rd-bound Green Line and Loop-bound Pink Line trains are operating with residual delays after an earlier sick customer at Ashland/Lake.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-03-09T22:49:00",
     "EventEnd": null,
     "TBD": "1",
@@ -44,6 +44,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "620a9d15-711f-4fc0-8283-6e15e87bb504"
+    "GUID": "6f0e66fc-076c-40a7-865e-f1b9d6f98b6b"
+  },
+  {
+    "AlertId": "91146",
+    "Headline": "Kimball-bound Brown Line Service Delayed at Rockwell",
+    "ShortDescription": "Kimball-bound Brown Line trains are standing at Rockwell due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Kimball-bound Brown Line trains are standing at Rockwell due to police activity.</p>\n\n<p>Personnel are working to restore service. Allow extra travel time.</p>\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-03-09T22:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91146"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7300966e-6aaa-45e2-a7cb-1e3e2f2f43a4"
   }
 ]
