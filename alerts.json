@@ -6,10 +6,10 @@
     "FullDescription": {
       "#cdata-section": "<p>Loop-bound Orange Line trains are standing at Ashland due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-03-12T14:37:00",
     "EventEnd": null,
     "TBD": "1",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "afdf0e15-7887-4d89-9390-b333da47431b"
+    "GUID": "af39a00e-c68d-450c-b0ca-0f3392316ad2"
+  },
+  {
+    "AlertId": "91172",
+    "Headline": "Forest Park-bound Blue Line Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following an earlier mechanical problem at Rosemont. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with residual delays following an earlier mechanical problem at Rosemont.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-03-12T14:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91172"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "44f50e32-a649-4ed4-bfc4-94661ca56926"
   }
 ]
