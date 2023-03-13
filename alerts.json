@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "91177",
+    "Headline": "#30 South Chicago Temporary Reroute at Ewing/93rd",
+    "ShortDescription": "30 South Chicago buses are temporarily rerouted via Ewing, South Chicago and Ewing due to, street blockage near Ewing/93rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#30 South Chicago buses are temporarily rerouted in both directions via Ewing, South Chicago and Ewing due to, street blockage near Ewing/93rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-12T19:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91177"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Chicago",
+        "ServiceId": "30",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/30/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ac608301-0d42-4663-972f-cffca1e33df6"
+  },
+  {
+    "AlertId": "91178",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at Western (FP)",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Western (FP Branch) due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Western (Forest Park Branch) due to a sick customer.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-03-12T20:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91178"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "edb07836-1f01-4c25-bbc1-28d7e3b550f2"
+  }
+]
