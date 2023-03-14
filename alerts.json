@@ -48,10 +48,10 @@
   },
   {
     "AlertId": "91209",
-    "Headline": "Brown and Purple Line Express Line Service Delayed near Clark/Lake",
-    "ShortDescription": "Brown and Purple Line Express Line trains are standing at Clark/Lake due to loss of power. Crews working to restore service.",
+    "Headline": "Brown Line and Purple Line Express Service Disrupted Downtown",
+    "ShortDescription": "Brown Line and Purple Line Express trains are disrupted downtown due to loss of track power near Merchandise Mart. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown and Purple Line Express Line trains are standing at Clark/Lake due to loss of power.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line and Purple Line Express trains are disrupted downtown due to loss of track power near Merchandise Mart.</p>\r\n\r\n<p>At this time, also consider other service alternatives such as the Red Line or lakefront express buses that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "88",
     "SeverityColor": "c00c00",
@@ -91,6 +91,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "88380f95-307a-4cfb-b16e-d2182d57e881"
+    "GUID": "4ea84748-58b2-4577-b863-42f4bddbd367"
+  },
+  {
+    "AlertId": "91210",
+    "Headline": "No trains between Howard and Loop",
+    "ShortDescription": "Purple Line Express service has been temporarily suspended between Howard and the Loop due to a loss of track power near Merch. Mart. Consider Red Line as alt.",
+    "FullDescription": {
+      "#cdata-section": "<p>Purple Line Express service has been temporarily suspended between Howard and the Loop due to a loss of track power near Merchandise&nbsp;Mart.</p>\r\n\r\n<p>As a result, <strong>Purple Line&nbsp;trains are operating only between Linden and Howard&nbsp;at this time.</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as the Red Line.</p>\r\n\r\n<p>See station personnel for further assistance&nbsp;and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2023-03-14T16:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91210"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line Express",
+        "ServiceId": "Pexp",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9b848b7a-df42-4378-816a-25f8b4fcd233"
   }
 ]
