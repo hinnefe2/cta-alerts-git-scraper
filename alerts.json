@@ -48,15 +48,15 @@
   },
   {
     "AlertId": "91208",
-    "Headline": "No Trains Between Damen and Racine",
-    "ShortDescription": "Blue Line service has been temporarily suspended between Damen and Racine due to unauthorized person on the tracks at LaSalle.",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running w/residual delays and congestion following earlier unauthorized person on the tracks at LaSalle. Service is resuming.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line service has been temporarily suspended between Damen and Racine due to unauthorized person on the tracks at LaSalle.</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li><strong>between O&#39;Hare and Damen</strong>, and,</li>\r\n\t<li><strong>between Racine and Forest Park</strong>, only.</li>\r\n</ul>\r\n\r\n<p>Shuttle buses have been requested between Damen and Racine to provide connecting service.</p>\r\n\r\n<p>&nbsp;At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.<br />\r\n&nbsp;</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are running w/residual delays and congestion following earlier unauthorized person on the tracks at LaSalle.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
+    "SeverityScore": "80",
     "SeverityColor": "c00c00",
     "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "Impact": "Major Delays",
     "EventStart": "2023-03-14T15:58:00",
     "EventEnd": null,
     "TBD": "1",
@@ -78,6 +78,86 @@
       }
     },
     "ttim": "0",
-    "GUID": "0e0455dc-85d5-4fb2-956c-9c7fc3999f10"
+    "GUID": "e5dc733b-09d6-4e2c-bdf2-6aa9196b9da3"
+  },
+  {
+    "AlertId": "91209",
+    "Headline": "Delays on Loop 'L' (elevated lines)",
+    "ShortDescription": "Brown, Green, Orange, Purple & Pink Line trains are experiencing delays due to track conditions near Clark/Lake.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown, Green, Orange, Purple &amp; Pink Line trains are experiencing delays due to track conditions near Clark/Lake.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2023-03-14T16:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91209"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ea6605a7-acf5-44de-983f-9178be3df197"
   }
 ]
