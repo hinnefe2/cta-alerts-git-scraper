@@ -48,15 +48,15 @@
   },
   {
     "AlertId": "91209",
-    "Headline": "Delays on Loop 'L' (elevated lines)",
-    "ShortDescription": "Brown, Green, Orange, Purple & Pink Line trains are experiencing delays due to loss of power near Clark/Lake.",
+    "Headline": "Brown and Purple Line Express Line Service Delayed near Clark/Lake",
+    "ShortDescription": "Brown and Purple Line Express Line trains are standing at Clark/Lake due to loss of power. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown, Green, Orange, Purple &amp; Pink Line trains are experiencing delays due to loss of power near Clark/Lake.&nbsp;</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown and Purple Line Express Line trains are standing at Clark/Lake due to loss of power.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
+    "SeverityScore": "88",
     "SeverityColor": "c00c00",
     "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "Impact": "Service Disruption / Major Delays",
     "EventStart": "2023-03-14T16:42:00",
     "EventEnd": null,
     "TBD": "1",
@@ -69,45 +69,12 @@
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
           "ServiceName": "Brown Line",
           "ServiceId": "Brn",
           "ServiceBackColor": "62361b",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
           }
         },
         {
@@ -124,6 +91,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "b326244f-53b1-438f-92b3-aa01703ca873"
+    "GUID": "88380f95-307a-4cfb-b16e-d2182d57e881"
   }
 ]
