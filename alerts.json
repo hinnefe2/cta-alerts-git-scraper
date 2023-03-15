@@ -1,52 +1,5 @@
 [
   {
-    "AlertId": "91205",
-    "Headline": "#J14 Jeffery Jump & #15 Jeffery Local Temporary Reroute at Jeffery/93rd",
-    "ShortDescription": "J14 Jeffery Jump & 15 Jeffery Local  buses are temporarily rerouted via Jeffery, 95th, Colfax, 95th, and Jeffery due to, street blockage near Jeffery/93rd.",
-    "FullDescription": {
-      "#cdata-section": "<p>#J14 Jeffery Jump &amp; #15 Jeffery Local buses are temporarily rerouted in both directions via Jeffery, 95th, Colfax, 95th, and Jeffery due to, street blockage near Jeffery/93rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-03-14T09:29:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91205"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Jump",
-          "ServiceId": "J14",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Local",
-          "ServiceId": "15",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/15/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "0a2f3005-d380-4073-a5d1-5967cb665320"
-  },
-  {
     "AlertId": "91209",
     "Headline": "No trains between Armitage and the Loop",
     "ShortDescription": "Brown Line service has been temporarily suspended between Armitage and the Loop due to a loss of track power near Merchandise Mart.",
@@ -246,40 +199,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "9b848b7a-df42-4378-816a-25f8b4fcd233"
-  },
-  {
-    "AlertId": "91211",
-    "Headline": "Forest Park-bound Blue Line Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays at O'Hare. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays at O&#39;Hare.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-03-14T18:38:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91211"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f71f8625-d376-4fbc-ac22-b384a0195271"
+    "GUID": "ff67889a-6880-48db-ba8c-71a4172fadb5"
   }
 ]
