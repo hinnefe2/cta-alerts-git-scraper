@@ -4,12 +4,12 @@
     "Headline": "Howard-bound Red Line Service Delayed at Garfield",
     "ShortDescription": "Howard-bound Red Line trains are standing at Garfield due to a sick customer. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Garfield due to a sick customer.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Garfield due to a sick customer.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2023-03-15T08:37:00",
     "EventEnd": null,
     "TBD": "1",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "c75c73bf-4ec9-47e3-a408-a080313c647c"
+    "GUID": "9b14f543-e944-4ac2-a9f8-8bdc0c1e5b63"
+  },
+  {
+    "AlertId": "91219",
+    "Headline": "Orange Line Service Delayed near Pulaski",
+    "ShortDescription": "Orange Line trains are standing near Pulaski due to a unauthorized person on the tracks. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange Line trains are standing near Pulaski due to a unauthorized person on the tracks.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-03-15T08:45:00",
+    "EventEnd": "2023-03-15T09:15:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91219"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "dd3f5a81-0de0-4d52-afa7-b6d63d525dc1"
   }
 ]
