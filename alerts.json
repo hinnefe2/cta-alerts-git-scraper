@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "c7af32ac-dbb6-4278-b6e2-bb1d183484e7"
+  },
+  {
+    "AlertId": "91236",
+    "Headline": "#20 Madison & #157 Streeterville/Taylor Temporary Westbound Reroute near Madison/Wacker",
+    "ShortDescription": "Westbound 20 Madison & 157 Streeterville/Taylor buses are temporarily rerouted via Madison, Wacker, Adams, and Canal due to, bridge testing near Madison/Wacker.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #20 Madison &amp; #157 Streeterville/Taylor buses are temporarily rerouted via Madison, Wacker, Adams, and Canal due to, bridge testing near Madison/Wacker.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-16T09:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91236"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Madison",
+          "ServiceId": "20",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/20/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Streeterville/Taylor",
+          "ServiceId": "157",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/157/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ecdc4ede-b092-4d38-98cb-96cd491715d8"
   }
 ]
