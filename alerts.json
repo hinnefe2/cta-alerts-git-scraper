@@ -126,5 +126,52 @@
     },
     "ttim": "0",
     "GUID": "53053479-ca03-4fdc-97f9-62148724c294"
+  },
+  {
+    "AlertId": "91238",
+    "Headline": "#J14 Jeffery Jump & #56 Milwaukee Temporary Northbound Reroute near Madison/Wacker",
+    "ShortDescription": "Northbound J14 Jeffery Jump & 56 Milwaukee buses are temporarily rerouted via Madison, Wacker, Adams, and Canal due to, bridge testing near Madison/Wacker.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #J14 Jeffery Jump &amp; #56 Milwaukee buses are temporarily rerouted via Madison, Wacker, Adams, and Canal due to, bridge testing near Madison/Wacker.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-16T09:57:00",
+    "EventEnd": "2023-03-19T09:57:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91238"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Milwaukee",
+          "ServiceId": "56",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/56/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "88a1ad51-0dcb-4839-86ae-375c56ba41da"
   }
 ]
