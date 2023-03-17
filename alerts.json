@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "369547b9-5324-4be0-848c-7f7a288b0491"
+  },
+  {
+    "AlertId": "91249",
+    "Headline": "Harlem-bound Green & 54th/Cermak-bound Pink Line Delays",
+    "ShortDescription": "Harlem-bound Green & 54th/Cermak-bound Pink Line trains are running with residual delays following earlier police activity at Morgan. Allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green &amp; 54th/Cermak-bound Pink Line trains are running with residual delays following earlier police activity at Morgan.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-03-16T23:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91249"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "3161616d-9f8a-49da-9e8d-86b9cb91ed87"
   }
 ]
