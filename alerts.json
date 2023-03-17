@@ -102,37 +102,37 @@
     "GUID": "9263cb50-f5f6-4fa6-bb25-72548b6cb919"
   },
   {
-    "AlertId": "91258",
-    "Headline": "Forest Park-bound Blue Line Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following earlier sick customer at Irving Park. Service is resuming, allow extra time.",
+    "AlertId": "91260",
+    "Headline": "Southbound #91 Austin Temporary Reroute near Austin/Hirsch",
+    "ShortDescription": "Southbound 91 Austin buses are temporarily rerouted via Austin, North Avenue, Central, Division, and Austin due to, construction near Austin/Hirsch.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays following earlier sick customer at Irving Park.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #91 Austin buses are temporarily rerouted via&nbsp;Austin, North Avenue, Central, Division, and Austin due to, construction near Austin/Hirsch</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2023-03-17T08:39:00",
-    "EventEnd": "2023-03-17T09:15:00",
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-17T09:13:00",
+    "EventEnd": "2023-03-31T09:13:00",
     "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91258"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91260"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Austin",
+        "ServiceId": "91",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/91/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "4dfbe88c-69dd-4c51-bb98-81169ed112e3"
+    "GUID": "d6aa46bd-00d3-46e8-91bd-54b1322d29ad"
   }
 ]
