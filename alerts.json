@@ -66,5 +66,97 @@
     },
     "ttim": "0",
     "GUID": "9263cb50-f5f6-4fa6-bb25-72548b6cb919"
+  },
+  {
+    "AlertId": "91278",
+    "Headline": "6 Jackson Park Exp, J14 Jeffery Jump, 26 South Shore Exp Temporary Northbound Reroute near Roosevelt/Columbus",
+    "ShortDescription": "NB 6 Jackson Pk Exp, J14 Jeffrey Jump, 26 South Shore Exp buses are temporarily rerouted via LSD, 1-55 South, State, Roosevelt, Michigan and Balbo.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #6 Jackson Park Express, #J14 Jeffery Jump, #26 South Shore Express&nbsp;buses are temporarily rerouted via Lake Shore Drive, 1-55 South, State, Roosevelt, Michigan and Balbo., due to street blockage&nbsp;near Roosevelt/Columbus.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-17T23:45:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91278"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "38b27c68-369c-4c4e-8503-133b0acdfb09"
+  },
+  {
+    "AlertId": "91279",
+    "Headline": "#146 Inner Lake Shore/Michigan Express Temporary Southbound Reroute near Roosevelt/Columbus",
+    "ShortDescription": "SB 146 Inner Lake Shore/Michigan Express buses are temporarily rerouted via State, 11th, Wabash and Roosevelt due to, street blockage near Roosevelt/Columbus.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #146 Inner Lake Shore/Michigan Express buses are temporarily rerouted via State, 11th, Wabash and Roosevelt due to, street blockage near Roosevelt/Columbus.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-17T23:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91279"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Inner Lake Shore/Michigan Express",
+        "ServiceId": "146",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/146/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7cee6c85-224d-45c3-85bc-dfd27f12ae15"
   }
 ]
