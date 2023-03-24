@@ -1,36 +1,94 @@
 [
   {
-    "AlertId": "91384",
-    "Headline": "Brown Line Delays",
-    "ShortDescription": "Brown Line trains are running w/residual delays following an earlier unauthorized person on the tracks near Chicago. Service is resuming, allow extra time.",
+    "AlertId": "91385",
+    "Headline": "#3 King Drive, #147 Outer DuSable Lake Shore Express, and #151 Sheridan Temporary Reroute near Michigan/Hubbard",
+    "ShortDescription": "3, 147, 151 buses temp. rerouted NB: Michigan, Wacker, State, Ohio, and Michigan; SB: Michigan, Ontario, State, Wacker, and Michigan near Michigan/Hubbard.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are running w/residual delays following an earlier unauthorized person on the tracks near Chicago.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#3 King Drive,&nbsp;#147 Outer DuSable Lake Shore Express,&nbsp; and&nbsp;#151 Sheridan buses are temporarily rerouted in both directions&nbsp; due to construction near Michigan/Hubbard.</p>\r\n\r\n<p>Northbound buses will operate via Michigan, Wacker, State, Ohio, and Michigan.</p>\r\n\r\n<p>Southbound buses will operate via Michigan, Ontario, State, Wacker, and Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-03-23T22:37:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-23T23:01:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91384"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91385"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "King Drive",
+          "ServiceId": "3",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/3/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "99074535-ebcc-4131-808e-c08916f1b616"
+  },
+  {
+    "AlertId": "91386",
+    "Headline": "#146 Inner Lake Shore/Michigan Express Temporary Reroute near Michigan/Hubbard",
+    "ShortDescription": "146 buses temp. rerouted NB: Michigan, Wacker, State, Ohio, and Michigan; SB: Michigan, Ontario, State, Wacker, and Michigan, near Michigan/Hubbard.",
+    "FullDescription": {
+      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express buses are temporarily rerouted in both directions due to construction near Michigan/Hubbard.</p>\r\n\r\n<p>Northbound buses will operate via Michigan, Wacker, State, Ohio, and Michigan.</p>\r\n\r\n<p>Southbound buses will operate via Michigan, Ontario, State, Wacker, and Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-23T23:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91386"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Inner Lake Shore/Michigan Express",
+        "ServiceId": "146",
+        "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/146/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "12c86494-138c-4f4c-abed-49a9bbd925b2"
+    "GUID": "afde6e71-61f1-4e6c-bdd6-a4324e88287b"
   }
 ]
