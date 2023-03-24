@@ -228,40 +228,6 @@
     "GUID": "b74deab0-3bed-48e0-b3c4-f30280bfa3ae"
   },
   {
-    "AlertId": "91406",
-    "Headline": "#26 South Shore Express Temporary Northbound Reroute near Jeffrey/67th",
-    "ShortDescription": "NB 26 South Shore Exp buses are temporarily rerouted via Jeffrey, 67th, Cornell, 57th, and Lake Shore Dr due to, street blockage near Jeffrey/67th.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound&nbsp;#26 South Shore Express buses are temporarily rerouted via&nbsp;Jeffrey, 67th, Cornell, 57th, and Lake Shore Dr due to, street blockage near Jeffrey/67th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-03-24T14:03:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91406"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Shore Express",
-        "ServiceId": "26",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/26/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "308aad9f-7d08-4251-8743-5695950349f8"
-  },
-  {
     "AlertId": "91407",
     "Headline": "#J14 Jeffery Jump Temporary Reroute near Jeffrey/67th",
     "ShortDescription": "J14 Jeffery Jump buses temp. rerouted NB: Jeffrey, 67th, Cornell, 57th & LSD; SB: LSD, exit at 53rd, Lake Park, 57th, Stony Island, 67th & Jeffrey.",
@@ -294,39 +260,5 @@
     },
     "ttim": "0",
     "GUID": "a430f009-66a5-4752-80ff-a7d7d4f844e1"
-  },
-  {
-    "AlertId": "91409",
-    "Headline": "Harlem-bound Green Line Delays",
-    "ShortDescription": "Harlem-bound Green Line trains are running w/residual delays following an earlier sick customer. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green Line trains are running with residual delays following an earlier sick customer.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-03-24T14:39:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91409"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "1f4bd249-3a1c-4147-8c6d-7e886c817c14"
   }
 ]
