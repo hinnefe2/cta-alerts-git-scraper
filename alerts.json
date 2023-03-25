@@ -161,10 +161,10 @@
   },
   {
     "AlertId": "91430",
-    "Headline": "Purple Line Service Delayed near Central",
-    "ShortDescription": "Purple Line trains are standing near Central due to debris on the tracks. Crews working to restore service.",
+    "Headline": "Purple Line Delays",
+    "ShortDescription": "Purple Line trains are running w/residual delays following earlier debris on the tracks near Central. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Purple Line trains are standing near Central due to debris on the tracks.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Shuttle buses are available between Linden&nbsp;and Howard&nbsp;to provide connecting service.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Purple Line trains are running with residual delays following earlier debris on the tracks near Central.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "80",
     "SeverityColor": "c00c00",
@@ -191,7 +191,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "d28a4622-5d74-4af0-a39b-7413887416f1"
+    "GUID": "3b94c97a-0c9a-4a31-b7a1-4d9a0611b739"
   },
   {
     "AlertId": "91431",
@@ -226,5 +226,39 @@
     },
     "ttim": "0",
     "GUID": "069f9e06-4cfe-4fd5-9e84-3674c5012e25"
+  },
+  {
+    "AlertId": "91432",
+    "Headline": "#29 State Temporary Southbound Reroute near State/45th",
+    "ShortDescription": "SB 29 State buses are temporarily rerouted via State, 45th, Wabash, 47th and State due to, street blockage near State/45th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound&nbsp;#29 State&nbsp;buses are temporarily rerouted via State, 45th, Wabash, 47th and State due to, street blockage near State/45th.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-25T17:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91432"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b49d54f8-771b-4b27-9ecc-cdaf6b559565"
   }
 ]
