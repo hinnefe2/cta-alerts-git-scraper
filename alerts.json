@@ -1,63 +1,5 @@
 [
   {
-    "AlertId": "91385",
-    "Headline": "#3 King Drive, #147 Outer DuSable Lake Shore Express, and #151 Sheridan Temporary Reroute near Michigan/Hubbard",
-    "ShortDescription": "3, 147, 151 buses temp. rerouted NB: Michigan, Wacker, State, Ohio, and Michigan; SB: Michigan, Ontario, State, Wacker, and Michigan near Michigan/Hubbard.",
-    "FullDescription": {
-      "#cdata-section": "<p>#3 King Drive,&nbsp;#147 Outer DuSable Lake Shore Express,&nbsp; and&nbsp;#151 Sheridan buses are temporarily rerouted in both directions&nbsp; due to construction near Michigan/Hubbard.</p>\r\n\r\n<p>Northbound buses will operate via Michigan, Wacker, State, Ohio, and Michigan.</p>\r\n\r\n<p>Southbound buses will operate via Michigan, Ontario, State, Wacker, and Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-03-23T23:01:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91385"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "King Drive",
-          "ServiceId": "3",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/3/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Outer DuSable Lake Shore Express",
-          "ServiceId": "147",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/147/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Sheridan",
-          "ServiceId": "151",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/151/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "99074535-ebcc-4131-808e-c08916f1b616"
-  },
-  {
     "AlertId": "91386",
     "Headline": "#146 Inner Lake Shore/Michigan Express Temporary Reroute near Michigan/Hubbard",
     "ShortDescription": "146 buses temp. rerouted NB: Michigan, Wacker, State, Ohio, and Michigan; SB: Michigan, Ontario, State, Wacker, and Michigan, near Michigan/Hubbard.",
@@ -124,40 +66,6 @@
     },
     "ttim": "0",
     "GUID": "f25be240-4454-4173-af34-b79158a4a0b2"
-  },
-  {
-    "AlertId": "91397",
-    "Headline": "#56 Milwaukee Temporary Northbound Reroute near Jefferson/Lake",
-    "ShortDescription": "Northbound 56 Milwaukee buses are temporarily rerouted via Jefferson, Randolph, Halsted, and Desplaines due to, construction near Jefferson/Lake.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #56 Milwaukee buses are temporarily rerouted via Jefferson, Randolph, Halsted, and Desplaines due to, construction near Jefferson/Lake.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-03-24T09:01:00",
-    "EventEnd": "2023-03-31",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91397"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Milwaukee",
-        "ServiceId": "56",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/56/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "36a53d26-1709-4997-baba-f3d63b5e4ccd"
   },
   {
     "AlertId": "91432",
