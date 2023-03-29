@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "91457",
+    "Headline": "#22 Clark Temporary Reroute near Clark/Elm",
+    "ShortDescription": "22 Clark buses temp. rerouted NB: Dearborn, Division and Clark; SB: Clark, Division, Walton and Clark due to, street blockage near Clark/Elm.",
+    "FullDescription": {
+      "#cdata-section": "<p>#22 Clark&nbsp;buses are temporarily rerouted in both directions, due to street blockage near Clark/Elm.</p>\r\n\r\n<p>Northbound buses will operate via Dearborn, Division and Clark</p>\r\n\r\n<p>Southbound buses will operate via Clark, Division, Walton and Clark.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-29T10:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91457"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clark",
+        "ServiceId": "22",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/22/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8d5e001b-ff7b-44aa-9b33-3ec9cdff82ff"
+  },
+  {
+    "AlertId": "91458",
+    "Headline": "#70 Division Temporary Westbound Reroute near Clark/Elm",
+    "ShortDescription": "Westbound 70 Division buses are temporarily rerouted via Walton, Clark, Chicago, LaSalle and Division due to, street blockage near Clark/Elm.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #70 Division buses are temporarily rerouted via Walton, Clark, Chicago, LaSalle and Division due to, street blockage near Clark/Elm.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-03-29T10:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91458"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Division",
+        "ServiceId": "70",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/70/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "da9c0ddd-4874-4865-8d3b-6efb52149da8"
+  }
+]
