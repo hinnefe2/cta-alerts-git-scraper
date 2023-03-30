@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "91469",
+    "Headline": " Purple and Yellow Line Boarding change at Howard",
+    "ShortDescription": "Purple and Yellow Line will board and alight on the 95th-bound side of the platform at the Howard. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Service on the Purple and Yellow Line is experiencing delays. Trains in both directions are operating on the same track at Howard due to police activity.</p>\r\n\r\n<p>Purple and Yellow Line will board and alight on the 95th-bound side of the platform at the Howard.<br />\r\nWe&#39;re working to restore normal service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-03-30T05:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91469"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Yellow Line",
+          "ServiceId": "Y",
+          "ServiceBackColor": "f9e300",
+          "ServiceTextColor": "000000",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/yellowline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "15dc17a7-5e84-4782-84de-f444af3e8b60"
+  }
+]
