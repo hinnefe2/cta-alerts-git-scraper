@@ -1,44 +1,10 @@
 [
   {
-    "AlertId": "91510",
-    "Headline": "#75 74th-75th Temporary Eastbound Reroute near 75th/Loomis",
-    "ShortDescription": "EB 75 74th-75th buses are temporarily rerouted via 75th, Ashland and 76th due to, street blockage near 75th/Loomis.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound&nbsp;#75 74th-75th buses are temporarily rerouted via 75th, Ashland and 76th due to, street blockage near 75th/Loomis.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-04-01T11:43:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91510"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "74th-75th",
-        "ServiceId": "75",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/75/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "37b5f48c-ab80-4961-a34e-6a86908629ff"
-  },
-  {
     "AlertId": "91518",
-    "Headline": "#87 87th Temporary Reroute at Pulaski/87th",
-    "ShortDescription": "87 87th buses are temporarily rerouted via Pulaski, 95th, Cicero, Southwest Hwy, and Pulaski due to, street blockage near Pulaski/87th.",
+    "Headline": "Correction: #53A South Pulaski Temporary Reroute at Pulaski/87th",
+    "ShortDescription": "Correction: 53A South Pulaski buses are temporarily rerouted via Pulaski, 95th, Cicero, Southwest Hwy, and Pulaski due to, street blockage near Pulaski/87th.",
     "FullDescription": {
-      "#cdata-section": "<p>#87 87th buses are temporarily rerouted via Pulaski, 95th, Cicero, Southwest Hwy, and Pulaski due to, street blockage near Pulaski/87th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Correction: #53A South Pulaski buses are temporarily rerouted via Pulaski, 95th, Cicero, Southwest Hwy, and Pulaski due to, street blockage near Pulaski/87th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -55,6 +21,40 @@
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Pulaski",
+        "ServiceId": "53A",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/53a/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ce8fcac3-7253-4d7b-b9ad-b0cd500ecf97"
+  },
+  {
+    "AlertId": "91519",
+    "Headline": "#87 87th Temporary Reroute at Pulaski/87th",
+    "ShortDescription": "87 87th buses are temporarily rerouted via 87th, Lawndale, Southwest Hwy,87th, and Cicero due to, street blockage at Pulaski/87th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#87 87th buses are temporarily rerouted in both directions via 87th, Lawndale, Southwest Hwy, 87th, and Cicero due to, street blockage at Pulaski/87th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-04-02T00:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91519"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
         "ServiceName": "87th",
         "ServiceId": "87",
         "ServiceBackColor": "059",
@@ -65,6 +65,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "666b7f34-3a0c-4bd4-918b-8c62a9a482ea"
+    "GUID": "be48cecf-897b-4c29-967d-af6a50d0ef84"
   }
 ]
