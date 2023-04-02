@@ -34,74 +34,16 @@
     "GUID": "37b5f48c-ab80-4961-a34e-6a86908629ff"
   },
   {
-    "AlertId": "91516",
-    "Headline": "Orange, Pink and Green Line Delays",
-    "ShortDescription": "Some Orange, Pink and Green Line trains are operating with residual delays after an earlier sick customer at Library. Allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Some Orange, Pink and Green Line trains are operating with residual delays after an earlier sick customer at Library.<br />\r\nTrains are moving and normal service is being restored.<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-04-01T23:35:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91516"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "d0af996b-98a8-4e87-8870-341992c76127"
-  },
-  {
     "AlertId": "91517",
-    "Headline": "Howard-bound Purple Line Service Delayed at Linden",
-    "ShortDescription": "Howard-bound Purple Line trains are standing at Linden due to a sick customer. Crews working to restore service.",
+    "Headline": "Howard-bound Purple Line Delays",
+    "ShortDescription": "Howard-bound Purple Line trains are running with residual delays following an earlier sick customer at Linden. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Purple Line&nbsp;trains are standing at Linden due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Purple Line trains are running with residual delays following an earlier sick customer at Linden.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-04-01T23:50:00",
     "EventEnd": null,
     "TBD": "1",
@@ -123,6 +65,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "ea9d8e26-ed49-4a1a-8d57-f0d7bd45691c"
+    "GUID": "3a9e7fb4-88e8-45b2-845c-11ee1f0b20cd"
   }
 ]
