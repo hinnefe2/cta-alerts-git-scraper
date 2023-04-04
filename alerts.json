@@ -1,52 +1,5 @@
 [
   {
-    "AlertId": "91532",
-    "Headline": "#7 Harrison, #126 Jackson Temporary Eatsbound Reroute near Congress Plaza",
-    "ShortDescription": "EB 7 Harrison, 126 Jackson buses are temporarily rerouted via Michigan, Balbo, Columbus, Ida B. Wells, and Congress due to, street blockage near Congress Plaza.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #7 Harrison and&nbsp;#126 Jackson&nbsp;buses are temporarily rerouted via Michigan, Balbo, Columbus, Ida B. Wells, and Congress due to, street blockage near Congress Plaza.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-04-03T08:15:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91532"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Harrison",
-          "ServiceId": "7",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/7/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jackson",
-          "ServiceId": "126",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/126/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "e809fff0-3959-47ef-b0b6-c846609570de"
-  },
-  {
     "AlertId": "91555",
     "Headline": "Linden-bound Purple Line Delays",
     "ShortDescription": "Linden-bound Purple Line trains are running w/residual delays following earlier police activity at Howard. Service is resuming, allow extra time.",
@@ -149,37 +102,37 @@
     "GUID": "6bcf2ae5-4769-4919-91d2-6e113e853f2b"
   },
   {
-    "AlertId": "91558",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following an earlier sick customer at Logan Square. Service is resuming, allow extra time.",
+    "AlertId": "91559",
+    "Headline": "#82 Kimball-Homan Temporary Reroute at Homan/Ohio",
+    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Homan, Kimball, Jackson, Kedzie, Chicago and Homan due to, street blockage near Homan/Ohio.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with residual delays following an earlier sick customer at Logan Square.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted in both directions via Homan, Kimball, Jackson, Kedzie, Chicago and Homan due to, street blockage near Homan/Ohio.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-04-04T15:11:00",
-    "EventEnd": "2023-04-04T15:30:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-04-04T15:31:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91558"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91559"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kimball-Homan",
+        "ServiceId": "82",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/82/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "742f9337-6469-4878-b78e-ad8d648a6508"
+    "GUID": "65064e82-09ff-4bb8-b4c7-724e46b9d90b"
   }
 ]
