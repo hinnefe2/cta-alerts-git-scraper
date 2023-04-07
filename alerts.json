@@ -1,15 +1,15 @@
 [
   {
     "AlertId": "91590",
-    "Headline": "Harlem-bound Green Line Service Delayed at Clinton",
-    "ShortDescription": "Harlem-bound Green Line trains are standing at Clinton due to police activity. Crews working to restore service.",
+    "Headline": "Harlem-bound Green Line Delays",
+    "ShortDescription": "Harlem-bound Green Line trains are running with residual delays following earlier police activity at Clinton. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green Line trains are standing at Clinton due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Harlem-bound Green Line trains are running with residual delays following earlier police activity at Clinton.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.<span style=\"white-space:pre\"> </span></p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-04-07T02:02:00",
     "EventEnd": null,
     "TBD": "1",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "0282588c-f8cd-4d40-ad0c-81b31ffb6125"
+    "GUID": "24dae3d7-d768-437a-81a7-c1163bf44dcc"
+  },
+  {
+    "AlertId": "91591",
+    "Headline": "#66 Chicago Temporary Reroute at Michigan/Wacker",
+    "ShortDescription": "66 Chicago buses are temporarily rerouted via Chicago, Columbus, South Water, and Michigan due to, street blockage near Michigan/Wacker.",
+    "FullDescription": {
+      "#cdata-section": "<p>#66 Chicago buses are temporarily rerouted via Chicago, Columbus, South Water, and Michigan due to, street blockage near Michigan/Wacker.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-04-07T02:18:00",
+    "EventEnd": "2023-04-10T02:18:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91591"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "527b6999-7a58-48e3-82f8-206c5ef1e0a5"
   }
 ]
