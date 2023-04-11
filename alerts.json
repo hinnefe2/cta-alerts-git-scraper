@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "cf41b1e8-c727-4bb1-b639-996d0f4103bf"
+  },
+  {
+    "AlertId": "91645",
+    "Headline": "Kimball-bound Brown Line Delays",
+    "ShortDescription": "Kimball-bound Brown Line trains are running w/residual delays following an earlier door problem at Chicago. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Kimball-bound Brown Line trains are running w/residual delays following an earlier door problem at Chicago.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-04-10T20:39:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91645"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3b655a5b-ef74-46d7-8756-3d18049c769b"
   }
 ]
