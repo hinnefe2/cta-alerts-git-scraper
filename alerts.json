@@ -51,19 +51,7 @@
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91644"
     },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Clark",
-        "ServiceId": "22",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/22/"
-        }
-      }
-    },
+    "ImpactedService": null,
     "ttim": "0",
     "GUID": "cf41b1e8-c727-4bb1-b639-996d0f4103bf"
   },
@@ -74,10 +62,10 @@
     "FullDescription": {
       "#cdata-section": "<p>Harlem-bound Green Line trains are standing at 47th due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-04-10T22:40:00",
     "EventEnd": null,
     "TBD": "1",
@@ -99,6 +87,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "b8592731-1c2f-4cd7-856f-63afd76a07fc"
+    "GUID": "b6536a58-0f24-42d4-825b-91200a4cc4b5"
   }
 ]
