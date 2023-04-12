@@ -134,5 +134,52 @@
     },
     "ttim": "0",
     "GUID": "08c5ce03-a776-4bfe-a3f9-a4197f71e1e3"
+  },
+  {
+    "AlertId": "91683",
+    "Headline": "Loop-bound Brown and Purple Line Express Delays",
+    "ShortDescription": "Loop-bound Brown and Purple Line Express trains are running w/residual delays  following an earlier door problem on a train at Belmont. Allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Brown and Purple Line Express trains are running w/residual delays&nbsp; following an earlier door problem on a train at Belmont.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-04-12T18:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91683"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "58d00a6c-cae0-4da6-87df-75ff07ce1f48"
   }
 ]
