@@ -34,37 +34,37 @@
     "GUID": "16153dea-e30b-4ee7-96b5-3df4e67fc588"
   },
   {
-    "AlertId": "91664",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following an earlier door problem on a train at Western (FP). Service is resuming, allow extra time.",
+    "AlertId": "91665",
+    "Headline": "#22 Clark Temporary Reroute at Clark/Addison",
+    "ShortDescription": "22 Clark buses are temporarily rerouted via Clark, Racine, Belmont, and Clark, due to street blockage near Clark/Addison.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/residual delays following an earlier door problem on a train at Western (Forest Park branch).</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#22 Clark buses are temporarily rerouted in both directions via Clark, Racine, Belmont, and Clark, due to street blockage near Clark/Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-04-11T20:50:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-04-11T20:59:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91664"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91665"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clark",
+        "ServiceId": "22",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/22/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "81b9cfad-3319-43a2-92bf-4a671c87a511"
+    "GUID": "190d9b16-01a8-46a1-8458-d32992d7ed65"
   }
 ]
