@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "91675",
+    "Headline": "Normal Blue Line Service Being Restored",
+    "ShortDescription": "Some O'Hare-bound Blue Line trains are running with delays after an earlier mechanical problem on a train at Clark/Lake and Cumberland. Service is resuming.",
+    "FullDescription": {
+      "#cdata-section": "<p>Some O&#39;Hare-bound Blue Line trains are running with delays after an earlier mechanical problem on a train at Clark/Lake and Cumberland. Service is resuming.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Service is resuming; allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2023-04-12T15:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91675"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "56983846-553d-4881-884e-18b5c092aa84"
+  },
+  {
+    "AlertId": "91676",
+    "Headline": "#22 Clark Temporary Reroute at Clark/Addison",
+    "ShortDescription": "22 Clark buses are temporarily rerouted in both directions via Clark, Racine, Belmont, and Clark due to a street blockage at Wrigley Field.",
+    "FullDescription": {
+      "#cdata-section": "<p>22 Clark buses are temporarily rerouted in both directions via Clark, Racine, Belmont, and Clark due to a street blockage at Wrigley Field.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-04-10T20:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91676"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clark",
+        "ServiceId": "22",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/22/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a0aa03c6-4e3a-45e5-a937-4ab98ec6c313"
+  }
+]
