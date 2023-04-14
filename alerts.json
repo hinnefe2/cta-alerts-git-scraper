@@ -66,5 +66,73 @@
     },
     "ttim": "0",
     "GUID": "82c7431e-c325-46ec-b84d-ff20c8ea9e14"
+  },
+  {
+    "AlertId": "91712",
+    "Headline": "#115 Pullman/115th Temporary Reroute near 111th/Western",
+    "ShortDescription": "115 Pullman/115th buses temp. rerouted WB: 115th, Ashland, 112th, Marshfield and 115th; EB: Marshfield and 115th due to, street blockage near 111th/Western.",
+    "FullDescription": {
+      "#cdata-section": "<p>#115 Pullman/115th&nbsp;buses are temporarily rerouted in both directions due to street blockage near 111th/Western.</p>\r\n\r\n<p>Westbound buses will operate via 115th, Ashland, 112th, Marshfield and 115th.</p>\r\n\r\n<p>Eastbound buses will operate via Marshfield and 115th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-04-14T13:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91712"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pullman/115th",
+        "ServiceId": "115",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/115/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "622a8f51-9b59-4da7-b375-a9d3683eed9e"
+  },
+  {
+    "AlertId": "91713",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at UIC/Halsted",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at UIC/Halsted due to a mechanical problem on a train. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at UIC/Halsted due to a mechanical problem on a train.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-04-14T13:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91713"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "fe5cb6d3-1c13-494c-8a0f-1da6084cdd6d"
   }
 ]
