@@ -34,53 +34,6 @@
     "GUID": "930aeca1-3a5d-4c15-8805-74163f136430"
   },
   {
-    "AlertId": "91700",
-    "Headline": "#49 Western, #X49 Western Express Temporary Northbound Reroute near Western/Taylor",
-    "ShortDescription": "NB #49 Western, #X49 Western Exp buses are temporarily rerouted via Western, Taylor, Ogden, Damen, Harrison & Western due to street blockage near Western/Taylor",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #49 Western, #X49 Western Express buses are temporarily rerouted via Western, Taylor, Ogden, Damen, Harrison and&nbsp;Western due to street blockage near Western/Taylor.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-04-13T15:42:00",
-    "EventEnd": "2023-04-16T15:42:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91700"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western",
-          "ServiceId": "49",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/49/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western Express",
-          "ServiceId": "X49",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "e59975dd-6b11-481e-aaf2-65e1f2d0ba8b"
-  },
-  {
     "AlertId": "91701",
     "Headline": "#71 71st/South Shore Temporary Reroute near 71st/Jeffrey",
     "ShortDescription": "71 71st/South Shore buses temp. rerouted NB: 71st, Yates, South Shore, 67th, Jeffrey and 71st; SB 71st, Jeffrey, 73rd and Exchange due to, street blockage.",
@@ -113,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "23d936c0-c587-44f0-b23c-047a2c665cbe"
-  },
-  {
-    "AlertId": "91702",
-    "Headline": "#44 Wallace/Racine Temporary Reroute at 57th/Racine",
-    "ShortDescription": "44 Wallace/Racine buses are temporarily rerouted in both directions via Racine, 59th, Morgan, 55th and Racine: due to, street blockage near 57th/Racine.\r\n",
-    "FullDescription": {
-      "#cdata-section": "<p style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 11px; background-color: rgb(229, 229, 229);\">#44 Wallace/Racine&nbsp;buses are temporarily rerouted in both directions via &nbsp;Racine, 59th, Morgan, 55th and Racine: due to, street blockage near 57th/Racine.</p>\r\n\r\n<p style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 11px; background-color: rgb(229, 229, 229);\">Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-04-13T17:35:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91702"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Wallace/Racine",
-        "ServiceId": "44",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/44/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "64af6ac7-ac8d-437b-ad45-00a0eddc8b9a"
   }
 ]
