@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "91732",
-    "Headline": "Red and Brown Line Service Delayed near Armitage",
-    "ShortDescription": "Red and Brown Line trains are standing near Armitage due to fire department activity. Crews working to restore service.",
+    "Headline": "Red and Brown Line Delays",
+    "ShortDescription": "Red and Brown Line trains are running w/residual delays following earlier fire department activity near Armitage. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Red and Brown Line trains are standing near Armitage due to fire department activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red and Brown Line trains are running with residual delays following earlier fire department activity near Armitage.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -78,6 +78,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "b76ecb09-fe28-4f0e-9eca-c90981bc1fbf"
+    "GUID": "5704c339-06d7-43ad-8a11-37aa8b6d674c"
+  },
+  {
+    "AlertId": "91733",
+    "Headline": "Red Line Service Delayed at Sheridan",
+    "ShortDescription": "Red Line trains are standing at Sheridan due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are standing at Sheridan due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-04-15T15:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91733"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "99bb6707-3a45-48bf-8578-1be448ad7b91"
   }
 ]
