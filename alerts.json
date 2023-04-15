@@ -35,15 +35,15 @@
   },
   {
     "AlertId": "91732",
-    "Headline": "Brown Line Service Delayed at Armitage",
-    "ShortDescription": "Brown Line trains are standing at Armitage due to fire department activity. Crews working to restore service.",
+    "Headline": "Red and Brown Line Service Delayed near Armitage",
+    "ShortDescription": "Red and Brown Line trains are standing near Armitage due to fire department activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are standing at Armitage due to fire department activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red and Brown Line trains are standing near Armitage due to fire department activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-04-15T15:12:00",
     "EventEnd": null,
     "TBD": "1",
@@ -52,19 +52,32 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91732"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "638e285e-e92e-44de-a371-51f38dc9f2ca"
+    "GUID": "b76ecb09-fe28-4f0e-9eca-c90981bc1fbf"
   }
 ]
