@@ -70,15 +70,15 @@
   },
   {
     "AlertId": "91738",
-    "Headline": "No trains between Armitage and the Loop",
-    "ShortDescription": "Brown Line service has been temporarily suspended between Armitage and the Loop due to police activity.",
+    "Headline": "Trains bypassing Washington/Wabash and Adams/Wabash Stations",
+    "ShortDescription": "Brown Line trains are running, but not stopping at Washington/Wabash and Adams/Wabash Stations due to police activity. Service is resuming, allow extra time\r\n\r\n",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line service has been temporarily suspended between Armitage and the Loop due to police activity.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Kimball and Armitage at this time.</strong></p>\r\n\r\n<p>Shuttle buses will be&nbsp;available between Armitage to Clark/Lake to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line trains are running, but not stopping at Washington/Wabash and Adams/Wabash Stations due to police activity. Service is resuming, allow extra time</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
     "EventStart": "2023-04-15T22:01:00",
     "EventEnd": null,
     "TBD": "1",
@@ -100,7 +100,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "b6d9dad6-020a-4691-ac57-de5ba8bb618a"
+    "GUID": "d62285b8-4964-4fc5-b275-f6ae634e3639"
   },
   {
     "AlertId": "91739",
@@ -138,15 +138,15 @@
   },
   {
     "AlertId": "91740",
-    "Headline": "No Trains in the Loop ",
-    "ShortDescription": "Green Line service has been temporarily suspended between Cermak and  due to police activity.",
+    "Headline": "Green Line Delays",
+    "ShortDescription": "Green Line trains are running, but not stopping at Washington/Wabash and Adams/Wabash Stations due to police activity. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Green&nbsp; Line service has been temporarily suspended in the Loop&nbsp;due to police activity.</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li><strong>between Ashland/Cottage Grove and 35th</strong>, and,</li>\r\n\t<li><strong>between Harlem and Ashland/Lake</strong>, only.</li>\r\n</ul>\r\n\r\n<p>Shuttle buses are available to provide connecting service through the affected area.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.<br />\r\n&nbsp;</p>\r\n"
+      "#cdata-section": "<p>Green Line trains are running, but not stopping at Washington/Wabash and Adams/Wabash Stations due to police activity. Service is resuming, allow extra time</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
     "EventStart": "2023-04-15T22:13:00",
     "EventEnd": null,
     "TBD": "1",
@@ -168,6 +168,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "d6f3c1bb-b268-4a73-b8be-56624c2086c7"
+    "GUID": "2892c28a-dd5f-42c4-a045-a2bbbd8b8296"
   }
 ]
