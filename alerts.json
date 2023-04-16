@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "b6d9dad6-020a-4691-ac57-de5ba8bb618a"
+  },
+  {
+    "AlertId": "91739",
+    "Headline": "No trains between Halsted and the Loop",
+    "ShortDescription": "Orange Line service has been temporarily suspended between Halsted and the Loop due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange Line service has been temporarily suspended between Halsted and the Loop due to police activity.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Midway and Halsted at this time.</strong></p>\r\n\r\n<p>Shuttle buses are available between Halsted and Ashland/Lake to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2023-04-15T22:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91739"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3a0c4de0-50d4-4452-b064-79f1117ea13c"
   }
 ]
