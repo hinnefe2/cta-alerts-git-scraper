@@ -2,9 +2,9 @@
   {
     "AlertId": "91737",
     "Headline": "UPDATE: Trains bypassing Washington/Wabash and Adams/Wabash Stations",
-    "ShortDescription": "UPDATE: Brown, Green, Pink, and Orange Line trains are running, but not stopping at Washington/Wabash and Adams/Wabash Stations due to police activity.",
+    "ShortDescription": "UPDATE: Pink Line trains are running, but not stopping at Washington/Wabash and Adams/Wabash Stations due to police activity.",
     "FullDescription": {
-      "#cdata-section": "<p>UPDATE: Brown, Green, Pink, and Orange Line trains are running, but not stopping at Washington/Wabash and Adams/Wabash Stations due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+      "#cdata-section": "<p>UPDATE: Pink Line trains&nbsp;are running, but not stopping at Washington/Wabash and Adams/Wabash Stations due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
     },
     "SeverityScore": "58",
     "SeverityColor": "B45F04",
@@ -18,55 +18,20 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91737"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "728e4739-8a77-409e-aadd-a18b78f237ca"
+    "GUID": "2cdaaf4e-694f-43e7-9035-05185a2e84ac"
   },
   {
     "AlertId": "91738",
