@@ -32,5 +32,97 @@
     },
     "ttim": "0",
     "GUID": "aeb88a01-2be1-41e0-856f-06f28dd92adb"
+  },
+  {
+    "AlertId": "91761",
+    "Headline": "#63 63rd Temporary Reroute at 63rd/Bell",
+    "ShortDescription": "63 63rd buses are temporarily rerouted via 63rd, Damen, Marquette, Western and 63rd due to, street blockage near 63rd/Bell.",
+    "FullDescription": {
+      "#cdata-section": "<p>#63 63rd&nbsp;buses are temporarily rerouted in both directions via63rd, Damen, Marquette, Western and 63rd due to, street blockage near 63rd/Bell.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-04-18T07:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91761"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2fecabc4-39fc-484d-a4e9-9deb402329d1"
+  },
+  {
+    "AlertId": "91762",
+    "Headline": "Red, Brown and Purple Line Delays",
+    "ShortDescription": "Red, Brown and Purple Line trains are running w/residual delays following an earlier unauthorized person on the tracks. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red, Brown and Purple Line trains are running with residual delays following an earlier unauthorized person on the tracks.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-04-18T07:27:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91762"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "84a3be08-0b1b-4770-9fb2-405d544805db"
   }
 ]
