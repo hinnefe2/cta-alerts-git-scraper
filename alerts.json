@@ -134,52 +134,5 @@
     },
     "ttim": "0",
     "GUID": "97cdb0c8-c418-4739-9350-55870fd2484b"
-  },
-  {
-    "AlertId": "91766",
-    "Headline": "Green Line trains bypassing Conservaorty Station",
-    "ShortDescription": "Green Line trains are running, but not stopping at Conservatory-Central Park Drive due to police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>Green Line trains are running, but not stopping at Conservatory-Central Park Drive due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
-    },
-    "SeverityScore": "58",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2023-04-18T13:05:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91766"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Conservatory-Central Park Drive",
-          "ServiceId": "41670",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=47"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "f03092f6-6496-4f38-98b4-92e1bcf20b6c"
   }
 ]
