@@ -34,71 +34,37 @@
     "GUID": "aeb88a01-2be1-41e0-856f-06f28dd92adb"
   },
   {
-    "AlertId": "91764",
-    "Headline": "#35 31st/35th Temporary Westbound Reroute near 36th/Kedzie",
-    "ShortDescription": "WB 35 31st/35th buses are temporarily rerouted via 35th, California, I-55 and Kedzie due to, street blockage near 36th/Kedzie.",
+    "AlertId": "91770",
+    "Headline": "#12 Roosevelt Temporary Eastbound Reroute near Roosevelt/Ashland",
+    "ShortDescription": "Eastbound 12 Roosevelt buses are temporarily rerouted via Roosevelt, Ashland, Taylor, Racine, and Roosevelt due to, fire dept. activity near Roosevelt/Ashland.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound&nbsp;#35 31st/35th&nbsp;buses are temporarily rerouted via 35th, California, I-55 and Kedzie due to, street blockage near 36th/Kedzie.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Eastbound #12 Roosevelt buses are temporarily rerouted via Roosevelt, Ashland, Taylor, Racine, and Roosevelt due to, fire dept. activity near Roosevelt/Ashland.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-04-18T11:54:00",
+    "EventStart": "2023-04-18T20:39:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91764"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91770"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "31st/35th",
-        "ServiceId": "35",
+        "ServiceName": "Roosevelt",
+        "ServiceId": "12",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/35/"
+          "#cdata-section": "http://www.transitchicago.com/bus/12/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "388e9aa5-f449-4bc8-b406-462c6f1b1afa"
-  },
-  {
-    "AlertId": "91765",
-    "Headline": "#52 Kedzie Temporary Northbound Reroute near 36th/Kedzie",
-    "ShortDescription": "NB 52 Kedzie buses are temporarily rerouted via Kedzie, Pershing, California, I-55 and Kedzie due to, street blockage near 36th/Kedzie.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound&nbsp;#52 Kedzie&nbsp;buses are temporarily rerouted via&nbsp;Kedzie, Pershing, California, I-55 and Kedzie due to, street blockage near 36th/Kedzie.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-04-18T12:07:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91765"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kedzie",
-        "ServiceId": "52",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/kedzie/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "97cdb0c8-c418-4739-9350-55870fd2484b"
+    "GUID": "ff0d3b16-8b67-4251-b321-835e1ce082b1"
   }
 ]
