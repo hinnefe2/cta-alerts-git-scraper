@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "91827",
+    "Headline": "#146 Inner Lake Shore/Michigan Express and #29 State Temporary Northbound Reroute near State/8th",
+    "ShortDescription": "NB 146 Inner Lake Shore/Michigan Express and 29 State buses are temp. rerouted via State, 9th,  Michigan, Balbo, and State due to construction near State/8th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound&nbsp; #146 Inner Lake Shore/Michigan Express and #29 State buses are temp. rerouted via State, 9th,&nbsp; Michigan, Balbo, and State due to construction near State/8th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-04-24T18:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91827"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "State",
+          "ServiceId": "29",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/29/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4b355800-ed2e-4d14-a41e-8e40ec241867"
+  }
+]
