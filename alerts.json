@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "91819",
-    "Headline": "Green and Orange Line Service Delayed near Roosevelt",
-    "ShortDescription": "Green and Orange Line trains are standing near Roosevelt due to signal problems. Crews working to restore service.",
+    "Headline": "Green and Orange Line Delays",
+    "ShortDescription": "Green and Orange Line trains are running w/residual delays following an earlier signal problem near Roosevelt. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Green and Orange Line trains are standing near Roosevelt due to signal problems.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green and Orange Line trains are running with residual delays following an earlier signal problem near Roosevelt.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -78,6 +78,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "dced7e21-e4af-440b-b830-4647b9a61644"
+    "GUID": "0ccc20fe-f585-4ff5-bfd7-a7c7b4ebc6ef"
+  },
+  {
+    "AlertId": "91820",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following an earlier door problem at Damen-OH. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with residual delays following an earlier door problem at Damen-OH<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-04-24T11:44:00",
+    "EventEnd": "2023-04-24T12:04:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91820"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f226152c-c94d-4d28-bbff-7656e7454186"
   }
 ]
