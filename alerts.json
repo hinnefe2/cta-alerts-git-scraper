@@ -69,10 +69,10 @@
   },
   {
     "AlertId": "91836",
-    "Headline": "Howard-bound Red Line Service Delayed at 79th",
-    "ShortDescription": "Howard-bound Red Line trains are standing at 79th due to a door problem on a train. Crews working to restore service.",
+    "Headline": "Howard-bound Red Line Delays",
+    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays and congestion following an earlier door problem at 79th. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are standing at 79th due to a door problem on a train.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are running with residual delays and congestion following an earlier door problem at 79th.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -99,7 +99,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "dea8626d-6bcd-4edc-a191-36c2075eb17d"
+    "GUID": "6010ea6b-f314-4b41-bb4b-7a501ccabdfe"
   },
   {
     "AlertId": "91837",
@@ -168,5 +168,39 @@
     },
     "ttim": "0",
     "GUID": "81db36bc-87e6-4f94-8b24-db1f7fe83dc5"
+  },
+  {
+    "AlertId": "91839",
+    "Headline": "#87 87th Temporary Westbound Reroute near 87th/Holland",
+    "ShortDescription": "WB 87 87th buses are temporarily rerouted via 87th, Holland, 83rd, Vincennes and 87th: due to, street blockage near 87th/Holland.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound&nbsp;#87 87th&nbsp;buses are temporarily rerouted via 87th, Holland, 83rd, Vincennes and 87th due to, street blockage near 87th/Holland.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-04-25T09:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91839"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "87th",
+        "ServiceId": "87",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/87/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d2945756-b255-4202-b4ec-b4701010554e"
   }
 ]
