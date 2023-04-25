@@ -72,12 +72,12 @@
     "Headline": "Howard-bound Red Line Service Delayed at 79th",
     "ShortDescription": "Howard-bound Red Line trains are standing at 79th due to a door problem on a train. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are standing at 79th due to a door problem on a train.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing at 79th due to a door problem on a train.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-04-25T08:59:00",
     "EventEnd": null,
     "TBD": "1",
@@ -99,6 +99,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "df74744d-419d-4f6b-954d-859ad6eb2d73"
+    "GUID": "dea8626d-6bcd-4edc-a191-36c2075eb17d"
+  },
+  {
+    "AlertId": "91837",
+    "Headline": "#55 Garfield Temporary Reroute at 55th/Hyde Park",
+    "ShortDescription": "55 Garfield buses are temporarily rerouted via 55th, Hyde Park, 53rd, Lake Park and 55th due to, street blockage near 55th/Hyde Park.",
+    "FullDescription": {
+      "#cdata-section": "<p>#55 Garfield&nbsp;buses are temporarily rerouted in both directions via 55th, Hyde Park, 53rd, Lake Park and 55th due to, street blockage near 55th/Hyde Park.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-04-25T08:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91837"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Garfield",
+        "ServiceId": "55",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/55/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8ff77ed3-f3d3-4e98-b2a3-0fea03143545"
   }
 ]
