@@ -177,9 +177,9 @@
   {
     "AlertId": "91957",
     "Headline": "Blue Line Jefferson Park Ohare Bound",
-    "ShortDescription": "Blue Line Jefferson Park Ohare Bound train is experiencing mechanical issue. Crews are working to restore service. Allow extra travel time. ",
+    "ShortDescription": "Blue Line Jefferson Park O'hare Bound train are moving with residual delays due to an earlier mechanical issue. Allow extra travel time. ",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line Jefferson Park O&#39;hare Bound train is experiencing mechanical issue. Crews are working to restore service.&nbsp;Allow extra travel time.&nbsp;</p>\r\n"
+      "#cdata-section": "<p>Blue Line Jefferson Park O&#39;Hare Bound trains are moving with residual delays due to an earlier mechanical issue. Crews restored service. Allow extra travel time.&nbsp;</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -193,32 +193,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91957"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Jefferson Park",
-          "ServiceId": "41280",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=78"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "6e926c1d-3ba3-471a-ba7c-51d215ee6454"
+    "GUID": "805da95a-1ccf-42a6-a4ab-b12858551afa"
   }
 ]
