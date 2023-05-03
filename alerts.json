@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "c1b97eb0-6934-471c-a44a-af8853381a46"
+  },
+  {
+    "AlertId": "91942",
+    "Headline": "#6 Jackson Park Exp, #2 Hyde Park Exp Temporary Northbound Reroute near Balbo/Michigan",
+    "ShortDescription": "NB 6 Jackson Park Exp & 2 Hyde Park Express buses are temporarily rerouted via Michigan, Roosevelt and Outer Lake Shore Dr: due to, street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #6 Jackson Park Express, #2 Hyde Park Express buses are temporarily rerouted via Michigan, Roosevelt and Outer Lake Shore Dr,&nbsp;due to, street blockage near Balbo/Michigan.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-03T08:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91942"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Hyde Park Express",
+          "ServiceId": "2",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/2/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ecc80d91-3903-492a-be63-40d8e05e06e8"
   }
 ]
