@@ -175,84 +175,37 @@
     "GUID": "bc6b90dd-fec9-481c-80fa-5bd27c364d3b"
   },
   {
-    "AlertId": "91946",
-    "Headline": "#8A South Halsted Temporary Southbound Reroute near 119th/Peoria",
-    "ShortDescription": "SB 8A South Halsted buses are temporarily rerouted via 119th, Morgan, 120th and Halsted due to, street blockage near 119th/Peoria.",
+    "AlertId": "91951",
+    "Headline": "Brown Line Service Experiencing Significant Delays Due to Raised Bridge",
+    "ShortDescription": "Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.",
     "FullDescription": {
-      "#cdata-section": "<p>Southbound&nbsp;#8A South Halsted buses are temporarily rerouted via 119th, Morgan, 120th and Halsted due to, street blockage near 119th/Peoria.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-05-03T09:49:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91946"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Halsted",
-        "ServiceId": "8A",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/8a/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a368ac87-f924-4b45-8143-ed2ea78be16a"
-  },
-  {
-    "AlertId": "91950",
-    "Headline": "Green and Pink Line Delays",
-    "ShortDescription": "Normal service on the Green and Pink Line has resumed after an earlier raised bridge over the Chicago River, downtown.",
-    "FullDescription": {
-      "#cdata-section": "<p>Normal service on the Green and Pink Line has resumed after an earlier raised bridge over the Chicago River, downtown.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.</p>\r\n\r\n<p>Some trains may be either held or&nbsp;rerouted before reaching the bridge (in order&nbsp;to maintain service across the remainder of the route). Listen for announcements and check train destination signs when boarding.</p>\r\n\r\n<p>We apologize for this temporary inconvenience and appreciate your patience while the Chicago Department of Transportation works to complete the bridge operation. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Significant Delays",
-    "EventStart": "2023-05-03T11:58:00",
+    "EventStart": "2023-05-03T12:39:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91950"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91951"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "70b954d3-0996-4c74-a9f1-f1f4e7cee06d"
+    "GUID": "8eb48b24-bda7-4da6-a1ae-d332764a7665"
   }
 ]
