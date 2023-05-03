@@ -79,5 +79,52 @@
     },
     "ttim": "0",
     "GUID": "ecc80d91-3903-492a-be63-40d8e05e06e8"
+  },
+  {
+    "AlertId": "91943",
+    "Headline": "#147 Outer DuSable Lake Shore, #143 Stockton/Michigan Exp Temporary Northbound Reroute near Balbo/Michigan",
+    "ShortDescription": "NB 147 Outer DuSable Lake Shore, 143 Stockton/Michigan Exp buses are temporarily rerouted via Michigan, Roosevelt and Outer Lake Shore Dr due to street blockage",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #147 Outer DuSable Lake Shore, #143 Stockton/Michigan Express buses are temporarily rerouted via Michigan, Roosevelt and Outer Lake Shore Dr due to street blockage&nbsp;near Balbo/Michigan</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-03T09:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91943"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stockton/Michigan Express",
+          "ServiceId": "143",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/143/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "0ba192c8-1be6-48f6-9ce2-c28f2420e6ae"
   }
 ]
