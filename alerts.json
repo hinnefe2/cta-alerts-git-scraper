@@ -126,5 +126,52 @@
     },
     "ttim": "0",
     "GUID": "0ba192c8-1be6-48f6-9ce2-c28f2420e6ae"
+  },
+  {
+    "AlertId": "91944",
+    "Headline": "#J14 Jeffery Jump, #28 Stony Island Temporary Reroute near Balbo/Michigan",
+    "ShortDescription": "J14 Jeffery Jump, 28 Stony Island buses temp. rerouted NB: Michigan, Roosevelt & Outer Lake Shore Dr; SB: Columbus, Roosevelt & Michigan due to street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#J14 Jeffery Jump, #28 Stony Island buses are temporarily rerouted in both directions due to street blockage&nbsp;near Balbo/Michigan.</p>\r\n\r\n<p>Northbound buses will operate via Michigan, Roosevelt and&nbsp;Outer Lake Shore Drive.</p>\r\n\r\n<p>Southbound buses will operate via Columbus, Roosevelt and&nbsp;Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-03T09:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91944"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stony Island",
+          "ServiceId": "28",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/28/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "bc6b90dd-fec9-481c-80fa-5bd27c364d3b"
   }
 ]
