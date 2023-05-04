@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "b1daf538-65e0-4a5c-8c5a-bf19504e68c8"
+  },
+  {
+    "AlertId": "91970",
+    "Headline": "#6 Jackson Park Express, #26 South Shore Express Temporary Reroute at 69th/South Shore Drive",
+    "ShortDescription": "6 Jackson Park Exp, 26 South Shore Exp buses are temporarily rerouted via 67th, Jeffrey, 75th, and South Shore Dr due to, street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#6 Jackson Park Express, #26 South Shore Express&nbsp;buses are temporarily rerouted in both directions via 67th, Jeffrey, 75th, and South Shore Drive due to, street blockage.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-04T10:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91970"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "0ebdd204-1b46-4758-b245-c36168f83cc5"
   }
 ]
