@@ -81,37 +81,50 @@
     "GUID": "6b753d4f-c2e7-4cf4-9960-1e78f45d5eb8"
   },
   {
-    "AlertId": "91986",
-    "Headline": "Loop-bound Brown Line Delays",
-    "ShortDescription": "Loop-bound Brown Line trains are running w/residual delays at Kimball. Service is resuming, allow extra time.",
+    "AlertId": "91987",
+    "Headline": "95th-bound Red and Loop-bound Purple Line Express Service Delayed at Argyle",
+    "ShortDescription": "95th-bound Red and Loop-bound Purple Line Express trains are standing at Argyle due to a sick customer. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown Line trains are running w/residual delays at Kimball.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th-bound Red and Loop-bound Purple Line Express trains are standing at Argyle due to a sick customer.<br />\r\nPersonnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2023-05-04T17:45:00",
+    "EventStart": "2023-05-04T17:52:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91986"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=91987"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "71980a5a-7358-4675-a726-cad72a5c2a1a"
+    "GUID": "3761fe10-a58f-4874-8858-21d82333bc40"
   }
 ]
