@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "5e78038c-1dd2-4dc9-8631-1b3b62d90f18"
+  },
+  {
+    "AlertId": "92034",
+    "Headline": "#J14 Jeffery Jump and #26 South Shore Express Temporary Northbound Reroute near Marquette/Cornell",
+    "ShortDescription": "Northbound J14 Jeffery Jump and 26 South Shore Express buses are temp. rerouted via 67th, Stony Island, and Outer Lake Shore Drive near Marquette/Cornell.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound&nbsp;#J14 Jeffery Jump and #26 South Shore Express buses are temporarily&nbsp;rerouted via 67th, Stony Island, and Outer Lake Shore Drive due to, street blockage near Marquette/Cornell.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-09T08:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92034"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1de4d8e8-02f5-4f1f-b772-57648fa05853"
   }
 ]
