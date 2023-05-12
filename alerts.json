@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "92086",
-    "Headline": "Forest Park-bound Blue Line Service Delayed at Rosemont",
-    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Rosemont due to a report of a minor fire at track level. Crews working to restore service.",
+    "Headline": "Forest Park-bound Blue Line Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following an earlier report of a minor fire at track level at Rosemont. Allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Rosemont due to a report of a minor fire at track level.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays following an earlier report of a minor fire at track level at Rosemont.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "80",
     "SeverityColor": "c00c00",
@@ -31,7 +31,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "ff62e9fc-054a-4d9a-b3c4-f917228f6a87"
+    "GUID": "d90d3fa0-8497-423b-b245-ef058346e141"
   },
   {
     "AlertId": "92087",
@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "d0978187-8db8-4254-86b0-f9462906d11b"
+  },
+  {
+    "AlertId": "92088",
+    "Headline": "#147 Outer DuSable Lake Shore Express, #151 Sheridan Temporary Northbound Reroute near Lake Shore Dr/Belmont",
+    "ShortDescription": "NB 147 Outer DuSable Lake Shore Express, 151 Sheridan buses are temp. rerouted via Lake Shore Drive, Fullerton, and Cannon Drive near Lake Shore Dr/Belmont.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #147 Outer DuSable Lake Shore Express and&nbsp;#151 Sheridan buses are temporarily&nbsp;rerouted via Lake Shore Drive, Fullerton, and Cannon Drive&nbsp;due to, construction near Lake Shore Dr/Belmont.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-11T22:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92088"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "bb6c21ce-7f1b-4924-9e95-85581f8913d4"
   }
 ]
