@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "92086",
-    "Headline": "Forest Park-bound Blue Line Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following an earlier report of a minor fire at track level at Rosemont. Allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays following an earlier report of a minor fire at track level at Rosemont.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2023-05-11T21:27:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92086"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d90d3fa0-8497-423b-b245-ef058346e141"
-  },
-  {
     "AlertId": "92087",
     "Headline": "#67 67th-69th-71st Temporary Reroute at 67th/Blackstone",
     "ShortDescription": "67 67th-69th-71st buses are temporarily rerouted via 67th, Cottage Grove, Marquette, Stony Island, and 67th due to, street blockage near 67th/Blackstone.",
@@ -69,10 +35,10 @@
   },
   {
     "AlertId": "92088",
-    "Headline": "#147 Outer DuSable Lake Shore Express, #151 Sheridan Temporary Northbound Reroute near Lake Shore Dr/Belmont",
-    "ShortDescription": "NB 147 Outer DuSable Lake Shore Express, 151 Sheridan buses are temp. rerouted via Lake Shore Drive, Fullerton, and Cannon Drive near Lake Shore Dr/Belmont.",
+    "Headline": "Update: #147 Outer DuSable Lake Shore Express Temporary Northbound Reroute near Lake Shore Dr/Belmont",
+    "ShortDescription": "Northbound 147 Outer DuSable Lake Shore Express buses are temporarily rerouted via Lake Shore Drive, Fullerton, and Cannon Drive near Lake Shore Dr/Belmont.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #147 Outer DuSable Lake Shore Express and&nbsp;#151 Sheridan buses are temporarily&nbsp;rerouted via Lake Shore Drive, Fullerton, and Cannon Drive&nbsp;due to, construction near Lake Shore Dr/Belmont.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Update: Northbound #147 Outer DuSable Lake Shore Express buses are temporarily&nbsp;rerouted via Lake Shore Drive, Fullerton, and Cannon Drive&nbsp;due to, construction near Lake Shore Dr/Belmont.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -86,32 +52,53 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92088"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Outer DuSable Lake Shore Express",
-          "ServiceId": "147",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/147/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Sheridan",
-          "ServiceId": "151",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/151/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Outer DuSable Lake Shore Express",
+        "ServiceId": "147",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/147/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "bb6c21ce-7f1b-4924-9e95-85581f8913d4"
+    "GUID": "fa74338c-e7f6-4852-8988-6f38d801b085"
+  },
+  {
+    "AlertId": "92089",
+    "Headline": "#146 Inner Lake Shore/Michigan Express Temporary Northbound Reroute near Lake Shore Drive/Belmont",
+    "ShortDescription": "NB 146 Inner Lake Shore/Michigan Express buses are temp. rrted via Lake Shore Drive, Fullerton, Cannon Dr., Addison, & Lake Shore Dr. nr Lake Shore Dr/Belmont.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #146 Inner Lake Shore/Michigan Express buses are temporarily&nbsp;rerouted via Lake Shore Drive, Fullerton, Cannon Drive, Addison, and&nbsp;Lake Shore Drive&nbsp;near Lake Shore Drive/Belmont.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-11T22:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92089"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Inner Lake Shore/Michigan Express",
+        "ServiceId": "146",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/146/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "bf31337e-88be-4c07-9341-4e5457c9b0d0"
   }
 ]
