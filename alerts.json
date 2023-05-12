@@ -6,10 +6,10 @@
     "FullDescription": {
       "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Rosemont due to a report of a minor fire at track level.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-05-11T21:27:00",
     "EventEnd": null,
     "TBD": "1",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "aede9b10-a67b-4350-a886-bb9c00d40458"
+    "GUID": "d4b77877-98c4-45a4-be02-780e064e26ad"
+  },
+  {
+    "AlertId": "92087",
+    "Headline": "#67 67th-69th-71st Temporary Reroute at 67th/Blackstone",
+    "ShortDescription": "67 67th-69th-71st buses are temporarily rerouted via 67th, Cottage Grove, Marquette, Stony Island, and 67th due to, street blockage near 67th/Blackstone.",
+    "FullDescription": {
+      "#cdata-section": "<p>#67 67th-69th-71st buses are temporarily rerouted in both directions via 67th, Cottage Grove, Marquette, Stony Island, and 67th due to, street blockage near 67th/Blackstone.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-11T21:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92087"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "67th-69th-71st",
+        "ServiceId": "67",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/67/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d0978187-8db8-4254-86b0-f9462906d11b"
   }
 ]
