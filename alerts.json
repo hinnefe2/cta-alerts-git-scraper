@@ -1,83 +1,15 @@
 [
   {
-    "AlertId": "92088",
-    "Headline": "Update: #147 Outer DuSable Lake Shore Express Temporary Northbound Reroute near Lake Shore Dr/Belmont",
-    "ShortDescription": "Update:NB 147 buses are temporarily rerouted via Michigan, Oak, Inner Lake Shore Dr., LaSalle, Stockton, Cannon Dr., and Sheridan near Lake Shore Drive/Belmont.",
-    "FullDescription": {
-      "#cdata-section": "<p>Updated: Northbound &nbsp;#147 Outer DuSable Lake Shore Express&nbsp;buses are temporarily rerouted via Michigan, Oak, Inner Lake Shore Drive, LaSalle, Stockton, Cannon Drive, and Sheridan due to street blockage near Lake Shore Drive/Belmont.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-05-11T22:10:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92088"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Outer DuSable Lake Shore Express",
-        "ServiceId": "147",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/147/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "39ae1f7a-03a2-4952-93af-858b6a171dc0"
-  },
-  {
-    "AlertId": "92089",
-    "Headline": "Updated: #146 Inner Lake Shore/Michigan Express Temporary Northbound Reroute near Lake Shore Drive/Belmont",
-    "ShortDescription": "Update:NB 146 buses are temp. rrted via Michigan, Oak, Inner Lake Shore Drive, LaSalle, Stockton, Cannon Drive, and Sheridan near Lake Shore Dr/Belmont.",
-    "FullDescription": {
-      "#cdata-section": "<p>Updated:&nbsp;Northbound #146 Inner Lake Shore/Michigan Express&nbsp;buses are temporarily rerouted via Michigan, Oak, Inner Lake Shore Drive, LaSalle, Stockton, Cannon Drive, and Sheridan due to street blockage near Lake Shore Drive/Belmont.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-05-11T22:13:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92089"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Inner Lake Shore/Michigan Express",
-        "ServiceId": "146",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/146/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8879a2bd-2906-4ef8-9c1c-26a1ae1bd6a5"
-  },
-  {
     "AlertId": "92090",
-    "Headline": "95th-bound Red Line Service Delayed at 79th",
-    "ShortDescription": "95th-bound Red Line trains are standing at 79th due to a door problem on a train. Crews working to restore service.",
+    "Headline": "95th-bound Red Line Delays",
+    "ShortDescription": "95th-bound Red Line trains are running w/residual delays following an earlier door problem at 79th. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are standing at 79th due to a door problem on a train.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th-bound Red Line trains are running w/residual delays following an earlier door problem at 79th.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-05-12T03:19:00",
     "EventEnd": null,
     "TBD": "1",
@@ -99,6 +31,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "3c0b8061-3260-4c8f-b611-9937491ee6e8"
+    "GUID": "cb9b6f63-7a8e-49d5-b37b-dfce5fa7adc3"
   }
 ]
