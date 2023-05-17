@@ -34,37 +34,37 @@
     "GUID": "b5275323-98c6-49bf-adc7-992e7afc13cc"
   },
   {
-    "AlertId": "92137",
-    "Headline": "#90 Harlem Temporary Reroute at Harlem/Grand",
-    "ShortDescription": "90 Harlem buses are temporarily rerouted via Harlem, Grand, Oak Park, North Ave and Harlem due to, street blockage near Harlem/Grand.",
+    "AlertId": "92138",
+    "Headline": "Brown Line Service Experiencing Significant Delays Due to Raised Bridge",
+    "ShortDescription": "Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown",
     "FullDescription": {
-      "#cdata-section": "<p>#90&nbsp;Harlem buses are temporarily rerouted via Harlem, Grand, Oak Park, North Ave and Harlem due to, street blockage near Harlem/Grand.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.</p>\r\n\r\n<p>Some trains may be either held or&nbsp;rerouted before reaching the bridge (in order&nbsp;to maintain service across the remainder of the route). Listen for announcements and check train destination signs when boarding.</p>\r\n\r\n<p>We apologize for this temporary inconvenience and appreciate your patience while the Chicago Department of Transportation works to complete the bridge operation. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-05-17T11:29:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-05-17T12:00:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92137"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92138"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Harlem",
-        "ServiceId": "90",
-        "ServiceBackColor": "059",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/90/"
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "32dad2e8-749e-4fa6-80f6-030efb32ddc3"
+    "GUID": "2ad7aafd-4f98-4b93-99d7-386c891a67c8"
   }
 ]
