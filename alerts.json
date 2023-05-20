@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "92238",
-    "Headline": "#103 West 103rd Temporary Reroute at 103rd/Vincennes",
-    "ShortDescription": "103 West 103rd buses are temporarily rerouted via 103rd, Halsted, 107th, Vincennes and 103rd due to, street blockage near 103rd/Vincennes.",
+    "AlertId": "92264",
+    "Headline": "Loop-bound Orange Line Service Delayed at 35th/Archer",
+    "ShortDescription": "Loop-bound Orange Line trains are standing at 35th/Archer due to police activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>#103 West 103rd buses are temporarily rerouted in both directions via 103rd, Halsted, 107th, Vincennes and 103rd due to, street blockage near 103rd/Vincennes.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Orange Line trains are standing at 35th/Archer due to police activity.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-05-19T11:39:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-05-20T10:46:00",
+    "EventEnd": "2023-05-20T11:00:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92238"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92264"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "West 103rd",
-        "ServiceId": "103",
-        "ServiceBackColor": "059",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/103/"
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "7cccac8a-2505-4410-87a6-3169ae2fcc98"
+    "GUID": "dd761cc3-bf52-41d8-85ed-bf263ee3a096"
   },
   {
     "AlertId": "92261",
@@ -66,6 +66,40 @@
     },
     "ttim": "0",
     "GUID": "c9e33dbb-32e0-4f40-8e07-831b1604eb54"
+  },
+  {
+    "AlertId": "92238",
+    "Headline": "#103 West 103rd Temporary Reroute at 103rd/Vincennes",
+    "ShortDescription": "103 West 103rd buses are temporarily rerouted via 103rd, Halsted, 107th, Vincennes and 103rd due to, street blockage near 103rd/Vincennes.",
+    "FullDescription": {
+      "#cdata-section": "<p>#103 West 103rd buses are temporarily rerouted in both directions via 103rd, Halsted, 107th, Vincennes and 103rd due to, street blockage near 103rd/Vincennes.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-19T11:39:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92238"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "West 103rd",
+        "ServiceId": "103",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/103/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7cccac8a-2505-4410-87a6-3169ae2fcc98"
   },
   {
     "AlertId": "92263",
