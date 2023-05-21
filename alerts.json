@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "92270",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following an earlier sick customer at Western (O'Hare). Service is resuming, allow extra time.",
+    "AlertId": "92238",
+    "Headline": "#103 West 103rd Temporary Reroute at 103rd/Vincennes",
+    "ShortDescription": "103 West 103rd buses are temporarily rerouted via 103rd, Halsted, 107th, Vincennes and 103rd due to, street blockage near 103rd/Vincennes.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/residual delays following an earlier sick customer at Western (O&#39;Hare).<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#103 West 103rd buses are temporarily rerouted in both directions via 103rd, Halsted, 107th, Vincennes and 103rd due to, street blockage near 103rd/Vincennes.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-05-21T01:32:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-19T11:39:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92270"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92238"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "West 103rd",
+        "ServiceId": "103",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/103/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "ee383f6a-8e43-49f6-bf15-970996364314"
+    "GUID": "7cccac8a-2505-4410-87a6-3169ae2fcc98"
   },
   {
     "AlertId": "92261",
@@ -66,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "c9e33dbb-32e0-4f40-8e07-831b1604eb54"
-  },
-  {
-    "AlertId": "92238",
-    "Headline": "#103 West 103rd Temporary Reroute at 103rd/Vincennes",
-    "ShortDescription": "103 West 103rd buses are temporarily rerouted via 103rd, Halsted, 107th, Vincennes and 103rd due to, street blockage near 103rd/Vincennes.",
-    "FullDescription": {
-      "#cdata-section": "<p>#103 West 103rd buses are temporarily rerouted in both directions via 103rd, Halsted, 107th, Vincennes and 103rd due to, street blockage near 103rd/Vincennes.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-05-19T11:39:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92238"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "West 103rd",
-        "ServiceId": "103",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/103/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "7cccac8a-2505-4410-87a6-3169ae2fcc98"
   }
 ]
