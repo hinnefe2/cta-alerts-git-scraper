@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "92269",
-    "Headline": "Loop-bound Brown Line Service Delayed at Damen",
-    "ShortDescription": "Loop-bound Brown Line trains are standing at Damen due to police activity. Crews working to restore service.",
+    "AlertId": "92238",
+    "Headline": "#103 West 103rd Temporary Reroute at 103rd/Vincennes",
+    "ShortDescription": "103 West 103rd buses are temporarily rerouted via 103rd, Halsted, 107th, Vincennes and 103rd due to, street blockage near 103rd/Vincennes.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown Line trains are standing at Damen due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#103 West 103rd buses are temporarily rerouted in both directions via 103rd, Halsted, 107th, Vincennes and 103rd due to, street blockage near 103rd/Vincennes.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-05-21T00:40:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-19T11:39:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92269"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92238"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "West 103rd",
+        "ServiceId": "103",
+        "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/103/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "e722be6e-5589-4c88-b379-1543200a8c7c"
+    "GUID": "7cccac8a-2505-4410-87a6-3169ae2fcc98"
   },
   {
     "AlertId": "92261",
@@ -68,37 +68,37 @@
     "GUID": "c9e33dbb-32e0-4f40-8e07-831b1604eb54"
   },
   {
-    "AlertId": "92238",
-    "Headline": "#103 West 103rd Temporary Reroute at 103rd/Vincennes",
-    "ShortDescription": "103 West 103rd buses are temporarily rerouted via 103rd, Halsted, 107th, Vincennes and 103rd due to, street blockage near 103rd/Vincennes.",
+    "AlertId": "92269",
+    "Headline": "Loop-bound Brown Line Delays",
+    "ShortDescription": "Loop-bound Brown Line trains are running w/residual delays following earlier police activity at Damen. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>#103 West 103rd buses are temporarily rerouted in both directions via 103rd, Halsted, 107th, Vincennes and 103rd due to, street blockage near 103rd/Vincennes.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Brown Line trains are running w/residual delays following earlier police activity at Damen.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-05-19T11:39:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-05-21T00:40:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92238"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92269"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "West 103rd",
-        "ServiceId": "103",
-        "ServiceBackColor": "059",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/103/"
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "7cccac8a-2505-4410-87a6-3169ae2fcc98"
+    "GUID": "9dc813f2-c4d2-4639-95d0-b1b990bcb931"
   }
 ]
