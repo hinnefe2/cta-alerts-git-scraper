@@ -32,5 +32,86 @@
     },
     "ttim": "0",
     "GUID": "7cccac8a-2505-4410-87a6-3169ae2fcc98"
+  },
+  {
+    "AlertId": "92279",
+    "Headline": "#147 Outer DuSable Lake Shore Express, #146 Inner Lake Shore/Michigan Express Temporary Northbound Reroute near Lake Shore Dr/LaSalle",
+    "ShortDescription": "NB 147 Otr DuSable Lk Shr Exp,146 Inr Lk Shr/Michigan Exp buses are temp. rerouted via Michigan, Oak, Inner LSD, LaSalle, Stockton, Sheridan, Belmont & LSD",
+    "FullDescription": {
+      "#cdata-section": "<p><span style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 11px; background-color: rgb(252, 253, 253);\">Northbound&nbsp;</span>#147 Outer DuSable Lake Shore Express,<span style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 11px; background-color: rgb(252, 253, 253);\">&nbsp;#146 Inner Lake Shore/Michigan Express&nbsp;</span>buses are temporarily rerouted via &nbsp;Michigan, Oak, Inner LSD, LaSalle, Stockton, Sheridan, Belmont and Lake Shore Drive&nbsp;due to street blockage near Lake Shore Dr/LaSalle.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-21T19:29:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92279"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4723858b-a9b5-4aa4-a271-4ed14f8ea795"
+  },
+  {
+    "AlertId": "92280",
+    "Headline": "#18 16th-18th Temporary Eastbound Reroute near 18th/Cicero",
+    "ShortDescription": "EB 18 16th-18th buses are temporarily rerouted via Cicero/16th terminal, Cicero, Roosevelt, Kostner and 16th due to, street blockage near 18th/Cicero.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound&nbsp;#18 16th-18th buses are temporarily rerouted via Cicero/16th terminal, Cicero, Roosevelt, Kostner and 16th due to, street blockage near 18th/Cicero.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-21T19:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92280"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "16th-18th",
+        "ServiceId": "18",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/18/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "dd1c669b-7b49-4f17-86b5-543658a31225"
   }
 ]
