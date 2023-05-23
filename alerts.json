@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "2700e263-c282-4d66-af84-086343f2d1f1"
+  },
+  {
+    "AlertId": "92305",
+    "Headline": "#62 Archer and #62H Archer/Harlem Temporary Reroute near Archer/ Natchez",
+    "ShortDescription": "62 Archer and 62H Archer/Harlem buses temp. rerouted SB: Archer, Natchez, 54th, Steger & Archer; NB  Archer, Oak Pk, 54th, Neenah and Archer nr Archer/Natchez.",
+    "FullDescription": {
+      "#cdata-section": "<p>#62 Archer and #62H Archer/Harlem buses are temporarily rerouted in both directions near Archer/ Natchez, due to street blockage.</p>\r\n\r\n<p>Southbound buses will operate via &nbsp;Archer, Natchez, 54th, Steger and&nbsp;Archer.</p>\r\n\r\n<p>Northbound&nbsp; buses will operate via Archer, Oak Pk, 54th, Neenah and Archer.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-22T22:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92305"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer/Harlem",
+          "ServiceId": "62H",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62h/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "df354b0a-ef83-4f0d-b6b0-8bf17ced4ce0"
   }
 ]
