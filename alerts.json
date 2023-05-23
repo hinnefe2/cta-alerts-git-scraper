@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "92317",
+    "Headline": "Brown Line Delays",
+    "ShortDescription": "Brown Line trains are running w/residual delays following earlier fire department activity. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line trains are running with residual delays following earlier fire department activity.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-05-23T15:27:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92317"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "1e5c08fc-3b7a-4e1f-a18f-02990e6cfb51"
+  },
+  {
     "AlertId": "92316",
     "Headline": "#55 GarfieldTemporary Reroute at 55th/Hamlin",
     "ShortDescription": "55 Garfield buses are temporarily rerouted via 55th, Lawndale, 59th, Pulaski and 55th due to street blockage near 55th/Hamlin.",
