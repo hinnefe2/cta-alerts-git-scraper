@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "56aef3fd-b86b-49ca-aa5b-0427b6e9abcd"
+  },
+  {
+    "AlertId": "92359",
+    "Headline": "#15 Jeffery Local, #28 Stony Island Temporary Northbound Reroute near Lake Park/54th",
+    "ShortDescription": "15 Jeffery Local buses are temporarily rerouted Northbound via Lake Park, 55th, Woodlawn, 53rd and Lake Park due to street blockage near Lake Park/54th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#15 Jeffery Local and #28 Stony Island buses are temporarily rerouted Northbound via Lake Park, 55th, Woodlawn, 53rd and Lake Park due to street blockage near Lake Park/54th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-25T12:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92359"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stony Island",
+          "ServiceId": "28",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/28/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "3643787f-78fc-44ad-a7d0-425fc32503bb"
   }
 ]
