@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "92388",
-    "Headline": "Harlem-bound Green Line Delays",
-    "ShortDescription": "Harlem-bound Green Line trains are running w/residual delays following an earlier sick customer at Roosevelt. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green Line trains are running w/residual delays following an earlier sick customer at Roosevelt.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-05-26T22:58:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92388"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f6697d5a-40d9-41d8-a1ff-7887adbc66cb"
-  },
-  {
     "AlertId": "92352",
     "Headline": "#115 Pullman/115th Temporary Reroute at 115th/Wentworth",
     "ShortDescription": "115 Pullman/115th buses are temporarily rerouted via 115th, Halsted, 111th, State, and 115th due to, street blockage near 115th/Wentworth.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "df67d690-0f5e-4968-9029-8f928f68baa6"
+  },
+  {
+    "AlertId": "92389",
+    "Headline": "Yellow Line Service Delayed at Dempster-Skokie",
+    "ShortDescription": "Yellow Line trains are standing at Dempster-Skokie due to a door problem on a train. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Yellow Line trains are standing at Dempster-Skokie due to a door problem on a train.</p>\n\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\n\n<p>Personnel are working to restore service. Allow extra travel time.</p>\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2023-05-26T23:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92389"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Yellow Line",
+        "ServiceId": "Y",
+        "ServiceBackColor": "f9e300",
+        "ServiceTextColor": "000000",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/yellowline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "77ffaf88-8943-41a1-92b6-cff13b8c0f2f"
   }
 ]
