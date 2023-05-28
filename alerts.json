@@ -102,6 +102,40 @@
     "GUID": "6fae9a31-ee22-4476-9e0f-af1e990c9a06"
   },
   {
+    "AlertId": "92419",
+    "Headline": "#34 South Michigan Temporary Reroute at Michigan/119th",
+    "ShortDescription": "34 South Michigan buses are temporarily rerouted via Michigan, 1119th, State, 127th and Michigan due to, street blockage near Michigan/119th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#34 South Michigan buses are temporarily rerouted in both directions via&nbsp;Michigan, 1119th, State, 127th and Michigan due to, street blockage near Michigan/119th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-28T14:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92419"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Michigan",
+        "ServiceId": "34",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/34/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "273f32b6-e0db-47b8-a15b-d4b373bd8b2c"
+  },
+  {
     "AlertId": "92415",
     "Headline": "Kimball-bound Brown Line Delays",
     "ShortDescription": "Kimball-bound Brown Line trains are running w/residual delays following an earlier mechanical problem at Diversey. Service is resuming, allow extra time.",
