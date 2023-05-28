@@ -1,71 +1,37 @@
 [
   {
-    "AlertId": "92408",
-    "Headline": "#6 Jackson Park Express Temporary Reroute at Balbo/Michigan",
-    "ShortDescription": "6 Jackson Park Express buses are temporarily rerouted via Lake Shore Drive, Roosevelt, and Michigan due to, street blockage near Balbo/Michigan.",
+    "AlertId": "92421",
+    "Headline": "Loop-bound Brown Line Service Delayed at Chicago",
+    "ShortDescription": "Loop-bound Brown Line trains are standing at Chicago due to a mechanical problem on a train. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>#6 Jackson Park Express buses are temporarily rerouted in both directions via Lake Shore Drive, Roosevelt, and Michigan due to, street blockage near Balbo/Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Brown Line trains are standing at Chicago due to a mechanical problem on a train</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-05-28T05:06:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-05-28T15:59:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92408"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92421"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
-        "ServiceBackColor": "059",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "0e67d9a7-ff70-4427-862f-a469019babfc"
-  },
-  {
-    "AlertId": "92412",
-    "Headline": "#55 Garfield Temporary Reroute at Hyde Park/54th",
-    "ShortDescription": "55 Garfield buses are temporarily rerouted via Garfield, Lake Park, 53rd, and Hyde Park due to, street blockage near Hyde Park/54th.",
-    "FullDescription": {
-      "#cdata-section": "<p>#55 Garfield buses are temporarily rerouted in both directions via Garfield, Lake Park, 53rd, and Hyde Park due to, street blockage near Hyde Park/54th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-05-28T08:00:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92412"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Garfield",
-        "ServiceId": "55",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/55/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e43459e6-0ec3-44ec-8840-ae9096b32f18"
+    "GUID": "4db785df-7ebd-4c71-8412-a23901b8fab2"
   },
   {
     "AlertId": "92416",
@@ -168,6 +134,74 @@
     },
     "ttim": "0",
     "GUID": "244bce9b-518e-4160-b468-1445c0f7b2d1"
+  },
+  {
+    "AlertId": "92408",
+    "Headline": "#6 Jackson Park Express Temporary Reroute at Balbo/Michigan",
+    "ShortDescription": "6 Jackson Park Express buses are temporarily rerouted via Lake Shore Drive, Roosevelt, and Michigan due to, street blockage near Balbo/Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p>#6 Jackson Park Express buses are temporarily rerouted in both directions via Lake Shore Drive, Roosevelt, and Michigan due to, street blockage near Balbo/Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-28T05:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92408"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0e67d9a7-ff70-4427-862f-a469019babfc"
+  },
+  {
+    "AlertId": "92412",
+    "Headline": "#55 Garfield Temporary Reroute at Hyde Park/54th",
+    "ShortDescription": "55 Garfield buses are temporarily rerouted via Garfield, Lake Park, 53rd, and Hyde Park due to, street blockage near Hyde Park/54th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#55 Garfield buses are temporarily rerouted in both directions via Garfield, Lake Park, 53rd, and Hyde Park due to, street blockage near Hyde Park/54th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-28T08:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92412"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Garfield",
+        "ServiceId": "55",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/55/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e43459e6-0ec3-44ec-8840-ae9096b32f18"
   },
   {
     "AlertId": "92415",
