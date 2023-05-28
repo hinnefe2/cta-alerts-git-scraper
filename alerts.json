@@ -1,71 +1,37 @@
 [
   {
-    "AlertId": "92418",
-    "Headline": "Howard-bound Red Line Delays",
-    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays following an earlier mechanical problem. Service is resuming, allow extra time.",
+    "AlertId": "92408",
+    "Headline": "#6 Jackson Park Express Temporary Reroute at Balbo/Michigan",
+    "ShortDescription": "6 Jackson Park Express buses are temporarily rerouted via Lake Shore Drive, Roosevelt, and Michigan due to, street blockage near Balbo/Michigan.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are running w/residual delays following an earlier mechanical problem at North/Clybourn.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-05-28T12:14:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92418"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f43207fe-509a-437f-82b3-4dedb5a0c864"
-  },
-  {
-    "AlertId": "92416",
-    "Headline": "#63 63rd (Beach) Temporary Eastbound Reroute near 63rd/Stony Island",
-    "ShortDescription": "EB 63 63rd buses are temporarily rerouted via 63rd, Stony Island, Marquette, Richards, Hayes, 67th & Stony Island due to street blockage near 63rd/Stony Island.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound&nbsp;#63 63rd (Beach) buses are temporarily rerouted via 63rd, Stony Island, Marquette, Richards, Hayes, 67th and Stony Island due to street blockage near 63rd/Stony Island.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#6 Jackson Park Express buses are temporarily rerouted in both directions via Lake Shore Drive, Roosevelt, and Michigan due to, street blockage near Balbo/Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-05-28T11:52:00",
+    "EventStart": "2023-05-28T05:06:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92416"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92408"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "63rd",
-        "ServiceId": "63",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "6fae9a31-ee22-4476-9e0f-af1e990c9a06"
+    "GUID": "0e67d9a7-ff70-4427-862f-a469019babfc"
   },
   {
     "AlertId": "92412",
@@ -102,38 +68,38 @@
     "GUID": "e43459e6-0ec3-44ec-8840-ae9096b32f18"
   },
   {
-    "AlertId": "92408",
-    "Headline": "#6 Jackson Park Express Temporary Reroute at Balbo/Michigan",
-    "ShortDescription": "6 Jackson Park Express buses are temporarily rerouted via Lake Shore Drive, Roosevelt, and Michigan due to, street blockage near Balbo/Michigan.",
+    "AlertId": "92416",
+    "Headline": "#63 63rd (Beach) Temporary Eastbound Reroute near 63rd/Stony Island",
+    "ShortDescription": "EB 63 63rd buses are temporarily rerouted via 63rd, Stony Island, Marquette, Richards, Hayes, 67th & Stony Island due to street blockage near 63rd/Stony Island.",
     "FullDescription": {
-      "#cdata-section": "<p>#6 Jackson Park Express buses are temporarily rerouted in both directions via Lake Shore Drive, Roosevelt, and Michigan due to, street blockage near Balbo/Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Eastbound&nbsp;#63 63rd (Beach) buses are temporarily rerouted via 63rd, Stony Island, Marquette, Richards, Hayes, 67th and Stony Island due to street blockage near 63rd/Stony Island.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-05-28T05:06:00",
+    "EventStart": "2023-05-28T11:52:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92408"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92416"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "0e67d9a7-ff70-4427-862f-a469019babfc"
+    "GUID": "6fae9a31-ee22-4476-9e0f-af1e990c9a06"
   },
   {
     "AlertId": "92415",
