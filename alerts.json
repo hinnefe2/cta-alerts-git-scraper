@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "92406",
-    "Headline": "#6 Jackson Park Express Temporary Reroute at Balboa/Michigan",
-    "ShortDescription": "6 Jackson Park Express buses are temporarily rerouted via LSD, Roosevelt, and Michigan due to, street blockage near Balboa/Michigan.",
-    "FullDescription": {
-      "#cdata-section": "<p>#6 Jackson Park Express buses are temporarily rerouted in both directions via Lake Shore Drive, Roosevelt, and Michigan due to, street blockage near Balboa/Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-05-28T00:59:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92406"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "57a372a1-7114-4e89-945e-e0e835cf224e"
-  },
-  {
     "AlertId": "92407",
     "Headline": "#79 79th Temporary Westbound Reroute near 79th/Eggleston",
     "ShortDescription": "Westbound 79 79th buses are temporarily rerouted via 79th, Vincennes, 76th, Halsted and 79th due to street blockage near 79th/Eggleston.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "20171854-59d5-4cf5-9c51-23436958f0e3"
+  },
+  {
+    "AlertId": "92408",
+    "Headline": "#6 Jackson Park Express Temporary Reroute at Balbo/Michigan",
+    "ShortDescription": "6 Jackson Park Express buses are temporarily rerouted via Lake Shore Drive, Roosevelt, and Michigan due to, street blockage near Balbo/Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p>#6 Jackson Park Express buses are temporarily rerouted in both directions via Lake Shore Drive, Roosevelt, and Michigan due to, street blockage near Balbo/Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-28T05:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92408"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0e67d9a7-ff70-4427-862f-a469019babfc"
   }
 ]
