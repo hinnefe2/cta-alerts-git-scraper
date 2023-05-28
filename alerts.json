@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "92415",
-    "Headline": "Kimball-bound Brown Line Service Delayed at Diversey",
-    "ShortDescription": "Kimball-bound Brown Line trains are standing at Diversey due to a mechanical problem on a train. Crews working to restore service.",
+    "AlertId": "92408",
+    "Headline": "#6 Jackson Park Express Temporary Reroute at Balbo/Michigan",
+    "ShortDescription": "6 Jackson Park Express buses are temporarily rerouted via Lake Shore Drive, Roosevelt, and Michigan due to, street blockage near Balbo/Michigan.",
     "FullDescription": {
-      "#cdata-section": "<p>Kimball-bound Brown Line trains are standing at Diversey due to a mechanical problem on a train.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#6 Jackson Park Express buses are temporarily rerouted in both directions via Lake Shore Drive, Roosevelt, and Michigan due to, street blockage near Balbo/Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-05-28T11:30:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-28T05:06:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92415"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92408"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "f67402a6-4a7b-4e4a-9d87-6010f194a795"
+    "GUID": "0e67d9a7-ff70-4427-862f-a469019babfc"
   },
   {
     "AlertId": "92412",
@@ -68,37 +68,37 @@
     "GUID": "e43459e6-0ec3-44ec-8840-ae9096b32f18"
   },
   {
-    "AlertId": "92408",
-    "Headline": "#6 Jackson Park Express Temporary Reroute at Balbo/Michigan",
-    "ShortDescription": "6 Jackson Park Express buses are temporarily rerouted via Lake Shore Drive, Roosevelt, and Michigan due to, street blockage near Balbo/Michigan.",
+    "AlertId": "92415",
+    "Headline": "Kimball-bound Brown Line Delays",
+    "ShortDescription": "Kimball-bound Brown Line trains are running w/residual delays following an earlier mechanical problem at Diversey. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>#6 Jackson Park Express buses are temporarily rerouted in both directions via Lake Shore Drive, Roosevelt, and Michigan due to, street blockage near Balbo/Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Kimball-bound Brown Line trains are running with residual delays following an earlier mechanical problem at Diversey.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-05-28T05:06:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-05-28T11:30:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92408"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92415"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
-        "ServiceBackColor": "059",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "0e67d9a7-ff70-4427-862f-a469019babfc"
+    "GUID": "9385a291-26df-4654-95a7-03bdae27cb86"
   }
 ]
