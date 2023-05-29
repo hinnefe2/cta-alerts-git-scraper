@@ -68,6 +68,40 @@
     "GUID": "2d38a778-8b8b-4275-b146-14d988b2741e"
   },
   {
+    "AlertId": "92425",
+    "Headline": "#12 Roosevelt Temporary Reroute at Roosevelt/Independence",
+    "ShortDescription": "12 Roosevelt buses are temporarily rerouted via Roosevelt, Pulaski, 16th, Central Park and Roosevelt due to street blockage near Roosevelt/Independence.",
+    "FullDescription": {
+      "#cdata-section": "<p>#12 Roosevelt buses are temporarily rerouted in both directions via Roosevelt, Pulaski, 16th, Central Park and Roosevelt due to street blockage near Roosevelt/Independence.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-29T00:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92425"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Roosevelt",
+        "ServiceId": "12",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/12/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a3871a7f-3320-40ee-9e0f-fc9d66bec76a"
+  },
+  {
     "AlertId": "92423",
     "Headline": "#3 King Drive, #4 Cottage Grove Temporary Reroute near Michigan/Roosevelt-Van Buren",
     "ShortDescription": "3 King Dr, 4 Cott Grv rerouted NB via Mchgn, Rsvlt, State, Jksn & Mchgn; SB via Mchgn, Adams, State, Rsvlt & Mchgn due to blockage nr Mchgn/Roosevelt-Van Buren",
@@ -113,86 +147,5 @@
     },
     "ttim": "0",
     "GUID": "7dcb6a11-405d-447c-809e-99639ac34580"
-  },
-  {
-    "AlertId": "92424",
-    "Headline": "#6 Jackson Park Express, #J14 Jeffery Jump Temporary Reroute near Michigan/Roosevelt-Van Buren",
-    "ShortDescription": "6 Jackson Park & J14 Jeffery rrtd NB via Mchgn, Rsvlt, State, Jksn & Mchgn; SB via Mchgn, Adams, State, Rsvlt & Mchgn due to blockage nr Mchgn/Rsvlt-Van Buren",
-    "FullDescription": {
-      "#cdata-section": "<p>#6 Jackson Park Express and #J14 Jeffery&nbsp;Jump buses are temporarily rerouted in both directions&nbsp;due to street&nbsp;near Michigan/Roosevelt-Van Buren.</p>\r\n\r\n<ul>\r\n\t<li>Northbound&nbsp;buses will operate via Michigan, Roosevelt, State, Jackson and Michigan.</li>\r\n\t<li>Southbound buses will operate via Michigan, Adams, State, Roosevelt and Michigan.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-05-28T22:58:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92424"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jackson Park Express",
-          "ServiceId": "6",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/6/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Jump",
-          "ServiceId": "J14",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "090cac37-54bd-4d5e-b2c8-d6732dc8ba5c"
-  },
-  {
-    "AlertId": "92425",
-    "Headline": "#12 Roosevelt Temporary Reroute at Roosevelt/Independence",
-    "ShortDescription": "12 Roosevelt buses are temporarily rerouted via Roosevelt, Pulaski, 16th, Central Park and Roosevelt due to street blockage near Roosevelt/Independence.",
-    "FullDescription": {
-      "#cdata-section": "<p>#12 Roosevelt buses are temporarily rerouted in both directions via Roosevelt, Pulaski, 16th, Central Park and Roosevelt due to street blockage near Roosevelt/Independence.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-05-29T00:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92425"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Roosevelt",
-        "ServiceId": "12",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/12/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a3871a7f-3320-40ee-9e0f-fc9d66bec76a"
   }
 ]
