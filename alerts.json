@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "92437",
-    "Headline": "Loop-bound Pink Line Service Delayed near Ashland/Lake",
-    "ShortDescription": "Loop-bound Pink Line trains are standing near Ashland due to a mechanical problem on a train. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Pink Line trains are standing near Ashland/Lake due to a mechanical problem on a train.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-05-30T10:25:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92437"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b3743337-b862-4dd3-9f01-7ed2a617d072"
-  },
-  {
     "AlertId": "92408",
     "Headline": "#6 Jackson Park Express Temporary Reroute at Balbo/Michigan",
     "ShortDescription": "6 Jackson Park Express buses are temporarily rerouted via Lake Shore Drive, Roosevelt, and Michigan due to, street blockage near Balbo/Michigan.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "2d38a778-8b8b-4275-b146-14d988b2741e"
+  },
+  {
+    "AlertId": "92437",
+    "Headline": "Loop-bound Pink Line Service Delayed near Ashland/Lake",
+    "ShortDescription": "Loop-bound Pink Line trains are standing near Ashland due to a mechanical problem on a train. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Pink Line trains are standing near Ashland/Lake due to a mechanical problem on a train.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-05-30T10:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92437"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5e84e664-a9a6-4c8f-90fd-c65bd2944887"
   }
 ]
