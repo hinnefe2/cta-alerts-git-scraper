@@ -168,5 +168,52 @@
     },
     "ttim": "0",
     "GUID": "ca90dba2-a403-4f9f-bf7f-1976ca0865b0"
+  },
+  {
+    "AlertId": "92486",
+    "Headline": "#3 King Drive and  #151 Sheridan Temporary Reroute near Michigan/Wacker",
+    "ShortDescription": "3 King Drive & 151 Sheridan buses rerouted SB via Mchgn, Ontario, State, Wckr & Mchgn; NB via Mchgn, Wckr, State, Ohio & Mchgn due to blockage near Mchgn/Wacker",
+    "FullDescription": {
+      "#cdata-section": "<p>#3 King Drive and&nbsp; #151 Sheridan buses are temporarily rerouted in both directions&nbsp;due to street blockage near Michigan/Wacker.</p>\r\n\r\n<ul>\r\n\t<li>Southbound buses will operate via&nbsp;Michigan, Ontario, State, Wacker and Michigan.</li>\r\n\t<li>Northbound&nbsp;buses will operate via Michigan, Wacker, State, Ohio &amp; Michigan.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-05-30T23:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92486"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "King Drive",
+          "ServiceId": "3",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/3/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d3224dae-b7ea-45cc-a881-589713450e33"
   }
 ]
