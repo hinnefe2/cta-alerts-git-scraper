@@ -1,73 +1,5 @@
 [
   {
-    "AlertId": "92525",
-    "Headline": "#115 Pullman/115th Temporary Reroute near 115th/Michigan",
-    "ShortDescription": "115 Pullman/115th buses temp. rerouted WB: 115th, King Dr, 114th Pl, Calumet & 115th; EB: 115th, Forest, 114th Pl, and King Dr. due to, street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>#115 Pullman/115th buses are temporarily rerouted in both directions near 115th/Michigan, due to street blockage.</p>\r\n\r\n<p>Westbound buses will operate via 115th, King Drive, 114th Place, Calumet and 115th.</p>\r\n\r\n<p>Eastbound&nbsp;buses will operate via 115th, Forest, 114th Place, and King Drive.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-02T09:40:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92525"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pullman/115th",
-        "ServiceId": "115",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/115/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "cadbcee2-364e-4998-91e5-43402383f371"
-  },
-  {
-    "AlertId": "92526",
-    "Headline": "#66 Chicago Temporary Reroute at Chicago/Pulaski",
-    "ShortDescription": "66 Chicago buses are temporarily rerouted via Chicago, Pulaski, Augusta, Cicero and Chicago: due to, street blockage near Chicago/Pulaski.",
-    "FullDescription": {
-      "#cdata-section": "<p>#66 Chicago buses are temporarily rerouted in both directions via Chicago, Pulaski, Augusta, Cicero and Chicago: due to, street blockage near Chicago/Pulaski.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-02T10:15:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92526"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Chicago",
-        "ServiceId": "66",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/66/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "276e0ef9-60ce-44e1-bd8d-fdd606dc0fb4"
-  },
-  {
     "AlertId": "92445",
     "Headline": "#29 State Temporary Southbound Reroute near Grand/Michigan",
     "ShortDescription": "Southbound 29 State buses are temporarily rerouted via Grand, Fairbanks, Ontario and State due to, street blockage near Grand/Michigan.",
@@ -100,40 +32,6 @@
     },
     "ttim": "0",
     "GUID": "ca90dba2-a403-4f9f-bf7f-1976ca0865b0"
-  },
-  {
-    "AlertId": "92440",
-    "Headline": "#65 Grand temporary Westbound Reroute near Grand/Michigan",
-    "ShortDescription": "WB 65 Grand buses are temporarily rerouted via Grand, Fairbanks, Ontario, State, and Grand due to, street blockage near Grand/Michigan",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound&nbsp;#65 Grand buses are temporarily rerouted via Grand, Fairbanks, Ontario, State, and Grand due to, street blockage near Grand/Michigan</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-05-30T13:21:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92440"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Grand",
-        "ServiceId": "65",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/65/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "89541faa-5b25-448f-b163-3052a17ea9b9"
   },
   {
     "AlertId": "92492",
@@ -202,5 +100,73 @@
     },
     "ttim": "0",
     "GUID": "da7008ee-a9cd-4a33-99fd-71911018bc88"
+  },
+  {
+    "AlertId": "92525",
+    "Headline": "#115 Pullman/115th Temporary Reroute near 115th/Michigan",
+    "ShortDescription": "115 Pullman/115th buses temp. rerouted WB: 115th, King Dr, 114th Pl, Calumet & 115th; EB: 115th, Forest, 114th Pl, and King Dr. due to, street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#115 Pullman/115th buses are temporarily rerouted in both directions near 115th/Michigan, due to street blockage.</p>\r\n\r\n<p>Westbound buses will operate via 115th, King Drive, 114th Place, Calumet and 115th.</p>\r\n\r\n<p>Eastbound&nbsp;buses will operate via 115th, Forest, 114th Place, and King Drive.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-02T09:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92525"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pullman/115th",
+        "ServiceId": "115",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/115/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cadbcee2-364e-4998-91e5-43402383f371"
+  },
+  {
+    "AlertId": "92526",
+    "Headline": "#66 Chicago Temporary Reroute at Chicago/Pulaski",
+    "ShortDescription": "66 Chicago buses are temporarily rerouted via Chicago, Pulaski, Augusta, Cicero and Chicago: due to, street blockage near Chicago/Pulaski.",
+    "FullDescription": {
+      "#cdata-section": "<p>#66 Chicago buses are temporarily rerouted in both directions via Chicago, Pulaski, Augusta, Cicero and Chicago: due to, street blockage near Chicago/Pulaski.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-02T10:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92526"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "276e0ef9-60ce-44e1-bd8d-fdd606dc0fb4"
   }
 ]
