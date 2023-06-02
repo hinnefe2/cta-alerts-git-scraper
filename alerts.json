@@ -168,5 +168,52 @@
     },
     "ttim": "0",
     "GUID": "da7008ee-a9cd-4a33-99fd-71911018bc88"
+  },
+  {
+    "AlertId": "92524",
+    "Headline": "Loop-bound Purple and 95th-bound Red Line Delays",
+    "ShortDescription": "Loop-bound Purple & 95th-bound Red Line trains are running w/residual delays following earlier police activity at Sheridan. Service is resuming allow extra time",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Purple and 95th-bound Red Line trains are running with residual delays following earlier police activity at Sheridan.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-06-02T09:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92524"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "cfb16205-1499-4612-a806-48e4d8776e53"
   }
 ]
