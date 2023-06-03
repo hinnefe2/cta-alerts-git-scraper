@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "92542",
+    "Headline": "Green and Orange Line Service Delayed near Roosevelt",
+    "ShortDescription": "Green and Orange Line trains are standing near Roosevelt due to a report of a minor fire at track level. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green and Orange Line trains are standing near Roosevelt due to a report of a minor fire at track level.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-03T15:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92542"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "90f48ee2-0de5-4e72-851d-2a6aea98232e"
+  },
+  {
     "AlertId": "92535",
     "Headline": "#54 Cicero Temporary Reroute near Cicero/Rice",
     "ShortDescription": "54 Cicero buses are temporarily rerouted via Cicero, Augusta, Laramie, Chicago and Cicero due to street blockage near Cicero/Rice.",
