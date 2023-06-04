@@ -1,52 +1,5 @@
 [
   {
-    "AlertId": "92558",
-    "Headline": "Red Line Service Running with Delays",
-    "ShortDescription": "Red  Line trains are running with delays near Sheridan due to unauthorized person on the tracks",
-    "FullDescription": {
-      "#cdata-section": "<p>Red&nbsp; Line trains are running with delays near Sheridan due to unauthorized person on the tracks</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-06-04T12:41:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92558"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Sheridan",
-          "ServiceId": "40080",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=125"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "755b0f90-4f5a-42ba-95fa-1f58c9d02d18"
-  },
-  {
     "AlertId": "92557",
     "Headline": "#82 Kimball-HomanTemporary Reroute at Madison/Pulaski",
     "ShortDescription": "82 Kimball-Homan buses are temp rerouted via Kimball, North Avenue, Western, Fulton, Kedzie, Jackson and Homan: due to,street blockage near Madison/Pulaski",
@@ -79,40 +32,6 @@
     },
     "ttim": "0",
     "GUID": "bb2da915-d3f5-4c2b-b185-3f99739b9213"
-  },
-  {
-    "AlertId": "92553",
-    "Headline": "#20 Madison Temporary Eastbound Reroute near Madison/Pulaski",
-    "ShortDescription": "Eastbound 20 Madison buses are temporarily rerouted via Madison, Pulaski, Cermak and California ,due to street blockage near Madison/Pulaski",
-    "FullDescription": {
-      "#cdata-section": "<p># 20 Madison Eastbound&nbsp;buses are temporarily rerouted via Madison, Pulaski, Cermak and California ,due to street blockage near Madison/Pulaski</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-04T07:35:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92553"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Madison",
-        "ServiceId": "20",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/20/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b955a627-662b-418e-bf7d-6cc5252e2344"
   },
   {
     "AlertId": "92554",
