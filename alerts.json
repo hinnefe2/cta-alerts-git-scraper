@@ -32,5 +32,96 @@
     },
     "ttim": "0",
     "GUID": "4a048e98-8feb-4ec1-b291-5e10b06892b7"
+  },
+  {
+    "AlertId": "92590",
+    "Headline": "No trains between 54th/Cermak  and Central Park.",
+    "ShortDescription": "Pink Line service has been temporarily suspended between 54th/Cermak and CentralPark due to a Comed issue.",
+    "FullDescription": {
+      "#cdata-section": "<p>&nbsp;</p>\r\n\r\n<p>Pink Line service has been temporarily suspended between 54th/Cermak and CentralPark due to a ComED issue.</p>\r\n\r\n<p>&nbsp;Shuttle buses are available between 54th/Cermak&nbsp;and Central Park&nbsp;to provide connecting service</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2023-06-07T11:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92590"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "54th/Cermak",
+          "ServiceId": "40580",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=8"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Central Park",
+          "ServiceId": "40780",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=32"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Cicero",
+          "ServiceId": "40420",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=39"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Kostner",
+          "ServiceId": "40600",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=86"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Pulaski",
+          "ServiceId": "40150",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=112"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "47819e3e-d319-4d38-9a1f-391f69a2dbca"
   }
 ]
