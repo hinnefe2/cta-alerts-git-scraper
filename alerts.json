@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "92591",
+    "Headline": "Loop-bound Brown Line Service Running with Delays",
+    "ShortDescription": "Loop-bound Brown Line trains are running with residual delays from Merchandise Mart due to an earlier bridge lift",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Brown Line trains are running with residual delays from Merchandise Mart due to an earlier bridge lift.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-07T11:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92591"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "1c59f17c-de08-4f1d-b4cc-b79d068f3fbc"
+  },
+  {
     "AlertId": "92588",
     "Headline": "#82 Kimball-Homan Temporary Reroute at Central Park/15th",
     "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Central Park, 16th and Homan due to, street blcockage near Central Park/15th.",
@@ -32,40 +66,6 @@
     },
     "ttim": "0",
     "GUID": "4a048e98-8feb-4ec1-b291-5e10b06892b7"
-  },
-  {
-    "AlertId": "92591",
-    "Headline": "Brown Line Service Delayed at Merchandise Mart due to a bridge lift ",
-    "ShortDescription": "Brown Line Service Delayed at Merchandise Mart due to a bridge lift  Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Brown Line Service Delayed at Merchandise Mart due to a bridge lift.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-06-07T11:52:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92591"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "96366bdc-6add-4aa1-a818-d5a49cbb10cb"
   },
   {
     "AlertId": "92590",
