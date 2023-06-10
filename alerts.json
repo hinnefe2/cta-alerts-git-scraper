@@ -1,73 +1,5 @@
 [
   {
-    "AlertId": "92630",
-    "Headline": "#63 63rd Temporary Westbound Reroute near 63rd/Lawndale",
-    "ShortDescription": "Westbound 63 63rd buses are temporarily rerouted via 63rd, Kedzie, 59th and Pulaski: due to, street blockage near 63rd/Lawndale.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound&nbsp;#63 63rd buses are temporarily rerouted via 63rd, Kedzie, 59th and Pulaski: due to, street blockage near 63rd/Lawndale.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-10T08:24:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92630"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "63rd",
-        "ServiceId": "63",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/63/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "838ae0da-9541-4e64-8ee6-4af7da15294f"
-  },
-  {
-    "AlertId": "92631",
-    "Headline": "#36 Broadway Temporary Reroute at Broadway/Sunnyside",
-    "ShortDescription": "36 Broadway buses are temporarily rerouted via Broadway, Wlison and Sheridan: due to, street blockage near Boradway/Sunnyside",
-    "FullDescription": {
-      "#cdata-section": "<p>#36 Broadway buses are temporarily rerouted via Broadway, Wlison&nbsp; and Sheridan&nbsp;&nbsp;due to, street blockage near Boradway/Sunnyside</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-10T08:32:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92631"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Broadway",
-        "ServiceId": "36",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/36/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4c60a9eb-c541-4f79-891f-c8a7f6196652"
-  },
-  {
     "AlertId": "92632",
     "Headline": "#78 MontroseTemporary Westbound Reroute near Broadway/Sunnyside",
     "ShortDescription": "Westbound 78 Montrose buses are temporarily rerouted via Montrose, Sheridan and Wilson: due to, street blockage near Broadway/Sunnyside",
@@ -100,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "6adfd961-78e0-4555-9010-64477450af01"
+  },
+  {
+    "AlertId": "92630",
+    "Headline": "#63 63rd Temporary Westbound Reroute near 63rd/Lawndale",
+    "ShortDescription": "Westbound 63 63rd buses are temporarily rerouted via 63rd, Kedzie, 59th and Pulaski: due to, street blockage near 63rd/Lawndale.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound&nbsp;#63 63rd buses are temporarily rerouted via 63rd, Kedzie, 59th and Pulaski: due to, street blockage near 63rd/Lawndale.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-10T08:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92630"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "838ae0da-9541-4e64-8ee6-4af7da15294f"
   }
 ]
