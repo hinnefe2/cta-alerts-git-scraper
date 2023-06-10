@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "92634",
+    "Headline": "Green and Pink Line Service Experiencing Significant Delays Due to Raised Bridge",
+    "ShortDescription": "Green and Pink Line service is experiencing delays due to a raised bridge at the Chicago River, downtown",
+    "FullDescription": {
+      "#cdata-section": "<p>Green and Pink Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.</p>\r\n\r\n<p>Some trains may be either held or&nbsp;rerouted before reaching the bridge (in order&nbsp;to maintain service across the remainder of the route). Listen for announcements and check train destination signs when boarding.</p>\r\n\r\n<p>We apologize for this temporary inconvenience and appreciate your patience while the Chicago Department of Transportation works to complete the bridge operation. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-10T10:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92634"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "450566b2-bbc1-4d5d-8b3d-f0acc7b062e0"
+  },
+  {
     "AlertId": "92630",
     "Headline": "#63 63rd Temporary Westbound Reroute near 63rd/Lawndale",
     "ShortDescription": "Westbound 63 63rd buses are temporarily rerouted via 63rd, Kedzie, 59th and Pulaski: due to, street blockage near 63rd/Lawndale.",
