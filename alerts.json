@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "92654",
+    "Headline": "63rd- and Midway-bound Green and Orange Line Service Delayed at Roosevelt",
+    "ShortDescription": "63rd- and Midway-bound Green and Orange Line trains are standing at Roosevelt due to fire department activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>63rd- and Midway-bound Green and Orange Line trains are standing at Roosevelt due to fire department activity.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-12T13:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92654"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "67cb1b7e-9fae-41ce-acbe-8e7cd31626a9"
+  },
+  {
     "AlertId": "92638",
     "Headline": "#94 California, #82 Kimball-Homan Temporary Northbound Reroute near Homan and Division",
     "ShortDescription": "Northbound 94 California and 82 Kimball-Homan buses are temporarily rerouted via Homan, Division, Cicero, Fullerton and Homan due to street blockage.",
