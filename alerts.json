@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "92647",
+    "Headline": "Update:#20 Madison Temporary Reroute near Madison/Kedzie",
+    "ShortDescription": "20 Madison buses temp. rerouted WB: Madison, Homan,Washington, Central Pk, and Madison; EB: Madison, Central Park, Warren, Homan and Madison nr Madison/Kedzie.",
+    "FullDescription": {
+      "#cdata-section": "<p>Update: #20 Madison buses are temporarily rerouted in both directions near Madison/Kedzie, due to street blockage.</p>\r\n\r\n<p>Westbound buses will operate via Madison, Homan,Washington, Central Park, and Madison.</p>\r\n\r\n<p>Eastbound buses will operate via Madison,&nbsp;Central Park, Warren, Homan and Madison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-11T23:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92647"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2b334751-b97d-4094-9eb4-e9f64cb9cf1a"
+  },
+  {
     "AlertId": "92638",
     "Headline": "#94 California, #82 Kimball-Homan Temporary Northbound Reroute near Homan and Division",
     "ShortDescription": "Northbound 94 California and 82 Kimball-Homan buses are temporarily rerouted via Homan, Division, Cicero, Fullerton and Homan due to street blockage.",
@@ -79,73 +113,5 @@
     },
     "ttim": "0",
     "GUID": "398acf27-1a2a-46aa-b301-b9ee81e46fd8"
-  },
-  {
-    "AlertId": "92644",
-    "Headline": "#70 Division Temporary Reroute at Division/Humboldt",
-    "ShortDescription": "70 Division buses are temporarily rerouted via Division, Humboldt, Augusta, California and Division due to street blockage near Division/Humboldt.",
-    "FullDescription": {
-      "#cdata-section": "<p>#70 Division buses are temporarily rerouted via Division, Humboldt, Augusta, California and Division due to street blockage near Division/Humboldt.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-11T20:36:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92644"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Division",
-        "ServiceId": "70",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/70/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "fff5fcc3-aee8-416f-bd23-9736719536d4"
-  },
-  {
-    "AlertId": "92647",
-    "Headline": "Update:#20 Madison Temporary Reroute near Madison/Kedzie",
-    "ShortDescription": "20 Madison buses temp. rerouted WB: Madison, Homan,Washington, Central Pk, and Madison; EB: Madison, Central Park, Warren, Homan and Madison nr Madison/Kedzie.",
-    "FullDescription": {
-      "#cdata-section": "<p>Update: #20 Madison buses are temporarily rerouted in both directions near Madison/Kedzie, due to street blockage.</p>\r\n\r\n<p>Westbound buses will operate via Madison, Homan,Washington, Central Park, and Madison.</p>\r\n\r\n<p>Eastbound buses will operate via Madison,&nbsp;Central Park, Warren, Homan and Madison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-11T23:51:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92647"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Madison",
-        "ServiceId": "20",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/20/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "2b334751-b97d-4094-9eb4-e9f64cb9cf1a"
   }
 ]
