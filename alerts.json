@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "92657",
+    "Headline": "Loop-bound Brown Line Service Delayed Addison",
+    "ShortDescription": "Loop-bound Brown Line trains are standing with significant delays at Addison due to mechanical problems on a train. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Brown Line&nbsp;trains are standing with significant delays at Addison due to mechanical problems on a train..</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-12T16:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92657"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Addison",
+          "ServiceId": "41440",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=16"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "a6ddd75a-a284-4d63-b951-57c664cb0f9f"
+  },
+  {
     "AlertId": "92638",
     "Headline": "#94 California, #82 Kimball-Homan Temporary Northbound Reroute near Homan and Division",
     "ShortDescription": "Northbound 94 California and 82 Kimball-Homan buses are temporarily rerouted via Homan, Division, Cicero, Fullerton and Homan due to street blockage.",
