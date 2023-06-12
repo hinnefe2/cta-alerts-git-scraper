@@ -92,5 +92,39 @@
     },
     "ttim": "0",
     "GUID": "7c5b000d-b387-4984-8e90-bbfbe7b5c0d5"
+  },
+  {
+    "AlertId": "92658",
+    "Headline": "Pink Line Service Running with Delays",
+    "ShortDescription": "Pink Line trains are running with significant delays due to police activity at Damen.",
+    "FullDescription": {
+      "#cdata-section": "<p>Pink Line trains are running with significant delays due to police activity at Damen.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-06-12T17:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92658"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e4b71252-6169-42f5-94a0-f0a1e4ca7851"
   }
 ]
