@@ -1,107 +1,5 @@
 [
   {
-    "AlertId": "92664",
-    "Headline": "Loop-bound Pink Line Service Delayed at 54th Cermak",
-    "ShortDescription": "Loop-bound Pink Line trains are standing at 54th/Cermak  due to mechanical problem on a train. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Pink Line trains are standing at 54th/Cermak&nbsp; due to mechanical problemon a train.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-06-13T06:08:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92664"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "287398c5-ebd4-4d65-8ddc-7697c05afe1b"
-  },
-  {
-    "AlertId": "92662",
-    "Headline": "#72 NorthTemporary Eastbound  Reroute near North Avenue/Laramie",
-    "ShortDescription": "72 North Eastbound buses are temporarily rerouted via North Ave, Central, Division and Laraime due to,street blockage near North Avenue/Laramie",
-    "FullDescription": {
-      "#cdata-section": "<p>#72 North Eastbound buses are temporarily rerouted via North Ave, Central, Division and Laraime due to,street blockage near North Avenue/Laramie.</p>\r\n\r\n<p><br />\r\nWestbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-13T05:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92662"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "North",
-        "ServiceId": "72",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/72/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "fd57f87f-21f5-4de6-9a49-03a803ff95fa"
-  },
-  {
-    "AlertId": "92663",
-    "Headline": "#57 LaramieTemporary Southbound Reroute near North Ave/Laramie",
-    "ShortDescription": "57 Laramie Southbound buses are temporarily rerouted via Laramie, North Ave, Central and Division:due to, street blockage near North Ave/Laramie",
-    "FullDescription": {
-      "#cdata-section": "<p>#57 Laramie Southbound buses are temporarily rerouted via Laramie, North Ave, Central and Division: due to, street blockage near North Ave/Laramie.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-13T05:50:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92663"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Laramie",
-        "ServiceId": "57",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/57/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "888d1422-0b42-434d-bcfa-a31bf958a6b7"
-  },
-  {
     "AlertId": "92638",
     "Headline": "#94 California, #82 Kimball-Homan Temporary Northbound Reroute near Homan and Division",
     "ShortDescription": "Northbound 94 California and 82 Kimball-Homan buses are temporarily rerouted via Homan, Division, Cicero, Fullerton and Homan due to street blockage.",
@@ -147,5 +45,73 @@
     },
     "ttim": "0",
     "GUID": "69abd61e-3a00-44ae-9382-d25e042668ff"
+  },
+  {
+    "AlertId": "92663",
+    "Headline": "#57 LaramieTemporary Southbound Reroute near North Ave/Laramie",
+    "ShortDescription": "57 Laramie Southbound buses are temporarily rerouted via Laramie, North Ave, Central and Division:due to, street blockage near North Ave/Laramie",
+    "FullDescription": {
+      "#cdata-section": "<p>#57 Laramie Southbound buses are temporarily rerouted via Laramie, North Ave, Central and Division: due to, street blockage near North Ave/Laramie.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-13T05:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92663"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Laramie",
+        "ServiceId": "57",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/57/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "888d1422-0b42-434d-bcfa-a31bf958a6b7"
+  },
+  {
+    "AlertId": "92664",
+    "Headline": "Loop-bound Pink Line Service Delayed at 54th Cermak",
+    "ShortDescription": "Loop-bound Pink Line trains are standing at 54th/Cermak  due to mechanical problem on a train. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Pink Line trains are standing at 54th/Cermak&nbsp;due to mechanical problem on a train.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines. Shuttles requested between 54th/Cermak and Pulaski for connecting service.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2023-06-13T06:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92664"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9ae95139-eb70-4be1-b18b-1d6659f4b21c"
   }
 ]
