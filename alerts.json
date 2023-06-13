@@ -1,50 +1,37 @@
 [
   {
-    "AlertId": "92638",
-    "Headline": "#94 California, #82 Kimball-Homan Temporary Northbound Reroute near Homan and Division",
-    "ShortDescription": "Northbound 94 California and 82 Kimball-Homan buses are temporarily rerouted via Homan, Division, Cicero, Fullerton and Homan due to street blockage.",
+    "AlertId": "92664",
+    "Headline": "Loop-bound Pink Line Service Delayed at 54th Cermak",
+    "ShortDescription": "Loop-bound Pink Line trains are standing at 54th/Cermak  due to mechanical problem on a train. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #94 California and #82 Kimball-Homan&nbsp;buses are temporarily rerouted via Homan, Division, Cicero,&nbsp;Fullerton&nbsp;and Homan due to street blockage near Homan and Division.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Pink Line trains are standing at 54th/Cermak&nbsp; due to mechanical problemon a train.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-10T15:23:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-13T06:08:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92638"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92664"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Kimball-Homan",
-          "ServiceId": "82",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/82/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "California",
-          "ServiceId": "94",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/california/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "69abd61e-3a00-44ae-9382-d25e042668ff"
+    "GUID": "287398c5-ebd4-4d65-8ddc-7697c05afe1b"
   },
   {
     "AlertId": "92662",
@@ -113,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "888d1422-0b42-434d-bcfa-a31bf958a6b7"
+  },
+  {
+    "AlertId": "92638",
+    "Headline": "#94 California, #82 Kimball-Homan Temporary Northbound Reroute near Homan and Division",
+    "ShortDescription": "Northbound 94 California and 82 Kimball-Homan buses are temporarily rerouted via Homan, Division, Cicero, Fullerton and Homan due to street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #94 California and #82 Kimball-Homan&nbsp;buses are temporarily rerouted via Homan, Division, Cicero,&nbsp;Fullerton&nbsp;and Homan due to street blockage near Homan and Division.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-10T15:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92638"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Kimball-Homan",
+          "ServiceId": "82",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/82/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "California",
+          "ServiceId": "94",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/california/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "69abd61e-3a00-44ae-9382-d25e042668ff"
   }
 ]
