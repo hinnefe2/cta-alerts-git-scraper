@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "6e444b9b-66a8-422a-a696-50935e746edb"
+  },
+  {
+    "AlertId": "92676",
+    "Headline": "#156 LaSalle and #77 Belmont Temporary Reroute at Belmont/Halsted",
+    "ShortDescription": "156 LaSalle & 77 Belmont buses are rerouted: 156 SB & 77 Belmont EB via Belmont, Halsted, Addison, Broadway & Belmont due to street blockage nr Belmont/Halsted.",
+    "FullDescription": {
+      "#cdata-section": "<p>#156 LaSalle &amp; #77 Belmont buses are rerouted due to street blockage near&nbsp; Belmont/Halsted.</p>\r\n\r\n<ul>\r\n\t<li>#156 LaSalle buses will operate Southbound via&nbsp;Belmont, Halsted, Addison, Broadway &amp; Belmont, and&nbsp;</li>\r\n\t<li>#77 Belmont buses will also operate Eastbound&nbsp;via&nbsp;Belmont, Halsted, Addison, Broadway &amp; Belmont.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-13T18:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92676"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Belmont",
+          "ServiceId": "77",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/77/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "LaSalle",
+          "ServiceId": "156",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/156/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "6f68ae45-4a53-48dd-9e86-11271eb93cdc"
   }
 ]
