@@ -51,7 +51,7 @@
     "Headline": "#72 NorthTemporary Eastbound  Reroute near North Avenue/Laramie",
     "ShortDescription": "72 North Eastbound buses are temporarily rerouted via North Ave, Central, Division and Laraime due to,street blockage near North Avenue/Laramie",
     "FullDescription": {
-      "#cdata-section": "<p>#72 North Eastbound buses are temporarily rerouted via North Ave, Central, Division and Laraime due to,street blockage near North Avenue/Laramie.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#72 North Eastbound buses are temporarily rerouted via North Ave, Central, Division and Laraime due to,street blockage near North Avenue/Laramie.</p>\r\n\r\n<p><br />\r\nWestbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -78,6 +78,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "9fd6ed73-cecc-48c4-8ff5-f3f13934fb2a"
+    "GUID": "fd57f87f-21f5-4de6-9a49-03a803ff95fa"
+  },
+  {
+    "AlertId": "92663",
+    "Headline": "#57 LaramieTemporary Southbound Reroute near North Ave/Laramie",
+    "ShortDescription": "57 Laramie Southbound buses are temporarily rerouted via Laramie, North Ave, Central and Division:due to, street blockage near North Ave/Laramie",
+    "FullDescription": {
+      "#cdata-section": "<p>#57 Laramie Southbound buses are temporarily rerouted via Laramie, North Ave, Central and Division: due to, street blockage near North Ave/Laramie.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-13T05:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92663"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Laramie",
+        "ServiceId": "57",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/57/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "888d1422-0b42-434d-bcfa-a31bf958a6b7"
   }
 ]
