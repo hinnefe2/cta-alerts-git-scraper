@@ -1,10 +1,44 @@
 [
   {
+    "AlertId": "92664",
+    "Headline": "Loop-bound Pink Line Delays",
+    "ShortDescription": "Loop-bound Pink Line trains are running w/residual delay following an earlier mechanical problem at 54th/Cermak. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Pink Line trains are running w/residual delay following an earlier mechanical problem at 54th/Cermak.</p>\r\n\r\n<p>&nbsp;Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-13T06:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92664"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a62148e5-0cd7-40ca-a7c1-4046f0ebc68d"
+  },
+  {
     "AlertId": "92665",
     "Headline": "Brown Line Service Delayed near Irving Park",
-    "ShortDescription": "Brown Line trains are standing near Irving Park due to report of minor fire near the tracks. Crews working to restore service.",
+    "ShortDescription": "Brown Line trains are standing near Irving Park due to fire department activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are standing near Irving Park due to report of minor fire near the tracks.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line trains are standing near Irving Park due to fire department activity.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -31,7 +65,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "5364e563-f6af-4f50-85e6-5671cd940fac"
+    "GUID": "3980c28f-fa35-403a-ac01-7003646cfe5f"
   },
   {
     "AlertId": "92638",
@@ -79,39 +113,5 @@
     },
     "ttim": "0",
     "GUID": "69abd61e-3a00-44ae-9382-d25e042668ff"
-  },
-  {
-    "AlertId": "92664",
-    "Headline": "Loop-bound Pink Line Service Delayed at 54th Cermak",
-    "ShortDescription": "Loop-bound Pink Line trains are standing at 54th/Cermak  due to mechanical problem on a train. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Pink Line trains are standing at 54th/Cermak&nbsp;due to mechanical problem on a train.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines. Shuttles requested between 54th/Cermak and Pulaski for connecting service.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2023-06-13T06:08:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92664"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "9ae95139-eb70-4be1-b18b-1d6659f4b21c"
   }
 ]
