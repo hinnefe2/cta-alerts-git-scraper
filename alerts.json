@@ -47,51 +47,17 @@
     "GUID": "5b79fe28-e036-4f36-8567-c8d38dc5fc31"
   },
   {
-    "AlertId": "92666",
-    "Headline": "#59 59th/61st Temporary Eastbound Reroute near 61st/Midway Plaisance",
-    "ShortDescription": "59 59th/61st EB buses are temporarily rerouted via 61st, Dorchester, 63rd, Stony Island and 59th: due to,street blockage near 61st/Midway Plaisance",
+    "AlertId": "92672",
+    "Headline": "Southbound Green, Orange, Pink and Purple Line trains Line Delays",
+    "ShortDescription": "SB Green, Orange, Pink & Purple Line trains are running w/residual delays following earlier police activity at Clark/Lake. Service is resuming, allow extra time",
     "FullDescription": {
-      "#cdata-section": "<p>Eastbound&nbsp; #59 59th/61st buses are temporarily rerouted via 61st, Dorchester, 63rd, Stony Island and 59th: due to,street blockage near 61st/Midway Plaisance</p>\r\n\r\n<p>Westbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound Green, Orange, Pink and Purple Line trains are running w/residual delays following earlier police activity at Clark/Lake.&nbsp;</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-13T07:14:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92666"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "59th/61st",
-        "ServiceId": "59",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/59/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d9551346-5d1b-4d5d-9397-6be329eee2af"
-  },
-  {
-    "AlertId": "92672",
-    "Headline": "Southbound Green, Orange, Pink and Purple Line trains bypassing Clark/Lake",
-    "ShortDescription": "Southbound Green, Orange, Pink and Purple Line trains are running, but not stopping at Clark/Lake due to police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound Green, Orange, Pink and Purple Line trains are running, but not stopping at Clark/Lake due to police activity.</p>\r\n\r\n<ul>\r\n\t<li>For access to trains on the Loop &quot;L&quot;, use the State/Lake station 1 block east of Clark/Lake or the nearby Clinton station.</li>\r\n</ul>\r\n\r\n<p>Personnel are on the scene and updates will follow shortly. We do apologize for any inconvenience and appreciate your patience.&nbsp; For further assistance, see station personnel.&nbsp; &nbsp;</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
-    },
-    "SeverityScore": "58",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2023-06-13T16:14:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-13T16:23:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
@@ -180,6 +146,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "ae7126a4-ae99-43e8-ac66-72bcddf1dae5"
+    "GUID": "82938045-b361-4618-bfe0-3fba5fa695ed"
+  },
+  {
+    "AlertId": "92666",
+    "Headline": "#59 59th/61st Temporary Eastbound Reroute near 61st/Midway Plaisance",
+    "ShortDescription": "59 59th/61st EB buses are temporarily rerouted via 61st, Dorchester, 63rd, Stony Island and 59th: due to,street blockage near 61st/Midway Plaisance",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound&nbsp; #59 59th/61st buses are temporarily rerouted via 61st, Dorchester, 63rd, Stony Island and 59th: due to,street blockage near 61st/Midway Plaisance</p>\r\n\r\n<p>Westbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-13T07:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92666"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "59th/61st",
+        "ServiceId": "59",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/59/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d9551346-5d1b-4d5d-9397-6be329eee2af"
   }
 ]
