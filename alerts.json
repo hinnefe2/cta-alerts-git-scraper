@@ -1,71 +1,72 @@
 [
   {
-    "AlertId": "92704",
-    "Headline": "#24 Wentworth Temporary Northbound Reroute near Wentworth/24th",
-    "ShortDescription": "Northbound 24 Wentworth  buses are temporarily rerouted via Wentworth, 26th, Canal, Archer and Cermak due to, street blockage near Wentworth/24th.",
+    "AlertId": "92715",
+    "Headline": "Howard-bound Red Line Delays",
+    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays following an earlier sick cuatomer at Fullerton. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #24 Wentworth&nbsp; buses are temporarily rerouted via Wentworth, 26th, Canal, Archer and Cermak due to, street blockage near Wentworth/24th.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are running w/residual delays following an earlier sick cuatomer at Fullerton. Service is resuming, allow extra time.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-15T11:51:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-15T20:51:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92704"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92715"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Wentworth",
-        "ServiceId": "24",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/24/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Fullerton",
+          "ServiceId": "41220",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=59"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "3c44ce80-d15b-4bb1-8b48-8419e50a0612"
-  },
-  {
-    "AlertId": "92711",
-    "Headline": "#91 Austin Temporary Reroute at Austin/Fillmore",
-    "ShortDescription": "91 Austin buses are temporarily rerouted via Austin, 16th, Central, Roosevelt, and Austin due to street blockage near Austin/Fillmore.",
-    "FullDescription": {
-      "#cdata-section": "<p>#91 Austin buses are temporarily rerouted via Austin, 16th, Central, Roosevelt, and Austin due to street blockage near Austin/Fillmore.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-15T18:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92711"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Austin",
-        "ServiceId": "91",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/91/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "900c1ad9-50b1-436f-a43b-495692604047"
+    "GUID": "a369ab14-0d3d-484a-a74f-009f1096ca2d"
   },
   {
     "AlertId": "92714",
@@ -100,5 +101,39 @@
     },
     "ttim": "0",
     "GUID": "a1b0bb88-c095-499d-b887-62122ba24202"
+  },
+  {
+    "AlertId": "92711",
+    "Headline": "#91 Austin Temporary Reroute at Austin/Fillmore",
+    "ShortDescription": "91 Austin buses are temporarily rerouted via Austin, 16th, Central, Roosevelt, and Austin due to street blockage near Austin/Fillmore.",
+    "FullDescription": {
+      "#cdata-section": "<p>#91 Austin buses are temporarily rerouted via Austin, 16th, Central, Roosevelt, and Austin due to street blockage near Austin/Fillmore.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-15T18:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92711"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Austin",
+        "ServiceId": "91",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/91/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "900c1ad9-50b1-436f-a43b-495692604047"
   }
 ]
