@@ -45,5 +45,63 @@
     },
     "ttim": "0",
     "GUID": "07ab4dfc-71cd-4292-9a93-4e9b4298505e"
+  },
+  {
+    "AlertId": "92719",
+    "Headline": "Kimball-bound Brown Line and Linden-bound Purple Line Service Running with Delays",
+    "ShortDescription": "Kimball-bound Brown and Linden-bound Purple Line trains are running with delays at Wellington due to a mechanical problemon a train.",
+    "FullDescription": {
+      "#cdata-section": "<p>Kimball-bound Brown and Linden-bound Purple Line trains are running with delays at Wellington due to a mechanical problemon a train.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-06-16T08:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92719"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Wellington",
+          "ServiceId": "41210",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=145"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e319adcd-8dc3-4e00-acc4-09a4003f178a"
   }
 ]
