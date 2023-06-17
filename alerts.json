@@ -68,6 +68,40 @@
     "GUID": "0143fa97-4daa-4210-bbfe-30218154ee6c"
   },
   {
+    "AlertId": "92742",
+    "Headline": "Red Line Experiencing Delays; Boarding change between Sox-35th and Roosevelt",
+    "ShortDescription": "Red Line service running w/delays due to police activity at Cermak-Chinatown; board all trains on the 95th-bound side at Roosevelt, Cermak-Chinatown & Sox-35th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line service running w/delays due to police activity at Cermak-Chinatown;</p>\r\n\r\n<p>Trains, in both directions, are running on the same track between Roosevelt, Cermak-Chinatown and Sox-35th stations.</p>\r\n\r\n<p>Board/exit all trains on the 95th-bound side of the platform at Roosevelt, Cermak-Chinatown and Sox-35th stations.</p>\r\n\r\n<p>We&#39;re working to restore normal service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-06-17T15:45:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92742"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "76d87853-c7fe-4943-bbbc-1e0d314c4572"
+  },
+  {
     "AlertId": "92741",
     "Headline": "O'Hare-bound Blue Line Delays, Limited Service Between O'Hare and Jefferson Park",
     "ShortDescription": "O'Hare-bound Blue Line service experiencing delays due to track conditions nr Irving Pk; limited service via train shuttle btwn O'Hare & Jefferson Park.",
@@ -100,39 +134,5 @@
     },
     "ttim": "0",
     "GUID": "0e595d15-bacd-4c65-a464-838c70a8a64d"
-  },
-  {
-    "AlertId": "92742",
-    "Headline": "No Trains Between Roosevelt and 63rd",
-    "ShortDescription": "Red Line service has been temporarily suspended between Roosevelt and 63rd due to police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line service has been temporarily suspended between Roosevelt and 63rd due to police activity.</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li><strong>between Howard and Roosevelt</strong>&nbsp;and,</li>\r\n\t<li><strong>between 63rd and 95th</strong>, only.</li>\r\n</ul>\r\n\r\n<p>&nbsp;Shuttle buses are available between Roosevelt and 63rd to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include: #29 State bus route or Cermak-McCormick Place (Green Line)</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.<br />\r\n&nbsp;</p>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2023-06-17T15:45:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92742"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "fc80d011-8a9d-4b7a-82b7-279d5fbc339c"
   }
 ]
