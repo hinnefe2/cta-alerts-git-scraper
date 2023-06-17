@@ -1,50 +1,16 @@
 [
   {
-    "AlertId": "92736",
-    "Headline": "#151 Sheridan Temporary Reroute at Stockton/Wisconsin",
-    "ShortDescription": "151 Sheridan buses are temporarily rerouted via Stockton, Fullerton, Lincoln Park West, LaSalle and Stockton due to street blockage near Stockton/Wisconsin.",
+    "AlertId": "92738",
+    "Headline": "Howard-bound Red Line Delays",
+    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays following earlier police activity at Loyola. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>#151 Sheridan buses are temporarily rerouted via Stockton, Fullerton, Lincoln Park West, LaSalle and Stockton due to street blockage near Stockton/Wisconsin..</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are running w/residual delays following earlier police activity at Loyola. Service is resuming, allow extra time.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-17T06:11:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92736"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Sheridan",
-        "ServiceId": "151",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/151/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "aaa2e4d3-accb-495c-85ee-db7df3c8e9c6"
-  },
-  {
-    "AlertId": "92738",
-    "Headline": "95th-bound Red Line trains bypassing Loyola",
-    "ShortDescription": "95th-bound Red Line trains are running, but not stopping at Loyola due to police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are running, but not stopping at Loyola due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
-    },
-    "SeverityScore": "58",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2023-06-17T08:55:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-17T09:00:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
@@ -78,6 +44,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "4de296be-5463-4882-8c7c-964da7b7247c"
+    "GUID": "62455637-ccb6-4b15-91f3-a988fe615441"
+  },
+  {
+    "AlertId": "92736",
+    "Headline": "#151 Sheridan Temporary Reroute at Stockton/Wisconsin",
+    "ShortDescription": "151 Sheridan buses are temporarily rerouted via Stockton, Fullerton, Lincoln Park West, LaSalle and Stockton due to street blockage near Stockton/Wisconsin.",
+    "FullDescription": {
+      "#cdata-section": "<p>#151 Sheridan buses are temporarily rerouted via Stockton, Fullerton, Lincoln Park West, LaSalle and Stockton due to street blockage near Stockton/Wisconsin..</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-17T06:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92736"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Sheridan",
+        "ServiceId": "151",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/151/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "aaa2e4d3-accb-495c-85ee-db7df3c8e9c6"
   }
 ]
