@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "92740",
-    "Headline": "#126 Jackson Temporary Reroute at Jackson/Central",
-    "ShortDescription": "126 Jackson buses are temporarily rerouted via Jackson, Central, Madison and Austin due to street blockage near Jackson/Central.",
+    "AlertId": "92744",
+    "Headline": "54th/Cermak-bound Pink Line Service Delayed Cicero",
+    "ShortDescription": "54th/Cermak-bound Pink Line trains are standing Cicero due to police activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted via Jackson, Central, Madison and Austin due to street blockage near Jackson/Central.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>54th/Cermak-bound Pink Line trains are&nbsp;standing at Cicero&nbsp;due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-17T10:57:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-17T17:32:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92740"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92744"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson",
-        "ServiceId": "126",
-        "ServiceBackColor": "059",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/126/"
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "3d5ad0fd-0d98-4679-a099-008172d252d3"
+    "GUID": "2e5ba2be-6939-43b0-a471-292f0ac7d9cd"
   },
   {
     "AlertId": "92743",
@@ -66,6 +66,40 @@
     },
     "ttim": "0",
     "GUID": "0143fa97-4daa-4210-bbfe-30218154ee6c"
+  },
+  {
+    "AlertId": "92740",
+    "Headline": "#126 Jackson Temporary Reroute at Jackson/Central",
+    "ShortDescription": "126 Jackson buses are temporarily rerouted via Jackson, Central, Madison and Austin due to street blockage near Jackson/Central.",
+    "FullDescription": {
+      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted via Jackson, Central, Madison and Austin due to street blockage near Jackson/Central.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-17T10:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92740"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson",
+        "ServiceId": "126",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/126/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3d5ad0fd-0d98-4679-a099-008172d252d3"
   },
   {
     "AlertId": "92741",
