@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "92757",
+    "Headline": "Red Line Service Running with Delays",
+    "ShortDescription": "Red Line service running w/residual delays and busier trains platforms due to Chicago Cubs game at Addison.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line service running w/residual delays and busier trains platforms due to Chicago Cubs game at Addison.</p>\r\n\r\n<p>Crews are working to accommodate all passengers and restore normal service as quickly as is possible.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-18T15:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92757"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Addison",
+          "ServiceId": "41420",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=17"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "87090d42-5cc6-4b08-8026-612b146e1158"
+  },
+  {
     "AlertId": "92756",
     "Headline": "#22 Clark Temporary Reroute at Clark/Racine",
     "ShortDescription": "22 Clark buses are temporarily rerouted via Clark, Racine, Belmont and Clark due to street blockage near Clark/Racine.",
