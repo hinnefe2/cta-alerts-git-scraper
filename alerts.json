@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "92740",
+    "Headline": "#126 Jackson Temporary Reroute at Jackson/Central",
+    "ShortDescription": "126 Jackson buses are temporarily rerouted via Jackson, Central, Madison and Austin due to street blockage near Jackson/Central.",
+    "FullDescription": {
+      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted via Jackson, Central, Madison and Austin due to street blockage near Jackson/Central.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-17T10:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92740"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson",
+        "ServiceId": "126",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/126/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3d5ad0fd-0d98-4679-a099-008172d252d3"
+  },
+  {
     "AlertId": "92743",
     "Headline": "#8A South Halsted Temporary Reroute at Halsted/84th",
     "ShortDescription": "8A South Halsted buses are temporarily rerouted via Halsted, 83rd, Vincennes, 87th and Halsted due to street blockage.",
@@ -66,73 +100,5 @@
     },
     "ttim": "0",
     "GUID": "33303625-a4e8-4d18-b7a0-df15bd37c3c2"
-  },
-  {
-    "AlertId": "92740",
-    "Headline": "#126 Jackson Temporary Reroute at Jackson/Central",
-    "ShortDescription": "126 Jackson buses are temporarily rerouted via Jackson, Central, Madison and Austin due to street blockage near Jackson/Central.",
-    "FullDescription": {
-      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted via Jackson, Central, Madison and Austin due to street blockage near Jackson/Central.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-17T10:57:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92740"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson",
-        "ServiceId": "126",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/126/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "3d5ad0fd-0d98-4679-a099-008172d252d3"
-  },
-  {
-    "AlertId": "92741",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following earlier track conditions near Irving Park. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with residual delays following earlier track conditions near Irving Park.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-06-17T13:47:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92741"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "eb4743e4-4044-4b04-8283-7a569b96d0ab"
   }
 ]
