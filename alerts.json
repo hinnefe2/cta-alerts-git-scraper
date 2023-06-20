@@ -34,40 +34,6 @@
     "GUID": "a6c58cb9-0c0b-4027-9177-4751d3e673dd"
   },
   {
-    "AlertId": "92794",
-    "Headline": "#80 Irving Park Temporary Reroute at Irving Park Blue Line",
-    "ShortDescription": "80 Irving Park buses are temporarily rerouted via Irving Park, Cicero, Montrose, Pulaski and Irving Park due to street blockage near Irving Park Blue Line.",
-    "FullDescription": {
-      "#cdata-section": "<p>#80 Irving Park buses are temporarily rerouted in both directions via&nbsp;Irving Park, Cicero, Montrose, Pulaski and Irving Park, due to street blockage near Irving Park Blue Line.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-20T09:35:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92794"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Irving Park",
-        "ServiceId": "80",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/80/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "fffe4e60-b0e9-45d2-aaca-061473804941"
-  },
-  {
     "AlertId": "92790",
     "Headline": "#77 Temporary Eastbound Reroute near Lake Shore West/Belmont",
     "ShortDescription": "Eastbound 77 Belmont buses are temporarily rerouted via Belmont, Sheridan, Cannon Drive, Inner Lake Shore and Diversey near Lake Shore West/Belmont.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "5fa2b9a8-f246-44da-85aa-9621bda0e01d"
+  },
+  {
+    "AlertId": "92794",
+    "Headline": "#80 Irving Park Temporary Reroute at Irving Park Blue Line",
+    "ShortDescription": "80 Irving Park buses are temporarily rerouted via Irving Park, Cicero, Montrose, Pulaski and Irving Park due to street blockage near Irving Park Blue Line.",
+    "FullDescription": {
+      "#cdata-section": "<p>#80 Irving Park buses are temporarily rerouted in both directions via&nbsp;Irving Park, Cicero, Montrose, Pulaski and Irving Park, due to street blockage near Irving Park Blue Line.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-20T09:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92794"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Irving Park",
+        "ServiceId": "80",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/80/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "fffe4e60-b0e9-45d2-aaca-061473804941"
   }
 ]
