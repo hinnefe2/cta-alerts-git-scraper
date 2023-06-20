@@ -79,5 +79,52 @@
     },
     "ttim": "0",
     "GUID": "2b699cc7-1adb-4605-baac-b272014a9b0f"
+  },
+  {
+    "AlertId": "92801",
+    "Headline": "#J14 Jeffery Jump and #15 Jeffery Local Temporary Northbound Reroute near Jeffrey/Anthony",
+    "ShortDescription": "J14 Jeffery Jump and 15 Jeffery Local buses are temporarily rerouted via Jeffrey, 85th and Anthony due to street blockage near Jeffrey/Anthony.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #J14 Jeffery Jump and #15 Jeffery Local buses are temporarily rerouted via Jeffrey, 85th and Anthony due to street blockage near Jeffrey/Anthony.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-20T16:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92801"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1780c9b6-6c7a-4152-a34f-0e2da93bea83"
   }
 ]
