@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "92784",
-    "Headline": "Loop-bound Brown Line Service Delayed at Armitage",
-    "ShortDescription": "Loop-bound Brown Line trains are standing at Armitage due to a mechanical problem on a train. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown Line trains are standing at Armitage due to a mechanical problem on a train.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-06-19T23:51:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92784"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "08c8d9fd-a84a-40b5-98c2-38f6510ebc8c"
-  },
-  {
     "AlertId": "92777",
     "Headline": "#7 Harrison Temporary Reroute near Harrison/Kolmar",
     "ShortDescription": "7 Harrison buses temp. rerouted WB: Harrison, Cicero, Jackson, Kostner and Harrison; EB: Congress Parkway, Kostner, Jackson, Cicero and Harrison.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "cec68f1e-b781-4692-8983-8543a5e2db8d"
+  },
+  {
+    "AlertId": "92784",
+    "Headline": "Loop-bound Brown Line Service Delayed at Armitage",
+    "ShortDescription": "Loop-bound Brown Line trains are standing at Armitage due to a mechanical problem on a train. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Brown Line trains are standing at Armitage due to a mechanical problem on a train.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-06-19T23:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92784"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5a06ac03-7d04-47c3-80cf-4758f033246c"
   }
 ]
