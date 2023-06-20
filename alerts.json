@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "92785",
-    "Headline": "#34 South Michigan Temporary Reroute at 130th/Indiana",
-    "ShortDescription": "34 South Michigan buses are temporarily rerouted via 130th, Bishop Ford, 115th, and Michigan due to street blockage at 130th/Indiana.",
-    "FullDescription": {
-      "#cdata-section": "<p>#34 South Michigan buses are temporarily rerouted in both directions via 130th, Bishop Ford, 115th, and Michigan due to street blockage at 130th/Indiana.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-20T00:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92785"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Michigan",
-        "ServiceId": "34",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/34/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a6c58cb9-0c0b-4027-9177-4751d3e673dd"
-  },
-  {
     "AlertId": "92790",
     "Headline": "#77 Temporary Eastbound Reroute near Lake Shore West/Belmont",
     "ShortDescription": "Eastbound 77 Belmont buses are temporarily rerouted via Belmont, Sheridan, Cannon Drive, Inner Lake Shore and Diversey near Lake Shore West/Belmont.",
@@ -134,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "3e2865b4-2899-43ab-b934-173a1f2875b1"
+  },
+  {
+    "AlertId": "92785",
+    "Headline": "#34 South Michigan Temporary Reroute at 130th/Indiana",
+    "ShortDescription": "34 South Michigan buses are temporarily rerouted via 130th, Bishop Ford, 115th, and Michigan due to street blockage at 130th/Indiana.",
+    "FullDescription": {
+      "#cdata-section": "<p>#34 South Michigan buses are temporarily rerouted in both directions via 130th, Bishop Ford, 115th, and Michigan due to street blockage at 130th/Indiana.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-20T00:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92785"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Michigan",
+        "ServiceId": "34",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/34/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a6c58cb9-0c0b-4027-9177-4751d3e673dd"
   }
 ]
