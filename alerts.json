@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "92783",
+    "Headline": "Forest Park-bound Blue Line Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following earlier police activity at UIC-Halsted. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays following earlier police activity at UIC-Halsted.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-19T23:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92783"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5ea3a03c-312e-4d04-b6c3-11ebe118879d"
+  },
+  {
     "AlertId": "92777",
     "Headline": "#7 Harrison Temporary Reroute near Harrison/Kolmar",
     "ShortDescription": "7 Harrison buses temp. rerouted WB: Harrison, Cicero, Jackson, Kostner and Harrison; EB: Congress Parkway, Kostner, Jackson, Cicero and Harrison.",
@@ -32,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "cec68f1e-b781-4692-8983-8543a5e2db8d"
-  },
-  {
-    "AlertId": "92782",
-    "Headline": "Green Line Delays",
-    "ShortDescription": "Green Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Laramie. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Green Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Laramie.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-06-19T22:48:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92782"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "66bfda09-d210-4242-ae21-fb3a8791e551"
   }
 ]
