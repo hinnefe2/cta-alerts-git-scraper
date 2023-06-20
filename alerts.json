@@ -35,7 +35,7 @@
   },
   {
     "AlertId": "92799",
-    "Headline": "#6 Jackson Park Express, #26 South Shore Express and #71 71st/South Shore Temporary Southbound Reroute near South Shore Drive/78th",
+    "Headline": "#6 Jackson Park Express, #26 South Shore Express Temporary Southbound Reroute near South Shore Drive/78th",
     "ShortDescription": "6 Jackson Park Express, 26 South Shore Express buses are rerouted SB via South Shore, 76th, Coles and 79th due to street blockage near South Shore Drive/78th",
     "FullDescription": {
       "#cdata-section": "<p>#6 Jackson Park Express and&nbsp;#26 South Shore Express buses are temporarily rerouted Southbound&nbsp; via South Shore, 76th, Coles and 79th due to street blockage near South Shore Drive/78th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
@@ -78,6 +78,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "70512f74-2eed-447a-b5be-64d795749c28"
+    "GUID": "fe074f70-83cb-4b3d-8259-36a3fca33656"
+  },
+  {
+    "AlertId": "92800",
+    "Headline": "#71 71st/South Shore Temporary Southbound Reroute near South Shore Drive/78th",
+    "ShortDescription": "71 71st/South Shore buses are temporarily rerouted via 75th, Coles and 79th due to street blockage near South Shore Drive/78th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#71 71st/South Shore buses are temporarily rerouted via 75th, Coles and 79th due to street blockage near South Shore Drive/78th.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-20T14:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92800"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2b699cc7-1adb-4605-baac-b272014a9b0f"
   }
 ]
