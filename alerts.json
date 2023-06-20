@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "92796",
-    "Headline": "Howard-bound Red Line Service Running with Delays",
-    "ShortDescription": "Howard-bound Red Line trains are running with delays following an earlier mechanical problem near Cermak-Chinatown.",
+    "AlertId": "92785",
+    "Headline": "#34 South Michigan Temporary Reroute at 130th/Indiana",
+    "ShortDescription": "34 South Michigan buses are temporarily rerouted via 130th, Bishop Ford, 115th, and Michigan due to street blockage at 130th/Indiana.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are running with delays following an earlier mechanical problem near Cermak-Chinatown.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#34 South Michigan buses are temporarily rerouted in both directions via 130th, Bishop Ford, 115th, and Michigan due to street blockage at 130th/Indiana.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-06-20T10:56:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-20T00:33:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92796"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92785"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Michigan",
+        "ServiceId": "34",
+        "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/34/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "008463fa-e2c5-4fb5-b08e-833093ad53e7"
+    "GUID": "a6c58cb9-0c0b-4027-9177-4751d3e673dd"
   },
   {
     "AlertId": "92794",
@@ -100,39 +100,5 @@
     },
     "ttim": "0",
     "GUID": "df687f0c-3258-416c-a3cf-31af0d7fec46"
-  },
-  {
-    "AlertId": "92785",
-    "Headline": "#34 South Michigan Temporary Reroute at 130th/Indiana",
-    "ShortDescription": "34 South Michigan buses are temporarily rerouted via 130th, Bishop Ford, 115th, and Michigan due to street blockage at 130th/Indiana.",
-    "FullDescription": {
-      "#cdata-section": "<p>#34 South Michigan buses are temporarily rerouted in both directions via 130th, Bishop Ford, 115th, and Michigan due to street blockage at 130th/Indiana.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-20T00:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92785"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Michigan",
-        "ServiceId": "34",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/34/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a6c58cb9-0c0b-4027-9177-4751d3e673dd"
   }
 ]
