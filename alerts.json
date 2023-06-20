@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "37867624-c744-45f5-8612-9cf2d04217f1"
+  },
+  {
+    "AlertId": "92799",
+    "Headline": "#6 Jackson Park Express, #26 South Shore Express and #71 71st/South Shore Temporary Southbound Reroute near South Shore Drive/78th",
+    "ShortDescription": "6 Jackson Park Express, 26 South Shore Express buses are rerouted SB via South Shore, 76th, Coles and 79th due to street blockage near South Shore Drive/78th",
+    "FullDescription": {
+      "#cdata-section": "<p>#6 Jackson Park Express and&nbsp;#26 South Shore Express buses are temporarily rerouted Southbound&nbsp; via South Shore, 76th, Coles and 79th due to street blockage near South Shore Drive/78th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-20T14:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92799"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "70512f74-2eed-447a-b5be-64d795749c28"
   }
 ]
