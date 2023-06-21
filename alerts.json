@@ -1,84 +1,71 @@
 [
   {
-    "AlertId": "92799",
-    "Headline": "#6 Jackson Park Express, #26 South Shore Express Temporary Southbound Reroute near South Shore Drive/78th",
-    "ShortDescription": "6 Jackson Park Express, 26 South Shore Express buses are rerouted SB via South Shore, 76th, Coles and 79th due to street blockage near South Shore Drive/78th",
+    "AlertId": "92803",
+    "Headline": "#35 31st/35th Temporary Reroute near 35th/Shields",
+    "ShortDescription": "35 31st/35th buses rerouted EB via 35th, Wallace, 33rd, Wentworth & 35th; WB via 35th, LaSalle, 33rd, Wallace & 35th due to street blockage near 35th/Shields.",
     "FullDescription": {
-      "#cdata-section": "<p>#6 Jackson Park Express and&nbsp;#26 South Shore Express buses are temporarily rerouted Southbound&nbsp; via South Shore, 76th, Coles and 79th due to street blockage near South Shore Drive/78th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#35 31st/35th buses temporarily&nbsp;rerouted in both directions&nbsp;due to street blockage near 35th/Shields.</p>\r\n\r\n<ul>\r\n\t<li>Eastbound buses will operate via 35th, Wallace, 33rd, Wentworth and 35th.</li>\r\n\t<li>Westbound&nbsp;buses will operate via &nbsp;35th, LaSalle, 33rd, Wallace and 35th.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-20T14:17:00",
+    "EventStart": "2023-06-20T20:08:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92799"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jackson Park Express",
-          "ServiceId": "6",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/6/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "South Shore Express",
-          "ServiceId": "26",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/26/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "fe074f70-83cb-4b3d-8259-36a3fca33656"
-  },
-  {
-    "AlertId": "92800",
-    "Headline": "#71 71st/South Shore Temporary Southbound Reroute near South Shore Drive/78th",
-    "ShortDescription": "71 71st/South Shore buses are temporarily rerouted via 75th, Coles and 79th due to street blockage near South Shore Drive/78th.",
-    "FullDescription": {
-      "#cdata-section": "<p>#71 71st/South Shore buses are temporarily rerouted via 75th, Coles and 79th due to street blockage near South Shore Drive/78th.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-20T14:26:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92800"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92803"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "71st/South Shore",
-        "ServiceId": "71",
+        "ServiceName": "31st/35th",
+        "ServiceId": "35",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+          "#cdata-section": "http://www.transitchicago.com/bus/35/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "2b699cc7-1adb-4605-baac-b272014a9b0f"
+    "GUID": "5474d1fe-a3a2-48c2-8597-b28f9606910e"
+  },
+  {
+    "AlertId": "92805",
+    "Headline": "#152 Addison Temporary Reroute at Addison/Narragansett",
+    "ShortDescription": "152 Addison buses are temporarily rerouted via Addison, Oak Park, Belmont, Austin, \r\nand Addison due to, street blockage at Addison/Narragansett.",
+    "FullDescription": {
+      "#cdata-section": "<p>152 Addison buses are temporarily rerouted in both directions&nbsp; via Addison, Oak Park, Belmont, Austin,&nbsp;and Addison due to, street blockage at Addison/Narragansett.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-20T21:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92805"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Addison",
+        "ServiceId": "152",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/152/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f2940a2d-750a-4a70-81fb-f3a80b47503b"
   },
   {
     "AlertId": "92801",
@@ -126,39 +113,5 @@
     },
     "ttim": "0",
     "GUID": "1780c9b6-6c7a-4152-a34f-0e2da93bea83"
-  },
-  {
-    "AlertId": "92803",
-    "Headline": "#35 31st/35th Temporary Reroute near 35th/Shields",
-    "ShortDescription": "35 31st/35th buses rerouted EB via 35th, Wallace, 33rd, Wentworth & 35th; WB via 35th, LaSalle, 33rd, Wallace & 35th due to street blockage near 35th/Shields.",
-    "FullDescription": {
-      "#cdata-section": "<p>#35 31st/35th buses temporarily&nbsp;rerouted in both directions&nbsp;due to street blockage near 35th/Shields.</p>\r\n\r\n<ul>\r\n\t<li>Eastbound buses will operate via 35th, Wallace, 33rd, Wentworth and 35th.</li>\r\n\t<li>Westbound&nbsp;buses will operate via &nbsp;35th, LaSalle, 33rd, Wallace and 35th.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-20T20:08:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92803"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "31st/35th",
-        "ServiceId": "35",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/35/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "5474d1fe-a3a2-48c2-8597-b28f9606910e"
   }
 ]
