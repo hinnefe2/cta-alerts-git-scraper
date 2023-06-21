@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "92812",
+    "Headline": "Normal Green and Pink Line Service Being Restored",
+    "ShortDescription": "Some Green and Pink Line trains are running with residual delays after an earlier bridge lift at the Chicago River, downtown. Service is resuming.",
+    "FullDescription": {
+      "#cdata-section": "<p>Some Green and Pink Line trains are running with residual delays after an earlier bridge lift at the Chicago River, downtown.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are now moving and service is resuming; allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-21T11:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92812"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4eb690e8-8721-4edb-9ab4-09c75ff1c0f5"
+  },
+  {
     "AlertId": "92810",
     "Headline": " #75 74th-75th | Temporary East-bound Reroute near 75th/Greenwood",
     "ShortDescription": "East-bound 75 74th-75th buses are temporarily rerouted via 75th, Greenwood and South Chicago: due to,street blockage near75th/Greenwood..",
