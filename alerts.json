@@ -1,15 +1,15 @@
 [
   {
     "AlertId": "92827",
-    "Headline": "Trains on Loop 'L' rerouted",
-    "ShortDescription": "Loop service has been rerouted via the outer Loop  due to signal problems.",
+    "Headline": "Green, Orange ,Purple and Pink  Lines Service Running with Delays",
+    "ShortDescription": "Green, Orange, Purple and Pink Line trains are running with delays in the Loop due to signal problems.",
     "FullDescription": {
-      "#cdata-section": "<p>Service has been rerouted via the Outer Loop</p>\r\n\r\n<p>As a result:</p>\r\n\r\n<ul>\r\n\t<li><b>Green, Purple, and Orange Line Trains rerouted to the outer Loop</b></li>\r\n</ul>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We appreciate your patience as we work to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green, Orange, Purple and Pink&nbsp;Line trains are running with delays in the Loop due to signal problems.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
     "EventStart": "2023-06-22T08:22:00",
     "EventEnd": null,
     "TBD": "1",
@@ -19,6 +19,17 @@
     },
     "ImpactedService": {
       "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
@@ -55,6 +66,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "d6aaa9e9-48b8-48d9-8648-266d92544709"
+    "GUID": "8d535a75-cb58-4f46-a5e4-10b5e031c32c"
   }
 ]
