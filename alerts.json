@@ -1,15 +1,49 @@
 [
   {
-    "AlertId": "92878",
-    "Headline": "54th/Cermak-bound Pink and Green Line Service Delayed at Ashland",
-    "ShortDescription": "54th/Cermak-bound Pink and Green Line trains are standing at Ashland due to a sick customer. Crews working to restore service.",
+    "AlertId": "92861",
+    "Headline": "#39 Pershing Temporary Reroute near Pershing/Wells",
+    "ShortDescription": "39 Pershing buses temp. rerouted EB: 39th, Wallace, Root, Princeton and 39th; Wb: 39th, Princeton, Root, Wallace and 39th due to street blockage.",
     "FullDescription": {
-      "#cdata-section": "<p>54th/Cermak-bound Pink and Green Line trains are standing at Ashland due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#39 Pershing&nbsp;buses are temporarily rerouted in both directions near 39th&nbsp;and Wells due to street blockage.</p>\r\n\r\n<p>Eastbound&nbsp;buses will operate via 39th, Wallace, Root and Princeton and 39th.</p>\r\n\r\n<p>Westbound buses will operate via 39th, Princeton, Root, Wallace and 39th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-23T19:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92861"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pershing",
+        "ServiceId": "39",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/39/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "da6a3d7e-2926-4dcb-ab31-1b2437d3e247"
+  },
+  {
+    "AlertId": "92878",
+    "Headline": "54th/Cermak-bound Pink and Green Line Delays",
+    "ShortDescription": "54th/Cermak-bound Pink & Green Line trains are running w/residual delays following an earlier sick customer at Ashland.  Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>54th/Cermak-bound Pink and Green Line trains are running with residual delays following an earlier sick customer at Ashland.&nbsp;</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2023-06-24T11:56:00",
     "EventEnd": null,
     "TBD": "1",
@@ -44,40 +78,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "d65e6d47-34b3-445b-b7f6-b59a406c4565"
-  },
-  {
-    "AlertId": "92861",
-    "Headline": "#39 Pershing Temporary Reroute near Pershing/Wells",
-    "ShortDescription": "39 Pershing buses temp. rerouted EB: 39th, Wallace, Root, Princeton and 39th; Wb: 39th, Princeton, Root, Wallace and 39th due to street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>#39 Pershing&nbsp;buses are temporarily rerouted in both directions near 39th&nbsp;and Wells due to street blockage.</p>\r\n\r\n<p>Eastbound&nbsp;buses will operate via 39th, Wallace, Root and Princeton and 39th.</p>\r\n\r\n<p>Westbound buses will operate via 39th, Princeton, Root, Wallace and 39th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-23T19:25:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92861"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pershing",
-        "ServiceId": "39",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/39/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "da6a3d7e-2926-4dcb-ab31-1b2437d3e247"
+    "GUID": "ab2195ea-6f05-475d-8c1b-1dcebed70dfe"
   }
 ]
