@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "92878",
+    "Headline": "54th/Cermak-bound Pink and Green Line Service Delayed at Ashland",
+    "ShortDescription": "54th/Cermak-bound Pink and Green Line trains are standing at Ashland due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>54th/Cermak-bound Pink and Green Line trains are standing at Ashland due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-24T11:56:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92878"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d65e6d47-34b3-445b-b7f6-b59a406c4565"
+  },
+  {
     "AlertId": "92861",
     "Headline": "#39 Pershing Temporary Reroute near Pershing/Wells",
     "ShortDescription": "39 Pershing buses temp. rerouted EB: 39th, Wallace, Root, Princeton and 39th; Wb: 39th, Princeton, Root, Wallace and 39th due to street blockage.",
