@@ -32,5 +32,63 @@
     },
     "ttim": "0",
     "GUID": "da6a3d7e-2926-4dcb-ab31-1b2437d3e247"
+  },
+  {
+    "AlertId": "92889",
+    "Headline": "Boarding Change, Linden-bound Purple and Dempster-Skokie-bound Yellow Line Trains at Howard",
+    "ShortDescription": "Linden-bound Purple and Dempster-Skokie-bound Yellow Line trains boarding and alighting from the 95th-bound platform at Howard due to track switching problems.",
+    "FullDescription": {
+      "#cdata-section": "<p>Linden-bound Purple and Dempster-Skokie-bound Yellow Line trains boarding and alighting from the 95th-bound platform at Howard due to track switching problems.<br />\r\nPersonnel are working to restore normal service.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-25T08:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92889"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Yellow Line",
+          "ServiceId": "Y",
+          "ServiceBackColor": "f9e300",
+          "ServiceTextColor": "000000",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/yellowline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "91f0a1e2-df5d-4246-a52b-391be0b492df"
   }
 ]
