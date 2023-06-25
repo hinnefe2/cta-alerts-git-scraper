@@ -34,61 +34,71 @@
     "GUID": "da6a3d7e-2926-4dcb-ab31-1b2437d3e247"
   },
   {
-    "AlertId": "92889",
-    "Headline": "Boarding Change, Linden-bound Purple and Dempster-Skokie-bound Yellow Line Trains at Howard",
-    "ShortDescription": "Linden-bound Purple and Dempster-Skokie-bound Yellow Line trains boarding and alighting from the 95th-bound platform at Howard due to track switching problems.",
+    "AlertId": "92890",
+    "Headline": "#53A South Pulaski Temporary Southbound Reroute near 71st/Pulaski",
+    "ShortDescription": "Southbound 53A South Pulaski buses are temporarily rerouted via Pulaski, 71st, Kedzie, 79th, and Pulaski due to, street blockage near 71st/Pulaski.",
     "FullDescription": {
-      "#cdata-section": "<p>Linden-bound Purple and Dempster-Skokie-bound Yellow Line trains boarding and alighting from the 95th-bound platform at Howard due to track switching problems.<br />\r\nPersonnel are working to restore normal service.</p>\r\n"
+      "#cdata-section": "<p>Southbound #53A South Pulaski buses are temporarily rerouted via Pulaski, 71st, Kedzie, 79th, and Pulaski due to, street blockage near 71st/Pulaski.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-06-25T08:07:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-25T08:15:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92889"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92890"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Yellow Line",
-          "ServiceId": "Y",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/yellowline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Pulaski",
+        "ServiceId": "53A",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/53a/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "91f0a1e2-df5d-4246-a52b-391be0b492df"
+    "GUID": "6b4051f1-699a-4026-8ba5-2015eda19fd8"
+  },
+  {
+    "AlertId": "92891",
+    "Headline": "#67 67th-69th-71st Temporary Westbound Reroute near 71st/Pulaski",
+    "ShortDescription": "Westbound 67 67th-69th-71st buses are temporarily rerouted via 71st, Kedzie, 79th, Pulaski, and 76th due to, street blockage near 71st/Pulaski.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #67 67th-69th-71st buses are temporarily rerouted via 71st, Kedzie, 79th, Pulaski, and 76th due to, street blockage near 71st/Pulaski.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-25T08:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92891"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "67th-69th-71st",
+        "ServiceId": "67",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/67/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9f2efe55-7ec6-4671-9fe3-e530bc04a753"
   }
 ]
