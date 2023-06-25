@@ -134,5 +134,52 @@
     },
     "ttim": "0",
     "GUID": "008aab3a-cf33-49a8-bf07-078b20621218"
+  },
+  {
+    "AlertId": "92895",
+    "Headline": "Red Line Service Running with Delays",
+    "ShortDescription": "Red Line trains are running with delays at 69th due to unathorized person on the tracks.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running with delays at 69th due to unathorized person on the tracks.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-25T13:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92895"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "69th",
+          "ServiceId": "40990",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=10"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9cfa209e-5597-4df9-ba0c-a0c272619604"
   }
 ]
