@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "92883",
-    "Headline": "Harlem-bound Green Line Service Running with Delays",
-    "ShortDescription": "Harlem-bound Green Line trains are running with delays a Harlem due to track switching problems.",
+    "Headline": "63rd Ashland-bound Green Line trains are running with delays ",
+    "ShortDescription": "63rd Ashland-bound Green Line trains are running with delays due to track switching problems.",
     "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green Line trains are running with delays a Harlem due to track switching problems.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>63rd Ashland-bound Green Line trains are running with delays due to track switching problems.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -52,32 +52,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92883"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Harlem/Lake",
-          "ServiceId": "40020",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=68"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "56d01c6f-0320-4b4a-bfeb-97f79df642ca"
+    "GUID": "fb6b0b34-019a-4912-80ab-0522eac05af6"
   }
 ]
