@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "92861",
-    "Headline": "#39 Pershing Temporary Reroute near Pershing/Wells",
-    "ShortDescription": "39 Pershing buses temp. rerouted EB: 39th, Wallace, Root, Princeton and 39th; Wb: 39th, Princeton, Root, Wallace and 39th due to street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>#39 Pershing&nbsp;buses are temporarily rerouted in both directions near 39th&nbsp;and Wells due to street blockage.</p>\r\n\r\n<p>Eastbound&nbsp;buses will operate via 39th, Wallace, Root and Princeton and 39th.</p>\r\n\r\n<p>Westbound buses will operate via 39th, Princeton, Root, Wallace and 39th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-23T19:25:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92861"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pershing",
-        "ServiceId": "39",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/39/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "da6a3d7e-2926-4dcb-ab31-1b2437d3e247"
-  },
-  {
     "AlertId": "92900",
     "Headline": "#82 Kimball-Homan Temporary Reroute at Belmont/Racine",
     "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.",
@@ -113,5 +79,39 @@
     },
     "ttim": "0",
     "GUID": "7220aea9-d3bd-49dd-ba68-5b044141e97d"
+  },
+  {
+    "AlertId": "92861",
+    "Headline": "#39 Pershing Temporary Reroute near Pershing/Wells",
+    "ShortDescription": "39 Pershing buses temp. rerouted EB: 39th, Wallace, Root, Princeton and 39th; Wb: 39th, Princeton, Root, Wallace and 39th due to street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#39 Pershing&nbsp;buses are temporarily rerouted in both directions near 39th&nbsp;and Wells due to street blockage.</p>\r\n\r\n<p>Eastbound&nbsp;buses will operate via 39th, Wallace, Root and Princeton and 39th.</p>\r\n\r\n<p>Westbound buses will operate via 39th, Princeton, Root, Wallace and 39th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-23T19:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92861"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pershing",
+        "ServiceId": "39",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/39/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "da6a3d7e-2926-4dcb-ab31-1b2437d3e247"
   }
 ]
