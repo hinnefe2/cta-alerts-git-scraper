@@ -34,6 +34,40 @@
     "GUID": "da6a3d7e-2926-4dcb-ab31-1b2437d3e247"
   },
   {
+    "AlertId": "92900",
+    "Headline": "#82 Kimball-Homan Temporary Reroute at Belmont/Racine",
+    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted in both directions via&nbsp;Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-25T19:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92900"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kimball-Homan",
+        "ServiceId": "82",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/82/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8176e55e-b1f8-4312-bae0-d7baaf02f4a9"
+  },
+  {
     "AlertId": "92908",
     "Headline": "#8A South Halsted, #108 Halsted/95th Temporary Northbound Reroute near Halsted/111th",
     "ShortDescription": "NB 8A South Halsted, 108 Halsted/95th buses are temporarily rerouted via  Halsted, 112th, Peoria, 111th, and Halsted due to, construction at Halsted/111th.",
@@ -79,39 +113,5 @@
     },
     "ttim": "0",
     "GUID": "7220aea9-d3bd-49dd-ba68-5b044141e97d"
-  },
-  {
-    "AlertId": "92900",
-    "Headline": "#82 Kimball-Homan Temporary Reroute at Belmont/Racine",
-    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted in both directions via&nbsp;Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-25T19:53:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92900"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8176e55e-b1f8-4312-bae0-d7baaf02f4a9"
   }
 ]
