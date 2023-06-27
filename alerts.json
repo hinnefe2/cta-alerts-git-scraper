@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "92935",
-    "Headline": "Loop-bound Pink Line Service Delayed at Damen",
-    "ShortDescription": "Loop-bound Pink Line trains are standing at Damen due to police activity. Crews working to restore service.",
+    "AlertId": "92900",
+    "Headline": "#82 Kimball-Homan Temporary Reroute at Belmont/Racine",
+    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Pink Line trains are standing at Damen due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted in both directions via&nbsp;Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-06-27T18:28:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-25T19:53:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92935"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92900"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kimball-Homan",
+        "ServiceId": "82",
+        "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/82/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "c7ee7152-2063-4623-b24f-26099fc8e93a"
+    "GUID": "8176e55e-b1f8-4312-bae0-d7baaf02f4a9"
   },
   {
     "AlertId": "92931",
@@ -81,40 +81,6 @@
     "GUID": "34b9b7b7-1493-4a70-8280-35bc2e5fff48"
   },
   {
-    "AlertId": "92900",
-    "Headline": "#82 Kimball-Homan Temporary Reroute at Belmont/Racine",
-    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted in both directions via&nbsp;Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-25T19:53:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92900"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8176e55e-b1f8-4312-bae0-d7baaf02f4a9"
-  },
-  {
     "AlertId": "92934",
     "Headline": "54th/Cermak-bound Pink Line Trains bypassing Damen Station",
     "ShortDescription": "54th/Cermak-bound Pink Line trains are running, but not stopping at Damen due to police activity.",
@@ -147,5 +113,39 @@
     },
     "ttim": "0",
     "GUID": "b2ef8da8-83c2-4fc6-a066-3bb8b0446b00"
+  },
+  {
+    "AlertId": "92935",
+    "Headline": "Loop-bound Pink Line Service Delayed at Damen",
+    "ShortDescription": "Loop-bound Pink Line trains are standing at Damen due to police activity. Crews working to restore service. ",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Pink Line trains are standing at Damen due to police activity.<br />\r\n<br />\r\nAt this time please consider using other service alternatives that better serve your trip such as nearby bus routes or buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-06-27T18:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92935"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "91a61275-a17e-47cc-94e8-58197813f94b"
   }
 ]
