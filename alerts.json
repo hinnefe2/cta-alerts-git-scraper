@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "8176e55e-b1f8-4312-bae0-d7baaf02f4a9"
+  },
+  {
+    "AlertId": "92931",
+    "Headline": "#4 Cottage Grove and  #X4 Cottage Grove ExpressTemporary Reroute at Cottage Grove/47th",
+    "ShortDescription": "4 Cottage Grove and X4 Cottage Grove Express buses are temporarily rerouted via Cottage Grove, 47th, Drexel and 43rd due to st blockage at Cottage Grove/45th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#4 Cottage Grove and #X4 Cottage Grove Express buses are temporarily rerouted via Cottage Grove, 47th, Drexel and 43rd due to st blockage at Cottage Grove/45th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-27T16:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92931"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove Express",
+          "ServiceId": "X4",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e7dc8ba2-22c5-4a20-af83-532be61a781f"
   }
 ]
