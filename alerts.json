@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "92929",
-    "Headline": "95th-bound Red Line Service Delayed at Bryn Mawr",
-    "ShortDescription": "95th-bound Red Line trains are standing at Bryn Mawr due to a sick customer. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are standing at Bryn Mawr due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-06-27T12:30:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92929"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6827f98e-c208-4100-926b-dc95df218564"
-  },
-  {
     "AlertId": "92900",
     "Headline": "#82 Kimball-Homan Temporary Reroute at Belmont/Racine",
     "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "8176e55e-b1f8-4312-bae0-d7baaf02f4a9"
+  },
+  {
+    "AlertId": "92929",
+    "Headline": "95th-bound Red Line Delays",
+    "ShortDescription": "95th-bound Red Line trains are running w/residual delays following an earlier sick customer at Bryn Mawr. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are running w/residual delays following an earlier sick customer at Bryn Mawr.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-06-27T12:30:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92929"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4f671474-80c0-4d75-a924-2c8a2996732d"
   }
 ]
