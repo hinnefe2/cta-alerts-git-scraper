@@ -32,5 +32,85 @@
     },
     "ttim": "0",
     "GUID": "8176e55e-b1f8-4312-bae0-d7baaf02f4a9"
+  },
+  {
+    "AlertId": "92930",
+    "Headline": "Trains bypassing State/Lake",
+    "ShortDescription": "Orange, Pink, Green ansd Brown Line trains are running, but not stopping at State/Lake due to police acticity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange, Pink, Green ansd Brown Line trains are running, but not stopping at State/Lake due to police acticity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2023-06-27T13:44:00",
+    "EventEnd": "2023-06-27T15:49:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92930"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "State/Lake",
+          "ServiceId": "40260",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=130"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e76aa2c4-ee79-4ca5-9a0e-151e992f34e1"
   }
 ]
