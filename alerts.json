@@ -34,6 +34,75 @@
     "GUID": "8176e55e-b1f8-4312-bae0-d7baaf02f4a9"
   },
   {
+    "AlertId": "92949",
+    "Headline": "Revised: Trains bypassing Quincy/Wells",
+    "ShortDescription": "Revised: Brown, Pink, Green, and Orange Line trains are running, but not stopping at Quincy/Wells at the request of law enforcement officials.",
+    "FullDescription": {
+      "#cdata-section": "<p>Revised: Brown, Pink, Green, and Orange Line trains are running, but not stopping at Quincy/Wells at the request of law enforcement officials.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2023-06-28T12:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92949"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1a3a7705-54aa-4b0a-b0be-cb592d385453"
+  },
+  {
     "AlertId": "92946",
     "Headline": "Delays at Kedzie Affecting 63rd-bound Green Line Service",
     "ShortDescription": "63rd-bound Green Line trains are experiencing a delay at Kedzie due to an injured rider. Harlem-bound service has resumed. Service updates to follow.",
