@@ -1,37 +1,105 @@
 [
   {
-    "AlertId": "92948",
-    "Headline": "Pink Line Delays",
-    "ShortDescription": "Pink Line trains are running w/residual delays following an earlier disruption affecting trains on the Lake Street 'L'. Service is resuming, allow extra time.",
+    "AlertId": "92959",
+    "Headline": "#43 43rdTemporary Westbound Reroute near Root/Princeton",
+    "ShortDescription": "Westbound 43 43rd buses are temporarily rerouted via 43rd, Normal and Root: due to, street blockage near Root/Princeton.",
     "FullDescription": {
-      "#cdata-section": "<p>Pink Line trains are running w/residual delays following an earlier disruption affecting trains on the Lake Street &#39;L&#39;.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #43 43rd buses are temporarily rerouted via 43rd, Normal and Root: due to, street blockage near Root/Princeton.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-06-28T12:04:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-28T15:33:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92948"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92959"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "43rd",
+        "ServiceId": "43",
+        "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/43/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "843d6107-61ce-456e-b391-0b98a5377987"
+    "GUID": "b7745866-c1e2-4bd1-ad86-3c934ef5c732"
+  },
+  {
+    "AlertId": "92957",
+    "Headline": "#39 PershingTemporary Westbound Reroute near Root/Princeton",
+    "ShortDescription": "Westbound 39 Pershing buses are temporarily rerouted via Princeton,43rd, Wallace and Pershing due to,street blockage near Root/Princeton.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #39 Pershing buses are temporarily rerouted via Princeton,43rd, Wallace and Pershing due to,street blockage near Root/Princeton.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-28T15:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92957"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pershing",
+        "ServiceId": "39",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/39/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d2051747-e49e-468d-b91f-21e7c7424a54"
+  },
+  {
+    "AlertId": "92900",
+    "Headline": "#82 Kimball-Homan Temporary Reroute at Belmont/Racine",
+    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted in both directions via&nbsp;Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-25T19:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92900"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kimball-Homan",
+        "ServiceId": "82",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/82/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8176e55e-b1f8-4312-bae0-d7baaf02f4a9"
   },
   {
     "AlertId": "92951",
@@ -100,108 +168,6 @@
     },
     "ttim": "0",
     "GUID": "7f4f94a0-a642-497b-9def-b2c2f18c4791"
-  },
-  {
-    "AlertId": "92900",
-    "Headline": "#82 Kimball-Homan Temporary Reroute at Belmont/Racine",
-    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted in both directions via&nbsp;Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-25T19:53:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92900"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8176e55e-b1f8-4312-bae0-d7baaf02f4a9"
-  },
-  {
-    "AlertId": "92959",
-    "Headline": "#43 43rdTemporary Westbound Reroute near Root/Princeton",
-    "ShortDescription": "Westbound 43 43rd buses are temporarily rerouted via 43rd, Normal and Root: due to, street blockage near Root/Princeton.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #43 43rd buses are temporarily rerouted via 43rd, Normal and Root: due to, street blockage near Root/Princeton.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-28T15:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92959"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "43rd",
-        "ServiceId": "43",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/43/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b7745866-c1e2-4bd1-ad86-3c934ef5c732"
-  },
-  {
-    "AlertId": "92957",
-    "Headline": "#39 PershingTemporary Westbound Reroute near Root/Princeton",
-    "ShortDescription": "Westbound 39 Pershing buses are temporarily rerouted via Princeton,43rd, Wallace and Pershing due to,street blockage near Root/Princeton.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #39 Pershing buses are temporarily rerouted via Princeton,43rd, Wallace and Pershing due to,street blockage near Root/Princeton.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-28T15:24:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92957"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pershing",
-        "ServiceId": "39",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/39/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d2051747-e49e-468d-b91f-21e7c7424a54"
   },
   {
     "AlertId": "92946",
