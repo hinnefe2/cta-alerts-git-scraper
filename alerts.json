@@ -1,50 +1,16 @@
 [
   {
-    "AlertId": "92900",
-    "Headline": "#82 Kimball-Homan Temporary Reroute at Belmont/Racine",
-    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted in both directions via&nbsp;Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-25T19:53:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92900"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8176e55e-b1f8-4312-bae0-d7baaf02f4a9"
-  },
-  {
     "AlertId": "92944",
-    "Headline": "Red, Orange and Green Line Service Delayed at Roosevelt",
-    "ShortDescription": "Red, Orange and Green Line trains are standing at Roosevelt due to police activity. Crews working to restore service.",
+    "Headline": "Red, Orange and Green Line Delays",
+    "ShortDescription": "Red, Orange and Green Line trains are running w/residual delays following earlier police activity at Roosevelt. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Red, Orange and Green Line trains are standing at Roosevelt due to police activity.</p>\n\n<p>Personnel are working to restore service. Allow extra travel time.</p>\n"
+      "#cdata-section": "<p>Red, Orange and Green Line trains are running w/residual delays following earlier police activity at Roosevelt.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-06-28T10:50:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-28T10:31:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
@@ -89,6 +55,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "c83ad623-7b1d-4221-adf0-0dee88022a3b"
+    "GUID": "54ad5618-c918-4f94-9768-49afe88136c9"
+  },
+  {
+    "AlertId": "92900",
+    "Headline": "#82 Kimball-Homan Temporary Reroute at Belmont/Racine",
+    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted in both directions via&nbsp;Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-25T19:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92900"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kimball-Homan",
+        "ServiceId": "82",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/82/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8176e55e-b1f8-4312-bae0-d7baaf02f4a9"
   }
 ]
