@@ -68,6 +68,74 @@
     "GUID": "da8f07bf-780a-4f50-a2ba-92630ec33b8e"
   },
   {
+    "AlertId": "92951",
+    "Headline": "#39 Pershing Temporary Westbound Reroute near Root/Princeton",
+    "ShortDescription": "Westbound 39 Pershing buses are temporarily rerouted via Princeton, 43rd, Wallace, and Pershing due to, street blockage near Root/Princeton.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #39 Pershing buses are temporarily rerouted via Princeton, 43rd, Wallace, and Pershing due to, street blockage near Root/Princeton.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-28T13:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92951"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pershing",
+        "ServiceId": "39",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/39/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "bbc1b94d-7aa2-4689-9107-1a8c772437e0"
+  },
+  {
+    "AlertId": "92952",
+    "Headline": "#43 43rd Temporary Westbound Reroute near Root/Princeton",
+    "ShortDescription": "Westbound 43 43rd  buses are temporarily rerouted via 43rd, Normal, and Root due to, street blockage near Root/Princeton.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #43 43rd&nbsp; buses are temporarily rerouted via 43rd, Normal, and Root due to, street blockage near Root/Princeton.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-28T13:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92952"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "43rd",
+        "ServiceId": "43",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/43/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7f4f94a0-a642-497b-9def-b2c2f18c4791"
+  },
+  {
     "AlertId": "92949",
     "Headline": "Revised: Trains bypassing Quincy/Wells",
     "ShortDescription": "Revised: Brown, Pink, Green, and Orange Line trains are running, but not stopping at Quincy/Wells at the request of law enforcement officials.",
@@ -134,41 +202,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "93e7c73e-158f-4d8d-9b66-49de1d6e9885"
-  },
-  {
-    "AlertId": "92948",
-    "Headline": "Pink Line Delays",
-    "ShortDescription": "Pink Line trains are running w/residual delays following an earlier disruption affecting trains on the Lake Street 'L'. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Pink Line trains are running w/residual delays following an earlier disruption affecting trains on the Lake Street &#39;L&#39;.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2023-06-28T12:04:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92948"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "428aa4ee-668b-4d6d-94cf-7d5ad1114b64"
+    "GUID": "3795eaa2-48ab-4c41-b0b3-bef490fab942"
   },
   {
     "AlertId": "92946",
