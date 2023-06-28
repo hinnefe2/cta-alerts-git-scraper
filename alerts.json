@@ -1,5 +1,73 @@
 [
   {
+    "AlertId": "92959",
+    "Headline": "#43 43rdTemporary Westbound Reroute near Root/Princeton",
+    "ShortDescription": "Westbound 43 43rd buses are temporarily rerouted via 43rd, Normal and Root: due to, street blockage near Root/Princeton.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #43 43rd buses are temporarily rerouted via 43rd, Normal and Root: due to, street blockage near Root/Princeton.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-28T15:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92959"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "43rd",
+        "ServiceId": "43",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/43/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b7745866-c1e2-4bd1-ad86-3c934ef5c732"
+  },
+  {
+    "AlertId": "92957",
+    "Headline": "#39 PershingTemporary Westbound Reroute near Root/Princeton",
+    "ShortDescription": "Westbound 39 Pershing buses are temporarily rerouted via Princeton,43rd, Wallace and Pershing due to,street blockage near Root/Princeton.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #39 Pershing buses are temporarily rerouted via Princeton,43rd, Wallace and Pershing due to,street blockage near Root/Princeton.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-28T15:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92957"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pershing",
+        "ServiceId": "39",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/39/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d2051747-e49e-468d-b91f-21e7c7424a54"
+  },
+  {
     "AlertId": "92900",
     "Headline": "#82 Kimball-Homan Temporary Reroute at Belmont/Racine",
     "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.",
@@ -32,40 +100,6 @@
     },
     "ttim": "0",
     "GUID": "8176e55e-b1f8-4312-bae0-d7baaf02f4a9"
-  },
-  {
-    "AlertId": "92950",
-    "Headline": "#50 Damen Temporary Northbound Reroute near Damen/17th",
-    "ShortDescription": "Northbound 50 Damen buses are temporarily rerouted via Damen, 18th, Ashland, Roosevelt, and Damen due to, construction near Damen/17th.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #50 Damen buses are temporarily rerouted via Damen, 18th, Ashland, Roosevelt, and Damen due to, construction near Damen/17th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-28T13:13:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92950"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Damen",
-        "ServiceId": "50",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/50/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "da8f07bf-780a-4f50-a2ba-92630ec33b8e"
   },
   {
     "AlertId": "92951",
@@ -134,40 +168,6 @@
     },
     "ttim": "0",
     "GUID": "7f4f94a0-a642-497b-9def-b2c2f18c4791"
-  },
-  {
-    "AlertId": "92957",
-    "Headline": "#39 PershingTemporary Westbound Reroute near Root/Princeton",
-    "ShortDescription": "Westbound 39 Pershing buses are temporarily rerouted via Princeton,43rd, Wallace and Pershing due to,street blockage near Root/Princeton.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #39 Pershing buses are temporarily rerouted via Princeton,43rd, Wallace and Pershing due to,street blockage near Root/Princeton.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-28T15:24:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92957"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pershing",
-        "ServiceId": "39",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/39/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d2051747-e49e-468d-b91f-21e7c7424a54"
   },
   {
     "AlertId": "92949",
