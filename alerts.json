@@ -34,6 +34,40 @@
     "GUID": "8176e55e-b1f8-4312-bae0-d7baaf02f4a9"
   },
   {
+    "AlertId": "92950",
+    "Headline": "#50 Damen Temporary Northbound Reroute near Damen/17th",
+    "ShortDescription": "Northbound 50 Damen buses are temporarily rerouted via Damen, 18th, Ashland, Roosevelt, and Damen due to, construction near Damen/17th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #50 Damen buses are temporarily rerouted via Damen, 18th, Ashland, Roosevelt, and Damen due to, construction near Damen/17th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-28T13:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92950"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Damen",
+        "ServiceId": "50",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/50/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "da8f07bf-780a-4f50-a2ba-92630ec33b8e"
+  },
+  {
     "AlertId": "92949",
     "Headline": "Revised: Trains bypassing Quincy/Wells",
     "ShortDescription": "Revised: Brown, Pink, Green, and Orange Line trains are running, but not stopping at Quincy/Wells at the request of law enforcement officials.",
@@ -103,11 +137,45 @@
     "GUID": "93e7c73e-158f-4d8d-9b66-49de1d6e9885"
   },
   {
-    "AlertId": "92946",
-    "Headline": "Delays at Kedzie Affecting 63rd-bound Green Line Service",
-    "ShortDescription": "63rd-bound Green Line trains are experiencing a delay at Kedzie due to an injured rider. Harlem-bound service has resumed. Service updates to follow.",
+    "AlertId": "92948",
+    "Headline": "Pink Line Delays",
+    "ShortDescription": "Pink Line trains are running w/residual delays following an earlier disruption affecting trains on the Lake Street 'L'. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>63rd-bound Green Line trains are experiencing a delay at Kedzie due to an injured rider. Harlem-bound service is no longer affected.</p>\r\n\r\n<p>Assistance has been requested and&nbsp;we hope to resume service shortly.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as parallel bus routes, or using buses to other rail lines such as the Blue Line.</p>\r\n\r\n<p>Updates will be posted as new information becomes available.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Pink Line trains are running w/residual delays following an earlier disruption affecting trains on the Lake Street &#39;L&#39;.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2023-06-28T12:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92948"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "428aa4ee-668b-4d6d-94cf-7d5ad1114b64"
+  },
+  {
+    "AlertId": "92946",
+    "Headline": "No trains between Harlem and Ashland/Lake",
+    "ShortDescription": "Green Line service has been temporarily suspended between Harlem and Ashland/Lake due to an injured rider.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green Line service has been temporarily suspended between Harlem and Ashland/Lake due to an injured rider.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Ashland/Lake and Ashland/63rd/Cottage Grove&nbsp;at this time.</strong></p>\r\n\r\n<p>Shuttle buses are available between Harlem and Ashland/Lake to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include the #126 Harrison bus.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "84",
     "SeverityColor": "c00c00",
@@ -134,40 +202,6 @@
       }
     },
     "ttim": "1",
-    "GUID": "269e7be6-63a8-441a-ad59-ecaed298490b"
-  },
-  {
-    "AlertId": "92948",
-    "Headline": "Service Between 54th/Cermak and Polk, then Racine (Blue Line) Stations, Only",
-    "ShortDescription": "Pink Line trains operate from 54th to Polk, only, then connect w/Blue Line at Racine for continuing service, due to a disruption affecting the Lake St 'L'.",
-    "FullDescription": {
-      "#cdata-section": "<p><span>Pink Line service has been temporarily suspended between Polk and the Loop due to a service disruption affecting trains on the Lake St &#39;L&#39;.</span></p>\r\n\r\n<p><span>As a result,</span>&nbsp;<span style=\"color:#E27EA6;\"><strong>Pink Line</strong></span>&nbsp;trains are running as follows:</p>\r\n\r\n<ul type=\"disc\">\r\n\t<li>\r\n\t<p><strong><span style=\"sans-serif: \">Between 54th/Cermak&nbsp;and Polk, and then are diverted to&nbsp;Racine on the Blue Line&nbsp;for direct connections at Racine to continuing Blue Line&nbsp;train service to/from downtown.</span></strong></p>\r\n\t</li>\r\n</ul>\r\n\r\n<p><span>Using connecting <span style=\"color:#00A1DE;\"><strong>Blue Line</strong></span> service:</span></p>\r\n\r\n<ul type=\"disc\">\r\n\t<li>\r\n\t<p><em><strong><span style=\"sans-serif: \">For service to downtown&nbsp;from Pink Line stations between 54th/Cermak and Polk</span></strong></em><span style=\"sans-serif: \">, take a Pink Line train toward the Loop and stay on board until the train reaches Racine on the Blue Line. Transfer to an O&#39;Hare-bound Blue Line train from the same platform for service into downtown.</span></p>\r\n\t</li>\r\n\t<li>\r\n\t<p><em><strong><span style=\"sans-serif: \">For service from downtown to Pink Line stations between Polk and 54th/Cermak</span></strong></em><span style=\"sans-serif: \">, take a Blue Line train toward Forest Park to Racine. Stay on the same platform side and wait for a 54th/Cermak-bound Pink Line train.</span></p>\r\n\t</li>\r\n</ul>\r\n\r\n<p><span>Other possible alternatives may include:&nbsp;</span></p>\r\n\r\n<ul>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/9\"><span>#9 Ashland</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/21\"><span>#21 Cermak</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/49\"><span>#49 Western</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/50\"><span>#50 Damen</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/52\"><span>#52 Kedzie/California</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/53\"><span>#53 Pulaski</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/54\"><span>#54&nbsp;Cicero</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/60\"><span>#60 Blue Island-26th</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/82\"><span>#82 Kimball-Homan</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/94\"><span>#94 South California</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/157\"><span>#157 Streeterville-Taylor buses</span></a></li>\r\n</ul>\r\n\r\n<p><span>...including to/from and in combination with other &#39;L&#39; services.</span></p>\r\n\r\n<p><span>Note that if you take a bus to/from the Pink Line, you may also be able to connect to/from the Blue Line&#39;s Forest Park branch, directly.</span></p>\r\n\r\n<p><span>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</span></p>\r\n\r\n<p><span>We are working to restore service as quickly as possible. Allow extra travel time.</span></p>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2023-06-28T12:04:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92948"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c7f0f87a-5430-473f-9d5e-4539d7a4a963"
+    "GUID": "705143b6-9f14-4454-ab7d-73c73c8517cf"
   }
 ]
