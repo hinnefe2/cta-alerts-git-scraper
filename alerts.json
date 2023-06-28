@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "92940",
+    "Headline": "95th-bound Red Line Delays",
+    "ShortDescription": "95th-bound Red Line trains are running w/residual delays following an earlier door problem at Garfield. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are running w/residual delays following an earlier door problem at Garfield.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-06-28T06:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92940"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2503854a-9a5e-411d-975d-a4dde055891c"
+  },
+  {
     "AlertId": "92900",
     "Headline": "#82 Kimball-Homan Temporary Reroute at Belmont/Racine",
     "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Belmont, Racine, Diversey, Cannon Drive and Lakeshore West (Nature Museum) due to, street blockage.",
@@ -32,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "8176e55e-b1f8-4312-bae0-d7baaf02f4a9"
-  },
-  {
-    "AlertId": "92938",
-    "Headline": "#48 South Damen Temporary Reroute at 67th/Damen",
-    "ShortDescription": "48 South Damen buses are temporarily rerouted via Damen, 69th, Western, 63rd, and Damen due to, police activity at 67th/Damen.",
-    "FullDescription": {
-      "#cdata-section": "<p>#48 South Damen buses are temporarily rerouted in both directions via Damen, 69th, Western, 63rd, and Damen due to, police activity at 67th/Damen.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-28T05:35:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92938"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Damen",
-        "ServiceId": "48",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/48/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "7bf6238f-37dd-471f-9802-5f288be0218f"
   }
 ]
