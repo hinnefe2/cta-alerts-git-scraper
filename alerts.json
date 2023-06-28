@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "92959",
-    "Headline": "#43 43rdTemporary Westbound Reroute near Root/Princeton",
-    "ShortDescription": "Westbound 43 43rd buses are temporarily rerouted via 43rd, Normal and Root: due to, street blockage near Root/Princeton.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #43 43rd buses are temporarily rerouted via 43rd, Normal and Root: due to, street blockage near Root/Princeton.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-28T15:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92959"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "43rd",
-        "ServiceId": "43",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/43/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b7745866-c1e2-4bd1-ad86-3c934ef5c732"
-  },
-  {
     "AlertId": "92957",
     "Headline": "#39 PershingTemporary Westbound Reroute near Root/Princeton",
     "ShortDescription": "Westbound 39 Pershing buses are temporarily rerouted via Princeton,43rd, Wallace and Pershing due to,street blockage near Root/Princeton.",
@@ -66,6 +32,40 @@
     },
     "ttim": "0",
     "GUID": "d2051747-e49e-468d-b91f-21e7c7424a54"
+  },
+  {
+    "AlertId": "92959",
+    "Headline": "#43 43rdTemporary Westbound Reroute near Root/Princeton",
+    "ShortDescription": "Westbound 43 43rd buses are temporarily rerouted via 43rd, Normal and Root: due to, street blockage near Root/Princeton.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #43 43rd buses are temporarily rerouted via 43rd, Normal and Root: due to, street blockage near Root/Princeton.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-28T15:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92959"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "43rd",
+        "ServiceId": "43",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/43/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b7745866-c1e2-4bd1-ad86-3c934ef5c732"
   },
   {
     "AlertId": "92900",
@@ -271,39 +271,5 @@
     },
     "ttim": "0",
     "GUID": "d5b9427f-a00b-4873-9558-868577ae943f"
-  },
-  {
-    "AlertId": "92946",
-    "Headline": "No Trains Between Pulaski and Ashland/Lake",
-    "ShortDescription": "Green Line service has been temporarily suspended between Pulaski and Ashland/Lake due to injured customer.",
-    "FullDescription": {
-      "#cdata-section": "<p>Green Line service has been temporarily suspended between Pulaski and Ashland/Lake due to injured customer.</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li><strong>between Harlem&nbsp;and Pulaski</strong>, and,</li>\r\n\t<li><strong>between 63rd Ashland and Ashland/Lake</strong>, only.</li>\r\n</ul>\r\n\r\n<p>&nbsp;Shuttle buses are available to provide connecting service through the affected area.&nbsp;Shuttle buses are available between Pulaski and Ashland/Lake&nbsp;to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.<br />\r\n&nbsp;</p>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2023-06-28T12:02:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92946"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
-        }
-      }
-    },
-    "ttim": "1",
-    "GUID": "9dafc5af-c360-4017-867b-ee84bd15d86f"
   }
 ]
