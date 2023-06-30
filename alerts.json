@@ -35,18 +35,18 @@
   },
   {
     "AlertId": "92989",
-    "Headline": " Harlem-Bound Green Line Service Delayed at Ashland",
-    "ShortDescription": "Harlem-Bound Green Line trains are standing at Ashland due to a sick customer. Crews working to restore service.",
+    "Headline": "Harlem-bound Green Line Delays",
+    "ShortDescription": "Harlem-bound Green Line trains are running w/residual delays following an earlier sick customer at Ashland. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Harlem-Bound Green Line trains are standing at Ashland due to a sick customer.&nbsp; Crews working to restore service.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Harlem-bound Green Line trains are running w/residual delays following an earlier sick customer at Ashland</p>\r\n\r\n<p><br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Significant Delays",
     "EventStart": "2023-06-30T13:39:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventEnd": "2023-06-30T14:30:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92989"
@@ -78,40 +78,53 @@
       ]
     },
     "ttim": "0",
-    "GUID": "33b66926-fe23-4001-bf44-ef6bf543f760"
+    "GUID": "c01a30ea-ed48-4d32-9bab-8b5fa803a0b6"
   },
   {
     "AlertId": "92990",
-    "Headline": "No Trains Between Polk and Clark",
-    "ShortDescription": "Pink Line service has been temporarily suspended between Polk and Clark due to sick customer.",
+    "Headline": "54th/Cermak bound Pink Line Delays",
+    "ShortDescription": "54th/Cermak Pink Line trains are running w/residual delays following an earlier sick customer at Morgan. Service is resuming, allow extra time",
     "FullDescription": {
-      "#cdata-section": "<p>Pink Line service has been temporarily suspended between Polk and Clark&nbsp;due to sick customer.</p>\r\n\r\n<p>As a result, trains are operating:&nbsp;</p>\r\n\r\n<ul>\r\n\t<li><strong>between 54th/Cermak&nbsp;and Polk</strong></li>\r\n</ul>\r\n\r\n<p>&nbsp;Shuttle buses are available between Polk and Clark&nbsp;provide connecting service.</p>\r\n\r\n<p>&nbsp;At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.<br />\r\n&nbsp;</p>\r\n"
+      "#cdata-section": "<p>54th/Cermak Pink Line trains are running w/residual delays following an earlier sick customer at Morgan. Service is resuming, allow extra time.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
+    "SeverityScore": "80",
     "SeverityColor": "c00c00",
     "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "Impact": "Major Delays",
     "EventStart": "2023-06-30T13:42:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventEnd": "2023-06-30T14:25:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92990"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "0fa19dad-aa93-4c4c-91e5-56e165420276"
+    "GUID": "670fb5ce-81d6-4bd8-b7d3-e39f83dd29ca"
   }
 ]
