@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "93009",
-    "Headline": "O'Hare-bound Blue Line Service Delayed at Harlem (Forest Park Branch)",
-    "ShortDescription": "O'Hare-bound Blue Line trains are standing Harlem (Forest Park Branch) due to signal problems. Crews working to restore service.",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following an earlier signal problem at Harlem (Forest Park Branch). Allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing Harlem (Forest Park Branch) due to signal problems.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/residual delays following an earlier signal problem at Harlem (Forest Park Branch).<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -31,41 +31,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "9a77d516-0e3d-4a42-b589-44bc153a0d1d"
-  },
-  {
-    "AlertId": "93006",
-    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near LSD/47th",
-    "ShortDescription": "NB 6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage, and Pershing due to, street blockage near LSD/47th.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound&nbsp;#6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage, and Pershing due to, street blockage near LSD/47th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-01T06:42:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93006"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d817a675-a8ce-4972-a136-138b94930e8d"
+    "GUID": "d3117921-b1f9-4426-a87f-ea7f0d458125"
   },
   {
     "AlertId": "93008",
@@ -100,6 +66,74 @@
     },
     "ttim": "0",
     "GUID": "f44d8e2c-61e1-4e31-9871-97e559d2427d"
+  },
+  {
+    "AlertId": "93005",
+    "Headline": "#30 South Chicago Temporary Southbound Reroute near 132nd/Exchange",
+    "ShortDescription": "SB 30 buses are temporarily rerouted via 132nd, Escanaba, and Brainard due to street blockage near 132nd/Exchange.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #30 South Chicago buses are temporarily rerouted via 132nd, Escanaba, and Brainard due to street blockage near 132nd/Exchange .</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-01T06:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93005"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Chicago",
+        "ServiceId": "30",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/30/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "185ef7cd-fddb-45af-9b7d-ac99dc9ac329"
+  },
+  {
+    "AlertId": "93006",
+    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near LSD/47th",
+    "ShortDescription": "NB 6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage, and Pershing due to, street blockage near LSD/47th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound&nbsp;#6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage, and Pershing due to, street blockage near LSD/47th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-01T06:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93006"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d817a675-a8ce-4972-a136-138b94930e8d"
   },
   {
     "AlertId": "92985",
