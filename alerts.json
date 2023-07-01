@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "93000",
+    "Headline": "#63 63rd Temporary Reroute at 63rd/Artesian",
+    "ShortDescription": "63 63rd buses are temporarily rerouted via 63rd, California, 59th, Western and 63rd, due to street blockage near 63rd/Artesian.",
+    "FullDescription": {
+      "#cdata-section": "<p>#63 63rd buses are temporarily rerouted via 63rd, California, 59th, Western and 63rd, due to street blockage near 63rd/Artesian.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-30T21:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93000"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4b8e9638-8714-4ad0-b47c-4f8338660207"
+  },
+  {
     "AlertId": "92985",
     "Headline": "#12 Roosevelt Temporary Reroute near Roosevelt/Michigan",
     "ShortDescription": "12 Roosevelt buses temp. rerouted EB: Roosevelt, Michigan, 16th, and Wabash; WB: Wabash and Roosevelt due to, street blockage near Roosevelt/Michigan.",
@@ -32,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "e5c6bb87-f0f6-40fd-a62c-69685e7a7b35"
-  },
-  {
-    "AlertId": "92999",
-    "Headline": "Orange Line Delays",
-    "ShortDescription": "Orange Line trains are running w/residual delays following an earlier unauthorized person on the tracks near Kedzie. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Orange Line trains are running w/residual delays following an earlier unauthorized person on the tracks near Kedzie.</p>\r\n\r\n<p><br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-06-30T21:06:00",
-    "EventEnd": "2023-06-30T21:30:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92999"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Orange Line",
-        "ServiceId": "Org",
-        "ServiceBackColor": "f9461c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/orangeline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8537baa0-aaa4-47b6-b772-af7f1508e9ad"
   }
 ]
