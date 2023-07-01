@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "93010",
-    "Headline": "Harlem-bound Green Line Service Delayed at Ashland/63rd",
-    "ShortDescription": "Harlem-bound Green Line trains are standing at Ashland/63rd due to police activity. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green Line trains are standing at Ashland/63rd due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-07-01T12:48:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93010"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6b05d687-6717-4a70-9eff-dbba4ee0d478"
-  },
-  {
     "AlertId": "93006",
     "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near LSD/47th",
     "ShortDescription": "NB 6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage, and Pershing due to, street blockage near LSD/47th.",
@@ -134,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "e5c6bb87-f0f6-40fd-a62c-69685e7a7b35"
+  },
+  {
+    "AlertId": "93010",
+    "Headline": "Harlem-bound Green Line Delays",
+    "ShortDescription": "Harlem-bound Green Line trains are running w/residual delays following earlier  police activity at Ashland/63rd. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green Line trains are running w/residual delays following earlier&nbsp; police activity at Ashland/63rd.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-07-01T12:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93010"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cd3bc7aa-8097-4924-a705-ad3ae98ab3b7"
   }
 ]
