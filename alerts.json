@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "93004",
+    "Headline": "Howard-bound Red Line Delays",
+    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays following earlier report of  minor fire at track level at 47th. Service is resuming, allow extra time",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are running w/residual delays following an earlier report of a minor fire at track level at 47th. Service is resuming, allow extra time.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-07-01T03:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93004"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "47th",
+          "ServiceId": "41230",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=6"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ee721312-1f32-4c8c-83f5-7dfb0c0abcb6"
+  },
+  {
     "AlertId": "93000",
     "Headline": "#63 63rd Temporary Reroute at 63rd/Artesian",
     "ShortDescription": "63 63rd buses are temporarily rerouted via 63rd, California, 59th, Western and 63rd, due to street blockage near 63rd/Artesian.",
@@ -66,52 +113,5 @@
     },
     "ttim": "0",
     "GUID": "e5c6bb87-f0f6-40fd-a62c-69685e7a7b35"
-  },
-  {
-    "AlertId": "93004",
-    "Headline": "Delays at 47th Affecting Northbound Red Line Service",
-    "ShortDescription": "Northbound-bound Red Line Line trains are running with delays at 47th due to a report of a minor fire at track level. Update to follow.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound-bound Red Line Line trains are running with delays at 47th due to a report of a minor fire at track level. Update to follow.</p>\r\n\r\n<p>Updates will be posted as new information becomes available.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-07-01T03:37:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93004"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "47th",
-          "ServiceId": "41230",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=6"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "13da48c4-886e-4546-af1c-71fdc63d4c2b"
   }
 ]
