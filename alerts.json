@@ -102,8 +102,42 @@
     "GUID": "30eac22a-d561-42d8-8f6c-2f1965182ef8"
   },
   {
+    "AlertId": "93034",
+    "Headline": "#126 Jackson Temporary Reroute at Jackson/Kenton",
+    "ShortDescription": "126 Jackson buses are temporarily rerouted via Jackson, Laramie, Madison, Kostner and Jackson due to street blockage at Jackson/Kenton.",
+    "FullDescription": {
+      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted via Jackson, Laramie, Madison, Kostner and Jackson due to street blockage at Jackson/Kenton.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-02T11:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93034"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson",
+        "ServiceId": "126",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/126/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "22110b56-fc67-41cb-8323-8ebfb479647d"
+  },
+  {
     "AlertId": "93033",
-    "Headline": "No trains between Forest Park and Harlem.",
+    "Headline": "No trains between Harlem (Forest Park branch) and Forest Park",
     "ShortDescription": "Blue Line service has been temporarily suspended between Harlem and Forest Park due to track conditions.",
     "FullDescription": {
       "#cdata-section": "<p>Blue Line service has been temporarily suspended between Harlem&nbsp;<span style=\"font-weight: bolder;\">(Forest Park branch)</span> and Forest Park due to track conditions.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between O&#39;Hare&nbsp;and Harlem&nbsp;(Forest Park branch) at this time.</strong></p>\r\n\r\n<p>Shuttle buses have been requested&nbsp;to provide connecting service through the affected area between Harlem (Forest Park branch) and Forest Park.&nbsp;</p>\r\n\r\n<p>&nbsp;At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
@@ -133,7 +167,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "a9fc2865-3837-4d83-bac3-71f5842df35b"
+    "GUID": "13a71386-68fd-4bb9-9d85-9ce3a844a7c8"
   },
   {
     "AlertId": "93030",
@@ -167,6 +201,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "743e66f9-1f4d-4090-b5e7-05ecfdea1712"
+    "GUID": "35c785b8-2565-4db5-af00-a94e5829dbef"
   }
 ]
