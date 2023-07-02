@@ -1,37 +1,71 @@
 [
   {
-    "AlertId": "93033",
-    "Headline": "Blue Line Delays",
-    "ShortDescription": "Blue Line trains are running w/residual delays following earlier track conditions at Forest Park. Service is resuming, allow extra time.",
+    "AlertId": "93006",
+    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near LSD/47th",
+    "ShortDescription": "NB 6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage, and Pershing due to, street blockage near LSD/47th.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running w/residual delays following earlier track conditions at Forest Park.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.</p>\r\n\r\n<p><br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound&nbsp;#6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage, and Pershing due to, street blockage near LSD/47th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-07-02T15:25:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-01T06:42:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93033"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93006"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "4c277970-3b1a-489b-8de8-5698088c11ca"
+    "GUID": "d817a675-a8ce-4972-a136-138b94930e8d"
+  },
+  {
+    "AlertId": "92985",
+    "Headline": "#12 Roosevelt Temporary Reroute near Roosevelt/Michigan",
+    "ShortDescription": "12 Roosevelt buses temp. rerouted EB: Roosevelt, Michigan, 16th, and Wabash; WB: Wabash and Roosevelt due to, street blockage near Roosevelt/Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p>#12 Roosevelt buses are temporarily rerouted in both directions near Roosevelt/Michigan, due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via Roosevelt, Michigan, 16th, and Wabash.</p>\r\n\r\n<p>Westbound buses will operate via Wabash and Roosevelt.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-30T09:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92985"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Roosevelt",
+        "ServiceId": "12",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/12/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e5c6bb87-f0f6-40fd-a62c-69685e7a7b35"
   },
   {
     "AlertId": "93034",
@@ -338,74 +372,6 @@
     },
     "ttim": "0",
     "GUID": "038dbc8b-7c79-44e7-952b-91f44a0ecdf1"
-  },
-  {
-    "AlertId": "93006",
-    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near LSD/47th",
-    "ShortDescription": "NB 6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage, and Pershing due to, street blockage near LSD/47th.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound&nbsp;#6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage, and Pershing due to, street blockage near LSD/47th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-01T06:42:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93006"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d817a675-a8ce-4972-a136-138b94930e8d"
-  },
-  {
-    "AlertId": "92985",
-    "Headline": "#12 Roosevelt Temporary Reroute near Roosevelt/Michigan",
-    "ShortDescription": "12 Roosevelt buses temp. rerouted EB: Roosevelt, Michigan, 16th, and Wabash; WB: Wabash and Roosevelt due to, street blockage near Roosevelt/Michigan.",
-    "FullDescription": {
-      "#cdata-section": "<p>#12 Roosevelt buses are temporarily rerouted in both directions near Roosevelt/Michigan, due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via Roosevelt, Michigan, 16th, and Wabash.</p>\r\n\r\n<p>Westbound buses will operate via Wabash and Roosevelt.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-30T09:01:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92985"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Roosevelt",
-        "ServiceId": "12",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/12/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e5c6bb87-f0f6-40fd-a62c-69685e7a7b35"
   },
   {
     "AlertId": "93031",
@@ -882,6 +848,40 @@
     },
     "ttim": "0",
     "GUID": "d17e07d8-cb4a-4caa-8b5c-d69e2208d25e"
+  },
+  {
+    "AlertId": "93033",
+    "Headline": "No Trains Between UIC Halsted and Kedzie",
+    "ShortDescription": "Blue Line service has been temporarily suspended between UIC Halsted and Kedzie due to track conditions.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue&nbsp;Line service has been temporarily suspended between UIC Halsted&nbsp;&nbsp;and Kedzie due to track conditions.</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li><strong>between Forest Park&nbsp;and Kedzie</strong>, and,</li>\r\n\t<li><strong>between O&#39;Hare and UIC Halsted</strong>, only.</li>\r\n</ul>\r\n\r\n<p>Shuttle buses are available to provide connecting service through the affected area. &nbsp;Shuttle buses are available between UIC Halsted and Kedzie to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.<br />\r\n&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2023-07-02T15:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93033"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5c82e0d0-b61c-40ae-95b0-dc59a847f744"
   },
   {
     "AlertId": "93030",
