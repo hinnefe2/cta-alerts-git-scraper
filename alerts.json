@@ -444,7 +444,7 @@
   {
     "AlertId": "93045",
     "Headline": "#35 31st/35th Temporary Westbound Reroute near Cicero/24th Place",
-    "ShortDescription": "Westbound 35 31st/35th buses will turn at 31st/Komensky and proceed Eastbound due to, street blockage near Cicero/24th place.",
+    "ShortDescription": "Westbound 35 31st/35th buses are turning at 31st/Komensky and proceeding Eastbound due to, street blockage near Cicero/24th place.",
     "FullDescription": {
       "#cdata-section": "<p>Westbound #35 31st/35th buses are turning at 31st/Komensky and&nbsp;proceeding Eastbound, due to street blockage near Cicero/24th place.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
@@ -473,7 +473,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "9029a724-3780-4c18-b9ea-372d9acaca8b"
+    "GUID": "adfa6abd-c25a-4339-8f65-f54bef63ba54"
   },
   {
     "AlertId": "93046",
@@ -712,6 +712,40 @@
     },
     "ttim": "0",
     "GUID": "ac081f87-3ed5-4298-bff3-9817fd6622be"
+  },
+  {
+    "AlertId": "93053",
+    "Headline": "#94 California Temporary Reroute at Sacramento/Carrol",
+    "ShortDescription": "94 California buses are temporarily rerouted via California, Chicago, Kedzie and Fulton: due to, street blockage near Sacramento/Carrol.",
+    "FullDescription": {
+      "#cdata-section": "<p>#94 California buses are temporarily rerouted via California, Chicago, Kedzie and Fulton: due to, street blockage near Sacramento/Carrol.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-02T14:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93053"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ab3484c7-b16f-4ce1-bf69-9d622322f45c"
   },
   {
     "AlertId": "93043",
