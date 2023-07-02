@@ -374,6 +374,40 @@
     "GUID": "c0192688-6719-4121-8661-9373a8b2444d"
   },
   {
+    "AlertId": "93031",
+    "Headline": "#18 16th-18th Temporary Reroute at 16th/Kilbourn ",
+    "ShortDescription": "18 16th-18th buses are temporarily rerouted via 18th, Kostner, Cermak, Cicero and 16th due to, street blockage near 16th/Kilbourn.",
+    "FullDescription": {
+      "#cdata-section": "<p>#18 16th-18th buses are temporarily rerouted via 18th, Kostner, Cermak, Cicero and 16th due to, street blockage near 16th/Kilbourn.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-02T10:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93031"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "16th-18th",
+        "ServiceId": "18",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/18/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "30eac22a-d561-42d8-8f6c-2f1965182ef8"
+  },
+  {
     "AlertId": "93044",
     "Headline": "#82 Kimball-Homan Temporary Southbound Reroute near Kedzie/21st",
     "ShortDescription": "SB 82 Kimball-Homan buses are temp. rerouted via Homan, Arlington, Central Park, Roosevelt and Homan due to street blockage near Kedzie/21st.",
@@ -476,38 +510,38 @@
     "GUID": "05280af2-9b3a-4af5-b725-a436050a34ab"
   },
   {
-    "AlertId": "93031",
-    "Headline": "#18 16th-18th Temporary Reroute at 16th/Kilbourn ",
-    "ShortDescription": "18 16th-18th buses are temporarily rerouted via 18th, Kostner, Cermak, Cicero and 16th due to, street blockage near 16th/Kilbourn.",
+    "AlertId": "93047",
+    "Headline": "Update: #54 Cicero Temporary Reroute near Cicero/North",
+    "ShortDescription": "Update: 54 Cicero buses are temporarily rerouted via Cicero, North, Central, Grand, Armitage, and Cicero due to street blockage near Cicero/North.",
     "FullDescription": {
-      "#cdata-section": "<p>#18 16th-18th buses are temporarily rerouted via 18th, Kostner, Cermak, Cicero and 16th due to, street blockage near 16th/Kilbourn.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Update: #54 Cicero buses are temporarily rerouted in both directions via Cicero, North, Central, Grand, Armitage, and Cicero due to street blockage near Cicero/North.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-02T10:58:00",
+    "EventStart": "2023-07-02T12:22:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93031"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93047"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "16th-18th",
-        "ServiceId": "18",
+        "ServiceName": "Cicero",
+        "ServiceId": "54",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/18/"
+          "#cdata-section": "http://www.transitchicago.com/bus/54/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "30eac22a-d561-42d8-8f6c-2f1965182ef8"
+    "GUID": "ca6ba3f7-be39-4fd2-a1c4-a9a19518a92d"
   },
   {
     "AlertId": "93043",
@@ -544,40 +578,6 @@
     "GUID": "d17e07d8-cb4a-4caa-8b5c-d69e2208d25e"
   },
   {
-    "AlertId": "93033",
-    "Headline": "No trains between Harlem (Forest Park branch) and Forest Park",
-    "ShortDescription": "Blue Line service has been temporarily suspended between Harlem and Forest Park due to track conditions.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line service has been temporarily suspended between Harlem&nbsp;<span style=\"font-weight: bolder;\">(Forest Park branch)</span> and Forest Park due to track conditions.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between O&#39;Hare&nbsp;and Harlem&nbsp;(Forest Park branch) at this time.</strong></p>\r\n\r\n<p>Shuttle buses are available&nbsp;to provide connecting service through the affected area between Harlem (Forest Park branch) and Forest Park.&nbsp;</p>\r\n\r\n<p>&nbsp;At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2023-07-02T11:10:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93033"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "05054acd-169f-49c9-9cce-053084302a3e"
-  },
-  {
     "AlertId": "93030",
     "Headline": "No trains between 54th/Cermak and Pulaski",
     "ShortDescription": "Pink Line service has been temporarily suspended between Pulaski and 54th/Cermak due to track conditions.",
@@ -610,5 +610,39 @@
     },
     "ttim": "0",
     "GUID": "9f2b209b-644f-4c65-b09c-2f9b9b6dedfc"
+  },
+  {
+    "AlertId": "93033",
+    "Headline": "No trains between UIC Halsted and Forest Park",
+    "ShortDescription": "Blue Line service has been temporarily suspended between UIC Halsted and Forest Park due to track conditions.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line service has been temporarily suspended between UIC Halsted&nbsp;and Forest Park due to track conditions.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between O&#39;Hare&nbsp;and UIC Halsted&nbsp;at this time.</strong></p>\r\n\r\n<p>Shuttle buses have been requested to provide connecting service through the affected area between UIC Halsted&nbsp;and Forest Park.&nbsp;</p>\r\n\r\n<p>&nbsp;At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2023-07-02T11:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93033"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "87631ac0-dc19-4f8b-abc1-8be94d5edd59"
   }
 ]
