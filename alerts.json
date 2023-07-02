@@ -102,6 +102,40 @@
     "GUID": "30eac22a-d561-42d8-8f6c-2f1965182ef8"
   },
   {
+    "AlertId": "93033",
+    "Headline": "No trains between Forest Park and Harlem.",
+    "ShortDescription": "Blue Line service has been temporarily suspended between Harlem and Forest Park due to track conditions.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line service has been temporarily suspended between Harlem&nbsp;<span style=\"font-weight: bolder;\">(Forest Park branch)</span> and Forest Park due to track conditions.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between O&#39;Hare&nbsp;and Harlem&nbsp;(Forest Park branch) at this time.</strong></p>\r\n\r\n<p>Shuttle buses have been requested&nbsp;to provide connecting service through the affected area between Harlem (Forest Park branch) and Forest Park.&nbsp;</p>\r\n\r\n<p>&nbsp;At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2023-07-02T11:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93033"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a9fc2865-3837-4d83-bac3-71f5842df35b"
+  },
+  {
     "AlertId": "93030",
     "Headline": "No trains between 54th/Cermak and Pulaski",
     "ShortDescription": "Pink Line service has been temporarily suspended between Pulaski and 54th/Cermak due to track conditions.",
