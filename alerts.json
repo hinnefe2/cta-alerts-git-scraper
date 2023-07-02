@@ -1,71 +1,37 @@
 [
   {
-    "AlertId": "93006",
-    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near LSD/47th",
-    "ShortDescription": "NB 6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage, and Pershing due to, street blockage near LSD/47th.",
+    "AlertId": "93027",
+    "Headline": "Linden-bound Purple Line Delays",
+    "ShortDescription": "Linden-bound Purple Line trains are running w/residual delays following earlier debris on the tracks at Foster. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound&nbsp;#6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage, and Pershing due to, street blockage near LSD/47th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Linden-bound Purple Line trains are running w/residual delays following earlier debris on the tracks at Foster.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-01T06:42:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-07-02T06:42:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93006"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93027"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
-        "ServiceBackColor": "059",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "d817a675-a8ce-4972-a136-138b94930e8d"
-  },
-  {
-    "AlertId": "93008",
-    "Headline": "#35 31st/35th Temporary Reroute at Rhodes/31st",
-    "ShortDescription": "35 31st/35th buses are temporarily rerouted via Rhodes, 33rd, King Drive, and 31st due to, street blockage at Rhodes/31st.",
-    "FullDescription": {
-      "#cdata-section": "<p>#35 31st/35th buses are temporarily rerouted in both directions via Rhodes, 33rd, King Drive, and 31st due to, street blockage at Rhodes/31st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-01T11:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93008"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "31st/35th",
-        "ServiceId": "35",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/35/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f44d8e2c-61e1-4e31-9871-97e559d2427d"
+    "GUID": "d4d02828-38d1-4edc-8bd2-5217327b2959"
   },
   {
     "AlertId": "92985",
@@ -134,5 +100,73 @@
     },
     "ttim": "0",
     "GUID": "b7ad04dc-bd1b-45e4-91f7-ddd1e6523c27"
+  },
+  {
+    "AlertId": "93006",
+    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near LSD/47th",
+    "ShortDescription": "NB 6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage, and Pershing due to, street blockage near LSD/47th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound&nbsp;#6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage, and Pershing due to, street blockage near LSD/47th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-01T06:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93006"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d817a675-a8ce-4972-a136-138b94930e8d"
+  },
+  {
+    "AlertId": "93008",
+    "Headline": "#35 31st/35th Temporary Reroute at Rhodes/31st",
+    "ShortDescription": "35 31st/35th buses are temporarily rerouted via Rhodes, 33rd, King Drive, and 31st due to, street blockage at Rhodes/31st.",
+    "FullDescription": {
+      "#cdata-section": "<p>#35 31st/35th buses are temporarily rerouted in both directions via Rhodes, 33rd, King Drive, and 31st due to, street blockage at Rhodes/31st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-01T11:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93008"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "31st/35th",
+        "ServiceId": "35",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/35/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f44d8e2c-61e1-4e31-9871-97e559d2427d"
   }
 ]
