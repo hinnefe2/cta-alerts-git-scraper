@@ -1,86 +1,5 @@
 [
   {
-    "AlertId": "93024",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following an earlier sick customer at Harlem (O'Hare Branch. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/residual delays following an earlier sick customer at Harlem (O&#39;Hare Branch. Service is resuming, allow extra time.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-07-02T01:13:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93024"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Harlem (O'Hare Branch)",
-          "ServiceId": "40750",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=69"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "1e00a3f3-9df0-45f0-8620-639fecda5e59"
-  },
-  {
-    "AlertId": "92985",
-    "Headline": "#12 Roosevelt Temporary Reroute near Roosevelt/Michigan",
-    "ShortDescription": "12 Roosevelt buses temp. rerouted EB: Roosevelt, Michigan, 16th, and Wabash; WB: Wabash and Roosevelt due to, street blockage near Roosevelt/Michigan.",
-    "FullDescription": {
-      "#cdata-section": "<p>#12 Roosevelt buses are temporarily rerouted in both directions near Roosevelt/Michigan, due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via Roosevelt, Michigan, 16th, and Wabash.</p>\r\n\r\n<p>Westbound buses will operate via Wabash and Roosevelt.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-30T09:01:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92985"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Roosevelt",
-        "ServiceId": "12",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/12/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e5c6bb87-f0f6-40fd-a62c-69685e7a7b35"
-  },
-  {
     "AlertId": "93006",
     "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near LSD/47th",
     "ShortDescription": "NB 6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage, and Pershing due to, street blockage near LSD/47th.",
@@ -147,5 +66,73 @@
     },
     "ttim": "0",
     "GUID": "f44d8e2c-61e1-4e31-9871-97e559d2427d"
+  },
+  {
+    "AlertId": "92985",
+    "Headline": "#12 Roosevelt Temporary Reroute near Roosevelt/Michigan",
+    "ShortDescription": "12 Roosevelt buses temp. rerouted EB: Roosevelt, Michigan, 16th, and Wabash; WB: Wabash and Roosevelt due to, street blockage near Roosevelt/Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p>#12 Roosevelt buses are temporarily rerouted in both directions near Roosevelt/Michigan, due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via Roosevelt, Michigan, 16th, and Wabash.</p>\r\n\r\n<p>Westbound buses will operate via Wabash and Roosevelt.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-30T09:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92985"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Roosevelt",
+        "ServiceId": "12",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/12/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e5c6bb87-f0f6-40fd-a62c-69685e7a7b35"
+  },
+  {
+    "AlertId": "93025",
+    "Headline": "#4 Cottage Grove Temporary Reroute at Michigan/Cermak",
+    "ShortDescription": "4 Cottage Grove buses are temporarily rerouted via Michigan, Cermak, King Dr., 26th and Michigan due to street blockage near Michigan/Cermak.",
+    "FullDescription": {
+      "#cdata-section": "<p>#4 Cottage Grove buses are temporarily rerouted via Michigan, Cermak, King Dr., 26th and Michigan due to street blockage near Michigan/Cermak.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-02T01:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93025"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cottage Grove",
+        "ServiceId": "4",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/4/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b7ad04dc-bd1b-45e4-91f7-ddd1e6523c27"
   }
 ]
