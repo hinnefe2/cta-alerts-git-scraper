@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "92985",
+    "Headline": "#12 Roosevelt Temporary Reroute near Roosevelt/Michigan",
+    "ShortDescription": "12 Roosevelt buses temp. rerouted EB: Roosevelt, Michigan, 16th, and Wabash; WB: Wabash and Roosevelt due to, street blockage near Roosevelt/Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p>#12 Roosevelt buses are temporarily rerouted in both directions near Roosevelt/Michigan, due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via Roosevelt, Michigan, 16th, and Wabash.</p>\r\n\r\n<p>Westbound buses will operate via Wabash and Roosevelt.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-06-30T09:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92985"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Roosevelt",
+        "ServiceId": "12",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/12/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e5c6bb87-f0f6-40fd-a62c-69685e7a7b35"
+  },
+  {
     "AlertId": "93006",
     "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near LSD/47th",
     "ShortDescription": "NB 6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage, and Pershing due to, street blockage near LSD/47th.",
@@ -34,38 +68,72 @@
     "GUID": "d817a675-a8ce-4972-a136-138b94930e8d"
   },
   {
-    "AlertId": "92985",
-    "Headline": "#12 Roosevelt Temporary Reroute near Roosevelt/Michigan",
-    "ShortDescription": "12 Roosevelt buses temp. rerouted EB: Roosevelt, Michigan, 16th, and Wabash; WB: Wabash and Roosevelt due to, street blockage near Roosevelt/Michigan.",
+    "AlertId": "93030",
+    "Headline": "No trains between 54th/Cermak and Pulaski",
+    "ShortDescription": "Pink Line service has been temporarily suspended between Pulaski and 54th/Cermak due to track conditions.",
     "FullDescription": {
-      "#cdata-section": "<p>#12 Roosevelt buses are temporarily rerouted in both directions near Roosevelt/Michigan, due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via Roosevelt, Michigan, 16th, and Wabash.</p>\r\n\r\n<p>Westbound buses will operate via Wabash and Roosevelt.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Pink Line&nbsp;service has been temporarily suspended between Pulaski&nbsp;and 54th/Cermak due to track conditions.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between the Loop&nbsp;and Pulaski&nbsp;at this time.</strong></p>\r\n\r\n<p>Shuttle buses are in place to provide connecting service through the affected area Central Park to 54th/Cermak.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2023-07-02T10:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93030"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3149b6fa-4786-47ad-a9cf-aa7d4a3aaf88"
+  },
+  {
+    "AlertId": "93031",
+    "Headline": "#18 16th-18th Temporary Reroute at 16th/Kilbourn ",
+    "ShortDescription": "18 16th-18th buses are temporarily rerouted via 18th, Kostner, Cermak, Cicero and 16th due to, street blockage near 16th/Kilbourn.",
+    "FullDescription": {
+      "#cdata-section": "<p>#18 16th-18th buses are temporarily rerouted via 18th, Kostner, Cermak, Cicero and 16th due to, street blockage near 16th/Kilbourn.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-06-30T09:01:00",
+    "EventStart": "2023-07-02T10:58:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=92985"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93031"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Roosevelt",
-        "ServiceId": "12",
+        "ServiceName": "16th-18th",
+        "ServiceId": "18",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/12/"
+          "#cdata-section": "http://www.transitchicago.com/bus/18/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "e5c6bb87-f0f6-40fd-a62c-69685e7a7b35"
+    "GUID": "30eac22a-d561-42d8-8f6c-2f1965182ef8"
   },
   {
     "AlertId": "93034",
@@ -272,72 +340,38 @@
     "GUID": "a0cd3c3e-a39a-4591-a4ba-fb34683e808d"
   },
   {
-    "AlertId": "93031",
-    "Headline": "#18 16th-18th Temporary Reroute at 16th/Kilbourn ",
-    "ShortDescription": "18 16th-18th buses are temporarily rerouted via 18th, Kostner, Cermak, Cicero and 16th due to, street blockage near 16th/Kilbourn.",
+    "AlertId": "93043",
+    "Headline": "Weather-related impacts on bus service",
+    "ShortDescription": "Heavy rain is affecting many roadways in the region; allow extra travel time and expect that some buses may need to be rerouted due to flooding in low areas.",
     "FullDescription": {
-      "#cdata-section": "<p>#18 16th-18th buses are temporarily rerouted via 18th, Kostner, Cermak, Cicero and 16th due to, street blockage near 16th/Kilbourn.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Heavy rain and effects from it is affecting roadways in many areas including causing localized flooding in spots throughout the region.</p>\r\n\r\n<p>Please allow extra travel time and expect that some buses may need to be rerouted if streets become flooded, especially in low-lying areas such as where streets pass under road and railway viaducts.</p>\r\n\r\n<p>Alerts will be updated as information becomes available on any specific reroutes.</p>\r\n"
     },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-02T10:58:00",
+    "SeverityScore": "59",
+    "SeverityColor": "06c",
+    "SeverityCSS": "special-note",
+    "Impact": "Special Note",
+    "EventStart": "2023-07-02T10:00:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93031"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93043"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "16th-18th",
-        "ServiceId": "18",
-        "ServiceBackColor": "059",
+        "ServiceType": "X",
+        "ServiceTypeDescription": "Systemwide",
+        "ServiceName": "All Bus Routes",
+        "ServiceId": "Bus",
+        "ServiceBackColor": "000000",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/18/"
+          "#cdata-section": "http://www.transitchicago.com/travel_information/bus_status.aspx"
         }
       }
     },
     "ttim": "0",
-    "GUID": "30eac22a-d561-42d8-8f6c-2f1965182ef8"
-  },
-  {
-    "AlertId": "93059",
-    "Headline": "#44 Wallace/Racine Temporary Reroute at 51st/Shields",
-    "ShortDescription": "44 Wallace/Racine buses are temporarily rerouted via 47th, Princeton, 43rd, Halsted and 51st: due to, street blockage near 51st/Shields.",
-    "FullDescription": {
-      "#cdata-section": "<p>#44 Wallace/Racine buses are temporarily rerouted via 47th, Princeton, 43rd, Halsted&nbsp;and 51st: due to, street blockage near 51st/Shields.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-02T18:10:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93059"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "51st",
-        "ServiceId": "51",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/51/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b0f9532a-7d42-41e4-a5ec-d5ad2dacd18f"
+    "GUID": "d17e07d8-cb4a-4caa-8b5c-d69e2208d25e"
   },
   {
     "AlertId": "93044",
@@ -680,71 +714,173 @@
     "GUID": "51ecde67-23f6-4832-9414-64b95728ac95"
   },
   {
-    "AlertId": "93043",
-    "Headline": "Weather-related impacts on bus service",
-    "ShortDescription": "Heavy rain is affecting many roadways in the region; allow extra travel time and expect that some buses may need to be rerouted due to flooding in low areas.",
+    "AlertId": "93059",
+    "Headline": "#44 Wallace/Racine Temporary Reroute at 51st/Shields",
+    "ShortDescription": "44 Wallace/Racine buses are temporarily rerouted via 47th, Princeton, 43rd, Halsted and 51st: due to, street blockage near 51st/Shields.",
     "FullDescription": {
-      "#cdata-section": "<p>Heavy rain and effects from it is affecting roadways in many areas including causing localized flooding in spots throughout the region.</p>\r\n\r\n<p>Please allow extra travel time and expect that some buses may need to be rerouted if streets become flooded, especially in low-lying areas such as where streets pass under road and railway viaducts.</p>\r\n\r\n<p>Alerts will be updated as information becomes available on any specific reroutes.</p>\r\n"
+      "#cdata-section": "<p>#44 Wallace/Racine buses are temporarily rerouted via 47th, Princeton, 43rd, Halsted&nbsp;and 51st: due to, street blockage near 51st/Shields.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "59",
-    "SeverityColor": "06c",
-    "SeverityCSS": "special-note",
-    "Impact": "Special Note",
-    "EventStart": "2023-07-02T10:00:00",
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-02T18:10:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93043"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93059"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "X",
-        "ServiceTypeDescription": "Systemwide",
-        "ServiceName": "All Bus Routes",
-        "ServiceId": "Bus",
-        "ServiceBackColor": "000000",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "51st",
+        "ServiceId": "51",
+        "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/travel_information/bus_status.aspx"
+          "#cdata-section": "http://www.transitchicago.com/bus/51/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "d17e07d8-cb4a-4caa-8b5c-d69e2208d25e"
+    "GUID": "b0f9532a-7d42-41e4-a5ec-d5ad2dacd18f"
   },
   {
-    "AlertId": "93030",
-    "Headline": "No trains between 54th/Cermak and Pulaski",
-    "ShortDescription": "Pink Line service has been temporarily suspended between Pulaski and 54th/Cermak due to track conditions.",
+    "AlertId": "93063",
+    "Headline": "#21 Cermak Temporary Reroute at Cermak/Kenton",
+    "ShortDescription": "21 Cermak buses are temporarily rerouted via Cermak, Pulaski, 26th, Ogden, Cicero and Cermak due to, street blockage near Cermak/Kenton.",
     "FullDescription": {
-      "#cdata-section": "<p>Pink Line&nbsp;service has been temporarily suspended between Pulaski&nbsp;and 54th/Cermak due to track conditions.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between the Loop&nbsp;and Pulaski&nbsp;at this time.</strong></p>\r\n\r\n<p>Shuttle buses are in place to provide connecting service through the affected area Central Park to 54th/Cermak.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#21 Cermak&nbsp;buses are temporarily rerouted in both directions via Cermak, Pulaski, 26th, Ogden, Cicero and Cermak due to, street blockage near Cermak/Kenton.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2023-07-02T10:28:00",
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-02T22:03:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93030"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93063"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cermak",
+        "ServiceId": "21",
+        "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/21/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "3149b6fa-4786-47ad-a9cf-aa7d4a3aaf88"
+    "GUID": "0804a6c8-e95b-473a-a8c5-e83de4ca0a7e"
+  },
+  {
+    "AlertId": "93064",
+    "Headline": "#75 74th-75th Temporary Reroute at 75th/South Chicago",
+    "ShortDescription": "75 74th-75th buses are temporarily rerouted via 75th, Cottage Grove, 83rd, Stony Island and 75th due to, street blockage near 75th/South Chicago.",
+    "FullDescription": {
+      "#cdata-section": "<p>#75 74th-75th buses are temporarily rerouted in both directions via &nbsp;75th, Cottage Grove, 83rd, Stony Island and 75th due to, street blockage near 75th/South Chicago.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-02T22:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93064"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "74th-75th",
+        "ServiceId": "75",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/75/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7fc4b776-7b41-4d91-8ea0-8dcb857f504e"
+  },
+  {
+    "AlertId": "93065",
+    "Headline": "#4 Cottage Grove Temporary Northbound Reroute near 75th/South Chicago",
+    "ShortDescription": "NB 4 Cottage Grove buses are temporarily rerouted via 75th, Greenwood, South Chicago and Cottage Grove due to, street blockage near 75th/South Chicago.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #4 Cottage Grove buses are temporarily rerouted via&nbsp;75th, Greenwood, South Chicago and Cottage Grove due to, street blockage near 75th/South Chicago.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-02T22:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93065"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cottage Grove",
+        "ServiceId": "4",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/4/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5a7bcd90-d98a-47d3-b5c6-5f96ea09dd9b"
+  },
+  {
+    "AlertId": "93066",
+    "Headline": "#87 87th Temporary Reroute at 87th/Dobson",
+    "ShortDescription": "87 87th buses are temporarily rerouted via 87th, Stony Island, 95th, Cottage Grove and 87th due to, street blockage near 87th/Dobson.",
+    "FullDescription": {
+      "#cdata-section": "<p>#87 87th buses are temporarily rerouted in both directions via 87th, Stony Island, 95th, Cottage Grove and 87th due to, street blockage near 87th/Dobson.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-02T22:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93066"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "87th",
+        "ServiceId": "87",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/87/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "90f02d5f-044e-47a6-b741-913c5ce97aed"
   }
 ]
