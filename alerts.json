@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "93048",
-    "Headline": "#79 79th Temporary Reroute at 79th/Woodlawn",
-    "ShortDescription": "79 79th buses are temporarily rerouted via 79th, Cottage Grove, 83rd, Stony Island and 79th due to, street blockage near 79th/Woodlawn.",
-    "FullDescription": {
-      "#cdata-section": "<p>#79 79th&nbsp;buses are temporarily rerouted in both directions via 79th, Cottage Grove, 83rd, Stony Island and 79th, due to street blockage near 79th/Woodlawn.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-02T12:31:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93048"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "79th",
-        "ServiceId": "79",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/79/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a2ed5493-51b3-4b73-b913-1cf617f89338"
-  },
-  {
     "AlertId": "93050",
     "Headline": "#55 Garfield Temporary Reroute at 55th/Normal",
     "ShortDescription": "55 Garfield buses are temporarily rerouted via 55th, Union, 59th, Princeton and 55th due to, street blockage near 55th/Normal.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "13491190-dee9-44f5-afd4-272213707df0"
+  },
+  {
+    "AlertId": "93083",
+    "Headline": "#59 59th/61st Temporary Reroute at 59th/Karlov",
+    "ShortDescription": "59 59th/61st buses are temporarily rerouted via 59th, Pulaski, 55th and Cicero: due to, street blockage near 59th/Karlov.",
+    "FullDescription": {
+      "#cdata-section": "<p>#59 59th/61st buses are temporarily rerouted via 59th, Pulaski, 55th and Cicero: due to, street blockage near 59th/Karlov.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-03T20:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93083"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "59th/61st",
+        "ServiceId": "59",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/59/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "548ec7e4-f135-430f-9f07-f4fb377aa817"
   }
 ]
