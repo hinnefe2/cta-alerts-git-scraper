@@ -1,86 +1,5 @@
 [
   {
-    "AlertId": "93131",
-    "Headline": "Howard-bound Red Line Line Delays",
-    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays following earlier police activity at 79th. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are running w/residual delays following earlier police activity at 79th. Service is resuming, allow extra time.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-07-06T02:24:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93131"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "79th",
-          "ServiceId": "40240",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=11"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "1e2ad748-6186-4b37-aae2-ec4e3e0fdafb"
-  },
-  {
-    "AlertId": "93126",
-    "Headline": "#9 Ashland Temporary Reroute at Ashland/Cortland",
-    "ShortDescription": "9 Ashland buses are temporarily rerouted via Ashland, North Ave and Elston: due to, street blockage near Ashland/Cortland.",
-    "FullDescription": {
-      "#cdata-section": "<p>#9 Ashland buses are temporarily rerouted via Ashland, North Ave and Elston: due to, street blockage near Ashland/Cortland.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-05T20:27:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93126"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Ashland",
-        "ServiceId": "9",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/9/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ed69fc59-c3ec-44bb-b1fc-a6757247d27b"
-  },
-  {
     "AlertId": "93091",
     "Headline": "#J14 Jeffery Jump Temporary Reroute near Michigan/Balbo",
     "ShortDescription": "J14 Jeffery Jump buses temp. rerouted NB: Lake Shore Drive, Roosevelt, State and Madison; SB: Washington, Michigan, Roosevelt and Lake Shore Drive.",
@@ -249,5 +168,39 @@
     },
     "ttim": "0",
     "GUID": "c2df19e6-934f-4eff-b726-6fe7c8cc65cc"
+  },
+  {
+    "AlertId": "93126",
+    "Headline": "#9 Ashland Temporary Reroute at Ashland/Cortland",
+    "ShortDescription": "9 Ashland buses are temporarily rerouted via Ashland, North Ave and Elston: due to, street blockage near Ashland/Cortland.",
+    "FullDescription": {
+      "#cdata-section": "<p>#9 Ashland buses are temporarily rerouted via Ashland, North Ave and Elston: due to, street blockage near Ashland/Cortland.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-05T20:27:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93126"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Ashland",
+        "ServiceId": "9",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/9/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ed69fc59-c3ec-44bb-b1fc-a6757247d27b"
   }
 ]
