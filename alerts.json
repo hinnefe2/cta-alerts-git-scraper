@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "93158",
-    "Headline": "#36 Broadway Temporary Reroute near Broadway/Belmont",
-    "ShortDescription": "36 Broadway  buses are temporarily rerouted via Broadway, Belmont, Halsted, and Clark due to, street blockage near Broadway/Belmont.",
-    "FullDescription": {
-      "#cdata-section": "<p>#36 Broadway&nbsp; buses are temporarily rerouted in both directions via Broadway, Belmont, Halsted, and Clark due to, street blockage near Broadway/Belmont.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-07T13:08:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93158"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Broadway",
-        "ServiceId": "36",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/36/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ac81d8ed-cd4c-4bdd-94dd-74881439bdc0"
-  },
-  {
     "AlertId": "93150",
     "Headline": "#77 Belmont Temporary Reroute at Belmont/Damen",
     "ShortDescription": "77 Belmont buses are temporarily rerouted via Belmont, Western, Roscoe, Damen, and Belmont due to, street blockage near Belmont/Damen.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "f292e1cd-f745-4b42-9d38-c719a66a3af0"
+  },
+  {
+    "AlertId": "93158",
+    "Headline": "#36 Broadway Temporary Reroute near Broadway/Belmont",
+    "ShortDescription": "36 Broadway  buses are temporarily rerouted via Broadway, Belmont, Halsted, and Clark due to, street blockage near Broadway/Belmont.",
+    "FullDescription": {
+      "#cdata-section": "<p>#36 Broadway&nbsp; buses are temporarily rerouted in both directions via Broadway, Belmont, Halsted, and Clark due to, street blockage near Broadway/Belmont.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-07T13:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93158"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Broadway",
+        "ServiceId": "36",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/36/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ac81d8ed-cd4c-4bdd-94dd-74881439bdc0"
   }
 ]
