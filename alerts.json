@@ -1,5 +1,73 @@
 [
   {
+    "AlertId": "93155",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays at Forest Park. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/residual delays at Forest Park.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-07-07T09:45:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93155"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "21585efe-d353-4927-959d-b18f4d433b76"
+  },
+  {
+    "AlertId": "93150",
+    "Headline": "#77 Belmont Temporary Reroute at Belmont/Damen",
+    "ShortDescription": "77 Belmont buses are temporarily rerouted via Belmont, Western, Roscoe, Damen, and Belmont due to, street blockage near Belmont/Damen.",
+    "FullDescription": {
+      "#cdata-section": "<p>#77 Belmont buses are temporarily rerouted in both directions via Belmont, Western, Roscoe, Damen, and Belmont due to, street blockage near Belmont/Damen.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-07T05:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93150"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Belmont",
+        "ServiceId": "77",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/77/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f292e1cd-f745-4b42-9d38-c719a66a3af0"
+  },
+  {
     "AlertId": "93091",
     "Headline": "#J14 Jeffery Jump Temporary Reroute near Michigan/Balbo",
     "ShortDescription": "J14 Jeffery Jump buses temp. rerouted NB: Lake Shore Drive, Roosevelt, State and Madison; SB: Washington, Michigan, Roosevelt and Lake Shore Drive.",
@@ -100,39 +168,5 @@
     },
     "ttim": "0",
     "GUID": "ebbb2cf4-b896-4cfd-b167-499f2dea3e9b"
-  },
-  {
-    "AlertId": "93150",
-    "Headline": "#77 Belmont Temporary Reroute at Belmont/Damen",
-    "ShortDescription": "77 Belmont buses are temporarily rerouted via Belmont, Western, Roscoe, Damen, and Belmont due to, street blockage near Belmont/Damen.",
-    "FullDescription": {
-      "#cdata-section": "<p>#77 Belmont buses are temporarily rerouted in both directions via Belmont, Western, Roscoe, Damen, and Belmont due to, street blockage near Belmont/Damen.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-07T05:40:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93150"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Belmont",
-        "ServiceId": "77",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/77/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f292e1cd-f745-4b42-9d38-c719a66a3af0"
   }
 ]
