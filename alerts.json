@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "0152712c-3445-4017-b3af-65a20bb03331"
+  },
+  {
+    "AlertId": "93206",
+    "Headline": "Howard-bound Red Line trains bypassing North/Clybourn",
+    "ShortDescription": "Howard-bound Red Line trains are running, but not stopping at North/Clybourn due to a sick customer.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are running, but not stopping at North/Clybourn due to a sick customer.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2023-07-10T12:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93206"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "bc18e310-3f1f-4c74-ab46-467dc8702828"
   }
 ]
