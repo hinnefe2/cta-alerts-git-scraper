@@ -66,5 +66,73 @@
     },
     "ttim": "0",
     "GUID": "5bab41cb-bc63-465f-ab93-f1b0c8f5f5e8"
+  },
+  {
+    "AlertId": "93204",
+    "Headline": "#86 Narragansett/Ridgeland Temporary Reroute at Ridgeland/Thomas",
+    "ShortDescription": "86 Narragansett/Ridgeland buses are temp. rerouted via Ridgeland, Chicago, Austin, North Avenue, and Narragansett due to street blockage at Ridgeland/Thomas.",
+    "FullDescription": {
+      "#cdata-section": "<p>#86 Narragansett/Ridgeland buses are temporarily rerouted in both directions via Ridgeland, Chicago, Austin, North Avenue, and Narragansett due to, street blockage at Ridgeland/Thomas.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-10T11:27:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93204"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Narragansett/Ridgeland",
+        "ServiceId": "86",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/86/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0152712c-3445-4017-b3af-65a20bb03331"
+  },
+  {
+    "AlertId": "93205",
+    "Headline": "95th-bound Red Line Service Delayed at Loyola",
+    "ShortDescription": "95th-bound Red Line trains are standing at Loyola due to an injured customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are standing at Loyola due to an injured customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-07-10T11:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93205"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6a73a3f9-d08e-4aa6-9138-cb0474ac1688"
   }
 ]
