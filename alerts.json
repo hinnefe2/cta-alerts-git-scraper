@@ -1,36 +1,70 @@
 [
   {
-    "AlertId": "93212",
-    "Headline": "#155 Devon Temporary Reroute at Devon/Talman",
-    "ShortDescription": "155 Devon buses are temporarily rerouted via Devon, California, Pratt and Western: due to,street blockage near Devon/Talman.",
+    "AlertId": "93213",
+    "Headline": "#73 Armitage Temporary Reroute at Armitage/Leclaire",
+    "ShortDescription": "73 Armitage buses are temporarily rerouted via Armitage, Cicero, North Ave, Laramie and Grand: due to, street blockage near Armitage/Leclaire.",
     "FullDescription": {
-      "#cdata-section": "<p>#155&nbsp;Devon buses are temporarily rerouted via Devon, California, Pratt and Western: due to,street blockage near Devon/Talman.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#73 Armitage buses are temporarily rerouted via Armitage, Cicero, North Ave, Laramie and Grand: due to, street blockage near Armitage/Leclaire.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-10T17:00:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventStart": "2023-07-10T20:44:00",
+    "EventEnd": "2023-07-13T20:44:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93212"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93213"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Devon",
-        "ServiceId": "155",
+        "ServiceName": "Armitage",
+        "ServiceId": "73",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/155/"
+          "#cdata-section": "http://www.transitchicago.com/bus/73/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "b899932e-f756-475a-b4aa-c1ea41079103"
+    "GUID": "dae1c2d6-ec35-400c-b90a-271c3b230a9e"
+  },
+  {
+    "AlertId": "93214",
+    "Headline": "#65 Grand Temporary Reroute at Armitage/Leclaire",
+    "ShortDescription": "65 Grand buses are temporarily rerouted via Grand, Cicero, North Ave and Laramie: due to, street blockage near Armitage/Leclaire.",
+    "FullDescription": {
+      "#cdata-section": "<p>#65 Grand buses are temporarily rerouted via Grand, Cicero, North Ave and Laramie: due to, street blockage near Armitage/Leclaire.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-10T20:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93214"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Grand",
+        "ServiceId": "65",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/65/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "dba5163a-3ac0-422b-9baa-b036fc9bd8ae"
   }
 ]
