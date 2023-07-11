@@ -32,5 +32,86 @@
     },
     "ttim": "0",
     "GUID": "a695f68f-4d8a-4a37-b6e3-555255e1fd42"
+  },
+  {
+    "AlertId": "93222",
+    "Headline": "#171 U. of Chicago/Hyde Park, #172 U. of Chicago/Kenwood Temporary Southbound Reroute near 55th/Ellis",
+    "ShortDescription": "SB 171, 172 U. of Chicago Hyde Park/Kenwood buses are temporarily rerouted via Garfield, Cottage Grove, 57th and Ellis due to, street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #171 U. of Chicago/Hyde Park, #172 U. of Chicago/Kenwood&nbsp;buses are temporarily rerouted via Garfield, Cottage Grove, 57th and Ellis due to, street blockage. near 55th/Ellis.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-11T10:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93222"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "U. of Chicago/Hyde Park",
+          "ServiceId": "171",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/171/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "U. of Chicago/Kenwood",
+          "ServiceId": "172",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/172/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "07e2d9be-c333-4ab5-8436-191aa341510a"
+  },
+  {
+    "AlertId": "93223",
+    "Headline": "#50 Damen Temporary Northbound Reroute near Damen/18th",
+    "ShortDescription": "NB 50 Damen buses are temporarily rerouted via Damen, 18th, Ashland, Roosevelt and Damen due to, street blockage near Damen/18th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #50 Damen&nbsp;buses are temporarily rerouted via Damen, 18th, Ashland, Roosevelt and Damen due to, street blockage near Damen/18th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-11T11:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93223"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Damen",
+        "ServiceId": "50",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/50/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "1f71022a-2685-4154-81b2-9f6ea5cb449b"
   }
 ]
