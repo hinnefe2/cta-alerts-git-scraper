@@ -106,7 +106,7 @@
     "Headline": "#79 79th Temporary Reroute near 79th/ King Drive",
     "ShortDescription": "79 79th buses rerouted EB via 79th, State, 76th, Cottage Grove & 79th; WB via 79th, Cottage Grv, 83rd, State & 79th due to street blockage near 79th/ King Drive",
     "FullDescription": {
-      "#cdata-section": "<p>#79 79th buses are temporarily rerouted in both directions in both directions due to street blockage&nbsp;near79th/ King Drive.</p>\r\n\r\n<ul>\r\n\t<li>Eastbound buses will operate&nbsp;via 79th, State, 76th, Cottage Grove &amp; 79th</li>\r\n\t<li>Westbound buses will operate via 79th, Cottage Grove, 83rd, State &amp; 79th.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#79 79th buses are temporarily rerouted in both directions in both directions due to street blockage&nbsp;near 79th/ King Drive.</p>\r\n\r\n<ul>\r\n\t<li>Eastbound buses will operate&nbsp;via 79th, State, 76th, Cottage Grove &amp; 79th</li>\r\n\t<li>Westbound buses will operate via 79th, Cottage Grove, 83rd, State &amp; 79th.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -133,6 +133,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "ca077b20-1b77-4a5f-ab58-a5544e9051be"
+    "GUID": "fe9b5463-237f-46cd-8c89-7879ed04f226"
+  },
+  {
+    "AlertId": "93235",
+    "Headline": "#3 King Drive Temporary Southbound Reroute near 79th/King Drive",
+    "ShortDescription": "Southbound 3 King Drive  buses are temporarily rerouted via King Drive, 76th, Cottage Grove, 83rd and King Drive, due to a street blockage near 79th/King Drive.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southboiund #3 King Drive&nbsp;buses are temporarily rerouted via King Drive, 76th, Cottage Grove, 83rd and King Drive, due to a street blockage near 79th/King Drive.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-12T00:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93235"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "King Drive",
+        "ServiceId": "3",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/3/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7d8ba537-df47-4656-abf1-fb6e9fbe1f30"
   }
 ]
