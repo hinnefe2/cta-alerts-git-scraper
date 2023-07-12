@@ -134,5 +134,52 @@
     },
     "ttim": "0",
     "GUID": "e24ab797-c42a-430b-8fc7-a49ba30fafda"
+  },
+  {
+    "AlertId": "93232",
+    "Headline": "#26 South Shore Express and #71 71st/South Shore Temporary Southbound Reroute near South Shore/79th",
+    "ShortDescription": "26 South Shore Express & 71 71st/South Shore buses are  rerouted via South Shore, 79th, Exchange, 83rd, & Commercial due to street blockage nr South Shore/79th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#26 South Shore Express &amp; #71 71st/South Shore buses are temporarily rerouted via South Shore, 79th, Exchange, 83rd, and&nbsp;Commercial&nbsp;due to street blockage near South Shore/79th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-11T21:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93232"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "71st/South Shore",
+          "ServiceId": "71",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/71/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "2e671b90-c149-407e-919b-28eb5707500e"
   }
 ]
