@@ -34,37 +34,71 @@
     "GUID": "a695f68f-4d8a-4a37-b6e3-555255e1fd42"
   },
   {
-    "AlertId": "93228",
-    "Headline": "#55 Garfield Temporary Reroute at 55th/Lawndale",
-    "ShortDescription": "55 Garfield buses are temporarily rerouted via Garfield, Kedzie, 59th and Pulaski: due to, street blockage near 55th/Lawndale.",
+    "AlertId": "93229",
+    "Headline": "#29 StateTemporary Northbound Reroute near Illinois/Rush",
+    "ShortDescription": "Northbound 29 State buses are temporarily rerouted via State, Ohio, Fairbanks and Illinois: due to,street blockage near Illinois/Rush.",
     "FullDescription": {
-      "#cdata-section": "<p>#55 Garfield buses are temporarily rerouted via Garfield, Kedzie, 59th and Pulaski: due to, street blockage near 55th/Lawndale.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound # 29 State buses are temporarily rerouted via State, Ohio, Fairbanks and Illinois: due to,street blockage near Illinois/Rush.</p>\r\n\r\n<p>Southbound&nbsp; buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-11T16:53:00",
+    "EventStart": "2023-07-11T20:41:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93228"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93229"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Garfield",
-        "ServiceId": "55",
+        "ServiceName": "State",
+        "ServiceId": "29",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/55/"
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "e143b5a9-7345-44a9-92f2-426d7fcd81ed"
+    "GUID": "cc85f65d-3678-459f-a222-6506edd41538"
+  },
+  {
+    "AlertId": "93230",
+    "Headline": "#65 Grand Temporary Eastbound Reroute near Illinois/Rush",
+    "ShortDescription": "Eastbound 65 Grand buses are temporarily rerouted via Illinois, State, Ohio and Fairbanks: due to, street blockage near Illinois/Rush.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #65 Grand buses are temporarily rerouted via Illinois, State, Ohio and Fairbanks: due to, street blockage near Illinois/Rush.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-11T20:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93230"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Grand",
+        "ServiceId": "65",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/65/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8da419fb-90ec-4a21-b3f8-cc298f4c1c71"
   }
 ]
