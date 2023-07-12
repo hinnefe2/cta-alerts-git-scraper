@@ -34,40 +34,6 @@
     "GUID": "fe9b5463-237f-46cd-8c89-7879ed04f226"
   },
   {
-    "AlertId": "93235",
-    "Headline": "#3 King Drive Temporary Southbound Reroute near 79th/King Drive",
-    "ShortDescription": "Southbound 3 King Drive  buses are temporarily rerouted via King Drive, 76th, Cottage Grove, 83rd and King Drive, due to a street blockage near 79th/King Drive.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southboiund #3 King Drive&nbsp;buses are temporarily rerouted via King Drive, 76th, Cottage Grove, 83rd and King Drive, due to a street blockage near 79th/King Drive.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-12T00:46:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93235"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "King Drive",
-        "ServiceId": "3",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/3/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "7d8ba537-df47-4656-abf1-fb6e9fbe1f30"
-  },
-  {
     "AlertId": "93236",
     "Headline": "#78 Montrose Temporary Reroute at Montrose/Western",
     "ShortDescription": "78 Montrose buses are temporarily rerouted via Montrose, Western, Irving Park, California and Montrose due to a street blockage near Montrose/Western.",
@@ -100,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "b8fa426c-e82b-461b-91e6-2032bfc0d4e9"
-  },
-  {
-    "AlertId": "93237",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following earlier police activity near UIC-Halsted. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with residual delays following earlier police activity near UIC-Halsted.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-07-12T05:45:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93237"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "20881bf8-a6cd-4439-8a8f-5d05837b9157"
   }
 ]
