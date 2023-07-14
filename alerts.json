@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "93288",
+    "Headline": "Blue Line Service Delayed at Racine",
+    "ShortDescription": "Blue Line trains are standing at Racine due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue&nbsp;Line trains are&nbsp;standing at Racine&nbsp;due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-07-13T20:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93288"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "222a6331-4af7-4ad8-9569-472bf1459570"
+  },
+  {
+    "AlertId": "93289",
+    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near Randolph/Stetson",
+    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via Michigan, Randolph, Columbus and Wacker due to, street blockage near Randolph/Stetson.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via Michigan, Randolph, Columbus and Wacker due to, street blockage near Randolph/Stetson.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-13T21:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93289"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "63d972dc-2c6c-42d5-87ec-d19338cf337a"
+  }
+]
