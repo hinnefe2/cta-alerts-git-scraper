@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "93331",
-    "Headline": "Delays Affecting Yellow and Purple Line Trains",
-    "ShortDescription": "Yellow and Purple Line trains are running with delays due to signal problems near Howard. Crews working to restore normal service. ",
+    "Headline": "Delays Affecting Red, Yellow and Purple Line Trains",
+    "ShortDescription": "Red, Yellow and Purple Line trains are running with delays due to signal problems near Howard. Crews working to restore normal service. ",
     "FullDescription": {
-      "#cdata-section": "<p>Yellow and Purple Line trains are running with delays due to signal problems near Howard.<br />\r\n<br />\r\nAt this time please consider using other service alternatives that better serve your trip such as nearby bus routes #97 Skokie, #201 Central&nbsp;or buses to other rail lines.&nbsp;</p>\r\n\r\n<p>Crews are working to correct the problem and restore normal travel times through the area.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red, Yellow and Purple Line trains are running with delays due to signal problems near Howard.<br />\r\n<br />\r\nAt this time please consider using other service alternatives that better serve your trip such as nearby bus routes #97 Skokie, #201 Central&nbsp;or buses to other rail lines.&nbsp;</p>\r\n\r\n<p>Crews are working to correct the problem and restore normal travel times through the area.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -53,6 +53,17 @@
     },
     "ImpactedService": {
       "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
@@ -78,6 +89,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "0db990c7-a494-434c-a23d-dd434f1b3a7a"
+    "GUID": "e84d5dc6-2d61-48e6-b7db-a2ccf3f4b13a"
   }
 ]
