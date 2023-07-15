@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "5b05c400-e637-4c43-9e93-8a78d090c6b5"
+  },
+  {
+    "AlertId": "93331",
+    "Headline": "Delays Affecting Yellow and Purple Line Trains",
+    "ShortDescription": "Yellow and Purple Line trains are running with delays due to signal problems near Howard. Crews working to restore normal service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Yellow and Purple Line trains are running with delays due to signal problems near Howard.</p>\r\n\r\n<p>Crews are working to correct the problem and restore normal travel times through the area.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-07-15T14:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93331"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Yellow Line",
+          "ServiceId": "Y",
+          "ServiceBackColor": "f9e300",
+          "ServiceTextColor": "000000",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/yellowline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b6b690a7-9262-48a0-99ca-9fc9f46904ae"
   }
 ]
