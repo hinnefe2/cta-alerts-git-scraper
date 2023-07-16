@@ -238,40 +238,6 @@
     "GUID": "7f8ac81c-64e9-4dda-a2ef-4a5c8b4d416d"
   },
   {
-    "AlertId": "93350",
-    "Headline": "#115 Pullman/115th Temporary Reroute at 115th/Perry",
-    "ShortDescription": "115 Pullman/115th buses are temporarily rerouted via 115th, Michigan, 119th and Halsted due to, street blockage near 115th/Perry.",
-    "FullDescription": {
-      "#cdata-section": "<p>#115 Pullman/115th buses are temporarily rerouted in both directions via 115th, Michigan, 119th and Halsted, due to street blockage near 115th/Perry.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-16T13:20:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93350"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pullman/115th",
-        "ServiceId": "115",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/115/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "5d4fa81f-837e-400e-99f3-fd5ca90a5e44"
-  },
-  {
     "AlertId": "93351",
     "Headline": "#22 Clark Temporary Reroute near Racine/Belmont",
     "ShortDescription": "22 Clark buses temp. rerouted SB: Clark, Racine, Belmont and Clark; NB: Clark, Belmont, Racine and Clark due to street blockage near Racine/Belmont.",
@@ -304,5 +270,39 @@
     },
     "ttim": "0",
     "GUID": "785ba28e-18a3-442f-aefe-54ac900d19ab"
+  },
+  {
+    "AlertId": "93353",
+    "Headline": "#82 Kimball-Homan Temporary Reroute at Kimball/Palmer",
+    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Kimball, Fullerton, Kedzie and Armitage: due to, street blockage near Kimball/Palmer.",
+    "FullDescription": {
+      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted via Kimball, Fullerton, Kedzie and Armitage: due to, street blockage near Kimball/Palmer.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-16T16:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93353"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kimball-Homan",
+        "ServiceId": "82",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/82/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0452062e-aa37-4260-ad3b-73a620ec6520"
   }
 ]
