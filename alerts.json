@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "93385",
+    "Headline": "#9 Ashland and #X9 Ashland ExpressTemporary Reroute at Ashland/54th",
+    "ShortDescription": "9 Ashland and X9 Ashland Express buses are temporarily rerouted via Ashland, 51st, Loomis and 55th: due to, street blockage near Ashland/54th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#9 Ashland and #X9 Ashland Express buses are temporarily rerouted via Ashland, 51st, Loomis and 55th: due to, street blockage near Ashland/54th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-19T14:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93385"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "99cd52e1-3f63-46bf-99ad-af2dc55f16e2"
+  },
+  {
     "AlertId": "93375",
     "Headline": "#20 Madison Temporary Reroute at Madison/Rockwell",
     "ShortDescription": "20 Madison buses are temporarily rerouted via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.",
