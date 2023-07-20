@@ -1,50 +1,16 @@
 [
   {
-    "AlertId": "93375",
-    "Headline": "#20 Madison Temporary Reroute at Madison/Rockwell",
-    "ShortDescription": "20 Madison buses are temporarily rerouted via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.",
+    "AlertId": "93400",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running with delays following an earlier unauthorized person on the tracks at Division. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted in both directions via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with residual&nbsp;delays following an earlier unauthorized person on the tracks at Division.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-18T11:07:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93375"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Madison",
-        "ServiceId": "20",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/20/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f0be3fa7-cdf3-4464-a2e0-4ef388ea873e"
-  },
-  {
-    "AlertId": "93400",
-    "Headline": "O'Hare-bound Blue Line Service Delayed at Division",
-    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Division due to an unauthorized person on the tracks. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Division&nbsp;due to an unauthorized person on the tracks. Crews working to restore service.</p>\r\n\r\n<p>Shuttle buses are available between Belmont and Racine to provide connecting service.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2023-07-19T22:19:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-07-19T23:20:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
@@ -78,6 +44,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "5051e405-5934-427f-a21a-31e522096aeb"
+    "GUID": "36cb0dee-0b3a-4e39-8b0c-dd1df155e043"
+  },
+  {
+    "AlertId": "93375",
+    "Headline": "#20 Madison Temporary Reroute at Madison/Rockwell",
+    "ShortDescription": "20 Madison buses are temporarily rerouted via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.",
+    "FullDescription": {
+      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted in both directions via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-18T11:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93375"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f0be3fa7-cdf3-4464-a2e0-4ef388ea873e"
   }
 ]
