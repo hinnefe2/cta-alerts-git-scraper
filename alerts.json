@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "93414",
+    "Headline": "#26 South Shore Express Temporary Reroute at 106th/Torrence Ave",
+    "ShortDescription": "26 South Shore Express buses are temp rerouted via Torrence, 104th, Muskegon and 106th: due to, st blockage near 106th/Torrence.\r\n\r\nAllow extra travel time.",
+    "FullDescription": {
+      "#cdata-section": "<p>#26 South Shore Express buses are temporarily rerouted via&nbsp;Torrence, 104th, Muskegon and 106th: due to, street blockage near 106th/Torrence.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-20T14:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93414"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Shore Express",
+        "ServiceId": "26",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/26/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0f9cabda-a681-4f65-b469-19298955211d"
+  },
+  {
     "AlertId": "93375",
     "Headline": "#20 Madison Temporary Reroute at Madison/Rockwell",
     "ShortDescription": "20 Madison buses are temporarily rerouted via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.",
