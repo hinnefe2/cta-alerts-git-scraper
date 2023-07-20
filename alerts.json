@@ -1,49 +1,15 @@
 [
   {
-    "AlertId": "93375",
-    "Headline": "#20 Madison Temporary Reroute at Madison/Rockwell",
-    "ShortDescription": "20 Madison buses are temporarily rerouted via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.",
-    "FullDescription": {
-      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted in both directions via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-18T11:07:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93375"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Madison",
-        "ServiceId": "20",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/20/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f0be3fa7-cdf3-4464-a2e0-4ef388ea873e"
-  },
-  {
     "AlertId": "93399",
-    "Headline": "95th-bound Red Line Service Delayed at Belmont",
-    "ShortDescription": "95th-bound Red Line  trains are standing at Belmont due to police activity. Crews working to restore service.",
+    "Headline": "95th-bound Red Line Delays",
+    "ShortDescription": "95th-bound Red Line trains are running w/residual delays following earlier police activity at Belmont. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line&nbsp; trains are standing at Belmont due to police activity. Crews working to restore service.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th-bound Red Line trains are running w/residual delays following earlier police activity at Belmont. Service is resuming, allow extra time.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2023-07-19T21:58:00",
     "EventEnd": null,
     "TBD": "1",
@@ -100,6 +66,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "51e85446-c040-45ea-9f65-753d27b83727"
+    "GUID": "c0239b51-946a-4c6d-974b-3d192da48112"
+  },
+  {
+    "AlertId": "93375",
+    "Headline": "#20 Madison Temporary Reroute at Madison/Rockwell",
+    "ShortDescription": "20 Madison buses are temporarily rerouted via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.",
+    "FullDescription": {
+      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted in both directions via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-18T11:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93375"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f0be3fa7-cdf3-4464-a2e0-4ef388ea873e"
   }
 ]
