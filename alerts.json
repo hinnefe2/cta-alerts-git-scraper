@@ -1,15 +1,49 @@
 [
   {
+    "AlertId": "93375",
+    "Headline": "#20 Madison Temporary Reroute at Madison/Rockwell",
+    "ShortDescription": "20 Madison buses are temporarily rerouted via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.",
+    "FullDescription": {
+      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted in both directions via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-18T11:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93375"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f0be3fa7-cdf3-4464-a2e0-4ef388ea873e"
+  },
+  {
     "AlertId": "93419",
     "Headline": "63rd-bound Green Line Service Delayed at Indiana",
     "ShortDescription": "63rd-bound Green Line trains are standing at Indiana due to fire department activity. Crews working to restore service.",
     "FullDescription": {
       "#cdata-section": "<p>63rd-bound Green Line trains are standing at Indiana due to fire department activity. Crews working to restore service.</p>\r\n\r\n<p>Shuttle buses are being requested between Roosevelt and Garfield to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-07-21T01:22:00",
     "EventEnd": null,
     "TBD": "1",
@@ -44,41 +78,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "d658d9cd-06e9-4bea-9dbc-eaa6d24c0f2e"
-  },
-  {
-    "AlertId": "93375",
-    "Headline": "#20 Madison Temporary Reroute at Madison/Rockwell",
-    "ShortDescription": "20 Madison buses are temporarily rerouted via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.",
-    "FullDescription": {
-      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted in both directions via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-18T11:07:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93375"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Madison",
-        "ServiceId": "20",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/20/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f0be3fa7-cdf3-4464-a2e0-4ef388ea873e"
+    "GUID": "f11c3a97-7003-4928-8e96-f15f6d15c98f"
   },
   {
     "AlertId": "93418",
