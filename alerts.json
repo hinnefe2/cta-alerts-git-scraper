@@ -1,49 +1,15 @@
 [
   {
-    "AlertId": "93375",
-    "Headline": "#20 Madison Temporary Reroute at Madison/Rockwell",
-    "ShortDescription": "20 Madison buses are temporarily rerouted via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.",
+    "AlertId": "93416",
+    "Headline": "Orange Line Delays",
+    "ShortDescription": "Orange Line trains are running w/residual delays following earlier police activity at 35th/Archer. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted in both directions via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Orange Line trains are running w/residual delays following earlier police activity at 35th/Archer. Service is resuming, allow extra time.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-18T11:07:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93375"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Madison",
-        "ServiceId": "20",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/20/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f0be3fa7-cdf3-4464-a2e0-4ef388ea873e"
-  },
-  {
-    "AlertId": "93416",
-    "Headline": "Trains bypassing 35th Archer ",
-    "ShortDescription": "Orange Line trains are running, but not stopping at 35th Archer due to police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>Orange Line trains are running, but not stopping at 35th Archer&nbsp;due to police activity.</p>\r\n\r\n<p>Shuttle buses have been requested between Ashland and Western to provide connecting service. Please also consider using the #62 Archer bus for alternate service.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
-    },
-    "SeverityScore": "58",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
+    "Impact": "Minor Delays",
     "EventStart": "2023-07-20T20:50:00",
     "EventEnd": null,
     "TBD": "1",
@@ -78,6 +44,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "aa30ad6e-012f-44fc-90a6-0456cb27c03b"
+    "GUID": "a4a7a7fb-02c2-4a6b-9099-11038ad2a3e6"
+  },
+  {
+    "AlertId": "93375",
+    "Headline": "#20 Madison Temporary Reroute at Madison/Rockwell",
+    "ShortDescription": "20 Madison buses are temporarily rerouted via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.",
+    "FullDescription": {
+      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted in both directions via Madison, Western, Jackson, California, and Madison due to, street blockage at Madison/Rockwell.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-18T11:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93375"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f0be3fa7-cdf3-4464-a2e0-4ef388ea873e"
   }
 ]
