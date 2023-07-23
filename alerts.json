@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "AlertId": "93461",
+    "Headline": "Red and Purple Line Service Delayed at Howard",
+    "ShortDescription": "Red and Purple Line trains are standing at Howard due to a police investigation. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red and Purple Line trains are standing at Howard due to a police investigation.</p>\r\n\r\n<p><strong>Red Line Bus Substitutions are as follows:</strong></p>\r\n\r\n<ul>\r\n\t<li>Shuttle buses are available between Howard and Belmont to provide connecting service.</li>\r\n</ul>\r\n\r\n<p><strong>Purple Line Bus Substitutions are as follows:</strong></p>\r\n\r\n<ul>\r\n\t<li>Shuttle buses are available between Linden and Howard to provide connecting service.</li>\r\n</ul>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2023-07-22T23:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93461"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Howard",
+          "ServiceId": "40900",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=71"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "497ea7de-a963-40c3-b967-82e268744e26"
+  }
+]
