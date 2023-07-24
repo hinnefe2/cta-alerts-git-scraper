@@ -90,5 +90,52 @@
     },
     "ttim": "0",
     "GUID": "06dcd39e-994f-47b4-a3ab-7530659b6349"
+  },
+  {
+    "AlertId": "93483",
+    "Headline": "Howrd-bound Red Line Service Delayed at 87th",
+    "ShortDescription": "Howrd-bound RedLine trains are standing at 87th due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howrd-bound Red&nbsp;Line trains are standing at 87th&nbsp;due to police activit</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-07-24T14:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93483"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "87th",
+          "ServiceId": "41430",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=12"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e331828a-748c-4785-817e-01c181d3e2e8"
   }
 ]
