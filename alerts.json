@@ -284,5 +284,52 @@
     },
     "ttim": "0",
     "GUID": "fff82c9f-799a-4317-a529-4bb9da36a535"
+  },
+  {
+    "AlertId": "93526",
+    "Headline": "Harlem-bound Green Line Service Delayed near 35th",
+    "ShortDescription": "Harlem-bound Green Line Line trains are standing near 35th due to a mechanical problem on a train. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green Line Line trains are standing near 35th due to a mechanical problem on a train.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-07-26T17:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93526"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "35th-Bronzeville-IIT",
+          "ServiceId": "41120",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=2"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e44b2fe2-d9c4-4b2e-afa4-cfc89da6e423"
   }
 ]
