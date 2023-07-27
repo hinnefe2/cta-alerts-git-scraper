@@ -194,37 +194,37 @@
     "GUID": "197ebffb-093b-485c-bdf4-7aa72de512ac"
   },
   {
-    "AlertId": "93539",
-    "Headline": "O'Hare-bound Blue Line Service Running with Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running with delays due to police activity near Monroe.",
+    "AlertId": "93541",
+    "Headline": "#72 North Temporary Westbound Reroute near North Ave/Damen",
+    "ShortDescription": "Westbound 72 North buses are temporarily rerouted via North Ave, Damen, Armitage, Western and North Ave due to street blockage near North Ave/Damen.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with delays due to police activity near Monroe.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #72 North buses are temporarily rerouted via North Ave, Damen, Armitage, Western and North Ave due to street blockage near North Ave/Damen</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-07-27T10:41:00",
-    "EventEnd": "2023-07-27T11:00:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-27T10:58:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93539"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93541"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "North",
+        "ServiceId": "72",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/72/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "c33ae6d0-607f-47a2-9b19-4f9855783120"
+    "GUID": "a58da600-50e6-4f13-b13a-ff4a3df3259e"
   }
 ]
