@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "93617",
-    "Headline": "Linden-bound Purple Line Service Running with Delays",
-    "ShortDescription": "Linden-bound Purple Line trains are running with delays near \r\nFoster due to a sick customer.",
+    "AlertId": "93618",
+    "Headline": "#39 Pershing Temporary Reroute at 39th/Morgan",
+    "ShortDescription": "39 Pershing buses are temporarily rerouted via 39th, Morgan, 35th, Ashland and 39th due to, street blockage near 39th/Morgan.",
     "FullDescription": {
-      "#cdata-section": "<p>Linden-bound Purple Line trains are running with delays near&nbsp;<br />\r\nFoster due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#39 Pershing&nbsp;buses are temporarily rerouted in both directions via 39th, Morgan, 35th, Ashland and 39th, due to&nbsp;street blockage near 39th/Morgan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-07-29T09:57:00",
-    "EventEnd": "2023-07-29T10:19:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-29T10:16:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93617"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93618"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Purple Line",
-        "ServiceId": "P",
-        "ServiceBackColor": "522398",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pershing",
+        "ServiceId": "39",
+        "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/39/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "dd2749e5-0596-4702-bbbe-6acadcd2bd23"
+    "GUID": "c9f8625e-bff4-4b50-8e1d-5bccc38d2431"
   }
 ]
