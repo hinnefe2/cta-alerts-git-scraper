@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "93635",
+    "Headline": "#36 Broadway and #151 Sheridan Temporary Reroute at Devon/Wayne",
+    "ShortDescription": "36 Broadway & 151 Sheridan buses are temp rerouted via Clark & Arthur Terminal, Clark, Peterson, Hollywood and Broadway due to street blockage near Devon/Wayne.",
+    "FullDescription": {
+      "#cdata-section": "<p>#36 Broadway and #151 Sheridan buses are temporarily rerouted via Clark &amp; Arthur Terminal, Clark, Peterson, Hollywood and Broadway due to street blockage near Devon/Wayne.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-30T05:29:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93635"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Broadway",
+          "ServiceId": "36",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/36/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ce154845-9983-48f2-8678-1570c4bcde32"
+  }
+]
