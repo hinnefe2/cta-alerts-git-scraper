@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "93640",
-    "Headline": "Forest Park-bound Blue Line Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following earlier signal problems near O'Hare. Service is resuming, allow extra time.",
+    "AlertId": "93637",
+    "Headline": "#54 Cicero Temporary Reroute at Cicero/Chicago",
+    "ShortDescription": "54 Cicero buses are temporarily rerouted via Cicero, Chicago, Laramie, Madison, and Cicero due to, street blockage at Cicero/Chicago.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays following earlier signal problems near O&#39;Hare.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#54 Cicero buses are temporarily rerouted via Cicero, Chicago, Laramie, Madison, and Cicero due to, street blockage at Cicero/Chicago.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-07-30T08:40:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-30T06:42:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93640"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93637"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cicero",
+        "ServiceId": "54",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/54/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "41194cb9-0fce-4453-b301-0adfd9a3d592"
+    "GUID": "c80fa79a-199e-4212-b332-6efaa6a0943c"
   },
   {
     "AlertId": "93639",
@@ -66,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "0e9cb89a-ad5e-452f-b6aa-68d1e2471120"
-  },
-  {
-    "AlertId": "93637",
-    "Headline": "#54 Cicero Temporary Reroute at Cicero/Chicago",
-    "ShortDescription": "54 Cicero buses are temporarily rerouted via Cicero, Chicago, Laramie, Madison, and Cicero due to, street blockage at Cicero/Chicago.",
-    "FullDescription": {
-      "#cdata-section": "<p>#54 Cicero buses are temporarily rerouted via Cicero, Chicago, Laramie, Madison, and Cicero due to, street blockage at Cicero/Chicago.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-07-30T06:42:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93637"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cicero",
-        "ServiceId": "54",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/54/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c80fa79a-199e-4212-b332-6efaa6a0943c"
   }
 ]
