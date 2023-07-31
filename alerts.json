@@ -1,5 +1,63 @@
 [
   {
+    "AlertId": "93647",
+    "Headline": "#95 95th, #108 Halsted/95th, #112 Vincennes/111th Temporary Reroute at 95th/Eggleston",
+    "ShortDescription": "95 95th, 108 Halsted/95th, and 112 Vincennes/111th buses are temporarily rerouted via Halsted, 87th, State, and 95th due to, street blockage at 95th/Eggleston.",
+    "FullDescription": {
+      "#cdata-section": "<p>#95 95th, #108 Halsted/95th, and #112 Vincennes/111th buses are temporarily rerouted in both directions via Halsted, 87th, State, and 95th due to, street blockage at 95th/Eggleston.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-31T05:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93647"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Halsted/95th",
+          "ServiceId": "108",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/108/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Vincennes/111th",
+          "ServiceId": "112",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/112/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "be369107-d927-4de6-a67a-6449bba0b57d"
+  },
+  {
     "AlertId": "93645",
     "Headline": "#34 South Michigan Temporary Reroute near 130th/King Drive",
     "ShortDescription": "34 South Michigan buses rrtd SB via Michigan,115th, Bishop Ford Exp-way & 130th; NB via 130th, Bishop Ford Exp-way & 115th due to blockage nr 130th/King Drive.",
