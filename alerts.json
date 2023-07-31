@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "93653",
+    "Headline": "#171 U. of Chicago/Hyde Park and #172 U. of Chicago/Kenwood Temporary Reroute at 55th/Ellis",
+    "ShortDescription": "171 U. of Chicago/Hyde Park &172 U. of Chicago/Kenwood buses are temp. rrtd. via 55th, Cottage Grove, 60th, and Ellis due to street blockage at 55th/Ellis.",
+    "FullDescription": {
+      "#cdata-section": "<p>#171 U. of Chicago/Hyde Park and #172 U. of Chicago/Kenwood buses are temporarily&nbsp;rerouted in both directions via 55th, Cottage Grove, 60th, and Ellis due to street blockage at 55th/Ellis.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-07-31T09:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93653"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "U. of Chicago/Hyde Park",
+          "ServiceId": "171",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/171/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "U. of Chicago/Kenwood",
+          "ServiceId": "172",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/172/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4f297a43-e068-49b8-a73e-529540163558"
+  }
+]
