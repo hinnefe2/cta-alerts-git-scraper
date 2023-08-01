@@ -1,49 +1,15 @@
 [
   {
-    "AlertId": "93667",
-    "Headline": "#56 Milwaukee Temporary Southbound Reroute near Milwaukee/Division",
-    "ShortDescription": "SB 56 Milwaukee buses are temporarily rerouted via Milwaukee, Division, Elston, and Milwaukee due to, street blockage near Milwaukee/Division.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #56 Milwaukee buses are temporarily rerouted via Milwaukee, Division, Elston, and Milwaukee due to, street blockage near Milwaukee/Division.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-01T11:49:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93667"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Milwaukee",
-        "ServiceId": "56",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/56/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "63101577-b8f2-426a-95f5-689b3291370d"
-  },
-  {
     "AlertId": "93675",
-    "Headline": "Delays on Loop 'L' (elevated lines)",
-    "ShortDescription": "Orange, Purple & Pink Line trains are operating on the outer Loop due to a mechanical problem near Qunicy.",
+    "Headline": "Purple, Pink and Orange Line Delays",
+    "ShortDescription": "Purple, Pink and Orange Line trains are running w/residual delays following an earlier mechanical problem near Qunicy. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Orange, Purple &amp; Pink Line trains are operating on the outer Loop due to a mechanical problem near Qunicy.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Purple, Pink and Orange Line trains are running w/residual delays following an earlier mechanical problem near Qunicy.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2023-08-01T15:40:00",
     "EventEnd": null,
     "TBD": "1",
@@ -89,6 +55,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "875c429c-550d-45e8-9525-3a7476f77f4b"
+    "GUID": "5613d0c4-6afa-4727-9ca6-cd505f75d4ef"
+  },
+  {
+    "AlertId": "93667",
+    "Headline": "#56 Milwaukee Temporary Southbound Reroute near Milwaukee/Division",
+    "ShortDescription": "SB 56 Milwaukee buses are temporarily rerouted via Milwaukee, Division, Elston, and Milwaukee due to, street blockage near Milwaukee/Division.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #56 Milwaukee buses are temporarily rerouted via Milwaukee, Division, Elston, and Milwaukee due to, street blockage near Milwaukee/Division.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-01T11:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93667"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Milwaukee",
+        "ServiceId": "56",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/56/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "63101577-b8f2-426a-95f5-689b3291370d"
   }
 ]
