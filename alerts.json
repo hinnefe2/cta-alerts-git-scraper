@@ -34,40 +34,6 @@
     "GUID": "3618648c-1042-4d8c-9b63-e3ed5bc3bd12"
   },
   {
-    "AlertId": "93667",
-    "Headline": "#56 Milwaukee Temporary Southbound Reroute near Milwaukee/Division",
-    "ShortDescription": "SB 56 Milwaukee buses are temporarily rerouted via Milwaukee, Division, Elston, and Milwaukee due to, street blockage near Milwaukee/Division.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #56 Milwaukee buses are temporarily rerouted via Milwaukee, Division, Elston, and Milwaukee due to, street blockage near Milwaukee/Division.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-01T11:49:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93667"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Milwaukee",
-        "ServiceId": "56",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/56/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "63101577-b8f2-426a-95f5-689b3291370d"
-  },
-  {
     "AlertId": "93653",
     "Headline": "#171 U. of Chicago/Hyde Park and #172 U. of Chicago/Kenwood Temporary Reroute at 55th/Ellis",
     "ShortDescription": "171 U. of Chicago/Hyde Park &172 U. of Chicago/Kenwood buses are temp. rrtd. via 55th, Cottage Grove, 60th, and Ellis due to street blockage at 55th/Ellis.",
@@ -115,6 +81,40 @@
     "GUID": "4f297a43-e068-49b8-a73e-529540163558"
   },
   {
+    "AlertId": "93667",
+    "Headline": "#56 Milwaukee Temporary Southbound Reroute near Milwaukee/Division",
+    "ShortDescription": "SB 56 Milwaukee buses are temporarily rerouted via Milwaukee, Division, Elston, and Milwaukee due to, street blockage near Milwaukee/Division.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #56 Milwaukee buses are temporarily rerouted via Milwaukee, Division, Elston, and Milwaukee due to, street blockage near Milwaukee/Division.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-01T11:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93667"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Milwaukee",
+        "ServiceId": "56",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/56/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "63101577-b8f2-426a-95f5-689b3291370d"
+  },
+  {
     "AlertId": "93662",
     "Headline": "#67 67th-69th-71st Temporary Reroute near 69th/Harvard",
     "ShortDescription": "67 67th-69th-71st buses temp. rerouted WB: 69th, Lafayette, 71st, Wentworth and 69th; EB: 69th, Lafayette, 71st, State and 69th due to, street blockage.",
@@ -147,39 +147,5 @@
     },
     "ttim": "0",
     "GUID": "c74d641a-a84b-47fd-9302-bbdd5e85c253"
-  },
-  {
-    "AlertId": "93666",
-    "Headline": "Forest Park-bound Blue Line Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following earlier signal problems at Cumberland. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays following earlier signal problems at Cumberland.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-08-01T11:40:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93666"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0944126f-8478-464d-8440-98234f5513dc"
   }
 ]
