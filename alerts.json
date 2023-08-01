@@ -1,5 +1,73 @@
 [
   {
+    "AlertId": "93668",
+    "Headline": "Brown Line Service Delayed near Irving Park",
+    "ShortDescription": "Brown Line trains are standing near Irving Park due to an unauthorized person on the tracks. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line trains are standing near Irving Park due to an unauthorized person on the tracks.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-08-01T12:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93668"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3618648c-1042-4d8c-9b63-e3ed5bc3bd12"
+  },
+  {
+    "AlertId": "93667",
+    "Headline": "#56 Milwaukee Temporary Southbound Reroute near Milwaukee/Division",
+    "ShortDescription": "SB 56 Milwaukee buses are temporarily rerouted via Milwaukee, Division, Elston, and Milwaukee due to, street blockage near Milwaukee/Division.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #56 Milwaukee buses are temporarily rerouted via Milwaukee, Division, Elston, and Milwaukee due to, street blockage near Milwaukee/Division.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-01T11:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93667"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Milwaukee",
+        "ServiceId": "56",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/56/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "63101577-b8f2-426a-95f5-689b3291370d"
+  },
+  {
     "AlertId": "93653",
     "Headline": "#171 U. of Chicago/Hyde Park and #172 U. of Chicago/Kenwood Temporary Reroute at 55th/Ellis",
     "ShortDescription": "171 U. of Chicago/Hyde Park &172 U. of Chicago/Kenwood buses are temp. rrtd. via 55th, Cottage Grove, 60th, and Ellis due to street blockage at 55th/Ellis.",
@@ -79,40 +147,6 @@
     },
     "ttim": "0",
     "GUID": "c74d641a-a84b-47fd-9302-bbdd5e85c253"
-  },
-  {
-    "AlertId": "93667",
-    "Headline": "#56 Milwaukee Temporary Southbound Reroute near Milwaukee/Division",
-    "ShortDescription": "SB 56 Milwaukee buses are temporarily rerouted via Milwaukee, Division, Elston, and Milwaukee due to, street blockage near Milwaukee/Division.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #56 Milwaukee buses are temporarily rerouted via Milwaukee, Division, Elston, and Milwaukee due to, street blockage near Milwaukee/Division.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-01T11:49:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93667"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Milwaukee",
-        "ServiceId": "56",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/56/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "63101577-b8f2-426a-95f5-689b3291370d"
   },
   {
     "AlertId": "93666",
