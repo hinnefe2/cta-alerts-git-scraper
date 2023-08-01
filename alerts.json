@@ -36,17 +36,17 @@
   {
     "AlertId": "93675",
     "Headline": "Delays on Loop 'L' (elevated lines)",
-    "ShortDescription": "Brown, Green, Orange, Purple & Pink Line trains are experiencing delays due to a mechanical problem near Qunicy.",
+    "ShortDescription": "Orange, Purple & Pink Line trains are operating on the outer Loop due to a mechanical problem near Qunicy.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown, Green, Orange, Purple &amp; Pink Line trains are experiencing delays due to a mechanical problem near Qunicy.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Orange, Purple &amp; Pink Line trains are operating on the outer Loop due to a mechanical problem near Qunicy.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Significant Delays",
     "EventStart": "2023-08-01T15:40:00",
-    "EventEnd": "2023-08-01T16:10:00",
-    "TBD": "0",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93675"
@@ -62,28 +62,6 @@
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
           }
         },
         {
@@ -111,6 +89,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "59d14f30-c2dc-44f4-a74f-245bfcee7258"
+    "GUID": "875c429c-550d-45e8-9525-3a7476f77f4b"
   }
 ]
