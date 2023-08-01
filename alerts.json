@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "93668",
-    "Headline": "Brown Line Service Delayed near Irving Park",
-    "ShortDescription": "Brown Line trains are standing near Irving Park due to an unauthorized person on the tracks. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are standing near Irving Park due to an unauthorized person on the tracks.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-08-01T12:40:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93668"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "3618648c-1042-4d8c-9b63-e3ed5bc3bd12"
-  },
-  {
     "AlertId": "93653",
     "Headline": "#171 U. of Chicago/Hyde Park and #172 U. of Chicago/Kenwood Temporary Reroute at 55th/Ellis",
     "ShortDescription": "171 U. of Chicago/Hyde Park &172 U. of Chicago/Kenwood buses are temp. rrtd. via 55th, Cottage Grove, 60th, and Ellis due to street blockage at 55th/Ellis.",
@@ -147,5 +113,39 @@
     },
     "ttim": "0",
     "GUID": "c74d641a-a84b-47fd-9302-bbdd5e85c253"
+  },
+  {
+    "AlertId": "93668",
+    "Headline": "No trains between Belmont and Fullerton",
+    "ShortDescription": "Brown Line service has been temporarily suspended between Belmont and Fullerton due to an unauthorized person on the tracks.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line service has been temporarily suspended between Belmont and Fullerton due to an unauthorized person on the tracks.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Fullerton and the Loop&nbsp;at this time.</strong></p>\r\n\r\n<p>Shuttle buses are available between Kimball and&nbsp;Fullerton&nbsp; to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2023-08-01T12:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93668"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c093bdc9-9089-4a54-bed7-2a0d29db19a5"
   }
 ]
