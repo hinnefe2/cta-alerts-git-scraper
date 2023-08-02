@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "93685",
-    "Headline": "63rd-bound Green Line Service Delayed at Morgan",
-    "ShortDescription": "63rd-bound Green Line trains are standing at Morgan due to a sick customer. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>63rd-bound Green Line trains are standing at Morgan due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-08-02T07:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93685"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4750a350-ef24-49d8-b8cc-4e15dc460635"
-  },
-  {
     "AlertId": "93682",
     "Headline": "#111A Pullman Shuttle and #115 Pullman/115th Temporary Northbound Reroute at King Drive/1114th",
     "ShortDescription": "NB 111A Pullman Shuttle and 115 Pullman/115th buses are temp. rerouted via 115th, Front, 114th, and King Drive due to, street blockage near King Drive/1114th.",
@@ -79,5 +45,52 @@
     },
     "ttim": "0",
     "GUID": "a528dd3c-e429-414f-84fb-904e68d4c91b"
+  },
+  {
+    "AlertId": "93685",
+    "Headline": "63rd-bound Green and Pink Line Delays",
+    "ShortDescription": "63rd-bound Green and Loop-bound Pink Line trains are running w/residual delays following an earlier sick customer at Morgan. Allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>63rd-bound Green and Loop-bound Pink Line trains are running w/residual delays following an earlier sick customer at Morgan.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-08-02T07:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93685"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5fc5a85d-f09d-4309-b07b-eca19a3a3632"
   }
 ]
