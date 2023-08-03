@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "AlertId": "93721",
+    "Headline": "#71 71st/South Shore Temporary Reroute at Jeffery/71st",
+    "ShortDescription": "71 71st/South buses are temporarily rerouted via 71st, Dorchester, 73rd and Yates: due to, street blockage near Jeffery/71st.",
+    "FullDescription": {
+      "#cdata-section": "<p>#71 71st/South buses are temporarily rerouted via 71st, Dorchester, 73rd and Yates: due to, street blockage near Jeffery/71st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-03T15:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93721"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ecc75c29-a894-4a24-9b98-7c4292bca709"
+  },
+  {
+    "AlertId": "93722",
+    "Headline": "#J14 Jeffery Jump and #15 Jeffery Local Temporary Reroute at Jeffery/71st",
+    "ShortDescription": "J14 Jeffery Jump and 15 Jeffery Local buses are temporarily rerouted via Jeffery, 73rd, Stony Island and 67th due to, street blockage near Jeffery/71st.",
+    "FullDescription": {
+      "#cdata-section": "<p>#J14 Jeffery Jump and #15 Jeffery Local buses are temporarily rerouted via Jeffery, 73rd, Stony Island and 67th due to, street blockage near Jeffery/71st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-03T15:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93722"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "71eaa9cb-1f13-4981-9332-90613826f497"
+  }
+]
