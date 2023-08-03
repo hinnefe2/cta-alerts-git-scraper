@@ -1,37 +1,50 @@
 [
   {
-    "AlertId": "93721",
-    "Headline": "#71 71st/South Shore Temporary Reroute at Jeffery/71st",
-    "ShortDescription": "71 71st/South buses are temporarily rerouted via 71st, Dorchester, 73rd and Yates: due to, street blockage near Jeffery/71st.",
+    "AlertId": "93728",
+    "Headline": "O'Hare-bound Blue Line Service Delayed at Damen",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Damen due to a sick customer. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>#71 71st/South buses are temporarily rerouted via 71st, Dorchester, 73rd and Yates: due to, street blockage near Jeffery/71st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Damen due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-03T15:40:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-08-03T17:50:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93721"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93728"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "71st/South Shore",
-        "ServiceId": "71",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Damen",
+          "ServiceId": "40590",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=50"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "ecc75c29-a894-4a24-9b98-7c4292bca709"
+    "GUID": "e08fa60d-df52-4953-a776-4956f9cb2835"
   },
   {
     "AlertId": "93722",
