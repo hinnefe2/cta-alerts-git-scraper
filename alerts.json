@@ -1,15 +1,15 @@
 [
   {
     "AlertId": "93730",
-    "Headline": "Red, Orange and Green Line Service Delayed at Roosevelt",
-    "ShortDescription": "Red, Orange and Green Line trains are standing at Roosevelt due to an unauthorized person on the tracks. Crews working to restore service.",
+    "Headline": "No Trains Between Cermak and the Loop.",
+    "ShortDescription": "Green Line service has been temporarily suspended between Cermak and the Loop due to an unauthorized person on the tracks,",
     "FullDescription": {
-      "#cdata-section": "<p>Orange and Red Line trains are standing at Roosevelt due to an unauthorized person on the tracks.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green Line service has been temporarily suspended between Cermak&nbsp;and the Loop&nbsp;due to&nbsp;authorized person on the tracks .</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li><strong>between Harlem/Lake&nbsp;and the Loop</strong>, and,</li>\r\n\t<li><strong>between 63rd Ashland and Cermak</strong>, only.</li>\r\n</ul>\r\n\r\n<p>Shuttle buses have been requested to provide connecting service through the affected area. Shuttle buses are available between Cermak&nbsp;and Clark/Lake&nbsp;to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.<br />\r\n&nbsp;</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
     "EventStart": "2023-08-03T21:08:00",
     "EventEnd": null,
     "TBD": "1",
@@ -18,32 +18,53 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93730"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "5bcd0e93-4843-467b-9391-335c54859b57"
+    "GUID": "5467d88b-ebfb-4bd7-b983-81dd37643ea9"
+  },
+  {
+    "AlertId": "93731",
+    "Headline": "No Trains Between Halsted and the Loop",
+    "ShortDescription": "Orange Line service has been temporarily suspended between Halsted and the Loop due to an unauthorized person on the tracks.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange Line service has been temporarily suspended between Halsted and the Loop due to an unauthorized person on the tracks.</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li><strong>between Halsted&nbsp;andthe Loop</strong>, and,</li>\r\n\t<li><strong>between Midway and Halsted</strong>, only.</li>\r\n</ul>\r\n\r\n<p>Shuttle buses have bwen requested&nbsp;&nbsp;are available between Halsted and State/Lake&nbsp;to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.<br />\r\n&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2023-08-03T21:29:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93731"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b508e314-19a1-4eeb-8c4e-375bf9b806f8"
   }
 ]
