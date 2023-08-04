@@ -1,5 +1,63 @@
 [
   {
+    "AlertId": "93746",
+    "Headline": "#29 State, #36 Broadway, #62 Archer Temporary Sourhbound Reroute near State/Wacker",
+    "ShortDescription": "SB 29 State, 36 Broadway, 62 Archer buses are temporarily rerouted via State, Wacker, Clark, Washington and State due to, street blockage near State/Wacker.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound&nbsp;#29 State, #36 Broadway, #62 Archer buses are temporarily rerouted via State, Wacker, Clark, Washington and State due to, street blockage near State/Wacker.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-04T12:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93746"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "State",
+          "ServiceId": "29",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/29/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Broadway",
+          "ServiceId": "36",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/36/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1ab7da37-88cc-4ebf-9f7e-03b29179d763"
+  },
+  {
     "AlertId": "93743",
     "Headline": "#20 Madison Temporary Reroute at Madison/Hamlin",
     "ShortDescription": "20 Madison buses are temporarily rerouted via Madison, Pulaski, Washington, Hamlin abd Madison due to, street blockage near Madison/Hamlin",
