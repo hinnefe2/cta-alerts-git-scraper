@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "93740",
+    "Headline": "Yellow Line Service Delayed near Oakton",
+    "ShortDescription": "Yellow Line trains are standing near Oakton due to debris on the tracks. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Yellow Line trains are standing near Oakton due to debris on the tracks.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, #97 Skokie or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-08-04T07:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93740"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Yellow Line",
+        "ServiceId": "Y",
+        "ServiceBackColor": "f9e300",
+        "ServiceTextColor": "000000",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/yellowline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e80e5b18-6055-411f-9aeb-ed71e37478a2"
+  },
+  {
     "AlertId": "93739",
     "Headline": "#20 Madison Temporary Reroute near Madison/Laflin",
     "ShortDescription": "20 Madison buses temp. rerouted EB: Madison, Ogden, Washington, Loomis and Madison; WB: Madison, Racine, Randolph, Ogden and Madison due to street blockage.",
