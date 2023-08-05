@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "93764",
+    "Headline": "#26 South Shore Express and #71 71st/South Shore Temporary Reroute at Commercial/83rd",
+    "ShortDescription": "26 South Shore Express & 71 71st/South Shore buses are temp rerouted via South Shore, 79th, South Chicago, 87th & Commercial due to blockage nr Commercial/83rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#26 South Shore Express &amp; #71 71st/South Shore&nbsp;buses are temporarily rerouted in both directions via South Shore, 79th, South Chicago, 87th and&nbsp;Commercial due to street blockage near Commercial/83rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-04T22:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93764"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "71st/South Shore",
+          "ServiceId": "71",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/71/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "7f843bc6-fa16-46e8-b83f-155702532e57"
+  },
+  {
     "AlertId": "93763",
     "Headline": "Harlem-bound Green Line Service Delayed at Morgan",
     "ShortDescription": "Harlem-bound Green Line trains are standing at Morgan due to a mechanical problem on a train. Crews working to restore service.",
