@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "93774",
-    "Headline": "63rd Ashland-bound Green Line Service Delayed at Ashland/Lake",
-    "ShortDescription": "63rd Ashland-bound Green Line trains are standing at Ashland/Lake due to a medical emergency. Crews working to restore service.",
+    "Headline": "Green and Pink Line Service Running with Delays",
+    "ShortDescription": "Green and Pink Line trains are running with delays at Ashland/Lake due to a medical emergency.",
     "FullDescription": {
-      "#cdata-section": "<p>63rd Ashland-bound Green Line trains are standing at Ashland/Lake due to a medical emergency.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green and Pink Line trains are running with delays at Ashland/Lake due to a medical emergency.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -33,6 +33,17 @@
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
           "ServiceName": "Green Line",
           "ServiceId": "G",
           "ServiceBackColor": "009b3a",
@@ -44,7 +55,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "10af6bb9-7b91-4853-b08a-74ca0504ff7e"
+    "GUID": "938ba2a0-20d0-496b-b44c-e806de272687"
   },
   {
     "AlertId": "93772",
