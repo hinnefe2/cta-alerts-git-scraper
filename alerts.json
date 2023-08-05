@@ -1,86 +1,5 @@
 [
   {
-    "AlertId": "93773",
-    "Headline": "Forest Park-bound Blue Line Service Running with Delays",
-    "ShortDescription": "Forest Park Blue Line trains are running with delays at Austin due to a sick customer.",
-    "FullDescription": {
-      "#cdata-section": "<p>Forest Park Blue Line trains are running with delays at Austin due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-08-05T15:05:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93773"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Austin",
-          "ServiceId": "40010",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=23"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "3a02deb9-8a53-4979-b334-295ad7304d8f"
-  },
-  {
-    "AlertId": "93772",
-    "Headline": "#92 Foster Temporary Reroute at Foster/Kimball",
-    "ShortDescription": "92 Foster buses are temporarily rerouted via Foster, Pulaski, Bryn Mawr and Kedzie: due to, street blockage near Foster/Kimball.",
-    "FullDescription": {
-      "#cdata-section": "<p>#92 Foster buses are temporarily rerouted via Foster, Pulaski, Bryn Mawr and Kedzie: due to, street blockage near Foster/Kimball.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-05T11:12:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93772"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Foster",
-        "ServiceId": "92",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/92/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "50ede6bc-0d8a-4ce2-8bf7-cabd396454da"
-  },
-  {
     "AlertId": "93767",
     "Headline": "#63 63rd Temporary Reroute near Dorchester/Woodlawn",
     "ShortDescription": "63 63rd buses temp. rerouted EB: 63rd, Kimbark, 64th, Blackstone and 63rd; WB: 63rd, 64th, Kenwood & 63rd due to, street blockage near Dorchester/Woodlawn.",
@@ -181,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "2081f0a4-0755-46b9-b64c-e8b6a89cb136"
+  },
+  {
+    "AlertId": "93772",
+    "Headline": "#92 Foster Temporary Reroute at Foster/Kimball",
+    "ShortDescription": "92 Foster buses are temporarily rerouted via Foster, Pulaski, Bryn Mawr and Kedzie: due to, street blockage near Foster/Kimball.",
+    "FullDescription": {
+      "#cdata-section": "<p>#92 Foster buses are temporarily rerouted via Foster, Pulaski, Bryn Mawr and Kedzie: due to, street blockage near Foster/Kimball.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-05T11:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93772"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Foster",
+        "ServiceId": "92",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/92/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "50ede6bc-0d8a-4ce2-8bf7-cabd396454da"
   }
 ]
