@@ -113,5 +113,52 @@
     },
     "ttim": "0",
     "GUID": "c580db4b-956c-41ba-8c75-acbb6d9aff61"
+  },
+  {
+    "AlertId": "93806",
+    "Headline": "#26 South Shore Express and #30 South Chicago Temporary Reroute at Ewing/92nd",
+    "ShortDescription": "26 South Shore Express and 30 South Chicago buses are temp. rrtd via 91st, Macanaw, Harbor Ave. South Chicago, and Ewing due to bridge work at Ewing/92nd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#26 South Shore Express and #30 South Chicago buses are temporarily&nbsp;rerouted via 91st, Macanaw, Harbor Ave. South Chicago, and Ewing due to bridge work at Ewing/92nd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-08T10:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93806"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Chicago",
+          "ServiceId": "30",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/30/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "dfbfa804-c9f4-4d17-b864-9bb2de60a180"
   }
 ]
