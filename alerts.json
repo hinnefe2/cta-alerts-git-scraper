@@ -48,10 +48,10 @@
   },
   {
     "AlertId": "93821",
-    "Headline": "Loop 'L' Service Delayed near Adams/Wabash",
-    "ShortDescription": "Loop 'L' trains are standing near Adams/Wabash due to signal problems. Crews working to restore service.",
+    "Headline": "Loop 'L' Delays",
+    "ShortDescription": "Loop 'L'  trains are running w/residual delays following earlier signal problems near Adams/Wabash. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop &#39;L&#39;&nbsp; trains are standing near Adams/Wabash due to signal problems.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop &#39;L&#39;&nbsp; trains are running w/residual delays following earlier signal problems near Adams/Wabash.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -124,6 +124,53 @@
       ]
     },
     "ttim": "0",
-    "GUID": "a104772d-7e19-4411-9ea2-a32d6b0c33c7"
+    "GUID": "b18720a5-dc9b-4419-bce5-f29dea14bef5"
+  },
+  {
+    "AlertId": "93822",
+    "Headline": "#4 Cottage Grove and #X4 Cottage Grove Express  Temporary Reroute at Cottage Grove/49th",
+    "ShortDescription": "4 Cottage Grove and X4 Cottage Grove Exp. buses temp. rerouted via Cottage Grove, 47th, Drexel, 51st, and Cottage Grove at Cottage Grove/49th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#4 Cottage Grove and #X4 Cottage Grove Express&nbsp;buses are temporarily&nbsp;rerouted via Cottage Grove, 47th, Drexel, 51st, and Cottage Grove due to street blockage at Cottage Grove/49th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-08T15:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93822"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove Express",
+          "ServiceId": "X4",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5aa4e132-65e6-4a84-a015-67558d88bed6"
   }
 ]
