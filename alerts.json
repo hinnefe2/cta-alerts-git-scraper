@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "93824",
+    "Headline": "#171 U. of Chicago/Hyde Park, #172 U. of Chicago/Kenwood Temporary Reroute at Woodlawn/59th",
+    "ShortDescription": "171 U. of Chicago/Hyde Park, 172 U. of Chicago/Kenwood buses temp. rrtd: Woodlawn, 59th, University, 57th, and Woodlawn due to construction nr Woodlawn/59th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#171 U. of Chicago/Hyde Park, #172 U. of Chicago/Kenwood buses are temporarily rerouted in both directions via Woodlawn, 59th, University, 57th, and Woodlawn, due to construction near Woodlawn/59th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-08T17:27:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93824"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "U. of Chicago/Hyde Park",
+          "ServiceId": "171",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/171/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "U. of Chicago/Kenwood",
+          "ServiceId": "172",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/172/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "bda526c3-0838-4c6a-a4ea-3c1636884df1"
+  }
+]
