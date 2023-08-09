@@ -1,19 +1,19 @@
 [
   {
     "AlertId": "93827",
-    "Headline": "Yellow Line Service Delayed at Dempster-Skokie",
-    "ShortDescription": "Yellow Line trains are standing at Dempster-Skokie due to police activity. Crews working to restore service.    ",
+    "Headline": "Yellow Line Service Temporarily Suspended",
+    "ShortDescription": "Service on the Yellow Line has been temporarily suspended due to police activity.",
     "FullDescription": {
-      "#cdata-section": "<p>Yellow Line trains are standing at Dempster-Skokie due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>This&nbsp;may include the #97 Skokie bus.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Service on the Yellow Line has been temporarily suspended due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>This&nbsp;may include the #97 Skokie bus.</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
+    "SeverityScore": "90",
     "SeverityColor": "c00c00",
     "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "Impact": "Service Suspended",
     "EventStart": "2023-08-08T20:34:00",
     "EventEnd": null,
     "TBD": "1",
-    "MajorAlert": "0",
+    "MajorAlert": "1",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93827"
     },
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "76660c55-256b-4a3b-b1d7-5c4bdc9035de"
+    "GUID": "22f1877e-02a6-4b09-849e-0cb67b2d7de6"
+  },
+  {
+    "AlertId": "93828",
+    "Headline": "#79 79th Temporary Reroute at 79th/Ebehert",
+    "ShortDescription": "79 79th buses are temporarily rerouted via 79th, King Drive, 76th, Cottage Grove, and 79th due to, street blockage at 79th/Ebehert.",
+    "FullDescription": {
+      "#cdata-section": "<p>#79 79th buses are temporarily rerouted in both directions via 79th, King Drive, 76th, Cottage Grove, and 79th due to, street blockage at 79th/Ebehert.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-08T20:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93828"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a15b5f5d-c65a-431c-ae46-d3694e8290a8"
   }
 ]
