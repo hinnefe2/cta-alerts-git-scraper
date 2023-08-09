@@ -1,62 +1,15 @@
 [
   {
-    "AlertId": "93824",
-    "Headline": "#171 U. of Chicago/Hyde Park, #172 U. of Chicago/Kenwood Temporary Reroute at Woodlawn/59th",
-    "ShortDescription": "171 U. of Chicago/Hyde Park, 172 U. of Chicago/Kenwood buses temp. rrtd: Woodlawn, 59th, University, 57th, and Woodlawn due to construction nr Woodlawn/59th.",
-    "FullDescription": {
-      "#cdata-section": "<p>#171 U. of Chicago/Hyde Park, #172 U. of Chicago/Kenwood buses are temporarily rerouted in both directions via Woodlawn, 59th, University, 57th, and Woodlawn, due to construction near Woodlawn/59th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-08T17:27:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93824"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "U. of Chicago/Hyde Park",
-          "ServiceId": "171",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/171/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "U. of Chicago/Kenwood",
-          "ServiceId": "172",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/172/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "bda526c3-0838-4c6a-a4ea-3c1636884df1"
-  },
-  {
     "AlertId": "93827",
     "Headline": "Yellow Line Service Delayed at Dempster-Skokie",
-    "ShortDescription": "Yellow Line trains are standing at Dempster-Skokie due to police activity. Crews working to restore service.",
+    "ShortDescription": "Yellow Line trains are standing at Dempster-Skokie due to police activity. Crews working to restore service.    ",
     "FullDescription": {
-      "#cdata-section": "<p>Yellow Line trains are standing at Dempster-Skokie due to police activity.</p>\n\n<p>Personnel are working to restore service. Allow extra travel time.</p>\n"
+      "#cdata-section": "<p>Yellow Line trains are standing at Dempster-Skokie due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>This&nbsp;may include the #97 Skokie bus.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2023-08-08T20:34:00",
     "EventEnd": null,
     "TBD": "1",
@@ -78,6 +31,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "53098f7e-b259-4881-9c62-111e03563b8b"
+    "GUID": "76660c55-256b-4a3b-b1d7-5c4bdc9035de"
   }
 ]
