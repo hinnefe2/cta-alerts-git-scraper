@@ -100,5 +100,97 @@
     },
     "ttim": "0",
     "GUID": "10b2ee91-f90f-4848-8709-504f441d7105"
+  },
+  {
+    "AlertId": "93864",
+    "Headline": "#147 Outer DuSable Lake Shore Express Temporary Reroute at Rogers/Hermitage",
+    "ShortDescription": "147 Outer DuSable Lake Shore Express buses are temporarily rerouted via Rogers, Ridge, Howard and Clark: due to,street bloockage near Rogers/Hermitage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#147 Outer DuSable Lake Shore Express buses are temporarily rerouted via Rogers, Ridge, Howard and Clark: due to,street bloockage near Rogers/Hermitage.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-10T16:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93864"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Outer DuSable Lake Shore Express",
+        "ServiceId": "147",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/147/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b7f2b456-7c8e-4fe1-9014-8317511d12b9"
+  },
+  {
+    "AlertId": "93865",
+    "Headline": "#22 Clark, #97 Skokie, #201 Central/Ridge Temporary Reroute at Rogers/Hermitage",
+    "ShortDescription": "22 Clark, 97 Skokie, 201 Central/Ridge buses are temporarily rerouted via Rogers, Ridge, Howard and Clark: due to, street blockage near Rogers/Hermitage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#22 Clark, #97 Skokie, #201 Central/Ridge buses are temporarily rerouted via Rogers, Ridge, Howard and Clark: due to, street blockage near Rogers/Hermitage.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-10T16:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93865"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Skokie",
+          "ServiceId": "97",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/97/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Central/Ridge",
+          "ServiceId": "201",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/201/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4b04bb2a-1672-4843-88ea-78a46603781e"
   }
 ]
