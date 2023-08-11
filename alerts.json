@@ -1,50 +1,71 @@
 [
   {
-    "AlertId": "93892",
-    "Headline": "O'Hare-bound Blue Line Service Running with Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running with delays at Washington due to poiice activity.",
+    "AlertId": "93879",
+    "Headline": "#57 Laramie Temporary Northbound Reroute near Harrison/Cicero",
+    "ShortDescription": "NB 57 Laramie buses are temporarily rerouted via Harrison, Lavergne, Flournoy and Laramie: due to, street blockage near Harrison/Cicero.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with delays at Washington due to poiice activity.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound&nbsp;#57 Laramie&nbsp;buses are temporarily rerouted via Harrison, Lavergne, Flournoy and Laramie: due to, street blockage near Harrison/Cicero</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-08-11T15:21:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-11T09:53:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93892"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93879"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Washington",
-          "ServiceId": "40370",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=134"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Laramie",
+        "ServiceId": "57",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/57/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "30537c43-1caf-40a2-829a-fb6e14532570"
+    "GUID": "0dc1e5a1-014c-41a6-9e7e-19cdb70f1d7b"
+  },
+  {
+    "AlertId": "93876",
+    "Headline": "#7 Harrison Temporary Reroute at Harrison/Cicero",
+    "ShortDescription": "7 Harrison buses are temporarily rerouted via Harrison, Cicero, Jackson, Laramie and Harrison: due to, street blockage near Harrison/Cicero.",
+    "FullDescription": {
+      "#cdata-section": "<p>#7 Harrison buses are temporarily rerouted in both directions via Harrison, Cicero, Jackson, Laramie and Harrison: due to, street blockage near Harrison/Cicero.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-11T09:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93876"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Harrison",
+        "ServiceId": "7",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/7/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5f21565b-d0e9-4e25-9e67-910ca49dffe4"
   },
   {
     "AlertId": "93888",
@@ -181,74 +202,6 @@
     },
     "ttim": "0",
     "GUID": "442f3843-9ee1-46c5-8ea7-f2722299b7e8"
-  },
-  {
-    "AlertId": "93879",
-    "Headline": "#57 Laramie Temporary Northbound Reroute near Harrison/Cicero",
-    "ShortDescription": "NB 57 Laramie buses are temporarily rerouted via Harrison, Lavergne, Flournoy and Laramie: due to, street blockage near Harrison/Cicero.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound&nbsp;#57 Laramie&nbsp;buses are temporarily rerouted via Harrison, Lavergne, Flournoy and Laramie: due to, street blockage near Harrison/Cicero</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-11T09:53:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93879"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Laramie",
-        "ServiceId": "57",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/57/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0dc1e5a1-014c-41a6-9e7e-19cdb70f1d7b"
-  },
-  {
-    "AlertId": "93876",
-    "Headline": "#7 Harrison Temporary Reroute at Harrison/Cicero",
-    "ShortDescription": "7 Harrison buses are temporarily rerouted via Harrison, Cicero, Jackson, Laramie and Harrison: due to, street blockage near Harrison/Cicero.",
-    "FullDescription": {
-      "#cdata-section": "<p>#7 Harrison buses are temporarily rerouted in both directions via Harrison, Cicero, Jackson, Laramie and Harrison: due to, street blockage near Harrison/Cicero.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-11T09:50:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93876"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Harrison",
-        "ServiceId": "7",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/7/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "5f21565b-d0e9-4e25-9e67-910ca49dffe4"
   },
   {
     "AlertId": "93869",
