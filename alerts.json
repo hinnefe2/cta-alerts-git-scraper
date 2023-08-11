@@ -1,73 +1,5 @@
 [
   {
-    "AlertId": "93869",
-    "Headline": "#79 79th Temporary Reroute at 79th/Ellis",
-    "ShortDescription": "79 79th are temporarily rerouted in both directions via 79th, Cottage Grove, 83rd, Stony Island and 79th, due to street blockage near 79th/Ellis.",
-    "FullDescription": {
-      "#cdata-section": "<p>#79 79th are temporarily rerouted in both directions via 79th, Cottage Grove, 83rd, Stony Island and 79th, due to street blockage near 79th/Ellis.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-11T02:02:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93869"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "79th",
-        "ServiceId": "79",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/79/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8cea96d8-8a62-453a-85ca-b6c632318f2b"
-  },
-  {
-    "AlertId": "93872",
-    "Headline": "#94 California Temporary Southbound Reroute near California/Fullerton",
-    "ShortDescription": "SB 94 California buses are temporarily rerouted via California, Fullerton, Milwaukee and California due to, street blockage near California/Fullerton.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound&nbsp;#94 California&nbsp;buses are temporarily rerouted via California, Fullerton, Milwaukee and California due to, street blockage near California/Fullerton.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-11T05:51:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93872"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "California",
-        "ServiceId": "94",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/california/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d01a1eaf-b15a-46c4-92e8-174f40ea0400"
-  },
-  {
     "AlertId": "93879",
     "Headline": "#57 Laramie Temporary Northbound Reroute near Harrison/Cicero",
     "ShortDescription": "NB 57 Laramie buses are temporarily rerouted via Harrison, Lavergne, Flournoy and Laramie: due to, street blockage near Harrison/Cicero.",
@@ -270,5 +202,73 @@
     },
     "ttim": "0",
     "GUID": "442f3843-9ee1-46c5-8ea7-f2722299b7e8"
+  },
+  {
+    "AlertId": "93869",
+    "Headline": "#79 79th Temporary Reroute at 79th/Ellis",
+    "ShortDescription": "79 79th are temporarily rerouted in both directions via 79th, Cottage Grove, 83rd, Stony Island and 79th, due to street blockage near 79th/Ellis.",
+    "FullDescription": {
+      "#cdata-section": "<p>#79 79th are temporarily rerouted in both directions via 79th, Cottage Grove, 83rd, Stony Island and 79th, due to street blockage near 79th/Ellis.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-11T02:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93869"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8cea96d8-8a62-453a-85ca-b6c632318f2b"
+  },
+  {
+    "AlertId": "93872",
+    "Headline": "#94 California Temporary Southbound Reroute near California/Fullerton",
+    "ShortDescription": "SB 94 California buses are temporarily rerouted via California, Fullerton, Milwaukee and California due to, street blockage near California/Fullerton.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound&nbsp;#94 California&nbsp;buses are temporarily rerouted via California, Fullerton, Milwaukee and California due to, street blockage near California/Fullerton.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-11T05:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93872"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d01a1eaf-b15a-46c4-92e8-174f40ea0400"
   }
 ]
