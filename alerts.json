@@ -36,9 +36,9 @@
   {
     "AlertId": "93867",
     "Headline": "#7 Harrison Temporary Reroute at Harrison/Kilpatrick",
-    "ShortDescription": "7 Harrison buses are temporarily rerouted in both directions via Congress, Kostner, Jackson and Cicero due to street blockage near Harrison/Kilpatrick.",
+    "ShortDescription": "7 Harrison buses are temporarily rerouted in both directions via Congress, Kostner, Jackson and Cicero, due to street blockage near Harrison/Kilpatrick.",
     "FullDescription": {
-      "#cdata-section": "<p>#7 Harrison buses are temporarily rerouted in both directions via Congress, Kostner, Jackson and Cicero due to street blockage near Harrison/Kilpatrick.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#7 Harrison buses are temporarily rerouted in both directions via Congress, Kostner, Jackson and Cicero, due to street blockage near Harrison/Kilpatrick.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -65,6 +65,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "d6f9f735-ac65-4ab3-a723-cbafd748d996"
+    "GUID": "ef445093-b7d7-4a78-91b4-02d08e15bfbc"
+  },
+  {
+    "AlertId": "93868",
+    "Headline": "#21 Cermak Temporary Eastbound Reroute near Cermak/47th Ct",
+    "ShortDescription": "Eastbound 21 Cermak buses are temporarily rerouted via Cermak, Cicero, 16th and Kostner, due to street blockage near Cermak/47th Ct.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #21 Cermak buses are temporarily rerouted via Cermak, Cicero, 16th and Kostner, due to street blockage near Cermak/47th Ct.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-10T21:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93868"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cermak",
+        "ServiceId": "21",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/21/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f4758b05-ffa2-44c9-8878-007fe8d8d632"
   }
 ]
