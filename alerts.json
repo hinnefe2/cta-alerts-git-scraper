@@ -1,52 +1,5 @@
 [
   {
-    "AlertId": "93911",
-    "Headline": "Dempster-Skokie-bound Yellow Line Service Delayed at Oakton-Skokie ",
-    "ShortDescription": "Dempster-Skokie-bound Yellow Line trains are standing at Oakton-Skokie due to a stalled train. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Dempster-Skokie-bound Yellow Line trains are standing at Oakton-Skokie due to a stalled train.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, such as the #97 Skokie bus, or&nbsp;using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-08-12T18:30:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93911"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Oakton-Skokie",
-          "ServiceId": "41680",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=147"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Yellow Line",
-          "ServiceId": "Y",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/yellowline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "2d21122d-5451-45ed-8d34-db799a897afd"
-  },
-  {
     "AlertId": "93909",
     "Headline": "#22 Clark Temporary Reroute near Clark/Addison",
     "ShortDescription": "22 buses rrtd SB buses will operate via Clark, Racine, Belmont & Clark: NB buses will operate via Clark, Belmont, Racine & Clark due to concert at Wrigley Field",
@@ -113,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "fed31cba-a48a-4a65-8170-29794a54eba7"
+  },
+  {
+    "AlertId": "93911",
+    "Headline": "Dempster-Skokie-bound Yellow Line Service Delayed at Oakton-Skokie ",
+    "ShortDescription": "Dempster-Skokie-bound Yellow Line trains are standing at Oakton-Skokie due to a stalled train. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Dempster-Skokie-bound Yellow Line trains are standing at Oakton-Skokie due to a stalled train.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, such as the #97 Skokie bus, or&nbsp;using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-08-12T18:30:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93911"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Oakton-Skokie",
+          "ServiceId": "41680",
+          "ServiceBackColor": "f9e300",
+          "ServiceTextColor": "000000",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=147"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Yellow Line",
+          "ServiceId": "Y",
+          "ServiceBackColor": "f9e300",
+          "ServiceTextColor": "000000",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/yellowline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e51e91af-097f-420d-bed6-a4a7a9cf4356"
   }
 ]
