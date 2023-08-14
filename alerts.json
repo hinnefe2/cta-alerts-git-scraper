@@ -163,10 +163,10 @@
   },
   {
     "AlertId": "93935",
-    "Headline": "Red, Brown and Purple Line Service Delayed near Belmont",
-    "ShortDescription": "Red, Brown and Purple Line trains are standing near Belmont due to signal problems. Crews working to restore service.\r\n\r\n",
+    "Headline": "Red and Purple Line Delays",
+    "ShortDescription": "Red and Purple Line trains are running w/residual delays following earlier signal problems near Belmont. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Red, Brown and Purple Line trains are standing near Belmont due to signal problems.&nbsp;</p>\r\n\r\n<p>At this time please consider using other service alternatives that better serve your trip such as nearby bus routes or buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red and Purple Line trains are running with residual delays following earlier signal problems near Belmont.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -195,17 +195,6 @@
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
           "ServiceName": "Purple Line Express",
           "ServiceId": "Pexp",
           "ServiceBackColor": "522398",
@@ -217,22 +206,22 @@
       ]
     },
     "ttim": "0",
-    "GUID": "67ed5e59-40f3-4d56-add4-07976134a0de"
+    "GUID": "ed5cf216-6dbe-4256-b716-eff416365592"
   },
   {
     "AlertId": "93936",
-    "Headline": "Brown Line Service Delayed near Belmont",
-    "ShortDescription": "Brown Line trains are standing near Belmont due to signal problems. Crews working to restore service.",
+    "Headline": "Brown Line Delays",
+    "ShortDescription": "Brown Line trains are running w/residual delays following earlier signal problems near Belmont. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are standing near Belmont due to signal problems.</p>\r\n\r\n<p>Shuttle buses requested&nbsp;between Southport and Fullerton&nbsp;to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line trains are running with residual delays following earlier signal problems near Belmont.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Significant Delays",
     "EventStart": "2023-08-14T08:53:00",
-    "EventEnd": "2023-08-14T09:53:00",
-    "TBD": "0",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93936"
@@ -251,6 +240,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "3dff7c76-332d-4bc3-98cc-b8a3f100e8e7"
+    "GUID": "44751504-8b46-4965-a90d-3f0e5ac86e95"
   }
 ]
