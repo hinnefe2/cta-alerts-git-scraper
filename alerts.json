@@ -44,6 +44,17 @@
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
           "ServiceName": "Brown Line",
           "ServiceId": "Brn",
           "ServiceBackColor": "62361b",
@@ -66,6 +77,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "f1f2ca19-66a4-4f2f-b752-37cc73ea410d"
+    "GUID": "43014fa6-33ff-41bb-b730-dbfb002dc1dd"
   }
 ]
