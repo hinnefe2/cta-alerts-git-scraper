@@ -68,71 +68,118 @@
     "GUID": "eb07988c-d93c-414d-a2fc-29536a3921f5"
   },
   {
-    "AlertId": "93947",
-    "Headline": "#94 California Temporary Reroute at California/19th",
-    "ShortDescription": "94 California buses are temporarily rerouted via California, Cermak, Kedzie, Ogden and California due to street blockage near California/19th.",
+    "AlertId": "93949",
+    "Headline": "#21 Cermak Temporary Reroute at Cermak/Washtenaw",
+    "ShortDescription": "21 Cermak buses are temporarily rerouted via Cermak, Homan, Roosevelt, Damen and Cermak due to street blockage near Cermak/Washtenaw.",
     "FullDescription": {
-      "#cdata-section": "<p>#94 California buses are temporarily rerouted in both directions via California, Cermak, Kedzie, Ogden and California, due to street blockage near California/19th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#21 Cermak&nbsp;buses are temporarily rerouted in both directions via Cermak, Homan, Roosevelt, Damen and Cermak, due to street blockage near Cermak/Washtenaw.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-14T20:26:00",
+    "EventStart": "2023-08-14T20:33:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93947"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93949"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "California",
-        "ServiceId": "94",
+        "ServiceName": "Cermak",
+        "ServiceId": "21",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/california/"
+          "#cdata-section": "http://www.transitchicago.com/bus/21/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "0439339d-ad3f-40d9-96d1-0efc332cb38f"
+    "GUID": "6995a69c-2fe2-477f-8b57-7d7e5dc483ad"
   },
   {
-    "AlertId": "93948",
-    "Headline": "#94 California Temporary Reroute at California/31st",
-    "ShortDescription": "94 California buses are temporarily rerouted via California, 31st, Kedzie, 36th and California due to street blockage near California/31st.",
+    "AlertId": "93950",
+    "Headline": "#18 16th-18th Temporary Reroute at Western/14th",
+    "ShortDescription": "18 16th-18th buses are temporarily rerouted via 18th, Western, Cermak, Marshall and Ogden due to street blockage near Western/14th.",
     "FullDescription": {
-      "#cdata-section": "<p>#94 California buses are temporarily rerouted in both directions via California, 31st, Kedzie, 36th and California, due to street blockage near California/31st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#18 16th-18th buses are temporarily rerouted in both directions via 18th, Western, Cermak, Marshall and Ogden, due to street blockage near Western/14th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-14T20:29:00",
+    "EventStart": "2023-08-14T20:36:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93948"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93950"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "California",
-        "ServiceId": "94",
+        "ServiceName": "16th-18th",
+        "ServiceId": "18",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/california/"
+          "#cdata-section": "http://www.transitchicago.com/bus/18/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "640293b7-a5ce-427f-99ef-586ac2670266"
+    "GUID": "8c65ca58-9b98-4c21-99e4-03ca7974b23b"
+  },
+  {
+    "AlertId": "93951",
+    "Headline": "#49 Western, #X49 Western Express Temporary Reroute at Western/14th",
+    "ShortDescription": "49 Western, X49 Western Express buses are temporarily rerouted via Western, 18th, Damen, Roosevelt and Western due to street blockage near Western/14th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#49 Western, #X49 Western Express buses are temporarily rerouted in both directions via Western, 18th, Damen, Roosevelt and Western, due to street blockage near Western/14th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-14T20:39:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93951"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western",
+          "ServiceId": "49",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western Express",
+          "ServiceId": "X49",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5b04bc45-8e83-4bb6-9eca-7e6f4b639a94"
   }
 ]
