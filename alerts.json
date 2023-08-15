@@ -1,49 +1,36 @@
 [
   {
-    "AlertId": "93942",
-    "Headline": "Loop-bound Orange and Harlem-bound Green Line Service Running with Delays",
-    "ShortDescription": "Loop-bound Orange and Harlem-bound Green Line trains are running with delays near Roosevelt due to an earlier signal problem.",
+    "AlertId": "93944",
+    "Headline": "#52 Kedzie Temporary Reroute at Kedzie/Fillmore",
+    "ShortDescription": "52 Kedzie buses are temporarily rerouted via Kedzie, Arthington, Homan, Roosevelt and Kedzie due to street blockage near Kedzie/Fillmore.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Orange and Harlem-bound Green Line trains are running with delays near Roosevelt due to an earlier signal problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#52 Kedzie&nbsp;buses are temporarily rerouted in both directions via Kedzie, Arthington, Homan, Roosevelt and Kedzie, due to street blockage near Kedzie/Fillmore.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-08-14T18:39:00",
-    "EventEnd": "2023-08-14T19:00:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-14T19:05:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93942"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93944"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kedzie",
+        "ServiceId": "52",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/kedzie/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "da489f9b-6ec1-4631-ab72-5c6f89bcdecc"
+    "GUID": "4cefa46d-b43a-43d6-a82b-d2b9c7af789f"
   }
 ]
