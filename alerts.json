@@ -137,16 +137,16 @@
   },
   {
     "AlertId": "93981",
-    "Headline": "#4 Cottage Grove Temporary Reroute at Cottage Grove/79th.",
-    "ShortDescription": "4 Cottage Grove buses are temporarily rerouted via Cottage Grove, 83rd, King Drive and 76th: due to, street blockage near Cottage Grove/79th.",
+    "Headline": "#4 Cottage Grove and #X4 Cottage Grove Express Temporary Reroute at Cottage Grove/79th",
+    "ShortDescription": "#4 Cottage and #X4 Cottage Express buses are temporarily rerouted via Cottage Grove, 79th, King Drive and 76th: due to, street blockage near Cottage Grove/79th.",
     "FullDescription": {
-      "#cdata-section": "<p>#4 Cottage Grove buses are temporarily rerouted via Cottage Grove, 83rd, King Drive and 76th: due to, street blockage near Cottage Grove/79th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>4 Cottage and X4 Cottage Express buses are temporarily rerouted via Cottage Grove, 79th, King Drive and 76th: due to, street blockage near Cottage Grove/79th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-16T11:51:00",
+    "EventStart": "2023-08-16T13:29:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
@@ -154,53 +154,32 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93981"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cottage Grove",
-        "ServiceId": "4",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/4/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove Express",
+          "ServiceId": "X4",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "7b0a6cdd-3bc8-40ca-a53e-906af8b89220"
-  },
-  {
-    "AlertId": "93982",
-    "Headline": "#67 67th-69th-71st Temporary Reroute at 67th/University",
-    "ShortDescription": "67 67th-69th-71st buses are temporarily rerouted via 67th, Woodlawn, Marquette and Cottage Grove: due to, street blockage near 67th/University.",
-    "FullDescription": {
-      "#cdata-section": "<p>#67 67th-69th-71st buses are temporarily rerouted via 67th, Woodlawn, Marquette and Cottage Grove: due to, street blockage near 67th/University.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-16T11:55:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93982"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "67th-69th-71st",
-        "ServiceId": "67",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/67/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "10467142-8797-4a2c-901d-f034db93bc84"
+    "GUID": "97195d99-f097-4dba-bca2-283e1543244f"
   }
 ]
