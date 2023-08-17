@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "93210",
+    "Headline": "#22 Clark Temporary Reroute near Racine/Belmont",
+    "ShortDescription": "22 Clark buses temp. rerouted SB: Clark, Racine and Belmont: NB: Clark, Belmiont and Racine: due to, street blockage near Racine/Belmont.",
+    "FullDescription": {
+      "#cdata-section": "<p>#22 Clark buses are temporarily rerouted in both directions near<br />\r\nRacine/Belmont, due to street blockage.</p>\r\n\r\n<p>Southbound&nbsp;buses will operate via Clark, Racine and Belmont&nbsp;including the normal route streets at the beginning and end.</p>\r\n\r\n<p>Northbound&nbsp;buses will operate via Clark, Belmont and Racine.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-16T20:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=93210"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clark",
+        "ServiceId": "22",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/22/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2c3cbc93-1064-4c48-bdfd-5e5a21df50d3"
+  },
+  {
     "AlertId": "93950",
     "Headline": "#18 16th-18th Temporary Reroute at Western/14th",
     "ShortDescription": "18 16th-18th buses are temporarily rerouted via 18th, Western, Cermak, Marshall and Ogden due to street blockage near Western/14th.",
