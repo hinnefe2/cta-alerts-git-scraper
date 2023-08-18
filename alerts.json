@@ -147,5 +147,52 @@
     },
     "ttim": "0",
     "GUID": "0e5686cb-cc8b-4c31-8c19-337982a05fd9"
+  },
+  {
+    "AlertId": "94032",
+    "Headline": "#96 Lunt Temporary Westbound Reroute near Morse/Greenwood",
+    "ShortDescription": "Westbound 96 Lunt buses are temporarily rerouted via Morse, Sheridan and Lunt due to street blockage near Morse/Greenwood.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #96 Lunt&nbsp;buses are temporarily rerouted via Morse, Sheridan and Lunt, due to street blockage near Morse/Greenwood.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-18T10:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94032"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Lunt",
+          "ServiceId": "96",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/96/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Devon",
+          "ServiceId": "155",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/155/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "8d25e67f-6310-4f74-8808-c273173bfaee"
   }
 ]
