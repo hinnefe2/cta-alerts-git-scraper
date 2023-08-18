@@ -102,40 +102,6 @@
     "GUID": "1d13d06e-5553-4f87-b06a-f0e795f731d4"
   },
   {
-    "AlertId": "94005",
-    "Headline": "#26 South Shore Express Temporary Reroute at Ewing/104th",
-    "ShortDescription": "26 South Shore Express buses are temporarily rerouted via 106th, Avenue L, and 104th, due to street blockage near Ewing/104th.",
-    "FullDescription": {
-      "#cdata-section": "<p>#26 South Shore Express buses are temporarily rerouted in both directions via 106th, Avenue L, and 104th, due to street blockage near Ewing/104th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-17T12:07:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94005"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Shore Express",
-        "ServiceId": "26",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/26/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ca67f17d-f21a-4f7c-b122-aa6632a6756a"
-  },
-  {
     "AlertId": "94006",
     "Headline": "#30 South Chicago Temporary Reroute at Ewing/104th",
     "ShortDescription": "30 South Chicago buses are temporarily rerouted via Ewing, 106th, Avenue L, 104th and Ewing, due to street blockage near Ewing/104th.",
@@ -168,5 +134,39 @@
     },
     "ttim": "0",
     "GUID": "f3e52445-b78d-4a32-8fa3-56e385deb37d"
+  },
+  {
+    "AlertId": "94018",
+    "Headline": "#75 74th-75th Temporary Reroute at 75th/Creiger",
+    "ShortDescription": "75 74th-75th buses are temporarily rerouted via 75th, Jeffery, 76th and Stony Island: due to, street blockage near 75th/Creiger.",
+    "FullDescription": {
+      "#cdata-section": "<p>#75 74th-75th buses are temporarily rerouted via 75th, Jeffery, 76th and Stony Island: due to, street blockage near 75th/Creiger.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-17T21:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94018"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "74th-75th",
+        "ServiceId": "75",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/75/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e45b7ff7-b4a6-4bbd-90c7-52b51841d83c"
   }
 ]
