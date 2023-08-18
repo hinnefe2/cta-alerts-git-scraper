@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "35a3fb60-c2fd-47f5-b2df-50c5e630f5c2"
+  },
+  {
+    "AlertId": "94034",
+    "Headline": "95th-bound Red Line Service Delayed at Roosevelt",
+    "ShortDescription": "95th-bound Red  Line trains are standing at Roosevelt due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red&nbsp; Line trains are standing at Roosevelt due to a sick custome</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-08-18T14:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94034"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Roosevelt",
+          "ServiceId": "41400",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=122"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "72a45dbd-a13e-478e-b720-34e950917041"
   }
 ]
