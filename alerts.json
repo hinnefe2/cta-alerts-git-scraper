@@ -100,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "646e6339-dd2a-4305-a280-4a04fe34d557"
+  },
+  {
+    "AlertId": "94055",
+    "Headline": "#66 Chicago Temporary Reroute near Chicago/Orleans",
+    "ShortDescription": "66 Chicago buses rerouted EB via Chgo, Sedgwick, Superior, Wells & Chicago; WB via Chicago, Wells, Huron, Sedgwick & Chicago due to blockage nr Chicago/Orleans.",
+    "FullDescription": {
+      "#cdata-section": "<p>#66 Chicago buses are temporarily rerouted in both directions due to street blockage near Chicago/Orleans.</p>\r\n\r\n<ul>\r\n\t<li>Eastbound via Chicago, Sedgwick, Superior, Wells and Chicago.</li>\r\n\t<li>Westbound via Chicago, Wells, Huron, Sedgwick and Chicago.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-20T04:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94055"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d6235725-6167-49d9-bd2b-d6cd037167bb"
   }
 ]
