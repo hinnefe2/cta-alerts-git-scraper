@@ -1,1 +1,96 @@
-[]
+[
+  {
+    "AlertId": "94073",
+    "Headline": "#70 Division Temporary Eastbound Reroute near Walton/Dearborn",
+    "ShortDescription": "Eastbound 70 Division buses are temporarily rerouted via Division, Dearborn, Oak, Clark and Division due to street blockage near Walton/Dearborn.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #70 Division buses are temporarily rerouted via Division, Dearborn, Oak, Clark and Division due to street blockage near Walton/Dearborn.</p>\r\n\r\n<p>Westbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-21T15:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94073"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Division",
+          "ServiceId": "70",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/70/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e2ba8798-9058-4bde-ac99-145219fbc76a"
+  },
+  {
+    "AlertId": "94074",
+    "Headline": "#22 Clark Temporary Northbound Reroute near Walton/Dearborn ",
+    "ShortDescription": "Northbound 22 Clark buses are temporarily rerouted via Dearborn, Division and Clark due to street blockage near Walton/Dearborn.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #22 Clark buses are temporarily rerouted via Dearborn, Division and Clark, due to street blockage near Walton/Dearborn.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-21T15:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94074"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Division",
+          "ServiceId": "70",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/70/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "96ab2c25-17c1-4978-b71d-1d71b34ad5f4"
+  }
+]
