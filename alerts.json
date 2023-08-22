@@ -94,50 +94,37 @@
     "GUID": "96ab2c25-17c1-4978-b71d-1d71b34ad5f4"
   },
   {
-    "AlertId": "94076",
-    "Headline": "#3 King Drive, #4 Cottage Grove Temporary Northbound Reroute near Michigan/Roosevelt",
-    "ShortDescription": "Northbound 3 King Drive, 4 Cottage Grove buses are temporarily rerouted via Michigan, Roosevelt, Wabash, Balbo and Michigan due to street blockage.",
+    "AlertId": "94084",
+    "Headline": "#56 Milwaukee Temporary Southbound Reroute at Milwaukee/Division",
+    "ShortDescription": "SB 56 Milwaukee  buses are temporarily rerouted via Milwaukee, Ashland, Augusta, and Milwaukee due to, construction near Milwaukee/Division.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #3 King Drive, #4 Cottage Grove buses are temporarily rerouted via Michigan, Roosevelt, Wabash, Balbo and Michigan, due to street blockage near Michigan/Roosevelt.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound&nbsp;#56 Milwaukee&nbsp; buses are temporarily rerouted via Milwaukee, Ashland, Augusta, and Milwaukee due to, construction near Milwaukee/Division.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-21T17:35:00",
+    "EventStart": "2023-08-22T09:18:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94076"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94084"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "King Drive",
-          "ServiceId": "3",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/3/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Cottage Grove",
-          "ServiceId": "4",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/4/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Milwaukee",
+        "ServiceId": "56",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/56/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "83e6b2cf-55ad-4ea9-b6ba-dbf69c0d2a6c"
+    "GUID": "49ba1050-a4b5-4fec-9106-456747377671"
   }
 ]
