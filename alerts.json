@@ -47,84 +47,37 @@
     "GUID": "bbe93732-d7b8-4112-b3c7-9c4936aea0e9"
   },
   {
-    "AlertId": "94074",
-    "Headline": "#22 Clark Temporary Northbound Reroute near Walton/Dearborn ",
-    "ShortDescription": "Northbound 22 Clark buses are temporarily rerouted via Dearborn, Division and Clark due to street blockage near Walton/Dearborn.",
+    "AlertId": "94096",
+    "Headline": "#126 Jackson Temporary Westbound Reroute near Van Buren/Ashland",
+    "ShortDescription": "WB 126 Jackson buses are temporarily rerouted via Van Buren, Ashland, Harrison, Wolcott, Ogden, and Van Buren due to, construction near Van Buren/Ashland.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #22 Clark buses are temporarily rerouted via Dearborn, Division and Clark, due to street blockage near Walton/Dearborn.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound&nbsp;#126 Jackson buses are temporarily rerouted via Van Buren, Ashland, Harrison, Wolcott, Ogden, and Van Buren due to, construction near Van Buren/Ashland.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-21T15:15:00",
+    "EventStart": "2023-08-23T07:28:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94074"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Clark",
-          "ServiceId": "22",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/22/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Division",
-          "ServiceId": "70",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/70/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "96ab2c25-17c1-4978-b71d-1d71b34ad5f4"
-  },
-  {
-    "AlertId": "94084",
-    "Headline": "#56 Milwaukee Temporary Southbound Reroute at Milwaukee/Division",
-    "ShortDescription": "SB 56 Milwaukee  buses are temporarily rerouted via Milwaukee, Ashland, Augusta, and Milwaukee due to, construction near Milwaukee/Division.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound&nbsp;#56 Milwaukee&nbsp; buses are temporarily rerouted via Milwaukee, Ashland, Augusta, and Milwaukee due to, construction near Milwaukee/Division.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-22T09:18:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94084"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94096"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Milwaukee",
-        "ServiceId": "56",
+        "ServiceName": "Jackson",
+        "ServiceId": "126",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/56/"
+          "#cdata-section": "http://www.transitchicago.com/bus/126/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "49ba1050-a4b5-4fec-9106-456747377671"
+    "GUID": "fb748bcd-59a9-4f79-ab55-80e1e1b209d4"
   }
 ]
