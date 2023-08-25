@@ -134,5 +134,120 @@
     },
     "ttim": "0",
     "GUID": "daf5383e-7c1f-421c-92d2-b32544c24673"
+  },
+  {
+    "AlertId": "94133",
+    "Headline": "#26 South Shore Express Temporary Southbound Reroute near Ewing/92nd",
+    "ShortDescription": "SB 26 South Shore Express buses are temporarily rerouted via: 91st, Mackinaw, Harbor, South Chicago, 95th and Ewing due to, street blockage near Ewing/92nd..",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #26 South Shore Express buses are temporarily rerouted via 91st, Mackinaw, Harbor, South Chicago, 95th and Ewing including the normal route streets at the beginning and end&nbsp;due to street blockage near&nbsp;Ewing/92nd.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-24T20:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94133"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Shore Express",
+        "ServiceId": "26",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/26/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0b190f8f-3a09-41d3-b0c7-4d7a26698ac0"
+  },
+  {
+    "AlertId": "94134",
+    "Headline": "O'Hare-bound Blue Line Service Delayed near Rosemont",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing near Rosemont due to a mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing near Rosemont due to a mechanical problem.</p>\r\n\r\n<p>Shuttle buses have been requested&nbsp;between Rosemont&nbsp;and O&#39;Hare&nbsp;to provide connecting service.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2023-08-24T20:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94134"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Rosemont",
+          "ServiceId": "40820",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=123"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "a32009d6-8282-4bae-a2ce-8497ad8cff2f"
+  },
+  {
+    "AlertId": "94135",
+    "Headline": "#30 South Chicago Temporary Reroute at Ewing/92nd",
+    "ShortDescription": "30 South buses are temporarily rerouted via Ewing, 95th, South Chicago, Harbor, Mackinaw and 91st: due to, street blockage near Ewing/92nd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#30 South buses are temporarily rerouted via Ewing, 95th, South Chicago, Harbor, Mackinaw and 91st: due to, street blockage near Ewing/92nd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-24T20:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94135"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Chicago",
+        "ServiceId": "30",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/30/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "255072d5-95ef-42a8-9e6d-415f3815ae39"
   }
 ]
