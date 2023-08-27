@@ -100,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "bdd7e756-0baf-4f38-aa5a-04f45c579ea8"
+  },
+  {
+    "AlertId": "94175",
+    "Headline": "No trains between 95th and Garfield",
+    "ShortDescription": "Red Line service has been temporarily suspended between Garfield and 95th due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line service has been temporarily suspended between Garfield and 95th due to police activity.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Howard&nbsp;and Garfield&nbsp;at this time.</strong></p>\r\n\r\n<p>Shuttle buses available between&nbsp;Garfield and 95th&nbsp;to provide connecting service.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2023-08-26T20:39:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94175"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e9cb07de-e2e2-4b23-b33d-7fe1cdb719b8"
   }
 ]
