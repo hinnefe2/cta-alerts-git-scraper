@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "94154",
+    "Headline": "#65 Grand Temporary Westbound Reroute near Grand/Fairbanks",
+    "ShortDescription": "WB 65 Grand buses are temporarily rerouted via Grand, Fairbanks, Ontario and State due to, street blockage near Grand/Fairbanks. ",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #65 Grand buses are temporarily rerouted via Grand, Fairbanks, Ontario and State, due to street blockage&nbsp;near Grand/Fairbanks.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-25T21:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94154"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Grand",
+        "ServiceId": "65",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/65/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "90aaf7e2-d8a4-4305-84c4-2b678d5a2e3d"
+  },
+  {
     "AlertId": "94155",
     "Headline": "#29 State Temporary Southbound Reroute near Grand/Fairbanks",
     "ShortDescription": "Southbound 29 State buses are temporarily rerouted via Grand, Fairbanks, Ontario and State: due to,street blockage near  Grand/Fairbank.",
@@ -66,73 +100,5 @@
     },
     "ttim": "0",
     "GUID": "bdd7e756-0baf-4f38-aa5a-04f45c579ea8"
-  },
-  {
-    "AlertId": "94173",
-    "Headline": "#87 87th Temporary Reroute at 87th/Pulaski",
-    "ShortDescription": "87 87th  buses are temporarily rerouted via 87th, California, 83rd and Western: due to, street blockage near 87th/Pulaski.",
-    "FullDescription": {
-      "#cdata-section": "<p>#87 87th&nbsp; buses are temporarily rerouted via 87th, California, 83rd and Western: due to, street blockage near 87th/Pulaski.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-26T20:04:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94173"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "87th",
-        "ServiceId": "87",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/87/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a077a39d-da77-4b68-8c34-679528306822"
-  },
-  {
-    "AlertId": "94174",
-    "Headline": "#53A South Pulaski |Temporary Reroute at 87th/Pulaski",
-    "ShortDescription": "53A South Pulaski buses are temporarily rerouted via Pulaski, 83rd, Kedzie and 95th: due to,street blockage near 87th/Pulaski.",
-    "FullDescription": {
-      "#cdata-section": "<p>#53A South Pulaski buses are temporarily rerouted via Pulaski, 83rd, Kedzie and 95th: due to,street blockage near 87th/Pulaski.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-26T20:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94174"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Pulaski",
-        "ServiceId": "53A",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/53a/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0a84275e-4513-4527-97d2-f160cbea86be"
   }
 ]
