@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "94192",
-    "Headline": "#79 79th Temporary Reroute at 79th/Central Park",
-    "ShortDescription": "79 79th buses are temporarily rerouted via 79th, Kedzie, 71st, Pulaski and 79th due to street blockage near 79th/Central Park.",
-    "FullDescription": {
-      "#cdata-section": "<p>#79 79th&nbsp;buses are temporarily rerouted in both directions via 79th, Kedzie, 71st, Pulaski and 79th, due to street blockage near 79th/Central Park.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-28T07:41:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94192"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "79th",
-        "ServiceId": "79",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/79/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d782d32e-42d3-4960-ae2c-ec6742bbe5a1"
-  },
-  {
     "AlertId": "94196",
     "Headline": "#171 Univ. of Chgo/Hyde Park Temporary Northbound Reroute near 53rd/Hyde Park ",
     "ShortDescription": "Northbound 171 Univ. of Chgo/Hyde Park buses are temporarily rerouted via Hyde Park, 53rd, Lake Park and 55th due to street blockage near 53rd/Hyde Park.",
@@ -68,40 +34,6 @@
     "GUID": "a36f9211-ce6f-4683-96b6-434fa5484d01"
   },
   {
-    "AlertId": "94198",
-    "Headline": "#71/71st South Shore Temporary Southbound Reroute near 71st/Stony Island",
-    "ShortDescription": "Southbound 71/71st South Shore buses are temporarily rerouted via 71st, Stony Island, 73rd and Exchange due to street blockage near 71st/Stony Island.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #71/71st South Shore buses are temporarily rerouted via 71st, Stony Island, 73rd and Exchange&nbsp;due to street blockage near 71st/Stony Island.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-08-28T12:53:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94198"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "71st/South Shore",
-        "ServiceId": "71",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/71/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d0354e54-0a6c-46ca-8932-b48a83437f1d"
-  },
-  {
     "AlertId": "94199",
     "Headline": "#24 Wentworth Temporary Reroute at Clark/17th",
     "ShortDescription": "24 Wentworth buses are temporarily rerouted via Clark, 18th, State and 16th: due to, street blockage near Clark/17th.",
@@ -134,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "4af3cd60-ebcc-49e2-b62c-83ca8f76e1ac"
+  },
+  {
+    "AlertId": "94200",
+    "Headline": "#60 Blue Island/26th Temporary Reroute at 26th/Homan",
+    "ShortDescription": "60 Blue Island/26th buses are temporarily rerouted via 26th, Kedzie, Cermak and  Central Park: due to,street blockage near 26th/Homan.",
+    "FullDescription": {
+      "#cdata-section": "<p>#60 Blue Island/26th buses are temporarily rerouted via 26th, Kedzie, Cermak and&nbsp; Central Park: due to,street blockage near 26th/Homan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-08-28T15:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94200"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Blue Island/26th",
+        "ServiceId": "60",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/60/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5d2159f8-37b0-4f95-ab77-7a8e0cf02aa5"
   }
 ]
