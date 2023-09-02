@@ -35,15 +35,15 @@
   },
   {
     "AlertId": "94292",
-    "Headline": "Yellow Line Service Delayed at Skokie",
-    "ShortDescription": "Yellow Line trains are standing at Skokie due to police activity. Crews working to restore service.",
+    "Headline": "No Yellow Line Service ",
+    "ShortDescription": "Yellow Line service has been temporarily suspended due to police Activity.",
     "FullDescription": {
-      "#cdata-section": "<p>Yellow Line trains are standing at Skokie due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as #97 Skokie , or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Yellow Line service has been temporarily suspended due to police Activity.</p>\r\n\r\n<p>&nbsp;At this time, also consider other service alternatives that may serve your trip, such as #97 Skokie, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
+    "SeverityScore": "84",
     "SeverityColor": "c00c00",
     "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "Impact": "Service Disruption",
     "EventStart": "2023-09-01T21:10:00",
     "EventEnd": null,
     "TBD": "1",
@@ -52,32 +52,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94292"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Dempster-Skokie",
-          "ServiceId": "40140",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=126"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Yellow Line",
-          "ServiceId": "Y",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/yellowline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Yellow Line",
+        "ServiceId": "Y",
+        "ServiceBackColor": "f9e300",
+        "ServiceTextColor": "000000",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/yellowline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "de1bef41-f648-44ab-9cca-8814a08343cc"
+    "GUID": "b451bcc1-efbb-4f6f-b498-b12732ce1e1d"
   }
 ]
