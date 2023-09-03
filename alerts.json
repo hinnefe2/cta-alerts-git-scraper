@@ -58,6 +58,53 @@
     "GUID": "9effc569-f569-4b19-be4c-606865c6b477"
   },
   {
+    "AlertId": "94317",
+    "Headline": "Orange Line Delays",
+    "ShortDescription": "Orange Line trains are running w/residual delays following earlier fire department activity near Halsted. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange Line trains are running w/residual delays following earlier fire department activity near Halsted.</p>\r\n\r\n<p><br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-09-03T16:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94317"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Halsted",
+          "ServiceId": "41130",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=66"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "43362cca-82e7-42dc-affb-d7942396d638"
+  },
+  {
     "AlertId": "94314",
     "Headline": "#39 Pershing Temporary Reroute at Pershing/Damen",
     "ShortDescription": "39 Pershing buses are temporarily rerouted via Pershing, Ashland, 43rd, and Western: due to, street blockage near Pershing/Damen.",
@@ -90,52 +137,5 @@
     },
     "ttim": "0",
     "GUID": "446411e1-56bf-42fc-a9f2-1b67dceb8bdf"
-  },
-  {
-    "AlertId": "94317",
-    "Headline": "No trains between Halsted and Adams/Wabash",
-    "ShortDescription": "Orange Line service has been temporarily suspended between Halsted andAdams/Wabash due to fire department activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>Orange&nbsp;Line service has been temporarily suspended between Halsted and Adams/Wabash due to fire department activity.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Midway and Halsted&nbsp;&nbsp;at this time.</strong></p>\r\n\r\n<p>Shuttle busses have been requested between Halsted and Adams/Wabash in both directions..</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes #62 Archer , or using buses to other rail lines. T</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2023-09-03T16:38:00",
-    "EventEnd": "2023-09-03T17:38:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94317"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Halsted",
-          "ServiceId": "41130",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=66"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "a71f1a59-6473-4d4c-adc9-2b81a424ffac"
   }
 ]
