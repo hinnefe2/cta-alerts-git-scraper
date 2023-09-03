@@ -1,49 +1,15 @@
 [
   {
-    "AlertId": "94314",
-    "Headline": "#39 Pershing Temporary Reroute at Pershing/Damen",
-    "ShortDescription": "39 Pershing buses are temporarily rerouted via Pershing, Ashland, 43rd, and Western: due to, street blockage near Pershing/Damen.",
+    "AlertId": "94315",
+    "Headline": "Orange and Green Line Delays",
+    "ShortDescription": "Orange and Green Line trains are running w/residual delays following earlier fire department activity near Roosevelt. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>#39 Pershing buses are temporarily rerouted via Pershing. Ashland, 43rd, and Western: due to, street blockage near Pershing/Damen.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Orange and Green Line trains are running w/residual delays following earlier fire department activity near Roosevelt. Service is resuming, allow extra time.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-03T14:52:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94314"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pershing",
-        "ServiceId": "39",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/39/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "446411e1-56bf-42fc-a9f2-1b67dceb8bdf"
-  },
-  {
-    "AlertId": "94315",
-    "Headline": "Green Line Trains have been suspended  Between Adams/Wabash and Indiana",
-    "ShortDescription": "Green Line service has been temporarily suspended between Adams/Wabash and Indiana due to fire department activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>Green Line service has been temporarily suspended between Adams/Wabash&nbsp;and Indianan due to fire department activity.</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li><strong>between 63rd Ashland/63rd Cottage to&nbsp;Indiana</strong>, and,</li>\r\n\t<li><strong>between Harlem/Lake&nbsp;and Adams/Wabash</strong>,&nbsp;</li>\r\n</ul>\r\n\r\n<p>Shuttle busses have been requested between Adams/Wabash and Indiana.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes #3 King Drive or the # 4 Cottage Grove, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.<br />\r\n&nbsp;</p>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "Impact": "Minor Delays",
     "EventStart": "2023-09-03T15:55:00",
     "EventEnd": null,
     "TBD": "1",
@@ -89,7 +55,41 @@
       ]
     },
     "ttim": "0",
-    "GUID": "ce5b63d9-3eec-4fd8-bc28-d12cd7e6573d"
+    "GUID": "9effc569-f569-4b19-be4c-606865c6b477"
+  },
+  {
+    "AlertId": "94314",
+    "Headline": "#39 Pershing Temporary Reroute at Pershing/Damen",
+    "ShortDescription": "39 Pershing buses are temporarily rerouted via Pershing, Ashland, 43rd, and Western: due to, street blockage near Pershing/Damen.",
+    "FullDescription": {
+      "#cdata-section": "<p>#39 Pershing buses are temporarily rerouted via Pershing. Ashland, 43rd, and Western: due to, street blockage near Pershing/Damen.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-03T14:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94314"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pershing",
+        "ServiceId": "39",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/39/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "446411e1-56bf-42fc-a9f2-1b67dceb8bdf"
   },
   {
     "AlertId": "94317",
