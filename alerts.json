@@ -100,52 +100,5 @@
     },
     "ttim": "0",
     "GUID": "4d844b40-e005-48a7-9a34-cf86ab2160fa"
-  },
-  {
-    "AlertId": "94370",
-    "Headline": "Loop-bound Brown and Purple Line Service Running with Delays",
-    "ShortDescription": "Loop-bound Brown and Purple Line trains are running with delays near Sedgwick due to a mechanical problem on a train.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown and Purple Line trains are running with delays near Sedgwick due to a mechanical problem on a train.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-09-06T18:01:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94370"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "e1fca1c0-6489-413b-b9f1-41145c2f25dc"
   }
 ]
