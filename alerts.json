@@ -34,71 +34,37 @@
     "GUID": "e565b2b6-119b-4c7a-82f1-96ac2a4086e2"
   },
   {
-    "AlertId": "94367",
-    "Headline": "#96 Lunt Temporary Westbound Reroute near Lunt/Paulina",
-    "ShortDescription": "Westbound 96 Lunt buses are temporarily rerouted via Lunt, Ashland, Morse, Clark, and Lunt due to, street blockage near Lunt/Paulina.",
+    "AlertId": "94371",
+    "Headline": "#72 North Temporary Reroute at North Ave/Lockwood",
+    "ShortDescription": "72 North buses are temporarily rerouted via North Ave, Central, Division, Laramie and North Ave, due to street blockage near North Ave/Lockwood.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound #96 Lunt buses are temporarily rerouted via Lunt, Ashland, Morse, Clark, and Lunt due to, street blockage near Lunt/Paulina.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#72 North buses are temporarily rerouted in both directions via North Ave, Central, Division, Laramie and North Ave,&nbsp;due to street blockage near North Ave/Lockwood.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-06T12:58:00",
+    "EventStart": "2023-09-06T20:13:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94367"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94371"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Lunt",
-        "ServiceId": "96",
+        "ServiceName": "North",
+        "ServiceId": "72",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/96/"
+          "#cdata-section": "http://www.transitchicago.com/bus/72/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "a5e4dbb2-bb53-44bc-b90c-76ec65b9fd02"
-  },
-  {
-    "AlertId": "94368",
-    "Headline": "CTA Bus Tracker May Be Temporarily Unavailable",
-    "ShortDescription": "Info in CTA Bus Tracker may be temporarily unavailable due to a network issue.  Engineers working to correct.",
-    "FullDescription": {
-      "#cdata-section": "<p>Info in CTA Bus Tracker may be temporarily unavailable due to a network issue. &nbsp;Engineers working to correct.</p>\r\n\r\n<p>Engineers are working to correct the problem and we appreciate your patience.</p>\r\n\r\n<p>Service is unaffected.</p>\r\n"
-    },
-    "SeverityScore": "59",
-    "SeverityColor": "06c",
-    "SeverityCSS": "special-note",
-    "Impact": "Special Note",
-    "EventStart": "2023-09-06T14:35:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94368"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "X",
-        "ServiceTypeDescription": "Systemwide",
-        "ServiceName": "All Bus Routes",
-        "ServiceId": "Bus",
-        "ServiceBackColor": "000000",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/travel_information/bus_status.aspx"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4d844b40-e005-48a7-9a34-cf86ab2160fa"
+    "GUID": "02cc9921-08e4-4342-8a3b-6e1e69af5b1e"
   }
 ]
