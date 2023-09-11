@@ -69,10 +69,10 @@
   },
   {
     "AlertId": "94480",
-    "Headline": "#94 California Temporary Northbound Reroute near 69th/Damen",
-    "ShortDescription": "Northbound 94 California buses are temporarily rerouted via Damen, 67th, Western and 71st due to street blockage near 69th/Damen.",
+    "Headline": "Update: #94 California Temporary Reroute near 69th/Bell",
+    "ShortDescription": "Update: 94 California buses temp. rerouted NB: Damen, Marquette, and Western; SB: Western, Marquette, and Damen due to, street blockage near 69th/Bell.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #94 California buses are temporarily rerouted via Damen, 67th, Western and 71st due to street blockage near 69th/Damen.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Update: #94 California buses are temporarily rerouted in both directions, due to street blockage near 69th/Bell.</p>\r\n\r\n<p>Northbound buses will operate via Damen, Marquette, and Western.</p>\r\n\r\n<p>Southbound buses will operate via Western, Marquette, and Damen.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -86,33 +86,20 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94480"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "67th-69th-71st",
-          "ServiceId": "67",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/67/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "California",
-          "ServiceId": "94",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/california/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "2b7e8870-e909-48d5-a054-8d1554c86c04"
+    "GUID": "602925dd-e5fb-4001-971d-246c12dbbaf2"
   },
   {
     "AlertId": "94481",
