@@ -72,7 +72,7 @@
     "Headline": "Loop Service Delayed at Clark/Lake",
     "ShortDescription": "Loop trains are standing at Clark/Lake due to fire at track level. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop trains are standing at Clark/Lake due to fire at track level.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop trains are standing at Clark/Lake due to fire at track level.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "84",
     "SeverityColor": "c00c00",
@@ -156,6 +156,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "c95348b2-175a-4149-bef1-643a8094d1da"
+    "GUID": "592e4393-2350-4459-8b86-2a766dcb2008"
+  },
+  {
+    "AlertId": "94472",
+    "Headline": "Delays on Loop 'L' (elevated lines)",
+    "ShortDescription": "Brown are experiencing delays due to fire at track level near Clark/Lake.  Brown Line trains will be rerouted to the Inner Loop (Pink Line side).",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown are experiencing delays due to fire at track level near Clark/Lake.&nbsp; Brown Line trains will be rerouted to the Inner Loop (Pink Line side).</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-09-11T06:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94472"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9555458a-a065-434b-995c-d0d15c59c3e3"
   }
 ]
