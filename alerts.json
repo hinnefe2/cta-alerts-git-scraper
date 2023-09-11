@@ -103,10 +103,10 @@
   },
   {
     "AlertId": "94481",
-    "Headline": "#67 67th-69th-71st Temporary Westbound Reroute near 69th/Damen",
-    "ShortDescription": "Westbound 67 67th-69th-71st buses are temporarily rerouted via 69th, Damen, 67th and Western due to street blockage near 69th/Damen.",
+    "Headline": "Update: #67 67th-69th-71st Temporary Reroute near 69th/Bell",
+    "ShortDescription": "Update: 67 67th-69th-71st buses rerouted WB: 69th, Damen, Marquette, and Western; EB: Western, Marquette, Damen, and 69th due to, street blockage nr 69th/Bell.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound #67 67th-69th-71st buses are temporarily rerouted via 69th, Damen, 67th and Western due to street blockage near 69th/Damen.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Update: #67 67th-69th-71st buses are temporarily rerouted in both directions, due tostreet blockage near 69th/Bell.</p>\r\n\r\n<p>Westbound buses will operate via 69th, Damen, Marquette, and Western.</p>\r\n\r\n<p>Eastbound buses will operate via Western, Marquette, Damen, and 69th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -120,32 +120,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94481"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "67th-69th-71st",
-          "ServiceId": "67",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/67/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "California",
-          "ServiceId": "94",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/california/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "67th-69th-71st",
+        "ServiceId": "67",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/67/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "74d27cb1-f084-47ae-9d17-ed65edd537ac"
+    "GUID": "ea1e967a-2a51-4f48-a08b-032b7c8b3928"
   }
 ]
