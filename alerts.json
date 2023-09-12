@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "e6086a9c-97de-462e-9e41-f750c3881ad6"
+  },
+  {
+    "AlertId": "94489",
+    "Headline": "#N5 South Shore Night Bus Temporary Reroute at South Shore/82nd",
+    "ShortDescription": "N5 South Shore Night buses are temp. rerouted in both directions via Commercial. 83rd, Yates, 79th and South Shore due to street blockage near South Shore/82nd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#N5 South Shore Night buses are temporarily rerouted in both directions via Commercial. 83rd, Yates, 79th and South Shore due to street blockage near South Shore/82nd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-12T03:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94489"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Night Bus",
+          "ServiceId": "N5",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/n5/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "17bf1143-4da0-4d58-adb3-6f4e6bcc33a0"
   }
 ]
