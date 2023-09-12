@@ -81,37 +81,50 @@
     "GUID": "a73ce6af-3fc9-48b0-952b-7f6147930f6d"
   },
   {
-    "AlertId": "94497",
-    "Headline": "Howard-bound Red Line Delays",
-    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays following an earlier mechanical problem near Fullerton. Service is resuming, allow extra time.",
+    "AlertId": "94498",
+    "Headline": "Howard-bound Red and Brown Line Delays",
+    "ShortDescription": "Howard-bound Red & Brown Line trains are running w/residual delays following an earlier mechanical problem near Belmont. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are running w/residual delays following an earlier mechanical problem near Fullerton.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red and Kimball-bound Brown Line trains are running w/residual delays following an earlier mechanical problem near Belmont.<br />\n<br />\nTrains are moving and normal service is being restored.<br />\n<br />\nAllow extra travel time.</p>\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2023-09-12T07:56:00",
+    "EventStart": "2023-09-12T08:05:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94497"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94498"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "c8db8bf9-ca36-4593-bcab-303d0efe8bbd"
+    "GUID": "9182d492-a25e-48b1-b15d-a26ab8dffa28"
   }
 ]
