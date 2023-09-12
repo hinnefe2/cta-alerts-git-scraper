@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "94446",
-    "Headline": "#59 59th/61st Temporary Reroute near 61st/Eberhart",
-    "ShortDescription": "59 59th/61st buses are temporarily rerouted via 61st, King Drive, 60th, Cottage Grove, and 61st: due to, street blockage near 61st/Eberhart.",
-    "FullDescription": {
-      "#cdata-section": "<p>#59 59th/61st buses are temporarily rerouted via 61st, King Drive, 60th, Cottage Grove, and 61st: due to, street blockage near 61st/Eberhart.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-09T08:11:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94446"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "59th/61st",
-        "ServiceId": "59",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/59/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e6086a9c-97de-462e-9e41-f750c3881ad6"
-  },
-  {
     "AlertId": "94489",
     "Headline": "#26 South Shore Express and #71 71st/South Shore Temporary Reroute at South Shore/82nd",
     "ShortDescription": "26 South Shore Express & 71 71st/South Shore buses rrtd in both directions via Commercial, 83rd, Yates, 79th & South Shore due to blockage nr South Shore/82nd.",
@@ -79,52 +45,5 @@
     },
     "ttim": "0",
     "GUID": "a73ce6af-3fc9-48b0-952b-7f6147930f6d"
-  },
-  {
-    "AlertId": "94498",
-    "Headline": "Howard-bound Red and Brown Line Delays",
-    "ShortDescription": "Howard-bound Red & Brown Line trains are running w/residual delays following an earlier mechanical problem near Belmont. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red and Kimball-bound Brown Line trains are running w/residual delays following an earlier mechanical problem near Belmont.<br />\n<br />\nTrains are moving and normal service is being restored.<br />\n<br />\nAllow extra travel time.</p>\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-09-12T08:05:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94498"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "9182d492-a25e-48b1-b15d-a26ab8dffa28"
   }
 ]
