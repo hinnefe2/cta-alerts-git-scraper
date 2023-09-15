@@ -1,36 +1,49 @@
 [
   {
-    "AlertId": "94605",
-    "Headline": "#8 Halsted Temporary Reroute at Halsted/72nd",
-    "ShortDescription": "8 Halsted buses are temporarily rerouted via Halsted, 74th, Racine, 69th, Halsted due to street blockage near Halsted/72nd.",
+    "AlertId": "94606",
+    "Headline": "Howard-bound Red Line Service Delayed at 79th",
+    "ShortDescription": "Howard-bound Red Line trains are standing at 79th due to a sick customer. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>#8 Halsted&nbsp;buses are temporarily rerouted in both directions via Halsted, 74th, Racine, 69th, Halsted due to street blockage near Halsted/72nd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing at 79th due to a sick customer.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-14T20:44:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-09-15T02:00:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94605"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94606"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Halsted",
-        "ServiceId": "8",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/8/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "79th",
+          "ServiceId": "40240",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=11"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "1284e977-b1a9-4249-99e4-83832a1b0c7b"
+    "GUID": "6abcaa9f-dd5b-420a-85ec-2f7c7e468048"
   }
 ]
