@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "94608",
-    "Headline": "#29 State Temporary Southbound Reroute near Lafayette/83rd",
-    "ShortDescription": "Southbound 29 State buses are temporarily rerouted via Lafayette, 83rd, Holland, 87th and Lafayette: due to, street blockage near Lafayette/83rd.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #29 State buses are temporarily rerouted via Lafayette, 83rd, Holland, 87th and Lafayette: due to, street blockage near Lafayette/83rd.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-15T07:55:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94608"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "State",
-        "ServiceId": "29",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/29/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "00efa0dc-67d8-4092-9e52-4a7f33e5ff6a"
-  },
-  {
     "AlertId": "94610",
     "Headline": "#68 Northwest Highway Temporary Reroute at Northwest Highway/Nettleton",
     "ShortDescription": "68 Northwest Highway buses are temporarily rerouted via Northwest Highway, Nagle, Devon and Northwest Highway near Northwest Highway/Nettleton.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "1c6c50bf-99e9-455a-9355-85d5db71a6c5"
+  },
+  {
+    "AlertId": "94608",
+    "Headline": "#29 State Temporary Southbound Reroute near Lafayette/83rd",
+    "ShortDescription": "Southbound 29 State buses are temporarily rerouted via Lafayette, 83rd, Holland, 87th and Lafayette: due to, street blockage near Lafayette/83rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #29 State buses are temporarily rerouted via Lafayette, 83rd, Holland, 87th and Lafayette: due to, street blockage near Lafayette/83rd.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-15T07:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94608"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "00efa0dc-67d8-4092-9e52-4a7f33e5ff6a"
   }
 ]
