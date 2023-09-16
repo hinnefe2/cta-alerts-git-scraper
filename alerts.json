@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "94627",
-    "Headline": "Harlem-bound Green Line Service Delayed at Pulaski",
-    "ShortDescription": "Harlem-bound Green Line trains are standing at Pulaski due to police activity. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green Line trains are standing at Pulaski due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-09-16T01:02:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94627"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b784e089-97a9-406f-8a36-1d71a6a4e44c"
-  },
-  {
     "AlertId": "94622",
     "Headline": "Delays to Bus Service near Loop",
     "ShortDescription": "Buses are experiencing delays near the Loop due to street blockage.",
@@ -288,5 +254,39 @@
     },
     "ttim": "0",
     "GUID": "1472b67e-5b2d-41c2-ade6-8d46b06f9568"
+  },
+  {
+    "AlertId": "94627",
+    "Headline": "Harlem-bound Green Line Service Delayed at Pulaski",
+    "ShortDescription": "Harlem-bound Green Line trains are standing at Pulaski due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green Line trains are standing at Pulaski due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2023-09-16T01:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94627"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "56926097-2c92-4b42-bf90-3f73516e32b4"
   }
 ]
