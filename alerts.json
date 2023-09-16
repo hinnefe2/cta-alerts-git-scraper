@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "94624",
-    "Headline": "Purple Line Service Delayed near Davis",
-    "ShortDescription": "Purple Line trains are standing near Davis due to police activity.  Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Purple Line trains are standing near Davis due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-09-15T21:48:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94624"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Purple Line",
-        "ServiceId": "P",
-        "ServiceBackColor": "522398",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/purpleline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "56dea833-a582-46e5-b1a0-3b4830f53975"
-  },
-  {
     "AlertId": "94623",
     "Headline": "#53A South Pulaski Temporary Northbound Reroute near Pulaski Orange Line Station",
     "ShortDescription": "Northbound 53A South Pulaski buses are temp rerouted via Orange Line, 51st, Kedvale, Archer and Pulaski due to street blockage near Pulaski Orange Line Station",
@@ -322,5 +288,39 @@
     },
     "ttim": "0",
     "GUID": "1472b67e-5b2d-41c2-ade6-8d46b06f9568"
+  },
+  {
+    "AlertId": "94624",
+    "Headline": "Yellow Line Service Temporarily Suspended",
+    "ShortDescription": "Service on the Yellow Line has been temporarily suspended due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Service on the Yellow Line has been temporarily suspended due to police activity.</p>\r\n\r\n<p>Shuttle buses have been requested&nbsp;to provide connecting service through the affected area.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "90",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Suspended",
+    "EventStart": "2023-09-15T21:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "1",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94624"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "da160262-3aa3-4898-b65d-6a5baeffe7b7"
   }
 ]
