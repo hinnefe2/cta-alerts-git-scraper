@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "94625",
-    "Headline": "#81 Lawrence Temporary Reroute at Lawrence/Kimball",
-    "ShortDescription": "81 Lawrence buses are temporarily rerouted via Lawrence, Pulaski, Foster, Kimball and Lawrence due to street blockage near Lawrence/Kimball.",
-    "FullDescription": {
-      "#cdata-section": "<p>#81 Lawrence buses are temporarily rerouted in both directions via Lawrence, Pulaski, Foster, Kimball and Lawrence, due to street blockage near Lawrence/Kimball.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-15T22:13:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94625"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Lawrence",
-        "ServiceId": "81",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/81/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "abf7b050-a875-4bf8-b607-b23fbe6f3a53"
-  },
-  {
     "AlertId": "94623",
     "Headline": "#53A South Pulaski Temporary Northbound Reroute near Pulaski Orange Line Station",
     "ShortDescription": "Northbound 53A South Pulaski buses are temp rerouted via Orange Line, 51st, Kedvale, Archer and Pulaski due to street blockage near Pulaski Orange Line Station",
@@ -66,6 +32,40 @@
     },
     "ttim": "0",
     "GUID": "43b89550-bc81-4db8-8bdc-35f72c569955"
+  },
+  {
+    "AlertId": "94625",
+    "Headline": "#81 Lawrence Temporary Reroute at Lawrence/Kimball",
+    "ShortDescription": "81 Lawrence buses are temporarily rerouted via Lawrence, Pulaski, Foster, Kimball and Lawrence due to street blockage near Lawrence/Kimball.",
+    "FullDescription": {
+      "#cdata-section": "<p>#81 Lawrence buses are temporarily rerouted in both directions via Lawrence, Pulaski, Foster, Kimball and Lawrence, due to street blockage near Lawrence/Kimball.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-15T22:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94625"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Lawrence",
+        "ServiceId": "81",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/81/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "abf7b050-a875-4bf8-b607-b23fbe6f3a53"
   },
   {
     "AlertId": "94622",
@@ -322,39 +322,5 @@
     },
     "ttim": "0",
     "GUID": "1472b67e-5b2d-41c2-ade6-8d46b06f9568"
-  },
-  {
-    "AlertId": "94624",
-    "Headline": "Purple Line Delays",
-    "ShortDescription": "Purple Line trains are running w/residual delays following earlier police activity near Davis. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Purple Line trains are running with&nbsp;residual delays&nbsp;following&nbsp;earlier police activity near Davis.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2023-09-15T21:48:00",
-    "EventEnd": "2023-09-15T22:35:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94624"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Purple Line",
-        "ServiceId": "P",
-        "ServiceBackColor": "522398",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/purpleline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c166a829-712e-4c50-919d-40c1e4e44dc8"
   }
 ]
