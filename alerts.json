@@ -1,5 +1,73 @@
 [
   {
+    "AlertId": "94644",
+    "Headline": "O'Hare-bound Blue Line Service Delayed at Belmont",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Belmont due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Belmont due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-09-17T00:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94644"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c3bf685c-ca7d-4f67-9aab-501480b30d4b"
+  },
+  {
+    "AlertId": "94641",
+    "Headline": "#72 North Temporary Reroute at North Avenue/Halsted",
+    "ShortDescription": "72 North buses are temporarily rerouted via North Avenue, Clybourn, and Halsted: due to,Mexican Independence Day Festivities nea rNorth Avenue/Halsted.",
+    "FullDescription": {
+      "#cdata-section": "<p>#72 North buses are temporarily rerouted via North Avenue, Clybourn, and Halsted: due to, Mexican Independence Day Festivities near North Avenue/Halsted.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-16T20:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94641"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "North",
+        "ServiceId": "72",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/72/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e2cb0cb0-bf28-407c-a0f5-feed6b1e7e5b"
+  },
+  {
     "AlertId": "94628",
     "Headline": "#66 Chicago Temporary Reroute at Chicago/Central",
     "ShortDescription": "66 Chicago buses are temporarily rerouted via Chicago Avenue, Cicero, Augusta, and Austin due to, street blockage near Chicago/Central.",
@@ -202,40 +270,6 @@
     },
     "ttim": "0",
     "GUID": "3f86b658-2dc2-48ee-913e-18e3eab4757c"
-  },
-  {
-    "AlertId": "94641",
-    "Headline": "#72 North Temporary Reroute at North Avenue/Halsted",
-    "ShortDescription": "72 North buses are temporarily rerouted via North Avenue, Clybourn, and Halsted: due to,Mexican Independence Day Festivities nea rNorth Avenue/Halsted.",
-    "FullDescription": {
-      "#cdata-section": "<p>#72 North buses are temporarily rerouted via North Avenue, Clybourn, and Halsted: due to, Mexican Independence Day Festivities near North Avenue/Halsted.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-16T20:18:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94641"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "North",
-        "ServiceId": "72",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/72/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e2cb0cb0-bf28-407c-a0f5-feed6b1e7e5b"
   },
   {
     "AlertId": "94639",
