@@ -68,53 +68,6 @@
     "GUID": "c1d9c48a-f53f-4097-bb21-9ad420173246"
   },
   {
-    "AlertId": "94648",
-    "Headline": "#9 Ashland Temporary Reroute near North Ave/Halsted ",
-    "ShortDescription": "9 Ashland buses temp. rerouted NB: Ashland, North Ave, Clybourn, Halsted and North Ave; SB: North Ave and Ashland; due to street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>#9 Ashland buses are temporarily rerouted in both directions near North Ave/Halsted, due to street blockage.</p>\r\n\r\n<p>Northbound buses will operate via Ashland, North Ave, Clybourn, Halsted and North Ave.</p>\r\n\r\n<p>Southbound buses will operate via North Ave and Ashland.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-17T03:45:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94648"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ashland",
-          "ServiceId": "9",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/9/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "North",
-          "ServiceId": "72",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/72/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "e37f6c60-c58b-4703-88b5-11fa83670b35"
-  },
-  {
     "AlertId": "94641",
     "Headline": "#72 North Temporary Eastbound Reroute at North Ave/Halsted",
     "ShortDescription": "Eastbound 72 North buses are temporarily rerouted via North Ave, Clybourn, Halsted and North Ave due to Mexican Independence Day Festivities.",
@@ -133,33 +86,20 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94641"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ashland",
-          "ServiceId": "9",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/9/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "North",
-          "ServiceId": "72",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/72/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "North",
+        "ServiceId": "72",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/72/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "2829d788-c479-4312-a86e-b26982e5f6c7"
+    "GUID": "cc988b15-bd83-46fd-b963-1b4f6adef5c7"
   },
   {
     "AlertId": "94628",
