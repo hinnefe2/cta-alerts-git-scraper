@@ -34,6 +34,40 @@
     "GUID": "bc9042a6-f653-4806-8c8b-665b3ab0723e"
   },
   {
+    "AlertId": "94651",
+    "Headline": "#49 Western Temporary Reroute at Western/Ogden",
+    "ShortDescription": "49 Western buses are temporarily rerouted via Western, 18th, Damen, Roosevelt and Western: due to, street blockage near Western/Ogden.",
+    "FullDescription": {
+      "#cdata-section": "<p>#49 Western&nbsp;buses are temporarily rerouted in both directions via&nbsp;Western, 18th, Damen, Roosevelt and Western: due to, street blockage near Western/Ogden.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-17T08:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94651"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Western",
+        "ServiceId": "49",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/49/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7a099b7c-784e-40e5-9bf6-61aab04a47c2"
+  },
+  {
     "AlertId": "94628",
     "Headline": "#66 Chicago Temporary Reroute at Chicago/Central",
     "ShortDescription": "66 Chicago buses are temporarily rerouted via Chicago Avenue, Cicero, Augusta, and Austin due to, street blockage near Chicago/Central.",
