@@ -69,10 +69,10 @@
   },
   {
     "AlertId": "94641",
-    "Headline": "#72 North Temporary Reroute at North Avenue/Halsted",
-    "ShortDescription": "72 North buses are temporarily rerouted via North Avenue, Clybourn, and Halsted: due to,Mexican Independence Day Festivities nea rNorth Avenue/Halsted.",
+    "Headline": "#72 North Temporary Eastbound Reroute at North Ave/Halsted",
+    "ShortDescription": "Eastbound 72 North buses are temporarily rerouted via North Ave, Clybourn, Halsted and North Ave due to Mexican Independence Day Festivities.",
     "FullDescription": {
-      "#cdata-section": "<p>#72 North buses are temporarily rerouted via North Avenue, Clybourn, and Halsted: due to, Mexican Independence Day Festivities near North Avenue/Halsted.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Eastbound #72 North buses are temporarily rerouted via North Ave, Clybourn, Halsted and North Ave due to&nbsp;Mexican Independence Day Festivities near North Ave/Halsted.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -86,20 +86,33 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94641"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "North",
-        "ServiceId": "72",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/72/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "North",
+          "ServiceId": "72",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/72/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "e2cb0cb0-bf28-407c-a0f5-feed6b1e7e5b"
+    "GUID": "2829d788-c479-4312-a86e-b26982e5f6c7"
   },
   {
     "AlertId": "94628",
