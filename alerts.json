@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "94631",
-    "Headline": "#52 Kedzie Temporary Northbound Reroute near California/33rd",
-    "ShortDescription": "Northbound 52 Kedzie  buses are temporarily rerouted via California, 35th, Western, 31st, and California due to, street blockage near California/33rd.",
+    "AlertId": "94672",
+    "Headline": "#86 Narragansett/Ridgeland Temporary Reroute at Northwest Highway/Nagle",
+    "ShortDescription": "86 Narragansett/Ridgeland buses are temporarily rerouted via Nagle, Northwest Highway, Devon and Milwaukee: due to, street blockage near Northwest Highway/Nagle",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #52 Kedzie&nbsp; buses are temporarily rerouted in both directions via California, 35th, Western, 31st, and California due to, street blockage near California/33rd.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#86 Narragansett/Ridgeland buses are temporarily rerouted via Nagle, Northwest Highway, Devon and Milwaukee: due to, street blockage near Northwest Highway/Nagle.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-16T08:33:00",
+    "EventStart": "2023-09-18T09:56:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94631"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94672"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kedzie",
-        "ServiceId": "52",
+        "ServiceName": "Narragansett/Ridgeland",
+        "ServiceId": "86",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/kedzie/"
+          "#cdata-section": "http://www.transitchicago.com/bus/86/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "2654dc3b-ad21-4b8a-8bfb-e1d128abf4ac"
+    "GUID": "4b156285-3cc7-4217-99dd-ba5f9a45eadd"
   },
   {
     "AlertId": "94632",
@@ -68,40 +68,6 @@
     "GUID": "df83b9df-d820-4308-a6c6-0f54c4268599"
   },
   {
-    "AlertId": "94651",
-    "Headline": "#49 Western Temporary Reroute at Western/Ogden",
-    "ShortDescription": "49 Western buses are temporarily rerouted via Western, 18th, Damen, Roosevelt and Western: due to, street blockage near Western/Ogden.",
-    "FullDescription": {
-      "#cdata-section": "<p>#49 Western&nbsp;buses are temporarily rerouted in both directions via&nbsp;Western, 18th, Damen, Roosevelt and Western: due to, street blockage near Western/Ogden.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-17T08:14:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94651"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Western",
-        "ServiceId": "49",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/49/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "7a099b7c-784e-40e5-9bf6-61aab04a47c2"
-  },
-  {
     "AlertId": "94652",
     "Headline": "#18 16th-18th Temporary Reroute at Western/Odgen",
     "ShortDescription": "18 16th-18th buses are temporarily rerouted via Ogden, Western, Roosevelt, Damen and 18th: due to, street blockage near Western/Odgen.",
@@ -134,39 +100,5 @@
     },
     "ttim": "0",
     "GUID": "412e628d-de56-4090-9a56-e59152661bc5"
-  },
-  {
-    "AlertId": "94672",
-    "Headline": "#86 Narragansett/Ridgeland Temporary Reroute at Northwest Highway/Nagle",
-    "ShortDescription": "86 Narragansett/Ridgeland buses are temporarily rerouted via Nagle, Northwest Highway, Devon and Milwaukee: due to, street blockage near Northwest Highway/Nagle",
-    "FullDescription": {
-      "#cdata-section": "<p>#86 Narragansett/Ridgeland buses are temporarily rerouted via Nagle, Northwest Highway, Devon and Milwaukee: due to, street blockage near Northwest Highway/Nagle.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-18T09:56:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94672"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Narragansett/Ridgeland",
-        "ServiceId": "86",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/86/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4b156285-3cc7-4217-99dd-ba5f9a45eadd"
   }
 ]
