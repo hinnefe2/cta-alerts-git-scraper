@@ -1,15 +1,49 @@
 [
   {
+    "AlertId": "94676",
+    "Headline": "#54 Cicero Temporary Southbound Reroute near Cicero/24th Place",
+    "ShortDescription": "EB 54 Cicero buses are temporarily rerouted via Cicero, Cermak, Kostner, Ogden and Cicero: due to, street blockage near Cicero/24th Place.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #54 Cicero buses are temporarily rerouted via Cicero, Cermak, Kostner, Ogden and Cicero, due to street blockage near Cicero/24th Place.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-18T13:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94676"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cicero",
+        "ServiceId": "54",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c7a1e6bd-8f5e-4354-bec7-2cf06f92e37b"
+  },
+  {
     "AlertId": "94685",
     "Headline": "Red Line Service Running with Delays",
     "ShortDescription": "Red Line trains are running with delays at Howard due to fire department activity.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running with delays at Howard due to fire department activity.</p>\r\n\r\n<p>&nbsp;At this time, also consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running with delays at Howard due to fire department activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-09-19T03:07:00",
     "EventEnd": null,
     "TBD": "1",
@@ -77,40 +111,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "10bfdeae-424d-432d-92f0-0f9baaabdebc"
-  },
-  {
-    "AlertId": "94676",
-    "Headline": "#54 Cicero Temporary Southbound Reroute near Cicero/24th Place",
-    "ShortDescription": "EB 54 Cicero buses are temporarily rerouted via Cicero, Cermak, Kostner, Ogden and Cicero: due to, street blockage near Cicero/24th Place.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #54 Cicero buses are temporarily rerouted via Cicero, Cermak, Kostner, Ogden and Cicero, due to street blockage near Cicero/24th Place.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-18T13:22:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94676"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cicero",
-        "ServiceId": "54",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/54/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c7a1e6bd-8f5e-4354-bec7-2cf06f92e37b"
+    "GUID": "fe95570a-74a7-4a29-819a-813d72bc9aeb"
   }
 ]
