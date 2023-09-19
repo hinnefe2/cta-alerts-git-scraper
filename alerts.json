@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "94685",
+    "Headline": "Red Line Service Running with Delays",
+    "ShortDescription": "Red Line trains are running with delays at Howard due to fire department activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running with delays at Howard due to fire department activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-09-19T03:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94685"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "46c3f11d-20e5-4413-9ed4-19cc646e2767"
+  },
+  {
     "AlertId": "94676",
     "Headline": "#54 Cicero Temporary Southbound Reroute near Cicero/24th Place",
     "ShortDescription": "EB 54 Cicero buses are temporarily rerouted via Cicero, Cermak, Kostner, Ogden and Cicero: due to, street blockage near Cicero/24th Place.",
@@ -32,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "c7a1e6bd-8f5e-4354-bec7-2cf06f92e37b"
-  },
-  {
-    "AlertId": "94685",
-    "Headline": "Red Line Service Running with Delays",
-    "ShortDescription": "Red Line trains are running with delays at Howard due to fire department activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running with delays at Howard due to fire department activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-09-19T03:07:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94685"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "aebd51d1-599c-4203-b351-02f66b1fab08"
   }
 ]
