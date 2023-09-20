@@ -1,15 +1,49 @@
 [
   {
+    "AlertId": "94676",
+    "Headline": "#54 Cicero Temporary Southbound Reroute near Cicero/24th Place",
+    "ShortDescription": "EB 54 Cicero buses are temporarily rerouted via Cicero, Cermak, Kostner, Ogden and Cicero: due to, street blockage near Cicero/24th Place.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #54 Cicero buses are temporarily rerouted via Cicero, Cermak, Kostner, Ogden and Cicero, due to street blockage near Cicero/24th Place.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-18T13:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94676"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cicero",
+        "ServiceId": "54",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c7a1e6bd-8f5e-4354-bec7-2cf06f92e37b"
+  },
+  {
     "AlertId": "94712",
     "Headline": "Blue Line Service Delayed at Belmont",
     "ShortDescription": "Blue Line Service trains are standing at Belmont due to an unauthorized person on the tracks. Crews working to restore service.",
     "FullDescription": {
       "#cdata-section": "<p>Blue Line Service trains are standing at Belmont due to an unauthorized person on the tracks.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-09-20T02:10:00",
     "EventEnd": null,
     "TBD": "1",
@@ -44,40 +78,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "c64ce3e5-714d-4fca-af07-82e55614d10a"
-  },
-  {
-    "AlertId": "94676",
-    "Headline": "#54 Cicero Temporary Southbound Reroute near Cicero/24th Place",
-    "ShortDescription": "EB 54 Cicero buses are temporarily rerouted via Cicero, Cermak, Kostner, Ogden and Cicero: due to, street blockage near Cicero/24th Place.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #54 Cicero buses are temporarily rerouted via Cicero, Cermak, Kostner, Ogden and Cicero, due to street blockage near Cicero/24th Place.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-18T13:22:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94676"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cicero",
-        "ServiceId": "54",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/54/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c7a1e6bd-8f5e-4354-bec7-2cf06f92e37b"
+    "GUID": "063f90e4-6805-4855-bf69-9db3c235425b"
   }
 ]
