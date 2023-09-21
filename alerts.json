@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "94676",
-    "Headline": "#54 Cicero Temporary Southbound Reroute near Cicero/24th Place",
-    "ShortDescription": "EB 54 Cicero buses are temporarily rerouted via Cicero, Cermak, Kostner, Ogden and Cicero: due to, street blockage near Cicero/24th Place.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #54 Cicero buses are temporarily rerouted via Cicero, Cermak, Kostner, Ogden and Cicero, due to street blockage near Cicero/24th Place.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-18T13:22:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94676"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cicero",
-        "ServiceId": "54",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/54/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c7a1e6bd-8f5e-4354-bec7-2cf06f92e37b"
-  },
-  {
     "AlertId": "94744",
     "Headline": "#6 Jackson Park Express Temporary Southbound Reroute near State/Lake",
     "ShortDescription": "Southbound 6 Jackson Park buses are temporarily rerouted via Wacker, Clark, Washington and State due to a movie shoot near State/Lake.",
@@ -274,166 +240,6 @@
     "GUID": "109e0013-f38a-4032-a228-a112ecc0ae8c"
   },
   {
-    "AlertId": "94747",
-    "Headline": "#29 State Temporary Reroute near State/Lake",
-    "ShortDescription": "29 State buses temp. rerouted NB: State, Madison, Dearborn, Wacker and State; SB: State, Wacker, Clark, Washington and State.",
-    "FullDescription": {
-      "#cdata-section": "<p>#29 State buses are temporarily rerouted in both directions near State/Lake&nbsp;due to a movie shoot near State/Lake.</p>\r\n\r\n<p>Northbound buses will operate via State, Madison, Dearborn, Wacker and State</p>\r\n\r\n<p>Southbound buses will operate via State, Wacker, Clark, Washington and State.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-20T20:59:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94747"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jackson Park Express",
-          "ServiceId": "6",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/6/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "State",
-          "ServiceId": "29",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/29/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Broadway",
-          "ServiceId": "36",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/36/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Archer",
-          "ServiceId": "62",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/62/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Inner Lake Shore/Michigan Express",
-          "ServiceId": "146",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/146/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "c7d687d4-41d8-4761-b205-f74a1a1765d6"
-  },
-  {
-    "AlertId": "94750",
-    "Headline": "#146 Inner Lake Shore/Michigan Express Temporary Reroute near State/Lake",
-    "ShortDescription": "146 Inner Lake Shore/Michigan Express buses temp. rerouted NB: State, Washington and Michigan; SB: Wacker, Clark, Washington and State.",
-    "FullDescription": {
-      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express buses are temporarily rerouted in both directions near State/Lake&nbsp;due to a movie shoot near State/Lake.</p>\r\n\r\n<p>Northbound buses will operate via State, Washington and Michigan.</p>\r\n\r\n<p>Southbound&nbsp;buses will operate via Wacker, Clark, Washington and State.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-20T21:34:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94750"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jackson Park Express",
-          "ServiceId": "6",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/6/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "State",
-          "ServiceId": "29",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/29/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Broadway",
-          "ServiceId": "36",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/36/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Archer",
-          "ServiceId": "62",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/62/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Inner Lake Shore/Michigan Express",
-          "ServiceId": "146",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/146/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "e28292b8-7ed0-4325-8e3c-c07fcbbe8283"
-  },
-  {
     "AlertId": "94751",
     "Headline": "#66 Chicago Temporary Reroute at Chicago/Cicero",
     "ShortDescription": "66 Chicago buses are temporarily rerouted in both directions via Chicago, Cicero, Augusta, Kostner and Chicago due to street blockage near Chicago/Cicero.",
@@ -466,5 +272,39 @@
     },
     "ttim": "0",
     "GUID": "0e3442a0-8fbc-4c0a-8902-6557d4c51ae6"
+  },
+  {
+    "AlertId": "94676",
+    "Headline": "#54 Cicero Temporary Southbound Reroute near Cicero/24th Place",
+    "ShortDescription": "EB 54 Cicero buses are temporarily rerouted via Cicero, Cermak, Kostner, Ogden and Cicero: due to, street blockage near Cicero/24th Place.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #54 Cicero buses are temporarily rerouted via Cicero, Cermak, Kostner, Ogden and Cicero, due to street blockage near Cicero/24th Place.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-18T13:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94676"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cicero",
+        "ServiceId": "54",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c7a1e6bd-8f5e-4354-bec7-2cf06f92e37b"
   }
 ]
