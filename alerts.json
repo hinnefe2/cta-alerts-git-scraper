@@ -1,142 +1,5 @@
 [
   {
-    "AlertId": "94778",
-    "Headline": "Brown, Purple and Red Line Service Running with Delays",
-    "ShortDescription": "Brown, Purple and Red Line trains are running with delays at Belmont due to signal problems.",
-    "FullDescription": {
-      "#cdata-section": "<p>Brown, Purple and Red Line trains are running with delays at Belmont due to signal problems.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-09-22T17:54:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94778"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Belmont",
-          "ServiceId": "41320",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=25"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "270a51af-8176-4c7f-9f5a-ce746196a0ab"
-  },
-  {
-    "AlertId": "94776",
-    "Headline": "Brown Line Delays",
-    "ShortDescription": "Brown Line trains are running w/residual delays following an earlier police activity at Sedgwick. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are running w/residual delays following an earlier police activity at Sedgwic</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-09-22T15:56:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94776"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0d4a6b80-780d-487d-8265-658ee948c1c5"
-  },
-  {
-    "AlertId": "94777",
-    "Headline": "#37 Sedgwick Temporary Reroute near Blackhawk/North Ave",
-    "ShortDescription": "37 Sedgwick buses temp. rerouted NB: Sedgwick, Blackhawk, Larrabee, North Ave and Sedgwick; SB: Sedgwick, North Ave, Wells, Division and Orleans.",
-    "FullDescription": {
-      "#cdata-section": "<p>#37 Sedgwick buses are temporarily rerouted in both directions near Blackhawk/North Ave,&nbsp;due to street blockage.</p>\r\n\r\n<p>Northbound buses will operate via Sedgwick, Blackhawk, Larrabee, North Ave and Sedgwick.</p>\r\n\r\n<p>Southbound buses will operate via Sedgwick, North Ave, Wells, Division and Orleans.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-22T17:29:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94777"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Sedgwick",
-        "ServiceId": "37",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/37/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "2635a9c2-77ee-415d-9ae2-a4ec6d8041d2"
-  },
-  {
     "AlertId": "94770",
     "Headline": "#79 79th Temporary Reroute at 76th/Greenwood",
     "ShortDescription": "79 79th buses are temporarily rerouted via Greenwood, 75th, South Chicago, 76th and Stony Island due to street blockage near 76th/Greenwood.",
@@ -203,6 +66,40 @@
     },
     "ttim": "0",
     "GUID": "fb8e3780-ba4a-4e94-b749-330df3cb3bd7"
+  },
+  {
+    "AlertId": "94777",
+    "Headline": "#37 Sedgwick Temporary Reroute near Blackhawk/North Ave",
+    "ShortDescription": "37 Sedgwick buses temp. rerouted NB: Sedgwick, Blackhawk, Larrabee, North Ave and Sedgwick; SB: Sedgwick, North Ave, Wells, Division and Orleans.",
+    "FullDescription": {
+      "#cdata-section": "<p>#37 Sedgwick buses are temporarily rerouted in both directions near Blackhawk/North Ave,&nbsp;due to street blockage.</p>\r\n\r\n<p>Northbound buses will operate via Sedgwick, Blackhawk, Larrabee, North Ave and Sedgwick.</p>\r\n\r\n<p>Southbound buses will operate via Sedgwick, North Ave, Wells, Division and Orleans.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-22T17:29:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94777"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Sedgwick",
+        "ServiceId": "37",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/37/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2635a9c2-77ee-415d-9ae2-a4ec6d8041d2"
   },
   {
     "AlertId": "94775",
