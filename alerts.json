@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "2635a9c2-77ee-415d-9ae2-a4ec6d8041d2"
+  },
+  {
+    "AlertId": "94781",
+    "Headline": "Midway-bound Orange and 63rd-bound Green Line Service Running with Delays",
+    "ShortDescription": "Midway-bound Orange and 63rd-bound Green Line trains are running with delays near Cermak due to signal problems.",
+    "FullDescription": {
+      "#cdata-section": "<p>Midway-bound Orange and 63rd-bound Green Line trains are running with delays near Cermak due to signal problems.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-09-22T19:40:00",
+    "EventEnd": "2023-09-22T19:56:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94781"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9bf36e47-582d-4b17-a66a-1243629c4c40"
   }
 ]
