@@ -66,5 +66,86 @@
     },
     "ttim": "0",
     "GUID": "ee835bf3-4de3-4371-9709-7eb1879f0bdc"
+  },
+  {
+    "AlertId": "94794",
+    "Headline": "#36 Broadway and #62 Archer Temporary Southbound Reroute near State/Randolph",
+    "ShortDescription": "Southbound 36 Broadway and 62 Archer buses are temporarily rerouted via Staste, Wacker, Clark and Washington: due to, street blockage near  State/Randolph.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound&nbsp;#36 Broadway and #62 Archer&nbsp;buses are temporarily rerouted via Staste, Wacker, Clark and Washington: due to, street blockage near&nbsp; State/Randolph.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-23T18:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94794"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Broadway",
+          "ServiceId": "36",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/36/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "dfb7e6c3-a619-4823-8e9a-27c52dfdeb68"
+  },
+  {
+    "AlertId": "94795",
+    "Headline": "#29 StateTemporary Southbound Reroute near State/Randolph",
+    "ShortDescription": "Southbound 29 State buses are temporarily rerouted via State, Wacker, Clark and Washington: due to,street blockage near  State/Randolph.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #29 State buses are temporarily rerouted via State, Wacker, Clark and Washington: due to,street blockage near&nbsp; State/Randolph.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-23T18:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94795"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e343d13a-cfdf-4810-95d1-f733c0b8f6c4"
   }
 ]
