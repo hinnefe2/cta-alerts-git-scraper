@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "ee835bf3-4de3-4371-9709-7eb1879f0bdc"
+  },
+  {
+    "AlertId": "94792",
+    "Headline": "54th/Cermak-bound Pink Line Service Delayed at California",
+    "ShortDescription": "54th/Cermak-bound Pink Line trains are standing at California due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>54th/Cermak-bound Pink Line trains are standing at California due to police activity.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-09-23T14:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94792"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "California",
+          "ServiceId": "40440",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=29"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c726705f-da23-4295-a45d-fd9421fba29c"
   }
 ]
