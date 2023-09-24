@@ -115,40 +115,6 @@
     "GUID": "05628753-e335-4f13-951b-4166bdcc87bb"
   },
   {
-    "AlertId": "94797",
-    "Headline": "#6 Jackson Park Express Temporary Southbound Reroute near State/Randolph",
-    "ShortDescription": "Southbound 6 Jackson Park Express buses are temporarily rerouted via Wacker, Clark, Washington and State: due to,street blockage near State/Randolph.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #6 Jackson Park Express buses are temporarily rerouted via Wacker, Clark, Washington and State: due to,street blockage near State/Randolph.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-23T18:57:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94797"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "71cb16c7-72eb-474a-a318-667236f9fdea"
-  },
-  {
     "AlertId": "94802",
     "Headline": "#2 Hyde Park Express Temporary Southbound Reroute near State/Lake",
     "ShortDescription": "Southbound 2 Hyde Park Express buses are temporarily rerouted via Wacker, Clark, Washington and State: due to, street blockage near State/Lake. ",
@@ -181,40 +147,6 @@
     },
     "ttim": "0",
     "GUID": "b4a9c094-b6d2-431c-aa4a-16b3c6d9db7d"
-  },
-  {
-    "AlertId": "94806",
-    "Headline": "Temporary Northbound #4 Cottage Grove Reroute near Michigan/Wacker-Illinois",
-    "ShortDescription": "Northbound 4 Cottage Grove buses are temporarily rerouted via Michigan, Madison, State and Washington: due to, street blockage near Michigan/Wacker-Illinois.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #4 Cottage Grove buses are temporarily rerouted via Michigan, Madison, State and Washington: due to, street blockage near Michigan/Wacker-Illinois.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-24T04:11:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94806"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cottage Grove",
-        "ServiceId": "4",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/4/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "7fe4076c-d879-4810-bd0f-585875e2b805"
   },
   {
     "AlertId": "94807",
@@ -317,5 +249,39 @@
     },
     "ttim": "0",
     "GUID": "497b24ea-2aa5-4aae-8909-fb67dbb98f66"
+  },
+  {
+    "AlertId": "94811",
+    "Headline": "#55 Garfield Temporary Eastbound Reroute near 57th/Museum",
+    "ShortDescription": "Eastbound 55 Garfield buses are temporarily rerouted via 55th, Everett, 56th, Hyde Park and 55th due to street blockage near 57th/Museum.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #55 Garfield buses are temporarily rerouted via 55th, Everett, 56th, Hyde Park and 55th due to street blockage near 57th/Museum.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-24T07:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94811"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Garfield",
+        "ServiceId": "55",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/55/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0ad365eb-cbd2-46e9-ac1e-b204620d9fd0"
   }
 ]
