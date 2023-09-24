@@ -262,8 +262,8 @@
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
     "EventStart": "2023-09-24T04:29:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventEnd": "2023-09-27T04:00:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94808"
@@ -282,6 +282,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "683296f8-d0ba-4c61-80c0-f0462f545f33"
+    "GUID": "b4cc506c-7b63-4620-9bfd-71891ef40f4f"
+  },
+  {
+    "AlertId": "94810",
+    "Headline": "#63 63rd Temporary Reroute at 63rd/Cottage Grove",
+    "ShortDescription": "63 63rd buses are temporarily rerouted via 63rd, Cottage Grove, 61st, King Drive and 63rd due to street blockage near 63rd/Cottage Grove.",
+    "FullDescription": {
+      "#cdata-section": "<p>#63 63rd buses are temporarily rerouted in both directions via 63rd, Cottage Grove, 61st, King Drive and 63rd, due to street blockage near 63rd/Cottage Grove.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-24T07:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94810"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "497b24ea-2aa5-4aae-8909-fb67dbb98f66"
   }
 ]
