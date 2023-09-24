@@ -34,40 +34,6 @@
     "GUID": "69ab3ce7-84a6-430b-9930-60ecbad9336f"
   },
   {
-    "AlertId": "94787",
-    "Headline": "#126 Jackson Temporary Eastbound Reroute near Jackson/Ashland",
-    "ShortDescription": "Eastbound 126 Jackson buses are temporarily rerouted via Jackson, Ashland, Congress Parkway, Racine and Jackson due to street blockage near Jackson/Ashland.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #126 Jackson buses are temporarily rerouted via Jackson, Ashland, Congress Parkway, Racine and Jackson due to street blockage near Jackson/Ashland.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-23T10:19:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94787"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson",
-        "ServiceId": "126",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/126/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ee835bf3-4de3-4371-9709-7eb1879f0bdc"
-  },
-  {
     "AlertId": "94794",
     "Headline": "#36 Broadway and #62 Archer Temporary Southbound Reroute near State/Randolph",
     "ShortDescription": "Southbound 36 Broadway and 62 Archer buses are temporarily rerouted via Staste, Wacker, Clark and Washington: due to, street blockage near  State/Randolph.",
@@ -147,5 +113,73 @@
     },
     "ttim": "0",
     "GUID": "e343d13a-cfdf-4810-95d1-f733c0b8f6c4"
+  },
+  {
+    "AlertId": "94796",
+    "Headline": "#146 Inner Lake Shore/Michigan Express Temporary Southbound Reroute near State/Randolph",
+    "ShortDescription": "SB 146 Inner Lake Shore/Michigan Express buses are temporarily rerouted via Wacker, Clark, Washington and State: due to, street blockage near  State/Randolph.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #146 Inner Lake Shore/Michigan Express buses are temporarily rerouted via Wacker, Clark, Washington and State: due to, street blockage near&nbsp; State/Randolph</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-23T18:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94796"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Inner Lake Shore/Michigan Express",
+        "ServiceId": "146",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/146/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "05628753-e335-4f13-951b-4166bdcc87bb"
+  },
+  {
+    "AlertId": "94797",
+    "Headline": "#6 Jackson Park Express Temporary Southbound Reroute near State/Randolph",
+    "ShortDescription": "Southbound 6 Jackson Park Express buses are temporarily rerouted via Wacker, Clark, Washington and State: due to,street blockage near State/Randolph.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #6 Jackson Park Express buses are temporarily rerouted via Wacker, Clark, Washington and State: due to,street blockage near State/Randolph.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-23T18:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94797"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "71cb16c7-72eb-474a-a318-667236f9fdea"
   }
 ]
