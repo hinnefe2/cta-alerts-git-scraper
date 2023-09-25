@@ -296,5 +296,52 @@
     },
     "ttim": "0",
     "GUID": "be6c2eb7-da5f-48a8-9aac-8b3a5e068b7e"
+  },
+  {
+    "AlertId": "94829",
+    "Headline": "#94 California Temporary Reroute near 69th/Bell",
+    "ShortDescription": "94 California buses are temporarily rerouted via Damen, Marquette and Western due to street blockage near 69th/Bell.",
+    "FullDescription": {
+      "#cdata-section": "<p>#94 California buses are temporarily rerouted in both directions via Damen, Marquette and Western due to street blockage near 69th/Bell.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-25T12:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94829"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "67th-69th-71st",
+          "ServiceId": "67",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/67/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "California",
+          "ServiceId": "94",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/california/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e352e2da-3dd8-446f-bda0-7b91896770d9"
   }
 ]
