@@ -1,18 +1,18 @@
 [
   {
     "AlertId": "94851",
-    "Headline": "Harlem-bound Green Line Service Delayed at Washington/Wabash",
-    "ShortDescription": "Harlem-bound Green Line trains are standing at Washington/Wabash due to a sick customer. Crews working to restore service.",
+    "Headline": "Harlem-bound Green Line Service Running with Delays",
+    "ShortDescription": "Harlem-bound Green Line trains are running with delays at Washington/Wabash\t due to a sick customer.",
     "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green Line trains are standing at Washington/Wabash due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Harlem-bound Green Line trains are running with delays at Washington/Wabash<span style=\"white-space:pre\"> </span> due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
     "EventStart": "2023-09-26T16:59:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventEnd": "2023-09-26T17:38:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94851"
@@ -55,7 +55,41 @@
       ]
     },
     "ttim": "0",
-    "GUID": "951e2a7f-b760-446c-ab44-8c330537cdfa"
+    "GUID": "de08cf08-5ae4-4975-bc67-e2eb6ec274b7"
+  },
+  {
+    "AlertId": "94852",
+    "Headline": "#78 Montrose Temporary Eastbound Reroute near Clarendon/Wilson",
+    "ShortDescription": "Eastbound 78 Montrose buses are temporarily rerouted via Clarendon, Lawrence, and Marine Drive due to street blockage near Clarendon/Wilson.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #78 Montrose buses are temporarily rerouted via Clarendon, Lawrence, and Marine Drive due to street blockage near Clarendon/Wilson.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-26T17:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94852"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Montrose",
+        "ServiceId": "78",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/78/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7e4047ac-f810-49c0-b90b-24d21cbc0135"
   },
   {
     "AlertId": "94849",
