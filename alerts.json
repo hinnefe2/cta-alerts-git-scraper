@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "94843",
+    "Headline": "#29 State Temporary Reroute near State/64th",
+    "ShortDescription": "29 State buses temp. rerouted Northbound: State, 67th, Wentworth, 63rd and State; Southbound: State, 63rd, Yale, Wentworth, 67th and State.",
+    "FullDescription": {
+      "#cdata-section": "<p>#29 State buses are temporarily rerouted in both directions, due to street blockage near State/64th.</p>\r\n\r\n<p>Northbound buses will operate via State, 67th, Wentworth, 63rd and State.</p>\r\n\r\n<p>Southbound&nbsp;buses will operate via State, 63rd, Yale, Wentworth, 67th and State.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-26T10:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94843"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3f198e40-120b-4b81-8ca7-4b5320a28819"
+  },
+  {
     "AlertId": "94828",
     "Headline": "Update: #67 67th-69th-71st Temporary Reroute near 69th/Bell",
     "ShortDescription": "67 67th-69th-71st buses temp. rerouted WB: 69th, Damen, Marquette and Western; EB: Marquette, California, 71st, Western, Marquette, Damen, and 69th.",
