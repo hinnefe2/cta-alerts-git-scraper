@@ -1,105 +1,37 @@
 [
   {
-    "AlertId": "94812",
-    "Headline": "#63 63rd Temporary Reroute near 63rd/Cottage Grove",
-    "ShortDescription": "63 63rd buses temp. rerouted WB: 63rd, Cottage Grove, 61st, King Drive and 63rd; EB: 63rd, King Drive, 61st, Cottage Grove and 63rd due to street blockage.",
+    "AlertId": "94841",
+    "Headline": "#49 Western Temporary Northbound Reroute near Western/Fulton",
+    "ShortDescription": "NB 49 Western buses are temporarily rerouted via Western, Fulton, Damen, Grand and Western due to, street blockage near Western/Fulton.",
     "FullDescription": {
-      "#cdata-section": "<p>#63 63rd&nbsp;buses are temporarily rerouted in both directions near 63rd/Cottage Grove&nbsp;due to street blockage.</p>\r\n\r\n<p>Westbound buses will operate via 63rd, Cottage Grove, 61st, King Drive and 63rd.</p>\r\n\r\n<p>Eastbound buses will operate via 63rd, King Drive, 61st, Cottage Grove and 63rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #49 Western buses are temporarily rerouted via Western, Fulton, Damen, Grand and Western due to, street blockage near Western/Fulton.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-24T07:53:00",
+    "EventStart": "2023-09-26T00:36:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94812"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94841"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "63rd",
-        "ServiceId": "63",
+        "ServiceName": "Western",
+        "ServiceId": "49",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+          "#cdata-section": "http://www.transitchicago.com/bus/49/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "718e14e6-d381-46c9-bd2a-dc4ea6332ab7"
-  },
-  {
-    "AlertId": "94815",
-    "Headline": "#155 Devon Temporary Reroute at Devon/Ridge-Western",
-    "ShortDescription": "155 Devon buses are temporarily rerouted via Devon, Western, Pratt, Ridge and Devon  due to street blockage near Devon/Ridge-Western.",
-    "FullDescription": {
-      "#cdata-section": "<p>#155 Devon buses are temporarily rerouted in both directions via Devon, Western, Pratt, Ridge and Devon&nbsp;due to&nbsp;street blockage near Devon/Ridge-Western.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-24T11:43:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94815"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Devon",
-        "ServiceId": "155",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/155/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "47f57485-f213-453b-ac85-9ee0425ab826"
-  },
-  {
-    "AlertId": "94826",
-    "Headline": "#157 Streeterville/Taylor Temporary Northbound Reroute near Delaware/Dewitt",
-    "ShortDescription": "Northbound 157 Streeterville/Taylor buses are temporarily rerouted via Delaware, Inner Lake Shore Dr, and Chestnut due to street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #157 Streeterville/Taylor&nbsp;buses are temporarily rerouted via Delaware, Inner Lake Shore Dr, and Chestnut&nbsp;due to street blockage near Delaware/Dewitt.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-25T08:31:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94826"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Streeterville/Taylor",
-        "ServiceId": "157",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/157/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "24b3d988-02aa-4fd4-8698-a5c31d7e2f98"
+    "GUID": "5e9edec6-643c-4409-8219-2923c399d4bb"
   },
   {
     "AlertId": "94828",
@@ -196,37 +128,105 @@
     "GUID": "e352e2da-3dd8-446f-bda0-7b91896770d9"
   },
   {
-    "AlertId": "94841",
-    "Headline": "#49 Western Temporary Northbound Reroute near Western/Fulton",
-    "ShortDescription": "NB 49 Western buses are temporarily rerouted via Western, Fulton, Damen, Grand and Western due to, street blockage near Western/Fulton.",
+    "AlertId": "94826",
+    "Headline": "#157 Streeterville/Taylor Temporary Northbound Reroute near Delaware/Dewitt",
+    "ShortDescription": "Northbound 157 Streeterville/Taylor buses are temporarily rerouted via Delaware, Inner Lake Shore Dr, and Chestnut due to street blockage.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #49 Western buses are temporarily rerouted via Western, Fulton, Damen, Grand and Western due to, street blockage near Western/Fulton.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #157 Streeterville/Taylor&nbsp;buses are temporarily rerouted via Delaware, Inner Lake Shore Dr, and Chestnut&nbsp;due to street blockage near Delaware/Dewitt.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-26T00:36:00",
+    "EventStart": "2023-09-25T08:31:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94841"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94826"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Western",
-        "ServiceId": "49",
+        "ServiceName": "Streeterville/Taylor",
+        "ServiceId": "157",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/49/"
+          "#cdata-section": "http://www.transitchicago.com/bus/157/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "5e9edec6-643c-4409-8219-2923c399d4bb"
+    "GUID": "24b3d988-02aa-4fd4-8698-a5c31d7e2f98"
+  },
+  {
+    "AlertId": "94812",
+    "Headline": "#63 63rd Temporary Reroute near 63rd/Cottage Grove",
+    "ShortDescription": "63 63rd buses temp. rerouted WB: 63rd, Cottage Grove, 61st, King Drive and 63rd; EB: 63rd, King Drive, 61st, Cottage Grove and 63rd due to street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#63 63rd&nbsp;buses are temporarily rerouted in both directions near 63rd/Cottage Grove&nbsp;due to street blockage.</p>\r\n\r\n<p>Westbound buses will operate via 63rd, Cottage Grove, 61st, King Drive and 63rd.</p>\r\n\r\n<p>Eastbound buses will operate via 63rd, King Drive, 61st, Cottage Grove and 63rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-24T07:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94812"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "718e14e6-d381-46c9-bd2a-dc4ea6332ab7"
+  },
+  {
+    "AlertId": "94815",
+    "Headline": "#155 Devon Temporary Reroute at Devon/Ridge-Western",
+    "ShortDescription": "155 Devon buses are temporarily rerouted via Devon, Western, Pratt, Ridge and Devon  due to street blockage near Devon/Ridge-Western.",
+    "FullDescription": {
+      "#cdata-section": "<p>#155 Devon buses are temporarily rerouted in both directions via Devon, Western, Pratt, Ridge and Devon&nbsp;due to&nbsp;street blockage near Devon/Ridge-Western.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-24T11:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94815"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Devon",
+        "ServiceId": "155",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/155/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "47f57485-f213-453b-ac85-9ee0425ab826"
   }
 ]
