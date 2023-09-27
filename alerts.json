@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "94849",
-    "Headline": "#52 Kedzie Temporary Reroute at 47th/Kedzie.",
-    "ShortDescription": "52 Kedzie buses are temporarily rerouted via Kedzie, Archer, California, 47th, and Kedzie due to street blockage near 47th/Kedzie.",
-    "FullDescription": {
-      "#cdata-section": "<p>#52 Kedzie buses are temporarily rerouted in both directions via Kedzie, Archer, California, 47th, and Kedzie, due to street blockage near 47th/Kedzie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-09-26T15:16:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94849"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kedzie",
-        "ServiceId": "52",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/kedzie/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "2a12d47c-d4c0-470b-8835-525fd2ed5039"
-  },
-  {
     "AlertId": "94854",
     "Headline": "#21 Cermak Temporary Eastbound Reroute near 26th/Michigan",
     "ShortDescription": "EB 21 Cermak buses are temporarily rerouted via King Drive, 31st, and Michigan due to, street blockage near 26th/Michigan.",
@@ -160,52 +126,5 @@
     },
     "ttim": "0",
     "GUID": "e352e2da-3dd8-446f-bda0-7b91896770d9"
-  },
-  {
-    "AlertId": "94857",
-    "Headline": "Green and Orange Line Delays",
-    "ShortDescription": "Green and Orange Line trains are running w/residual delays following earlier signal problems near Roosevelt. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Green and Orange Line trains are running with residual delays following earlier signal problems near Roosevelt.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-09-26T18:56:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94857"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "191b3669-3db9-432d-9cf5-3ee0ce36ab20"
   }
 ]
