@@ -34,6 +34,53 @@
     "GUID": "9a780b1f-80f6-4cba-a63f-cf07cd994afa"
   },
   {
+    "AlertId": "94858",
+    "Headline": "#95 95th and #112 Vincennes/111th Temporary Reroute near 95th/Eggleston",
+    "ShortDescription": "95 95th & 112 Vincennes/111th buses rtd WB via 95th, Halsted, 87th, Lafayette & 95th; EB via 95th, State, 87th, Halsted & 95th due to blockage nr 95th/Eggleston",
+    "FullDescription": {
+      "#cdata-section": "<p>#95 95th and #112 Vincennes/111th buses are temporarily rerouted in both directions, due to street blockage near 95th/Eggleston.</p>\r\n\r\n<p>Westbound buses will operate via 95th, Halsted, 87th, Lafayette &amp; 95th.</p>\r\n\r\n<p>Eastbound buses will operate&nbsp;via 95th, State, 87th, Halsted &amp; 95th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-26T22:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94858"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Vincennes/111th",
+          "ServiceId": "112",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/112/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "67a88dd7-5cc0-4158-912b-66c66717afd9"
+  },
+  {
     "AlertId": "94828",
     "Headline": "Update: #67 67th-69th-71st Temporary Reroute near 69th/Bell",
     "ShortDescription": "67 67th-69th-71st buses temp. rerouted WB: 69th, Damen, Marquette and Western; EB: Marquette, California, 71st, Western, Marquette, Damen, and 69th.",
