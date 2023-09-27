@@ -34,6 +34,87 @@
     "GUID": "d61f67b0-556b-4f9e-ba45-9407ea859eef"
   },
   {
+    "AlertId": "94884",
+    "Headline": "#85 Central and #85A North Central Temporary Southbound Reroute near Milwaukee/Carmen",
+    "ShortDescription": "SB 85 Central and 85A North Central buses are temporarily rerouted via Central, Higgins, Gale, and Milwaukee due to street blockage near Milwaukee/Carmen.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #85 Central and #85A North Central buses are temporarily rerouted via Central, Higgins, Gale, and Milwaukee due to street blockage near Milwaukee/Carmen.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-27T17:56:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94884"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Central",
+          "ServiceId": "85",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/85/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "North Central",
+          "ServiceId": "85A",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/85a/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d4a964f8-2b2c-45a0-9f50-2d9d4ed1103f"
+  },
+  {
+    "AlertId": "94885",
+    "Headline": "#68 Northwest Highway Temporary Southbound Reroute near Milwaukee/Carmen",
+    "ShortDescription": "SB 68 Northwest Highway buses are temporarily rerouted via Northwest Highway, Central, Higgins, and Milwaukee due to street blockage near Milwaukee/Carmen.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound 68 Northwest Highway buses are temporarily rerouted via Northwest Highway, Central, Higgins, and Milwaukee due to street blockage near Milwaukee/Carmen.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-27T18:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94885"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Northwest Highway",
+        "ServiceId": "68",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/68/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "82093c48-e12f-427e-892f-5f7f05b9c915"
+  },
+  {
     "AlertId": "94828",
     "Headline": "Update: #67 67th-69th-71st Temporary Reroute near 69th/Bell",
     "ShortDescription": "67 67th-69th-71st buses temp. rerouted WB: 69th, Damen, Marquette and Western; EB: Marquette, California, 71st, Western, Marquette, Damen, and 69th.",
