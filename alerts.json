@@ -92,52 +92,5 @@
     },
     "ttim": "0",
     "GUID": "e352e2da-3dd8-446f-bda0-7b91896770d9"
-  },
-  {
-    "AlertId": "94889",
-    "Headline": "Red Line Delays, Limited Service Between 47th and 63rd",
-    "ShortDescription": "Red Line service experiencing delays due to police activity at Garfield; limited service via train shuttle available btwn 63rd & 95th.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line service experiencing delays due to police activity at Garfield.</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li>between&nbsp;Howard&nbsp;and 47th, with normal service and,</li>\r\n\t<li>between&nbsp;63rd and 95th, with limited service.</li>\r\n</ul>\r\n\r\n<p>Bus shuttles are also available between 47th to 63rd&nbsp;to help make connections.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "88",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption / Major Delays",
-    "EventStart": "2023-09-28T00:17:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94889"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Garfield",
-          "ServiceId": "41170",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=61"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "35782176-eb95-4471-b91f-fa636d563c0e"
   }
 ]
