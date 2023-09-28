@@ -132,7 +132,7 @@
     "Headline": "Trains bypassing Garfield Station",
     "ShortDescription": "Red Line trains are running, but not stopping at Garfield due to police activity.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running, but not stopping at Garfield due to police activity.</p>\r\n\r\n<p>Use nearby bus routes, such as the #29 State bus to provide Northbound and Southbound service.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running, but not stopping at Garfield due to police activity.</p>\r\n\r\n<p>Use nearby bus routes, such as the #29 State bus to provide Northbound and Southbound service.</p>\r\n\r\n<p>Bus shuttles have been requested to provide connecting service from 47th to 95th in both directions.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
     },
     "SeverityScore": "58",
     "SeverityColor": "B45F04",
@@ -151,27 +151,27 @@
           "ServiceType": "T",
           "ServiceTypeDescription": "Train Station",
           "ServiceName": "Garfield",
-          "ServiceId": "40510",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
+          "ServiceId": "41170",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=60"
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=61"
           }
         },
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
+            "#cdata-section": "http://www.transitchicago.com/redline/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "251eac64-6888-4d86-9d1a-9aab487ddd92"
+    "GUID": "d7ec6dac-5988-47f2-bc53-84c6e5face8f"
   }
 ]
