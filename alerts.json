@@ -89,7 +89,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "29624737-d95d-4634-ab43-3fe13ed3e7ac"
+    "GUID": "8dbc8548-fda7-4e9c-87fa-1d9a5f878d3f"
   },
   {
     "AlertId": "94922",
@@ -148,5 +148,39 @@
     },
     "ttim": "0",
     "GUID": "15a9729a-894b-4866-9e84-ecc1f1372a6e"
+  },
+  {
+    "AlertId": "94923",
+    "Headline": "#91 Austin Temporary Southbound Reroute near Fillmore/Mason",
+    "ShortDescription": "Southbound 91 Austin buses are temporarily rerouted via Fillmore, Mayfield, Roosevelt and Austin due to street blockage near Fillmore/Mason.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #91 Austin buses are temporarily rerouted via Fillmore, Mayfield, Roosevelt and Austin due to street blockage near Fillmore/Mason.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-09-29T10:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94923"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Austin",
+        "ServiceId": "91",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/91/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "192eae59-df28-47c5-8aac-140cdc0d531b"
   }
 ]
