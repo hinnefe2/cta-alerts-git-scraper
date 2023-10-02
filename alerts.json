@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "94965",
-    "Headline": "Yellow Line Service Delayed near Howard",
-    "ShortDescription": "Yellow Line trains are standing near Howard due to debris on the tracks. Crews working to restore service.",
+    "Headline": "Update: Yellow Line Service Delayed near Howard",
+    "ShortDescription": "Update: Yellow Line trains are standing near Howard due to an obstruction. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Yellow Line trains are standing near Howard due to debris on the tracks.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include: #97 Skokie bus.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Update: Yellow Line trains are standing near Howard due to an obstruction.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include: #97 Skokie bus.&nbsp;</p>\r\n\r\n<p>Shuttle buses are available between Skokie-Dempster and Howard to provide connecting service.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "80",
     "SeverityColor": "c00c00",
@@ -55,6 +55,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "55aef9a5-c4c8-4cd9-bd60-3af4583ba097"
+    "GUID": "b81ae1aa-c19c-4671-870a-c625e8c47558"
+  },
+  {
+    "AlertId": "94966",
+    "Headline": "#81 Lawrence Temporary Reroute at Lawrence/Sheridan",
+    "ShortDescription": "81 Lawrence buses are temporarily rerouted in both directions via Lawrence, Sheridan and Wilson due to street blockage near Lawrence/Sheridan.",
+    "FullDescription": {
+      "#cdata-section": "<p>#81 Lawrence buses are temporarily rerouted in both directions via Lawrence, Sheridan and Wilson due to street blockage near Lawrence/Sheridan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-02T10:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=94966"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Lawrence",
+        "ServiceId": "81",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/81/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "bda84af0-aa9e-4fcf-8f6d-f4548888dffd"
   }
 ]
