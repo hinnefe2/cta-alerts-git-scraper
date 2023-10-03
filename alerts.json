@@ -134,5 +134,52 @@
     },
     "ttim": "0",
     "GUID": "037035ef-2b78-4f33-a1fb-79f93651b6f5"
+  },
+  {
+    "AlertId": "95032",
+    "Headline": "#9 Ashland, #X9 Ashland Express Temporary Northbound Reroute near Ashland/75th",
+    "ShortDescription": "Northbound 9 Ashland, X9 Ashland buses are temporarily rerouted via Ashland, 76th, Loomis, 74th and Ashland: due to, street blockage near Ashland/75th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #9 Ashland, #X9 Ashland buses are temporarily rerouted via Ashland, 76th, Loomis, 74th and Ashland: due to, street blockage near Ashland/75th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-03T17:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95032"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "129d7e48-f0d6-4f10-92c5-77cec9958baa"
   }
 ]
