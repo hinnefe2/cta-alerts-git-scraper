@@ -1,49 +1,70 @@
 [
   {
-    "AlertId": "95032",
-    "Headline": "#9 Ashland, #X9 Ashland Express Temporary Northbound Reroute near Ashland/75th",
-    "ShortDescription": "Northbound 9 Ashland, X9 Ashland buses are temporarily rerouted via Ashland, 76th, Loomis, 74th and Ashland: due to, street blockage near Ashland/75th.",
+    "AlertId": "95036",
+    "Headline": "#63 63rd Temporary Westbound Reroute near 64th/Stony Island",
+    "ShortDescription": "Westbound 63 63rd buses are temporarily rerouted via 63rd, Stony Island, Marquette, Cornell and 63rd: due to, street blockage near 64th/Stony Island.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #9 Ashland, #X9 Ashland buses are temporarily rerouted via Ashland, 76th, Loomis, 74th and Ashland: due to, street blockage near Ashland/75th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #63 63rd buses are temporarily rerouted via 63rd, Stony Island, Marquette, Cornell and 63rd: due to, street blockage near 64th/Stony Island.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-03T17:36:00",
+    "EventStart": "2023-10-03T20:13:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95032"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95036"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ashland",
-          "ServiceId": "9",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/9/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ashland Express",
-          "ServiceId": "X9",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "129d7e48-f0d6-4f10-92c5-77cec9958baa"
+    "GUID": "1b17b0b3-23f8-4f99-9b03-09b0de99574b"
+  },
+  {
+    "AlertId": "95037",
+    "Headline": "#54 Cicero Temporary Reroute at Cicero/Roosevelt",
+    "ShortDescription": "54 Cicero buses are temporarily rerouted via Cicero, Roosevelt, Laramie, Cermak and Cicero: due to, street blockage near Cicero/Roosevelt.",
+    "FullDescription": {
+      "#cdata-section": "<p>#54 Cicero buses are temporarily rerouted via Cicero, Roosevelt, Laramie, Cermak and Cicero: due to, street blockage near Cicero/Roosevelt.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-03T20:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95037"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cicero",
+        "ServiceId": "54",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "245d6386-2bec-4a3a-a493-57683a701159"
   }
 ]
