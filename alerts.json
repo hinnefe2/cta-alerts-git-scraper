@@ -69,10 +69,10 @@
   },
   {
     "AlertId": "95043",
-    "Headline": "Pink Line Experiencing Delays; Boarding change at Kedzie",
-    "ShortDescription": "Pink Line service running w/delays due to police investigation at Central Park; board all trains on the Loop-bound side at Kedzie.",
+    "Headline": "Pink Line Experiencing Delays; Boarding change at Kedzie; Station Bypass at Central Park",
+    "ShortDescription": "Pink Line service running w/delays due to police investigation at Central Park; board all trains on the Loop-bound side at Kedzie and Pulaski.",
     "FullDescription": {
-      "#cdata-section": "<p>Pink Line service is running with delays due to a police investigation at Central Park.</p>\r\n\r\n<p>Trains, in both directions, are running on the same track between Kedzie and Pulaski stations.</p>\r\n\r\n<p>&nbsp;Board/exit all trains on the Loop-bound side of the platform at Kedzie and Pulaski.</p>\r\n\r\n<p>We&#39;re working to restore normal service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Pink Line service is running with delays due to a police investigation at Central Park.&nbsp; Trains are bypassing Central Park in both directions.</p>\r\n\r\n<p>Trains, in both directions, are running on the same track between Kedzie and Pulaski stations.</p>\r\n\r\n<p>&nbsp;Board/exit all trains on the Loop-bound side of the platform at Kedzie and Pulaski.</p>\r\n\r\n<p>We&#39;re working to restore normal service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -99,53 +99,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "f53bacae-2846-48ec-87ab-45c4841b88b4"
+    "GUID": "5169fa42-fc78-479f-8963-26d6e0b6e9c5"
   },
   {
-    "AlertId": "95047",
-    "Headline": "Brown and Green Line Delays",
-    "ShortDescription": "Brown and Green Line trains are running w/residual delays following earlier debris on the tracks at State/Lake.  Service is resuming, allow extra time.",
+    "AlertId": "95051",
+    "Headline": "#7 Harrison Temporary Westbound Reroute near Congress Parkway/Kildare",
+    "ShortDescription": "Westbound 7 Harrison buses are temporarily rerouted via Congress Parkway, Pulaski, Jackson, Kostner and Harrison due to police activity.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown and Green Line trains are running w/residual delays following earlier debris on the tracks at State/Lake.</p>\r\n\r\n<p>&nbsp;Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #7 Harrison buses are temporarily rerouted via Congress Parkway, Pulaski, Jackson, Kostner and Harrison due to police activity.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-10-04T10:43:00",
-    "EventEnd": "2023-10-04T11:35:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-04T11:37:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95047"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95051"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Harrison",
+        "ServiceId": "7",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/7/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "f9d97d78-f3ce-4880-9e46-66f7feed4590"
+    "GUID": "474a42b0-d25c-4e6c-b9dc-ffc9fb1df86f"
   }
 ]
