@@ -103,5 +103,52 @@
     },
     "ttim": "0",
     "GUID": "2d7bb912-8180-424c-8b30-bda7ec2a3dba"
+  },
+  {
+    "AlertId": "95083",
+    "Headline": "Loop-bound Brown Line Service Running with Delays",
+    "ShortDescription": "Loop-bound Brown Line trains are running with delays near Paulina due to a sick customer.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Brown Line trains are running with delays near&nbsp;Paulina due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-10-05T07:27:00",
+    "EventEnd": "2023-10-05T07:44:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95083"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Paulina",
+          "ServiceId": "41310",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=143"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4185ca45-8a2d-4bb5-b6ad-fcb73f7724c2"
   }
 ]
