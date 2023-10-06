@@ -100,52 +100,5 @@
     },
     "ttim": "0",
     "GUID": "2a8d7e17-8b38-49f0-b1ef-dd17872ef27f"
-  },
-  {
-    "AlertId": "95143",
-    "Headline": "Loop-bound Brown and Purple Line Service Running with Delays",
-    "ShortDescription": "Loop-bound Brown and Purple Line trains are running with major delays near Armitage due to a mechanical problem.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown and Purple Line trains are running with major delays near Armitage due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2023-10-06T16:59:00",
-    "EventEnd": "2023-10-06T17:27:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95143"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "c18a60b9-172d-4e49-98f5-63cd52ca822d"
   }
 ]
