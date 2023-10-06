@@ -1,52 +1,5 @@
 [
   {
-    "AlertId": "95082",
-    "Headline": "#J14 Jeffery Jump, #15 Jeffery Local Temporary Reroute at Jeffery/91st",
-    "ShortDescription": "J14 Jeffery Jump, 15 Jeffery Local buses are temporarily rerouted via Jeffery, 93rd, Stony Island, 87th and Jeffery due to street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>#J14 Jeffery Jump, #15 Jeffery Local&nbsp;buses are temporarily rerouted&nbsp;in both directions&nbsp;via Jeffery, 93rd, Stony Island, 87th and Jeffery due to street blockage near Jeffery/91st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-05T07:15:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95082"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Jump",
-          "ServiceId": "J14",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Local",
-          "ServiceId": "15",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/15/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "2d7bb912-8180-424c-8b30-bda7ec2a3dba"
-  },
-  {
     "AlertId": "95084",
     "Headline": "#59 59th/61st Temporary Westbound Reroute near 59th/Kolmar",
     "ShortDescription": "Westbound 59 59th/61st buses are temporarily rerouted via 59th, Pulaski, 63rd and Cicero due to street blockage.",
@@ -79,40 +32,6 @@
     },
     "ttim": "0",
     "GUID": "68419dfa-7da3-4c90-9dcf-c4866ed46255"
-  },
-  {
-    "AlertId": "95097",
-    "Headline": "#71 71st/South Shore Temporary Reroute at 71st/Dobson",
-    "ShortDescription": "71 71st/South Shore buses are temporarily rerouted via 71st, Ellis, 72nd, Greenwood and 71st due to street blockage near 71st/Dobson.",
-    "FullDescription": {
-      "#cdata-section": "<p>#71 71st/South Shore buses are temporarily rerouted in both directions via 71st, Ellis, 72nd, Greenwood and 71st&nbsp;due to street blockage near 71st/Dobson.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-05T13:11:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95097"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "71st/South Shore",
-        "ServiceId": "71",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/71/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "dd580783-0b0b-4fc5-b193-eb218beebd0d"
   },
   {
     "AlertId": "95119",
