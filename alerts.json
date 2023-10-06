@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "95142",
-    "Headline": "Blue Line Service Delayed near Western (Forest Park Branch)",
-    "ShortDescription": "Blue Line trains are standing near Western (Forest Park Branch) due to police activity. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are standing near Western (Forest Park Branch) due to police activity.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-10-06T16:59:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95142"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e55cf38c-2b60-4885-b3ca-7d71938cbd4f"
-  },
-  {
     "AlertId": "95138",
     "Headline": "#151 Sheridan Temporary Northbound Reroute near Inner Lake Shore Drive/Oak",
     "ShortDescription": "NB 151 Sheridan buses are temp. rerouted via Michigan, Walton, State, Division, Clark, LaSalle & Stockton due to street blockage near Inner Lk Shr Drive/Oak.",
@@ -136,11 +102,92 @@
     "GUID": "2a8d7e17-8b38-49f0-b1ef-dd17872ef27f"
   },
   {
+    "AlertId": "95144",
+    "Headline": "O'Hare-bound trains bypassing Western (Forest Park Branch) Station",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running, but not stopping at Western (Forest Park Branch) due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue&nbsp;Line trains are running, but not stopping at Western (Forest Park Branch) due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2023-10-06T17:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95144"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Logan Square",
+          "ServiceId": "41020",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=94"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "12b5d112-bfd0-4363-8cde-7c1227adedea"
+  },
+  {
+    "AlertId": "95142",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at Western (Forest Park Branch)",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Western (Forest Park Branch) due to police activity.  Allow extra travel time.\r\n\r\n",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Western (Forest Park Branch) due to police activity.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-10-06T16:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95142"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2e10133f-83b2-43a3-919b-5bdd29d7c7e8"
+  },
+  {
     "AlertId": "95143",
     "Headline": "Loop-bound Brown and Purple Line Service Delayed at Armitage",
     "ShortDescription": "Loop-bound Brown and Purple Line trains are standing at Armitage due to a mechanical problem. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown and Purple Line trains are standing at Armitage due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Brown and Purple Line trains are standing at Armitage due to a mechanical problem.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -180,6 +227,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "df04d4fa-1a76-4869-84e0-fb4abe84c177"
+    "GUID": "59c6049a-e654-411c-bac1-3750029bcb6b"
   }
 ]
