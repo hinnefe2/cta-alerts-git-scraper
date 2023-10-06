@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "95142",
+    "Headline": "Blue Line Service Delayed near Western (Forest Park Branch)",
+    "ShortDescription": "Blue Line trains are standing near Western (Forest Park Branch) due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are standing near Western (Forest Park Branch) due to police activity.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-10-06T16:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95142"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e55cf38c-2b60-4885-b3ca-7d71938cbd4f"
+  },
+  {
     "AlertId": "95138",
     "Headline": "#151 Sheridan Temporary Northbound Reroute near Inner Lake Shore Drive/Oak",
     "ShortDescription": "NB 151 Sheridan buses are temp. rerouted via Michigan, Walton, State, Division, Clark, LaSalle & Stockton due to street blockage near Inner Lk Shr Drive/Oak.",
@@ -100,5 +134,52 @@
     },
     "ttim": "0",
     "GUID": "2a8d7e17-8b38-49f0-b1ef-dd17872ef27f"
+  },
+  {
+    "AlertId": "95143",
+    "Headline": "Loop-bound Brown and Purple Line Service Delayed at Armitage",
+    "ShortDescription": "Loop-bound Brown and Purple Line trains are standing at Armitage due to a mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Brown and Purple Line trains are standing at Armitage due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-10-06T16:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95143"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "df04d4fa-1a76-4869-84e0-fb4abe84c177"
   }
 ]
