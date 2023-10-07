@@ -168,5 +168,52 @@
     },
     "ttim": "0",
     "GUID": "e952b11a-cbe4-4155-bc15-35cd9b5fc636"
+  },
+  {
+    "AlertId": "95161",
+    "Headline": "#J14 Jeffery Jump, #6 Jackson Park Express Temporary Southbound Reroute near Roosevelt/Michigan",
+    "ShortDescription": "SB J14 Jeffery Jump, 6 Jackson Park Exp, buses are temporarily rerouted via Michigan, Cermak, King Drive, 47th & Lake Park due to, street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound&nbsp;#J14 Jeffery Jump, #6 Jackson Park Express&nbsp;buses are temporarily rerouted via Michigan, Cermak, King Drive, 47th and&nbsp;Lake Park due to, street blockage near Roosevelt/Michigan.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-07T15:31:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95161"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "18fc8b1c-06a0-4380-aaa2-539ff99ea485"
   }
 ]
