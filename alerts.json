@@ -1,105 +1,37 @@
 [
   {
-    "AlertId": "95138",
-    "Headline": "#151 Sheridan Temporary Northbound Reroute near Inner Lake Shore Drive/Oak",
-    "ShortDescription": "NB 151 Sheridan buses are temp. rerouted via Michigan, Walton, State, Division, Clark, LaSalle & Stockton due to street blockage near Inner Lk Shr Drive/Oak.",
+    "AlertId": "95147",
+    "Headline": "Loop-bound Brown Line Delays",
+    "ShortDescription": "Loop-bound Brown Line trains are running w/residual delays following an earlier mechanical problem on a train at Western. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #151 Sheridan buses are temporarily rerouted via Michigan, Walton, State, Division, Clark, LaSalle and&nbsp;Stockton due to street blockage near Inner Lake Shore Drive/Oak.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Brown Line trains are running with residual delays following an earlier mechanical problem on a train at Western.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-06T16:04:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-10-06T21:05:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95138"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95147"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Sheridan",
-        "ServiceId": "151",
-        "ServiceBackColor": "059",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "e9c49fa9-75e2-4e22-86fb-9bde0ab3c439"
-  },
-  {
-    "AlertId": "95132",
-    "Headline": "#172 U. of Chicago/Kenwood Temporary Southbound Reroute near Ellis/54th",
-    "ShortDescription": "Southbound 172 U. of Chicago/Kenwood buses are temporarily rerouted via Ellis, 54th, Greenwood, 55th, and Ellis due to street blockage near Ellis/54th.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #172 U. of Chicago/Kenwood buses are temporarily rerouted via Ellis, 54th, Greenwood, 55th, and Ellis due to street blockage near Ellis/54th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-06T12:53:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95132"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "U. of Chicago/Kenwood",
-        "ServiceId": "172",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/172/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "250e6342-2a9f-4b41-8d59-78f9bc750d34"
-  },
-  {
-    "AlertId": "95125",
-    "Headline": "Update: #59 59th/61st Temporary Reroute at 59th/Kolmar",
-    "ShortDescription": "59 59th/61st buses are temporarily rerouted via 59th, Pulaski, 63rd, Cicero, and 59th due to, street blockage near 59th/Kolmar.",
-    "FullDescription": {
-      "#cdata-section": "<p>#59 59th/61st buses are temporarily rerouted in both directions via 59th, Pulaski, 63rd, Cicero, and 59th due to, street blockage near 59th/Kolmar.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-06T09:37:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95125"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "59th/61st",
-        "ServiceId": "59",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/59/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "2a8d7e17-8b38-49f0-b1ef-dd17872ef27f"
+    "GUID": "6181f57e-0c5f-4f65-bfc2-3301ee690ddb"
   },
   {
     "AlertId": "95146",
@@ -134,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "89c2d779-19cd-4a6d-8366-205b26e6bc3f"
+  },
+  {
+    "AlertId": "95125",
+    "Headline": "Update: #59 59th/61st Temporary Reroute at 59th/Kolmar",
+    "ShortDescription": "59 59th/61st buses are temporarily rerouted via 59th, Pulaski, 63rd, Cicero, and 59th due to, street blockage near 59th/Kolmar.",
+    "FullDescription": {
+      "#cdata-section": "<p>#59 59th/61st buses are temporarily rerouted in both directions via 59th, Pulaski, 63rd, Cicero, and 59th due to, street blockage near 59th/Kolmar.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-06T09:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95125"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "59th/61st",
+        "ServiceId": "59",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/59/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2a8d7e17-8b38-49f0-b1ef-dd17872ef27f"
   }
 ]
