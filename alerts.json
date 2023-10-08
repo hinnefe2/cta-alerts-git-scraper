@@ -68,38 +68,38 @@
     "GUID": "b9ec4322-fcbe-4fb0-bb82-50e3cc1d5587"
   },
   {
-    "AlertId": "95175",
-    "Headline": "Trains bypassing Clark/Lake Station",
-    "ShortDescription": "Blue Line trains are running, but not stopping at Clark/Lake due to police activity.",
+    "AlertId": "95176",
+    "Headline": "#119 Michigan/119th Temporary Reroute near 119th/Marshfield",
+    "ShortDescription": "119 Michigan/119th buses temp. rerouted EB: 119th, Vincennes, 115th, Marshfield, and 119th; WB: 119th, Ashland, 115th, vincennes, and 119th nr 119th/Marshfield.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running, but not stopping at Clark/Lake due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+      "#cdata-section": "<p>#119 Michigan/119th buses are temporarily rerouted in both directions&nbsp;due to street blockage near 119th/Marshfield.</p>\r\n\r\n<p>Eastbound buses will operate via 119th, Vincennes, 115th, Marshfield, and 119th.</p>\r\n\r\n<p>Westbound buses will operate via 119th, Ashland, 115th, vincennes, and 119th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "58",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2023-10-08T11:48:00",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-08T12:07:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95175"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95176"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Michigan/119th",
+        "ServiceId": "119",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/119/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "01f8544a-630c-480e-932c-3cd253fa24cc"
+    "GUID": "7100f3ce-246b-443d-b547-207c101cbbfa"
   },
   {
     "AlertId": "95174",
@@ -134,5 +134,39 @@
     },
     "ttim": "0",
     "GUID": "ee1d1eae-1f9c-4de8-8daa-2c4c0b0fb53c"
+  },
+  {
+    "AlertId": "95175",
+    "Headline": "No Trains Between Damen and Western (Forest Park Branch)",
+    "ShortDescription": "Blue Line service has been temporarily suspended between Damen and Western (FP Branch) due to police activty.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line service has been temporarily suspended between Damen and Western (FP Branch) due to police activty.</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li><strong>between O&#39;Hare and Damen</strong>, and,</li>\r\n\t<li><strong>between Western (Forest Park Branch)&nbsp;and Forest Park</strong>, only.</li>\r\n</ul>\r\n\r\n<p>Shuttle buses <u><strong>have been requested</strong></u>&nbsp;to provide connecting service through the affected area.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.<br />\r\n&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2023-10-08T11:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95175"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e751ab35-55bf-4609-8ea5-be563c4f16af"
   }
 ]
