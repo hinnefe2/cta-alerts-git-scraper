@@ -68,37 +68,37 @@
     "GUID": "b9ec4322-fcbe-4fb0-bb82-50e3cc1d5587"
   },
   {
-    "AlertId": "95167",
-    "Headline": " Blue Line Service Running with Delays",
-    "ShortDescription": " Blue Line trains are running with significant delays from O'Hare and Forest Park",
+    "AlertId": "95168",
+    "Headline": "#55 Garfield Temporary Eastbound Reroute near 55th/Wabash",
+    "ShortDescription": "Eastbound 55 Garfield buses are temporarily rerouted via 55th, Wabash, 59th, Indiana and 55th due to street blockage near 55th/Wabash.",
     "FullDescription": {
-      "#cdata-section": "<p>&nbsp;Blue Line trains are running with significant delays from O&#39;Hare and Forest Park.</p>\r\n\r\n<p>&nbsp;At this time, also consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Eastbound #55 Garfield buses are temporarily rerouted via 55th, Wabash, 59th, Indiana and 55th due to street blockage near 55th/Wabash.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-10-07T22:05:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-08T05:05:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95167"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95168"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Garfield",
+        "ServiceId": "55",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/55/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "32616b20-848e-4c6a-a0c0-73f2a379560c"
+    "GUID": "92ed896a-3d35-4fba-9f30-ab14e7917880"
   }
 ]
