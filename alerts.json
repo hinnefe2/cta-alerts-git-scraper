@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "b9ec4322-fcbe-4fb0-bb82-50e3cc1d5587"
+  },
+  {
+    "AlertId": "95170",
+    "Headline": "#65 Grand, #74 Fullerton Temporary Reroute at Grand/Normandy",
+    "ShortDescription": "#65 Grand, #74 Fullerton buses are temporarily rerouted via Grand, Narragansett, Diversey, Oak Park and Grand: due to, street blockage near Grand/Normandy.",
+    "FullDescription": {
+      "#cdata-section": "<p>#65 Grand, #74 Fullerton buses are temporarily rerouted via Grand, Narragansett, Diversey, Oak Park and Grand: due to, street blockage near Grand/Normandy.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-08T06:31:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95170"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Grand",
+          "ServiceId": "65",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/65/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Fullerton",
+          "ServiceId": "74",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/74/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "cfeff67b-b88f-46c1-a303-411d4fdc4005"
   }
 ]
