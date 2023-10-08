@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "95171",
+    "Headline": "Forest Park-bound Blue Line Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following an earlier sick customer at Cumberland. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays following an earlier sick customer at Cumberland.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-10-08T07:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95171"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "87c06949-bc8c-4263-bc46-c7a4d02c0c1b"
+  },
+  {
     "AlertId": "95152",
     "Headline": "#54 Cicero Temporary Reroute at Cicero/31st",
     "ShortDescription": "54 Cicero buses are temporarily rerouted via Cicero, 16th, Laramie, Cermak, and Cicero due to street blockage near Cicero/31st.",
@@ -66,52 +100,5 @@
     },
     "ttim": "0",
     "GUID": "b9ec4322-fcbe-4fb0-bb82-50e3cc1d5587"
-  },
-  {
-    "AlertId": "95170",
-    "Headline": "#65 Grand, #74 Fullerton Temporary Reroute at Grand/Normandy",
-    "ShortDescription": "#65 Grand, #74 Fullerton buses are temporarily rerouted via Grand, Narragansett, Diversey, Oak Park and Grand: due to, street blockage near Grand/Normandy.",
-    "FullDescription": {
-      "#cdata-section": "<p>#65 Grand, #74 Fullerton buses are temporarily rerouted via Grand, Narragansett, Diversey, Oak Park and Grand: due to, street blockage near Grand/Normandy.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-08T06:31:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95170"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Grand",
-          "ServiceId": "65",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/65/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Fullerton",
-          "ServiceId": "74",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/74/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "cfeff67b-b88f-46c1-a303-411d4fdc4005"
   }
 ]
