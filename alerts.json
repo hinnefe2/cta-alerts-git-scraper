@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "95190",
-    "Headline": "Forest Park-bound Blue Line Service Delayed at LaSalle",
-    "ShortDescription": "Forest Park-bound Blue Line trains are standing at LaSalle due to a sick customer. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at LaSalle due to a sick customer.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-10-09T00:59:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95190"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0123e462-b227-4cfe-9068-29555ef1d0ac"
-  },
-  {
     "AlertId": "95187",
     "Headline": "Forest Park-bound Blue Line Service Running with Delays",
     "ShortDescription": "Forest Park-bound Blue Line trains are running with delays from O'Hare.",
@@ -66,6 +32,28 @@
     },
     "ttim": "0",
     "GUID": "67280c3b-ee91-4b3d-98c6-51af4b353f6b"
+  },
+  {
+    "AlertId": "95190",
+    "Headline": "Forest Park-bound Blue Line Service Running with Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running with delays near LaSalle due to a sick customer.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with delays near&nbsp;LaSalle due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-10-09T00:59:00",
+    "EventEnd": "2023-10-09T01:16:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95190"
+    },
+    "ImpactedService": null,
+    "ttim": "0",
+    "GUID": "5fe6d7c2-9bf1-4ad0-b1ff-688c2de2aac8"
   },
   {
     "AlertId": "95152",
