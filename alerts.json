@@ -32,5 +32,120 @@
     },
     "ttim": "0",
     "GUID": "e1e8f554-09e6-4b38-ace2-0e0c11289ad0"
+  },
+  {
+    "AlertId": "95160",
+    "Headline": "#146 Inner Lake Shore/Michigan Express Temporary Reroute near Roosevelt/Michigan",
+    "ShortDescription": "146 Inner Lake Shore/Michigan Exp buses temp. rerouted SB: State, Roosevelt & Orange Line; NB: Michigan, 9th & State near Roosevelt/Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express&nbsp;buses are temporarily rerouted in both directions&nbsp;due to street blockage&nbsp;near Roosevelt/Michigan.</p>\r\n\r\n<p>Northbound&nbsp;buses will operate via Michigan, 9th and State&nbsp;.</p>\r\n\r\n<p>Southbound buses will operate via State, Roosevelt and the Orange Line.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-08T19:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95160"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Inner Lake Shore/Michigan Express",
+        "ServiceId": "146",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/146/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "212e9313-733a-4c5a-a019-72ab909ea86d"
+  },
+  {
+    "AlertId": "95161",
+    "Headline": "#J14 Jeffery Jump, #6 Jackson Park Express Temporary Reroute near Roosevelt/Michigan",
+    "ShortDescription": "J14 Jeffery Jump, #6 Jackson Pk Exp buses temp. rerouted via Michigan, Cermak, State, 25th, I-55 South, DuSable LSD near Roosevelt/Madison.\r\n\r\n",
+    "FullDescription": {
+      "#cdata-section": "<p>#J14 Jeffery Jump, #6 Jackson Park Express buses are temporarily rerouted in both directions via Michigan, Cermak, State, 25th, I-55 South, DuSable Lake Shore Drive&nbsp;near Roosevelt/Madison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-08T19:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95161"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "0e6e8a1f-9800-4da8-a816-ca4ea5380f72"
+  },
+  {
+    "AlertId": "95162",
+    "Headline": " #12 Roosevelt Temporary Eastbound Reroute near Roosevelt/Michigan",
+    "ShortDescription": "Eastbound 12 Roosevelt buses are temporarily rerouted via Roosevelt, Michigan, 14th and Indiana due to, street blockage near Roosevelt/Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #12 Roosevelt buses are temporarily rerouted via Roosevelt, Michigan, 14th and Indiana due to, street blockage near Roosevelt/Michigan.</p>\r\n\r\n<p>Westbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-08T19:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95162"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Roosevelt",
+        "ServiceId": "12",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/12/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c0eb59a4-3f65-464d-a6d6-f0e8c390848d"
   }
 ]
