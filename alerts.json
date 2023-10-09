@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "95190",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at LaSalle",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at LaSalle due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at LaSalle due to a sick customer.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-10-09T00:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95190"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0123e462-b227-4cfe-9068-29555ef1d0ac"
+  },
+  {
     "AlertId": "95187",
     "Headline": "Forest Park-bound Blue Line Service Running with Delays",
     "ShortDescription": "Forest Park-bound Blue Line trains are running with delays from O'Hare.",
@@ -32,74 +66,6 @@
     },
     "ttim": "0",
     "GUID": "67280c3b-ee91-4b3d-98c6-51af4b353f6b"
-  },
-  {
-    "AlertId": "95188",
-    "Headline": "#77 Belmont Temporary Westbound Reroute near Sheridan/Briar",
-    "ShortDescription": "Westbound 77 Belmont buses are temporarily rerouted via Diversey, Broadway, Belmont, and Sheridan due to, street blockage near Sheridan/Briar.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #77 Belmont buses are temporarily rerouted via Diversey, Broadway, Belmont, and Sheridan due to, street blockage near Sheridan/Briar.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-09T00:19:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95188"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Belmont",
-        "ServiceId": "77",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/77/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8cfe2d7e-e1f8-4405-8c58-e22b3275c9db"
-  },
-  {
-    "AlertId": "95189",
-    "Headline": "#151 Sheridan Temporary Reroute at Sheridan/Briar",
-    "ShortDescription": "151 Sheridan buses are temporarily rerouted via Sheridan, Diversey, Broadway, Belmont, and Sheridan due to, street blockage near Sheridan/Briar.",
-    "FullDescription": {
-      "#cdata-section": "<p>#151 Sheridan buses are temporarily rerouted in both directions via Sheridan, Diversey, Broadway, Belmont, and Sheridan due to, street blockage near Sheridan/Briar.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-09T00:22:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95189"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Sheridan",
-        "ServiceId": "151",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/151/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d2e41341-674a-447b-8ab8-6fccaf9eac20"
   },
   {
     "AlertId": "95152",
