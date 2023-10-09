@@ -81,40 +81,6 @@
     "GUID": "0e6e8a1f-9800-4da8-a816-ca4ea5380f72"
   },
   {
-    "AlertId": "95199",
-    "Headline": "#24 Wentworth Temporary Northbound Reroute near Dearborn/Wacker",
-    "ShortDescription": "Northbound 24 Wentworth buses are temporarily rerouted via Wentworth, Dearborn, Kinzie, Clark and Lake: due to, street blockage near Dearborn/Wacker.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #24 Wentworth buses are temporarily rerouted via Wentworth, Dearborn, Kinzie, Clark and Lake: due to, street blockage near Dearborn/Wacker.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-09T11:39:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95199"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Wentworth",
-        "ServiceId": "24",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/24/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "9a109831-b9b9-4dde-9805-51648ac61dfc"
-  },
-  {
     "AlertId": "95197",
     "Headline": "#29 State Temporary Southbound Reroute near Grand/State",
     "ShortDescription": "Southbound 29 State buses are temporarily rerouted via Grand, Lasalle, Jackson, Clark, Harrison and State: due to, street blockage near Grand/State.",
@@ -149,37 +115,37 @@
     "GUID": "4f7f42aa-15a3-445f-a230-3f10d1e971e0"
   },
   {
-    "AlertId": "95196",
-    "Headline": "Red Line Delays",
-    "ShortDescription": "Red Line trains are running w/residual delays and congestion following earlier signal problems at 95th. Service is resuming, allow extra time.",
+    "AlertId": "95199",
+    "Headline": "#24 Wentworth Temporary Northbound Reroute near Dearborn/Wacker",
+    "ShortDescription": "Northbound 24 Wentworth buses are temporarily rerouted via Wentworth, Dearborn, Kinzie, Clark and Lake: due to, street blockage near Dearborn/Wacker.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running w/residual delays and congestion following earlier signal problems at 95th.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #24 Wentworth buses are temporarily rerouted via Wentworth, Dearborn, Kinzie, Clark and Lake: due to, street blockage near Dearborn/Wacker.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-10-09T09:47:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-09T11:39:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95196"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95199"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Wentworth",
+        "ServiceId": "24",
+        "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/24/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "0d4a25e0-6cd2-48d1-bb43-05caf827b224"
+    "GUID": "9a109831-b9b9-4dde-9805-51648ac61dfc"
   }
 ]
