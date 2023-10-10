@@ -68,37 +68,71 @@
     "GUID": "4d8e07db-b36a-4c01-8934-f9e9efed13c7"
   },
   {
-    "AlertId": "95218",
-    "Headline": "#J14 Jeffery Jump Temporary Westbound Reroute near Madison/Wacker",
-    "ShortDescription": "Westbound J14 Jeffery Jump buses are temporarily rerouted via Madison, Wacker, Randolph, Desplaines and Washington: due to, street blockage near Madison/Wacker.",
+    "AlertId": "95219",
+    "Headline": "#20 Madison Temporary Westbound Reroute near Madison/Wacker",
+    "ShortDescription": "Westbound 20 Madison buses are temporarily rerouted via Madison, Wacker, Randolph, Desplaines and Madison: due to, street blockage near Madison/Wacker.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound #J14 Jeffery Jump buses are temporarily rerouted via Madison, Wacker, Randolph, Desplaines and Washington: due to, street blockage near Madison/Wacker</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #20 Madison buses are temporarily rerouted via Madison, Wacker, Randolph, Desplaines and Madison: due to, street blockage near Madison/Wacker.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-10T11:04:00",
+    "EventStart": "2023-10-10T11:15:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95218"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95219"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jeffery Jump",
-        "ServiceId": "J14",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
         "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "54bd53f5-2aed-4809-b036-410acff0fc24"
+    "GUID": "02a1e026-9626-406c-8812-a88b2035350d"
+  },
+  {
+    "AlertId": "95220",
+    "Headline": "#56 Milwaukee Temporary Northbound Reroute near Madison/Wacker",
+    "ShortDescription": "Northbound 56 Milwaukee buses are temporarily rerouted via Madison, Wacker, Randolph and Jefferson: due to, street blockage near Madison/Wacker.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound 56 Milwaukee buses are temporarily rerouted via Madison, Wacker, Randolph and Jefferson: due to, street blockage near Madison/Wacker.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-10T11:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95220"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Milwaukee",
+        "ServiceId": "56",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/56/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2aa7b72c-940c-4f2a-973f-fb19c073b932"
   }
 ]
