@@ -69,16 +69,16 @@
   },
   {
     "AlertId": "95223",
-    "Headline": "#74 Fullerton Temporary Reroute at Fullerton/Sacramento",
-    "ShortDescription": "74 Fullerton buses are temporarily rerouted via Fullerton, Kedzie, Armitage, California and Fullerton: due to, street blockage near Fullerton/Sacramento.",
+    "Headline": "Howard-bound Red Line Service Delayed at Sheridan",
+    "ShortDescription": "Howard-bound Red Line trains are standing at Sheridan due to police activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>#74 Fullerton buses are temporarily rerouted via Fullerton, Kedzie, Armitage, California and Fullerton: due to, street blockage near Fullerton/Sacramento.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Sheridan due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-10T13:22:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-10-10T14:08:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
@@ -86,19 +86,32 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95223"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Fullerton",
-        "ServiceId": "74",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/74/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Sheridan",
+          "ServiceId": "40080",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=125"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "5611d9d4-b76b-4e50-8ac8-95977318c1fc"
+    "GUID": "5221c2b3-4eb3-4db7-ae4c-da75e369d990"
   }
 ]
