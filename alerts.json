@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "95238",
-    "Headline": "#59 59th/61st Temporary Reroute at 59th/Kenton",
-    "ShortDescription": "59 59th/61st buses are temporarily rerouted via 59th, Pulaski, 63rd, and Cicero due to, construction near at 59th/Kenton.",
-    "FullDescription": {
-      "#cdata-section": "<p>#59 59th/61st buses are temporarily rerouted in both directions via 59th, Pulaski, 63rd, and Cicero due to, construction near at 59th/Kenton.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-11T06:59:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95238"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "59th/61st",
-        "ServiceId": "59",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/59/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ad16aa03-0a85-4eb6-8ff2-1cfc47b35a35"
-  },
-  {
     "AlertId": "95245",
     "Headline": "#48 South Damen Temporary Southbound Reroute near Damen/47th",
     "ShortDescription": "SB 48 South Damen buses are temporarily rerouted via 47th, Ashland, 51st, and Damen due to construction near Damen/47th.",
@@ -66,52 +32,5 @@
     },
     "ttim": "0",
     "GUID": "7a7823a3-240e-427b-8ff1-23262b70c326"
-  },
-  {
-    "AlertId": "95251",
-    "Headline": "#9 Ashland, #X9 Ashland Express Temporary Northbound Reroute near Ashland/Lake",
-    "ShortDescription": "Northbound 9 Ashland, X9 Ashland Express buses are temporarily rerouted via Ashland, Madison, Paulina and Fulton: due to street blockage near  Ashland/Lake.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #9 Ashland,&nbsp; #X9&nbsp; Ashland Express buses are temporarily rerouted via Ashland, Madison, Paulina and Fulton: due to street blockage near&nbsp; Ashland/Lake.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-11T14:52:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95251"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ashland",
-          "ServiceId": "9",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/9/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ashland Express",
-          "ServiceId": "X9",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "4b2dcb65-6cda-4601-bb91-2fe5a0fec718"
   }
 ]
