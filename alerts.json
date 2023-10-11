@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "f829685f-83b0-4d2e-bf14-71acd38c115f"
+  },
+  {
+    "AlertId": "95251",
+    "Headline": "#9 Ashland, #X9 Ashland Express Temporary Northbound Reroute near Ashland/Lake",
+    "ShortDescription": "Northbound 9 Ashland, X9 Ashland Express buses are temporarily rerouted via Ashland, Madison, Paulina and Fulton: due to street blockage near  Ashland/Lake.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #9 Ashland,&nbsp; #X9&nbsp; Ashland Express buses are temporarily rerouted via Ashland, Madison, Paulina and Fulton: due to street blockage near&nbsp; Ashland/Lake.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-11T14:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95251"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4b2dcb65-6cda-4601-bb91-2fe5a0fec718"
   }
 ]
