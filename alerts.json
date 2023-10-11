@@ -32,5 +32,86 @@
     },
     "ttim": "0",
     "GUID": "7a7823a3-240e-427b-8ff1-23262b70c326"
+  },
+  {
+    "AlertId": "95271",
+    "Headline": "95th-bound Red Line Delays",
+    "ShortDescription": "95th-bound Red Line trains are running w/residual delays following an earlier sick customer at 87th. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are running w/residual delays following an earlier sick customer at 87th.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-10-11T17:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95271"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "87th",
+          "ServiceId": "41430",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=12"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4510ecb2-d11b-4a10-ab30-ade4f5a0435a"
+  },
+  {
+    "AlertId": "95272",
+    "Headline": "#70 Division Temporary Eastbound Reroute near Division/Long",
+    "ShortDescription": "Eastbound 70 Division buses are temporarily rerouted via Division, Central, Augusta, Laramie and Division: due to, street blockage near Division/Long.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #70 Division buses are temporarily rerouted via Division, Central, Augusta, Laramie and Division: due to, street blockage near Division/Long.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-11T17:44:00",
+    "EventEnd": "2023-10-14T17:44:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95272"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Division",
+        "ServiceId": "70",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/70/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "24addc76-e315-44fa-b746-8b96a79c438d"
   }
 ]
