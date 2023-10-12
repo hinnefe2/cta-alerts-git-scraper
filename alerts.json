@@ -4,7 +4,7 @@
     "Headline": "#29 State Temporary Reroute at State/63rd",
     "ShortDescription": "29 State buses are temporarily rerouted in both directions via State, 61st, King Drive, 67th and State due to street blockage near State/63rd.",
     "FullDescription": {
-      "#cdata-section": "<p>#29 State buses are temporarily rerouted in both directions via State, 61st, King Drive, 67th and State due to street blockage near State/63rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#29 State buses are temporarily rerouted in both directions via State, 61st, King Drive, 67th and State due to street blockage near State/63rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "29781bfc-c7da-40d0-92ea-f4976d3a28fe"
+    "GUID": "ea40ae25-c51d-4aba-92dd-a8cd8622f7ba"
+  },
+  {
+    "AlertId": "95275",
+    "Headline": "#63 63rd Temporary Reroute near State/63rd",
+    "ShortDescription": "63 63rd buses rerouted Westbound via 63rd, Prairie, 59th, Yale & 63rd: Eastbound via 63rd, Wentworth, 59th, Prairie & 63rd due to street blockage nr State/63rd.",
+    "FullDescription": {
+      "#cdata-section": "<p><span style=\"font-weight: bolder; outline: 0px; color: rgb(35, 31, 32);\">How does this affect my trip?</span></p>\r\n\r\n<p>#63 63rd&nbsp; buses are temporarily rerouted in both directions due to street blockage near State/63rd.</p>\r\n\r\n<ul>\r\n\t<li><strong>Westbound</strong> via 63rd, Prairie, 59th, Yale and 63rd.</li>\r\n\t<li><strong>Eastbound</strong> via 63rd, Wentworth, 59th, Prairie and 63rd.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-11T21:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95275"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "63b147c0-5e12-4ff6-9da6-b92eecb18e47"
   }
 ]
