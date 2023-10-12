@@ -1,1 +1,117 @@
-[]
+[
+  {
+    "AlertId": "95286",
+    "Headline": "#49 Western and #X49 Western Express Temporary Reroute near Western/34th",
+    "ShortDescription": "#49 Western, #X49 Western Exp. buses rerouted NB: Western, 35th, Western Blvd., and Western; SB: Western, 31st, California, 35th, and Western near Western/34th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#49 Western and #X49 Western Express buses are temporarily rerouted in both directions near Western/34th due to street blockage.</p>\r\n\r\n<p>Northbound buses will operate via Western, 35th, Western Blvd., and Western.</p>\r\n\r\n<p>Southbound buses will operate via Western, 31st, California, 35th, and Western.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-12T11:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95286"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western",
+          "ServiceId": "49",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western Express",
+          "ServiceId": "X49",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "33e91501-78f7-4291-871c-362deae60c89"
+  },
+  {
+    "AlertId": "95287",
+    "Headline": "#59 59th/61st Temporary Eastbound Reroute near 59th/Cicero",
+    "ShortDescription": "Eastbound 59 59th/61st buses are temporarily rerouted via Midway Terminal, 59th, Cicero, 55th, Pulaski, and 59th due to, street blockage near 59th/Cicero.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #59 59th/61st buses are temporarily rerouted via Midway Terminal, 59th, Cicero, 55th, Pulaski, and 59th, due to street blockage near 59th/Cicero.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-12T11:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95287"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "59th/61st",
+        "ServiceId": "59",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/59/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "07209ccc-30d4-4156-a75f-804067d1ff18"
+  },
+  {
+    "AlertId": "95288",
+    "Headline": "#63 63rd Temporary Eastbound Reroute near 59th/Cicero",
+    "ShortDescription": "EB 63 63rd buses are temporarily rerouted via Midway Terminal, 59th, Cicero, 55th, Pulaski, and 63rd due to, street blockage near 59th/Cicero.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound&nbsp;#63 63rd buses are temporarily rerouted via Midway Terminal, 59th, Cicero, 55th, Pulaski, and 63rd due to, street blockage near 59th/Cicero.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-12T11:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95288"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "108c1336-a3f2-4dfc-81ef-68735f8c8b4f"
+  }
+]
