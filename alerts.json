@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "AlertId": "95300",
+    "Headline": "Blue Line Service Running with Delays",
+    "ShortDescription": "Blue Line trains are running with interval delays. Allow extra travel time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running with interval delays.&nbsp;Personnel are working to restore normal service.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-10-13T02:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95300"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a5cd1054-d786-41c0-a842-cdcc6d076fd9"
+  }
+]
