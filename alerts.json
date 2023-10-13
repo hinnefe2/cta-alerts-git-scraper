@@ -35,15 +35,15 @@
   },
   {
     "AlertId": "95309",
-    "Headline": "Brown and Red  Line Service Delayed at Belmont",
-    "ShortDescription": "Brown and Red Line trains are standing at Belmont due to police activity. Crews working to restore service.",
+    "Headline": "No Trains Between Thorndale and Fullerton",
+    "ShortDescription": "Red Line service has been temporarily suspended between Thorndale and Fullerton due to police activity at Belmont.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown and Red Line trains are standing at Belmont due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line service has been temporarily suspended between Thorndale and Fullerton due to police activity at Belmont.</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li><strong>between Howard and Thorndale</strong>&nbsp;and,</li>\r\n\t<li><strong>between Fullerton&nbsp;and 95th</strong>, only.</li>\r\n</ul>\r\n\r\n<p>Shuttle buses have been requested to provide connecting service through the affected area.&nbsp;</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.<br />\r\n&nbsp;</p>\r\n"
     },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
     "EventStart": "2023-10-13T13:19:00",
     "EventEnd": null,
     "TBD": "1",
@@ -52,32 +52,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95309"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "a7996bd8-d2f8-46d8-9a67-082dac940ee8"
+    "GUID": "dfdcd362-6ac5-4b97-a613-c33445392c43"
   }
 ]
