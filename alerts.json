@@ -99,6 +99,100 @@
       }
     },
     "ttim": "0",
-    "GUID": "e64f127a-4e48-475b-9340-96e5fbcf8e1c"
+    "GUID": "60a78e51-e1cf-444e-9192-4f80f088c970"
+  },
+  {
+    "AlertId": "95368",
+    "Headline": "#79 79th Temporary Reroute near 79th/State",
+    "ShortDescription": "79 79th buses temp. rerouted EB: 79th, Lafayette, 83rd, State and 79th; WB: 79th, State, 76th, Lafayette and 79th due to street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#79 79th buses are temporarily rerouted in both directions near 79th/State, due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via 79th, Lafayette, 83rd, State and 79th.</p>\r\n\r\n<p>Westbound buses will operate via 79th, State, 76th, Lafayette and 79th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-14T18:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95368"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "74th-75th",
+          "ServiceId": "75",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/75/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "79th",
+          "ServiceId": "79",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/79/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "52b241ae-9f76-4715-91aa-63bde32e3daf"
+  },
+  {
+    "AlertId": "95369",
+    "Headline": "#75 74th-75th Temporary Reroute at 79th/State",
+    "ShortDescription": "75 74th-75th buses are temporarily rerouted via 75th, Lafayette, 83rd, State and 75th due to street blockage near 79th/State.",
+    "FullDescription": {
+      "#cdata-section": "<p>#75 74th-75th buses are temporarily rerouted in both directions via 75th, Lafayette, 83rd, State and 75th&nbsp;due to street blockage near 79th/State.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-14T18:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95369"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "74th-75th",
+          "ServiceId": "75",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/75/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "79th",
+          "ServiceId": "79",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/79/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "363be1ca-be04-43a9-9515-2a29244ed7a5"
   }
 ]
