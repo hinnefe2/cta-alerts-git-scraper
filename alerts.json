@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "95377",
+    "Headline": "Delays on Loop 'L' (elevated lines)",
+    "ShortDescription": "Green, Orange and Pink Line trains are experiencing delays due to a mechanical problem on a train near Adams/Wabash.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green, Orange and Pink Line trains are experiencing delays due to a mechanical problem on a train near Adams/Wabash.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-10-15T14:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95377"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b2a1e66f-158a-42ff-aee4-c7b3ca0dedbe"
+  },
+  {
     "AlertId": "95363",
     "Headline": "#18 16th-18th Temporary Reroute at 18th/Blue Island",
     "ShortDescription": "18 16th-18th buses are temporarily rerouted via 18th, Ashland, Cermak, Loomis and 16th: due to, street blockage near 18th/Blue Island.",
