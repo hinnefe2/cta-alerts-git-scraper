@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "95382",
-    "Headline": "Blue Line Service Delayed at O'Hare and Forest Park",
-    "ShortDescription": "Blue Line trains are standing at O'Hare and Forest Park. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are standing at O&#39;Hare and Forest Park.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-10-15T22:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95382"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ae342268-b064-40de-b64a-f27a5d3c8287"
-  },
-  {
     "AlertId": "95378",
     "Headline": "#92 Foster Temporary Westbound Reroute near Foster/Francisco",
     "ShortDescription": "Westbound 92 Foster buses are temporarily rerouted via Foster, Western, Lawrence and Kedzie: due to, street blockage near Foster/Francisco.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "c2d989b9-97c7-4958-9783-90fba48d865c"
+  },
+  {
+    "AlertId": "95382",
+    "Headline": "Blue Line Service Delayed at O'Hare and Forest Park",
+    "ShortDescription": "Blue Line trains are standing at O'Hare and Forest Park. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are standing at O&#39;Hare and Forest Park.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-10-15T22:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95382"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d59f9292-26fa-42f7-ba43-98a89b6a9f49"
   }
 ]
