@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "95399",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Cicero. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Cicero.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-10-16T13:15:00",
+    "EventEnd": "2023-10-16T13:50:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95399"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e8dd7b69-b864-4883-b79f-b1ffa46f49d7"
+  },
+  {
     "AlertId": "95394",
     "Headline": "#56 Milwaukee Temporary Southbound Reroute near Milwaukee/Hubbard",
     "ShortDescription": "Southbound 56 Milwaukee buses are temporarily rerouted via Milwaukee, Grand, Union and Milwaukee due to street blockage.",
@@ -100,39 +134,5 @@
     },
     "ttim": "0",
     "GUID": "268e20cb-53d4-4116-80b9-947bd47bbed4"
-  },
-  {
-    "AlertId": "95399",
-    "Headline": "Blue Line Service Delayed at Cicero",
-    "ShortDescription": "Blue Line trains are standing at Cicero due to an unauthorized person on the tracks. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are standing at Cicero due to an unauthorized person on the tracks.</p>\n\n<p>Shuttle buses <u><strong>will be</strong></u>&nbsp;available between LaSalle and Forest Park to provide connecting service.</p>\n\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\n\n<p>Personnel are working to restore service. Allow extra travel time.</p>\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2023-10-16T13:15:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95399"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ab039353-607e-483f-bb08-1816eeb1ed3c"
   }
 ]
