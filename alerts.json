@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "8a30390e-8178-43c5-8c29-ac683ed01ef3"
+  },
+  {
+    "AlertId": "95397",
+    "Headline": "Trains bypassing 79th Station",
+    "ShortDescription": "Red Line trains are running, but not stopping at 79th due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running, but not stopping at 79th due to police activity.</p>\r\n\r\n<p>Shuttle buses are available between 69th and 87th to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>We apologize for this inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2023-10-16T11:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95397"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "66046555-1412-4a27-bdbb-c271ed3a9587"
   }
 ]
