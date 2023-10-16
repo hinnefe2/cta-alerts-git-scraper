@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "95383",
-    "Headline": "63rd-Bound Green Line Service Delayed at Harlem/Lake",
-    "ShortDescription": "63rd-Bound Green Line trains are standing at Harlem/Lake. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>63rd-Bound Green Line trains are standing at Harlem/Lake.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-10-15T22:51:00",
-    "EventEnd": "2023-10-15T23:21:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95383"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "20a06c96-ea79-416f-8841-8229ee66b689"
-  },
-  {
     "AlertId": "95378",
     "Headline": "#92 Foster Temporary Westbound Reroute near Foster/Francisco",
     "ShortDescription": "Westbound 92 Foster buses are temporarily rerouted via Foster, Western, Lawrence and Kedzie: due to, street blockage near Foster/Francisco.",
@@ -69,15 +35,15 @@
   },
   {
     "AlertId": "95382",
-    "Headline": "Blue Line Service Delayed at O'Hare and Forest Park",
-    "ShortDescription": "Blue Line trains are standing at O'Hare and Forest Park. Crews working to restore service.",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running w/residual delays and congestion. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are standing at O&#39;Hare and Forest Park.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are running w/residual delays and congestion.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2023-10-15T22:33:00",
     "EventEnd": null,
     "TBD": "1",
@@ -99,6 +65,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "d59f9292-26fa-42f7-ba43-98a89b6a9f49"
+    "GUID": "c1307222-1ff0-4429-ad1b-fab7b40221a5"
+  },
+  {
+    "AlertId": "95383",
+    "Headline": "63rd-bound Green Line Delays",
+    "ShortDescription": "63rd-bound Green  Line trains are running w/residual delays and congestion following at Harlem/Lake. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>63rd-bound Green&nbsp; Line trains are running w/residual delays and congestion following at Harlem/Lake.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2023-10-15T22:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95383"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "78561c05-a541-49a2-bc76-568e37af73a2"
   }
 ]
