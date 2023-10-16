@@ -1,73 +1,5 @@
 [
   {
-    "AlertId": "95363",
-    "Headline": "#18 16th-18th Temporary Reroute at 18th/Blue Island",
-    "ShortDescription": "18 16th-18th buses are temporarily rerouted via 18th, Ashland, Cermak, Loomis and 16th: due to, street blockage near 18th/Blue Island.",
-    "FullDescription": {
-      "#cdata-section": "<p>#18 16th-18th buses are temporarily rerouted via 18th, Ashland, Cermak, Loomis and 16th: due to, street blockage near 18th/Blue Island.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-14T12:31:00",
-    "EventEnd": "2023-10-17T12:32:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95363"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "16th-18th",
-        "ServiceId": "18",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/18/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "2665bf63-d19b-46c4-862c-5c0fa0ec371c"
-  },
-  {
-    "AlertId": "95375",
-    "Headline": "#82 Kimball -Homan Temporary Reroute at Douglas/St. Louis",
-    "ShortDescription": "82 Kimball -Homan buses are temporarily rerouted via Homan, 16th and Central Park due to street blockage at Douglas/St. Louis.",
-    "FullDescription": {
-      "#cdata-section": "<p>#82 Kimball -Homan&nbsp;buses are temporarily rerouted in both directions via Homan, 16th and Central Park due to street blockage at Douglas/St. Louis.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-15T12:34:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95375"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "65a21a93-b371-4ff7-9766-a3aa689b5a01"
-  },
-  {
     "AlertId": "95378",
     "Headline": "#92 Foster Temporary Westbound Reroute near Foster/Francisco",
     "ShortDescription": "Westbound 92 Foster buses are temporarily rerouted via Foster, Western, Lawrence and Kedzie: due to, street blockage near Foster/Francisco.",
@@ -100,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "c2d989b9-97c7-4958-9783-90fba48d865c"
+  },
+  {
+    "AlertId": "95363",
+    "Headline": "#18 16th-18th Temporary Reroute at 18th/Blue Island",
+    "ShortDescription": "18 16th-18th buses are temporarily rerouted via 18th, Ashland, Cermak, Loomis and 16th: due to, street blockage near 18th/Blue Island.",
+    "FullDescription": {
+      "#cdata-section": "<p>#18 16th-18th buses are temporarily rerouted via 18th, Ashland, Cermak, Loomis and 16th: due to, street blockage near 18th/Blue Island.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-14T12:31:00",
+    "EventEnd": "2023-10-17T12:32:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95363"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "16th-18th",
+        "ServiceId": "18",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/18/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2665bf63-d19b-46c4-862c-5c0fa0ec371c"
   }
 ]
