@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "95420",
-    "Headline": "#80 Irving Park Temporary Eastbound Reroute near Irving Park/Keeler",
-    "ShortDescription": "Eastbound 80 Irving Park buses temp. rerouted via: Irving Park, Cicero, Addison and Pulaski near Irving Park/Keeler.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #80 Irving Park buses temp. rerouted via: Irving Park, Cicero, Addison and Pulaski near Irving Park/Keeler.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-17T08:50:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95420"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Irving Park",
-        "ServiceId": "80",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/80/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f7235ff3-3784-43cd-9a68-b823e6dac72a"
-  },
-  {
     "AlertId": "95423",
     "Headline": "Update: #53 Pulaski Temporary Reroute at Pulaski/28th",
     "ShortDescription": "Update:53 Pulaski buses are temporarily rerouted via Pulaski, 31st, Lawndale, 26th, and Pulaski, due to street blockage near Pulaski/28th.",
@@ -113,5 +79,39 @@
     },
     "ttim": "0",
     "GUID": "8dcc639e-071b-47f0-bc4e-5089e06982c9"
+  },
+  {
+    "AlertId": "95420",
+    "Headline": "#80 Irving Park Temporary Eastbound Reroute near Irving Park/Keeler",
+    "ShortDescription": "Eastbound 80 Irving Park buses temp. rerouted via: Irving Park, Cicero, Addison and Pulaski near Irving Park/Keeler.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #80 Irving Park buses temp. rerouted via: Irving Park, Cicero, Addison and Pulaski near Irving Park/Keeler.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-17T08:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95420"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Irving Park",
+        "ServiceId": "80",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/80/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f7235ff3-3784-43cd-9a68-b823e6dac72a"
   }
 ]
