@@ -113,5 +113,52 @@
     },
     "ttim": "0",
     "GUID": "f7235ff3-3784-43cd-9a68-b823e6dac72a"
+  },
+  {
+    "AlertId": "95441",
+    "Headline": "#201 Central/Ridge ,#206 Evanston Circulator Temporary Reroute at Central St./Ewing",
+    "ShortDescription": "201 Central/Ridge ,206 Evanston Circulator buses are temp. rerouted via Central, Ewing, Harris and Lincolnwood Dr: due to st blockage near Central St./Ewing",
+    "FullDescription": {
+      "#cdata-section": "<p>#201 Central/Ridge ,#206 Evanston Circulator&nbsp;buses are temporarily rerouted in both directions via&nbsp;Central, Ewing, Harris and Lincolnwood Dr.&nbsp;including normal start/end streets due to street blockage near&nbsp;Central St./Ewing.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-17T18:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95441"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Central/Ridge",
+          "ServiceId": "201",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/201/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Evanston Circulator",
+          "ServiceId": "206",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/206/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "82b652ef-7262-4ef6-a40b-3140fb770c60"
   }
 ]
