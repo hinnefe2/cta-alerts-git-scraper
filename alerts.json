@@ -66,5 +66,74 @@
     },
     "ttim": "0",
     "GUID": "6a0e0dc9-ef04-4f31-8ecd-2c4345cc15a5"
+  },
+  {
+    "AlertId": "95424",
+    "Headline": "Loop 'L'  Delays",
+    "ShortDescription": "Loop 'L'  trains are running w/residual delays and congestion following an earlier sick customer at Library. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop &#39;L&#39;&nbsp; trains are running w/residual delays and congestion following an earlier sick customer at Library.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-10-17T13:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95424"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "641e80f4-ddef-4991-a5f3-dee8122a400c"
   }
 ]
