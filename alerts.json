@@ -47,6 +47,74 @@
     "GUID": "d46b2f64-6dea-443a-89c3-15cb64a60112"
   },
   {
+    "AlertId": "95420",
+    "Headline": "#80 Irving Park Temporary Eastbound Reroute near Irving Park/Keeler",
+    "ShortDescription": "Eastbound 80 Irving Park buses temp. rerouted via: Irving Park, Cicero, Addison and Pulaski near Irving Park/Keeler.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #80 Irving Park buses temp. rerouted via: Irving Park, Cicero, Addison and Pulaski near Irving Park/Keeler.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-17T08:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95420"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Irving Park",
+        "ServiceId": "80",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/80/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f7235ff3-3784-43cd-9a68-b823e6dac72a"
+  },
+  {
+    "AlertId": "95428",
+    "Headline": "#54A North Cicero/Skokie Blvd.Temporary Southbound Reroute near Irving Park/Keeler",
+    "ShortDescription": "SB54A North Cicero/Skokie Blvd buses are temporarily rerouted via Cicero, Montrose, Pulaski and Irving Park: due to, street blockage near Irving Park/Keeler.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #54A North Cicero/Skokie Blvd buses are temporarily rerouted via Cicero, Montrose, Pulaski and Irving Park: due to, street blockage near Irving Park/Keeler.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-17T15:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95428"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "North Cicero/Skokie Blvd.",
+        "ServiceId": "54A",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54a/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a21b2878-3b1d-4438-9969-caa69e059d86"
+  },
+  {
     "AlertId": "95441",
     "Headline": "#201 Central/Ridge ,#206 Evanston Circulator Temporary Reroute at Central St./Ewing",
     "ShortDescription": "201 Central/Ridge ,206 Evanston Circulator buses are temp. rerouted via Central, Ewing, Harrison and Lincolnwood Dr: due to st blockage near Central St./Ewing",
@@ -94,40 +162,6 @@
     "GUID": "83ac4c15-173e-49e8-a525-ae7b6fbdd588"
   },
   {
-    "AlertId": "95428",
-    "Headline": "#54A North Cicero/Skokie Blvd.Temporary Southbound Reroute near Irving Park/Keeler",
-    "ShortDescription": "SB54A North Cicero/Skokie Blvd buses are temporarily rerouted via Cicero, Montrose, Pulaski and Irving Park: due to, street blockage near Irving Park/Keeler.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #54A North Cicero/Skokie Blvd buses are temporarily rerouted via Cicero, Montrose, Pulaski and Irving Park: due to, street blockage near Irving Park/Keeler.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-17T15:46:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95428"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "North Cicero/Skokie Blvd.",
-        "ServiceId": "54A",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/54a/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a21b2878-3b1d-4438-9969-caa69e059d86"
-  },
-  {
     "AlertId": "95426",
     "Headline": "#J14 Jeffery Jump,#15 Jeffery Local Temporary Reroute at Jeffrey/79th",
     "ShortDescription": "J14 Jeffery Jump,15 Jeffery Local buses are temporarily rerouted via Jeffrey, 75th, Stoney island and 79th due to, street blockage near Jeffrey/79th.",
@@ -173,39 +207,5 @@
     },
     "ttim": "0",
     "GUID": "8dcc639e-071b-47f0-bc4e-5089e06982c9"
-  },
-  {
-    "AlertId": "95420",
-    "Headline": "#80 Irving Park Temporary Eastbound Reroute near Irving Park/Keeler",
-    "ShortDescription": "Eastbound 80 Irving Park buses temp. rerouted via: Irving Park, Cicero, Addison and Pulaski near Irving Park/Keeler.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #80 Irving Park buses temp. rerouted via: Irving Park, Cicero, Addison and Pulaski near Irving Park/Keeler.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-17T08:50:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95420"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Irving Park",
-        "ServiceId": "80",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/80/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f7235ff3-3784-43cd-9a68-b823e6dac72a"
   }
 ]
