@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "95515",
+    "Headline": "Loop-bound Brown & Purple Line Service Delayed at Armitage",
+    "ShortDescription": "Loop-bound Brown & Purple Line trains are standing at Armitage due to signal problems. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Brown &amp; Purple Line trains are standing at Armitage due to signal problems.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-10-20T17:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95515"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "38f9a8ac-9b80-4b89-948f-e3b19ff9443c"
+  },
+  {
     "AlertId": "95509",
     "Headline": "#36 Broadway Temporary Reroute near Broadway/Dakin",
     "ShortDescription": "36 Broadway buses temp. rerouted NB: Broadway, Clarendon, Irving Park & Broadway; SB: Broadway, Irving Park, Fremont, West Sheridan & Broadway.",
