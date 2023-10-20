@@ -1,37 +1,71 @@
 [
   {
-    "AlertId": "95508",
-    "Headline": "Forest Park-bound Blue Line Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following an earlier sick passenger at Clark/Lake. Service is resuming, allow extra time.",
+    "AlertId": "95505",
+    "Headline": "#95 95th Temporary Reroute near 93rd/Luella",
+    "ShortDescription": "95 95th buses temp. rerouted EB: 93rd, Paxton, 94th, Yates and 93rd; WB: 93rd, Yates, 92nd, Luella and 93rd due to street blockage.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with residual delays following an earlier sick passenger on a train at Clark/Lake.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#95 95th buses are temporarily rerouted in both directions near 93rd/Luella due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via 93rd, Paxton, 94th, Yates and 93rd.</p>\r\n\r\n<p>Westbound buses will operate via 93rd, Yates, 92nd, Luella and 93rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-10-20T13:09:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-20T10:15:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95508"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95505"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "95th",
+        "ServiceId": "95",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/95/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "e7bb3511-601f-47a8-9512-07828c969945"
+    "GUID": "05b7c2c1-4177-4d81-ad4c-667cc0bc4755"
+  },
+  {
+    "AlertId": "95506",
+    "Headline": "#151 Sheridan Temporary Reroute at Sheridan/Lawrence",
+    "ShortDescription": "151 Sheridan buses are temporarily rerouted via Lawrence, Broadway, and Sheridan due to, street blockage near Sheridan/Lawrence.",
+    "FullDescription": {
+      "#cdata-section": "<p>#151 Sheridan buses are temporarily rerouted in both directions via Lawrence, Broadway, and Sheridan due to, street blockage near Sheridan/Lawrence.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-20T11:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95506"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Sheridan",
+        "ServiceId": "151",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/151/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f30761f6-b762-4231-8ffb-6a6b4e46da97"
   },
   {
     "AlertId": "95509",
@@ -100,73 +134,5 @@
     },
     "ttim": "0",
     "GUID": "2cc82c99-2d11-4af3-a26a-d170ed132968"
-  },
-  {
-    "AlertId": "95505",
-    "Headline": "#95 95th Temporary Reroute near 93rd/Luella",
-    "ShortDescription": "95 95th buses temp. rerouted EB: 93rd, Paxton, 94th, Yates and 93rd; WB: 93rd, Yates, 92nd, Luella and 93rd due to street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>#95 95th buses are temporarily rerouted in both directions near 93rd/Luella due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via 93rd, Paxton, 94th, Yates and 93rd.</p>\r\n\r\n<p>Westbound buses will operate via 93rd, Yates, 92nd, Luella and 93rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-20T10:15:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95505"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "95th",
-        "ServiceId": "95",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/95/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "05b7c2c1-4177-4d81-ad4c-667cc0bc4755"
-  },
-  {
-    "AlertId": "95506",
-    "Headline": "#151 Sheridan Temporary Reroute at Sheridan/Lawrence",
-    "ShortDescription": "151 Sheridan buses are temporarily rerouted via Lawrence, Broadway, and Sheridan due to, street blockage near Sheridan/Lawrence.",
-    "FullDescription": {
-      "#cdata-section": "<p>#151 Sheridan buses are temporarily rerouted in both directions via Lawrence, Broadway, and Sheridan due to, street blockage near Sheridan/Lawrence.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-20T11:00:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95506"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Sheridan",
-        "ServiceId": "151",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/151/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f30761f6-b762-4231-8ffb-6a6b4e46da97"
   }
 ]
