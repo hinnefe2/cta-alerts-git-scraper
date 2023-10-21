@@ -34,6 +34,53 @@
     "GUID": "9928fd0a-21c2-4c5d-9f94-065860a4126c"
   },
   {
+    "AlertId": "95527",
+    "Headline": "#50 Damen and #49 Western Temporary Reroute near Damen/Lake",
+    "ShortDescription": "50 Damen & 49 Western buses temp. rerouted SB: Damen, Grand, Ashland, Washington, and Damen; NB: Damen, Warren, Ashland, Grand, and Damen near Damen/Lake.",
+    "FullDescription": {
+      "#cdata-section": "<p>#50 Damen and #49 Western buses are temporarily rerouted in both directions,&nbsp;&nbsp;due to street blockage near Damen/Lake.</p>\r\n\r\n<p>Southbound buses will operate via Damen, Grand, Ashland, Washington, and Damen.</p>\r\n\r\n<p>Northbound buses will operate via Damen, Warren, Ashland, Grand, and Damen.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-21T12:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95527"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western",
+          "ServiceId": "49",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Damen",
+          "ServiceId": "50",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/50/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "2115e8a7-2a24-415f-89ae-86320fbb5eed"
+  },
+  {
     "AlertId": "95509",
     "Headline": "#36 Broadway Temporary Reroute near Broadway/Dakin",
     "ShortDescription": "36 Broadway buses temp. rerouted NB: Broadway, Clarendon, Irving Park & Broadway; SB: Broadway, Irving Park, Fremont, West Sheridan & Broadway.",
@@ -100,39 +147,5 @@
     },
     "ttim": "0",
     "GUID": "2cc82c99-2d11-4af3-a26a-d170ed132968"
-  },
-  {
-    "AlertId": "95526",
-    "Headline": "Forest Park-bound Blue Line Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following an earlier mechanical problem on a train at Rosemont. Allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays following an earlier mechanical problem on a train at Rosemont.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-10-21T12:01:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95526"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8c43532b-7308-448c-be6a-be570cc22a81"
   }
 ]
