@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "95527",
-    "Headline": "#50 Damen and #49 Western Temporary Reroute near Damen/Lake",
-    "ShortDescription": "50 Damen & 49 Western buses temp. rerouted SB: Damen, Grand, Ashland, Washington, and Damen; NB: Damen, Warren, Ashland, Grand, and Damen near Damen/Lake.",
+    "Headline": "Update: #50 Damen Temporary Reroute near Damen/Lake",
+    "ShortDescription": "Update: 50 Damen buses temp. rerouted SB: Damen, Grand, Ashland, Washington, and Damen; NB: Damen, Warren, Ashland, Grand, and Damen near Damen/Lake.",
     "FullDescription": {
-      "#cdata-section": "<p>#50 Damen and #49 Western buses are temporarily rerouted in both directions,&nbsp;&nbsp;due to street blockage near Damen/Lake.</p>\r\n\r\n<p>Southbound buses will operate via Damen, Grand, Ashland, Washington, and Damen.</p>\r\n\r\n<p>Northbound buses will operate via Damen, Warren, Ashland, Grand, and Damen.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#50 Damen&nbsp;buses are temporarily rerouted in both directions,&nbsp;&nbsp;due to street blockage near Damen/Lake.</p>\r\n\r\n<p>Southbound buses will operate via Damen, Grand, Ashland, Washington, and Damen.</p>\r\n\r\n<p>Northbound buses will operate via Damen, Warren, Ashland, Grand, and Damen.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -52,32 +52,53 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95527"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western",
-          "ServiceId": "49",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/49/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Damen",
-          "ServiceId": "50",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/50/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Damen",
+        "ServiceId": "50",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/50/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "2115e8a7-2a24-415f-89ae-86320fbb5eed"
+    "GUID": "91c284e5-f586-4436-a01e-b60d69d26d11"
+  },
+  {
+    "AlertId": "95528",
+    "Headline": "Update: #49 Western Temporary Southbound Reroute near Damen/Lake",
+    "ShortDescription": "Update: SB 49 Western buses are temporarily rerouted via Western, Grand, Ashland, Washington, and Western due to, street blockage near Damen/Lake.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound&nbsp;#49 Western buses are temporarily rerouted via Western, Grand, Ashland, Washington, and Western due to, street blockage near Damen/Lake.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-21T13:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95528"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Western",
+        "ServiceId": "49",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/49/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "1e65a3cf-9757-4a60-b3c5-dbdd588a1f3e"
   }
 ]
