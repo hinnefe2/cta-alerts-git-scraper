@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "95523",
+    "Headline": "Brown Line Delays",
+    "ShortDescription": "Brown Line trains are running with residual delays following an earlier raised bridge at the Chicago River, downtown. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line trains are running with residual delays following an earlier raised bridge at the Chicago River, downtown.&nbsp;</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-10-21T09:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95523"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "63f37bc7-0680-4ce2-85a3-21e8331b03f1"
+  },
+  {
     "AlertId": "95521",
     "Headline": "#82 Kimball-Homan Temporary Reroute at Central Park/Cermak",
     "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Central Park, Cermak, Kedzie, 25th, and Central Park due to, construction at Central Park/Cermak.",
@@ -100,39 +134,5 @@
     },
     "ttim": "0",
     "GUID": "2cc82c99-2d11-4af3-a26a-d170ed132968"
-  },
-  {
-    "AlertId": "95523",
-    "Headline": "Brown Line Service Experiencing Significant Delays Due to Raised Bridge",
-    "ShortDescription": "Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.  \t\r\n",
-    "FullDescription": {
-      "#cdata-section": "<p>Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.</p>\r\n\r\n<p>Some trains may be either held or rerouted before reaching the bridge (in order to maintain service across the remainder of the route). Listen for announcements and check train destination signs when boarding.</p>\r\n\r\n<p>We apologize for this temporary inconvenience and appreciate your patience while the Chicago Department of Transportation works to complete the bridge operation. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-10-21T09:23:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95523"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "793c899a-d849-4dcf-b3fa-107e492fe824"
   }
 ]
