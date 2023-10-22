@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "95547",
+    "Headline": "Brown Line Delays",
+    "ShortDescription": "Some Brown Line trains are operating with residual delays after an earlier bridge lift at the Chicago River. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Some Brown Line trains are operating with residual delays after an earlier bridge lift at the Chicago River.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-10-22T09:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95547"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "799a54be-7524-4603-9f9b-db72106592ac"
+  },
+  {
     "AlertId": "95546",
     "Headline": "#50 Damen Temporary Reroute at Damen/18th",
     "ShortDescription": "50 Damen buses are temporarily rerouted via Damen, Roosevelt, Ashland, 18th, and Damen due to, street blockage at Damen/18th.",
@@ -32,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "6d493de1-65d3-4c3e-b165-1fe90eff1dd6"
-  },
-  {
-    "AlertId": "95547",
-    "Headline": "Brown Line Service Experiencing Significant Delays Due to Raised Bridge\t",
-    "ShortDescription": "Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.",
-    "FullDescription": {
-      "#cdata-section": "<p>Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.<br />\r\n<br />\r\nSome trains may be either held or rerouted before reaching the bridge (in order to maintain service across the remainder of the route). Listen for announcements and check train destination signs when boarding.<br />\r\n<br />\r\nWe apologize for this temporary inconvenience and appreciate your patience while the Chicago Department of Transportation works to complete the bridge operation. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-10-22T09:15:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95547"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c01128ab-4b23-46d2-b461-518d8993705b"
   }
 ]
