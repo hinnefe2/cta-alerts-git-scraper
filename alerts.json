@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "393546dc-04de-4aa1-95d7-0f21ff50a6c3"
+  },
+  {
+    "AlertId": "95566",
+    "Headline": "Green Line Delays",
+    "ShortDescription": "Green Line trains are running w/residual delays following earlier police activity at Halsted. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green Line trains are running w/residual delays following earlier police activity at Halsted.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-10-23T14:59:00",
+    "EventEnd": "2023-10-23T15:15:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95566"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Halsted",
+          "ServiceId": "40940",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=65"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "de79ddd1-2fac-4d9d-9f31-f19281fa0fe4"
   }
 ]
