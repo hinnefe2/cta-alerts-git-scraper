@@ -81,50 +81,50 @@
     "GUID": "a0144cf3-f2ec-4f43-8d83-9dde09c1c71b"
   },
   {
-    "AlertId": "95573",
-    "Headline": "Red Line Service Resuming Normal Routing",
-    "ShortDescription": "Red Line service is resuming its normal routing, via the subway, between Fullerton & Cermak-Chinatown after an earlier reroute.",
+    "AlertId": "95574",
+    "Headline": "Orange Line Trains bypassing Western",
+    "ShortDescription": "Orange Line trains are running, but not stopping at at Western due to police activity.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line service is resuming its normal routing, via the subway, between Fullerton &amp; Cermak-Chinatown.</p>\r\n\r\n<p>Trains were temporarily rerouted via the elevated lines due to an authorized person on the tracks.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Orange Line trains are running, but not stopping at at Western due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "58",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-10-23T18:20:00",
-    "EventEnd": "2023-10-23T18:50:00",
-    "TBD": "0",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2023-10-23T18:47:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95573"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95574"
     },
     "ImpactedService": {
       "Service": [
         {
           "ServiceType": "T",
           "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Harrison",
-          "ServiceId": "41490",
-          "ServiceBackColor": "c60c30",
+          "ServiceName": "Western",
+          "ServiceId": "40310",
+          "ServiceBackColor": "f9461c",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=70"
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=139"
           }
         },
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "409b8538-22e6-4629-82ad-980046b40f88"
+    "GUID": "68525c7f-1b80-4a38-a559-035f393504d9"
   }
 ]
