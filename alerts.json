@@ -92,5 +92,52 @@
     },
     "ttim": "0",
     "GUID": "b1abae60-b84d-41d8-a397-d999ca4298dc"
+  },
+  {
+    "AlertId": "95614",
+    "Headline": "Red and Purple Line Service Delayed near Bryn Mawr",
+    "ShortDescription": "Red and Purple Line trains are standing near Bryn Mawr due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are standing near Morse due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-10-26T10:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95614"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e7cb62a4-8ca1-449b-ad1b-ac8335a89cf8"
   }
 ]
