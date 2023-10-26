@@ -45,5 +45,52 @@
     },
     "ttim": "0",
     "GUID": "f47fa204-e90b-4a5f-a3e7-b4e45ac10628"
+  },
+  {
+    "AlertId": "95613",
+    "Headline": "#6 Jackson Park Express, #26 South Shore Express Temporary Reroute at 71st/Exchange",
+    "ShortDescription": "6 Jackson Park Exp, 26 South Shore Exp buses are temporarily rerouted via South Shore, 75th, Coles & 71st due to, street blockage near 71st/Exchange.",
+    "FullDescription": {
+      "#cdata-section": "<p>#6 Jackson Park Express, #26 South Shore Express buses are temporarily rerouted in both directions via South Shore, 75th, Coles and&nbsp;71st due to, street blockage near 71st/Exchange.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-26T09:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95613"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b1abae60-b84d-41d8-a397-d999ca4298dc"
   }
 ]
