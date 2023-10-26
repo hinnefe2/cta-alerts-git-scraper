@@ -98,7 +98,7 @@
     "Headline": "Red and Purple Line Service Delayed near Bryn Mawr",
     "ShortDescription": "Red and Purple Line trains are standing near Bryn Mawr due to police activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Red and Purple Line trains are standing near&nbsp;Bryn Mawr due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red and Purple Line trains are standing near&nbsp;Bryn Mawr due to police activity.</p>\r\n\r\n<p>Bus shuttle service has been requested to provide connecting service through the affected areas.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -138,6 +138,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "d9406e95-83ae-4841-b51e-8df1612931d1"
+    "GUID": "41868d16-8f3d-404e-a726-5ccdc51ec67f"
+  },
+  {
+    "AlertId": "95616",
+    "Headline": "#36 Broadway Temporary Reroute at Broadway/Byrn Mawr",
+    "ShortDescription": "36 Broadway buses are temporarily rerouted via Broadway, Byrn Mawr, Sheridan, Hollywood and Boradway due to, street blockage near Broadway/Byrn Mawr.",
+    "FullDescription": {
+      "#cdata-section": "<p>#36 Broadway&nbsp;buses are temporarily rerouted in both directions via&nbsp;Broadway, Byrn Mawr, Sheridan, Hollywood and Broadway due to, street blockage near Broadway/Byrn Mawr.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-26T10:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95616"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Broadway",
+        "ServiceId": "36",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/36/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "01874724-5ada-41aa-b673-c0c46f029153"
   }
 ]
