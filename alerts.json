@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "95610",
+    "Headline": "#7 Harrison, #126 Jackson Temporary Westbound Reroute near Congress/Central Park",
+    "ShortDescription": "WB 7 Harrison, 126 Jackson buses are temporarily rerouted via Congress, Central Park, Jackson, Kostner & Harrison: due to street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #7 Harrison, #126 Jackson&nbsp;buses are temporarily rerouted via Congress, Central Park, Jackson, Kostner and Harrison: due to, street blockage near Congress/Central Park.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-26T08:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95610"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Harrison",
+          "ServiceId": "7",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/7/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson",
+          "ServiceId": "126",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/126/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f47fa204-e90b-4a5f-a3e7-b4e45ac10628"
+  }
+]
