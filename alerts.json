@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "95645",
+    "Headline": "95th-bound Red and Loop-bound Purple Line Service Delayed at Wilson",
+    "ShortDescription": "95th-bound Red and Loop-bound Purple Line trains are standing at Wilson due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red and Loop-bound Purple Line trains are standing at Wilson due to police activity.</p>\n\n<p>Personnel are working to restore service. Allow extra travel time.</p>\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-10-27T09:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95645"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e5f755c4-d722-4399-84e9-817b04755eb5"
+  }
+]
