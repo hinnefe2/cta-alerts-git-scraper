@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "95662",
+    "Headline": "#62 Archer and #62H Archer/Harlem Temporary Reroute at Archer/Harlem",
+    "ShortDescription": "62 Archer and 62H Archer/Harlem buses are temporarily rerouted via Archer, Austin, 55th, Central, and Archer due to, street blockage at Archer/Harlem.",
+    "FullDescription": {
+      "#cdata-section": "<p>#62 Archer and #62H Archer/Harlem buses are temporarily rerouted in both directions&nbsp; via Archer, Austin, 55th, Central, and Archer due to, street blockage at Archer/Harlem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-10-28T10:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95662"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer/Harlem",
+          "ServiceId": "62H",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62h/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9e84e1d6-7cd0-46bf-b58a-3d171ba30b38"
+  }
+]
