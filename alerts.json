@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "95658",
-    "Headline": "Loop-bound Orange Line Service Delayed near Western",
-    "ShortDescription": "Loop-bound Orange Line trains are standing near Western due to signal problems. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Orange Line trains are standing near Western due to signal problems.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-10-28T06:05:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95658"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Orange Line",
-        "ServiceId": "Org",
-        "ServiceBackColor": "f9461c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/orangeline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d6943460-b21e-4bea-ba43-e104ed7548d1"
-  },
-  {
     "AlertId": "95657",
     "Headline": "#90 Harlem Temporary Reroute at Harlem/Palmer",
     "ShortDescription": "90 Harlem buses are temporarily rerouted via Harlem, Grand, Oak Park, North Avenue, and Harlem due to, street blockage at Harlem/Palmer.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "1e08dd77-6499-46b3-97b0-449784ad4b3d"
+  },
+  {
+    "AlertId": "95658",
+    "Headline": " Orange Line Service Delayed near Western",
+    "ShortDescription": " Orange Line trains are standing near Western due to signal problems. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>&nbsp;Orange Line trains are standing near Western due to signal problems.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-10-28T06:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95658"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "68531a96-cd7c-4363-8dc5-1e37986f02a9"
   }
 ]
