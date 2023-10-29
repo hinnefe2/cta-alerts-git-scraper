@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "95678",
-    "Headline": "#N5 South Shore Night Bus Temporary Reroute at 75th/Yates",
-    "ShortDescription": "N5 South Shore Night Bus buses are temporarily rerouted via 75th, Yates, 76th, and South Shore, due to street blockage near 75th/Yates.",
+    "AlertId": "95681",
+    "Headline": "95th-bound Red Line Delays",
+    "ShortDescription": "95th-bound Red Line trains are running w/residual delays at Howard. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>#N5 South Shore Night Bus buses are temporarily rerouted in both directions via 75th, Yates, 76th, and South Shore, due to&nbsp;street blockage near 75th/Yates.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th-bound Red Line trains are running w/residual delays at Howard.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-10-29T03:25:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-10-29T07:43:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95678"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95681"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Shore Night Bus",
-        "ServiceId": "N5",
-        "ServiceBackColor": "059",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/n5/"
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "7b5d4e45-75b5-414d-b02c-9fb352ac67ed"
+    "GUID": "38adbe2c-7803-4cb4-b4ab-950f6b6ee3a2"
   }
 ]
