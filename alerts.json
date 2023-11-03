@@ -79,5 +79,52 @@
     },
     "ttim": "0",
     "GUID": "175d3f3a-dabc-4f46-b9a6-585de8ec271c"
+  },
+  {
+    "AlertId": "95817",
+    "Headline": "Delays at 63rd-Cottage Grove Green Line Service",
+    "ShortDescription": "Green Line trains are experiencing a delay at 63rd Cottage Grove: due to police activity Update to follow.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green Line trains are experiencing a delay at 63rd Cottage Grove: due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service/Assistance has been requested&nbsp;and&nbsp;we hope to resume service shortly.</p>\r\n\r\n<p>At this time trains are only going to 63rd-Ashland.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Updates will be posted as new information becomes available.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-11-03T18:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95817"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "40720",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=55"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ca0b0a98-0ce7-4f0f-a9d2-7a93a1d76add"
   }
 ]
