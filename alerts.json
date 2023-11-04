@@ -32,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "1d6fab84-f53b-479f-9b1a-abb458d42206"
+  },
+  {
+    "AlertId": "95830",
+    "Headline": "Brown Line Service Experiencing Significant Delays Due to Raised Bridge",
+    "ShortDescription": "Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown&nbsp;Line service is experiencing delays due to a raised bridge&nbsp;at the Chicago River, downtown.</p>\r\n\r\n<p>Some trains may be either held or&nbsp;rerouted before reaching the bridge (in order&nbsp;to maintain service across the remainder of the route). Listen for announcements and check train destination signs when boarding.</p>\r\n\r\n<p>We apologize for this temporary inconvenience and appreciate your patience while the Chicago Department of Transportation works to complete the bridge operation. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-11-04T10:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95830"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2ca0ae79-0881-4e11-af63-149a59c8e570"
   }
 ]
