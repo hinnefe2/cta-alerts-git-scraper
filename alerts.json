@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "95833",
-    "Headline": "#29 State, #62 Archer Temporary Northbound Reroute near State/Harrison",
-    "ShortDescription": "Northbound 29 State, 62 Archer buses are temp. rerouted via State, Harrison, Dearborn, Ida B. Wells and State: due to, street blockage near State/Harrison.",
+    "Headline": "#29 State Temporary Northbound Reroute near State/Harrison",
+    "ShortDescription": "Northbound 29 State buses are temp. rerouted via State, Harrison, Dearborn, Ida B. Wells and State: due to, street blockage near State/Harrison.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound&nbsp; #29 State, #62 Archer buses are temporarily&nbsp;rerouted via State, Harrison, Dearborn, Ida B. Wells and State: due to, street blockage near State/Harrison.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound&nbsp;#29 State&nbsp;buses are temporarily&nbsp;rerouted via State, Harrison, Dearborn, Ida B. Wells and State: due to, street blockage near State/Harrison.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -52,33 +52,20 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95833"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "State",
-          "ServiceId": "29",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/29/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Archer",
-          "ServiceId": "62",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/62/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "20b3e385-af3d-4875-acf2-662029b32278"
+    "GUID": "39e3f0d5-368f-484b-a164-206905a08f3f"
   },
   {
     "AlertId": "95834",
