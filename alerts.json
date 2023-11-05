@@ -168,5 +168,39 @@
     },
     "ttim": "0",
     "GUID": "92275bd9-3bc9-4184-be42-5d3be009705b"
+  },
+  {
+    "AlertId": "95852",
+    "Headline": "Pink Line Delays",
+    "ShortDescription": "Trains are running, but with delays, at this time. Allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Trains are running, but with delays, at this time<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-11-05T17:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95852"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "089880c8-57a4-4cc3-ac37-552314c2b371"
   }
 ]
