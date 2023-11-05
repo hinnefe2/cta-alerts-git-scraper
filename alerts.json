@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "95626",
-    "Headline": "Bus Substitution Between Dempster-Skokie and Howard Stations",
-    "ShortDescription": "Free shuttle buses replace Yellow Line rail service Dempster-Skokie and Howard.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nShuttle buses replace rail service between&nbsp;Dempster-Skokie and Howard.<br />\r\n<br />\r\nTrains will not&nbsp;operate between Dempster-Skokie and Howard.<br />\r\n<br />\r\nShuttle buses will serve Dempster-Skokie,&nbsp;Oakton-Skokie, and Howard stations.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nWe are performing railroad grade crossing maintenance at Niles Center Road to ensure that trains&nbsp;continue to operate safely along the Yellow Line.</p>\r\n\r\n<h3>Map</h3>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img alt=\"Yellow_Linecut_Bus_Shuttle_Map___Nov_4_-_5,_2023\" src=\"http://www.transitchicago.com/assets/1/6/Yellow_Linecut_Bus_Shuttle_Map___Nov_4_-_5,_2023.png\" style=\"width: 2000px; height: 984px;\" /></p>\r\n"
-    },
-    "SeverityScore": "90",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Suspended",
-    "EventStart": "2023-11-04T06:00:00",
-    "EventEnd": "2023-11-04T23:30:00",
-    "TBD": "0",
-    "MajorAlert": "1",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95626"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Yellow Line",
-        "ServiceId": "Y",
-        "ServiceBackColor": "f9e300",
-        "ServiceTextColor": "000000",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/yellowline/"
-        }
-      }
-    },
-    "ttim": "1",
-    "GUID": "48710257-01df-4274-9795-6064110977e2"
-  },
-  {
     "AlertId": "95729",
     "Headline": "Bus substitution between Clark/Lake and Western (O'Hare branch)",
     "ShortDescription": "Shuttle buses replace rail service between Clark/Lake and Western (O'Hare branch) stations.",
@@ -202,52 +168,5 @@
     },
     "ttim": "0",
     "GUID": "f140d7ce-c734-4259-87e5-ae67d5518b01"
-  },
-  {
-    "AlertId": "95840",
-    "Headline": "Forest Park-bound Blue Line Service Delayed at Oak Park",
-    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Oak Park due to a sick customer. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Oak Park due to a sick customer.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-11-04T23:02:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95840"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Oak Park",
-          "ServiceId": "40180",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=108"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "b538c775-b7ca-44ab-a921-68ac8f17cd1a"
   }
 ]
