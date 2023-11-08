@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "95877",
-    "Headline": "#92 Foster Temporary Reroute at Foster/Albany",
-    "ShortDescription": "92 Foster buses are temporarily rerouted via in both directions via Foster, Kedzie, Lawrence, Lincoln and Foster due to street blockage near Foster/Albany.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#92 Foster buses are temporarily rerouted via in both directions via Foster, Kedzie, Lawrence, Lincoln and Foster due to street blockage near Foster/Albany.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-11-08T05:02:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95877"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Foster",
-        "ServiceId": "92",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/92/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "35d759e1-264d-4c1e-ae1f-c9a5ea29168b"
-  },
-  {
     "AlertId": "95878",
     "Headline": "#93 California/Dodge Temporary Reroute at Foster/Albany",
     "ShortDescription": "93 California/Dodge buses are temporarily rerouted in both directions via Kedzie, Bryn Mawr and California due to street blockage near Foster/Albany.\r\n",
@@ -100,5 +66,63 @@
     },
     "ttim": "0",
     "GUID": "e2fd6861-a8f2-4e49-8f6c-b2b5c9cb3f88"
+  },
+  {
+    "AlertId": "95882",
+    "Headline": "#95 95th, #108 Halsted/95th, #112 Vincennes/111th Temporary Reroute near 95th/Eggleston",
+    "ShortDescription": "95 95th , 112 Vincennes/111th, 108 Halsted/95th buses rred EB:95th, Halsted, 87th, Lafayette & 95th; WB: 95th Terminal, State, 87th, Halsted, & 95th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#95 95th,&nbsp;#108 Halsted/95th and #112 Vincennes/111th buses are temporarily rerouted in both directions near 95th/Eggleston, due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via 95th, Halsted, 87th, Lafayette, and 95th.</p>\r\n\r\n<p>Westbound buses will operate via 95th Terminal, State, 87th, Halsted, and 95th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-08T09:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95882"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Halsted/95th",
+          "ServiceId": "108",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/108/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Vincennes/111th",
+          "ServiceId": "112",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/112/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "424ebabc-402a-4f2f-8c4d-17c8c43f28df"
   }
 ]
