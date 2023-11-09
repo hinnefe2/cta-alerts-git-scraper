@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "95892",
+    "Headline": "#94 California Temporary Reroute at 71st/California",
+    "ShortDescription": "94 California buses are temporarily rerouted via Western, 69th, and California, due to street blockage near 71st/California.",
+    "FullDescription": {
+      "#cdata-section": "<p>#94 California buses are temporarily rerouted in both directions via Western, 69th, and California, due to street blockage near 71st/California.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-09T04:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95892"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "02ab0102-cd50-4d72-bc79-85b9c64df9cb"
+  },
+  {
+    "AlertId": "95893",
+    "Headline": "#67 67th-69th-71st Temporary Reroute at 71st/California",
+    "ShortDescription": "67 67th-69th-71st buses are temporarily rerouted via Western, 69th, California, Marquette, Kedzie, and 71st, due to street blockage near 71st/California.",
+    "FullDescription": {
+      "#cdata-section": "<p>#67 67th-69th-71st buses are temporarily rerouted in both directions via Western, 69th, California, Marquette, Kedzie, and 71st, due to street blockage near 71st/California.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-09T04:27:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95893"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "67th-69th-71st",
+        "ServiceId": "67",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/67/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "1be2cabc-f581-456e-88ab-ca82a39882f2"
+  }
+]
