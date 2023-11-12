@@ -1,18 +1,18 @@
 [
   {
     "AlertId": "95943",
-    "Headline": "Howard-bound Red Line Service Delayed at 95th",
-    "ShortDescription": "Howard-bound Red Line trains are standing at 95th due to a mechanical problem.  Crews working to restore service.",
+    "Headline": "Howard-bound Red Line Service Running with Delays",
+    "ShortDescription": "Howard-bound Red Line trains are running with significant delays near 95th due to an earlier mechanical problem.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are standing at 95th due to a mechanical problem.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are running with significant delays near 95th due to an earlier&nbsp;mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2023-11-12T09:29:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventEnd": "2023-11-12T09:58:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95943"
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "d1a0da1d-7568-477a-9c92-16ae1fb82d63"
+    "GUID": "3ee519eb-9ae3-49a5-8539-32abf465723c"
+  },
+  {
+    "AlertId": "95944",
+    "Headline": "95th-bound Red Line Service Running with Delays",
+    "ShortDescription": "95th-bound Red Line trains are running with delays.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are running with delays.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-11-12T09:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95944"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c5ebb1fa-e582-4b37-9e7a-f1ff9f05bb07"
   }
 ]
