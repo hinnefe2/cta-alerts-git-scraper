@@ -72,12 +72,12 @@
     "Headline": "Green and Pink Line Service Delayed near Ashland/Lake",
     "ShortDescription": "Green and Pink Line trains are standing near Ashland/Lake due to track switching problems. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Green and Pink Line trains are standing near Ashland/Lake due to track switching&nbsp;problems.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green and Pink Line trains are standing near Ashland/Lake due to track switching&nbsp;problems.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2023-11-13T07:03:00",
     "EventEnd": null,
     "TBD": "1",
@@ -112,6 +112,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "201dbcf9-5b9b-4dd3-abc3-971c47cb7bec"
+    "GUID": "99cab35f-172c-4395-9e5b-6df2d82f1b78"
+  },
+  {
+    "AlertId": "95956",
+    "Headline": "#59 59th/61st Temporary Eastbound Reroute near 59th/Pulaski",
+    "ShortDescription": "EB 59 59th/61st  buses are temporarily rerouted via 59th, Pulaski, 63rd, Kedzie, and 59th due to, street blockage near 59th/Pulaski.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound A#59 59th/61st&nbsp; buses are temporarily rerouted via 59th, Pulaski, 63rd, Kedzie, and 59th due to, street blockage near 59th/Pulaski.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-13T07:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=95956"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "59th/61st",
+        "ServiceId": "59",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/59/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6faa6cb8-0b48-4c18-b5ad-7b3c9f732fd9"
   }
 ]
