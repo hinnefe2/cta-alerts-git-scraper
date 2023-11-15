@@ -134,5 +134,73 @@
     },
     "ttim": "0",
     "GUID": "1570afb3-dd25-4026-84ba-681467f540c3"
+  },
+  {
+    "AlertId": "96007",
+    "Headline": "#71 71st/South Shore Temporary Northbound Reroute near 90th/Commercial",
+    "ShortDescription": "Northbound 71 71st/South Shore buses are temporarily rerouted via Commercial, 93rd, Houston, 89th and Commercial: due to, street blockage near 90th/Commercial.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #71 71st/South Shore buses are temporarily rerouted via Commercial, 93rd, Houston, 89th and Commercial: due to, street blockage near 90th/Commercial.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-15T10:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96007"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b58e8da0-b114-491f-9bba-7f2124e9cfd5"
+  },
+  {
+    "AlertId": "96008",
+    "Headline": "#87 87th Temporary Westbound Reroute near 90th/Commercial",
+    "ShortDescription": "Westbound 87 87th buses are temporarily rerouted via 91st, Houston, 89th and Commercial: due to, street blockage near 90th/Commercial.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #87 87th buses are temporarily rerouted via 91st, Houston, 89th and Commercial: due to, street blockage near 90th/Commercial.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-15T11:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96008"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "87th",
+        "ServiceId": "87",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/87/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "38abd80e-907f-4c7e-8d3f-16f4418a3b10"
   }
 ]
