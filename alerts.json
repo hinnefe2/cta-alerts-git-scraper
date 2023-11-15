@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "5e949c8b-1afe-4b45-af4a-1a56ea86a47e"
+  },
+  {
+    "AlertId": "96005",
+    "Headline": "#9 Ashland and #X9 Ashland Express Temporary Reroute near Clark/Belle Plaine",
+    "ShortDescription": "9 Ashland and X9 Ashland Express buses rerouted NB: IrvPk, Sheridan, Broadway & IrvPk; SB IrvPk & Ashland: due to, street blockage near Clark/Belle Plaine.",
+    "FullDescription": {
+      "#cdata-section": "<p>#9 Ashland and #X9 Ashland Express&nbsp;buses are temporarily rerouted in both directions,&nbsp;due to street blockage&nbsp;near Clark/Belle Plaine.</p>\r\n\r\n<p>Northbound buses will operate via Irving Park, Sheridan, Broadway and Irving Park.</p>\r\n\r\n<p>Southbound buses will operate via Irving Park and Ashland.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-15T10:29:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96005"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "914d2559-300b-4566-bd1a-654ef3272872"
   }
 ]
