@@ -69,10 +69,10 @@
   },
   {
     "AlertId": "96005",
-    "Headline": "#9 Ashland and #X9 Ashland Express Temporary Reroute near Clark/Belle Plaine",
-    "ShortDescription": "9 Ashland and X9 Ashland Express buses rerouted NB: IrvPk, Sheridan, Broadway & IrvPk; SB IrvPk & Ashland: due to, street blockage near Clark/Belle Plaine.",
+    "Headline": "#9 Ashland Temporary Northbound Reroute near Clark/Belle Plaine",
+    "ShortDescription": "Northbound 9 Ashland buses are rerouted via Ashland, Irving Park, Southport, Clark, Montrose & Ashland: due to, street blockage near Clark/Belle Plaine.",
     "FullDescription": {
-      "#cdata-section": "<p>#9 Ashland and #X9 Ashland Express&nbsp;buses are temporarily rerouted in both directions,&nbsp;due to street blockage&nbsp;near Clark/Belle Plaine.</p>\r\n\r\n<p>Northbound buses will operate via Irving Park, Sheridan, Broadway and Irving Park.</p>\r\n\r\n<p>Southbound buses will operate via Irving Park and Ashland.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #9 Ashland&nbsp;buses are temporarily rerouted via &nbsp;Ashland, Irving Park, Southport, Clark, Montrose &amp; Ashland, due to street blockage near Clark/Belle Plaine.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -86,32 +86,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96005"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ashland",
-          "ServiceId": "9",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/9/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ashland Express",
-          "ServiceId": "X9",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Ashland",
+        "ServiceId": "9",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/9/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "914d2559-300b-4566-bd1a-654ef3272872"
+    "GUID": "1991ff6c-2c9d-4969-986d-207b5d8415b6"
   }
 ]
