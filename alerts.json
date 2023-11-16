@@ -176,50 +176,37 @@
   },
   {
     "AlertId": "96033",
-    "Headline": "Yellow and Purple Lines Service Temporarily Suspended",
-    "ShortDescription": "Service on the Yellow and Purple Lines have been temporarily suspended due to an incident near Howard. ",
+    "Headline": "Purple Line Delays",
+    "ShortDescription": "Purple Line trains are running w/residual delays following an earlier incident near Howard. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Service on the Yellow and Purple Lines&nbsp;have&nbsp;been temporarily suspended due to an incident near Howard.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, bus routes such as:&nbsp;#97 Skokie, or using buses to other rail lines.</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Purple Line trains are running w/residual delays following an earlier incident near Howard.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "90",
+    "SeverityScore": "80",
     "SeverityColor": "c00c00",
     "SeverityCSS": "major",
-    "Impact": "Service Suspended",
+    "Impact": "Major Delays",
     "EventStart": "2023-11-16T10:47:00",
     "EventEnd": null,
     "TBD": "1",
-    "MajorAlert": "1",
+    "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96033"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Yellow Line",
-          "ServiceId": "Y",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/yellowline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "7af97434-727f-40f6-8c33-0d8f604c7f7b"
+    "GUID": "5f9d5cea-9685-45ba-9332-008a8b2cb3ed"
   },
   {
     "AlertId": "96035",
@@ -254,5 +241,39 @@
     },
     "ttim": "0",
     "GUID": "b69bd1b2-0c92-4888-a199-e8c1b0cb7999"
+  },
+  {
+    "AlertId": "96038",
+    "Headline": "Yellow Line Service Temporarily Suspended",
+    "ShortDescription": "Service on the Yellow Line has been temporarily suspended due to an incident at Howard",
+    "FullDescription": {
+      "#cdata-section": "<p>Service on the Yellow Line has been temporarily suspended due to an incident at Howard.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines. These may include the #97 Skokie bus route.</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "90",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Suspended",
+    "EventStart": "2023-11-16T13:56:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "1",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96038"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Yellow Line",
+        "ServiceId": "Y",
+        "ServiceBackColor": "f9e300",
+        "ServiceTextColor": "000000",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/yellowline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "77090014-ed49-407f-8921-1596e8fae214"
   }
 ]
