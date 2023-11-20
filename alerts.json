@@ -32,5 +32,52 @@
     },
     "ttim": "1",
     "GUID": "3cf4625a-57af-412e-9378-ca9d9dcb4769"
+  },
+  {
+    "AlertId": "96103",
+    "Headline": "#9 Ashland and #X9 Ashland Express Temporary Reroute at Ashland/91st",
+    "ShortDescription": "9 Ashland and X9 Ashland Express  buses are temporarily rerouted via Ashland, 87th, Western, 95th and Ashland: due to, street blockage near Ashland/91st.",
+    "FullDescription": {
+      "#cdata-section": "<p>#9 Ashland and #X9 Ashland Express&nbsp; buses are temporarily rerouted via Ashland, 87th, Western, 95th and Ashland: due to, street blockage near Ashland/91st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-20T07:26:00",
+    "EventEnd": "2023-11-23T23:59:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96103"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "93d31edb-77dd-4e80-90b9-86b75ddb2c68"
   }
 ]
