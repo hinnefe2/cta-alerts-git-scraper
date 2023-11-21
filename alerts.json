@@ -34,37 +34,37 @@
     "GUID": "3cf4625a-57af-412e-9378-ca9d9dcb4769"
   },
   {
-    "AlertId": "96116",
-    "Headline": "#85 Central Temporary Reroute at Central/Montrose-Lawrence",
-    "ShortDescription": "85 Central buses are temp. rerouted in both directions via Central, Lawrence, Austin, Montrose & Central due to street blockage near Central/Montrose-Lawrence.",
+    "AlertId": "96117",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following an earlier mechanical problem at Illinois Medical District. Allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#85 Central buses are temporarily rerouted in both directions via Central, Lawrence, Austin, Montrose and Central due to street blockage near Central/Montrose-Lawrence.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/residual delays following an earlier mechanical problem at Illinois Medical District.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-11-21T03:46:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-11-21T06:14:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96116"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96117"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Central",
-        "ServiceId": "85",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/85/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "3e76ff94-2f28-40c8-a435-87fd2a823ad9"
+    "GUID": "81cce875-e1c3-42c6-a83a-38e1643c572e"
   }
 ]
