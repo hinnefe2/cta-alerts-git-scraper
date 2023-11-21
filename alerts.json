@@ -32,5 +32,39 @@
     },
     "ttim": "1",
     "GUID": "3cf4625a-57af-412e-9378-ca9d9dcb4769"
+  },
+  {
+    "AlertId": "96119",
+    "Headline": "#85 Central Temporary Reroute at Central/Montrose",
+    "ShortDescription": "85 Central buses are temporarily rerouted in both directions via Central, Lawrence, Austin, Montrose and Central due to street blockage near Central/Montrose.",
+    "FullDescription": {
+      "#cdata-section": "<p>#85 Central buses are temporarily rerouted in both directions via Central, Lawrence, Austin, Montrose and Central due to street blockage near Central/Montrose.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-21T07:39:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96119"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Central",
+        "ServiceId": "85",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/85/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d804585a-e7f7-44fe-a18d-20066e88ac04"
   }
 ]
