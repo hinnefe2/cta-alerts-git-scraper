@@ -34,40 +34,6 @@
     "GUID": "3cf4625a-57af-412e-9378-ca9d9dcb4769"
   },
   {
-    "AlertId": "96119",
-    "Headline": "#85 Central Temporary Reroute at Central/Montrose",
-    "ShortDescription": "85 Central buses are temporarily rerouted in both directions via Central, Lawrence, Austin, Montrose and Central due to street blockage near Central/Montrose.",
-    "FullDescription": {
-      "#cdata-section": "<p>#85 Central buses are temporarily rerouted in both directions via Central, Lawrence, Austin, Montrose and Central due to street blockage near Central/Montrose.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-11-21T07:39:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96119"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Central",
-        "ServiceId": "85",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/85/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d804585a-e7f7-44fe-a18d-20066e88ac04"
-  },
-  {
     "AlertId": "96120",
     "Headline": "#82 Kimball-Homan Temporary Northbound Reroute near Lawndale/26th",
     "ShortDescription": "Northbound 82 Kimball-Homan buses are temporarily rerouted via Central Park, and 25th due to, street blockage near Lawndale/26th.",
@@ -100,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "5c138a05-f984-4628-921e-ad0971e19dbf"
-  },
-  {
-    "AlertId": "96122",
-    "Headline": "Loop-bound Brown Line Delays",
-    "ShortDescription": "Loop-bound Brown Line trains are running w/residual delays at Kimball. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown Line trains are running w/residual delays at Kimball.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-11-21T08:20:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96122"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "153eacc9-1c71-4606-963a-e7c1e1eb580a"
   }
 ]
