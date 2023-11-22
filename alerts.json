@@ -32,5 +32,86 @@
     },
     "ttim": "1",
     "GUID": "3cf4625a-57af-412e-9378-ca9d9dcb4769"
+  },
+  {
+    "AlertId": "96138",
+    "Headline": "#2 Hyde Park Express, #148 Clarendon/Michigan Express Temporary Reroute near State/Washington",
+    "ShortDescription": "2 Hyde Park Exp., 148 Clarendon/Michigan Exp. buses rrtd SB: State,Washington, Michigan, Randolph, & State; NB: Michigan, Wacker, Clark, Washington, and State.",
+    "FullDescription": {
+      "#cdata-section": "<p>#2 Hyde Park Express, #148 Clarendon/Michigan Express buses are temporarily rerouted in both directions near State/Washington, due to street blockage.</p>\r\n\r\n<p>Southbound buses will operate via State, Washington, Michigan, Randolph, and State.</p>\r\n\r\n<p>Northbound buses will operate via Michigan, Wacker, Clark, Washington, and State.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-22T08:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96138"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Hyde Park Express",
+          "ServiceId": "2",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/2/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clarendon/Michigan Express",
+          "ServiceId": "148",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/148/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "56b34f77-60a2-49f8-af11-39f53a2e64ed"
+  },
+  {
+    "AlertId": "96139",
+    "Headline": "#9 Ashland Temporary Reroute at Beverly/99th",
+    "ShortDescription": "9 Ashland buses are temporarily rerouted via Beverly, 99th, Vincennes, and 103rd due to, construction near Beverly/99th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#9 Ashland buses are temporarily rerouted in both directions via Beverly, 99th, Vincennes, and 103rd due to, construction near Beverly/99th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-22T08:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96139"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Ashland",
+        "ServiceId": "9",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/9/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4a276191-6d1d-40e1-a835-329a7a10b3b5"
   }
 ]
