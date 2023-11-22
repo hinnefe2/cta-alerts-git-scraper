@@ -34,37 +34,50 @@
     "GUID": "3cf4625a-57af-412e-9378-ca9d9dcb4769"
   },
   {
-    "AlertId": "96134",
-    "Headline": "Loop-bound Brown Line Delays",
-    "ShortDescription": "Loop-bound Brown Line trains are running w/residual delays following an earlier mechanical problem at Kimball. Service is resuming, allow extra time.",
+    "AlertId": "96135",
+    "Headline": "Green and Pink Line Delays",
+    "ShortDescription": "Green and Pink Line trains are running w/residual delays following earlier police activity at Ashland/Lake. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown Line trains are running w/residual delays following an earlier mechanical problem at Kimball.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green and Pink Line trains are running w/residual delays following earlier police activity at Ashland/Lake.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Significant Delays",
-    "EventStart": "2023-11-22T07:04:00",
+    "EventStart": "2023-11-22T07:18:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96134"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96135"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "d4c58621-daca-4604-b920-fb9cbe644eda"
+    "GUID": "bedb4710-2da2-4d9d-90bf-69ad269e6908"
   }
 ]
