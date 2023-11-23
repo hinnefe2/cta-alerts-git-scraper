@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "fc8a33d9-b02f-4736-96ac-a168dd7a8cfe"
+  },
+  {
+    "AlertId": "96147",
+    "Headline": "O'Hare-bound Blue Line Service Delayed at Austin",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Austin due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Austin due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-11-22T20:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96147"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Austin",
+          "ServiceId": "40010",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=23"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f3e99361-e3ca-466c-9f84-b4f84f059720"
   }
 ]
