@@ -79,5 +79,52 @@
     },
     "ttim": "0",
     "GUID": "118939af-c556-481f-84eb-c815562c6a0a"
+  },
+  {
+    "AlertId": "96149",
+    "Headline": "#22 Clark, #36 Broadway Temporary Southbound Reroute near Clark/Ida B.Wells",
+    "ShortDescription": "Southbound 22 Clark and 36 Broadway  buses are temporarily rerouted via Clark, Jackson, and Dearborn, due to, street blockage near Clark/Ida B.Wells.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #22 Clark and #36 Broadway&nbsp; buses are temporarily rerouted via Clark, Jackson, and Dearborn, due to, street blockage near Clark/Ida B.Wells.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-23T06:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96149"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Broadway",
+          "ServiceId": "36",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/36/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "754853dc-6949-407a-a19a-6ab0944d1e65"
   }
 ]
