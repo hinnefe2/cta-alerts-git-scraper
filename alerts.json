@@ -34,50 +34,37 @@
     "GUID": "6c794168-16c5-4bc6-8a69-fb2b2f6e1125"
   },
   {
-    "AlertId": "96148",
-    "Headline": "#147 Outer DuSable Lake Shore Express, #151 Sheridan Temporary Reroute at Sheridan/Catalpa",
-    "ShortDescription": "147 Outer DuSable Lk Shore Exp., 151 Sheridan buses rrted NB:Sheridan, Foster, Broadway, Bryn Mawr, Sheridan; SB: Sheridan, Hllywd, Broadway, Foster, Sheridan.",
+    "AlertId": "96152",
+    "Headline": "O'Hare-bound Blue Line Service Delayed at Medical District",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Medical District due to sick customer. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>#147 Outer DuSable Lake Shore Express, #151 Sheridan buses are temporarily rerouted in both directions near Sheridan/Catalpa,&nbsp;due to street blockage.</p>\r\n\r\n<p>Northbound buses will operate via Sheridan, Foster, Broadway, Bryn Mawr, Sheridan.</p>\r\n\r\n<p>Southbound buses will operate via Sheridan, Hollywood, Broadway, Foster, Sheridan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Medical District due to sick customer.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-11-23T06:11:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-11-23T12:09:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96148"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96152"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Outer DuSable Lake Shore Express",
-          "ServiceId": "147",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/147/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Sheridan",
-          "ServiceId": "151",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/151/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "118939af-c556-481f-84eb-c815562c6a0a"
+    "GUID": "db410a35-0890-4bcb-9f69-d037c26fcd86"
   }
 ]
