@@ -66,5 +66,63 @@
     },
     "ttim": "0",
     "GUID": "635727f2-1d66-43f8-8507-61086dcb898f"
+  },
+  {
+    "AlertId": "96162",
+    "Headline": "#146 Inner Lake Shore/Michigan Express, #147 Outer DuSable Lake Shore Express, #151 Sheridan Temporary Reroute near Michigan/Pearson",
+    "ShortDescription": "146 Inner Lk Shr/Michigan Exp, 147 Outer DuSable, 151 Sheridan buses temp. rerouted NB: Michigan, Oak, State, Wacker and Michigan; SB: Michigan, Oak and State.",
+    "FullDescription": {
+      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express, #147 Outer DuSable Lake Shore Express, #151 Sheridan&nbsp;buses are temporarily rerouted in both directions near Michigan/Pearson due to street blockage.</p>\r\n\r\n<p>Northbound buses will operate via Michigan, Oak, State, Wacker and Michigan.</p>\r\n\r\n<p>Southbound buses will operate via Michigan, Oak and State.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-24T13:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96162"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "262c79b2-5534-488f-983c-4d1e1d8b24a1"
   }
 ]
