@@ -124,5 +124,39 @@
     },
     "ttim": "0",
     "GUID": "262c79b2-5534-488f-983c-4d1e1d8b24a1"
+  },
+  {
+    "AlertId": "96163",
+    "Headline": "#66 Chicago Temporary Reroute near Michigan/Pearson",
+    "ShortDescription": "66 Chicago buses temp. rerouted EB: Chicago, State and Illinois; WB: Grand, State and Chicago due to street blockage near Michigan/Pearson.",
+    "FullDescription": {
+      "#cdata-section": "<p>#66 Chicago buses are temporarily rerouted in both directions near Michigan/Pearson due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via Chicago, State and Illinois.</p>\r\n\r\n<p>Westbound buses will operate via Grand, State and Chicago.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-24T13:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96163"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "eedd282e-a423-40c3-8a63-b2b724041247"
   }
 ]
