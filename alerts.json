@@ -32,5 +32,52 @@
     },
     "ttim": "1",
     "GUID": "545c4227-4fdd-477a-96c6-d099ae7174c2"
+  },
+  {
+    "AlertId": "96182",
+    "Headline": "Green and Pink Line Delays",
+    "ShortDescription": "Green and Pink Line trains are running w/residual delays following an earlier sick customer at Ashland/Lake. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green and Pink Line trains are running with residual delays following an earlier sick customer at Ashland/Lake.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-11-26T14:57:00",
+    "EventEnd": "2023-11-26T15:10:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96182"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5e79cd30-a3ce-420d-8c0e-371a4ebc3d84"
   }
 ]
