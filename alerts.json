@@ -66,5 +66,63 @@
     },
     "ttim": "0",
     "GUID": "986dd6ff-4466-4550-b2dd-13c592c52f60"
+  },
+  {
+    "AlertId": "96204",
+    "Headline": "#49 Western, #49B North Western and #X49 Western Express Temporary Northbound Reroute near Foster Western",
+    "ShortDescription": "Northbound 49 Western, 49B North Western and X49 Western Express buses are temporarily rerouted via Foster, California, Bryn Mawr and Western.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #49 Western, #49B North Western and #X49 Western Express buses are temporarily rerouted via Foster, California, Bryn Mawr and Western: due to, street blockage near Foster/Western.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-27T14:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96204"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western",
+          "ServiceId": "49",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "North Western",
+          "ServiceId": "49B",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49b/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western Express",
+          "ServiceId": "X49",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "2ad18661-d667-442d-8e4e-fbf6e2391a09"
   }
 ]
