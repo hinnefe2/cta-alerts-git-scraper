@@ -102,74 +102,16 @@
     "GUID": "ef198c98-c89d-45fc-af5d-5c6550b91153"
   },
   {
-    "AlertId": "96215",
-    "Headline": "#76 Diversey, #77 Belmont and #152 Addison Temporary Westbound Reroute near Harlem/Byron",
-    "ShortDescription": "Westbound 76 Diversey, 77 Belmont & 152 Addison buses are temp. rerouted via Montrose, Narragansett, Addison & Harlem due to street blockage near Harlem/Byron.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>Westbound #76 Diversey, #77 Belmont and #152 Addison buses are temporarily rerouted via Montrose, Narragansett, Addison and Harlem due to street blockage near Harlem/Byron.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-11-28T05:04:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96215"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Diversey",
-          "ServiceId": "76",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/76/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Belmont",
-          "ServiceId": "77",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/77/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Addison",
-          "ServiceId": "152",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/152/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "6d3880b2-29ec-4f08-aa4f-9123908b5fb9"
-  },
-  {
     "AlertId": "96216",
     "Headline": "O'Hare-bound Blue Line Service Delayed at Oak Park",
     "ShortDescription": "O'Hare-bound Blue Line trains are standing at Oak Park due to a mechanical problem on a train. Crews working to restore service.",
     "FullDescription": {
       "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Oak Park due to a mechanical problem on a train.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-11-28T05:45:00",
     "EventEnd": null,
     "TBD": "1",
@@ -191,6 +133,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "db64dd05-1aa5-4953-bf8a-addabe90b195"
+    "GUID": "00b969b4-196b-4104-8a1d-ed98657e9488"
   }
 ]
