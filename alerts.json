@@ -66,5 +66,99 @@
     },
     "ttim": "0",
     "GUID": "ef198c98-c89d-45fc-af5d-5c6550b91153"
+  },
+  {
+    "AlertId": "96226",
+    "Headline": "#81 Lawrence Temporary Reroute near Wilson/Malden",
+    "ShortDescription": "81 Lawrence buses temp. rerouted EB: Lawrence, Broadway, Wilson and Marine Drive; WB: Lawrence, Broadway, Foster, Ashland and Lawrence due to street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#81 Lawrence buses are temporarily rerouted in both directions near Wilson/Malden&nbsp;due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via Lawrence, Broadway, Wilson and Marine Drive.</p>\r\n\r\n<p>Westbound&nbsp;buses will operate via Lawrence, Broadway, Foster, Ashland and Lawrence.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-28T11:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96226"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Montrose",
+          "ServiceId": "78",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/78/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Lawrence",
+          "ServiceId": "81",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/81/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "15fd32ad-3241-4578-b4b3-ca910296cee4"
+  },
+  {
+    "AlertId": "96227",
+    "Headline": "#78 Montrose Temporary Reroute near Wilson/Malden",
+    "ShortDescription": "78 Montrose buses temp. rerouted EB: Montrose, Broadway, Wilson and Broadway; WB: Montrose, Broadway, Lawrence, Clark and Montrose due to street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#78 Montrose buses are temporarily rerouted in both directions near Wilson/Maldlen due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via Montrose, Broadway, Wilson and Broadway.</p>\r\n\r\n<p>Westbound buses will operate via Montrose, Broadway, Lawrence, Clark and Montrose.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-11-28T11:30:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96227"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Montrose",
+          "ServiceId": "78",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/78/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Lawrence",
+          "ServiceId": "81",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/81/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ff960f8f-4601-4f58-abb2-8bbd90046b01"
   }
 ]
