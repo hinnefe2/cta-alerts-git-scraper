@@ -32,5 +32,39 @@
     },
     "ttim": "1",
     "GUID": "d9d17628-d31b-48ec-a834-4e362bd9746f"
+  },
+  {
+    "AlertId": "96243",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Harrison. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Harrison.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-11-29T06:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96243"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "637e1338-dc14-4f2a-ac26-ac509f1a493a"
   }
 ]
