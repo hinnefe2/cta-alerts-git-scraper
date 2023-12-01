@@ -68,53 +68,6 @@
     "GUID": "21967edd-49a9-4ac0-aca1-5674fc1b4afb"
   },
   {
-    "AlertId": "96282",
-    "Headline": "Blue Line Experiencing Delays",
-    "ShortDescription": "Blue Line service running w/delays due to a sick customer at Montrose; board all trains on the O'Hare-bound side at rail stations.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line service is running with delays due to a sick customer&nbsp;at&nbsp;Montrose.</p>\r\n\r\n<p>Trains, in both directions, are running on the same track between Jefferson Park and Irving Park.</p>\r\n\r\n<p>Board/exit all trains on the&nbsp; O&#39;Hare-bound side of the platform at stations between Jefferson Park&nbsp; and Irving Park.</p>\r\n\r\n<p>Shuttle buses are available between Jefferson Park and Irving Park to provide connecting service.</p>\r\n\r\n<p>We&#39;re working to restore normal service as quickly as possible. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-12-01T13:16:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96282"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Montrose",
-          "ServiceId": "41330",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=102"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "fe5de60f-ff8e-4d08-b8d4-216d5fb789bb"
-  },
-  {
     "AlertId": "96284",
     "Headline": "Blue Line Trains bypassing Montrose",
     "ShortDescription": "Blue Line trains are running, but not stopping at Montrose.",
@@ -168,10 +121,10 @@
     "FullDescription": {
       "#cdata-section": "<p>Midway-bound Orange Line trains are standing at Ashland&nbsp;due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-12-01T14:51:00",
     "EventEnd": null,
     "TBD": "1",
@@ -206,6 +159,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "bdd2e7b5-2762-4101-8633-5ea47e1a00c4"
+    "GUID": "28deaf3e-2b89-4cc0-8ec9-32469fed7768"
   }
 ]
