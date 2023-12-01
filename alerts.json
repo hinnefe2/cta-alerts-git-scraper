@@ -68,37 +68,50 @@
     "GUID": "21967edd-49a9-4ac0-aca1-5674fc1b4afb"
   },
   {
-    "AlertId": "96276",
-    "Headline": "#76 Diversey Temporary Eastbound Reroute near Diversey/Damen",
-    "ShortDescription": "Eastbound 76 Diversey buses are temporarily rerouted via Diversey, Logan, Elston, Damen, and Diversey due to, street blockage near Diversey/Damen.",
+    "AlertId": "96282",
+    "Headline": "Forest-Park-bound Blue Line Service Delayed at Montrose",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Montrose due to a sick customer. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Eastbound #76 Diversey buses are temporarily rerouted via Diversey, Logan, Elston, Damen, and Diversey due to, street blockage near Diversey/Damen.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Montrose due to a sick customer.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-12-01T08:43:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-12-01T13:16:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96276"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96282"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Diversey",
-        "ServiceId": "76",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/76/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Monroe",
+          "ServiceId": "40790",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=100"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "697aa254-1c76-4250-963f-f3dc569186b8"
+    "GUID": "ea44b949-f212-41cb-b6d2-729ff1544b0e"
   }
 ]
