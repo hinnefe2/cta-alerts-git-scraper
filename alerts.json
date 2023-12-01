@@ -66,5 +66,73 @@
     },
     "ttim": "0",
     "GUID": "21967edd-49a9-4ac0-aca1-5674fc1b4afb"
+  },
+  {
+    "AlertId": "96276",
+    "Headline": "#76 Diversey Temporary Eastbound Reroute near Diversey/Damen",
+    "ShortDescription": "Eastbound 76 Diversey buses are temporarily rerouted via Diversey, Logan, Elston, Damen, and Diversey due to, street blockage near Diversey/Damen.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #76 Diversey buses are temporarily rerouted via Diversey, Logan, Elston, Damen, and Diversey due to, street blockage near Diversey/Damen.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-12-01T08:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96276"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Diversey",
+        "ServiceId": "76",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/76/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "697aa254-1c76-4250-963f-f3dc569186b8"
+  },
+  {
+    "AlertId": "96277",
+    "Headline": "95th-bound Red Line Service Delayed at Cermak",
+    "ShortDescription": "95th-bound Red Line trains are standing at Cermak due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are standing at Cermak due to police activity.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-12-01T08:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96277"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e863cc21-0daa-4cb9-9376-33ce55922ed3"
   }
 ]
