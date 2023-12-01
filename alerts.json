@@ -160,5 +160,52 @@
     },
     "ttim": "0",
     "GUID": "98783b13-4d1d-4350-a9bb-a13fdab40dd4"
+  },
+  {
+    "AlertId": "96286",
+    "Headline": "Midway-bound Orange Line Service Delayed at Ashland",
+    "ShortDescription": "Midway-bound Orange Line trains are standing at Ashland due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Midway-bound Orange Line trains are standing at Ashland&nbsp;due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-12-01T14:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96286"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Ashland",
+          "ServiceId": "41060",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=22"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "bdd2e7b5-2762-4101-8633-5ea47e1a00c4"
   }
 ]
