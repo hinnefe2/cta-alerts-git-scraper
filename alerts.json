@@ -194,5 +194,74 @@
     },
     "ttim": "0",
     "GUID": "3e246a7e-4077-431e-b880-e5ef78073ac0"
+  },
+  {
+    "AlertId": "96363",
+    "Headline": "#76 Diversey, #77 Belmont, #80 Irving Park & #78 Montrose Temporary Westbound Reroute near Montrose/Central",
+    "ShortDescription": "WB 76 Diversey, 77 Belmont, 80 Irving Park & 78 Montrose buses are rerouted via Central, Lawrence, Austin and Montrose, due to street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound&nbsp;#76 Diversey, #77 Belmont, #80 Irving Park &amp; #78 Montrose&nbsp;buses are temporarily rerouted via Central, Lawrence, Austin and Montrose, due to street blockage near Montrose/Central.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-12-06T14:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96363"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Diversey",
+          "ServiceId": "76",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/76/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Belmont",
+          "ServiceId": "77",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/77/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Montrose",
+          "ServiceId": "78",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/78/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Irving Park",
+          "ServiceId": "80",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/80/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "3546f849-cb31-46eb-91f3-25a36265730f"
   }
 ]
