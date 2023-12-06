@@ -66,5 +66,86 @@
     },
     "ttim": "0",
     "GUID": "070da15b-3712-4023-b449-d0b9b3f7df0d"
+  },
+  {
+    "AlertId": "96356",
+    "Headline": "#26 South Shore Express, #30 South Chicago Temporary Reroute at Ewing/103rd",
+    "ShortDescription": "26 South Shore Express, 30 South Chicago buses are temporarily rerouted via Ewing, 103rd, Ave L, 100th, and Ewing due to, street blockage near Ewing/103rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#26 South Shore Express, #30 South Chicago buses are temporarily rerouted via Ewing, 103rd, Ave L, 100th, and Ewing due to, street blockage near Ewing/103rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-12-06T11:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96356"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Chicago",
+          "ServiceId": "30",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/30/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "57f5d1e5-524c-48ac-bdeb-b1cd083ecbed"
+  },
+  {
+    "AlertId": "96357",
+    "Headline": "#60 Blue Island/26th Temporary Westbound Reroute near 26th/Kedzie",
+    "ShortDescription": "WB 60 Blue Island/26th buses are temporarily rerouted via 26th, Kedzie, Cermak, Central Park, and 26th due to, street blockagea near 26th/Kedzie.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound&nbsp;#60 Blue Island/26th buses are temporarily rerouted via 26th, Kedzie, Cermak, Central Park, and 26th due to, street blockagea near 26th/Kedzie.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-12-06T11:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96357"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Blue Island/26th",
+        "ServiceId": "60",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/60/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e2119784-d4b2-4815-a04a-c70ca0c377eb"
   }
 ]
