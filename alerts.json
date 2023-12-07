@@ -100,5 +100,97 @@
     },
     "ttim": "0",
     "GUID": "ae9f7d39-4002-4879-abcd-3743fea200c2"
+  },
+  {
+    "AlertId": "96383",
+    "Headline": "#95 95th, #108 Halsted/95th, & #112 Vincennes/111th Temporary Eastbound Reroute near 95th/Peoria",
+    "ShortDescription": "EB 95 95th, 108 Halsted/95th, & 112 Vincennes/111th buses are rerouted via 95th, Vincennes, 87th, Halsted and 95th: due to, street blockage near 95th/Peoria.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound&nbsp;#95 95th, #108 Halsted/95th, &amp; #112 Vincennes/111th buses are rerouted via 95th, Vincennes, 87th, Halsted and 95th: due to, street blockage near 95th/Peoria.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-12-07T15:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96383"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Halsted/95th",
+          "ServiceId": "108",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/108/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Vincennes/111th",
+          "ServiceId": "112",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/112/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "3ea6e481-a470-48ac-ad23-dd7ddaccdfdf"
+  },
+  {
+    "AlertId": "96384",
+    "Headline": "O'Hare-bound Blue Line Service Running with Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running with delays near Irving Park.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with delays near Irving Park.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-12-07T15:07:00",
+    "EventEnd": "2023-12-07T15:13:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96384"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "04b3b605-a96e-409a-995a-b7368cfb207e"
   }
 ]
