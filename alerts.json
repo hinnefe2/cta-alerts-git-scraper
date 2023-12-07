@@ -34,40 +34,6 @@
     "GUID": "d9d17628-d31b-48ec-a834-4e362bd9746f"
   },
   {
-    "AlertId": "96355",
-    "Headline": "#91 Austin Temporary Reroute at Austin/Randolph",
-    "ShortDescription": "91 Austin buses are temporarily rerouted via Austin, Washington, Central, Corcoran, Parkside, Lake, and Austin due to, street blockage near Austin/Randolph.",
-    "FullDescription": {
-      "#cdata-section": "<p>#91 Austin buses are temporarily rerouted via Austin, Washington, Central, Corcoran, Parkside, Lake, and Austin due to, street blockage near Austin/Randolph.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-12-06T09:30:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96355"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Austin",
-        "ServiceId": "91",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/91/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "070da15b-3712-4023-b449-d0b9b3f7df0d"
-  },
-  {
     "AlertId": "96356",
     "Headline": "#26 South Shore Express, #30 South Chicago Temporary Reroute at Ewing/103rd",
     "ShortDescription": "26 South Shore Express, 30 South Chicago buses are temporarily rerouted via Ewing, 103rd, Ave L, 100th, and Ewing due to, street blockage near Ewing/103rd.",
@@ -231,18 +197,18 @@
   },
   {
     "AlertId": "96369",
-    "Headline": "Loop-bound Brown & Purple Line Service Delayed at Fullerton",
-    "ShortDescription": "Loop-bound Brown & Purple Line trains are standing at Fullerton due to a mechanical problem. Crews working to restore service.",
+    "Headline": "Loop-bound Brown & Purple Line Delays",
+    "ShortDescription": "Loop-bound Brown & Purple Line trains are running w/residual delays and congestion following an earlier mechanical problem at Fullerton. Service is resuming.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown &amp; Purple Line trains are standing at Fullerton due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Brown &amp; Purple Line trains are running with residual delays and congestion following an earlier mechanical problem at Fullerton.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2023-12-06T17:53:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventEnd": "2023-12-06T18:32:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96369"
@@ -285,6 +251,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "83ca8aba-2d43-4a46-b792-2447bdeb5d3d"
+    "GUID": "b3acc662-c960-430e-9410-56a5fe0cbe88"
   }
 ]
