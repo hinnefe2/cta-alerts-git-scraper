@@ -34,40 +34,6 @@
     "GUID": "d9d17628-d31b-48ec-a834-4e362bd9746f"
   },
   {
-    "AlertId": "96376",
-    "Headline": "Updated: #91 Austin Temporary Reroute at Austin/Washington",
-    "ShortDescription": "91 Austin buses rrted NB: Austin, Washington, Central, Lake, & Austin; SB: Austin, Lake, Parkside, Corcoran, Central, Washington, & Austin at Austin/Washington.",
-    "FullDescription": {
-      "#cdata-section": "<p>Updated: #91 Austin buses are temporarily rerouted in both directions, due to street blockage at Austin/Washington.</p>\r\n\r\n<p>Northbound buses will operate via Austin, Washington, Central, Lake, and Austin.</p>\r\n\r\n<p>Southbound buses will operate via Austin, Lake, Parkside, Corcoran, Central, Washington, and Austin.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-12-07T09:39:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96376"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Austin",
-        "ServiceId": "91",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/91/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6d8d01f0-1b74-44c4-94c7-731de6c90148"
-  },
-  {
     "AlertId": "96378",
     "Headline": "#79 79th Temporary Eastbound Reroute near 79th/Kedzie",
     "ShortDescription": "Eastbound 79 79th buses are temporarily rerouted via 79th, Kedzie, 83rd, Western, and 79th due to, street blockage near 79th/Kedzie.",
@@ -142,10 +108,10 @@
     "FullDescription": {
       "#cdata-section": "<p>Howard-bound Red Line trains are running with residual delays and congestion following earlier police activity near Belmont.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2023-12-07T16:11:00",
     "EventEnd": "2023-12-07T16:47:00",
     "TBD": "0",
@@ -167,6 +133,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "f0181a80-c8a9-4b9d-9efa-e7c1df0a87d3"
+    "GUID": "df078cd8-2d1f-4f25-8e87-5fb46fa19137"
+  },
+  {
+    "AlertId": "96387",
+    "Headline": "54th/Cermak-bound Pink Line Service Delayed at Polk",
+    "ShortDescription": "54th/Cermak-bound Pink Line trains are standing at Polk due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>54th/Cermak-bound Pink Line trains are standing at Polk due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-12-07T16:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96387"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e0816a68-c7f0-4b61-a9ee-64d99b3be926"
   }
 ]
