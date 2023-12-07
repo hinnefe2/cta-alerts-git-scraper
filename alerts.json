@@ -100,5 +100,73 @@
     },
     "ttim": "0",
     "GUID": "ae9f7d39-4002-4879-abcd-3743fea200c2"
+  },
+  {
+    "AlertId": "96385",
+    "Headline": "#155 Devon Temporary Reroute at Devon/Hermitage",
+    "ShortDescription": "155 Devon buses are temporarily rerouted via Devon, Ridge, Pratt, Clark and Devon: due to, street blockage near Devon/Hermitage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#155 Devon buses are temporarily rerouted via Devon, Ridge, Pratt, Clark and Devon: due to, street blockage near Devon/Hermitage.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-12-07T16:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96385"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Devon",
+        "ServiceId": "155",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/155/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "882a48a4-1dc6-41ad-9866-9edf735e199b"
+  },
+  {
+    "AlertId": "96386",
+    "Headline": "Howard-bound Red Line Service Delayed near Belmont",
+    "ShortDescription": "Howard-bound Red Line trains are standing near Belmont due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing near Belmont due to police activity.</p>\r\n\r\n<p><span style=\"font-family: &quot;Times New Roman&quot;;\">At this time please consider using other service alternatives that better serve your trip such as nearby bus routes or buses to other rail lines.</span></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-12-07T16:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96386"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "518da16d-08ed-43d5-9e79-503542d76edb"
   }
 ]
