@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "0e4b0a39-7bd4-4fe6-bb5b-978e3c2c4275"
+  },
+  {
+    "AlertId": "96405",
+    "Headline": "#151 Sheridan, #156 LaSalle Temporary Reroute near Sheridan/Barry",
+    "ShortDescription": "151 Sheridan, 156 LaSalle buses rrted NB: Stockton, Cannon, Fullerton, LSD, & Belmont; SB: Belmont, Inner Lake Shore, Diversey, and Sheridan nr Sheridan/Barry.",
+    "FullDescription": {
+      "#cdata-section": "<p>#151 Sheridan and&nbsp;#156 LaSalle buses are temporarily rerouted in both directions near Sheridan/Barry, due to street blockage.</p>\r\n\r\n<p>Northbound buses will operate via Stockton, Cannon, Fullerton, Lake Shore Drive, and&nbsp;Belmont.</p>\r\n\r\n<p>Southbound buses will operate via Belmont, Inner Lake Shore, Diversey, and Sheridan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-12-08T10:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96405"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "LaSalle",
+          "ServiceId": "156",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/156/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4018a256-3a61-45bf-bb36-aac6398ed40e"
   }
 ]
