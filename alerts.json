@@ -100,5 +100,99 @@
     },
     "ttim": "0",
     "GUID": "ec6a7820-cfa1-4715-bfd3-6bf260c40061"
+  },
+  {
+    "AlertId": "96422",
+    "Headline": "#82 Kimball-Homan Temporary Reroute at Homan/Division",
+    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Kimball, North Ave, Pulaski, Grand and Homan due to street blockage near Homan/Division.",
+    "FullDescription": {
+      "#cdata-section": "<p>#82 Kimball-Homan&nbsp;buses are temporarily rerouted in both directions via Kimball, North Ave, Pulaski, Grand and Homan due to street blockage near Homan/Division.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-12-09T05:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96422"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Division",
+          "ServiceId": "70",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/70/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Kimball-Homan",
+          "ServiceId": "82",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/82/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "3d501169-9af0-444b-aa19-f7bee65e80db"
+  },
+  {
+    "AlertId": "96423",
+    "Headline": "#70 Division Temporary Reroute at Homan/Division",
+    "ShortDescription": "70 Division buses are temporarily rerouted via Division, Grand, Augusta, Kedzie and Division due to street blockage near Homan/Division.",
+    "FullDescription": {
+      "#cdata-section": "<p>#70 Division buses are temporarily rerouted in both directions via Division, Grand, Augusta, Kedzie and Division due to street blockage near Homan/Division.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-12-09T05:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96423"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Division",
+          "ServiceId": "70",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/70/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Kimball-Homan",
+          "ServiceId": "82",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/82/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "6ca9a941-cebb-4eea-afc5-d6bb9c280457"
   }
 ]
