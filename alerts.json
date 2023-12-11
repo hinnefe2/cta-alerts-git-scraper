@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "19ebe72c-4d05-4cbc-a321-37866353fb99"
+  },
+  {
+    "AlertId": "96442",
+    "Headline": "Trains bypassing Kedzie-Homan Station",
+    "ShortDescription": "Blue Line trains are running, but not stopping at Kedzie-Homan due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running, but not stopping at Kedzie-Homan due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2023-12-11T07:41:00",
+    "EventEnd": "2023-12-11T08:11:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96442"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "00cb7f4d-4040-45a0-84c7-be38ee32e885"
   }
 ]
