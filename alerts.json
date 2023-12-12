@@ -69,15 +69,15 @@
   },
   {
     "AlertId": "96453",
-    "Headline": "Howard-bound Red Line Service Delayed at Bryn Mawr",
-    "ShortDescription": "Howard-bound Red Line trains are standing at Bryn Mawr due to an police actviity. Crews working to restore service.",
+    "Headline": "No trains between Howard and Belmont",
+    "ShortDescription": "Red Line service has been temporarily suspended between Howard and Belmont due to police activity at Bryn Mawr.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Bryn Mawr due to an police actviity.</p>\r\n\r\n<p>Shuttle buses have been requested&nbsp;between Howard and Belmont to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>Red Line service has been temporarily suspended between Howard and Belmont due to police activity at Bryn Mawr.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between 95th/Dan Ryan and Belmont&nbsp;at this time.</strong></p>\r\n\r\n<p>Shuttle buses are available between Howard&nbsp;and Belmont to provide connecting service in both directions.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
     "EventStart": "2023-12-12T00:02:00",
     "EventEnd": null,
     "TBD": "1",
@@ -86,32 +86,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96453"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Bryn Mawr",
-          "ServiceId": "41380",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=28"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "a1606c7f-2d87-4d98-866b-3d40431a94e0"
+    "GUID": "37a2ec6c-6648-49fe-a1c1-4417814875e5"
   }
 ]
