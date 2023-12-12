@@ -83,9 +83,9 @@
   {
     "AlertId": "96460",
     "Headline": "#77 Belmont, #78 Montrose Temporary Northbound Reroute near Central/Elston",
-    "ShortDescription": "Northbound 77 Belmont, 78 Montrose buses are temporarily rerouted via Central, Elston and Bryn Mawr: due to, street blockage near Central/Elston.",
+    "ShortDescription": "Southbound 77 Belmont, 78 Montrose buses are temporarily rerouted via Central, Elston and Bryn Mawr: due to, street blockage near Central/Elston.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #77 Belmont, #78 Montrose buses are temporarily rerouted via Central, Elston and Bryn Mawr: due to, street blockage near Central/Elston.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #77 Belmont, #78 Montrose buses are temporarily rerouted via Central, Elston and Bryn Mawr: due to, street blockage near Central/Elston.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -125,6 +125,53 @@
       ]
     },
     "ttim": "0",
-    "GUID": "f55172d6-d0dc-4a63-bb48-4943be9360e9"
+    "GUID": "c15747d9-4934-4688-843f-bb3f9070e16b"
+  },
+  {
+    "AlertId": "96462",
+    "Headline": "#92 Foster,76 Diversey Temporary Northbound Reroute near Central/Elston",
+    "ShortDescription": "Southbound 92 Foster 76 Diversey buses are temporarily rerouted via Central, Elston and Bryn Mawr: due to, street blockage near Central/Elston.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound&nbsp;#92 Foster #76 Diversey buses are temporarily rerouted via Central, Elston and Bryn Mawr: due to, street blockage near Central/Elston.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-12-12T13:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96462"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Diversey",
+          "ServiceId": "76",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/76/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Foster",
+          "ServiceId": "92",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/92/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ca6e7dbf-b577-432f-95c3-309dd8e258f7"
   }
 ]
