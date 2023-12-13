@@ -32,52 +32,5 @@
     },
     "ttim": "1",
     "GUID": "d9d17628-d31b-48ec-a834-4e362bd9746f"
-  },
-  {
-    "AlertId": "96477",
-    "Headline": "Green Line Delays",
-    "ShortDescription": "Green Line trains are running w/residual delays following an earlier police investigation at Ashland/63rd. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>Green Line trains are running w/residual delays following an earlier police investigation at Ashland/63rd.&nbsp;</p>\r\n\r\n<ul>\r\n\t<li>Shuttle buses&nbsp;will continue providing connecting service from Ashland/63rd to Garfield and will conclude at 4:46 a.m.</li>\r\n</ul>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2023-12-13T04:31:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96477"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Ashland/63rd",
-          "ServiceId": "40290",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=20"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "5f20e704-b54f-4b6d-8da4-177c9795dc1c"
   }
 ]
