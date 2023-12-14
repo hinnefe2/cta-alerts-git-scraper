@@ -32,5 +32,52 @@
     },
     "ttim": "1",
     "GUID": "d9d17628-d31b-48ec-a834-4e362bd9746f"
+  },
+  {
+    "AlertId": "96490",
+    "Headline": "#7 Harrison and #60 Blue Island/26th Temporary Westbound Reroute near Harrison/Halsted",
+    "ShortDescription": "WB 7 Harrison & 60 Blue Island/26th buses are temp. rerouted via Harrison, Halsted, Van Buren, Morgan, and Harrison due to, street blockage nr Harrison/Halsted.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #7 Harrison and&nbsp;#60 Blue Island/26th buses are temporarily&nbsp;rerouted via Harrison, Halsted, Van Buren, Morgan, and Harrison due to, street blockage near Harrison/Halsted.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-12-14T07:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96490"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Harrison",
+          "ServiceId": "7",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/7/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Blue Island/26th",
+          "ServiceId": "60",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/60/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ceb993b9-41aa-4b2a-8c36-72a0886b18c6"
   }
 ]
