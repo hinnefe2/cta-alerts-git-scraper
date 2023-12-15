@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "5b6e317f-47ec-492c-b6d9-a79059849c82"
+  },
+  {
+    "AlertId": "96533",
+    "Headline": "#49 Western and #X49 Western Express Temporary Northbound Reroute near Western/Berwyn",
+    "ShortDescription": "NB #49 Western & #X49 Western buses are temporarily rerouted via Western, Foster, Lincoln, Bryn Mawr and Western: due to, street blockage near Western/Berwyn.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #49 Western &amp; #X49 Western buses are temporarily rerouted via Western, Foster, Lincoln, Bryn Mawr and Western: due to, street blockage near Western/Berwyn.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-12-15T13:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96533"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western",
+          "ServiceId": "49",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western Express",
+          "ServiceId": "X49",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "11e1981d-fe5b-46f8-8ff8-5e52df9db5a9"
   }
 ]
