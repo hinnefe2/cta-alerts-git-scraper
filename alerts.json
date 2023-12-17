@@ -113,5 +113,63 @@
     },
     "ttim": "0",
     "GUID": "7138471b-6669-46e2-838c-8cfe7d412eec"
+  },
+  {
+    "AlertId": "96549",
+    "Headline": "63rd-Ashland-bound Green Line Delays",
+    "ShortDescription": "63rd-Ashland-bound Green Line trains are running w/residual delays following an earlier police activity at Clinton. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>63rd-Ashland-bound Green Line trains are running w/residual delays following an earlier police activity at Clinton.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-12-16T19:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96549"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Clinton",
+          "ServiceId": "41160",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=46"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d7a87ea7-1b49-4dd6-87ee-ad955badedfe"
   }
 ]
