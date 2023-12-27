@@ -32,5 +32,52 @@
     },
     "ttim": "1",
     "GUID": "34b60c85-6f88-4010-8954-302fe9763e98"
+  },
+  {
+    "AlertId": "96686",
+    "Headline": "Red and Purple Line Service Running with Delays",
+    "ShortDescription": "Red and Purple Line trains are running with delays near Sheridan due to an earlier mechanical problem.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red and Purple Line trains are running with delays near Sheridan due to an earlier mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-12-27T07:46:00",
+    "EventEnd": "2023-12-27T07:50:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96686"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "30638045-85f9-4db1-8d78-1cfe54a33221"
   }
 ]
