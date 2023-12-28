@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "51cfd217-14e1-4ad0-b6dc-ac753eff378a"
+  },
+  {
+    "AlertId": "96705",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at UIC/Halsted",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at UIC/Halsted due to a mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at UIC/Halsted due to a mechanical problem.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-12-28T08:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96705"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "UIC-Halsted",
+          "ServiceId": "40350",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=132"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9cb5b369-b301-4eeb-9cdd-7479376ed8a4"
   }
 ]
