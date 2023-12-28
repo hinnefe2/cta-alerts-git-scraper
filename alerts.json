@@ -32,52 +32,5 @@
     },
     "ttim": "1",
     "GUID": "34b60c85-6f88-4010-8954-302fe9763e98"
-  },
-  {
-    "AlertId": "96711",
-    "Headline": "95th-bound Red Line trains bypassing Wilson Station",
-    "ShortDescription": "95th-bound Red Line trains are running, but not stopping at Wilson due to police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are running, but not stopping at Wilson due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
-    },
-    "SeverityScore": "58",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2023-12-28T12:11:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96711"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Wilson",
-          "ServiceId": "40540",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=140"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "e6fa32a1-78d2-4a2a-b094-553c70791916"
   }
 ]
