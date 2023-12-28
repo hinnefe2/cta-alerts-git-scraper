@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "51cfd217-14e1-4ad0-b6dc-ac753eff378a"
+  },
+  {
+    "AlertId": "96706",
+    "Headline": "No trains between O'Hare and Rosemont",
+    "ShortDescription": "Blue Line service has been temporarily suspended between O'Hare and Rosemont due to track switching problems.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line service has been temporarily suspended between O&#39;Hare and Rosemont due to track switching problems.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Forest Park&nbsp;and Rosemont at this time.</strong></p>\r\n\r\n<p>&nbsp;Shuttle buses have been requested to provide connecting service through the affected area.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2023-12-28T08:25:00",
+    "EventEnd": "2023-12-28T08:57:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96706"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "797d3ca3-4824-49b1-b946-d45de463f2a1"
   }
 ]
