@@ -69,17 +69,17 @@
   },
   {
     "AlertId": "96706",
-    "Headline": "No trains between O'Hare and Rosemont",
-    "ShortDescription": "Blue Line service has been temporarily suspended between O'Hare and Rosemont due to track switching problems.",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running w/residual delays and congestion following an earlier track switching problem.  Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line service has been temporarily suspended between O&#39;Hare and Rosemont due to track switching problems.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Forest Park&nbsp;and Rosemont at this time.</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li>between&nbsp;O&#39;Hare and Rosemont, shuttle train, limited service</li>\r\n\t<li>between&nbsp;Rosemont&nbsp;and Forest Park</li>\r\n</ul>\r\n\r\n<p>&nbsp;Shuttle buses have been requested to provide connecting service through the affected area.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are running w/residual delays and congestion following an earlier track switching problem.</p>\r\n\r\n<p>&nbsp;Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2023-12-28T08:25:00",
-    "EventEnd": "2023-12-28T08:57:00",
+    "EventEnd": "2023-12-28T08:45:00",
     "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
@@ -99,6 +99,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "e2993117-1dd8-4230-ba7e-f791479a15f4"
+    "GUID": "0b1f4788-2a2b-4130-9e42-8e08d2f3ae77"
+  },
+  {
+    "AlertId": "96707",
+    "Headline": "#157 Streeterville/Taylor Temporary Reroute at Taylor/Oakley",
+    "ShortDescription": "157 Streeterville/Taylor buses are temporarily rerouted via Western, Roosevelt and Ogden due to street blockage near Taylor/Oakley.",
+    "FullDescription": {
+      "#cdata-section": "<p>#157 Streeterville/Taylor&nbsp;buses are temporarily rerouted in both directions via Western, Roosevelt and Ogden due to street blockage near Taylor/Oakley.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-12-28T08:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96707"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Streeterville/Taylor",
+        "ServiceId": "157",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/157/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f27cf183-d41c-471f-a55c-cfff01d89b39"
   }
 ]
