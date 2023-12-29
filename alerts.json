@@ -34,75 +34,6 @@
     "GUID": "34b60c85-6f88-4010-8954-302fe9763e98"
   },
   {
-    "AlertId": "96734",
-    "Headline": "#151 Sheridan Temporary Reroute at Foster/Kenmore",
-    "ShortDescription": "151 Sheridan buses are temporarily rerouted via Sheridan, Bryn Mawr, Broadway, Lawrence and Sheridan due to street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>#151 Sheridan buses are temporarily rerouted in both directions via Sheridan, Bryn Mawr, Broadway, Lawrence and Sheridan due to street blockage near Foster/Kenmore.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-12-29T09:37:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96734"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Foster",
-          "ServiceId": "92",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/92/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Inner Lake Shore/Michigan Express",
-          "ServiceId": "146",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/146/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Outer DuSable Lake Shore Express",
-          "ServiceId": "147",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/147/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Sheridan",
-          "ServiceId": "151",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/151/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "c7419d07-ed50-46ef-9329-c31f9371bd1b"
-  },
-  {
     "AlertId": "96738",
     "Headline": "#47 47th Temporary Reroute at 47th/Halsted",
     "ShortDescription": "47 47th buses are temporarily rerouted via 47th, Racine, 51st, Halsted and 47th due to street blockage.",
@@ -182,39 +113,5 @@
     },
     "ttim": "0",
     "GUID": "a072d476-75bd-47e4-a989-a7ee3ba49897"
-  },
-  {
-    "AlertId": "96740",
-    "Headline": "#87 87th Temporary Reroute near 87th/Stony Island",
-    "ShortDescription": "87 87th buses temp. rerouted EB: 87th, Cottage Grove, 83rd, Jeffery and 87th; WB: 87th, Jeffery, 83rd, Stony Island and 87th due to street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>#87 87th buses are temporarily rerouted in both directions near 87th/Stony Island, due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via 87th, Cottage Grove, 83rd, Jeffery and 87th.</p>\r\n\r\n<p>Westbound buses will operate via 87th, Jeffery, 83rd, Stony Island and 87th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2023-12-29T12:30:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96740"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "87th",
-        "ServiceId": "87",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/87/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ffa747f7-6b96-4aff-8d26-21cf0b348d52"
   }
 ]
