@@ -32,5 +32,52 @@
     },
     "ttim": "1",
     "GUID": "34b60c85-6f88-4010-8954-302fe9763e98"
+  },
+  {
+    "AlertId": "96730",
+    "Headline": "63rd-bound Green and Midway-bound Orange Line Service Delayed near Roosevelt",
+    "ShortDescription": "63rd-bound Green and Midway-bound Orange Line trains are standing near Roosevelt due to a door problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>63rd-bound Green and Midway-bound Orange Line trains are standing near Roosevelt due to a door problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2023-12-29T08:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96730"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e956e722-ba9b-4924-81ef-1754737ee467"
   }
 ]
