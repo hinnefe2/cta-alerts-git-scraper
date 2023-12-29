@@ -35,7 +35,7 @@
   },
   {
     "AlertId": "96731",
-    "Headline": "#92 Foster Temporary Westbound Reroute near Foster/Kenmore",
+    "Headline": "#92 Foster Temporary Westbound Reroute at Foster/Kenmore",
     "ShortDescription": "Westbound 92 Foster buses are temporarily rerouted via Berwyn, Sheridan, Bryn Mawr, Broadway and Foster due to street blockage.",
     "FullDescription": {
       "#cdata-section": "<p>Westbound #92 Foster buses are temporarily rerouted via Berwyn, Sheridan, Bryn Mawr, Broadway and Foster due to street blockage.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
@@ -100,11 +100,11 @@
       ]
     },
     "ttim": "0",
-    "GUID": "d6e81f19-15fd-445b-8580-5e1d05170b5c"
+    "GUID": "b5c1ef37-dfac-4bb6-a776-1b5586d15a37"
   },
   {
     "AlertId": "96732",
-    "Headline": "#146 Inner Lk Shr/Michigan Exp Temporary Reroute near Foster/Kenmore",
+    "Headline": "#146 Inner Lk Shr/Michigan Exp Temporary Reroute at Foster/Kenmore",
     "ShortDescription": "146 Inner Lk Shr/Mchgn Exp buses temp. rerouted NB: Marine Dr., Lawrence, B'way and Berwyn; SB: Berwyn, Sheridan, Bryn Mawr, Broadway, Lawrence and Marine Dr.",
     "FullDescription": {
       "#cdata-section": "<p>#146 Inner Lk Shr/Michigan Exp buses are temporarily rerouted in both directions near Foster/Kenmore&nbsp;due to street blockage.&nbsp;</p>\r\n\r\n<p>Northbound&nbsp;buses will operate via&nbsp;Marine Dr., Lawrence, B&#39;way and Berwyn.</p>\r\n\r\n<p>Southbound buses will operate via &nbsp;Berwyn, Sheridan, Bryn Mawr, Broadway, Lawrence and Marine Dr.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
@@ -169,11 +169,11 @@
       ]
     },
     "ttim": "0",
-    "GUID": "597b2d63-53bd-46d1-9dbd-a286b45aa631"
+    "GUID": "fe35e09c-5190-453a-9f89-d92ba776a6b8"
   },
   {
     "AlertId": "96733",
-    "Headline": "#147 Outer DuSable Lk Shore Temporary Reroute near Foster/Kenmore",
+    "Headline": "#147 Outer DuSable Lk Shore Temporary Reroute at Foster/Kenmore",
     "ShortDescription": "147 Outer DuSable Lk Shore buses are temporarily rerouted via Outer Lk Shore, Lawrence, Broadway, Bryn Mawr and Sheridan due to street blockage.",
     "FullDescription": {
       "#cdata-section": "<p>#147 Outer DuSable Lk Shore buses are temporarily rerouted in both directions via Outer Lk Shore, Lawrence, Broadway, Bryn Mawr and Sheridan due to street blockage near Foster/Kenmore.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
@@ -238,7 +238,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "7c5c3fa9-b3cf-45ee-9873-1ee25d9d888d"
+    "GUID": "97e3bf17-cd32-45aa-b7cc-5b18bbf030ea"
   },
   {
     "AlertId": "96734",
@@ -308,5 +308,52 @@
     },
     "ttim": "0",
     "GUID": "c7419d07-ed50-46ef-9329-c31f9371bd1b"
+  },
+  {
+    "AlertId": "96735",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at UIC/Halsted",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at UIC/Halsted due to a sick passenger. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at UIC/Halsted due to a sick passenger.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-12-29T09:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96735"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "UIC-Halsted",
+          "ServiceId": "40350",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=132"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "93f53b4d-409d-4f1d-b129-2e1558ba40ef"
   }
 ]
