@@ -310,25 +310,37 @@
     "GUID": "c7419d07-ed50-46ef-9329-c31f9371bd1b"
   },
   {
-    "AlertId": "96737",
-    "Headline": "95th-bound Red Line Service Running with Delays",
-    "ShortDescription": "95th-bound Red Line trains are running with delays near 79th due to earlier police activity.  Howard-bound trains resume making normal stops at 79th Station.",
+    "AlertId": "96738",
+    "Headline": "#47 47th Temporary Reroute at 47th/Halsted",
+    "ShortDescription": "47 47th buses are temporarily rerouted via 47th, Racine, 51st, Halsted and 47th due to street blockage.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are running with delays near 79th due to earlier police activity.&nbsp; Howard-bound trains resume making normal stops at 79th Station.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#47 47th&nbsp;buses are temporarily rerouted in both directions via 47th, Racine, 51st, Halsted and 47th, due to street blockage near 47th/Halsted.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2023-12-29T11:51:00",
-    "EventEnd": "2023-12-29T12:10:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2023-12-29T12:21:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96737"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96738"
     },
-    "ImpactedService": null,
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "47th",
+        "ServiceId": "47",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/47/"
+        }
+      }
+    },
     "ttim": "0",
-    "GUID": "6e2dc87b-7f74-4ab5-b90f-3cda70647012"
+    "GUID": "8a7bee81-f40a-4efd-be8e-d4ff87ccbfd9"
   }
 ]
