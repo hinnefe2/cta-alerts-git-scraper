@@ -101,5 +101,39 @@
     },
     "ttim": "0",
     "GUID": "5eab9a8a-2c32-4609-925a-18ec6884cc38"
+  },
+  {
+    "AlertId": "96775",
+    "Headline": "No trains between Harlem and Clark/Lake",
+    "ShortDescription": "Green Line service has been temporarily suspended between Harlem and Clark/Lake due to signal problems.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green Line service has been temporarily suspended between Harlem and Clark/Lake due to signal problems.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Ashland/63rd/Cottage&nbsp;and Clark/Lake at this time.</strong></p>\r\n\r\n<p>&nbsp;At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2023-12-31T15:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96775"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "89e19d3c-8830-4600-862d-dbcc5b503b54"
   }
 ]
