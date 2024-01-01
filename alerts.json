@@ -36,14 +36,14 @@
   {
     "AlertId": "96778",
     "Headline": "Blue Line Service Running with Delays",
-    "ShortDescription": "Blue Line trains are running with significant delays.",
+    "ShortDescription": "Blue Line trains are running with delays.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running with significant delays.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are running with delays.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2023-12-31T19:07:00",
     "EventEnd": null,
     "TBD": "1",
@@ -65,6 +65,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "8a7636ba-5d29-4d28-922f-de231fc8aa51"
+    "GUID": "2eadbd22-d74f-4446-a90c-4a95d5091d45"
+  },
+  {
+    "AlertId": "96779",
+    "Headline": "Orange Line Service Running with Delays",
+    "ShortDescription": "Orange Line trains are running with delays.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange Line trains are running with delays..</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2023-12-31T20:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96779"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "209cd42e-9bbd-40f3-bf04-d0bf01ed1d0e"
   }
 ]
