@@ -34,37 +34,50 @@
     "GUID": "34b60c85-6f88-4010-8954-302fe9763e98"
   },
   {
-    "AlertId": "96840",
-    "Headline": "#50 Damen Temporary Reroute at Damen/Lake",
-    "ShortDescription": "50 Damen buses are temporarily rerouted in both directions via Damen, Grand, Ashland, Madison and Damen due to street blockage near Damen/Lake.",
+    "AlertId": "96846",
+    "Headline": "95th-bound Red Line Service Delayed at Morse",
+    "ShortDescription": "95th-bound Red Line trains are standing at Morse due to a mechanical a problem. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#50 Damen buses are temporarily rerouted in both directions via Damen, Grand, Ashland, Madison and Damen due to street blockage near Damen/Lake.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th-bound Red Line trains are standing at Morse due to a mechanical a problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-01-04T04:55:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-01-04T07:30:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96840"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96846"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Damen",
-        "ServiceId": "50",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/50/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Wilson",
+          "ServiceId": "40540",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=140"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "0e8ae8e2-fd0b-4c16-9801-06b1aa6facdf"
+    "GUID": "295d4648-d2e5-44c7-a9f2-e0a43b03e085"
   }
 ]
