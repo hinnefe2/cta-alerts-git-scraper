@@ -32,52 +32,5 @@
     },
     "ttim": "0",
     "GUID": "741ccc07-5cd7-453a-b1be-fc3786d910e9"
-  },
-  {
-    "AlertId": "96958",
-    "Headline": "Orange Line Delays",
-    "ShortDescription": "Loop-bound Orange Line trains are running w/residual delays following earlier police activity at Western. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Orange Line trains are running w/residual delays following earlier police activity at Western.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-01-11T15:07:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96958"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Western",
-          "ServiceId": "40310",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=139"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "391283ec-13d7-4b43-88ff-066a685cba14"
   }
 ]
