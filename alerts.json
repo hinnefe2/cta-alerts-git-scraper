@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "96966",
+    "Headline": "#2 Hyde Park Express and #28 Stony Island Temporary Reroute",
+    "ShortDescription": "2 Hyde Park Express, 28 Stony Island buses are temporarily rerouted via Lake Park, 47th, King Dr, Cermak, Michigan, Balbo.",
+    "FullDescription": {
+      "#cdata-section": "<p>#2 Hyde Park Express, #28 Stony Island buses, in both directions, are rerouted via Lake Park, 47th, King Drive, Cermak, Michigan, Balbo.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-01-12T07:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96966"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Hyde Park Express",
+          "ServiceId": "2",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/2/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stony Island",
+          "ServiceId": "28",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/28/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "2080f639-3715-47e4-93b7-b2a37f90f9af"
+  }
+]
