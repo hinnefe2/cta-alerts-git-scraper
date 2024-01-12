@@ -493,16 +493,16 @@
   },
   {
     "AlertId": "96980",
-    "Headline": "#135 Clarendon/LaSalle Express, #146 Inner Lake Shore/Michigan Express Temporary Reroute at Clarendon/WIlson",
-    "ShortDescription": "135 Clarendon/LaSalle Express, 146 Inner Lake Shore/Michigan Express buses rerouted via Sheridan, Lawrence and Marine due to icy condition at Clarendon/WIlson.",
+    "Headline": "Revised: #147 Outer DuSable Lake Shore Express Temporary Reroute at Clarendon/WIlson",
+    "ShortDescription": "Revised: 147 Outer DuSable Lake Shore Express buses rerouted via Sheridan, Lawrence and Marine due to icy condition at Clarendon/WIlson.",
     "FullDescription": {
-      "#cdata-section": "<p>#135 Clarendon/LaSalle Express and&nbsp;#146 Inner Lake Shore/Michigan Express buses rerouted in both directions via Sheridan, Lawrence and Marine due to icy condition at Clarendon/WIlson.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Revised: #147 Outer DuSable Lake Shore Express&nbsp;buses are rerouted in both directions via Sheridan, Lawrence and Marine due to icy condition at Clarendon/WIlson.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-01-12T09:38:00",
+    "EventStart": "2024-01-12T09:49:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
@@ -510,32 +510,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96980"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Clarendon/LaSalle Express",
-          "ServiceId": "135",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/135/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Inner Lake Shore/Michigan Express",
-          "ServiceId": "146",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/146/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Outer DuSable Lake Shore Express",
+        "ServiceId": "147",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/147/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "18c9fd86-99e7-4d3c-8419-261a31ef914a"
+    "GUID": "91f2ea73-1c53-4c09-bd18-58e8869ba3da"
   }
 ]
