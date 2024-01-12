@@ -490,5 +490,63 @@
     },
     "ttim": "0",
     "GUID": "8a0f4d87-eb22-4987-bf30-9e697a5fbfa4"
+  },
+  {
+    "AlertId": "96979",
+    "Headline": "#134 Stockton/LaSalle Express, #143 Stockton/Michigan Express, #151 Sheridan Temporary Reroute",
+    "ShortDescription": "134 Stcktn/LaS Exp, 143 Stckton/Mich Exp, #151 Sheridan buses rrtd NB: Mich, Chgo, Drbrn, Walton, Clrk, Hlstd; SB Belmont, Halsted, Clark, Chgo, Mich, Wacker.",
+    "FullDescription": {
+      "#cdata-section": "<p>#134 Stockton/LaSalle Express, #143 Stockton/Michigan Express, #151 Sheridan buses are temporarily rerouted in both directions, away from Lake Shore Drive.&nbsp;</p>\r\n\r\n<p>Northbound buses are rerouted via Michigan, Chicago, Dearborn, Walton, Clark and Halsted.</p>\r\n\r\n<p>Southbound&nbsp;buses are rerouted via Belmont, Halsted, Clark, Chicago, Michigan, Wacker.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-01-12T09:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96979"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stockton/LaSalle Express",
+          "ServiceId": "134",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/134/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stockton/Michigan Express",
+          "ServiceId": "143",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/143/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "408d6c5d-e704-4e71-a1f8-51e171c59364"
   }
 ]
