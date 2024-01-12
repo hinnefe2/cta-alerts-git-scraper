@@ -81,40 +81,6 @@
     "GUID": "e2fd0ba6-162b-48d6-917a-c22cc0769e13"
   },
   {
-    "AlertId": "96968",
-    "Headline": "#78 Montrose Temporary Reroute at Montrose/Campbell ",
-    "ShortDescription": "78 Montrose buses are temporarily rerouted via Montrose, California, Irving Park, Western, and Montrose due to, street blockage near Montrose/Campbell.",
-    "FullDescription": {
-      "#cdata-section": "<p>#78 Montrose buses are temporarily rerouted in both directions via Montrose, California, Irving Park, Western, and Montrose due to, street blockage near Montrose/Campbell.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-01-12T08:00:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96968"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Montrose",
-        "ServiceId": "78",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/78/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "edcd545c-0c65-468f-9222-f6ff4c3aab15"
-  },
-  {
     "AlertId": "96969",
     "Headline": "#J14 Jeffery Jump, #26 South Shore Express Temporary Reroute",
     "ShortDescription": "J14 Jeffery Jump, 26 South Shore Exp buses are temp. rerouted via Jeffery, 67th, Stony Isl, 57th, Hyde Pk, Lake Pk, 47th, King Dr, Cermak, Michigan and Balbo.",
@@ -490,5 +456,39 @@
     },
     "ttim": "0",
     "GUID": "91f2ea73-1c53-4c09-bd18-58e8869ba3da"
+  },
+  {
+    "AlertId": "96982",
+    "Headline": "#55 Garfield Temporary Eastbound Reroute near 55th/Western",
+    "ShortDescription": "Eastbound 55 Garfield buses are temporarily rerouted via Western, 59th, Damen, and 55th due to, street blockage near 55th/Western.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #55 Garfield buses are temporarily rerouted via Western, 59th, Damen, and 55th due to, street blockage near 55th/Western.</p>\r\n\r\n<p>Westbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-01-12T10:39:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96982"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Garfield",
+        "ServiceId": "55",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/55/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "23303047-7467-4292-874b-c3d52291baae"
   }
 ]
