@@ -492,61 +492,50 @@
     "GUID": "8a0f4d87-eb22-4987-bf30-9e697a5fbfa4"
   },
   {
-    "AlertId": "96979",
-    "Headline": "#134 Stockton/LaSalle Express, #143 Stockton/Michigan Express, #151 Sheridan Temporary Reroute",
-    "ShortDescription": "134 Stcktn/LaS Exp, 143 Stckton/Mich Exp, #151 Sheridan buses rrtd NB: Mich, Chgo, Drbrn, Walton, Clrk, Hlstd; SB Belmont, Halsted, Clark, Chgo, Mich, Wacker.",
+    "AlertId": "96980",
+    "Headline": "#135 Clarendon/LaSalle Express, #146 Inner Lake Shore/Michigan Express Temporary Reroute at Clarendon/WIlson",
+    "ShortDescription": "135 Clarendon/LaSalle Express, 146 Inner Lake Shore/Michigan Express buses rerouted via Sheridan, Lawrence and Marine due to icy condition at Clarendon/WIlson.",
     "FullDescription": {
-      "#cdata-section": "<p>#134 Stockton/LaSalle Express, #143 Stockton/Michigan Express, #151 Sheridan buses are temporarily rerouted in both directions, away from Lake Shore Drive.&nbsp;</p>\r\n\r\n<p>Northbound buses are rerouted via Michigan, Chicago, Dearborn, Walton, Clark and Halsted.</p>\r\n\r\n<p>Southbound&nbsp;buses are rerouted via Belmont, Halsted, Clark, Chicago, Michigan, Wacker.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#135 Clarendon/LaSalle Express and&nbsp;#146 Inner Lake Shore/Michigan Express buses rerouted in both directions via Sheridan, Lawrence and Marine due to icy condition at Clarendon/WIlson.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-01-12T09:33:00",
+    "EventStart": "2024-01-12T09:38:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96979"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=96980"
     },
     "ImpactedService": {
       "Service": [
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Stockton/LaSalle Express",
-          "ServiceId": "134",
+          "ServiceName": "Clarendon/LaSalle Express",
+          "ServiceId": "135",
           "ServiceBackColor": "059",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/134/"
+            "#cdata-section": "http://www.transitchicago.com/bus/135/"
           }
         },
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Stockton/Michigan Express",
-          "ServiceId": "143",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
           "ServiceBackColor": "059",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/143/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Sheridan",
-          "ServiceId": "151",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "408d6c5d-e704-4e71-a1f8-51e171c59364"
+    "GUID": "18c9fd86-99e7-4d3c-8419-261a31ef914a"
   }
 ]
