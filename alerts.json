@@ -324,5 +324,52 @@
     },
     "ttim": "1",
     "GUID": "b61b454f-ecb5-45f6-a230-35828ee025e0"
+  },
+  {
+    "AlertId": "97044",
+    "Headline": "95th-bound Red Line Delays",
+    "ShortDescription": "95th-bound Red Line trains are running w/residual delays following an earlier mechanical problem at Garfield. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are running w/residual delays following an earlier mechanical problem at Garfield.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-01-14T15:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97044"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Garfield",
+          "ServiceId": "41170",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=61"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "a93e68e2-261b-4da6-b43f-259273a2fbd6"
   }
 ]
