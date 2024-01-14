@@ -32,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "b99320ce-33cb-4922-9aff-b2afee40b632"
+  },
+  {
+    "AlertId": "97028",
+    "Headline": "Brown Line Service Disrupted",
+    "ShortDescription": "Service on the Brown Line is disrupted due to mechanical problems. Seek alternatives, such as local buses to other lines; working to provide alts and restore.",
+    "FullDescription": {
+      "#cdata-section": "<p>Service on the Brown Line is currently disrupted due to mechanical problems.</p>\r\n\r\n<p>At this time,&nbsp;consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>We are working to provide alternative service and also to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow significant extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "90",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Suspended",
+    "EventStart": "2024-01-14T10:25:00",
+    "EventEnd": "2024-01-14T14:40:00",
+    "TBD": "0",
+    "MajorAlert": "1",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97028"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "1",
+    "GUID": "00015e2e-45d3-4901-bf42-591c89e6684c"
   }
 ]
