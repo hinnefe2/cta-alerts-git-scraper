@@ -34,37 +34,37 @@
     "GUID": "bff60882-5218-4d07-8c14-a6fb24aedaf3"
   },
   {
-    "AlertId": "97020",
-    "Headline": "Brown Line Delays",
-    "ShortDescription": "Brown Line trains are running w/residual delays following an earlier mech. problem near Merchandise Mart. Service is resuming, allow extra time.\r\n\r\n",
+    "AlertId": "97021",
+    "Headline": "#103 West 103rd Temporary Reroute at 103rd Street/Sacramento",
+    "ShortDescription": "103 West 103rd buses are temporarily rerouted via 103rd, Kedzie, 99th, Western, and 103rd due to, street blockage at 103rd Street/Sacramento.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are running w/residual delays following an earlier mechanical problem near Merchandise Mart.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#103 West 103rd buses are temporarily rerouted in both directions via 103rd, Kedzie, 99th, Western, and 103rd due to, street blockage at 103rd Street/Sacramento.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-01-14T07:03:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-01-14T08:07:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97020"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97021"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "West 103rd",
+        "ServiceId": "103",
+        "ServiceBackColor": "059",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/103/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "3a69f8c1-2d2a-447f-af56-b7ea8ff09df7"
+    "GUID": "b99320ce-33cb-4922-9aff-b2afee40b632"
   }
 ]
