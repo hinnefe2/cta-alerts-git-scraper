@@ -168,40 +168,6 @@
     "GUID": "ad5ee66c-b43e-43af-97e9-4b344a5590b5"
   },
   {
-    "AlertId": "97029",
-    "Headline": "#71 71st/South Shore Temporary Reroute at 71st/University",
-    "ShortDescription": "71 71st/South Shore buses are temporarily rerouted via71st, Dorchester, 73rd, South Chicago, and 71st due to, street blockage at 71st/University.",
-    "FullDescription": {
-      "#cdata-section": "<p>#71 71st/South Shore buses are temporarily rerouted in both directions via71st, Dorchester, 73rd, South Chicago, and 71st due to, street blockage at 71st/University.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-01-14T11:09:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97029"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "71st/South Shore",
-        "ServiceId": "71",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/71/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ded1d277-0643-4275-82d5-f42f4ec00cc3"
-  },
-  {
     "AlertId": "97035",
     "Headline": "Brown & Orange Line Trains Rerouted Downtown",
     "ShortDescription": "Brown & Orange Line trains are running as one route between Belmont & Midway. Board Brown on Lake, Wabash only; Orange to Midway on Brown side on Wells, Van B.",
@@ -324,52 +290,5 @@
     },
     "ttim": "1",
     "GUID": "b61b454f-ecb5-45f6-a230-35828ee025e0"
-  },
-  {
-    "AlertId": "97044",
-    "Headline": "95th-bound Red Line Delays",
-    "ShortDescription": "95th-bound Red Line trains are running w/residual delays following an earlier mechanical problem at Garfield. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are running w/residual delays following an earlier mechanical problem at Garfield.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-01-14T15:16:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97044"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Garfield",
-          "ServiceId": "41170",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=61"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "a93e68e2-261b-4da6-b43f-259273a2fbd6"
   }
 ]
