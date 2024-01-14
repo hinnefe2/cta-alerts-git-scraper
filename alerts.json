@@ -32,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "bff60882-5218-4d07-8c14-a6fb24aedaf3"
+  },
+  {
+    "AlertId": "97020",
+    "Headline": "Loop-bound Brown Line Service Delayed near Merchandise Mart",
+    "ShortDescription": "Loop-bound Brown Line trains are standing near Merchandise Mart due to a mechanical problem on a train. Allow extra travel time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Brown Line trains are standing near Merchandise Mart due to a mechanical problem on a train.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-01-14T07:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97020"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "972137af-0e03-4f8d-b772-f1e20ba15461"
   }
 ]
