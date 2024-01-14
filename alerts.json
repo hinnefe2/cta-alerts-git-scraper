@@ -2,7 +2,7 @@
   {
     "AlertId": "97028",
     "Headline": "No trains between Kimball and Belmont",
-    "ShortDescription": "Brown Line service has been temporarily suspended between Belmont and Kimball due to mechanical problems.",
+    "ShortDescription": "Brown Line service has been temporarily suspended between Belmont and Kimball due to mechanical problems from severe cold weather.",
     "FullDescription": {
       "#cdata-section": "<p>Brown Line service has been temporarily suspended between Belmont and Kimball due to mechanical problems from severe cold near Kimball.</p>\r\n\r\n<p>As a result, <a href=\"https://www.transitchicago.com/travel-information/alert-detail/?AlertId=97035\"><strong>trains are operating only between Belmont and downtown, via a modified routing shared with Orange Line trains (see separate alert)</strong></a>.</p>\r\n\r\n<p>Shuttle buses are available between Kimball and Clark/Lake&nbsp;to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance&nbsp;and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
@@ -18,20 +18,154 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97028"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Addison",
+          "ServiceId": "41440",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=16"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Belmont",
+          "ServiceId": "41320",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=25"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Francisco",
+          "ServiceId": "40870",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=58"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Kedzie",
+          "ServiceId": "41180",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=79"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Kimball",
+          "ServiceId": "41290",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=84"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Montrose",
+          "ServiceId": "41500",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=103"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Rockwell",
+          "ServiceId": "41010",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=120"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Southport",
+          "ServiceId": "40360",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=128"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Western",
+          "ServiceId": "41480",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=135"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Damen",
+          "ServiceId": "40090",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=141"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Irving Park",
+          "ServiceId": "41460",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=142"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Paulina",
+          "ServiceId": "41310",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=143"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
         }
-      }
+      ]
     },
-    "ttim": "0",
-    "GUID": "dcf66a30-be59-41b1-81d9-424ae5aa9ed2"
+    "ttim": "1",
+    "GUID": "ad5ee66c-b43e-43af-97e9-4b344a5590b5"
   },
   {
     "AlertId": "97029",
