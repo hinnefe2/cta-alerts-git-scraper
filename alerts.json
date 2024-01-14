@@ -1,15 +1,15 @@
 [
   {
     "AlertId": "97017",
-    "Headline": "Loop-bound Brown Line Service Delayed at Kimball",
-    "ShortDescription": "Loop-bound Brown Line trains are standing at Kimball due to a mechanical problem on a train. Crews working to restore service.",
+    "Headline": "Loop-bound Brown Line Delays",
+    "ShortDescription": "Loop-bound Brown Line trains are running w/residual delays following an earlier mechanical problem at Kimball. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown Line trains are standing at Kimball due to a mechanical problem on a train.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Brown Line trains are running w/residual delays following an earlier mechanical problem at Kimball.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2024-01-14T06:15:00",
     "EventEnd": null,
     "TBD": "1",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "93bb4e38-7cf5-4078-9ed4-b919168a9c20"
+    "GUID": "9bdb3feb-6192-4f57-99ec-de9c1b6470e0"
+  },
+  {
+    "AlertId": "97018",
+    "Headline": "#50 Damen Temporary Reroute near Damen/14th",
+    "ShortDescription": "Eastbound 50 Damen buses are temporarily rerouted via Damen, Roosevelt, Ashland, 18th, and Damen due to, street blockage near Damen/14th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #50 Damen buses are temporarily rerouted via Damen, Roosevelt, Ashland, 18th, and Damen due to, street blockage near Damen/14th.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-01-14T06:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97018"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Damen",
+        "ServiceId": "50",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/50/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "bff60882-5218-4d07-8c14-a6fb24aedaf3"
   }
 ]
