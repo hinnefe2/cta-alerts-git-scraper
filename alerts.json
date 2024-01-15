@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "293629a7-5406-4cc0-bb16-3faed2379afb"
+  },
+  {
+    "AlertId": "97083",
+    "Headline": "Forest Park-bound Blue Line Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following an earlier mechanical problem at Cicero. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays following an earlier mechanical problem at Cicero.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-01-15T17:31:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97083"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Cicero",
+          "ServiceId": "40970",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=40"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "014cedf0-b046-4a61-862f-26d0266f33f5"
   }
 ]
