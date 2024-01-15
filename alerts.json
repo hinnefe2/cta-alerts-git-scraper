@@ -292,50 +292,37 @@
     "GUID": "b61b454f-ecb5-45f6-a230-35828ee025e0"
   },
   {
-    "AlertId": "97051",
-    "Headline": "Forest Park-bound Blue Line Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays at O'Hare. Service is resuming, allow extra time.",
+    "AlertId": "97053",
+    "Headline": "#67 67th-69th-71st Temporary Reroute at 67th/Cornell Drive",
+    "ShortDescription": "67 67th-69th-71st  buses are temporarily rerouted via 67th, Stony Island, Marquette and Cottage Grove: due to, street blockage near 67th/Cornell Drive.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays at O&#39;Hare.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#67 67th-69th-71st&nbsp; buses are temporarily rerouted via 67th, Stony Island, Marquette and Cottage Grove: due to, street blockage near 67th/Cornell Drive.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-01-14T18:23:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-01-14T18:33:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97051"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97053"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "O'Hare",
-          "ServiceId": "40890",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=110"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "67th-69th-71st",
+        "ServiceId": "67",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/67/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "269318e5-8530-4030-8479-6fece3b6f4f7"
+    "GUID": "00725b99-9fd6-46bd-98d4-ddab1b84ca0b"
   }
 ]
