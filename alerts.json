@@ -35,15 +35,15 @@
   },
   {
     "AlertId": "97097",
-    "Headline": "Yellow and Purple Line Service Delayed at Howard",
-    "ShortDescription": "Yellow and Purple Line trains are standing at Howard due to a mechanical problem on a train. Crews working to restore service.",
+    "Headline": "Purple and Yellow Line Delays",
+    "ShortDescription": "Yellow Line Line trains are running w/residual delays following an earlier mechanical problem on a train. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Yellow and Purple Line trains are standing at Howard due to a mechanical problem on a train</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include: the #97 Skokie bus, the #201 Central/Ridge bus.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Yellow Line Line trains are running w/residual delays following an earlier mechanical problem on a train.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2024-01-16T07:36:00",
     "EventEnd": null,
     "TBD": "1",
@@ -52,43 +52,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97097"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Yellow Line",
-          "ServiceId": "Y",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/yellowline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Yellow Line",
+        "ServiceId": "Y",
+        "ServiceBackColor": "f9e300",
+        "ServiceTextColor": "000000",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/yellowline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "b5f6abd7-64b9-4be8-a765-555cb2c6559b"
+    "GUID": "3cf4d050-a8a6-44c3-bebf-e8d51ab69942"
   }
 ]
