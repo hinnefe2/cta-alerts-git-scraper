@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "3cf4d050-a8a6-44c3-bebf-e8d51ab69942"
+  },
+  {
+    "AlertId": "97098",
+    "Headline": "Purple Line and Purple Line Express Delays",
+    "ShortDescription": "Purple Line and Purple Line Express trains are running w/residual delays following an earlier mechanical problem. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Purple Line and Purple Line Express trains are running w/residual delays following an earlier mechanical problem.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-01-16T07:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97098"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f8ecbaf0-ff02-4be8-9127-4da597881388"
   }
 ]
