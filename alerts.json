@@ -139,37 +139,50 @@
     "GUID": "a3c7a679-d594-404d-b20e-6b28d74a5ffb"
   },
   {
-    "AlertId": "97153",
-    "Headline": "Loop-bound Brown Line Delays",
-    "ShortDescription": "Loop-bound Brown Line trains are running w/residual delays and congestion following an earlier door problem at Kedzie. Service is resuming, allow extra time.",
+    "AlertId": "97156",
+    "Headline": "#22 Clark & #36 Broadway Temporary Reroute at Clark/Fullerton",
+    "ShortDescription": "22 Clark & 36 Broadway buses are temporarily rerouted via Clark, Fullerton, Stockton, LaSalle and Clark: due to, street blockage near Clark/Fullerton.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown Line trains are running with residual delays and congestion following an earlier door problem at Kedzie.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#22 Clark &amp; #36 Broadway buses are temporarily rerouted via Clark, Fullerton, Stockton, LaSalle and Clark: due to, street blockage near Clark/Fullerton.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-01-18T06:16:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-01-18T06:47:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97153"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97156"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Broadway",
+          "ServiceId": "36",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/36/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "ed9d6c35-e8d1-4b81-baad-3673c359b7eb"
+    "GUID": "64768519-29da-438b-a966-d73f72c60743"
   }
 ]
