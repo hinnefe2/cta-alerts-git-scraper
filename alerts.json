@@ -56,5 +56,86 @@
     },
     "ttim": "0",
     "GUID": "9f399c27-61d9-4ec3-808b-1f43f5387b64"
+  },
+  {
+    "AlertId": "97151",
+    "Headline": "#146 Inner Lake Shore/Michigan Express & #147 Outer DuSable Lake Shore Express Temporary Southbound Reroute near Lake Shore Drive/Division",
+    "ShortDescription": "SB 146 Inner Lake Shore/Michigan Exp &147 Outer DuSable Lake Shore Exp buses are rerouted via Outer Lake Shore Dr, North Ave & Inner Lake Shore Drive.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #146 Inner Lake Shore/Michigan Express &amp; #147 Outer DuSable Lake Shore Express &nbsp;buses are temporarily rerouted via Outer Lake Shore Drive, North Ave &amp; Inner Lake Shore Drive: due to, street blockage near Lake Shore Drive/Division.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-01-18T05:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97151"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "0990bbbc-01dc-4f03-9e73-94dffdf4bd8f"
+  },
+  {
+    "AlertId": "97152",
+    "Headline": "#148 Clarendon/Michigan Express Temporary Southbound Reroute near Lake Shore Drive/Division",
+    "ShortDescription": "Southbound 148 Clarendon/Michigan Express buses are temporarily rerouted via Outer Lake Shore Drive, North Ave & Inner Lake Shore Drive.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #148 Clarendon/Michigan Express buses are temporarily rerouted via Outer Lake Shore Drive, North Ave &amp; Inner Lake Shore Drive: due to, street blockage near Lake Shore Drive.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-01-18T05:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97152"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clarendon/Michigan Express",
+        "ServiceId": "148",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/148/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "278eca79-c8db-4260-a9ec-fdbb0eee8f62"
   }
 ]
