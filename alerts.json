@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "AlertId": "97150",
+    "Headline": "#135 Clarendon/LaSalle Express, #136 Sheridan/LaSalle Express & #143 Stockton/Michigan Express Temporary Southbound Reroute near Lake Shore Drive/Division",
+    "ShortDescription": "SB 135 Clarendon/LaSalle Exp, 136 Sheridan/LaSalle Exp & 143 Stockton/Mchgan Exp buses are rerouted via Outer Lake Shore Drive, North Ave & Inner Lake Shore Dr.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #135 Clarendon/LaSalle Express, #136 Sheridan/LaSalle Express &amp; #143 Stockton/Michigan Express buses are rerouted via Outer Lake Shore Drive, North Ave &amp; Inner Lake Shore Drive: due to street blockage near Lake Shore Drive/Division.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-01-18T05:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97150"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clarendon/LaSalle Express",
+          "ServiceId": "135",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/135/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan/LaSalle Express",
+          "ServiceId": "136",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/136/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stockton/Michigan Express",
+          "ServiceId": "143",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/143/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9f399c27-61d9-4ec3-808b-1f43f5387b64"
+  }
+]
