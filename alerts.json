@@ -1,18 +1,18 @@
 [
   {
     "AlertId": "97197",
-    "Headline": "Forest Park-bound Blue Line Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following earlier signal problems at Forest Park. Service is resuming, allow extra time.",
+    "Headline": "Forest Park-bound Blue Line Service Running with Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running with delays at Forest Park due to signal problems.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with residual delays following earlier signal problems at Forest Park.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with delays at Forest Park due to signal problems.</p>\r\n\r\n<p>At this time, also consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2024-01-20T09:55:00",
-    "EventEnd": "2024-01-20T10:15:00",
-    "TBD": "0",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97197"
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "b154c057-0d99-46a0-bd5d-092ff0ca328e"
+    "GUID": "3dcd5e85-0aed-496e-87b5-9cf284d22017"
+  },
+  {
+    "AlertId": "97199",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running w/residual delays following an earlier report of a minor fire at track level near Lake. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running w/residual delays following an earlier report of a minor fire at track level near Lake.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-01-20T10:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97199"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "22061fb3-cdb5-4985-8fcb-630e9440ab3f"
   }
 ]
