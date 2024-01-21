@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "97208",
+    "Headline": "#147 Outer DuSable Lake Shore Express, #151 Sheridan Temporary Reroute at Sheridan/Winthrop",
+    "ShortDescription": "147 Outer DuSable Lake Shore Exp., 151 Sheridan buses rrtd via Sheridan, Broadway, Granville, and Sheridan, due to, street blockage at Sheridan/WInthrop.",
+    "FullDescription": {
+      "#cdata-section": "<p>#147 Outer DuSable Lake Shore Express and&nbsp;&nbsp;#151 Sheridan buses are temporarily rerouted in both directions via Sheridan, Broadway, Granville, and Sheridan: due to, street blockage at Sheridan/Winthrop.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-01-21T07:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97208"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "13b31e90-2db5-4ed0-99d1-aac9e0ccb755"
+  }
+]
