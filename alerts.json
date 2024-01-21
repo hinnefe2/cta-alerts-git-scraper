@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "97210",
-    "Headline": "#47 47th Temporary Eastbound Reroute near 47th Street/Western",
-    "ShortDescription": "Eastbound 47 47th  buses are temporarily rerouted via 47th, California, 51st, Western, and 47th due to, street blockage near 47th Street/Western.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #47 47th&nbsp; buses are temporarily rerouted via 47th, California, 51st, Western, and 47th due to, street blockage near 47th Street/Western.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-01-21T11:44:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97210"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "47th",
-        "ServiceId": "47",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/47/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0ae24f33-edea-4d64-b897-acdd24537b8c"
-  },
-  {
     "AlertId": "97211",
     "Headline": "#94 California Temporary Reroute near 47th Street/Western",
     "ShortDescription": "94 California buses rerouted NB: Orange Line, Western, 51st, California & 47th; SB: California, 51st, Western & Orange Line near 47th Street/Western.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "fe9a9100-3cf7-4731-8eaa-b91384f230cc"
+  },
+  {
+    "AlertId": "97216",
+    "Headline": "#85 Central Temporary Reroute at Central/Thomas",
+    "ShortDescription": "85 Centra buses are temporarily rerouted via Central, Auguata, Austin and Division: due to,street blockage near Central/Thomas.",
+    "FullDescription": {
+      "#cdata-section": "<p>#85 Centra buses are temporarily rerouted via Central, Auguata, Austin and Division: due to,street blockage near Central/Thomas.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-01-21T14:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97216"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Central",
+        "ServiceId": "85",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/85/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3e1c2630-a782-4c65-a1ec-681f4681208f"
   }
 ]
