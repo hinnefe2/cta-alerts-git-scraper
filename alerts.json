@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "97206",
+    "Headline": "#95 95th, #112 Vincennes/111th Temporary Reroute near 95th/Union",
+    "ShortDescription": "95 95th, 112 Vincennes/111th buses rrtd EB: 95th,Halsted, 87th, Lafayette, & 95th; WB: 95th, State, 87th, Halsted, & 95th due to street blockage nr 95th/Union.",
+    "FullDescription": {
+      "#cdata-section": "<p>#95 95th, #112 Vincennes/111th buses are temporarily rerouted in both directions near 95th/Union due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via 95th, Halsted, 87th, Lafayette, and 95th.</p>\r\n\r\n<p>Westbound&nbsp;buses will operate via 95th, State, 87th, Halsted, and 95th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-01-21T05:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97206"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Vincennes/111th",
+          "ServiceId": "112",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/112/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5527a974-81ec-49be-9ad3-6b2d1de0e6b1"
+  }
+]
