@@ -45,52 +45,5 @@
     },
     "ttim": "0",
     "GUID": "d4293562-766e-41af-aaae-73d07bd8ebe1"
-  },
-  {
-    "AlertId": "97246",
-    "Headline": "Purple Line Delays",
-    "ShortDescription": "Purple Line trains are running w/residual delays following earlier signal problems at Howard. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Purple Line trains are running w/residual delays following earlier signal problems at Howard</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-01-22T23:15:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97246"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Howard",
-          "ServiceId": "40900",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=71"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "b4d49836-c913-47eb-9900-a8b3a1456c6e"
   }
 ]
