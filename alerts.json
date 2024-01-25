@@ -2,9 +2,9 @@
   {
     "AlertId": "97282",
     "Headline": "Forest Park-bound Blue Line Service Running with Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running with significant delays near Jackson due to signal problems.",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running with significant delays and congestion near Jackson due to signal problems.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with significant delays near Jackson due to signal problems.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with significant delays and congestion near Jackson due to signal problems.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "73ed259f-aa62-4064-81ff-a5f02d12899e"
+    "GUID": "05622ca5-37de-4761-b360-4e012b9c80ec"
+  },
+  {
+    "AlertId": "97283",
+    "Headline": "Kimball-bound Brown Line Delays",
+    "ShortDescription": "Kimball-bound Brown Line trains are running w/residual delays following an earlier mechanical problem at Belmont. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Kimball-bound Brown Line trains are running with residual delays following an earlier mechanical problem at Belmont.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-01-25T08:46:00",
+    "EventEnd": "2024-01-25T09:00:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97283"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6a131007-7f56-4764-9151-c9fd1c095a35"
   }
 ]
