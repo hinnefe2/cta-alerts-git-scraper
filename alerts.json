@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "76ab0f6d-626d-44a9-9935-52a967297e72"
+  },
+  {
+    "AlertId": "97297",
+    "Headline": "Loop-bound Orange Line Service Running with Delays",
+    "ShortDescription": "Loop-bound Orange Line trains are running with delays at Midway.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Orange Line trains are running with delays at Midway.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-01-25T11:53:00",
+    "EventEnd": "2024-01-25T12:15:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97297"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a538aa4e-ad98-4486-a8df-7776779c7639"
   }
 ]
