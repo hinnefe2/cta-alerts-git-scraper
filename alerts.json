@@ -160,7 +160,7 @@
   },
   {
     "AlertId": "97321",
-    "Headline": "#157 Streeterville/Taylor, #124 Navy Pier, #60 Blue Island/26th and #J14 Jeffery Jump Temporary Eastbound Reroute near Washington and Wabash",
+    "Headline": "#157 Streeterville/Taylor, #124 Navy Pier, #60 Blue Island/26th and #J14 Jeffery Jump Temporary Eastbound Reroute near Washington/Wabash",
     "ShortDescription": "EB 157 Streeterville/Taylor, 124 Navy Pier, 60 Blue Island/26th & J14 Jeffery Jump buses are temporarily rerouted via Washington, Clark, Monroe & Michigan.",
     "FullDescription": {
       "#cdata-section": "<p>Eastbound #157 Streeterville/Taylor, #124 Navy Pier, #60 Blue Island/26th &amp; #J14 Jeffery Jump buses are temporarily rerouted via Washington, Clark, Monroe &amp; Michigan: due to, street blockage&nbsp;near Washington/Wabash.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
@@ -225,6 +225,53 @@
       ]
     },
     "ttim": "0",
-    "GUID": "1e0a2528-e82b-468a-bc83-a769acdb5b39"
+    "GUID": "5f80c76f-5147-4f8f-8946-7b0397e1f32f"
+  },
+  {
+    "AlertId": "97322",
+    "Headline": "#56 Milwaukee and #20 Madison Temporary Eastbound Reroute near Washington/Wabash",
+    "ShortDescription": "EB 56 Milwaukee & 20 Madison buses are temporarily rerouted via Washington, Clark, Monroe, Michigan and Madison: due to, street blockage near Washington/Wabash.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound&nbsp;#56 Milwaukee and&nbsp;#20 Madison buses are temporarily rerouted via Washington, Clark, Monroe, Michigan and Madison: due to, street blockage near Washington/Wabash.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-01-26T13:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97322"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Madison",
+          "ServiceId": "20",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/20/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Milwaukee",
+          "ServiceId": "56",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/56/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "a9032881-fdea-4573-a79e-332257ea0b1b"
   }
 ]
