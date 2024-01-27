@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "ac02e243-a54a-49f6-901b-f19169ac307d"
+  },
+  {
+    "AlertId": "97338",
+    "Headline": "Howard-bound Red Line Service Delayed at Granville",
+    "ShortDescription": "Howard-bound Red Line trains are standing at Granville due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Granville due to a sick customer.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-01-26T21:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97338"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Granville",
+          "ServiceId": "40760",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=64"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c549fb68-f093-4373-817d-483c864b8d3e"
   }
 ]
