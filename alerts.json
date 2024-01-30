@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "97380",
-    "Headline": "#15 Jeffery Local |Temporary Reroute at 71st /Jefffrey",
-    "ShortDescription": "15 Jeffery Local buses are temporarily rerouted in both directions via 67th, Stony Island, 73rd and Jeffrey due to street blockage near 71st /Jefffrey.",
+    "Headline": "#N5 South Shore Night Bus and #15 Jeffery Local and Temporary Reroute at 71st /Jefffrey",
+    "ShortDescription": "N5 South Shore Night Bus & 15 Jeffery Local buses are temp. rerouted via 67th, Stony Island, 73rd and Jeffrey due to street blockage near 71st /Jeffrey.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#15 Jeffery Local buses are temporarily rerouted in both directions via 67th, Stony Island, 73rd and Jeffrey due to&nbsp;street blockage near 71st /Jeffrey.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#N5 South Shore Night Bus and #15 Jeffery Local buses are temporarily rerouted in both directions via 67th, Stony Island, 73rd and Jeffrey due to street blockage near 71st /Jeffrey.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -18,19 +18,32 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97380"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jeffery Local",
-        "ServiceId": "15",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/15/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Night Bus",
+          "ServiceId": "N5",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/n5/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "79099cf6-4aa9-419f-b9cc-1b6f41df1f33"
+    "GUID": "ae4e3607-eae0-4480-868e-c74fb55056ff"
   }
 ]
