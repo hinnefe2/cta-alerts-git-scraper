@@ -4,7 +4,7 @@
     "Headline": "Delays on Loop 'L' (elevated lines)",
     "ShortDescription": "Green, Orange, & Pink Line trains are experiencing delays due to loss of power near Adams/Wabash.",
     "FullDescription": {
-      "#cdata-section": "<p>Green, Orange, &amp; Pink Line trains are experiencing delays due to loss of power near Adams/Wabash.</p>\r\n\r\n<p>On the Orange Line, shuttle buses are available&nbsp;between Halsted and Library to provide connecting service.</p>\r\n\r\n<p>On the Green Line shuttle buses are available&nbsp;between 35th-Bronzeville and Adams/Wabash to provide connecting service.&nbsp;At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green, Orange, &amp; Pink Line trains are experiencing delays due to loss of power near Adams/Wabash.</p>\r\n\r\n<p>On the Orange Line, shuttle buses are available&nbsp;between Halsted and Library to provide connecting service. At this time Orange Line trains have been rerouted to the outer Loop (Brown Line Side).</p>\r\n\r\n<p>On the Green Line shuttle buses are available&nbsp;between 35th-Bronzeville and Adams/Wabash to provide connecting service.&nbsp;At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -55,6 +55,53 @@
       ]
     },
     "ttim": "0",
-    "GUID": "7313196d-8ac1-4b0e-baf3-45a840efe254"
+    "GUID": "a68a9ab0-3e92-476d-940a-a4e0cd1a1af7"
+  },
+  {
+    "AlertId": "97432",
+    "Headline": "#8A South Halsted, #108 Halsted/95th Temporary Southbound Reroute near Halsted/112th",
+    "ShortDescription": "SB 8A South Halsted and 108 Halsted/95th buses are temporarily rerouted via Halsted, 111th, Green, 112th, and Halsted due to street blockage near Halsted/112th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound&nbsp;#8A South Halsted and #108 Halsted/95th buses are temporarily rerouted via Halsted, 111th, Green, 112th, and Halsted, due to street blockage near Halsted/112th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-02-01T16:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97432"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Halsted",
+          "ServiceId": "8A",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/8a/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Halsted/95th",
+          "ServiceId": "108",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/108/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b0decaf6-f6d9-4ec7-93f4-fab56b28090b"
   }
 ]
