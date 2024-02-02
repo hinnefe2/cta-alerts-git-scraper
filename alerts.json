@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "97439",
-    "Headline": "#94 California Temporary Northbound Reroute near California/46th",
-    "ShortDescription": "Northbound 94 California buses are temporarily rerouted via California, 47th, Kedzie, Archer and California due to street blockage.",
+    "AlertId": "97446",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at UIC/Halsted",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at UIC/Halsted due to a sick customer. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #94 California buses are temporarily rerouted via California, 47th, Kedzie, Archer and California due to street blockage near California/46th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at UIC/Halsted due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-02-02T10:04:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-02-02T16:22:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97439"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97446"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "California",
-        "ServiceId": "94",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/california/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "918db306-4c3e-4ef0-ad9c-686df8844765"
+    "GUID": "b3ada18a-352d-4d74-ac80-077545dd2b2b"
   }
 ]
