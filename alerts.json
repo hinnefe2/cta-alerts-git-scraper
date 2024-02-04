@@ -34,53 +34,19 @@
     "GUID": "7d41486e-5657-4668-8e3c-16098d1c8426"
   },
   {
-    "AlertId": "97469",
-    "Headline": "Trains bypassing 35th Station",
-    "ShortDescription": "Green Line trains are running, but not stopping at 35th due to police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>Green Line trains are running, but not stopping at 35th due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
-    },
-    "SeverityScore": "58",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2024-02-03T22:28:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97469"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4ca72bff-e21a-48ce-9e24-307d0df65eda"
-  },
-  {
     "AlertId": "97470",
-    "Headline": "Harlem-bound Green Line Service Delayed at 35th",
-    "ShortDescription": "Harlem-bound Green Line trains are standing at 35th due to police activity. Crews working to restore service.",
+    "Headline": "Green Line Delays",
+    "ShortDescription": "Green Line trains are running w/residual delays following earlier police activity at 35th. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green Line trains are standing at 35th due to police activity.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green Line trains are running with residual delays following earlier police activity at 35th.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
     "EventStart": "2024-02-03T22:32:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventEnd": "2024-02-03T23:00:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97470"
@@ -99,6 +65,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "f8f10a5b-ead5-4a9b-9034-63049bb44c8e"
+    "GUID": "61c0b652-4958-45bd-9a71-0a7c6aa3b273"
   }
 ]
