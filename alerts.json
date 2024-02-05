@@ -34,50 +34,37 @@
     "GUID": "f4eb2e50-719b-42c1-b461-5ec736737748"
   },
   {
-    "AlertId": "97497",
-    "Headline": "Linden-bound Purple Line Delays",
-    "ShortDescription": "Linden-bound Purple Line trains are running w/residual delays and congestion at Howard. Service is resuming, allow extra time.",
+    "AlertId": "97498",
+    "Headline": "Howard-bound Red Line Service Delayed at Fullerton",
+    "ShortDescription": "Howard-bound Red Line trains are standing at Fullerton due to a sick customer. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Linden-bound Purple Line trains are running w/residual delays and congestion at Howard.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Fullerton due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2024-02-05T15:49:00",
-    "EventEnd": "2024-02-05T16:10:00",
-    "TBD": "0",
+    "EventStart": "2024-02-05T16:08:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97497"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97498"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "9fab6891-ab50-4a59-84d6-65812c7b235a"
+    "GUID": "e58509d2-ad74-487d-89ab-fbe829e60d76"
   }
 ]
