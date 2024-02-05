@@ -6,10 +6,10 @@
     "FullDescription": {
       "#cdata-section": "<p>Blue Line trains are standing at&nbsp;Grand due to an unauthorized person on the tracks.</p>\r\n\r\n<p>Consider using #20 Madison and #56 Milwaukee buses as an alternative to Blue Line rail service.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2024-02-05T05:08:00",
     "EventEnd": null,
     "TBD": "1",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "512c8f6d-d5ca-4230-b579-9e100ee189b8"
+    "GUID": "0446c86f-12be-465e-9902-9fb02198a989"
+  },
+  {
+    "AlertId": "97487",
+    "Headline": "#39 Pershing Temporary Reroute at 39th/Kedzie",
+    "ShortDescription": "39 Pershing buses are temporarily rerouted via 39th, Kedzie, 38th, California, and 39th due to, street blockage near 39th/Kedzie.",
+    "FullDescription": {
+      "#cdata-section": "<p>#39 Pershing buses are temporarily rerouted via 39th, Kedzie, 38th, California, and 39th due to, street blockage near 39th/Kedzie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-02-05T05:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97487"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pershing",
+        "ServiceId": "39",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/39/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4b9919d4-f3f4-40da-abac-d7e1ae94858a"
   }
 ]
