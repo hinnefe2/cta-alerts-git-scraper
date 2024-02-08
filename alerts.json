@@ -34,37 +34,72 @@
     "GUID": "bbf5d2b4-d77b-452b-83d1-b9efc1903761"
   },
   {
-    "AlertId": "97551",
-    "Headline": "Howard-bound Red Line Delays",
-    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays following an earlier sick customer on a train at Fullerton. Service is resuming, allow extra time.",
+    "AlertId": "97552",
+    "Headline": "Delays on Loop 'L' (elevated lines)",
+    "ShortDescription": "Brown, Green, Orange and Pink Line trains are experiencing delays due to a sick passenger at Clark/Lake.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are running with residual delays following an earlier sick customer on a train at Fullerton.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown, Green, Orange and Pink Line trains are experiencing delays due to a sick passenger at Clark/Lake.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2024-02-08T13:50:00",
+    "EventStart": "2024-02-08T14:36:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97551"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97552"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "dadaca19-7fd8-44bb-aaf5-f642b17e5034"
+    "GUID": "2a1a1af8-e620-4116-8c49-e818291d1845"
   }
 ]
