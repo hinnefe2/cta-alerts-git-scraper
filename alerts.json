@@ -36,17 +36,17 @@
   {
     "AlertId": "97552",
     "Headline": "Delays on Loop 'L' (elevated lines)",
-    "ShortDescription": "Brown, Green, Orange and Pink Line trains are experiencing delays due to a sick passenger at Clark/Lake.",
+    "ShortDescription": " Green, Orange and Pink Line trains are moving with delays due to an earlier sick passenger at Clark/Lake.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown, Green, Orange and Pink Line trains are experiencing delays due to a sick passenger at Clark/Lake.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>&nbsp;Green, Orange and Pink Line trains are moving with delays due to an earlier sick passenger at Clark/Lake.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
     "EventStart": "2024-02-08T14:36:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventEnd": "2024-02-08T14:43:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97552"
@@ -78,17 +78,6 @@
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
           "ServiceName": "Orange Line",
           "ServiceId": "Org",
           "ServiceBackColor": "f9461c",
@@ -100,6 +89,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "2a1a1af8-e620-4116-8c49-e818291d1845"
+    "GUID": "facf43f2-d216-4f15-b1b8-d2d868c36212"
   }
 ]
