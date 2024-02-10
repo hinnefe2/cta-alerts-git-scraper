@@ -34,50 +34,37 @@
     "GUID": "f6f3904b-7c16-4689-b146-f7add6006a22"
   },
   {
-    "AlertId": "97596",
-    "Headline": "63rd-bound Green Line Service Running with Delays",
-    "ShortDescription": "63rd-bound Green Line trains are running with delays from Harlem.",
+    "AlertId": "97597",
+    "Headline": "#29 State Temporary Reroute at 47th/State",
+    "ShortDescription": "29 State buses are temporarily rerouted via State, 45th, Wabash, 48th and State due to street blockage.",
     "FullDescription": {
-      "#cdata-section": "<p>63rd-bound Green Line trains are running with delays from Harlem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#29 State buses are temporarily rerouted in both directions via State, 45th, Wabash, 48th and State, due to street blockage near 47th/State.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-02-10T16:22:00",
-    "EventEnd": "2024-02-10T17:12:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-02-10T17:13:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97596"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97597"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Harlem/Lake",
-          "ServiceId": "40020",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=68"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "b29fb071-a74c-4df4-a967-30ebd6004cf1"
+    "GUID": "060cc375-0ccc-4435-a516-32470683c7dc"
   }
 ]
