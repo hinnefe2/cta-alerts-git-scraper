@@ -52,19 +52,79 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97597"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "State",
-        "ServiceId": "29",
-        "ServiceBackColor": "059",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "State",
+          "ServiceId": "29",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/29/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "47th",
+          "ServiceId": "47",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/47/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "060cc375-0ccc-4435-a516-32470683c7dc"
+    "GUID": "1ef35c7f-5d83-455c-b960-f729700ec4c6"
+  },
+  {
+    "AlertId": "97599",
+    "Headline": "#47 47th Temporary Reroute near 47th/State",
+    "ShortDescription": "47 47th buses temp. rerouted EB: 47th, LaSalle, 43rd, Wabash and 47th; WB: 47th, Wabash, 43rd, Wentworth and 47th, due to street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#47 47th buses are temporarily rerouted in both directions near 47th/State, due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via 47th, LaSalle, 43rd, Wabash and 47th.</p>\r\n\r\n<p>Westbound&nbsp;buses will operate via 47th, Wabash, 43rd, Wentworth and 47th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-02-10T17:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97599"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "State",
+          "ServiceId": "29",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/29/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "47th",
+          "ServiceId": "47",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/47/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4d6b9981-07c0-4e09-b03b-13c85d75bd35"
   }
 ]
