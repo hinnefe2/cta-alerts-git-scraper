@@ -1,7 +1,7 @@
 [
   {
     "AlertId": "97594",
-    "Headline": "No trains between Forest Park and UIC",
+    "Headline": "No trains between Forest Park and UIC/Halsted",
     "ShortDescription": "Blue Line service has been temporarily suspended between Forest Park and UIC/Halsted due to police activity.",
     "FullDescription": {
       "#cdata-section": "<p>Blue Line service has been temporarily suspended between Forest Park and UIC/Halsted due to police activity.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Rosemont and UIC/Halsted&nbsp;at this time.</strong></p>\r\n\r\n<p>&nbsp;Shuttle buses have been requested&nbsp;to provide connecting service through the affected area.&nbsp;</p>\r\n\r\n<p>&nbsp;At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
@@ -18,32 +18,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97594"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Western (Forest Park Branch)",
-          "ServiceId": "40220",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=137"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "879b47e2-a0b8-4e2a-ad00-8432ef601b79"
+    "GUID": "f6316912-c06c-4d79-8706-9da9a89cc0ce"
   }
 ]
