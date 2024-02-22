@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "ce726956-f375-4fed-bebb-4067e1fff539"
+  },
+  {
+    "AlertId": "97813",
+    "Headline": "#26 South Shore Express & #30 South Chicago Temporary Reroute at Ewing & 106th",
+    "ShortDescription": "26 South Shore Express & 30 South Chicago buses are temporarily rerouted via Ewing, 103rd, Avenue L and 106th: due to, street blockage near Ewing & 106th. ",
+    "FullDescription": {
+      "#cdata-section": "<p>#26 South Shore Express &amp; #30 South Chicago buses are temporarily rerouted via Ewing, 103rd, Avenue L and 106th: due to, street blockage near Ewing &amp; 106th.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-02-22T12:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97813"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Chicago",
+          "ServiceId": "30",
+          "ServiceBackColor": "059",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/30/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "61cf9a64-bf1b-4628-9950-117a33493a42"
   }
 ]
