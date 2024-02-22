@@ -34,66 +34,19 @@
     "GUID": "ce726956-f375-4fed-bebb-4067e1fff539"
   },
   {
-    "AlertId": "97809",
-    "Headline": "#95 95th & #108 Halsted/95th Temporary Reroute at 95th/Eggleston",
-    "ShortDescription": "95 95th & 108 Halsted/95th buses are temporarily rerouted via 95th, Halsted, 87th, Lafayette and 95th: due to, street blockage near 95th/Eggleston.",
-    "FullDescription": {
-      "#cdata-section": "<p>95 95th &amp; 108 Halsted/95th buses are temporarily rerouted via 95th, Halsted, 87th, Lafayette and 95th: due to, street blockage near 95th/Eggleston.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-02-22T09:09:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97809"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Halsted/95th",
-          "ServiceId": "108",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/108/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "95th",
-          "ServiceId": "95",
-          "ServiceBackColor": "059",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/95/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "e21f1a8e-9d24-48d2-9446-7379ba039318"
-  },
-  {
     "AlertId": "97811",
-    "Headline": "Green Line Service Delayed at Pulaski",
-    "ShortDescription": "Green Line trains are standing at Pulaski due to a sick customer. Crews working to restore service.",
+    "Headline": "Green Line Delays",
+    "ShortDescription": "Green Line trains are running w/residual delays following an earlier sick customer at Pulaski. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Green Line trains are standing at Pulaski due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green Line trains are running with residual delays following an earlier sick customer at Pulaski.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
     "EventStart": "2024-02-22T09:29:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventEnd": "2024-02-22T09:46:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97811"
@@ -112,6 +65,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "c2156ff5-e18a-4114-a77a-8045bbba1c42"
+    "GUID": "a6e19b43-7d38-422c-81e5-80384a36a79d"
   }
 ]
