@@ -48,18 +48,18 @@
   },
   {
     "AlertId": "97798",
-    "Headline": "Howard-bound Red Line Service Delayed near 63rd",
-    "ShortDescription": "Howard-bound Red Line trains are standing near 63rd due to signal problems.  Crews working to restore service.",
+    "Headline": "Howard-bound Red Line Service Running with Delays",
+    "ShortDescription": "Howard-bound Red Line trains are running with delays near Garfield due to earlier police activity.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are standing near 63rd due to signal problems.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are running with delays near Garfield due to earlier police activity.</p>\n\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2024-02-21T18:18:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventEnd": "2024-02-21T18:40:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97798"
@@ -69,12 +69,12 @@
         {
           "ServiceType": "T",
           "ServiceTypeDescription": "Train Station",
-          "ServiceName": "63rd",
-          "ServiceId": "40910",
+          "ServiceName": "Garfield",
+          "ServiceId": "41170",
           "ServiceBackColor": "c60c30",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=9"
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=61"
           }
         },
         {
@@ -91,6 +91,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "602dafd6-2f1b-43b4-8291-d38b2d75471f"
+    "GUID": "5538282f-b4cb-42a9-9bcd-e30532e27279"
   }
 ]
