@@ -34,72 +34,37 @@
     "GUID": "d00a5543-04c5-4a14-b538-1d250f694861"
   },
   {
-    "AlertId": "97835",
-    "Headline": "Red Purple and Yellow Line Delays",
-    "ShortDescription": "Red Purple and Yellow Line trains are running w/residual delays and congestion following an earlier unauthorized person on the tracks near Howard. ",
+    "AlertId": "97836",
+    "Headline": "#50 Damen Temporary Northbound Reroute near Damen/18th",
+    "ShortDescription": "Northbound 50 Damen buses are temporarily rerouted via Damen, 18th, Western, Roosevelt, and Damen, due to street blockage near Damen/18th.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Purple and Yellow Line trains are running w/residual delays and congestion following an earlier unauthorized person on the tracks near Howard.</p>\r\n\r\n<p>&nbsp;Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #50 Damen buses are temporarily rerouted via Damen, 18th, Western, Roosevelt, and Damen, due to street blockage near Damen/18th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-02-23T15:02:00",
-    "EventEnd": "2024-02-23T15:35:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-02-23T15:30:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97835"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97836"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Yellow Line",
-          "ServiceId": "Y",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/yellowline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Damen",
+        "ServiceId": "50",
+        "ServiceBackColor": "059",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/50/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "61b2bae1-d7cd-4df6-b6f3-1641b17e9336"
+    "GUID": "a33130ba-f575-4f16-8428-b2a627389184"
   }
 ]
