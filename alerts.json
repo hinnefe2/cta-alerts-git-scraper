@@ -32,5 +32,108 @@
     },
     "ttim": "0",
     "GUID": "a0257039-588e-40d4-b91f-f4802d8c754f"
+  },
+  {
+    "AlertId": "97853",
+    "Headline": "Trains bypassing Washington/Wabash Stations",
+    "ShortDescription": "Elevated 'L' Line trains are running, but not stopping at Washington/Wabash due to a sick passenger.",
+    "FullDescription": {
+      "#cdata-section": "<p>Elevated &#39;L&#39; Line trains are running, but not stopping at Washington/Wabash due to a sick passenger.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2024-02-24T11:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97853"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "0a7c7e09-dca7-40ad-b948-4ee50e028eb0"
+  },
+  {
+    "AlertId": "97854",
+    "Headline": "Trains on Loop 'L' rerouted",
+    "ShortDescription": "Green Line Loop service has been rerouted via Wells, Van Buren due to a sick passenger at Washington/Wabash.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green Line Loop service has been rerouted via the Inner Loop (&nbsp;Wells, Van Buren) due to a sick passenger at Washington/Wabash.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We appreciate your patience as we work to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2024-02-24T11:08:00",
+    "EventEnd": "2024-02-24T12:08:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97854"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "acd798ee-7883-4a9c-aef2-b7a38a00527f"
   }
 ]
