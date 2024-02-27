@@ -82,10 +82,10 @@
   },
   {
     "AlertId": "97884",
-    "Headline": "Red Line Service Delayed at Sox-35th",
-    "ShortDescription": "Red Line trains are standing at 35th due to police activity. Crews working to restore service.",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running w/residual delays following earlier police activity at Sox-35th. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing at Sox-35th due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running with residual delays following earlier police activity at Sox-35th.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -112,6 +112,74 @@
       }
     },
     "ttim": "0",
-    "GUID": "b0563daf-a941-4b09-b1d6-70466eddbc8e"
+    "GUID": "6932a79d-5b40-430d-8bf4-ae55648408d7"
+  },
+  {
+    "AlertId": "97885",
+    "Headline": "#71 71st/South Shore Temporary Reroute at 69th/Red Line",
+    "ShortDescription": "71 71st/South Shore buses are temporarily rerouted via 71st, King Drive, 69th, Red Line, due to street blockage near 69th/Red Line.",
+    "FullDescription": {
+      "#cdata-section": "<p>#71 71st/South Shore buses are temporarily rerouted in both directions via 71st, King Drive, 69th, Red Line, due to street blockage near 69th/Red Line.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-02-26T19:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97885"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9191a483-1bf4-4f80-ad2a-aaf755b86d2c"
+  },
+  {
+    "AlertId": "97886",
+    "Headline": "#29 State Temporary Northbound Reroute near 69th/Red Line",
+    "ShortDescription": "Northbound 29 State buses are temporarily rerouted via State, 75th, Wentworth, 69th, State, due to street blockage near 69th/Red Line.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #29 State buses are temporarily rerouted via State, 75th, Wentworth, 69th, State, due to street blockage near 69th/Red Line.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-02-26T19:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97886"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "57493dc1-179c-46a1-93b4-05445c55a5d3"
   }
 ]
