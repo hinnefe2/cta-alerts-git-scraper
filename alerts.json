@@ -1,36 +1,49 @@
 [
   {
-    "AlertId": "97902",
-    "Headline": "#50 Damen Temporary Reroute at Damen/15th",
-    "ShortDescription": "50 Damen buses are temporarily rerouted via Damen, Roosevelt, Ashland, 18th and Damen, due to street blockage near Damen/15th.",
+    "AlertId": "97903",
+    "Headline": "Midway-bound Orange Line Service Delayed at Western",
+    "ShortDescription": "Midway-bound Orange Line trains are standing at Western due to a door problem. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>#50 Damen buses are temporarily rerouted in both directions via Damen, Roosevelt, Ashland, 18th and Damen, due to street blockage near Damen/15th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Midway-bound Orange Line trains are standing at Western due to a door problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-02-27T17:16:00",
-    "EventEnd": "2024-03-01T17:16:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-02-27T17:42:00",
+    "EventEnd": "2024-02-27T18:12:00",
     "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97902"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97903"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Damen",
-        "ServiceId": "50",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/50/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Western",
+          "ServiceId": "40310",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=139"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "d50003c3-cf46-467a-8065-6e0bae6d1acb"
+    "GUID": "f2896168-a058-4ee1-93ab-eff2e37dedd7"
   }
 ]
