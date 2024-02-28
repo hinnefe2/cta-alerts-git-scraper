@@ -1,49 +1,36 @@
 [
   {
-    "AlertId": "97928",
-    "Headline": "O'Hare-bound Blue Line Service Running with Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running with delays near Monroe due to an earlier sick passenger.",
+    "AlertId": "97929",
+    "Headline": "#79 79th Temporary Reroute at Greenwood/78th",
+    "ShortDescription": "79 79th buses are temporarily rerouted via 79th, Cottage Grove, 76th, South Chicago and 79th, due to street blockage near Greenwood/78th.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with delays near Monroe due to an earlier sick passenger.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#79 79th&nbsp;buses are temporarily rerouted in both directions via 79th, Cottage Grove, 76th, South Chicago and 79th, due to street blockage near Greenwood/78th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-02-28T15:05:00",
-    "EventEnd": "2024-02-28T15:17:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-02-28T15:17:00",
+    "EventEnd": "2024-03-02T15:17:00",
     "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97928"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97929"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Monroe",
-          "ServiceId": "40790",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=100"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "82575651-c938-460c-955a-9e4c0f4e9391"
+    "GUID": "706032eb-81c9-4ad9-99b5-11fa822ee13f"
   }
 ]
