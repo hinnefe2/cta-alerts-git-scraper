@@ -124,5 +124,52 @@
     },
     "ttim": "0",
     "GUID": "6346a50f-dd3e-443d-a511-0d84da97cce4"
+  },
+  {
+    "AlertId": "97958",
+    "Headline": "Harlem-bound Green and Brown LIne Trains on Loop 'L' rerouted",
+    "ShortDescription": "Harlem-bound Green and Brown Line Loop service has been rerouted via the Inner Loop (Orange Line side) due to police activity at State/Lake.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green and Brown Line Loop service has been rerouted via the Inner Loop (Orange Line side) due to police activity at State/Lake.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We appreciate your patience as we work to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2024-02-29T17:42:00",
+    "EventEnd": "2024-02-29T18:42:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97958"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "34300a3d-dc31-4ad2-9d1c-b64bc7d7fa7f"
   }
 ]
