@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "fa9090d5-f22d-4334-ba4b-9e57b2a94058"
+  },
+  {
+    "AlertId": "97975",
+    "Headline": "Harlem-bound Green Line Service Running with Delays",
+    "ShortDescription": "Harlem-bound Green Line trains are running with delays near Cottage Grove.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green Line trains are running with delays near Cottage Grove.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-03-01T12:53:00",
+    "EventEnd": "2024-03-01T12:58:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97975"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "40720",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=55"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d9d099a7-fac2-4a4f-8a14-916a94d0a861"
   }
 ]
