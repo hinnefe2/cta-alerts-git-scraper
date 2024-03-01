@@ -92,37 +92,37 @@
     "GUID": "fa9090d5-f22d-4334-ba4b-9e57b2a94058"
   },
   {
-    "AlertId": "97968",
-    "Headline": "Blue Line Delays",
-    "ShortDescription": "Blue Line trains are running w/residual delays following an earlier mechanical problem at Rosemont. Service is resuming, allow extra time.",
+    "AlertId": "97970",
+    "Headline": "#126 Jackson Temporary Reroute near Jackson/Christiana",
+    "ShortDescription": "126 Jackson buses temp. rrtd EB: Jackson, Homan, Harrison, & Kedzie; WB: Kedzie, Congress, Homan, and Jackson due to, street blockage near Jackson/Christiana.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running w/residual delays following an earlier mechanical problem at Rosemont.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#126 Jackson&nbsp;buses are temporarily rerouted in both directions near Jackson/Christiana, due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via Jackson, Homan, Harrison, and&nbsp;Kedzie.</p>\r\n\r\n<p>Westbound buses will operate via Kedzie, Congress, Homan, and Jackson.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-03-01T09:04:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-03-01T09:32:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97968"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97970"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson",
+        "ServiceId": "126",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/126/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "377b7e9a-fe19-45db-b508-b102c3a18e55"
+    "GUID": "22835d76-0506-42b6-893e-de3d286caa4a"
   }
 ]
