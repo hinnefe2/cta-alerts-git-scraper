@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "22835d76-0506-42b6-893e-de3d286caa4a"
+  },
+  {
+    "AlertId": "97971",
+    "Headline": "Harlem-bound Green Line Service Running with Delays",
+    "ShortDescription": "Harlem-bound Green Line trains are running with delays near Cermak-McCormick Place.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green Line trains are running with delays near Cermak-McCormick Place.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-03-01T10:53:00",
+    "EventEnd": "2024-03-01T10:56:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=97971"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Cermak-McCormick Place",
+          "ServiceId": "41690",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=149"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "15c558a2-6e21-4444-b92b-44c6310f85d6"
   }
 ]
