@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "98008",
-    "Headline": "#N5 South Shore Night Bus Temporary Reroute at South Shore Drive/80th",
-    "ShortDescription": "N5 South Shore Night Buses are rerouted in both directions via South Shore, 79th, Exchange and 83rd due to fire department activity near South Shore Drive/80th.",
+    "Headline": "#N5 South Shore Night Bus, #26 South Shore Express and #71 71st/South Shore Temporary Reroute at South Shore Drive/80th",
+    "ShortDescription": "N5 South Shore Night, 26 South Shore Exp & 71 71st/South Shore are rrtd via South Shore, 79th, Exchange & 83rd due to fire dept. activity nr South Shore Dr/80th",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#N5 South Shore Night Buses are temporarily rerouted in both directions via South Shore, 79th, Exchange and 83rd due to fire department activity near South Shore Drive/80th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#N5 South Shore Night Buses, #26 South Shore Express and #71 71st/South Shore buses are temporarily rerouted in both directions via South Shore, 79th, Exchange and 83rd due to fire department activity near South Shore Drive/80th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>(Revised)</strong></p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -67,6 +67,28 @@
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "71st/South Shore",
+          "ServiceId": "71",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/71/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
           "ServiceName": "95th",
           "ServiceId": "95",
           "ServiceBackColor": "565a5c",
@@ -78,6 +100,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "a914f5d0-84d7-495a-9c1a-ce445767fe8d"
+    "GUID": "371dd7e3-deb8-4104-90d6-6e958c0e7dac"
   }
 ]
