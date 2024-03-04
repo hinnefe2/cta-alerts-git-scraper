@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "0db61bd2-19e0-4249-9973-bfd425f0643c"
+  },
+  {
+    "AlertId": "98008",
+    "Headline": "#N5 South Shore Night Bus Temporary Reroute at South Shore Drive/80th",
+    "ShortDescription": "N5 South Shore Night Buses are rerouted in both directions via South Shore, 79th, Exchange and 83rd due to fire department activity near South Shore Drive/80th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#N5 South Shore Night Buses are temporarily rerouted in both directions via South Shore, 79th, Exchange and 83rd due to fire department activity near South Shore Drive/80th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-03-04T03:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98008"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Night Bus",
+          "ServiceId": "N5",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "009999",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/n5/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "a914f5d0-84d7-495a-9c1a-ce445767fe8d"
   }
 ]
