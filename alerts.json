@@ -32,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "0db61bd2-19e0-4249-9973-bfd425f0643c"
+  },
+  {
+    "AlertId": "98004",
+    "Headline": "Green Line Service Running with Delays",
+    "ShortDescription": "Green Line trains are running with delays due to to a shortage of available staff; we're working to run as much service as possible. Allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green&nbsp;Line&nbsp;trains are running with delays due to a temporary shortage of available staff.</p>\r\n\r\n<p>At this time, our operations staff is&nbsp;working to run as much service as frequently and manage service to be spaced as evenly as possible.</p>\r\n\r\n<p>Consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-03-03T19:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98004"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0739aca4-f20d-4e81-a124-44990b3b2c7d"
   }
 ]
