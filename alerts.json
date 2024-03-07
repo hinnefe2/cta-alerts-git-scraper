@@ -68,50 +68,37 @@
     "GUID": "ba8e9d56-46ab-4077-bb41-286687687458"
   },
   {
-    "AlertId": "98074",
-    "Headline": "Forest Park-bound Blue Line Service Running with Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running with delays near Jackson due to an earlier door problem.",
+    "AlertId": "98075",
+    "Headline": "95th-bound Red Line Service Delayed at Howard",
+    "ShortDescription": "95th-bound Red Line trains are standing at Howard. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with delays near Jackson due to an earlier door problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th-bound Red Line trains are standing at Howard.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-03-07T07:45:00",
-    "EventEnd": "2024-03-07T07:56:00",
-    "TBD": "0",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-03-07T08:00:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98074"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98075"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Washington",
-          "ServiceId": "40370",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=134"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "eabaf395-08b5-48dc-912e-db31966979f1"
+    "GUID": "d165a6bc-fc8b-46df-8b86-e5d26da70a6a"
   }
 ]
