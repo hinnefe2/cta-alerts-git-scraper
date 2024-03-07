@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "98078",
+    "Headline": "Howard-bound Red Line Service Delayed at Armitage",
+    "ShortDescription": "Howard-bound Red Line trains are standing at Armitage due to signal problems. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Armitage due to signal problems.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-03-07T12:10:00",
+    "EventEnd": "2024-03-07T12:40:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98078"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0650aeeb-84ba-4e97-a083-bfb94c8ae5a0"
+  },
+  {
+    "AlertId": "98079",
+    "Headline": "#37 Sedgwick Temporary Southbound Reroute near Van Buren/Wacker",
+    "ShortDescription": "SB 37 Sedgwick buses are temporarily rerouted via Van Buren, Wacker Drive, Adams, and Clinton due to, street blockage near Van Buren/Wacker.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #37 Sedgwick buses are temporarily rerouted via Van Buren, Wacker Drive, Adams, and Clinton due to, street blockage near Van Buren/Wacker.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-03-07T12:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98079"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Sedgwick",
+        "ServiceId": "37",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/37/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2b1d4432-765d-41f7-994f-c59821e666cf"
+  }
+]
