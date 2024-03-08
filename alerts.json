@@ -124,5 +124,85 @@
     },
     "ttim": "0",
     "GUID": "e0510c34-77af-48f3-acd9-0cf8ead7fb47"
+  },
+  {
+    "AlertId": "98104",
+    "Headline": "#22 Clark, #24 Wentworth, #26 South Shore Express, #36 Broadway, #62 Archer Temporary Northbound Reroute near Jackson/Dearborn",
+    "ShortDescription": "NB 22 Clark, 24 Wentworth, 26 South Shore Exp, 36 Broadway, 62 Archer buses temp. rrted: Dearborn, Ida B.Wells, State, Adams, & Dearborn, nr Jackson/Dearborn.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound&nbsp;#22 Clark, #24 Wentworth, #26 South Shore Express, #36 Broadway, and 62 Archer&nbsp;buses are temporarily rerouted via Dearborn, Ida B.Wells, State, Adams, and&nbsp;Dearborn, due to street blockage near Jackson/Dearborn.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-03-08T08:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98104"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Wentworth",
+          "ServiceId": "24",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/24/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Broadway",
+          "ServiceId": "36",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/36/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "724b0d79-f828-424d-8c5b-a2d34f3a8884"
   }
 ]
