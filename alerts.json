@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "98161",
+    "Headline": "#71/71st South Shore, #26 South Shore Express Temporary Northbound Reroute near Commercial/87th",
+    "ShortDescription": "Northbound 71/71st South Shore, 26 South Shore Express buses are temporarily rerouted via Commericial, 87th, Yates, 83rd and Commercial, due to street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #71/71st South Shore, #26 South Shore Express buses are temporarily rerouted via Commericial, 87th, Yates, 83rd and Commercial, due to street blockage near Commercial/87th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-03-11T08:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98161"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "71st/South Shore",
+          "ServiceId": "71",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/71/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "3627bee6-2459-4850-94f1-998ecc17d7b3"
+  }
+]
