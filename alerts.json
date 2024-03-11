@@ -85,7 +85,7 @@
     "Headline": "Red Line Service Delayed Addison",
     "ShortDescription": "Red Line trains are standing at Addison due to a minor fire at track level. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing at Addison due to a minor fire at track level.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are standing at Addison due to a minor fire at track level.</p>\r\n\r\n<p>Shuttle buses have been requested from Belmont to Howard to provide connecting service through the affected area.&nbsp;&nbsp;At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -121,10 +121,21 @@
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/redline/"
           }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "b4161aec-b1fa-436b-8da8-f132577089eb"
+    "GUID": "e410c4ec-37c4-4746-b447-edf60c971310"
   }
 ]
