@@ -1,52 +1,5 @@
 [
   {
-    "AlertId": "98161",
-    "Headline": "#71/71st South Shore, #26 South Shore Express Temporary Northbound Reroute near Commercial/87th",
-    "ShortDescription": "Revision: NB 71/71st South Shore, 26 South Shore Express buses are temp. rerouted via Commercial, 87th, Burley, 83rd, & South Shore Dr., due to street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>Revision: Northbound #71/71st South Shore and #26 South Shore Express buses are temporarily rerouted via Commercial, 87th, Burley, 83rd, and South Shore Dr., due to street blockage near Commercial/87th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-03-11T08:36:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98161"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "South Shore Express",
-          "ServiceId": "26",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/26/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "71st/South Shore",
-          "ServiceId": "71",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/71/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "7d90eb3d-a748-449a-b34c-afe501d11d21"
-  },
-  {
     "AlertId": "98164",
     "Headline": "#56 Milwaukee Temporary Northbound Reroute near Milwaukee/Armitage",
     "ShortDescription": "Northbound 56 Milwaukee buses are temporarily rerouted via Milwaukee, Western, Fullerton, and Milwaukee, due to street blockage near Milwaukee/Armitage.",
@@ -87,10 +40,10 @@
     "FullDescription": {
       "#cdata-section": "<p>Red Line trains are standing at Addison due to a minor fire at track level.</p>\r\n\r\n<p>Shuttle buses have been requested from Belmont to Howard to provide connecting service through the affected area.&nbsp;&nbsp;At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2024-03-11T14:44:00",
     "EventEnd": null,
     "TBD": "1",
@@ -136,6 +89,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "e410c4ec-37c4-4746-b447-edf60c971310"
+    "GUID": "c727c4d0-3f41-4553-a219-7cc94f51e529"
   }
 ]
