@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "5a845775-cfd8-4fa5-b89d-e17b83f5e159"
+  },
+  {
+    "AlertId": "98207",
+    "Headline": "#71 71st/South Shore, #26 South Shore Express Temporary Southbound Reroute near Commercial/87th",
+    "ShortDescription": "SB 71 71st/South Shore, 26 South Shore Exp. buses temp. rerouted: South Shore, 83rd, Burley, 87th, and Commercial due to street blockage near Commercial/87th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #71 71st/South Shore, #26 South Shore Express&nbsp;buses are temporarily rerouted via South Shore, 83rd, Burley, 87th, and Commercial due to street blockage near Commercial/87th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-03-12T09:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98207"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "71st/South Shore",
+          "ServiceId": "71",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/71/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f92688d2-f327-4261-96e4-0d58e177821e"
   }
 ]
