@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "98277",
-    "Headline": "O'Hare-bound Blue Line Service Delayed at LaSalle",
-    "ShortDescription": "O'Hare-bound Blue Line trains are standing at LaSalle due to a mechanical problem. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at LaSalle due to a mechanical problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-03-14T17:50:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98277"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "909e133f-8714-4dba-8942-81e1f99c52e2"
-  },
-  {
     "AlertId": "98262",
     "Headline": "#86 Narragansett/Ridgeland Temporary Northbound Reroute near Ridgeland/South",
     "ShortDescription": "Northbound 86 Narragansett/Ridgeland buses are temporarily rerouted via South Blvd, Scoville, Lake and Ridgeland: due to, street blockage near Ridgeland/South.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "2c5036dd-1249-440f-8d53-765fed942fa1"
+  },
+  {
+    "AlertId": "98277",
+    "Headline": "O'Hare-bound Blue Line Service Delayed at LaSalle",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing at LaSalle due to a mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at LaSalle due to a mechanical problem.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-03-14T17:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98277"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8e6f9c7d-c23a-4bed-b97c-e4e0245ae19a"
   }
 ]
