@@ -1,37 +1,61 @@
 [
   {
-    "AlertId": "98258",
-    "Headline": "#63 63rd Temporary Eastbound Reroute near 63rd/Harper",
-    "ShortDescription": "EB 63 63rd buses are temporarily rerouted via 63rd, Dorchester, 64th, and Blackstone due to, street blockage near 63rd/Harper.",
+    "AlertId": "98268",
+    "Headline": "Orange, Green and Pink Line Delays; Normal Routing has Resumed",
+    "ShortDescription": "Orange, Green and Pink Line trains are running w/residual delays and congestion following an earlier sick passenger at Adams/Wabash. Service is resuming.  ",
     "FullDescription": {
-      "#cdata-section": "<p>Eastbound&nbsp;#63 63rd buses are temporarily rerouted via 63rd, Dorchester, 64th, and Blackstone due to, street blockage near 63rd/Harper.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Orange, Green and Pink Line trains are running w/residual delays and congestion following an earlier sick passenger at Adams/Wabash. Service is resuming.&nbsp; Allow extra time.</p>\r\n\r\n<p>&nbsp;Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-03-14T08:05:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-03-14T16:35:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98258"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98268"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "63rd",
-        "ServiceId": "63",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "145be602-1509-4054-bae5-b5491eb35e9d"
+    "GUID": "fe68f69f-2d69-41b5-9b13-c39ff849d746"
   },
   {
     "AlertId": "98261",
@@ -147,63 +171,5 @@
     },
     "ttim": "0",
     "GUID": "5fa12000-0b19-46d7-a151-56dbeb8fa075"
-  },
-  {
-    "AlertId": "98268",
-    "Headline": "Orange, Green and Pink Line Trains on Loop 'L' rerouted",
-    "ShortDescription": "Orange, Green and Pink Line Loop service has been rerouted via the Outer Loop (Brown Line) Side due to a sick passenger at Adams/Wabash.",
-    "FullDescription": {
-      "#cdata-section": "<p>Orange, Green and Pink Line Loop service has been rerouted via the Outer Loop (Brown Line) Side due to a sick passenger at Adams/Wabash.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We appreciate your patience as we work to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2024-03-14T16:35:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98268"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "7e8da6bd-b973-4247-b7a9-1e7d85e3ce26"
   }
 ]
