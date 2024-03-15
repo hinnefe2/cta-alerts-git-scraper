@@ -47,58 +47,11 @@
     "GUID": "d0af70be-1369-4ba6-9efe-47b84b39246c"
   },
   {
-    "AlertId": "98292",
-    "Headline": " Pink Line Service Running with Delays",
-    "ShortDescription": " Pink Line trains are running with significant delays near Polk due to earlier police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>&nbsp;Pink Line&nbsp;trains are running with significant delays near Polk due to earlier police activity.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-03-15T08:18:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98292"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Polk",
-          "ServiceId": "41030",
-          "ServiceBackColor": "e27ea6",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=111"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "a28e9d0d-b66b-4a19-96f0-211f5b4116f8"
-  },
-  {
     "AlertId": "98290",
     "Headline": "Forest Park-bound Blue Line Service Running with Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running with delays near Jefferson Park due to an earlier mechanical problem.",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running with delays near UIC-Halsted due to an earlier mechanical problem.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with delays near Jefferson Park due to an earlier mechanical problem.</p>\r\n\r\n<p>At this time, also consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with delays near UIC-Halsted due to an earlier mechanical problem.</p>\r\n\r\n<p>At this time, also consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -116,12 +69,12 @@
         {
           "ServiceType": "T",
           "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Jefferson Park",
-          "ServiceId": "41280",
+          "ServiceName": "UIC-Halsted",
+          "ServiceId": "40350",
           "ServiceBackColor": "00a1de",
           "ServiceTextColor": "FFFFFF",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=78"
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=132"
           }
         },
         {
@@ -138,6 +91,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "76365c0c-462b-415b-b45e-5af53c73e6b2"
+    "GUID": "dc8dc0ab-b904-43e5-ad7a-3e88f9682f2e"
   }
 ]
