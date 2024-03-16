@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "98314",
+    "Headline": "#21 Cermak Temporary Westbound Reroute near Cermak/Pulaski",
+    "ShortDescription": "Westbound 21 Cermak buses are temporarily rerouted via Cermak. Ogden, Kostner and Cermak, due to street blockage near Cermak/Pulaski.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #21 Cermak buses are temporarily rerouted via Cermak. Ogden, Kostner and Cermak, due to street blockage near Cermak/Pulaski.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-03-16T06:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98314"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cermak",
+        "ServiceId": "21",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/21/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "dc411bbe-1848-4ccf-b0c1-72351724ab05"
+  },
+  {
+    "AlertId": "98315",
+    "Headline": "Temporary Northbound #53 Pulaski Reroute near Cermak/Pulaski",
+    "ShortDescription": "Northbound 53 Pulaski buses are temporarily rerouted via Pulaski, Ogden, Kostner, 18th and Pulaski, due to street blockage near Cermak/Pulaski.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #53 Pulaski buses are temporarily rerouted via Pulaski, Ogden, Kostner, 18th and Pulaski, due to street blockage near Cermak/Pulaski.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-03-16T06:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98315"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pulaski",
+        "ServiceId": "53",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/53/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "dbc93e91-f702-4483-8f10-722e0b98bc2a"
+  }
+]
