@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "24c90fb6-a708-46a3-8a69-6a5de756f0ea"
+  },
+  {
+    "AlertId": "98342",
+    "Headline": "63rd-Ashland-bound Green Line Delays",
+    "ShortDescription": "63rd-Ashalnd-bound Green Line trains are running w/residual delays following a earlier sick customer at 35th-Bronzeville. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>63rd-Ashalnd-bound Green Line trains are running w/residual delays following an earlier sick customer at 35th-Bronzeville.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-03-17T16:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98342"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "35th-Bronzeville-IIT",
+          "ServiceId": "41120",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=2"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "2be41bfb-9d4d-4da8-8f80-e53bf06dfab1"
   }
 ]
