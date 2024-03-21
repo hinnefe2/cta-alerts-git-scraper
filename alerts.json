@@ -45,5 +45,52 @@
     },
     "ttim": "0",
     "GUID": "a6fcafd1-bd58-437d-bb83-b36e0a5940d6"
+  },
+  {
+    "AlertId": "98428",
+    "Headline": "#J14 Jeffery Jump and #15 Jeffery Local Temporary Reroute at Jefffery/79th",
+    "ShortDescription": "J14 Jeffery Jump, 15 Jeffery Local buses are temp. rerouted via Jeffery, 79th, Stony Island, 76th, and Jeffery, due to street blockage near Jeffery/79th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#J14 Jeffery Jump and #15 Jeffery Local buses are temporarily rerouted in both directions via Jeffery, 79th, Stony Island, 76th, and Jeffery, due to street blockage&nbsp;near Jeffery/79th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-03-21T08:45:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98428"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "0bac1bb4-2c66-4d02-9694-bfa4e47f66a9"
   }
 ]
