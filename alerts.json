@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "98469",
+    "Headline": "#49 Western,#X49 Western Express Temporary Reroute near Western/35th",
+    "ShortDescription": "49 Western, X49 Western Express buses temp. rerouted NB: Wester., Archer and Western Blvd. SB 31st, California, Archer and Western: near Western/35th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#49 Western,#X49 Western Express buses are temporarily rerouted in both directions near Western/35th, due to street blockage&nbsp;near Western/35th.</p>\r\n\r\n<p>Northbound buses will operate via Western, Archer,and Western Boulevard including the normal route streets at the beginning and end.</p>\r\n\r\n<p>Southbound&nbsp;buses will operate via Western, 31st, California and Archer.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-03-22T15:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98469"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western",
+          "ServiceId": "49",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western Express",
+          "ServiceId": "X49",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e3c6b6c5-0053-42b1-ae1e-896afa4f11b1"
+  }
+]
