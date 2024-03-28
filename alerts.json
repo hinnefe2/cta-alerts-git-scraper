@@ -160,5 +160,52 @@
     },
     "ttim": "0",
     "GUID": "86acbac3-5ea5-490c-935e-37494ca511c6"
+  },
+  {
+    "AlertId": "98586",
+    "Headline": "Orange Line Service Running with Delays",
+    "ShortDescription": "Orange Line trains are running with delays near Midway due to earlier debris on the tracks.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange Line trains are running with delays near Midway due to earlier debris on the tracks.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-03-28T15:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98586"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Midway",
+          "ServiceId": "40930",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=99"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "3d499a82-c38b-4fdc-9468-75cf26ab9918"
   }
 ]
