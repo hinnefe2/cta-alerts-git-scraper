@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "98605",
+    "Headline": "Loop-bound Purple Line Delays",
+    "ShortDescription": "Loop-bound Purple Line trains are running w/residual delays following an earlier sick customer at Linden. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Purple Line trains are running with residual delays following an earlier sick customer at Linden.&nbsp;</p>\r\n\r\n<p><br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-03-29T07:39:00",
+    "EventEnd": "2024-03-29T08:05:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98605"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e70ab665-d1fc-4c03-86d9-eee7b97d486a"
+  }
+]
