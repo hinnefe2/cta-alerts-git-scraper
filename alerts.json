@@ -32,5 +32,86 @@
     },
     "ttim": "0",
     "GUID": "82c997fd-9780-4338-960f-ecab9e1eb288"
+  },
+  {
+    "AlertId": "98614",
+    "Headline": "#52 Kedzie & #52A South Kedzie Temporary Reroute at 55th/Sawyer",
+    "ShortDescription": "52 Kedzie & 52A South Kedzie buses are temporarily rerouted via Kedzie, 51st, California, 59th, & Kedzie, due to street blockage near 55th/Sawyer.",
+    "FullDescription": {
+      "#cdata-section": "<p>#52 Kedzie &amp;&nbsp;#52A South Kedzie&nbsp;buses are temporarily rerouted in both directions via Kedzie, 51st, California, 59th, &amp; Kedzie, due to street blockage near 55th/Sawyer.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-03-29T14:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98614"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Kedzie",
+          "ServiceId": "52",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/kedzie/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Kedzie",
+          "ServiceId": "52A",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/52a/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "84e74e70-6fc7-4026-bcee-4c76cf6928d6"
+  },
+  {
+    "AlertId": "98615",
+    "Headline": "#55 Garfield Temporary Reroute at 55th/Sawyer",
+    "ShortDescription": "55 Garfield buses are temporarily rerouted via 55th, Pulaski, 59th, California, & 55th, due to street blockage near 55th/Sawyer.",
+    "FullDescription": {
+      "#cdata-section": "<p>#55 Garfield buses are temporarily rerouted in both directions via 55th, Pulaski, 59th, California, and&nbsp;55th, due to street blockage near 55th/Sawyer.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-03-29T14:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98615"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Garfield",
+        "ServiceId": "55",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/55/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9015e962-02f9-4b82-a941-259b30892eb0"
   }
 ]
