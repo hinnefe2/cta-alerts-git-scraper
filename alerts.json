@@ -1,17 +1,17 @@
 [
   {
     "AlertId": "98621",
-    "Headline": "Red Line Service Delayed near Jackson",
-    "ShortDescription": "Red Line trains are standing near Jackson due to police activity. Crews working to restore service.",
+    "Headline": "Trains bypassing Monroe Station",
+    "ShortDescription": "Red Line trains are running, but not stopping at Monroe due to police activity.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing near Jackson due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running, but not stopping at Monroe due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "58",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-03-29T21:24:00",
-    "EventEnd": "2024-03-29T22:24:00",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2024-03-29T21:33:00",
+    "EventEnd": "2024-03-29T22:33:00",
     "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
@@ -22,12 +22,12 @@
         {
           "ServiceType": "T",
           "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Jackson",
-          "ServiceId": "40560",
+          "ServiceName": "Monroe",
+          "ServiceId": "41090",
           "ServiceBackColor": "c60c30",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=76"
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=101"
           }
         },
         {
@@ -44,6 +44,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "bf267ed2-cffa-4652-8263-d00b4342183d"
+    "GUID": "1d4d343f-1b95-4cfe-9f6e-dc552375d920"
   }
 ]
