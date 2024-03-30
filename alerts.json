@@ -79,5 +79,52 @@
     },
     "ttim": "0",
     "GUID": "3cb4913f-6dff-4cca-a15a-1c22fee9317c"
+  },
+  {
+    "AlertId": "98627",
+    "Headline": "Trains bypassing Jackson Station",
+    "ShortDescription": "Red Line trains are running, but not stopping at Jackson due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running, but not stopping at Jackson due to police activity.</p>\n\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2024-03-30T01:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98627"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Jackson",
+          "ServiceId": "40560",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=76"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1356396c-4601-454f-934d-49b271afbdbe"
   }
 ]
