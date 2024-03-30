@@ -34,37 +34,37 @@
     "GUID": "e1b5d579-42a2-4704-902b-91e9e6fef169"
   },
   {
-    "AlertId": "98633",
-    "Headline": "Loop-bound Brown Line Delays",
-    "ShortDescription": "Loop-bound Brown Line trains are running w/residual delays following earlier signal problems at Kimball. Service is resuming, allow extra time.",
+    "AlertId": "98634",
+    "Headline": "#50 Damen Temporary Reroute at Damen/Washington",
+    "ShortDescription": "50 Damen buses are temporarily rerouted via Damen, Madison, Webster, Fulton and Damen: due to, street blockage near Damen/Washington.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown Line trains are running w/residual delays following earlier signal problems at Kimball.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#50 Damen buses are temporarily rerouted via Damen, Madison, Webster, Fulton and Damen: due to, street blockage near Damen/Washington.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-03-30T08:55:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-03-30T09:13:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98633"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98634"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Damen",
+        "ServiceId": "50",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/50/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "c462433c-3049-49dc-b2fa-914657592db8"
+    "GUID": "6a62bfb2-957b-40f3-935a-49b379eb36b3"
   }
 ]
