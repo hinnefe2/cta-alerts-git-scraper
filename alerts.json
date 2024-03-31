@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "98642",
+    "Headline": "#56 Milwaukee Temporary Reroute at Milwaukee/Kedzie",
+    "ShortDescription": "56 Milwaukee buses are temporarily rerouted via Milwaukee, Diversey, Kedzie, & Milwaukee, due to street blockage near Milwaukee/Kedzie.",
+    "FullDescription": {
+      "#cdata-section": "<p>#56 Milwaukee buses are temporarily rerouted in both directions via Milwaukee, Diversey, Kedzie, and&nbsp;Milwaukee, due to street blockage near Milwaukee/Kedzie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-03-30T19:45:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98642"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Milwaukee",
+        "ServiceId": "56",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/56/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c45bfb79-703c-4942-90fd-e85b9db00d25"
+  },
+  {
+    "AlertId": "98643",
+    "Headline": "#76 Diversey Temporary Eastbound Reroute near Milwaukee/Kedzie.",
+    "ShortDescription": "EB 76 Diversey buses are temporarily rerouted via Diversey, Kedzie, & the Blue Line, due to street blockage near Milwaukee/Kedzie.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound&nbsp;#76 Diversey buses are temporarily rerouted via Diversey, Kedzie, and&nbsp;the Blue Line, due to street blockage near Milwaukee/Kedzie.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-03-30T19:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98643"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Diversey",
+        "ServiceId": "76",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/76/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "80d84b9a-0384-44f0-bc80-68f160ab6736"
+  }
+]
