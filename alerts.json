@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "12b931df-6264-4d57-a674-d3cfd4af2204"
+  },
+  {
+    "AlertId": "98647",
+    "Headline": "Green Line Service Running with Delays",
+    "ShortDescription": "Green Line trains are moving with delays at Harlem/Lake due to track switching problems.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green Line trains are moving with delays at Harlem/Lake due to track switching problems.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-03-31T00:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98647"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Harlem/Lake",
+          "ServiceId": "40020",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=68"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "62b9d699-350c-44f3-93cf-5f3e9c5c747c"
   }
 ]
