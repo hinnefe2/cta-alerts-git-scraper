@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "AlertId": "98657",
+    "Headline": "#54B South Cicero Temporary Reroute at Cicero/39th",
+    "ShortDescription": "54B South Cicero buses are temporarily rerouted via Cicero, I55, Pulaski and 31st: due to, street blockage near Cicero/39th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#54B South Cicero buses are temporarily rerouted via Cicero, I55, Pulaski and 31st: due to, street blockage near Cicero/39th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-03-31T19:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98657"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Cicero",
+        "ServiceId": "54B",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54b/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0fe91b7b-0ed1-461b-acba-8254ea586789"
+  },
+  {
+    "AlertId": "98658",
+    "Headline": "95th-bound Red Line Service Delayed at Garfield",
+    "ShortDescription": "95th-bound Red Line trains are standing at Garfield due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are standing at Garfield due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-03-31T19:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98658"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Garfield",
+          "ServiceId": "41170",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=61"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "317c1b6e-c886-48f3-a98f-76d2505b5f62"
+  }
+]
