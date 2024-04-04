@@ -102,37 +102,37 @@
     "GUID": "4e8d8d99-532d-41d0-b1e6-3300b7a182ae"
   },
   {
-    "AlertId": "98754",
-    "Headline": "95th-bound Red Line Delays",
-    "ShortDescription": "95th-bound Red Line trains are running w/residual delays and congestion following an earlier sick customer at Loyola. Service is resuming, allow extra time.",
+    "AlertId": "98755",
+    "Headline": "#84 Peterson Temporary Eastbound Reroute near Ridge/Broadway",
+    "ShortDescription": "Eastbound 84 Peterson buses are temporarily rerouted via  Ridge, Hollywood, Broadway, foster and Sheridan: due to, street blockage near Ridge/Broadway.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are running with residual delays and congestion following an earlier sick customer at Loyola.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Eastbound #84 Peterson buses are temporarily rerouted via&nbsp; Ridge, Hollywood, Broadway, foster and Sheridan: due to, street blockage near Ridge/Broadway.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-04-04T16:36:00",
-    "EventEnd": "2024-04-04T17:15:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-04T17:10:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98754"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98755"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Peterson",
+        "ServiceId": "84",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/84/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "6e5a7833-e72a-41d0-adf3-e9bb233c5468"
+    "GUID": "eaf33b20-bbda-476d-8b1f-29884f86e776"
   }
 ]
