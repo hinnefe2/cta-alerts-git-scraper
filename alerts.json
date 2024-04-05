@@ -68,25 +68,50 @@
     "GUID": "6965cdc0-7b4b-4ac6-8362-7d8d50d93d8e"
   },
   {
-    "AlertId": "98785",
-    "Headline": "O'Hare-bound Blue Line Service Running with Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running with delays near Montrose following an earlier door problem.",
+    "AlertId": "98786",
+    "Headline": "O'Hare-bound Blue Line Service Delayed at Harlem-oh",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Harlem-oh due to a door problem.  Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with delays near Montrose following an earlier door problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Harlem-oh due to a door problem.&nbsp;</p>\r\n\r\n<p>&nbsp;At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-04-05T17:04:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-04-05T17:19:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98785"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98786"
     },
-    "ImpactedService": null,
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Harlem (O'Hare Branch)",
+          "ServiceId": "40750",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=69"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
     "ttim": "0",
-    "GUID": "0def9a62-52ed-42a8-9ac9-2a04d171a672"
+    "GUID": "d360f108-8345-427f-a4ca-984c072e2cce"
   }
 ]
