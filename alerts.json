@@ -34,6 +34,40 @@
     "GUID": "643b25c3-4eec-4371-8f41-8a71f82ab703"
   },
   {
+    "AlertId": "98796",
+    "Headline": "Red Line Service Running with Delays",
+    "ShortDescription": "Red Line trains are running w/residual delays from the 95th and Howard Terminals. Allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running w/residual delays from the 95th and Howard Terminals.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-04-06T01:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98796"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "292d0ef0-296c-4164-8665-6f409b12008c"
+  },
+  {
     "AlertId": "98797",
     "Headline": "Orange Line Service Running with Delays",
     "ShortDescription": "Orange Line trains are running w/delays due to to a shortage of available staff; we're working to run as much service as possible. Allow extra time.",
