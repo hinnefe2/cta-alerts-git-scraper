@@ -35,18 +35,18 @@
   },
   {
     "AlertId": "98788",
-    "Headline": "#29 State Temporary Northbound Reroute near Kinzie/State",
-    "ShortDescription": "Northbound 29 State buses are temporarily rerouted via State, Wacker, Michigan, Ohio, Fairbanks and Illinois, due to street blockage near Kinzie/State.",
+    "Headline": "#29 State Temporary Reroute near Kinzie/State",
+    "ShortDescription": "29 State buses rerouted SB: Grand, LaSalle, Wacker & State; NB State, Wacker, Michigan, Ohio, Fairbanks & Illinois: due to, street blockage near Kinzie/State.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #29 State buses are temporarily rerouted via State, Wacker, Michigan, Ohio, Fairbanks and Illinois, due to street blockage near Kinzie/State.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#29 State&nbsp;buses are temporarily rerouted in both directions, due to street blockage&nbsp;near Kinzie/State.</p>\r\n\r\n<p>Southbound buses will operate via Grand, LaSalle, Wacker and&nbsp;State.</p>\r\n\r\n<p>Northbound buses will operate via State, Wacker, Michigan, Ohio, Fairbanks and&nbsp;Illinois.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
     "EventStart": "2024-04-05T18:22:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventEnd": "2024-04-08T19:21:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98788"
@@ -65,6 +65,74 @@
       }
     },
     "ttim": "0",
-    "GUID": "905389a3-415c-472f-9938-931b84087514"
+    "GUID": "a6535d33-fe31-44ff-94cb-a03afd897d72"
+  },
+  {
+    "AlertId": "98790",
+    "Headline": "#62 Archer Temporary Southbound Reroute near Kinzie/State",
+    "ShortDescription": "Southbound 62 Archer buses are temporarily rerouted via Dearborn, Grand, LaSalle, Wacker and State: due to, street blockage near Kinzie/State.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #62 Archer buses are temporarily rerouted via Dearborn, Grand, LaSalle, Wacker and State: due to, street blockage near Kinzie/State.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-05T19:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98790"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Archer",
+        "ServiceId": "62",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/62/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d3ce3d95-0f78-4fc8-85ec-b0c7978bf759"
+  },
+  {
+    "AlertId": "98791",
+    "Headline": "#36 Broadway Temporary Southbound Reroute near Kinzie/State",
+    "ShortDescription": "Southbound 36 Broadway buses are temporarily rerouted via State, Grand, LaSalle, Wacker & State: due to, street blockage near Kinzie/State.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #36 Broadway buses are temporarily rerouted via State, Grand, LaSalle, Wacker and&nbsp;State: due to, street blockage near Kinzie/State.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-05T19:27:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98791"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Broadway",
+        "ServiceId": "36",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/36/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f0bae4df-658a-4fa4-a621-e6c47414e011"
   }
 ]
