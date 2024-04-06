@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "5528ce7b-24de-4933-8b6a-a8f76c0938b9"
+  },
+  {
+    "AlertId": "98807",
+    "Headline": "Brown Line Service Running with Delays",
+    "ShortDescription": "Brown Line trains are running with delays.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line trains are running with delays.</p>\n\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-04-06T14:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98807"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b01c7cb2-59ca-4a25-ab7d-b7327492dc9e"
   }
 ]
