@@ -215,5 +215,63 @@
     },
     "ttim": "0",
     "GUID": "1e1c1340-feda-48af-b41c-5f36c37f59e9"
+  },
+  {
+    "AlertId": "98843",
+    "Headline": "#146, #147, #148 Temporary Reroute near Lake Shore Drive/Michigan Exit",
+    "ShortDescription": "146, 147, & 148 buses temp. rerouted NB: Michigan, Ontario, LaSalle, LSD; SB: Michigan, LaSalle, Ohio, Michigan, due to street blockage near LSD/Michigan Exit.",
+    "FullDescription": {
+      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express, #147 Outer DuSable Lake Shore Express, and&nbsp;#148 Clarendon/Michigan Express buses are temporarily rerouted in both directions near Lake Shore Drive/Michigan Exit, due to street blockage.</p>\r\n\r\n<p>Northbound buses will operate via Michigan, Ontario, LaSalle, and Lake Shore Drive.</p>\r\n\r\n<p>Southbound buses will operate via Michigan, LaSalle, Ohio, and Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-08T16:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98843"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clarendon/Michigan Express",
+          "ServiceId": "148",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/148/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f75fe5cc-30b9-4e2a-bb69-beb086bf6e6c"
   }
 ]
