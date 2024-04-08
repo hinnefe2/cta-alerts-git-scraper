@@ -34,37 +34,50 @@
     "GUID": "643b25c3-4eec-4371-8f41-8a71f82ab703"
   },
   {
-    "AlertId": "98828",
-    "Headline": "Loop-bound Pink Line Delays",
-    "ShortDescription": "Loop-bound Pink Line trains are running with residual delays from 54th/Cermak. Service is resuming, allow extra time.",
+    "AlertId": "98829",
+    "Headline": "Loop-bound Brown and Purple Line Express Service delayed at Merchandise Mart",
+    "ShortDescription": "Loop-bound Brown and Purple Line Express trains are standing at Merchandise Mart due to signal problems. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Pink Line trains are running with residual delays from 54th/Cermak.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Brown and Purple Line Express trains are standing at&nbsp;Merchandise Mart due to signal problems.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-04-08T07:40:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-04-08T07:59:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98828"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98829"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "b01a9ed2-51e9-4d5c-a14d-54c8f9411228"
+    "GUID": "1d37ac81-5c3a-4a6b-b6a8-a755f278f1f5"
   }
 ]
