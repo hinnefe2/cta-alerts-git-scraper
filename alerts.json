@@ -35,15 +35,15 @@
   },
   {
     "AlertId": "98829",
-    "Headline": "Loop-bound Brown and Purple Line Express Service delayed at Merchandise Mart",
-    "ShortDescription": "Loop-bound Brown and Purple Line Express trains are standing at Merchandise Mart due to signal problems. Crews working to restore service.",
+    "Headline": "Loop-bound Brown and Purple Line Express Delays",
+    "ShortDescription": "Loop-bound Brown, Purple Line Exp. trains are running w/residual delays & congestion due to earlier signal problems at Merch. Mart. Allow extra travel time.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown and Purple Line Express trains are standing at&nbsp;Merchandise Mart due to signal problems.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Brown and Purple Line Express trains are running w/residual delays and congestion following earlier signal problems at Merchandise Mart.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2024-04-08T07:59:00",
     "EventEnd": null,
     "TBD": "1",
@@ -78,6 +78,86 @@
       ]
     },
     "ttim": "0",
-    "GUID": "1d37ac81-5c3a-4a6b-b6a8-a755f278f1f5"
+    "GUID": "ae646514-fd90-430b-bd18-6d2bce75c4d7"
+  },
+  {
+    "AlertId": "98830",
+    "Headline": "Loop 'L'  Service Delayed at Library",
+    "ShortDescription": "Loop 'L' trains are standing at Library due to a door problem on a train. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop &#39;L&#39; trains are standing at Library due to a door problem on a train.<br />\r\nPersonnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-04-08T08:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98830"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f9f2b594-ce2d-41be-89c9-defc8b21ceb3"
   }
 ]
