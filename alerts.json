@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "176c51c1-2ae6-415f-883e-30cc6f33575b"
+  },
+  {
+    "AlertId": "98837",
+    "Headline": "#52 Kedzie & #52A South Kedzie Temporary Southbound Reroute near Kedzie/63rd Street",
+    "ShortDescription": "SB 52 Kedzie & 52A South Kedzie buses are temp. rerouted via Kedzie, 63rd, California, Marquette, & Kedzie, due to street blockage near Kedzie/63rd Street.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #52 Kedzie &amp; #52A South Kedzie buses are temporarily&nbsp;rerouted via Kedzie, 63rd, California, Marquette, &amp; Kedzie, due to street blockage near Kedzie/63rd Street.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-08T10:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98837"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Kedzie",
+          "ServiceId": "52",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/kedzie/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Kedzie",
+          "ServiceId": "52A",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/52a/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "cc013bef-7bd7-47e7-81e4-7927fb29a415"
   }
 ]
