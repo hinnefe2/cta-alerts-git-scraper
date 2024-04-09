@@ -34,71 +34,37 @@
     "GUID": "643b25c3-4eec-4371-8f41-8a71f82ab703"
   },
   {
-    "AlertId": "98875",
-    "Headline": "#24 Wentworth Temporary Reroute at Wentworth/69th",
-    "ShortDescription": "24 Wentworth buses are temporarily rerouted via Wentworth, 71st, Vincennes and 69th: due to, street blockage near Wentworth/69th.",
+    "AlertId": "98878",
+    "Headline": "#72 North Temporary Reroute at North Avenue/Spaulding",
+    "ShortDescription": "72 North buses are temporarily rerouted via North Avenue, Homan, Division and Kedzie: due to ,street blockage near North Avenue/Spaulding.",
     "FullDescription": {
-      "#cdata-section": "<p>#24 Wentworth buses are temporarily rerouted via Wentworth, 71st, Vincennes and 69th: due to, street blockage near Wentworth/69th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#72 North buses are temporarily rerouted via North Avenue, Homan, Division and Kedzie: due to ,street blockage near North Avenue/Spaulding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-04-09T15:30:00",
+    "EventStart": "2024-04-09T16:29:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98875"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98878"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Wentworth",
-        "ServiceId": "24",
+        "ServiceName": "North",
+        "ServiceId": "72",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/24/"
+          "#cdata-section": "http://www.transitchicago.com/bus/72/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "376ba090-9422-441e-b708-65b4485445ef"
-  },
-  {
-    "AlertId": "98877",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays and congestion following an earlier sick customer at Jefferson Park. Service is resuming.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with residual delays and congestion following an earlier sick customer at Jefferson Park.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-04-09T16:06:00",
-    "EventEnd": "2024-04-09T16:35:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98877"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "58f6fbd4-27ae-45f2-8658-2f57c4797f70"
+    "GUID": "4d0920f6-7ab6-4b38-825e-bd725d3b0171"
   }
 ]
