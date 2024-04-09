@@ -113,5 +113,52 @@
     },
     "ttim": "0",
     "GUID": "897e129a-1fee-41a4-9852-16a83b77cbc5"
+  },
+  {
+    "AlertId": "98866",
+    "Headline": "#26 South Shore Express, #30 South Chicago Temporary Reroute near Ewing/95th",
+    "ShortDescription": "26 South Shore Express, 30 South Chicago buses are temporarily rerouted via Ewing, 95th, South Chicago, Harbor Ave and Mackinaw due to street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#26 South Shore Express, #30 South Chicago buses are temporarily rerouted in both directions via Ewing, 95th, South Chicago, Harbor Ave and Mackinaw, due to street blockage near Ewing/95th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-09T10:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98866"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Chicago",
+          "ServiceId": "30",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/30/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "8c9de9b9-815e-4b65-b88f-f50ffdc51bda"
   }
 ]
