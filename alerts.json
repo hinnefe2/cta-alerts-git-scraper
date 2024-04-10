@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "0790434a-1dbc-4bfd-88be-6900de85fdb9"
+  },
+  {
+    "AlertId": "98889",
+    "Headline": "#15 Jeffery Local, #28 Stony Island Temporary Northbound Reroute near Stony Island/63rd",
+    "ShortDescription": "Northbound 15 Jeffery Local, 28 Stony Island buses are temporarily rerouted via Stony Island, 63rd, Haynes Dr., Lk Shr Dr., 57th and Stony Island.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #15 Jeffery Local, #28 Stony Island buses are temporarily rerouted via Stony Island, 63rd, Haynes Dr., Lk Shr Dr., 57th and Stony Island, due to street blockage near Stony Island/63rd.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-10T09:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98889"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stony Island",
+          "ServiceId": "28",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/28/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c4904593-ad19-4dd0-8bc9-c3d1be7356b5"
   }
 ]
