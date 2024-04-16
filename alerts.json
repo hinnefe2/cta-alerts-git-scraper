@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "98996",
-    "Headline": "#120 Ogilvie/Streeterville Express Temporary Reroute at Lower Wacker/Orleans",
-    "ShortDescription": "120 Ogilvie/Streeterville Express buses are temporarily rerouted via Lower Wacker, Columbus, and Illinois due to street blockage near Lower Wacker/Orleans.",
+    "Headline": "#120 Ogilvie/Streeterville Express, #121 Union/Streeterville Express Temporary Reroute at Lower Wacker/Orleans",
+    "ShortDescription": "120 Ogilvie/Streeterville Express, 121 Union/Streeterville Express buses are temporarily rerouted via Lower Wacker, Columbus, and Illinois.",
     "FullDescription": {
-      "#cdata-section": "<p>#120 Ogilvie/Streeterville Express buses are temporarily rerouted in both directions via Lower Wacker, Columbus, and Illinois due to street blockage near Lower Wacker/Orleans.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#120 Ogilvie/Streeterville Express, #121 Union/Streeterville Express buses are temporarily rerouted in both directions via Lower Wacker, Columbus, and Illinois due to street blockage near Lower Wacker/Orleans.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -18,19 +18,66 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98996"
     },
     "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ogilvie/Streeterville Express",
+          "ServiceId": "120",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/120/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Union/Streeterville Express",
+          "ServiceId": "121",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/121/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "81b8ae86-bfd8-455c-a757-900dd0dc3cdd"
+  },
+  {
+    "AlertId": "98997",
+    "Headline": "#90 Harlem Temporary Southbound Reroute near Harlem/North Blvd",
+    "ShortDescription": "Southbound 90 Harlem buses are temporarily rerouted via Harlem, Lake, Forest, South Blvd., and Harlem due to street blockage near Harlem/North Blvd.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #90 Harlem buses are temporarily rerouted via Harlem, Lake, Forest, South Blvd., and Harlem due to street blockage near Harlem/North Blvd.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-16T09:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98997"
+    },
+    "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Ogilvie/Streeterville Express",
-        "ServiceId": "120",
-        "ServiceBackColor": "ffffff",
-        "ServiceTextColor": "b71234",
+        "ServiceName": "Harlem",
+        "ServiceId": "90",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/120/"
+          "#cdata-section": "http://www.transitchicago.com/bus/90/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "20481346-388b-4d3a-bda2-98852f0dc88b"
+    "GUID": "7b9a8cc6-b658-4698-8eba-047bda99b135"
   }
 ]
