@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "98978",
-    "Headline": "#126 Jackson Temporary Reroute at Jackson/Keeler",
-    "ShortDescription": "126 Jackson buses are temporarily rerouted via Jackson, Pulaski, Madison, Kostner, & Jackson due to, street blockage near Jackson/Keeler.",
-    "FullDescription": {
-      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted in both directions via Jackson, Pulaski, Madison, Kostner, &amp; Jackson, due to&nbsp;street blockage near Jackson/Keeler.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-04-15T11:11:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98978"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson",
-        "ServiceId": "126",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/126/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b130dfd5-17d5-47a6-9a01-feaad3d705fd"
-  },
-  {
     "AlertId": "98979",
     "Headline": "#24 Wentworth Temporary Southbound Reroute near Wentworth/28th ",
     "ShortDescription": "SB 24 Wentworth buses are temporarily rerouted via Wentworth, 26th, State, 31st, & Wentworth, due to street blockage near Wentworth/28th.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "4a2f9040-636a-44de-8eb2-16a52b35e2f5"
+  },
+  {
+    "AlertId": "98989",
+    "Headline": "Howard-bound Red Line Delays",
+    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays following an earlier mechanical problem at Garfield. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are running w/residual delays following an earlier mechanical problem at Garfield.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-04-15T21:09:00",
+    "EventEnd": "2024-04-15T21:45:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=98989"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0698ef7b-f79d-4748-85aa-69ad27aa3cff"
   }
 ]
