@@ -35,18 +35,18 @@
   },
   {
     "AlertId": "99043",
-    "Headline": "Pink Line Service Delayed at Western",
-    "ShortDescription": "Pink Line trains are standing at Western due to police activity. Crews working to restore service.",
+    "Headline": "Pink Line Service Running with Delays",
+    "ShortDescription": "Pink Line trains are running with delays and congestion near Western following earlier police activity.",
     "FullDescription": {
-      "#cdata-section": "<p>Pink Line trains are standing at&nbsp;Western due to police activity.</p>\r\n\r\n<p>Bus shuttle service has been requested to provide connecting service from 54th/Cermak to Polk.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Pink Line trains are running with delays and congestion near Western following earlier police activity.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Significant Delays",
     "EventStart": "2024-04-18T06:57:00",
-    "EventEnd": "2024-04-18T07:57:00",
-    "TBD": "0",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99043"
@@ -78,53 +78,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "9e546929-3c39-413e-b253-f69ec5997174"
-  },
-  {
-    "AlertId": "99044",
-    "Headline": "#J14 Jeffery Jump & #15 Jeffery Local Temporary Northbound Reroute near Jeffery/83rd",
-    "ShortDescription": "NB J14 Jeffery Jump & 15 Jeffery Local buses are temporarily rerouted via Jeffery, 85th, South Chicago, & Jeffery, due to street blockage near Jeffery/83rd.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound&nbsp;#J14 Jeffery Jump &amp; #15 Jeffery Local buses are temporarily rerouted via Jeffery, 85th, South Chicago, &amp; Jeffery, due to street blockage near Jeffery/83rd.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-04-18T06:54:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99044"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Jump",
-          "ServiceId": "J14",
-          "ServiceBackColor": "0065BD",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Local",
-          "ServiceId": "15",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/15/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "6a06f593-4a9e-4346-92b2-2eb7607cccce"
+    "GUID": "7d8ca3b7-f577-4b6d-a547-46282438b68c"
   }
 ]
