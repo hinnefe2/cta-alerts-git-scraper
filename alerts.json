@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "833c4ca5-a4e5-4f5a-a532-88e539a0844d"
+  },
+  {
+    "AlertId": "99126",
+    "Headline": "Red Line Trains bypassing Sox-35th Station",
+    "ShortDescription": "Red Line trains are running, but not stopping at Sox-35th due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running, but not stopping at Sox-35th due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2024-04-21T03:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99126"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Sox-35th",
+          "ServiceId": "40190",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=129"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "7ae76799-7240-4a0a-b527-75f02ee1bcc6"
   }
 ]
