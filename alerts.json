@@ -1,15 +1,15 @@
 [
   {
     "AlertId": "99170",
-    "Headline": "Update: No Trains O'Hare-bound Between Forest Park and Harlem (Forest Park Branch)",
-    "ShortDescription": "Blue Line service partially resumed, remains suspended O'Hare-bound between Forest Park & Harlem (Forest Park Branch) due to track conditions.",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running w/residual delays and congestion following earlier track conditions at Harlem (Forest Park Branch). Service is resuming. ",
     "FullDescription": {
-      "#cdata-section": "<p>Service on the Blue Line has partially resumed, but remains suspended O&#39;Hare-bound between&nbsp;Forest Park and Harlem (Forest Park Branch) due to track conditions.</p>\r\n\r\n<p><strong>As a result, trains are operating as follows:</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>O&#39;Hare-bound between O&#39;Hare and Harlem (Forest Park Branch).</strong></li>\r\n\t<li><strong>Normal service Forest Park-bound.</strong></li>\r\n</ul>\r\n\r\n<p>Shuttle buses are available between Harlem (Forest Park Branch)&nbsp;and Forest Park to provide connecting service.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are running w/residual delays and congestion following earlier track conditions at Harlem (Forest Park Branch).</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2024-04-23T01:37:00",
     "EventEnd": null,
     "TBD": "1",
@@ -18,19 +18,32 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99170"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Harlem (Forest Park Branch)",
+          "ServiceId": "40980",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=67"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "efddb350-cdea-4da0-ba26-fc01fd83d2c6"
+    "GUID": "14616460-ac46-4051-a862-26667b733519"
   }
 ]
