@@ -34,37 +34,37 @@
     "GUID": "a7a3d789-7f34-435b-b586-298a2c0877d2"
   },
   {
-    "AlertId": "99198",
-    "Headline": "Brown Line Delays",
-    "ShortDescription": "Brown Line trains are running w/residual delays following an earlier bridge lift at the Chicago River downtown. Service is resuming, allow extra time.",
+    "AlertId": "99199",
+    "Headline": "#44 Wallace/Racine Temporary Reroute at Racine/50th",
+    "ShortDescription": "44 Wallace/Racine buses are temporarily rerouted via 51st, Halsted and 47th: due to, street blockage near Racine/50th.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are running w/residual delays following an earlier bridge lift at the Chicago River downtown.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#44 Wallace/Racine buses are temporarily rerouted via 51st, Halsted and 47th: due to, street blockage near Racine/50th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-04-24T13:12:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-24T13:45:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99198"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99199"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Wallace/Racine",
+        "ServiceId": "44",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/44/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "612de406-a914-42fd-bde3-522da4541a56"
+    "GUID": "6eb4f679-848f-41f2-a555-961089e1201f"
   }
 ]
