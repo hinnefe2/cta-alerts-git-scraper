@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "99214",
-    "Headline": "#75 74th-75th Temporary Eastbound Reroute near 75th/Lafayette",
-    "ShortDescription": "Eastbound 75 74th-75th buses are temporarily rerouted via 75th, Vincennes, 79th, and the Red Line, due to street blockage near 75th/Lafayette.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound&nbsp;#75 74th-75th buses are temporarily rerouted via 75th, Vincennes, 79th, and the Red Line, due to street blockage near 75th/Lafayette.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-04-25T10:42:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99214"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "74th-75th",
-        "ServiceId": "75",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/75/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6bd20f83-caf1-4b74-9c66-cfeb2101e4ea"
-  },
-  {
     "AlertId": "99232",
     "Headline": "#156 LaSalle Temporary Southbound Reroute near Belmont/Hudson",
     "ShortDescription": "SB 156 LaSalle buses are temporarily rerouted via Belmont, Halsted, Addison, Inner Lake Shore Drive and Sheridan: due to, street blockage near Belmont/Hudson.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "d58b2dba-6dea-4500-b3a9-d5455e455d52"
+  },
+  {
+    "AlertId": "99233",
+    "Headline": "#77 Belmont Temporary Eastbound Reroute near Belmont/Hudson",
+    "ShortDescription": "EB 77 Belmont buses are temporarily rerouted via Belmont, Halsted, Addison, Inner lake Shore Drive and Sheridan: due to, street blockage near Belmont/Hudson.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #77 Belmont buses are temporarily rerouted via Belmont, Halsted, Addison, Inner lake Shore Drive and Sheridan: due to, street blockage near Belmont/Hudson.</p>\r\n\r\n<p>Westbound&nbsp; buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-25T20:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99233"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Belmont",
+        "ServiceId": "77",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/77/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f135ade6-5589-43b5-91c2-cc849257113e"
   }
 ]
