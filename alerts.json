@@ -113,5 +113,74 @@
     },
     "ttim": "0",
     "GUID": "2a7e1f41-3ed0-4ce2-885e-4df4ef6a36ef"
+  },
+  {
+    "AlertId": "99236",
+    "Headline": "Major Delays, Limited Service on Loop 'L'",
+    "ShortDescription": "Major delays/limited service capacity on the Loop 'L' due to signal problems at Clark/Lake.",
+    "FullDescription": {
+      "#cdata-section": "<p>Major delays/limited service capacity on the Loop &#39;L&#39; due to signal problems at Clark/Lake.</p>\r\n\r\n<p>As a result of the delay, shuttle buses have been requested to provide connecting service. Shuttle bus service is as follows:</p>\r\n\r\n<ul>\r\n\t<li><strong>Brown</strong> Line shuttle buses will be available from<strong> Fullerton to Clark/Lake</strong></li>\r\n\t<li><strong>Green </strong>Line shuttle buses are available from <strong>Cermak-McCormick Place to State/Lake</strong></li>\r\n\t<li><strong>Orange</strong> Line shuttle buses are available from <strong>Halsted to Clark/Lake</strong></li>\r\n\t<li><strong>Pink</strong> Line shuttle buses are available from <strong>Clinton to Clark/Lake.</strong></li>\r\n</ul>\r\n\r\n<p><strong>Note: Trains and platforms may be busier than usual and become crowded at times. For your safety, please stand clear of the platform edge.</strong></p>\r\n\r\n<p>We appreciate your patience as we work to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2024-04-25T22:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99236"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5b28df12-3f91-45ad-8635-77866543f1e9"
   }
 ]
