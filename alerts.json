@@ -1,86 +1,5 @@
 [
   {
-    "AlertId": "99245",
-    "Headline": "95th-bound Red Line Service Running with Delays",
-    "ShortDescription": "95th-bound Red Line trains are running with delays near Sheridan due to an earlier door problem.",
-    "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are running with delays near Sheridan due to an earlier door problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-04-26T10:34:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99245"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Sheridan",
-          "ServiceId": "40080",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=125"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "66bf0dc5-006a-425e-9057-597340729729"
-  },
-  {
-    "AlertId": "99244",
-    "Headline": "#85 Central Temporary Reroute at Central/Jackson",
-    "ShortDescription": "85 Central buses are temporarily rerouted via Central, Harrison, Laramie, Jackson, and Central, due to, street blockage near Central/Jackson.",
-    "FullDescription": {
-      "#cdata-section": "<p>#85 Central buses are temporarily rerouted in both directions via Central, Harrison, Laramie, Jackson, and Central, due to, street blockage near Central/Jackson.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-04-26T08:52:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99244"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Central",
-        "ServiceId": "85",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/85/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f9ed6e40-e4c4-4afb-ba19-f8751022eb48"
-  },
-  {
     "AlertId": "99232",
     "Headline": "#156 LaSalle Temporary Southbound Reroute near Belmont/Hudson",
     "ShortDescription": "SB 156 LaSalle buses are temporarily rerouted via Belmont, Halsted, Addison, Inner Lake Shore Drive and Sheridan: due to, street blockage near Belmont/Hudson.",
@@ -147,5 +66,73 @@
     },
     "ttim": "0",
     "GUID": "1f9990da-44a3-48c7-9257-901d77044258"
+  },
+  {
+    "AlertId": "99244",
+    "Headline": "#85 Central Temporary Reroute at Central/Jackson",
+    "ShortDescription": "85 Central buses are temporarily rerouted via Central, Harrison, Laramie, Jackson, and Central, due to, street blockage near Central/Jackson.",
+    "FullDescription": {
+      "#cdata-section": "<p>#85 Central buses are temporarily rerouted in both directions via Central, Harrison, Laramie, Jackson, and Central, due to, street blockage near Central/Jackson.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-26T08:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99244"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Central",
+        "ServiceId": "85",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/85/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f9ed6e40-e4c4-4afb-ba19-f8751022eb48"
+  },
+  {
+    "AlertId": "99246",
+    "Headline": "#43 43rd Temporary Westbound Reroute near 43rd/Vincennes",
+    "ShortDescription": "Westbound 43 43rd buses are temporarily rerouted via 43rd, St. Lawrence, 42nd St., King Dr., and 43rd due to, street blockage near 43rd/Vincennes.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #43 43rd buses are temporarily rerouted via 43rd, St. Lawrence, 42nd St., King Dr., and 43rd due to, street blockage near 43rd/Vincennes.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-26T10:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99246"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "43rd",
+        "ServiceId": "43",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/43/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "040a263f-3287-413a-818a-d5fa87758e57"
   }
 ]
