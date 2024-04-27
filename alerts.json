@@ -1,5 +1,74 @@
 [
   {
+    "AlertId": "99273",
+    "Headline": "Delays on Loop 'L' (elevated lines)",
+    "ShortDescription": "Orange, Green and Pink Line Loop service has been rerouted via the Outer Loop (Brown Line) Side due to signal problems at Clark/Lake.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange, Green and Pink Line Loop service has been rerouted via the Outer Loop (Brown Line) Side due to signal problems&nbsp;at Clark/Lake. Please board all Orange, Green and Pink Line trains on the Brown Line side at all Loop &#39;L&#39; stations.&nbsp;</p>\r\n\r\n<p>We appreciate your patience as we work to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-04-27T15:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99273"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "04e59c3f-e9e1-47e2-81cf-32de261ed92f"
+  },
+  {
     "AlertId": "99271",
     "Headline": "#29 State Temporary Reroute near State/58th",
     "ShortDescription": "29 State buses temp. rerouted NB: State, 59th, Wentworth, 55th, & State; SB: State, 55th, Wells, 59th, & State, due to street blockage near State/58th.",
