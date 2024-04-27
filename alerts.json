@@ -34,11 +34,45 @@
     "GUID": "ff436bcb-0ca7-4658-86ff-d0cf700f03d8"
   },
   {
-    "AlertId": "99266",
-    "Headline": "Brown Line Service Experiencing Significant Delays Due to Raised Bridge",
-    "ShortDescription": "Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown. Allow extra travel time.\r\n\r\n\r\n",
+    "AlertId": "99267",
+    "Headline": "#3 King Drive Temporary Southbound Reroute near King Drive/87th",
+    "ShortDescription": "Southbound 3 King Drive buses are temporarily rerouted via King Drive, 87th, Cottage Grove, 95th and King Drive, due to street blockage.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.</p>\n\n<p>Some trains may be either held or rerouted before reaching the bridge (in order to maintain service across the remainder of the route). Listen for announcements and check train destination signs when boarding.</p>\n\n<p>We apologize for this temporary inconvenience and appreciate your patience while the Chicago Department of Transportation works to complete the bridge operation. Allow extra travel time.</p>\n"
+      "#cdata-section": "<p>Southbound #3 King Drive buses are temporarily rerouted via King Drive, 87th, Cottage Grove, 95th and King Drive, due to street blockage near King Drive/87th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-27T10:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99267"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "King Drive",
+        "ServiceId": "3",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/3/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f6a27ac9-6918-464b-b66d-de3647d73242"
+  },
+  {
+    "AlertId": "99266",
+    "Headline": "Brown Line Delays",
+    "ShortDescription": "Some Brown Line trains are running with residual delays after earlier bridge lift at the Chicago River, downtown.\r\n",
+    "FullDescription": {
+      "#cdata-section": "<p>Some Brown Line trains are running with residual delays after earlier bridge lift at the Chicago River, downtown.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are now moving and service is resuming; allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -65,6 +99,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "b089936c-82d3-4d29-9a8c-7c0cd71ed34a"
+    "GUID": "52cd11d4-f5fe-469f-af48-c489bffce173"
   }
 ]
