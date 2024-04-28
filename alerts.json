@@ -113,5 +113,39 @@
     },
     "ttim": "0",
     "GUID": "48039994-82ed-4a04-a126-e86a6b7683f2"
+  },
+  {
+    "AlertId": "99287",
+    "Headline": "No trains between Midway and Pulaski",
+    "ShortDescription": "Orange Line service has been temporarily suspended between Midway and Pulaski due to a stalled train.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange Line service has been temporarily suspended between Midway and Pulaski due to a stalled train.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between the Loop and Pulaski at this time.</strong></p>\r\n\r\n<p>Shuttle buses are available between Midway and Pulaski&nbsp;to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2024-04-28T01:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99287"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5d958df3-ed9d-4b7a-bb49-575d9c2f9a32"
   }
 ]
