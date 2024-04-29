@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "c154f364-9811-4d93-b624-dcaee982a72a"
+  },
+  {
+    "AlertId": "99308",
+    "Headline": "# N5 South Shore Night Bus Temporary Reroute at South Shore/78th",
+    "ShortDescription": "N5 South Shore Night Bus buses are temporarily rerouted via South Shore, 79th, Coles, 75th and South Shore due to police activity near South Shore/78th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#N5 South Shore Night Bus buses are temporarily rerouted via South Shore, 79th, Coles, 75th and South Shore due to police activity near South Shore/78th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-29T02:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99308"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Night Bus",
+          "ServiceId": "N5",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "009999",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/n5/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "aea30d63-d2fd-47a0-8a41-c3ff0d335bda"
   }
 ]
