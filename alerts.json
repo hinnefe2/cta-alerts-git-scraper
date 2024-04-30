@@ -34,37 +34,37 @@
     "GUID": "557e19ed-bd26-44a0-8ee1-3fb0c6e0a15c"
   },
   {
-    "AlertId": "99324",
-    "Headline": " 95th-bound Red Line Delays",
-    "ShortDescription": "95th-bound Red Line trains are running w/residual delays following an earlier door problem at Jarvis. Service is resuming, allow extra time.",
+    "AlertId": "99326",
+    "Headline": "#35 31st/35th Temporary Reroute at 36th/Albany",
+    "ShortDescription": "35 31st/35th buses are temporarily rerouted via: Kedzie, 36th Place, and California due to, street blockage near 36th/Albany.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are running w/residual delays following an earlier door problem at Jarvis.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#35 31st/35th buses are temporarily rerouted in both directions via: Kedzie, 36th Place, and California due to, street blockage near 36th/Albany.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-04-30T07:53:00",
-    "EventEnd": "2024-04-30T08:10:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-30T08:12:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99324"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99326"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "31st/35th",
+        "ServiceId": "35",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/35/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "33d1bb73-727a-4309-b91e-b0642ca89542"
+    "GUID": "d61f4ced-336f-42ba-9cbe-7f5d75112acd"
   }
 ]
