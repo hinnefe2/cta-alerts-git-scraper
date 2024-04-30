@@ -127,15 +127,15 @@
   },
   {
     "AlertId": "99342",
-    "Headline": "Red Line Delays",
-    "ShortDescription": "Red Line trains are running w/residual delays following an earlier minor fire at track level near Fullerton. Service is resuming, allow extra time.",
+    "Headline": "Red Line Service Delayed at Fullerton",
+    "ShortDescription": "Red Line trains are standing at Fullerton due to a minor fire at track level. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running w/residual delays following an earlier minor fire at track level near Fullerton.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are standing at Fullerton due to a minor fire at track level.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Shuttle busses have been requested from Howard to State/Lake to provide connecting service through the affected area.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2024-04-30T16:17:00",
     "EventEnd": null,
     "TBD": "1",
@@ -148,12 +148,12 @@
         {
           "ServiceType": "T",
           "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Belmont",
-          "ServiceId": "41320",
+          "ServiceName": "Fullerton",
+          "ServiceId": "41220",
           "ServiceBackColor": "c60c30",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=25"
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=59"
           }
         },
         {
@@ -170,17 +170,6 @@
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
           "ServiceName": "Purple Line Express",
           "ServiceId": "Pexp",
           "ServiceBackColor": "522398",
@@ -192,6 +181,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "6eafb62b-5007-4429-89e4-da36609c538c"
+    "GUID": "f7ceb737-64e7-4e34-aebc-a5ec6c54c339"
   }
 ]
