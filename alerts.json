@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "99329",
-    "Headline": "Forest Park-bound Blue Line Service Delayed at Montrose",
-    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Montrose due to a door problem. Crews working to restore service.",
+    "Headline": "Forest Park-bound Blue Line Service Running with Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running with delays near Montrose following an earlier door problem.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Montrose due to a door problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with delays near Montrose following an earlier door problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -78,6 +78,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "bf2bbb08-9162-40e9-9ed6-0d74a4298c51"
+    "GUID": "bb7b2207-dc88-460e-ac85-89389085336c"
+  },
+  {
+    "AlertId": "99330",
+    "Headline": "#34 South Michigan Temporary Reroute at 130th/Eberhart",
+    "ShortDescription": "34 South Michigan buses are temporarily rerouted via 130th, Indiana, 134th, Langley, and 130th due to, street blockage near 130th/Eberhart.",
+    "FullDescription": {
+      "#cdata-section": "<p>#34 South Michigan buses are temporarily rerouted in both directions via 130th, Indiana, 134th, Langley, and 130th due to, street blockage near 130th/Eberhart.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-30T12:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99330"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Michigan",
+        "ServiceId": "34",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/34/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0e9ea257-db33-45b1-81ae-91e4c0f41aa0"
   }
 ]
