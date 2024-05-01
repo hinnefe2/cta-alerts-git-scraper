@@ -32,5 +32,86 @@
     },
     "ttim": "0",
     "GUID": "8b582928-659e-4c22-aa8e-15a0168d2259"
+  },
+  {
+    "AlertId": "99347",
+    "Headline": "#155 Devon Temporary Westbound Reroute near Devon/Paulina",
+    "ShortDescription": "Westbound 155 Devon buses are temporarily rerouted via Clark, Pratt, Ridge,  and Devon due to construction near Devon/Paulina.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Westbound</strong> #155 Devon buses are temporarily rerouted via Clark, Pratt, Ridge, and Devon, then resume their normal route on&nbsp;Devon.</p>\r\n\r\n<p><strong>Eastbound </strong>buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><span style=\"border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: bolder; font-stretch: inherit; font-size: 12pt; line-height: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: rgb(35, 31, 32) !important;\">Why is service being changed?</span><br />\r\n<span style=\"border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-size: 12pt; line-height: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: rgb(35, 31, 32) !important;\">Buses are rerouted due to&nbsp;construction on Devon/Paulina.</span></p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-30T21:27:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99347"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Devon",
+        "ServiceId": "155",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/155/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6c724792-67f9-48a1-b350-49e045b89b9e"
+  },
+  {
+    "AlertId": "99348",
+    "Headline": "#36 Broadway and #151 Sheridan Temporary Westbound Reroute near Devon/Paulina",
+    "ShortDescription": "Westbound 36 Broadway and 151 Sheridan buses are temporarily rerouted via Clark, Ashland, Foster and into the garage due to construction near Devon/Paulina.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Westbound</strong>&nbsp;#36 Broadway and #151 Sheridan buses are temporarily rerouted via Clark, Ashland, Foster and into the garage due to construction near Devon/Paulina.</p>\r\n\r\n<p><strong>Eastbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-04-30T21:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99348"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Broadway",
+          "ServiceId": "36",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/36/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "09544538-d239-4413-a4f4-76400266b990"
   }
 ]
