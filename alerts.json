@@ -34,37 +34,37 @@
     "GUID": "8e6079cc-3fc7-4ec4-8026-eb5b9a114f10"
   },
   {
-    "AlertId": "99389",
-    "Headline": "Blue Line Delays",
-    "ShortDescription": "Blue Line trains are running w/residual delays following earlier debris on the tracks at Racine. Service is resuming, allow extra time.",
+    "AlertId": "99391",
+    "Headline": "#60 Blue Island/26th Temporary Reroute at 26th/Kenton",
+    "ShortDescription": "60 Blue Island/26th buses are temporarily rerouted via: 26th, Ogden, Kostner, and 26th due to, street blockage near 26th/Kenton.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running w/residual delays following earlier debris on the tracks at Racine.<br />\n<br />\nTrains are moving and normal service is being restored.<br />\n<br />\nAllow extra travel time.</p>\n"
+      "#cdata-section": "<p>#60 Blue Island/26th buses are temporarily rerouted in both directions&nbsp;via: 26th, Ogden, Kostner, and 26th due to, street blockage near 26th/Kenton.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-05-02T11:13:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-05-02T11:22:00",
+    "EventEnd": "2024-05-05T11:22:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99389"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99391"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Blue Island/26th",
+        "ServiceId": "60",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/60/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "1e571966-cb47-4ce3-a556-be6d0d082f53"
+    "GUID": "afb63899-d41d-4326-974d-0e28af9653ec"
   }
 ]
