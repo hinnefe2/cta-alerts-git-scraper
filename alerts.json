@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "bb7c3acb-b2ad-4771-87d8-8280d86dd5d8"
+  },
+  {
+    "AlertId": "99490",
+    "Headline": "95th-bound Red Line Service Delayed at Chicago",
+    "ShortDescription": "95th-bound Red Line trains are standing at Chicago due to a door problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are standing at Chicago due to a door problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-05-08T15:29:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99490"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Chicago",
+          "ServiceId": "41450",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=38"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "baece8de-474b-4004-8489-1e1f00d798b6"
   }
 ]
