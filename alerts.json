@@ -251,5 +251,52 @@
     },
     "ttim": "1",
     "GUID": "545daea2-f77d-4125-a2b2-eac9d698f44f"
+  },
+  {
+    "AlertId": "99496",
+    "Headline": "#143 Stockton/Michigan Express, #147 Outer DuSable Lake Shore Express Temporary Eastbound Reroute near Michigan/Congress Plaza",
+    "ShortDescription": "EB 143 Stockton/Michigan , #147 Outer DuSable Lake Shore buses are temp rerouted via Michigan, Harrison, Wabash and Balbo: near Michigan/Congress Plaza.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound&nbsp;#143 Stockton/Michigan Express, #147 Outer DuSable Lake Shore Express&nbsp; buses are temporarily rerouted via Michigan, Harrison, Wabash and Balbo&nbsp;including the normal route streets at the beginning and end, due to street blockage near Michigan/Congress Plaza.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-05-08T16:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99496"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stockton/Michigan Express",
+          "ServiceId": "143",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/143/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "7ab5f7c3-0c24-44c8-92b9-e475ff5cee25"
   }
 ]
