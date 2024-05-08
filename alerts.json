@@ -102,37 +102,50 @@
     "GUID": "bb7c3acb-b2ad-4771-87d8-8280d86dd5d8"
   },
   {
-    "AlertId": "99477",
-    "Headline": "Harlem-bound Green Line Service Delayed at California",
-    "ShortDescription": "Harlem-bound Green Line trains are standing at California. Crews working to restore service.",
+    "AlertId": "99478",
+    "Headline": "Green & Pink Line Service Experiencing Significant Delays Due to Raised Bridge",
+    "ShortDescription": "Green & Pink Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.",
     "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green Line trains are standing at California. Crews working to restore service.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green &amp; Pink Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.</p>\r\n\r\n<p>Some trains may be either held or&nbsp;rerouted before reaching the bridge (in order&nbsp;to maintain service across the remainder of the route). Listen for announcements and check train destination signs when boarding.</p>\r\n\r\n<p>We apologize for this temporary inconvenience and appreciate your patience while the Chicago Department of Transportation works to complete the bridge operation. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-05-08T10:52:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-05-08T11:17:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99477"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99478"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "fcfff369-21b9-4c23-993b-31dcf6bc59a1"
+    "GUID": "a8356359-f7a6-49ab-9c14-10d5b8a008f8"
   }
 ]
