@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "bb7c3acb-b2ad-4771-87d8-8280d86dd5d8"
+  },
+  {
+    "AlertId": "99493",
+    "Headline": "#7 Harrison, #126 Jackson Temporary Eastbound Reroute near Michigan/Congress Plaza",
+    "ShortDescription": "Eastbound 7 Harrison, 26 Jackson buses are temporarily rerouted via Michigan, Harrison, Wabash and Balbo: due to, street blockage near Michigan/Congress Plaza.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #7 Harrison, #126 Jackson buses are temporarily rerouted via Michigan, Harrison, Wabash and Balbo: due to, street blockage near Michigan/Congress Plaza.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-05-08T16:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99493"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Harrison",
+          "ServiceId": "7",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/7/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson",
+          "ServiceId": "126",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/126/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d1aa9731-a282-4ef8-91d8-c41566a61235"
   }
 ]
