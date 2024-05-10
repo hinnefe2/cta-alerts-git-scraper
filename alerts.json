@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "99526",
-    "Headline": "Delays on Loop 'L' (elevated lines)",
-    "ShortDescription": "Brown, Green, Orange, Purple & Pink Line trains are experiencing delays due to a sick customer near Library.",
+    "Headline": "Green, Orange, Pink, Purple and Brown Line Delays",
+    "ShortDescription": "Green, Orange, Pink, Purple and Brown Line trains are running w/residual delays   at Library. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown, Green, Orange, Purple &amp; Pink Line trains are experiencing delays due to a sick customer near Library.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green, Orange, Pink, Purple and Brown Line trains are running w/residual delays&nbsp; following an earlier sick customer at Library.&nbsp;</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -78,6 +78,17 @@
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
           "ServiceName": "Brown Line",
           "ServiceId": "Brn",
           "ServiceBackColor": "62361b",
@@ -111,6 +122,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "405723f8-0ff2-4851-9c46-593ccde184ad"
+    "GUID": "0e218542-bd79-4877-817d-1021b16b13df"
   }
 ]
