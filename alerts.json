@@ -32,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "cdc418dd-4d01-4bac-9c41-f6cf37e4b514"
+  },
+  {
+    "AlertId": "99542",
+    "Headline": "Orange Line Service Running with Delays",
+    "ShortDescription": "Orange Line trains are running with delays due to to a shortage of available staff; we're working to run as much service as possible. Allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange Line trains are running with delays due to a temporary shortage of available staff.</p>\r\n\r\n<p>At this time, our operations staff are working to run as much service as frequently and manage service to be spaced as evenly as possible.</p>\r\n\r\n<p>Consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-05-12T04:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99542"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3cf595a9-69a1-47dd-bd32-010bf348cbc5"
   }
 ]
