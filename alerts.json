@@ -1,18 +1,18 @@
 [
   {
     "AlertId": "99547",
-    "Headline": "Pink Line Service Delayed near Cicero",
-    "ShortDescription": "Pink Line trains are standing near Cicero due to police activity. Crews working to restore service.",
+    "Headline": "Pink Line Delays",
+    "ShortDescription": "Pink Line trains are running w/residual delays following earlier police activity near Cicero. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Pink Line trains are standing near Cicero due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Pink Line trains are running w/residual delays following earlier police activity near Cicero.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Significant Delays",
     "EventStart": "2024-05-12T08:52:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventEnd": "2024-05-12T09:25:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99547"
@@ -31,40 +31,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "45d7c509-dc8e-428c-82de-9f656cc48c09"
-  },
-  {
-    "AlertId": "99548",
-    "Headline": "Pink Line Service Delays",
-    "ShortDescription": "Normal service on the Pink Line have resumed after an earlier police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p><span style=\"font-family: &quot;Times New Roman&quot;;\">Normal service on the Pink&nbsp;Line have resumed after an earlier police activity. Trains are moving and normal service is being restored. </span></p>\r\n\r\n<p><span style=\"font-family: &quot;Times New Roman&quot;;\">Allow extra travel time.</span></p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-05-12T09:00:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99548"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "9af93efd-bd8b-44b8-b521-3c5e87b9225f"
+    "GUID": "931839da-e5f2-472e-81bd-98da82badb0b"
   }
 ]
