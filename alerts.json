@@ -6,10 +6,10 @@
     "FullDescription": {
       "#cdata-section": "<p>95th-bound Red Line trains are running with residual delays and congestion following an earlier sick customer at Monroe.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2024-05-13T06:04:00",
     "EventEnd": "2024-05-13T06:40:00",
     "TBD": "0",
@@ -31,7 +31,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "8556d9bd-96fb-40b5-9e49-13ca8f6e72d0"
+    "GUID": "724fff50-cd9c-4300-aae5-052e66462aa6"
   },
   {
     "AlertId": "99565",
@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "8c107ac9-e33a-40e4-9965-16423263cf60"
+  },
+  {
+    "AlertId": "99566",
+    "Headline": "#49 Western Temporary Southbound Reroute near Western/29th",
+    "ShortDescription": "Southbound 49 Western buses are temporarily rerouted via Western, 31st, California, 35th & Western: due to, street blockage near Western/29th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #49 Western buses are temporarily rerouted via Western, 31st, California, 35th and&nbsp;Western: due to, street blockage near Western/29th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-05-13T06:27:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99566"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Western",
+        "ServiceId": "49",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/49/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6943e926-5fee-460b-974b-1a2f4f2e2f28"
   }
 ]
