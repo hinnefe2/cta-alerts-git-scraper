@@ -1,36 +1,104 @@
 [
   {
-    "AlertId": "99618",
-    "Headline": "#68 Northwest Highway Temporary Reroute at Northwest Hwy/Overhill",
-    "ShortDescription": "68 Northwest Highway buses are temporarily rerouted via Northwest Highway, Canfield and Devon: due to, street blockage near Northwest Hwy/Overhill.",
+    "AlertId": "99621",
+    "Headline": "#44 Wallace/Racine Temporary Reroute at Racine/82nd",
+    "ShortDescription": "44 Wallace/Racine buses are temporarily rerouted via Racine, 79th, Loomis and 83rd: due to, street blockage near Racine/82nd.",
     "FullDescription": {
-      "#cdata-section": "<p>#68 Northwest Highway&nbsp;buses are temporarily rerouted via Northwest Highway, Canfield and Devon: due to, street blockage near Northwest Hwy/Overhill.</p>\r\n"
+      "#cdata-section": "<p>#44 Wallace/Racine buses are temporarily rerouted via Racine, 79th, Loomis and 83rd: due to, street blockage near Racine/82nd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-05-15T16:38:00",
+    "EventStart": "2024-05-15T21:05:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99618"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99621"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Northwest Highway",
-        "ServiceId": "68",
+        "ServiceName": "Wallace/Racine",
+        "ServiceId": "44",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/68/"
+          "#cdata-section": "http://www.transitchicago.com/bus/44/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "ec0d7b97-5a40-48f3-92a5-63adb684afae"
+    "GUID": "a4401b74-7750-4a0e-aa51-064940a9d39c"
+  },
+  {
+    "AlertId": "99622",
+    "Headline": "#18 16th-18th Temporary Reroute at Halsted/14th",
+    "ShortDescription": "18 16th-18th  buses are temporarily rerouted via Roosevelt, Racine and 18th-16th: due to, street blockage near Halsted/47th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#18 16th-18th&nbsp; buses are temporarily rerouted via Roosevelt, Racine and 18th-16th: due to, street blockage near Halsted/47th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-05-15T21:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99622"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "16th-18th",
+        "ServiceId": "18",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/18/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2a62629f-82f7-4bee-8a5f-f584775acfbf"
+  },
+  {
+    "AlertId": "99623",
+    "Headline": "#8 Halsted Temporary Reroute at Halsted/14th",
+    "ShortDescription": "8 Halsted buses are temporarily rerouted via Halsted, Roosevelt, Racine and 18th: due to, street blockage near Halsted/14th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#8 Halsted buses are temporarily rerouted via Halsted, Roosevelt, Racine and 18th: due to, street blockage near Halsted/14th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-05-15T21:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99623"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Halsted",
+        "ServiceId": "8",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/8/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4cd51eb7-d400-4a11-b2b3-c5db80a071e6"
   }
 ]
