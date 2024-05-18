@@ -236,5 +236,39 @@
     },
     "ttim": "0",
     "GUID": "cd4d43d5-b134-494c-ba62-452e79851c54"
+  },
+  {
+    "AlertId": "99702",
+    "Headline": "Yellow Line Service Temporarily Suspended",
+    "ShortDescription": "Service on the Yellow Line has been temporarily suspended due to signal problems.",
+    "FullDescription": {
+      "#cdata-section": "<p>Service on the Yellow Line has been temporarily suspended due to signal problems.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines. Consider using the #97 Skokie bus to provide continued service.</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "90",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Suspended",
+    "EventStart": "2024-05-18T17:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "1",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99702"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Yellow Line",
+        "ServiceId": "Y",
+        "ServiceBackColor": "f9e300",
+        "ServiceTextColor": "000000",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/yellowline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8cc539d2-c33c-41f3-8deb-78949a4b7742"
   }
 ]
