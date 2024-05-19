@@ -168,5 +168,39 @@
     },
     "ttim": "0",
     "GUID": "7e70e97a-0ad2-4188-9764-f7cd3a168a66"
+  },
+  {
+    "AlertId": "99706",
+    "Headline": "#29 State Temporary Northbound Reroute near Sate/67th",
+    "ShortDescription": "Northbound 29 State buses are rerouted via State, Marquette, King Drive, 63rd, then resume their regular route on State due to police activity near Sate/67th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Northbound</strong>&nbsp;#29 State buses are temporarily rerouted via State, Marquette, King Drive, 63rd, then resume their regular route on State due to police activity near Sate/67th.</p>\r\n\r\n<p><strong>Southbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-05-18T21:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99706"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "995af1d9-cc7d-4a67-994a-910c057c5035"
   }
 ]
