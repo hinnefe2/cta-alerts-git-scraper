@@ -70,9 +70,9 @@
   {
     "AlertId": "99721",
     "Headline": "Pink Line Service Running with Delays",
-    "ShortDescription": "Pink Line trains are running with delays due to to a shortage of available staff; we're working to run as much service as possible. Allow extra time.",
+    "ShortDescription": "Pink Line trains are running with delays; we're working to run as much service as possible. Allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Pink Line&nbsp;trains are running with delays due to a temporary shortage of available staff.</p>\r\n\r\n<p>At this time, our operations staff are&nbsp;working to run as much service as frequently and manage service to be spaced as evenly as possible.</p>\r\n\r\n<p>Consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Pink Line&nbsp;trains are running with delays.</p>\r\n\r\n<p>At this time, our operations staff are&nbsp;working to run as much service as frequently and manage service to be spaced as evenly as possible.</p>\r\n\r\n<p>Consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -99,6 +99,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "264121cb-75aa-485c-9f59-ec5bb56a07d6"
+    "GUID": "4893feeb-9abd-4f69-9729-2aba61713613"
+  },
+  {
+    "AlertId": "99722",
+    "Headline": "Forest Park-bound Blue Line Service Running with Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running w/delays; we're working to run as much service as possible. Allow extra time",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with delays.</p>\r\n\r\n<p>At this time, our operations staff are working to run as much service as frequently and manage service to be spaced as evenly as possible.</p>\r\n\r\n<p>Consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-05-20T00:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99722"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2d888355-6b34-441b-8b6c-89879f1c5a37"
   }
 ]
