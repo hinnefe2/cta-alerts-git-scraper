@@ -2,9 +2,9 @@
   {
     "AlertId": "99738",
     "Headline": "#62 Archer Temporary Reroute at Archer/Wood",
-    "ShortDescription": "62 Archer buses are temporarily rerouted via Archer, Wood, 35th Street, then continue their normal route on Archer due to street blockage near Archer/Wood. ",
+    "ShortDescription": "62 Archer buses are temporarily rerouted via Archer, Wood, 35th Street, then resume their normal route on Archer due to street blockage near Archer/Wood. ",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><span style=\"font-weight: bolder;\">#</span>62 Archer buses are temporarily rerouted via Archer, Wood, 35th Street, then continue their normal route on Archer due to street blockage near Archer/Wood.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><span style=\"font-weight: bolder;\">#</span>62 Archer buses are temporarily rerouted via Archer, Wood, 35th Street, then resume their normal route on Archer due to street blockage near Archer/Wood.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "3c7c9845-7b68-4fa5-b30c-6fe2874a3820"
+    "GUID": "92f8ec2f-0c3f-47ee-81bd-a2c4b3dde112"
+  },
+  {
+    "AlertId": "99739",
+    "Headline": "#50 Damen Temporary Reroute at Archer/Wood",
+    "ShortDescription": "50 Damen buses are rerouted via Damen, Blue Island, Western, 35th Street, Leavitt, then resume their normal route on Damen due to street blockage nr Archer/Wood",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#50 Damen buses are temporarily rerouted in both directions via Damen, Blue Island, Western, 35th Street, Leavitt, then resume their normal route on Damen due to street blockage near Archer/Wood.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-05-21T04:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99739"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Damen",
+        "ServiceId": "50",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/50/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d0c34bb7-ab0d-4e39-b7ff-dac62f5b460a"
   }
 ]
