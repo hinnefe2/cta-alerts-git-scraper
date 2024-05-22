@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "558cbb56-143e-4cfd-b968-44e26c96b379"
+  },
+  {
+    "AlertId": "99787",
+    "Headline": "95th-bound Red & Loop-bound Purple Line Delays",
+    "ShortDescription": "95th-bound Red & Loop-bound Purple Line trains running w/residual delays following an earlier signal problem near Wilson. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red &amp; Loop-bound Purple Line trains are running with residual delays and congestion following an earlier signal problem near Wilson.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-05-22T07:56:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99787"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "eacc9d03-e1e1-440f-aca6-bc0f606692ef"
   }
 ]
