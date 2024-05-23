@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "dbbcfe26-6f30-4ba0-af00-b3fbd219e428"
+  },
+  {
+    "AlertId": "99802",
+    "Headline": "#X9 Ashland Express and #9 Ashland Temporary Reroute at Ashland/42nd",
+    "ShortDescription": "X9 Ashland Exp & 9 Ashland buses are rerouted in both directions via Ashland, Pershing, Halsted, 47th and Ashland due to police activity near Ashland/42nd.   ",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my route?</strong></p>\r\n\r\n<p><strong>#X9 Ashland Express </strong>and <strong>#9 Ashland </strong>buses are temporarily rerouted in both directions via Ashland, Pershing, Halsted, 47th, then resume their normal route on Ashland due to police activity near Ashland/42nd.&nbsp; &nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-05-22T19:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99802"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1428ba74-368c-4799-a946-99ca224232e8"
   }
 ]
