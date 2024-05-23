@@ -147,5 +147,73 @@
     },
     "ttim": "0",
     "GUID": "1428ba74-368c-4799-a946-99ca224232e8"
+  },
+  {
+    "AlertId": "99803",
+    "Headline": "No trains between 54th/Cermak and Central Park",
+    "ShortDescription": "Pink Line service has been temporarily suspended between 54th/Cermak and Central Park due to an unauthorized person on the tracks at Cicero.",
+    "FullDescription": {
+      "#cdata-section": "<p>Pink Line service has been temporarily suspended between 54th/Cermak and Central Park due to an unauthorized person on the tracks at Cicero.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between the Loop&nbsp;and Central Park&nbsp;at this time.</strong></p>\r\n\r\n<ul>\r\n\t<li>Shuttle buses have been requested between 54th/Cermak and Central Park&nbsp;to provide connecting service in both directions.</li>\r\n</ul>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<ul>\r\n\t<li><strong>#21 Cermak</strong> buses to provide connecting service Eastbound and Westbound, and</li>\r\n\t<li><strong>#54 Cicero</strong> buses to provide connecting service Northbound and Southbound.</li>\r\n</ul>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2024-05-22T19:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99803"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "331b1f99-5325-4fd4-9f50-b2508312d31f"
+  },
+  {
+    "AlertId": "99804",
+    "Headline": "#54 Cicero Temporary Reroute at Cicero/Cermak",
+    "ShortDescription": "54 Cicero buses are rerouted in both directions via Cicero, 16th, Cermak, then resume their normal route on Cicero due to street blockage near Cicero/Cermak.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#54 Cicero buses are temporarily rerouted in both directions via Cicero, 16th, Cermak, then resume their normal route on Cicero due to street blockage near Cicero/Cermak.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-05-22T20:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99804"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cicero",
+        "ServiceId": "54",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a85aadf1-a171-49e2-b9f7-e7f593247189"
   }
 ]
