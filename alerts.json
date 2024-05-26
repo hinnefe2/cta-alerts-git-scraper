@@ -34,37 +34,37 @@
     "GUID": "5caa0297-213a-49ad-bd56-9fa1f888f43c"
   },
   {
-    "AlertId": "99859",
-    "Headline": "Pink Line Delays",
-    "ShortDescription": "Pink Line trains are running w/residual delays following an earlier unauthorized person on the tracks near Cicero. Service is resuming, allow extra time.",
+    "AlertId": "99860",
+    "Headline": "#49 Western Temporary Reroute at Western/31st Blvd",
+    "ShortDescription": "49 Western buses are temporarily rerouted via Western, 35th, California, 26th, & Western, due to street blockage near Western/31st Blvd.",
     "FullDescription": {
-      "#cdata-section": "<p>Pink Line trains are running with residual delays following an earlier unauthorized person on the tracks near Cicero.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#49 Western buses are temporarily rerouted in both directions via Western, 35th, California, 26th, &amp; Western, due to street blockage near Western/31st Blvd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-05-26T05:30:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-05-26T05:49:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99859"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99860"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Western",
+        "ServiceId": "49",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/49/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "c2f338ea-4bb2-45bc-bc06-d7cada4024fc"
+    "GUID": "3cdf93e7-027f-453f-bc84-88ee82c65556"
   }
 ]
