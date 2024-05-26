@@ -36,7 +36,7 @@
   {
     "AlertId": "99849",
     "Headline": "#3 King Drive, #4 Cottage Grove, #6 Jackson Park Express & #J14 Jeffery Jump Temporary Reroute near Michigan/Adams",
-    "ShortDescription": "3 King Dr, #4 Cott Grv, 6 Jksn Park Exp & J14 Jeff Jump Exp buses rerouted NB: Mchgn, Rsm't, State, Monroe & Mchgn; SB: Mchgn, Madison, State Rsm't & Mchgn.",
+    "ShortDescription": "3 King Dr, #4 Cott Grv, 6 Jksn Park Exp & J14 Jeff Jump Exp buses rerouted NB: Mchgn, Rsm't, State, Monroe & Mchgn; SB: Mchgn, Madison, State, Rsm't & Mchgn.",
     "FullDescription": {
       "#cdata-section": "<p>#3 King Drive, #4 Cottage Grove, #6 Jackson Park Express and&nbsp;#J14 Jeffery Jump&nbsp;buses are temporarily rerouted in both directions,&nbsp;due to street blockage&nbsp;near Michigan/Adams.</p>\r\n\r\n<p>Northbound buses will operate via Michigan, Roosevelt, State, Monroe and Michigan.</p>\r\n\r\n<p>Southbound buses will operate via Michigan, Madison, State, Roosevelt and Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
@@ -100,40 +100,87 @@
       ]
     },
     "ttim": "0",
-    "GUID": "0b4814e1-5d29-4e3c-90fc-f2a81cc0cdf7"
+    "GUID": "7ae9cd71-782e-4c93-8d1f-c5b6956b8999"
   },
   {
-    "AlertId": "99850",
-    "Headline": "Howard-bound Red Line trains bypassing Cermak-Chinatown",
-    "ShortDescription": "Howard-bound Red Line trains are running, but not stopping at Cermak-Chinatown due to police activity.",
+    "AlertId": "99851",
+    "Headline": "#146 Inner Lake Shore/Michigan Express & #147 Outer DuSable Lake Shore Express Temporary Reroute near Michigan/Adams",
+    "ShortDescription": "146 Inner Lk Shore/Mchgn Exp & 147 Outer DuSable Lk Shore Exp  buses rerouted NB: Mchgn, Rsm't, State, Monroe & Mchgn; SB: Mchgn, Mdsn, State, Rsm't & Mchgn.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are running, but not stopping at Cermak-Chinatown due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express &amp; #147 Outer DuSable Lake Shore Express buses are temporarily rerouted in both directions, due to street blockage near Michigan/Adams.</p>\r\n\r\n<p>Northbound buses will operate via Michigan, Roosevelt, State, Monroe and Michigan.</p>\r\n\r\n<p>Southbound buses will operate via Michigan, Madison, State, Roosevelt and Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "58",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2024-05-25T22:19:00",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-05-25T22:23:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99850"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99851"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "89e160c1-bf72-40c6-ab73-ee27fb63f05d"
+  },
+  {
+    "AlertId": "99852",
+    "Headline": "#151 Sheridan Temporary Reroute near Michigan/Adams",
+    "ShortDescription": "#151 Sheridan buses temp. rerouted NB: Mchgn, Rsm't, State, Monroe & Mchgn; SB: Mchgn, Madison, State, Rsm't & Mchgn.",
+    "FullDescription": {
+      "#cdata-section": "<p>#151 Sheridan&nbsp;buses are temporarily rerouted in both directions,&nbsp;due to street blockage&nbsp;near Michigan/Adams.</p>\r\n\r\n<p>Northbound buses will operate via Michigan, Roosevelt, State, Monroe and Michigan.</p>\r\n\r\n<p>Southbound buses will operate via Michigan, Madison, State, Roosevelt and Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-05-25T22:30:00",
+    "EventEnd": "2024-05-28T22:30:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99852"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Sheridan",
+        "ServiceId": "151",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/151/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "c2d36188-00ce-4fd4-a987-6364f763a618"
+    "GUID": "70ab5cfd-16e6-4f12-99c3-65b79e06d1e8"
   }
 ]
