@@ -34,37 +34,72 @@
     "GUID": "5bbabd61-2da0-4008-b20b-f683c1101248"
   },
   {
-    "AlertId": "99848",
-    "Headline": "Howard-bound Red Line Delays",
-    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays and congestion following an earlier sick customer at Clark/Division. Service is resuming.",
+    "AlertId": "99849",
+    "Headline": "#3 King Drive, #4 Cottage Grove, #6 Jackson Park Express & #J14 Jeffery Jump Temporary Reroute near Michigan/Adams",
+    "ShortDescription": "3 King Dr, #4 Cott Grv, 6 Jksn Park Exp & J14 Jeff Jump Exp buses rerouted NB: Mchgn, Rsm't, State, Monroe & Mchgn; SB: Mchgn, Madison, State Rsm't & Mchgn.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are running with residual delays and congestion following an earlier sick customer at Clark/Division.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#3 King Drive, #4 Cottage Grove, #6 Jackson Park Express and&nbsp;#J14 Jeffery Jump&nbsp;buses are temporarily rerouted in both directions,&nbsp;due to street blockage&nbsp;near Michigan/Adams.</p>\r\n\r\n<p>Northbound buses will operate via Michigan, Roosevelt, State, Monroe and Michigan.</p>\r\n\r\n<p>Southbound buses will operate via Michigan, Madison, State, Roosevelt and Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-05-25T21:53:00",
-    "EventEnd": "2024-05-25T22:15:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-05-25T22:11:00",
+    "EventEnd": "2024-05-28T22:11:00",
     "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99848"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99849"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "King Drive",
+          "ServiceId": "3",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/3/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "d72f8bdd-6c65-4462-b007-931e02c28a45"
+    "GUID": "0b4814e1-5d29-4e3c-90fc-f2a81cc0cdf7"
   }
 ]
