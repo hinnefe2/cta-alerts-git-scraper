@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "99867",
-    "Headline": "Green & Pink Line Service Delayed near Ashland/Lake",
-    "ShortDescription": "Green & Pink Line Line trains are standing near Ashland/Lake due to a signal problem. Crews working to restore service.",
+    "Headline": "Green and Pink Line Delays",
+    "ShortDescription": "Green and Pink Line trains are running w/residual delays following earlier signal problems at Ashland/Lake. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Green &amp; Pink Line Line trains are standing near Ashland/Lake due to a signal problem. Crews working to restore service.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green and Pink Line trains are running w/residual delays following earlier signal problems at Ashland/Lake.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -19,6 +19,17 @@
     },
     "ImpactedService": {
       "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Ashland",
+          "ServiceId": "40170",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=21"
+          }
+        },
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
@@ -44,6 +55,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "dc329fcf-3228-465e-9b29-f37f4074d39a"
+    "GUID": "d62fb296-918b-44cf-a425-b328b0bc9c57"
   }
 ]
