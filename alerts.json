@@ -32,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "0e8aa9ba-0621-4d7e-8940-b18e31b6a8c8"
+  },
+  {
+    "AlertId": "99880",
+    "Headline": "Purple Line Delays, Limited Service Between Howard and Central",
+    "ShortDescription": "Purple Line service experiencing delays due to signal problems at Linden; limited service via train shuttle available btwn Howard & Central.",
+    "FullDescription": {
+      "#cdata-section": "<p>Purple Line trains are experiencing delays to due signal problems at&nbsp;Linden.</p>\r\n\r\n<p>As a result, trains are operating as follow:</p>\r\n\r\n<ul>\r\n\t<li>between Howard and Central&nbsp; (Howard bound Only)&nbsp;</li>\r\n</ul>\r\n\r\n<p>: Bus shuttles are also available from Howard to Central&nbsp;to help make connections in both directions.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "88",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption / Major Delays",
+    "EventStart": "2024-05-27T14:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99880"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "95fbd93f-3078-4e40-ae99-921e2a3d636a"
   }
 ]
