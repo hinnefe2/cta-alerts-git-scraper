@@ -45,5 +45,52 @@
     },
     "ttim": "0",
     "GUID": "158c6a3f-4f98-4585-aaa8-42b7b9e726e8"
+  },
+  {
+    "AlertId": "99870",
+    "Headline": "#6 Jackson Park Express, #J14 Jeffery Jump Temporary Reroute near Michigan/Monroe",
+    "ShortDescription": "6, J14 buses temp. rerouted NB: Michigan, Roosevelt, State, Monroe and Michigan ; SB Michigan, Madison, State, Roosevelt and Michigan: near Michigan/Monroe.",
+    "FullDescription": {
+      "#cdata-section": "<p>#6 Jackson Park Express, #J14 Jeffery Jump buses are temporarily rerouted in both directions near Michigan/Monroe, due to street blockage near Michigan/Monroe.</p>\r\n\r\n<p>Northbound&nbsp;buses will operate via Michigan, Roosevelt, State, Monroe and Michigan&nbsp;including the normal route streets at the beginning and end.</p>\r\n\r\n<p>Southbound buses will operate via Michigan, Madison, State, Roosevelt and Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-05-26T20:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99870"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d0beba5d-7c09-4cb1-88e7-3e1d0992c984"
   }
 ]
