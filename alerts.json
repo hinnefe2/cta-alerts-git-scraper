@@ -45,5 +45,52 @@
     },
     "ttim": "0",
     "GUID": "6ec27fa1-6c80-4cee-860b-205101105f94"
+  },
+  {
+    "AlertId": "99923",
+    "Headline": "Purple Line Service Running with Delays",
+    "ShortDescription": "Purple Line trains are running with delays at Linden due to signal problems.",
+    "FullDescription": {
+      "#cdata-section": "<p>Purple Line trains are running with delays at Linden due to signal problems.</p>\n\n<p>At this time, also consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\n\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-05-29T09:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99923"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "283e04ae-617d-4937-979e-567f8aa774a3"
   }
 ]
