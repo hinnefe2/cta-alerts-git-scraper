@@ -34,45 +34,11 @@
     "GUID": "0d45899d-0c8f-4987-9b9b-4b84201ca27b"
   },
   {
-    "AlertId": "99973",
-    "Headline": "#9 Ashland Temporary Reroute near 95th LaSalle",
-    "ShortDescription": "9 Ashland buses temp. rerouted SB via 95th, Halsted, 87th, Lafayette & 95th: NB via 95th, State, 87th, Halsted & 95th due to police activity near 95th LaSalle.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#9 Ashland&nbsp;buses are temporarily rerouted in both directions due to police activity near 95th LaSalle.</p>\r\n\r\n<ul>\r\n\t<li><strong>Southbound</strong> buses will operate via 95th, Halsted, 87th, Lafayette, then resume their normal route on 95th.</li>\r\n\t<li><strong>Northbound</strong> buses will operate via 95th, State, 87th, Halsted, then resume their normal route on 95th.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-05-31T02:08:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99973"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Ashland",
-        "ServiceId": "9",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/9/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8ebac71b-6424-47dd-af01-376054fe1b5d"
-  },
-  {
     "AlertId": "99974",
-    "Headline": "#9 Ashland Temporary Reroute near 95th LaSalle",
-    "ShortDescription": "9 Ashland buses temp. rerouted SB via 95th, Halsted, 87th, Lafayette & 95th: NB via 95th, State, 87th, Halsted & 95th due to police activity near 95th LaSalle.",
+    "Headline": "#9 Ashland, #108 Halsted/95th & #112 Vincennes/111th Temporary Reroute near 95th LaSalle",
+    "ShortDescription": "9. 108 & 112 buses rerouted SB via 95th, Halsted, 87th, Lafayette & 95th: NB via 95th, State, 87th, Halsted & 95th due to police activity near 95th LaSalle.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#9 Ashland&nbsp;buses are temporarily rerouted in both directions due to police activity near 95th LaSalle.</p>\r\n\r\n<ul>\r\n\t<li><strong>Southbound</strong> buses will operate via 95th, Halsted, 87th, Lafayette, then resume their normal route on 95th.</li>\r\n\t<li><strong>Northbound</strong> buses will operate via 95th, State, 87th, Halsted, then resume their normal route on 95th.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#9 Ashland, #108 Halsted/95th and&nbsp;#112 Vincennes/111th buses are temporarily rerouted in both directions due to police activity near 95th LaSalle.</p>\r\n\r\n<ul>\r\n\t<li><strong>Southbound</strong> buses will operate via 95th, Halsted, 87th, Lafayette, then resume their normal route on 95th.</li>\r\n\t<li><strong>Northbound</strong> buses will operate via 95th, State, 87th, Halsted, then resume their normal route on 95th.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -86,19 +52,43 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=99974"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Ashland",
-        "ServiceId": "9",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/9/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Halsted/95th",
+          "ServiceId": "108",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "565a5c",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/108/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Vincennes/111th",
+          "ServiceId": "112",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/112/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "5708a6a9-9f5f-4989-baca-91b457476c1b"
+    "GUID": "248e591c-3264-4aa6-80c5-9410f5896df8"
   }
 ]
