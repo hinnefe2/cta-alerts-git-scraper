@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "AlertId": "100003",
+    "Headline": "Pink Line Service Running with Delays",
+    "ShortDescription": "Pink Line trains are running with delays near Adams/Wabash due to track maintenance.",
+    "FullDescription": {
+      "#cdata-section": "<p>Pink Line trains are running with delays near Adams/Wabash due to track maintenance.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-06-01T10:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100003"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "53f92abf-72e8-4d93-b46c-6f47303f7bf8"
+  }
+]
