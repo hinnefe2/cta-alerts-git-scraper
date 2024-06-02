@@ -100,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "e5df2dc0-68ca-4893-a67b-f3786081055f"
+  },
+  {
+    "AlertId": "100019",
+    "Headline": "Loop-bound Pink Line Service Delayed at 54th/Cermak",
+    "ShortDescription": "Loop-bound Pink Line trains are standing at 54th/Cermak due to a mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Pink Line trains are standing at 54th/Cermak due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-06-02T09:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100019"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "54f58a69-2c18-4db1-aeb5-0d75b7aef94b"
   }
 ]
