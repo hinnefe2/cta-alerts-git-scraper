@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "e40eb723-6ede-40c7-8403-5a124ba73ed7"
+  },
+  {
+    "AlertId": "100032",
+    "Headline": "Red Line Service Delayed at 63rd",
+    "ShortDescription": "Red Line trains are standing at 63rd due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are standing at 63rd due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-06-03T03:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100032"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a2e20d56-a426-45cd-80c5-6276828a2749"
   }
 ]
