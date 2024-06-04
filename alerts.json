@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "100063",
+    "Headline": "#6 Jackson Park Express & #67 67th-69th-71st Temporary Reroute at 67th/Jeffery",
+    "ShortDescription": "6 Jackson Park Express & 67 67th-69th-71st buses are temporarily rerouted via 67th, Jeffery (left), and DuSable Lake Shore (right) which turns into South Shore.",
+    "FullDescription": {
+      "#cdata-section": "<p>#6 Jackson Park Express and&nbsp;#67 67th-69th-71st buses are temporarily rerouted in both directions via 67th, Jeffery (left), and DuSable Lake Shore (right) which turns into South Shore,&nbsp;due to street blockage near 67th/Jeffery.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-04T15:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100063"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "67th-69th-71st",
+          "ServiceId": "67",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/67/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "898bd43b-e734-4194-9146-c363d2ab1359"
+  }
+]
