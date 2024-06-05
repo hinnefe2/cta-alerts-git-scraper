@@ -134,5 +134,52 @@
     },
     "ttim": "0",
     "GUID": "81cca5b0-fd59-4180-947a-ec45b7630805"
+  },
+  {
+    "AlertId": "100096",
+    "Headline": "#85 Central & #85A North Central Temporary Northbound Reroute near Milwaukee/Higgins",
+    "ShortDescription": "NB 85 Central & 85A North Central buses are temporarily rerouted via Gate, Higgins & Central: due to, street blockage near Milwaukee/Higgins.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound&nbsp;#85 Central and&nbsp;#85A North Central buses are temporarily rerouted via Gate, Higgins and&nbsp;Central: due to, street blockage near Milwaukee/Higgins.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-05T09:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100096"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Central",
+          "ServiceId": "85",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/85/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "North Central",
+          "ServiceId": "85A",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/85a/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "51452ba6-a8d9-464e-bb6c-8ccab4c35512"
   }
 ]
