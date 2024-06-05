@@ -34,37 +34,37 @@
     "GUID": "c4a8dd0e-360a-48b3-ab2d-0ffbf14bfd7e"
   },
   {
-    "AlertId": "100088",
-    "Headline": "Forest Park-bound Blue Line Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following an earlier mechanical problem at Addison. Service is resuming, allow extra time.",
+    "AlertId": "100091",
+    "Headline": "#115 Pullman/115th Temporary Reroute at 115th/State",
+    "ShortDescription": "115 Pullman/115th buses are temporarily rerouted via 115th, Michigan, 119th, Wentworth and 115th: due to, street blockage near 115th/State.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with residual delays following an earlier mechanical problem at Addison.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#115 Pullman/115th buses are temporarily rerouted via 115th, Michigan, 119th, Wentworth and 115th: due to, street blockage near 115th/State.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-06-05T07:29:00",
-    "EventEnd": "2024-06-05T07:45:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-05T07:44:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100088"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100091"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pullman/115th",
+        "ServiceId": "115",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/115/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "fb536ee5-6449-4a7c-b325-f490e09ed0f2"
+    "GUID": "f7d1d7ff-9147-4d7f-a9f2-9acd3dad5f03"
   }
 ]
