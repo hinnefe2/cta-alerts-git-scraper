@@ -66,5 +66,73 @@
     },
     "ttim": "0",
     "GUID": "0cc967a7-7da5-4276-bc74-63a276439699"
+  },
+  {
+    "AlertId": "100097",
+    "Headline": "#151 Sheridan Temporary Southbound Reroute near Sheridan/Irving Park",
+    "ShortDescription": "Southbound 151 Sheridan buses are temporarily rerouted via Sheridan, Irving Park, Broadway and West Sheridan: due to, street blockage near Sheridan/Irving Park.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #151 Sheridan buses are temporarily rerouted via Sheridan, Irving Park, Broadway and West Sheridan: due to, street blockage near Sheridan/Irving Park.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-05T10:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100097"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Sheridan",
+        "ServiceId": "151",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/151/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ea00e381-2a29-4718-bbe6-e1cdada951fe"
+  },
+  {
+    "AlertId": "100098",
+    "Headline": "X9 Ashland Express Temporary Eastbound Reroute near Sheridan/Irving Park",
+    "ShortDescription": "Eastbound X9 Ashland Express buses are temporarily rerouted via Irving Park, Freemont and West Sheridan: due to, street blockage near Sheridan/Irving Park.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound X9 Ashland Express buses are temporarily rerouted via Irving Park, Freemont and West Sheridan: due to, street blockage near Sheridan/Irving Park.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-05T10:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100098"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Ashland Express",
+        "ServiceId": "X9",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a8e21498-5524-446d-929a-1f06efe57951"
   }
 ]
