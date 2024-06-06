@@ -35,15 +35,15 @@
   },
   {
     "AlertId": "100115",
-    "Headline": "Brown and Purple Line Service Delayed at Sedgwick",
-    "ShortDescription": "Brown and Purple Line trains are standing near Sedgwick due to a medical emergency on the tracks. Crews working to restore service.",
+    "Headline": "No trains between Southport and the Loop",
+    "ShortDescription": "Brown Line service has been temporarily suspended between Southport and the Loop due to a medical emergency.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>Update:</strong>&nbsp;Loop-bound Brown and Linden-bound Purple Line trains are standing near Sedgwick due to a medical emergency on the tracks.&nbsp;Kimball-bound Brown &amp; Loop-bound Purple Line trains are running, but not stopping at Sedgwick.</p>\r\n\r\n<p><strong>Shuttle buses are available between Southport and Clark/Lake to provide connecting service.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include: <strong>#37 Sedgwick</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>UPDATE: Brown Line service has been temporarily suspended between Southport and the Loop&nbsp;due to a medical emergency.</p>\r\n\r\n<p>As a result, <strong>Brown Line</strong>&nbsp;<strong>trains are operating only between Kimball and Southport at this time.</strong></p>\r\n\r\n<p>Shuttle buses are available between Southport and Clark/Lake to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
+    "SeverityScore": "84",
     "SeverityColor": "c00c00",
     "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "Impact": "Service Disruption",
     "EventStart": "2024-06-05T17:20:00",
     "EventEnd": null,
     "TBD": "1",
@@ -52,43 +52,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100115"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Sedgwick",
-          "ServiceId": "40800",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=124"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "c7430261-8a0a-434b-8f06-67665bd52157"
+    "GUID": "bc87a44f-b8c3-430b-8e16-9e94e432ad1c"
   }
 ]
