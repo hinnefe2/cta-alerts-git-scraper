@@ -1,70 +1,36 @@
 [
   {
-    "AlertId": "100137",
-    "Headline": "#88 Higgins Temporary Reroute at Higgins/Mango",
-    "ShortDescription": "88 Higgins buses are temporarily rerouted via Higgins, Central, Lawrence, Austin and Higgins, due to street blockage near Higgins/Mango.",
+    "AlertId": "100142",
+    "Headline": "#44 Wallace/Racine Temporary Reroute at Racine/63rd",
+    "ShortDescription": "44 Wallace/Racine buses are temporarily rerouted via Racine, 63rd, Loomis, Marquette and Racine, due to street blockage near Racine/63rd.",
     "FullDescription": {
-      "#cdata-section": "<p>#88 Higgins buses are temporarily rerouted in both directions via Higgins, Central, Lawrence, Austin and Higgins, due to street blockage near Higgins/Mango.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#44 Wallace/Racine buses are temporarily rerouted in both directions via Racine, 63rd, Loomis, Marquette and Racine, due to street blockage near Racine/63rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-06-06T17:28:00",
+    "EventStart": "2024-06-06T20:32:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100137"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100142"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Higgins",
-        "ServiceId": "88",
+        "ServiceName": "Wallace/Racine",
+        "ServiceId": "44",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/88/"
+          "#cdata-section": "http://www.transitchicago.com/bus/44/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "262f6533-4ce1-4afa-ac05-9c9d96c995d5"
-  },
-  {
-    "AlertId": "100138",
-    "Headline": "#31 31st Temporary Westbound Reroute near 35th/Shields",
-    "ShortDescription": "WB 31 31st buses are temporarily rerouted via 35th, Wallace and 31st, due to street blockage near 35th/Shields.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound&nbsp;#31 31st buses are temporarily rerouted via 35th, Wallace and 31st, due to street blockage near 35th/Shields.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-06-06T17:54:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100138"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "31st",
-        "ServiceId": "31",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/31/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "dae653dd-0195-4dd5-bfd6-d4bd3fb21d19"
+    "GUID": "4c83c7b4-d3dc-4250-b9e5-a67378311098"
   }
 ]
