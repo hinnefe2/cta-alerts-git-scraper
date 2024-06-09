@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "e2888c76-4b10-48a7-bda3-e397c3d462d3"
+  },
+  {
+    "AlertId": "100175",
+    "Headline": "#12 Roosevelt,  #18 16th-18th Temporary Westbound Reroute near Roosevelt/Desplaines",
+    "ShortDescription": "Westbound 12 Roosevelt, 18 16th-18th buses are temporarily rerouted via Roosevelt, Jefferson, Taylor, Halsted and Roosevelt near Roosevelt/Desplaines.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #12&nbsp;Roosevelt, #18 16th-18th buses are temporarily rerouted via Roosevelt, Jefferson, Taylor, Halsted and Roosevelt due to, street blockage near Roosevelt/Desplaines.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-09T16:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100175"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Roosevelt",
+          "ServiceId": "12",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/12/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "16th-18th",
+          "ServiceId": "18",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/18/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "6df72bf9-77f6-4dc4-a2c5-e26dd02a4f9f"
   }
 ]
