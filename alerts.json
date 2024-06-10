@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "100192",
-    "Headline": "#79 79th Temporary Reroute at Racine/83rd.",
-    "ShortDescription": "79 79th buses are temporarily rerouted via 79th, Ashland, 76th, Halsted and 79th, due to street blockage near Racine/83rd.",
+    "Headline": "#79 79th, #169 69th/UPS Express Temporary Reroute at Racine/83rd.",
+    "ShortDescription": "79 79th buses, 169 69th/UPS Express are temporarily rerouted via 79th, Ashland, 76th, Halsted and 79th, due to street blockage near Racine/83rd.",
     "FullDescription": {
-      "#cdata-section": "<p>#79 79th buses are temporarily rerouted in both directions via 79th, Ashland, 76th, Halsted and 79th, due to street blockage near Racine/83rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#79 79th buses, #169 69th/UPS Express are temporarily rerouted via 79th, Ashland, 76th, Halsted and 79th, due to street blockage near Racine/83rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -52,20 +52,33 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100192"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "79th",
-        "ServiceId": "79",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "79th",
+          "ServiceId": "79",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/79/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "69th/UPS Express",
+          "ServiceId": "169",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/169/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "7c9214f6-fd31-439b-ab0e-dddf6eda6960"
+    "GUID": "78e610a6-d093-484b-acce-54984486dba6"
   },
   {
     "AlertId": "100198",
