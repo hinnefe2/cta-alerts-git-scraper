@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "fe9d6f08-df82-46b0-9c26-c7024232410f"
+  },
+  {
+    "AlertId": "100228",
+    "Headline": "#49 Western & #X49 Western Express Temporary Reroute at Western/59th",
+    "ShortDescription": "49 Western & X49 Western Express buses are temporarily rerouted via Western, 63rd, Damen, 59th and Western, due to street blockage near Western/59th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#49 Western &amp; #X49 Western Express buses are temporarily rerouted in both directions via Western, 63rd, Damen, 59th and Western, due to street blockage near Western/59th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-12T14:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100228"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western",
+          "ServiceId": "49",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western Express",
+          "ServiceId": "X49",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ea0ce7b7-4d4a-4ab4-9946-4162db783525"
   }
 ]
