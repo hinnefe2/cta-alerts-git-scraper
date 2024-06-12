@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "100220",
-    "Headline": "Blue Line Delays",
-    "ShortDescription": "Blue Line trains are running w/residual delays and congestion following earlier police activity near Oak Park. Service is resuming, allow extra time.",
+    "AlertId": "100223",
+    "Headline": "#24 Wentworth Temporary Northbound Reroute near Harrison/Dearborn",
+    "ShortDescription": "Northbound 24 Wentworth buses are temporarily rerouted via Clark, Polk and Dearborn: due to, street blockage near Harrison/Dearborn.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running with residual delays and congestion following earlier police activity near Oak Park.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #24 Wentworth buses are temporarily rerouted via Clark, Polk and Dearborn: due to, street blockage near Harrison/Dearborn.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-06-12T07:22:00",
-    "EventEnd": "2024-06-12T07:45:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-12T07:47:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100220"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100223"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Wentworth",
+        "ServiceId": "24",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/24/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "0a37789a-0313-4241-bb99-4e4878d48960"
+    "GUID": "12a28d63-530c-4dad-a788-0177ca53e604"
   }
 ]
