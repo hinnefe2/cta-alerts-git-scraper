@@ -116,10 +116,10 @@
   },
   {
     "AlertId": "100256",
-    "Headline": "Brown Line Service Delayed near Chicago",
-    "ShortDescription": "Brown Line trains are standing near Chicago due to track conditions. Crews working to restore service.",
+    "Headline": "Loop-bound Brown and Purple Line Express Service Delayed near Chicago",
+    "ShortDescription": "Loop-bound Brown and Purple Line Express trains are standing near Chicago due to track conditions. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are standing near Chicago due to track conditions.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Brown and Purple Line Express trains are standing near Chicago due to track conditions.</p>\r\n\r\n<p><strong>Shuttle buses have been requested to provide connecting service. See station personnel for details.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "80",
     "SeverityColor": "c00c00",
@@ -155,10 +155,21 @@
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/brownline/"
           }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "437b47c0-bd13-454c-b155-1991dd5388de"
+    "GUID": "97d48e4f-71cc-4b17-85da-f032cc43e980"
   }
 ]
