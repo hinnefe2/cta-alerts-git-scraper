@@ -147,5 +147,52 @@
     },
     "ttim": "0",
     "GUID": "47dd94be-0cad-4ed7-abd3-a6ebc0ea078e"
+  },
+  {
+    "AlertId": "100334",
+    "Headline": "Harlem-bound Green Line & Loop-bound Pink Line trains bypassing Morgan",
+    "ShortDescription": "Harlem-bound Green Line & Loop-bound Pink Line trains are running, but not stopping at Morgan due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green Line &amp; Loop-bound Pink Line trains are running, but not stopping at Morgan due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n\r\n<p></p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2024-06-17T11:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100334"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "3c1a737b-1e05-44d1-a1d3-a867e8704f55"
   }
 ]
