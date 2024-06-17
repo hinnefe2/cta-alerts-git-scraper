@@ -150,18 +150,18 @@
   },
   {
     "AlertId": "100329",
-    "Headline": "Red Line Delays",
-    "ShortDescription": "Red Line trains are running w/residual delays following earlier police activity at Garfield. Service is resuming, allow extra time.",
+    "Headline": "Howard-bound Red Line Service Delayed at 47th",
+    "ShortDescription": "Howard-bound Red Line trains are standing at 47th due to police activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running w/residual delays following earlier police activity at Garfield.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing at 47th due to police activity.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
     "EventStart": "2024-06-17T08:20:00",
-    "EventEnd": "2024-06-17T08:50:00",
-    "TBD": "0",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100329"
@@ -180,6 +180,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "f9687ade-79ad-445a-b933-2de184e774f5"
+    "GUID": "b79569e0-4653-4e3d-bf0f-ece5a4b552d4"
+  },
+  {
+    "AlertId": "100330",
+    "Headline": "95th-bound Red Line trains bypassing 47th",
+    "ShortDescription": "95th-bound Red Line trains are running, but not stopping 47th due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are running, but not stopping 47th due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2024-06-17T08:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100330"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "bea1034b-ca16-4404-8867-cc40450f8b89"
   }
 ]
