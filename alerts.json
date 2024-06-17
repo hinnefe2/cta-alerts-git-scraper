@@ -115,40 +115,6 @@
     "GUID": "ca8b548a-ad97-4bc3-b2f9-4b01bb2efb99"
   },
   {
-    "AlertId": "100326",
-    "Headline": "#12 Roosevelt Temporary Reroute at Roosevelt/Kolmar",
-    "ShortDescription": "12 Roosevelt buses are temporarily rerouted via Roosevelt, Cicero, 16th, Kostner & Roosevelt: due to, street blockage near Roosevelt/Kolmar.",
-    "FullDescription": {
-      "#cdata-section": "<p>#12 Roosevelt buses are temporarily rerouted via Roosevelt, Cicero, 16th, Kostner and&nbsp;Roosevelt: due to, street blockage near Roosevelt/Kolmar.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-06-17T06:05:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100326"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Roosevelt",
-        "ServiceId": "12",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/12/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0622c529-6c8d-4fd3-8a81-b0082bd2132f"
-  },
-  {
     "AlertId": "100329",
     "Headline": "Howard-bound Red Line Delays",
     "ShortDescription": "Howard-bound Red Line trains are running w/residual delays and congestion following earlier police activity at 47th. Service is resuming, allow extra time.",
@@ -185,9 +151,9 @@
   {
     "AlertId": "100331",
     "Headline": "#2 Hyde Park Express Temporary Northbound Reroute near Ohio/Michigan",
-    "ShortDescription": "Northbound 2 Hyde Park Express buses are temporarily rerouted via Michigan, Chicago Ave, & Fairbanks: due to, police activity near Ohio/Michigan.",
+    "ShortDescription": "Northbound 2 Hyde Park Express buses are temporarily rerouted via Michigan, Chicago Ave & Fairbanks: due to, police activity near Ohio/Michigan.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound&nbsp;#2 Hyde Park Express buses are temporarily rerouted via Michigan, Chicago Ave, &amp; Fairbanks: due to, police activity near Ohio/Michigan.</p>\r\n\r\n<p>Westbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound&nbsp;#2 Hyde Park Express buses are temporarily rerouted via Michigan, Chicago Ave &amp; Fairbanks: due to, police activity near Ohio/Michigan.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -214,6 +180,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "b5db9367-fa4e-421b-8e83-92dc23658916"
+    "GUID": "88654ad8-3c5f-4451-962a-44b7edfd0a71"
+  },
+  {
+    "AlertId": "100332",
+    "Headline": "#157 Streeterville/Taylor Temporary Eastbound Reroute near Ohio/Michigan",
+    "ShortDescription": "Eastbound #157 Streeterville/Taylor buses are temporarily rerouted via Michigan, Chicago Ave and Mies Van Der Rohe: due to, street blockage near Ohio/Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #157 Streeterville/Taylor buses are temporarily rerouted via Michigan, Chicago Ave and Mies Van Der Rohe: due to, street blockage near Ohio/Michigan.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-17T08:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100332"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Streeterville/Taylor",
+        "ServiceId": "157",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/157/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "47dd94be-0cad-4ed7-abd3-a6ebc0ea078e"
   }
 ]
