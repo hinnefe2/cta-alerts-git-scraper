@@ -150,18 +150,18 @@
   },
   {
     "AlertId": "100329",
-    "Headline": "Howard-bound Red Line Service Delayed at 47th",
-    "ShortDescription": "Howard-bound Red Line trains continue to stand at 47th due to police activity. Crews working to restore service.",
+    "Headline": "Howard-bound Red Line Delays",
+    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays and congestion following earlier police activity at 47th. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are standing at 47th due to police activity.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are running with residual delays and congestion following earlier police activity at 47th.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2024-06-17T08:20:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventEnd": "2024-06-17T09:20:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100329"
@@ -180,7 +180,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "0791919b-e2d0-4f6e-bc39-c4837d1e5c3f"
+    "GUID": "59338880-9984-4bde-94e6-a4662339ca3b"
   },
   {
     "AlertId": "100330",
@@ -215,5 +215,39 @@
     },
     "ttim": "0",
     "GUID": "bea1034b-ca16-4404-8867-cc40450f8b89"
+  },
+  {
+    "AlertId": "100331",
+    "Headline": "#2 Hyde Park Express Temporary Eastbound Reroute near Ohio/Michigan",
+    "ShortDescription": "Eastbound 2 Hyde Park Express buses are temporarily rerouted via Michigan, Chicago Ave, & Fairbanks: due to, police activity near Ohio/Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #2 Hyde Park Express buses are temporarily rerouted via Michigan, Chicago Ave, &amp; Fairbanks: due to, police activity near Ohio/Michigan.</p>\r\n\r\n<p>Westbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-17T08:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100331"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Hyde Park Express",
+        "ServiceId": "2",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/2/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b6df8884-4c4d-4f35-9793-ce8e3ad03da2"
   }
 ]
