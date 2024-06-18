@@ -34,40 +34,6 @@
     "GUID": "6f92061f-011a-4426-b646-0463c2703bc4"
   },
   {
-    "AlertId": "100348",
-    "Headline": "Loop-bound Pink Line Service Delayed at 54th/Cermak ",
-    "ShortDescription": "Loop-bound Pink Line trains are standing at 54th/Cermak due to a sick customer.  Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Pink Line trains are standing at 54th/Cermak due to a sick customer.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-06-18T01:41:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100348"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "2721489b-7a0a-42d7-9113-ba6da8ae9595"
-  },
-  {
     "AlertId": "100355",
     "Headline": "#11 Lincoln Temporary Reroute at Lincoln/Foster",
     "ShortDescription": "11 Lincoln buses are temporarily rerouted via Lincoln, Foster, Western, Bryn Mawr and Lincoln, due to street blockage near Lincoln/Foster.",
@@ -134,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "2f24d75a-0740-4c7b-8fa8-dec6ada15068"
+  },
+  {
+    "AlertId": "100360",
+    "Headline": "Howard-bound Red Line Service Delayed at Addison",
+    "ShortDescription": "Howard-bound Red Line trains are standing at Addison due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Addison due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-06-18T11:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100360"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "1cf55908-18b4-4d54-9709-ead1768d5a21"
   }
 ]
