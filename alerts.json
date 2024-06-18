@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "6f92061f-011a-4426-b646-0463c2703bc4"
+  },
+  {
+    "AlertId": "100347",
+    "Headline": "#29 State and #62 Archer Temporary Reroute at State/Roosevelt",
+    "ShortDescription": "#29 State and #62 Archer buses are temporarily rerouted via State, Roosevelt, Wabash, 16th and State due to street blockage near State/Roosevelt.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#29 State and #62 Archer buses are temporarily rerouted via State, Roosevelt, Wabash, 16th, then resume their normal routes on State&nbsp;due to street blockage near State/Roosevelt.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-18T00:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100347"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "State",
+          "ServiceId": "29",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/29/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "65660918-2be2-49e0-9068-3faa29f2fc0c"
   }
 ]
