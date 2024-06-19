@@ -168,5 +168,52 @@
     },
     "ttim": "0",
     "GUID": "647ed2e6-5502-408a-8612-44c6651710a4"
+  },
+  {
+    "AlertId": "100381",
+    "Headline": "#95 95th and #112 Vincennes/111th Temporary Reroute at 95th/Halsted",
+    "ShortDescription": "95 95th & 112 Vincennes/111th rrtd EB via 95th, Vincennes, 87th, Lafayette & 95th: WB via 95th, State, 87th, Vincennes & 95th due to blockage nr 95th/Halsted",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#95 95th and #112 Vincennes/111th buses are temporarily rerouted in both&nbsp;due to street blockage&nbsp;near 95th/Halsted.</p>\r\n\r\n<ul>\r\n\t<li><strong>Eastbound</strong> buses will operate via 95th, Vincennes, 87th, Lafayette and 95th;</li>\r\n\t<li><strong>Westbound</strong> buses will operate via 95th, State, 87th, Vincennes and 95th.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-18T21:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100381"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Vincennes/111th",
+          "ServiceId": "112",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/112/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "58da7375-ed6d-4b2f-9263-5d6709a934b6"
   }
 ]
