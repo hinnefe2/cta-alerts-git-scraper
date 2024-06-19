@@ -140,12 +140,12 @@
     "Headline": "O'Hare-bound Blue Line Service Delayed near Illinois Medical District",
     "ShortDescription": "O'Hare-bound Blue Line trains are standing near Illinois Medical District due to signal problems. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing near Illinois Medical District due to signal problems.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing near Illinois Medical District due to signal problems.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2024-06-19T17:17:00",
     "EventEnd": null,
     "TBD": "1",
@@ -167,6 +167,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "b30def06-f22b-45d2-ba39-5b791b2b947b"
+    "GUID": "e2caa640-5b43-4b47-91ab-4e59316fceb2"
+  },
+  {
+    "AlertId": "100397",
+    "Headline": "#126 Jackson Temporary Reroute near Jackson/Leavitt",
+    "ShortDescription": "126 Jackson buses temp. rerouted EB: Jackson, Western, Madison, Damen & Jackson; WB: Van Buren, Damen, Madison, Western & Jackson.",
+    "FullDescription": {
+      "#cdata-section": "<p>#126 Jackson&nbsp; buses are temporarily rerouted in both directions, due to street blockage near Jackson/Leavitt.</p>\r\n\r\n<p>Eastbound buses will operate via Jackson, Western, Madison, Damen and&nbsp;Jackson.</p>\r\n\r\n<p>Westbound buses will operate via &nbsp;Van Buren, Damen, Madison, Western and&nbsp;Jackson.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-19T17:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100397"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson",
+        "ServiceId": "126",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/126/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "85814531-c7bc-4831-b33f-61e7f3314c68"
   }
 ]
