@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "9072589b-58bb-4ac4-a6b7-ea9e777def5e"
+  },
+  {
+    "AlertId": "100403",
+    "Headline": "#65 Grand Temporary Eastbound Reroute near Grand/Chicago",
+    "ShortDescription": "Eastbound 65 Grand buses are temporarily rerouted via Grand, Chicago, California and Grand: due to, street blockage near Grand/Chicago.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #65 Grand buses are temporarily rerouted via Grand, Chicago, California and Grand: due to, street blockage near Grand/Chicago.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-20T05:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100403"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Grand",
+        "ServiceId": "65",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/65/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d9731281-639d-4461-b005-f5f4ca4e52dc"
   }
 ]
