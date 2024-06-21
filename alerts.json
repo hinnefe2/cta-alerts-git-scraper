@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "100445",
+    "Headline": "#62H Archer/Harlem Temporary Reroute at Archer/Harlem",
+    "ShortDescription": "62H Archer/Harlem buses are temporarily rerouted via Archer, Austin, 63rd and Harlem: due to, street blockage near Archer/Harlem.",
+    "FullDescription": {
+      "#cdata-section": "<p>#62H Archer/Harlem buses are temporarily rerouted via Archer, Austin, 63rd and Harlem: due to, street blockage&nbsp;near Archer/Harlem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-21T17:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100445"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Archer/Harlem",
+        "ServiceId": "62H",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/62h/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cca22184-6979-4a76-a587-9584e6f49fb8"
+  },
+  {
+    "AlertId": "100447",
+    "Headline": "#62 Archer Temporary Southbound Reroute near Archer/Harlem",
+    "ShortDescription": "Southbound 62 Archer buses are temporarily rerouted via Archer, Austin, and Merrimac: due to, street blockage near Archer/Harlem.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #62 Archer buses are temporarily rerouted via Archer, Austin, and Merrimac: due to, street blockage near Archer/Harlem.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-21T17:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100447"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Archer",
+        "ServiceId": "62",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/62/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "bcd83523-79fb-414c-91f8-cabf64398e82"
+  }
+]
