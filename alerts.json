@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "100453",
+    "Headline": "Orange Line Service Delayed at 35th/Archer",
+    "ShortDescription": "Orange Line trains are standing a 3th/Archer due to a unauthorized person on the tracks. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange Line trains are standing a 3th/Archer due to a unauthorized person on the tracks.<span style=\"font-family:&quot;Arial&quot;,sans-serif\"><o:p></o:p></span></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-06-21T23:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100453"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "35th/Archer",
+          "ServiceId": "40120",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=3"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "dd95b9d3-849b-4c90-be57-e2fd066e7bc0"
+  },
+  {
     "AlertId": "100450",
     "Headline": "#82 Kimball-Homan Temporary Northbound Reroute near Kimball/Wabansia",
     "ShortDescription": "Northbound 82 Kimball-Homan buses are temporarily rerouted via Kimball, North Ave., Kedzie, Armitage and Kimball: due to, street blockage near Kimball/Wabansia.",
