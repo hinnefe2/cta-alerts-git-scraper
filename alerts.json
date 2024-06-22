@@ -1,70 +1,36 @@
 [
   {
-    "AlertId": "100457",
-    "Headline": "#22 Clark Temporary Reroute at Racine/Belmont",
-    "ShortDescription": "22 Clark buses are temporarily rerouted via Clark, Racine, Belmont and Clark: due to, street blockage near Racine/Belmont.",
+    "AlertId": "100460",
+    "Headline": "#36 Broadway Temporary Southbound Reroute near Broadway/Devon",
+    "ShortDescription": "Southbound 36 Broadway buses are temporarily rerouted via  Broadway, Sheridan, Thorndale and Broadway: due to, street blockage near Broadway/Devon.",
     "FullDescription": {
-      "#cdata-section": "<p>#22 Clark buses are temporarily rerouted via Clark, Racine, Belmont and Clark: due to, street blockage near Racine/Belmont.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #36 Broadway buses are temporarily rerouted via&nbsp; Broadway, Sheridan, Thorndale and Broadway: due to, street blockage near Broadway/Devon.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-06-22T14:44:00",
+    "EventStart": "2024-06-22T16:48:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100457"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100460"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Clark",
-        "ServiceId": "22",
+        "ServiceName": "Broadway",
+        "ServiceId": "36",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          "#cdata-section": "http://www.transitchicago.com/bus/36/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "d81a30a1-3fc5-439e-ac33-89976a757784"
-  },
-  {
-    "AlertId": "100458",
-    "Headline": "#152 Addison Temporary Reroute near Addison/Clark",
-    "ShortDescription": "152 Addison buses temp. rerouted EB: Addison, Racine, Belmont, Halsted and Addison; WB: Addison, Halsted, Belmont, Racine and Addison: near Addison/Clark.",
-    "FullDescription": {
-      "#cdata-section": "<p>#152 Addison&nbsp;buses are temporarily rerouted in both directions near Addison/Clark due to street blockage near Addison/Clark.</p>\r\n\r\n<p>Eastbound buses will operate via Addison, Racine, Belmont, Halsted and Addison&nbsp;including the normal route streets.</p>\r\n\r\n<p>Westbound buses will operate via Addison, Halsted, Belmont, Racine and Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-06-22T14:51:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100458"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Addison",
-        "ServiceId": "152",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/152/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b8246fc8-dc72-46f6-b1d5-914e13980183"
+    "GUID": "c42ec39e-78cc-4ee7-80e8-a674a453fd0b"
   }
 ]
