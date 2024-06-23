@@ -1,50 +1,37 @@
 [
   {
-    "AlertId": "100474",
-    "Headline": "Green Line Delays",
-    "ShortDescription": "Green Line trains are running w/residual delays following earlier police activity at Cottage Grove. Service is resuming, allow extra time.",
+    "AlertId": "100473",
+    "Headline": "#8A South Halsted Temporary Northbound Reroute near Halsted/123rd",
+    "ShortDescription": "NB 8A South Halsted buses are temporarily rerouted via Halsted, 124th, Lowe, 123rd and Halsted, due to street blockage near Halsted/123rd.",
     "FullDescription": {
-      "#cdata-section": "<p>Green Line trains are running w/residual delays following earlier police activity at Cottage Grove.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound&nbsp;#8A South Halsted buses are temporarily rerouted via Halsted, 124th, Lowe, 123rd and Halsted, due to street blockage near Halsted/123rd.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-06-23T14:30:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-23T10:42:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100474"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100473"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Cottage Grove",
-          "ServiceId": "40720",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=55"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Halsted",
+        "ServiceId": "8A",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/8a/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "c4f8998d-4917-403a-9489-13b7fec7b02b"
+    "GUID": "0727d277-0dd7-4c68-a43d-8d284a570b61"
   },
   {
     "AlertId": "100462",
@@ -81,37 +68,50 @@
     "GUID": "90e4dd1e-b1da-4511-9060-709a46b228d3"
   },
   {
-    "AlertId": "100473",
-    "Headline": "#8A South Halsted Temporary Northbound Reroute near Halsted/123rd",
-    "ShortDescription": "NB 8A South Halsted buses are temporarily rerouted via Halsted, 124th, Lowe, 123rd and Halsted, due to street blockage near Halsted/123rd.",
+    "AlertId": "100474",
+    "Headline": "Green Line Delays",
+    "ShortDescription": "Green Line trains are running w/residual delays following earlier police activity at Cottage Grove. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound&nbsp;#8A South Halsted buses are temporarily rerouted via Halsted, 124th, Lowe, 123rd and Halsted, due to street blockage near Halsted/123rd.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green Line trains are running w/residual delays following earlier police activity at Cottage Grove.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-06-23T10:42:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-06-23T14:30:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100473"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100474"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Halsted",
-        "ServiceId": "8A",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/8a/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "40720",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=55"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "0727d277-0dd7-4c68-a43d-8d284a570b61"
+    "GUID": "1e422f9a-1862-4413-a078-f2aebb7fc004"
   }
 ]
