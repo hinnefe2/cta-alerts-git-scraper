@@ -1,5 +1,73 @@
 [
   {
+    "AlertId": "100472",
+    "Headline": "#70 Division Temporary Reroute at Division/Campbell",
+    "ShortDescription": "70 Division buses are temporarily rerouted via Division, California, Augusta, Western and Division, due to street blockage near Division/Campbell.",
+    "FullDescription": {
+      "#cdata-section": "<p>#70 Division buses are temporarily rerouted in both directions via Division, California, Augusta, Western and Division, due to street blockage near Division/Campbell.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-23T10:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100472"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Division",
+        "ServiceId": "70",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/70/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e02964a3-7e29-45c2-bbba-e6cf2c4a27d1"
+  },
+  {
+    "AlertId": "100473",
+    "Headline": "#8A South Halsted Temporary Northbound Reroute near Halsted/123rd",
+    "ShortDescription": "NB 8A South Halsted buses are temporarily rerouted via Halsted, 124th, Lowe, 123rd and Halsted, due to street blockage near Halsted/123rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound&nbsp;#8A South Halsted buses are temporarily rerouted via Halsted, 124th, Lowe, 123rd and Halsted, due to street blockage near Halsted/123rd.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-23T10:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100473"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Halsted",
+        "ServiceId": "8A",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/8a/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0727d277-0dd7-4c68-a43d-8d284a570b61"
+  },
+  {
     "AlertId": "100462",
     "Headline": "#78 Montrose Temporary Reroute at Montrose/Marine Dr.",
     "ShortDescription": "Due to extremely heavy traffic and crowding at the beach, 78 Montrose buses will only provide service up to Montrose/Marine Dr.\r\n",
