@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "100485",
+    "Headline": "#44 Wallace/Racine Temporary Reroute at Wallace/37th",
+    "ShortDescription": "44 Wallace/Racine buses are temporarily rerouted via Wallace, Pershing, Halsted, 35th and Wallace, due to street blockage near Wallace/37th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#44 Wallace/Racine buses are temporarily rerouted in both directions via Wallace, Pershing, Halsted, 35th and Wallace, due to street blockage near Wallace/37th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-24T06:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100485"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Wallace/Racine",
+        "ServiceId": "44",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/44/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a8fef264-7ec1-4fd5-8f66-7a98d782a466"
+  },
+  {
     "AlertId": "100462",
     "Headline": "#78 Montrose Temporary Reroute at Montrose/Marine Dr.",
     "ShortDescription": "Due to extremely heavy traffic and crowding at the beach, 78 Montrose buses will only provide service up to Montrose/Marine Dr.\r\n",
