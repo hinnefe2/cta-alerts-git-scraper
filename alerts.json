@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "100462",
-    "Headline": "#78 Montrose Temporary Reroute at Montrose/Marine Dr.",
-    "ShortDescription": "Due to extremely heavy traffic and crowding at the beach, 78 Montrose buses will only provide service up to Montrose/Marine Dr.\r\n",
-    "FullDescription": {
-      "#cdata-section": "<p>Due to extremely heavy traffic and crowding at the beach, #78 Montrose buses will only provide service up to Montrose/Marine Dr.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Please allow extra travel time</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-06-22T19:20:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100462"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Montrose",
-        "ServiceId": "78",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/78/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "90e4dd1e-b1da-4511-9060-709a46b228d3"
-  },
-  {
     "AlertId": "100482",
     "Headline": "#3 King Drive Temporary Southbound Reroute near King Drive/63rd",
     "ShortDescription": "SB 3 King Drive buses are rerouted via King Drive, 61st, Prairie, 63rd, then resume their normal route on King Drive due to police activity near King Drive/63rd",
@@ -68,37 +34,37 @@
     "GUID": "8cc2895a-2792-409e-9063-6c52dd103f2b"
   },
   {
-    "AlertId": "100481",
-    "Headline": "Pink Line Service Running with Delays",
-    "ShortDescription": "Pink Line trains are running with delays due to to a shortage of available staff; we're working to run as much service as possible. Allow extra time.",
+    "AlertId": "100462",
+    "Headline": "#78 Montrose Temporary Reroute at Montrose/Marine Dr.",
+    "ShortDescription": "Due to extremely heavy traffic and crowding at the beach, 78 Montrose buses will only provide service up to Montrose/Marine Dr.\r\n",
     "FullDescription": {
-      "#cdata-section": "<p>Pink Line trains are running with delays due to a temporary shortage of available staff.</p>\r\n\r\n<p>At this time, our operations staff are working to run as much service as frequently and manage service to be spaced as evenly as possible.</p>\r\n\r\n<p>Consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Due to extremely heavy traffic and crowding at the beach, #78 Montrose buses will only provide service up to Montrose/Marine Dr.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Please allow extra travel time</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-06-24T00:13:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-22T19:20:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100481"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100462"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Montrose",
+        "ServiceId": "78",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/78/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "7c225451-0942-46bd-927c-791677adcc05"
+    "GUID": "90e4dd1e-b1da-4511-9060-709a46b228d3"
   }
 ]
