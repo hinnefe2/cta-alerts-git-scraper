@@ -1,5 +1,74 @@
 [
   {
+    "AlertId": "100509",
+    "Headline": "Red & Purple Line Service Running with Delays",
+    "ShortDescription": "Red and Purple Line trains are running with delays near Addison due to track switching problems.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red and Purple Line trains are running with delays near Addison due&nbsp;to track switching problems.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-06-25T07:58:00",
+    "EventEnd": "2024-06-25T09:58:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100509"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Addison",
+          "ServiceId": "41420",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=17"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "79c7a234-29ab-462a-b45f-cead4cf13f0c"
+  },
+  {
     "AlertId": "100505",
     "Headline": "#147 Outer DuSable Lake Shore Express Temporary Southbound Reroute near Howard Red Line",
     "ShortDescription": "SB 147 Outer DuSable Lake Shore Express buses are temporarily rerouted via Howard, Clark, Rogers and Howard: due to, street blockage near Howard Red Line.",
@@ -72,12 +141,12 @@
     "Headline": "Forest Park-bound Blue Line Service Delayed at Pulaski",
     "ShortDescription": "Forest Park-bound Blue Line trains are standing at Pulaski due to a mechanical problem. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Pulaski due to a mechanical problem.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Pulaski due to a mechanical problem.</p>\r\n\r\n<p><strong>Shuttle buses are available between UIC-Halsted and Forest Park to provide connecting service.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p><strong>#7 Harrison</strong></p>\r\n\r\n<p><strong>#50 Damen</strong></p>\r\n\r\n<p><strong>#126 Jackson</strong></p>\r\n\r\n<p><strong>#49 Western</strong></p>\r\n\r\n<p><strong>#52 Kedzie/California</strong></p>\r\n\r\n<p><strong>#82 Kimball/Homan</strong></p>\r\n\r\n<p><strong>#53 Pulaski</strong></p>\r\n\r\n<p><strong>#54 Cicero</strong></p>\r\n\r\n<p><strong>#57 Laramie</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2024-06-25T07:37:00",
     "EventEnd": null,
     "TBD": "1",
@@ -112,6 +181,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "e676661b-d93c-4606-b7ac-7147207a75c2"
+    "GUID": "ab364676-22b7-4a55-900e-62e281338a60"
   }
 ]
