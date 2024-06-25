@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "100503",
-    "Headline": "Blue Line Delays",
-    "ShortDescription": "Blue Line trains are running w/residual delays following an earlier unauthorized person on the tracks in the area of Clark/Lake. Service is resuming.",
+    "AlertId": "100504",
+    "Headline": "#62 Archer Temporary Reroute at Archer/Knox",
+    "ShortDescription": "62 Archer buses are temporarily rerouted via Archer, Cicero, 47th and Archer: due to, street blockage near Archer/Knox.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running with residual delays following an earlier unauthorized person on the tracks in the area of Clark/Lake.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#62 Archer buses are temporarily rerouted via Archer, Cicero, 47th and Archer: due to, street blockage near Archer/Knox.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-06-25T01:08:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-25T01:49:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100503"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100504"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Archer",
+        "ServiceId": "62",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/62/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "04806257-2f4a-4ab0-8d89-2a963d72f213"
+    "GUID": "ebb9de60-01b9-4d0c-8178-c01fa708a278"
   },
   {
     "AlertId": "100462",
