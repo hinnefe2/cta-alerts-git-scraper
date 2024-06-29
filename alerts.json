@@ -1,60 +1,36 @@
 [
   {
-    "AlertId": "100609",
-    "Headline": "Howard-bound Red & Kimball-bound Brown Line Delays",
-    "ShortDescription": "Howard-bound Red & Kimball-bound Brown Line trains running w/residual delays. Service resuming, allow extra time.",
+    "AlertId": "100610",
+    "Headline": "#55N 55th/Narragansett Temporary Reroute at Narragansett/Menard",
+    "ShortDescription": "55N 55th/Narragansett buses are temporarily rerouted via Narragansett, 63rd, Harlem, Archer & Narragansett, due to street blockage near Narragansett/Menard.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red &amp; Kimball-bound Brown Line trains are running with residual delays following earlier track switching problems near Belmont.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#55N 55th/Narragansett buses are temporarily rerouted in both directions via Narragansett, 63rd, Harlem, Archer &amp; Narragansett, due to street blockage near Narragansett/Menard.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-06-29T08:13:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-06-29T08:33:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100609"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100610"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Belmont",
-          "ServiceId": "41320",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=25"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "55th/Narragansett",
+        "ServiceId": "55N",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/55n/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "373d9364-43cc-4d8c-831e-5bfa4776a39d"
+    "GUID": "877fdd50-4f7c-462b-8eaa-2b545f58c76a"
   }
 ]
