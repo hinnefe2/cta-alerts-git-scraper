@@ -34,50 +34,50 @@
     "GUID": "877fdd50-4f7c-462b-8eaa-2b545f58c76a"
   },
   {
-    "AlertId": "100611",
-    "Headline": "Green and Pink  Line Delays",
-    "ShortDescription": "Green & Pink Line trains are running with residual delays following an earlier raised bridge at Chicago River, downtown. Service is resuming, allow extra time.",
+    "AlertId": "100612",
+    "Headline": "Brown Line Service Experiencing Delays Due to Raised Bridge",
+    "ShortDescription": "Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.",
     "FullDescription": {
-      "#cdata-section": "<p>Green &amp; Pink Line trains are running with residual delays following an earlier raised bridge at Chicago River, downtown.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.</p>\r\n\r\n<p>Some trains may be either held or rerouted before reaching the bridge (in order to maintain service across the remainder of the route). Listen for announcements and check train destination signs when boarding.</p>\r\n\r\n<p>We apologize for this temporary inconvenience and appreciate your patience while the Chicago Department of Transportation works to complete the bridge operation. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-06-29T08:02:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-06-29T09:02:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100611"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100612"
     },
     "ImpactedService": {
       "Service": [
         {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Merchandise Mart",
+          "ServiceId": "40460",
+          "ServiceBackColor": "62361b",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=98"
           }
         },
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "5077dbb8-c358-406a-9c0a-6c9b856f8c50"
+    "GUID": "97eb38ae-5482-4aa7-846c-1d3247f155b9"
   }
 ]
