@@ -1,36 +1,70 @@
 [
   {
-    "AlertId": "100671",
-    "Headline": "Blue Line Service Running with Delays",
-    "ShortDescription": "Blue Line trains are running with delays due to to a shortage of available staff; we're working to run as much service as possible. Allow extra time.",
+    "AlertId": "100673",
+    "Headline": "#53 Pulaski Temporary Reroute at Pulaski/North Ave",
+    "ShortDescription": "53 Pulaski buses are temporarily rerouted via Pulaski, North Ave, Kostner, Division and Pulaski: due to, street blockage near Pulaski/North Ave.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line&nbsp;trains are running with delays due to a temporary shortage of available staff.</p>\r\n\r\n<p>At this time, our operations staff are&nbsp;working to run as much service as frequently and manage service to be spaced as evenly as possible.</p>\r\n\r\n<p>Consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#53 Pulaski buses are temporarily rerouted via Pulaski, North Ave, Kostner, Division and Pulaski: due to, street blockage near Pulaski/North Ave.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-07-03T22:38:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-03T23:55:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100671"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100673"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pulaski",
+        "ServiceId": "53",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/53/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "19e26b61-0a32-4b59-ab04-7d8ef2170161"
+    "GUID": "0ada6a4c-a9c7-4839-901b-63af8eb91905"
+  },
+  {
+    "AlertId": "100674",
+    "Headline": "#71 71st/South Shore Temporary Reroute at 71st/Champlain",
+    "ShortDescription": "71 71st/South Shore buses are temporarily rerouted via 71st, South Chicago, Keefe, 69th, King Dr and 71st: due to, street blockage near 71st/Champlain.",
+    "FullDescription": {
+      "#cdata-section": "<p>#71 71st/South Shore buses are temporarily rerouted via 71st, South Chicago, Keefe, 69th, King Dr and 71st: due to, street blockage near 71st/Champlain.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-03T23:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100674"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "551b5c18-fe14-4a90-a8ec-cc9ea6fef2c6"
   }
 ]
