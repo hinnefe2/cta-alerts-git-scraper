@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "100680",
-    "Headline": "#12 Roosevelt Temporary Eastbound Reroute near Roosevelt/Ashland",
-    "ShortDescription": "Eastbound 12 Roosevelt buses are rrtd via Roosevelt, Paulina, Taylor, Ashland, then resume their normal route on Roosevelt due to blockage nr Roosevelt/Ashland.",
+    "AlertId": "100679",
+    "Headline": "Orange Line Service Running with Delays",
+    "ShortDescription": "Orange Line trains are running with delays due to to a shortage of available staff; we're working to run as much service as possible. Allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>Eastbound #12 Roosevelt buses are temporarily rerouted via Roosevelt, Paulina, Taylor, Ashland, then resume their normal route on Roosevelt due to street blockage near Roosevelt/Ashland.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Orange Line&nbsp;trains are running with delays due to a temporary shortage of available staff.</p>\r\n\r\n<p>At this time, our operations staff are&nbsp;working to run as much service as frequently and manage service to be spaced as evenly as possible.</p>\r\n\r\n<p>Consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-07-04T14:28:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-07-04T14:18:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100680"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100679"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Roosevelt",
-        "ServiceId": "12",
-        "ServiceBackColor": "565a5c",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/12/"
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "c8fcbc4e-dd68-4021-baaa-a23fa2920f21"
+    "GUID": "0d1afe78-21a8-43aa-93a2-36cc1427d040"
   },
   {
     "AlertId": "100681",
@@ -66,40 +66,6 @@
     },
     "ttim": "0",
     "GUID": "0c77db3c-b482-4f13-9d67-067010a6bf17"
-  },
-  {
-    "AlertId": "100679",
-    "Headline": "Orange Line Service Running with Delays",
-    "ShortDescription": "Orange Line trains are running with delays due to to a shortage of available staff; we're working to run as much service as possible. Allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Orange Line&nbsp;trains are running with delays due to a temporary shortage of available staff.</p>\r\n\r\n<p>At this time, our operations staff are&nbsp;working to run as much service as frequently and manage service to be spaced as evenly as possible.</p>\r\n\r\n<p>Consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-07-04T14:18:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100679"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Orange Line",
-        "ServiceId": "Org",
-        "ServiceBackColor": "f9461c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/orangeline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0d1afe78-21a8-43aa-93a2-36cc1427d040"
   },
   {
     "AlertId": "100687",
