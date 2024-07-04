@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "100680",
+    "Headline": "#12 Roosevelt Temporary Eastbound Reroute near Roosevelt/Ashland",
+    "ShortDescription": "Eastbound 12 Roosevelt buses are rrtd via Roosevelt, Paulina, Taylor, Ashland, then resume their normal route on Roosevelt due to blockage nr Roosevelt/Ashland.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>Eastbound #12 Roosevelt buses are temporarily rerouted via Roosevelt, Paulina, Taylor, Ashland, then resume their normal route on Roosevelt due to street blockage near Roosevelt/Ashland.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-04T14:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100680"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Roosevelt",
+        "ServiceId": "12",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/12/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c8fcbc4e-dd68-4021-baaa-a23fa2920f21"
+  },
+  {
     "AlertId": "100679",
     "Headline": "Orange Line Service Running with Delays",
     "ShortDescription": "Orange Line trains are running with delays due to to a shortage of available staff; we're working to run as much service as possible. Allow extra time.",
