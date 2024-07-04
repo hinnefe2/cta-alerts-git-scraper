@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "95d0d127-cfcd-4d79-b7cc-068ceec34e67"
+  },
+  {
+    "AlertId": "100669",
+    "Headline": "#29 State Temporary Northbound Reroute near Illinois/McClurg",
+    "ShortDescription": "Northbound 29 State buses are rrtd via Illinois, McClurg, Grand, wait recovery time, then resume their normal route on State due to blockage nr Illinois/McClurg",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>Northbound #29 State buses are temporarily rerouted via Illinois, McClurg, Grand, wait recovery time, then resume their normal route on State due to street blockage near Illinois/McClurg.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-03T21:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100669"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "517c9c46-8c3d-4f0b-adb3-28a2aee00dca"
   }
 ]
