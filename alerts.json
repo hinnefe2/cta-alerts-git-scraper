@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "100685",
+    "Headline": "Green Line Service Running with Delays",
+    "ShortDescription": "Green Line trains are running with significant delays in both directions.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green Line trains are running with significant delays in both directions.</p>\r\n\r\n<p>At this time, our operations staff are working to run as much service as frequently and manage service to be spaced as evenly as possible.</p>\r\n\r\n<p>Consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-07-04T15:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100685"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "525a3248-fedc-4f3c-ab32-085df2036593"
+  },
+  {
     "AlertId": "100680",
     "Headline": "#12 Roosevelt Temporary Eastbound Reroute near Roosevelt/Ashland",
     "ShortDescription": "Eastbound 12 Roosevelt buses are rrtd via Roosevelt, Paulina, Taylor, Ashland, then resume their normal route on Roosevelt due to blockage nr Roosevelt/Ashland.",
