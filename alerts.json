@@ -34,71 +34,50 @@
     "GUID": "13e9785f-eed7-48fd-9518-700f17067e16"
   },
   {
-    "AlertId": "100681",
-    "Headline": "O'Hare-bound Blue Line Service Running with Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running with significant delays. Crews working to restore service.",
+    "AlertId": "100689",
+    "Headline": "#3 King Drive and #4 Cottage Grove Temporary Northbound Reroute near Michigan/Roosevelt",
+    "ShortDescription": "NB 3 King Drive & 4 Cottage Grove buses rrtd via Michigan, Roosevelt, State, Washington & Michigan due to police activity near Michigan/Roosevelt.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with significant delays.</p>\r\n\r\n<p>At this time, also consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>Northbound #3 King Drive and #4 Cottage Grove buses are temporarily rerouted via Michigan, Roosevelt, State, Washington, then resume their normal route on Michigan due to police activity near Michigan/Roosevelt.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-07-04T14:52:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-04T21:21:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100681"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100689"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "King Drive",
+          "ServiceId": "3",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/3/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "0c77db3c-b482-4f13-9d67-067010a6bf17"
-  },
-  {
-    "AlertId": "100687",
-    "Headline": "95th-bound Red Line Service Running with Delays",
-    "ShortDescription": "95th-bound Red Line trains are running with delays due to to a shortage of available staff; we're working to run as much service as possible. Allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line&nbsp;trains are running with delays due to a temporary shortage of available staff.</p>\r\n\r\n<p>At this time, our operations staff are&nbsp;working to run as much service as frequently and manage service to be spaced as evenly as possible.</p>\r\n\r\n<p>Consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-07-04T16:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100687"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "585947dd-d033-4102-a475-64a449e6fa4f"
+    "GUID": "9341f868-e58e-4e4c-a154-05cb6feeb072"
   }
 ]
