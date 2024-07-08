@@ -68,61 +68,37 @@
     "GUID": "f20ab5f5-80b1-4840-a9e1-6713d3e48076"
   },
   {
-    "AlertId": "100752",
-    "Headline": "Howard-bound Purple Line Delays",
-    "ShortDescription": "Howard-bound Purple Line trains are running w/residual delays following an earlier track switching problem near Linden. Service is resuming, allow extra time.",
+    "AlertId": "100753",
+    "Headline": "Loop-bound Orange Line Service Delayed at Pulaski",
+    "ShortDescription": "Loop-bound Orange Line trains are standing at Pulaski due to an obstruction. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Purple Line trains are running with residual delays following an earlier track switching problem near Linden<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>Loop-bound Orange Line trains are standing at Pulaski due to an obstruction.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include: <strong>#53 Pulaski</strong> buses.</p>\r\n\r\n<p>Shuttle buses are available from Midway to Western to provide connecting services in both directions.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-07-07T19:01:00",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2024-07-07T20:05:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100752"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100753"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Linden",
-          "ServiceId": "41050",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=93"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "7b7e8ecc-a939-4de3-a878-28d25d65773d"
+    "GUID": "a18c6c9d-5e2e-440c-9ce1-22da28bb0903"
   }
 ]
