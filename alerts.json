@@ -34,40 +34,6 @@
     "GUID": "4705f605-f320-4b35-9d79-653de4d9d695"
   },
   {
-    "AlertId": "100769",
-    "Headline": "#20 Madison Temporary Eastbound Reroute near Madison/Kildare",
-    "ShortDescription": "EB 20 Madison buses are rerouted via Madison, Kostner, Jackson, Pulaski, then resume their normal route on Madison due to police activity near Madison/Kildare.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Eastbound</strong> #20 Madison buses are temporarily rerouted via Madison, Kostner, Jackson, Pulaski, then resume their normal route on Madison due to police activity near Madison/Kildare.</p>\r\n\r\n<p><strong>Westbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-07-09T13:46:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100769"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Madison",
-        "ServiceId": "20",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/20/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "15eb9316-b9b5-4fcf-a6f3-5525a6c5c2c5"
-  },
-  {
     "AlertId": "100771",
     "Headline": "#100 Jeffery Manor Express Temporary Reroute at 106th/Buffalo",
     "ShortDescription": "100 Jeffery Manor Express buses are rerouted in both directions via Avenue O, 100th, Commercial, 104th and Torrence due to street blockage at 106th/Buffalo.",
@@ -134,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "8d26151a-5ebf-4864-a1d2-29d7d118bfd3"
+  },
+  {
+    "AlertId": "100774",
+    "Headline": "#81 Lawrence Temporary Reroute at Lawrence/Ridgeway",
+    "ShortDescription": "81 Lawrence buses are rerouted via Lawrence, Pulaski, Montrose, Kimball, then resume their normal route on Lawrence due to police activity nr Lawrence/Ridgeway.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#81 Lawrence buses are temporarily rerouted in both directions via Lawrence, Pulaski, Montrose, Kimball, then resume their normal route on Lawrence due to police activity near Lawrence/Ridgeway.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-09T19:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100774"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Lawrence",
+        "ServiceId": "81",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/81/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "99e59ece-d0db-4deb-9ee6-c10820032547"
   }
 ]
