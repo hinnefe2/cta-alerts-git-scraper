@@ -137,15 +137,15 @@
   },
   {
     "AlertId": "100780",
-    "Headline": "No trains between Garfield and Cottage Grove",
-    "ShortDescription": "Green Line service has been temporarily suspended between Garfield and Cottage Grove due to police activity.",
+    "Headline": "Green Line Delays",
+    "ShortDescription": "Green Line trains are running w/residual delays following earlier police activity at King Drive. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Green Line service has been temporarily suspended between Garfield and&nbsp; Cottage Grove due to police activity.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Harlem and Garfield&nbsp;at this time.</strong></p>\r\n\r\n<p>Shuttle buses have been requested from Garfield&nbsp;to Cottage Grove provide connecting service through the affected area.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green Line trains are running w/residual delays following earlier police activity at King Drive.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2024-07-10T06:44:00",
     "EventEnd": null,
     "TBD": "1",
@@ -180,6 +180,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "13a297aa-454c-4962-995e-0dd4d51985ea"
+    "GUID": "1ce79887-b7ac-473b-9499-166e83474a0f"
+  },
+  {
+    "AlertId": "100782",
+    "Headline": "#84 Peterson Temporary Westbound Reroute near Peterson/Harding",
+    "ShortDescription": "Westbound 84 Peterson buses are temporarily rerouted via  Peterson, Kimball, Lincoln, Devon, Pulaski and Peterson due to, street blockage near Peterson/Harding.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #84 Peterson buses are temporarily rerouted via&nbsp; Peterson, Kimball, Lincoln, Devon, Pulaski and Peterson due to, street blockage near Peterson/Harding.</p>\r\n\r\n<p>Eastbound&nbsp;&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-10T07:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100782"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Peterson",
+        "ServiceId": "84",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/84/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2bb26d1a-9ded-409d-a79c-853a9a3ba8af"
   }
 ]
