@@ -134,5 +134,39 @@
     },
     "ttim": "0",
     "GUID": "3e319a13-397d-4aed-8964-579cb1c0c72c"
+  },
+  {
+    "AlertId": "100821",
+    "Headline": "#29 State Temporary Reroute near State/33rd",
+    "ShortDescription": "29 State buses temp. rerouted NB: State, 35th, LaSalle, 31st & State; SB: State, 31st, Wentworth, 35th & State, due to street blockage near State/33rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#29 State buses are temporarily rerouted in both directions near State/33rd due to street blockage.</p>\r\n\r\n<p>Northbound buses will operate via State, 35th, LaSalle, 31st &amp; State.</p>\r\n\r\n<p>Southbound buses will operate via State, 31st, Wentworth, 35th &amp; State.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-11T12:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100821"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ff484ae9-2415-4f39-bbed-fc99073ba0b6"
   }
 ]
