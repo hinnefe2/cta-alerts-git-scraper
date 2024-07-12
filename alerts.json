@@ -100,52 +100,5 @@
     },
     "ttim": "0",
     "GUID": "10c375f3-0db9-4ff8-aa03-1b7b7262c330"
-  },
-  {
-    "AlertId": "100843",
-    "Headline": "Blue Line Delays",
-    "ShortDescription": "Blue Line trains are running w/residual delays following an earlier door problem at Kedzie.  Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running w/residual delays following an earlier door problem at Kedzie.<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-07-12T12:46:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100843"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Kedzie-Homan",
-          "ServiceId": "40250",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=82"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "6de4029e-7cc6-4ae6-929a-5636a7ad9ad0"
   }
 ]
