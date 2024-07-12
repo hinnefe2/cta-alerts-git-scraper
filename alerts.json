@@ -35,18 +35,18 @@
   },
   {
     "AlertId": "100830",
-    "Headline": "O'Hare-bound Blue Line Service Delayed at LaSalle",
-    "ShortDescription": "O'Hare-bound Blue Line trains are standing at LaSalle due to a sick customer. Crews working to restore service.",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following an earlier sick customer at LaSalle. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at LaSalle due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with residual delays following an earlier sick customer at LaSalle.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
     "EventStart": "2024-07-12T04:22:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventEnd": "2024-07-12T04:50:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100830"
@@ -65,6 +65,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "21e5bddb-434b-475d-8367-fd5646d327bb"
+    "GUID": "33c6e203-e09a-4450-832f-aa766e009fb2"
+  },
+  {
+    "AlertId": "100831",
+    "Headline": "#4 Cottage Grove Temporary Reroute at Cottage Grove/90th",
+    "ShortDescription": "4 Cottage Grove buses are temporarily rerouted via Cottage Grove, 95th, King Drive, 87th and Cottage Grove: due to, street blockage near Cottage Grove/90th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#4 Cottage Grove buses are temporarily rerouted via Cottage Grove, 95th, King Drive, 87th and Cottage Grove: due to, street blockage near Cottage Grove/90th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-12T04:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100831"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cottage Grove",
+        "ServiceId": "4",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/4/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "1888140e-1069-4eed-92d4-830fc7e45295"
   }
 ]
