@@ -69,10 +69,10 @@
   },
   {
     "AlertId": "100832",
-    "Headline": "Red Line Service Delayed at 79th",
-    "ShortDescription": "Red Line trains are standing at 79th due to police activity. Crews working to restore service.",
+    "Headline": "Howard-bound Red Line Service Delayed at 79th",
+    "ShortDescription": "Howard-bound Red Line trains are standing at 79th due to police activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing at 79th due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing at 79th due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -99,6 +99,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "f0f2faaa-8656-458f-85e1-329a12fc047a"
+    "GUID": "461db914-bec3-4dd9-9f0d-a0b8b8898f8f"
+  },
+  {
+    "AlertId": "100833",
+    "Headline": "95th-bound Red Line trains bypassing 79th",
+    "ShortDescription": "95th-bound Red Line trains are running, but not stopping at 79th due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are running, but not stopping at 79th due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2024-07-12T04:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100833"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "862bed17-f55e-412b-a5df-4a97d0f4b5d8"
   }
 ]
