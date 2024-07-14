@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "100809",
-    "Headline": "#67 67th-69th-71st Temporary Reroute near 67th/South Shore",
-    "ShortDescription": "67 67th-69th-71st buses rrtd WB via Promontory Dr, South Shore Dr & 67th: EB via 67th, Jeffery, Marquette & Promontory Dr due to blockage nr 67th/South Shore.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#67 67th-69th-71st&nbsp;buses are temporarily rerouted in both directions near 67th/South Shore&nbsp;due to street blockage near 67th/South Shore.</p>\r\n\r\n<p>Westbound buses will operate via Promontory Drive, South Shore Drive and 67th including the normal route streets.</p>\r\n\r\n<p>Eastbound buses will operate via 67th, Jeffery, Marquette and Promontory Drive.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-07-10T20:54:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100809"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "67th-69th-71st",
-        "ServiceId": "67",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/67/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b98ce23d-6125-4e48-9b1f-cdfa5f6a7910"
-  },
-  {
     "AlertId": "100859",
     "Headline": "#63 63rd Temporary Reroute at Stony Island/63rd",
     "ShortDescription": "Due to street blockage at 63rd Street Beach , 63 63rd buses will only provide service to Stony Island/63rd.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "5af9d0f0-e9e7-4a06-9f29-68533f8078d0"
+  },
+  {
+    "AlertId": "100866",
+    "Headline": "#146 Inner Lake Shore/Michigan Express Temporary Reroute at Columbus/McFetridge",
+    "ShortDescription": "146 Inner Lake Shore/Michigan Expr buses are temp. rerouted via Columbus, 18th, Solidarity Dr and Planetarium, due to street blockage near Columbus/McFetridge.",
+    "FullDescription": {
+      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express buses are temporarily rerouted in both directions via Columbus, 18th, Solidarity Drive&nbsp;and continue to&nbsp;Planetarium, due to street blockage near Columbus/McFetridge.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-13T20:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100866"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Inner Lake Shore/Michigan Express",
+        "ServiceId": "146",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/146/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6377a707-d51a-4128-8ae3-8e9502c393f4"
   }
 ]
