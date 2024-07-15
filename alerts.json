@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "100898",
-    "Headline": "#146 Inner Lake Shore/Michigan Express & #151 Sheridan Temporary Reroute at Inner Lake Shore/Strafford",
-    "ShortDescription": "#146 & #151 buses are rerouted via Inner Lake Shore, Belmont, Broadway, Addison and Inner Lake Shore: due to, street blockage near Inner Lake Shore/Strafford.",
+    "Headline": "#146 Inner Lake Shore/Michigan Express, #151 Sheridan, #135 Clarendon/LaSalle Express & #148 Clarendon/Michigan Express Temporary Reroute at Inner Lake Shore/Strafford",
+    "ShortDescription": "#146, #151, #135, & #148 buses are rerouted via Inner Lake Shore, Belmont, Broadway, Addison and Inner Lake Shore.",
     "FullDescription": {
-      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express &amp; #151 Sheridan&nbsp;buses are temporarily rerouted via Inner Lake Shore, Belmont, Broadway, Addison and Inner Lake Shore: due to, street blockage near Inner Lake Shore/Strafford.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express, #151 Sheridan, #135 Clarendon/LaSalle Express &amp; #148 Clarendon/Michigan Express&nbsp;buses are temporarily rerouted via Inner Lake Shore, Belmont, Broadway, Addison and Inner Lake Shore: due to, street blockage near Inner Lake Shore/Strafford.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -22,12 +22,34 @@
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clarendon/LaSalle Express",
+          "ServiceId": "135",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/135/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
           "ServiceName": "Inner Lake Shore/Michigan Express",
           "ServiceId": "146",
           "ServiceBackColor": "b71234",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clarendon/Michigan Express",
+          "ServiceId": "148",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/148/"
           }
         },
         {
@@ -44,7 +66,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "58ee4f53-870f-49c1-a6f2-1807926f24e9"
+    "GUID": "7742286c-8ce4-430d-9524-4ca65ee4ab1f"
   },
   {
     "AlertId": "100899",
