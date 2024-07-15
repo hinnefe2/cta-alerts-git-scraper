@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "100913",
+    "Headline": "#39 Pershing Temporary Reroute near Pershing/Halsted",
+    "ShortDescription": "39 Pershing buses rrtd WB via Pershing, Emerald, 42nd, Halsted & Pershing; EB via Pershing, Halsted. 42nd, Union & Pershing due to blockage nr Pershing/Halsted.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#39 Pershing buses are temporarily rerouted in both directions due to a street blockage near Pershing/Halsted.</p>\r\n\r\n<ul>\r\n\t<li><strong>Westbound</strong> buses will operate via Pershing, Emerald, 42nd, Halsted, then resume their normal route on Pershing.</li>\r\n\t<li><strong>Eastbound </strong>buses will operate via Pershing, Halsted. 42nd, Union, then resume their normal route on Pershing.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-15T12:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100913"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pershing",
+        "ServiceId": "39",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/39/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "637ba419-72a4-49a8-876c-c28a085ceaed"
+  },
+  {
     "AlertId": "100906",
     "Headline": "#134 Stockton/LaSalle Express, #135 Clarendon/LaSalle Express & #136 Sheridan/LaSalle Express Temporary Southbound Reroute near Lower Wacker/Columbus",
     "ShortDescription": "#134 , #135 & #136 buses are rerouted via Outer Lake Shore Drive, Michigan and Wacker: due to, street blockage near Lower Wacker/Columbus.",
@@ -56,40 +90,6 @@
     },
     "ttim": "0",
     "GUID": "82192ad6-24d1-4eae-a6c3-ef6e833ec289"
-  },
-  {
-    "AlertId": "100913",
-    "Headline": "#39 Pershing Temporary Reroute near Pershing/Halsted",
-    "ShortDescription": "39 Pershing buses rrtd WB via Pershing, Emerald, 42nd, Halsted & Pershing; EB via Pershing, Halsted. 42nd, Union & Pershing due to blockage nr Pershing/Halsted.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#39 Pershing buses are temporarily rerouted in both directions due to a street blockage near Pershing/Halsted.</p>\r\n\r\n<ul>\r\n\t<li><strong>Westbound</strong> buses will operate via Pershing, Emerald, 42nd, Halsted, then resume their normal route on Pershing.</li>\r\n\t<li><strong>Eastbound </strong>buses will operate via Pershing, Halsted. 42nd, Union, then resume their normal route on Pershing.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-07-15T12:15:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100913"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pershing",
-        "ServiceId": "39",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/39/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "637ba419-72a4-49a8-876c-c28a085ceaed"
   },
   {
     "AlertId": "100900",
@@ -182,39 +182,5 @@
     },
     "ttim": "0",
     "GUID": "c92fee85-6b14-48b7-a5a8-b69a88a293c7"
-  },
-  {
-    "AlertId": "100914",
-    "Headline": "Harlem-bound Green Line Service Delayed at 47th",
-    "ShortDescription": "Harlem-bound Green Line trains are standing at 47th due to a sick customer.  Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green Line trains are standing at 47th due to a sick customer.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-07-15T14:17:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100914"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "3339eb3e-83f0-4d40-be25-c77a831a9f5f"
   }
 ]
