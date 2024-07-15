@@ -193,5 +193,63 @@
     },
     "ttim": "0",
     "GUID": "c92fee85-6b14-48b7-a5a8-b69a88a293c7"
+  },
+  {
+    "AlertId": "100906",
+    "Headline": "#134 Stockton/LaSalle Express, #135 Clarendon/LaSalle Express & #136 Sheridan/LaSalle Express Temporary Southbound Reroute near Lower Wacker/Columbus",
+    "ShortDescription": "#134 , #135 & #136 buses are rerouted via Lower Wacker, Columbus, Randolph and Michigan: due to, street blockage near Lower Wacker/Columbus.",
+    "FullDescription": {
+      "#cdata-section": "<p>#134 Stockton/LaSalle Express, #135 Clarendon/LaSalle Express and&nbsp;#136 Sheridan/LaSalle Express buses are temporarily rerouted via Lower Wacker, Columbus, Randolph and Michigan: due to, street blockage near Lower Wacker/Columbus.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-15T07:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100906"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stockton/LaSalle Express",
+          "ServiceId": "134",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/134/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clarendon/LaSalle Express",
+          "ServiceId": "135",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/135/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan/LaSalle Express",
+          "ServiceId": "136",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/136/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "48718fb1-56c7-4cf2-892b-fe70f1d812b3"
   }
 ]
