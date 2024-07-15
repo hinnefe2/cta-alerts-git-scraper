@@ -100,5 +100,86 @@
     },
     "ttim": "0",
     "GUID": "7c80c2ad-7f08-495d-8e7a-2c91bc736379"
+  },
+  {
+    "AlertId": "100888",
+    "Headline": "#94 California Temporary Reroute at California/18th",
+    "ShortDescription": "94 California buses are temporarily rerouted via California, Ogden, Western, Cermak and California: due to, street blockage near California/18th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#94 California buses are temporarily rerouted via California, Ogden, Western, Cermak and California: due to, street blockage near California/18th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-15T00:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100888"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "bfdc40fb-9aec-4e16-a003-97835d3c4be8"
+  },
+  {
+    "AlertId": "100889",
+    "Headline": "#151 Sheridan & #146 Inner Lake Shore/Michigan Express Temporary Reroute at Inner Lake Shore/Hawthorne",
+    "ShortDescription": "#151 & #146 buses are  rerouted via Inner Lk Shore Dr, Belmont, Broadway, Addison & Inner Lk Shore Dr: due to, street blockage near Inner Lake Shore/Hawthorne.",
+    "FullDescription": {
+      "#cdata-section": "<p>#151 Sheridan and&nbsp;#146 Inner Lake Shore/Michigan Express&nbsp;buses are temporarily rerouted in both directions via Inner Lake Shore, Belmont, Broadway, Addison and Inner Lake Shore, due to street blockage&nbsp;near Inner Lake Shore/Hawthorne.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-15T00:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100889"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "55a049ec-ad4b-4f45-ad37-489730220a26"
   }
 ]
