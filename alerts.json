@@ -34,22 +34,22 @@
     "GUID": "3f3e6f03-4cda-473f-9b2f-1f49e1e8fdae"
   },
   {
-    "AlertId": "100883",
-    "Headline": "54th/Cermak-bound Pink Line Delays",
-    "ShortDescription": "54th/Cermak-bound Pink Line trains are running w/residual delays following earlier police activity at Kedzie. Service is resuming, allow extra time.",
+    "AlertId": "100884",
+    "Headline": "54th/Cermak-bound Pink Line Service Delayed near Kedzie",
+    "ShortDescription": "54th/Cermak-bound Pink Line trains are standing near Kedzie due to debris on the tracks. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>54th/Cermak-bound Pink Line trains are running with residual delays following earlier police activity at Kedzie.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>54th/Cermak-bound Pink Line trains are standing near Kedzie due to debris on the tracks.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2024-07-14T23:07:00",
-    "EventEnd": "2024-07-14T23:25:00",
-    "TBD": "0",
+    "EventStart": "2024-07-14T23:19:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100883"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100884"
     },
     "ImpactedService": {
       "Service": {
@@ -65,6 +65,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "ae04b394-cc3e-49ad-aa17-d2075c7725a2"
+    "GUID": "9dd1daee-511a-492b-abc5-2cc8e67f277e"
+  },
+  {
+    "AlertId": "100885",
+    "Headline": "#67 67th-69th-71st Temporary Reroute near Rhodes/68th",
+    "ShortDescription": "67 67th-69th-71st  buses temp. rerouted EB: 69th, State and 67th; WB: 67th, State and 69th: due to, street blockage near Rhodes/68th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#67 67th-69th-71st&nbsp;buses are temporarily rerouted in both directions, due to street blockage near Rhodes/68th.</p>\r\n\r\n<p>Eastbound buses will operate via 69th, State and 67th.</p>\r\n\r\n<p>Westbound buses will operate via 67th, State and 69th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-14T23:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100885"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "67th-69th-71st",
+        "ServiceId": "67",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/67/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "84c20d1c-394d-4a36-8ef4-14540fa87ec3"
   }
 ]
