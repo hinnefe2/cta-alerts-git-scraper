@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "100898",
+    "Headline": "146 Inner Lake Shore/Michigan Express & #151 Sheridan Temporary Reroute at Inner Lake Shore/Strafford",
+    "ShortDescription": "#146 & #151 buses are rerouted via Inner Lake Shore, Belmont, Broadway, Addison and Inner Lake Shore: due to, street blockage near Inner Lake Shore/Strafford.",
+    "FullDescription": {
+      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express &amp; #151 Sheridan&nbsp;buses are temporarily rerouted via Inner Lake Shore, Belmont, Broadway, Addison and Inner Lake Shore: due to, street blockage near Inner Lake Shore/Strafford.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-15T04:45:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100898"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "be7a6a8f-7bf1-4656-b2ba-89f324aba9df"
+  }
+]
