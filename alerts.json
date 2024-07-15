@@ -1,73 +1,5 @@
 [
   {
-    "AlertId": "100913",
-    "Headline": "#39 Pershing Temporary Reroute near Pershing/Halsted",
-    "ShortDescription": "39 Pershing buses rrtd WB via Pershing, Emerald, 42nd, Halsted & Pershing; EB via Pershing, Halsted. 42nd, Union & Pershing due to blockage nr Pershing/Halsted.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#39 Pershing buses are temporarily rerouted in both directions due to a street blockage near Pershing/Halsted.</p>\r\n\r\n<ul>\r\n\t<li><strong>Westbound</strong> buses will operate via Pershing, Emerald, 42nd, Halsted, then resume their normal route on Pershing.</li>\r\n\t<li><strong>Eastbound </strong>buses will operate via Pershing, Halsted. 42nd, Union, then resume their normal route on Pershing.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-07-15T12:15:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100913"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pershing",
-        "ServiceId": "39",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/39/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "637ba419-72a4-49a8-876c-c28a085ceaed"
-  },
-  {
-    "AlertId": "100910",
-    "Headline": "#152 Addison Temporary Reroute at Addison/Lakewood",
-    "ShortDescription": "152 Addison buses are temporarily rerouted in both directions via Addison, Racine, Belmont, Ashland & Addison due to a HAZMAT spill near Addison/Lakewood.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#152 Addison buses are temporarily rerouted in both directions via Addison, Racine, Belmont, Ashland, then will continue their normal route on Addison due to a HAZMAT spill near Addison/Lakewood.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-07-15T11:19:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100910"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Addison",
-        "ServiceId": "152",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/152/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a839def6-40f2-42c7-b113-3f509b6f7c05"
-  },
-  {
     "AlertId": "100906",
     "Headline": "#134 Stockton/LaSalle Express, #135 Clarendon/LaSalle Express & #136 Sheridan/LaSalle Express Temporary Southbound Reroute near Lower Wacker/Columbus",
     "ShortDescription": "#134 , #135 & #136 buses are rerouted via Outer Lake Shore Drive, Michigan and Wacker: due to, street blockage near Lower Wacker/Columbus.",
@@ -124,6 +56,40 @@
     },
     "ttim": "0",
     "GUID": "82192ad6-24d1-4eae-a6c3-ef6e833ec289"
+  },
+  {
+    "AlertId": "100913",
+    "Headline": "#39 Pershing Temporary Reroute near Pershing/Halsted",
+    "ShortDescription": "39 Pershing buses rrtd WB via Pershing, Emerald, 42nd, Halsted & Pershing; EB via Pershing, Halsted. 42nd, Union & Pershing due to blockage nr Pershing/Halsted.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#39 Pershing buses are temporarily rerouted in both directions due to a street blockage near Pershing/Halsted.</p>\r\n\r\n<ul>\r\n\t<li><strong>Westbound</strong> buses will operate via Pershing, Emerald, 42nd, Halsted, then resume their normal route on Pershing.</li>\r\n\t<li><strong>Eastbound </strong>buses will operate via Pershing, Halsted. 42nd, Union, then resume their normal route on Pershing.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-15T12:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100913"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pershing",
+        "ServiceId": "39",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/39/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "637ba419-72a4-49a8-876c-c28a085ceaed"
   },
   {
     "AlertId": "100899",
