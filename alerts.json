@@ -1,52 +1,5 @@
 [
   {
-    "AlertId": "100919",
-    "Headline": "Pink & Green Line Service Delayed near Ashland & Polk",
-    "ShortDescription": "Pink & Green Line trains are standing near Ashland & Polk due to a mechanical problem. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Pink &amp; Green Line trains are standing near Ashland &amp; Polk due to a mechanical problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-07-15T22:09:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100919"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "38fee323-b28b-4a26-be55-6ddfd313a82c"
-  },
-  {
     "AlertId": "100918",
     "Headline": "#29 State & #65 Grand Temporary Eastbound Reroute near Illinois/St. Clair",
     "ShortDescription": "Eastbound 29 State & 65 Grand buses are temporarily rerouted via State, Ohio, Fairbanks and Illinois: due to, street blockage near Illinois/St. Clair.",
@@ -129,8 +82,8 @@
   },
   {
     "AlertId": "100920",
-    "Headline": "Yellow, Brown & Pink Line Service Running with Delays",
-    "ShortDescription": "Yellow, Brown & Pink  Line trains are running with delays due to signal problems.",
+    "Headline": "Yellow & Brown Line Service Running with Delays",
+    "ShortDescription": "Yellow & Brown  Line trains are running with delays due to signal problems.",
     "FullDescription": {
       "#cdata-section": "<p>Yellow, Brown &amp; Pink&nbsp; Line trains are running with delays due to signal problems.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
@@ -161,17 +114,6 @@
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
           "ServiceName": "Brown Line",
           "ServiceId": "Brn",
           "ServiceBackColor": "62361b",
@@ -183,7 +125,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "47681c79-4423-4161-a4cc-d2942e84c92f"
+    "GUID": "db211835-0b7b-4eee-97a0-2de8335b1379"
   },
   {
     "AlertId": "100923",
@@ -218,6 +160,40 @@
     },
     "ttim": "0",
     "GUID": "0f16b2ae-a2b0-41a7-a572-8ed58fbae289"
+  },
+  {
+    "AlertId": "100926",
+    "Headline": "Green Line Delays, Limited Service Between Garfield & Cottage Grove",
+    "ShortDescription": "Green Line service experiencing delays; limited service via train shuttle available btwn Cottage Grove & Garfield",
+    "FullDescription": {
+      "#cdata-section": "<p>Green Line trains are experiencing delays due to signal problems. We are working to run as much service as frequently and as evenly as possible.</p>\r\n\r\n<p>Currently, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li>between&nbsp;<strong>Clark/Lake</strong> and <strong>Ashland/63rd</strong></li>\r\n</ul>\r\n\r\n<p>Shuttle buses have been requested to provide connecting service to Cottage Grove.</p>\r\n\r\n<p>See station personnel for further assistance&nbsp;and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "88",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption / Major Delays",
+    "EventStart": "2024-07-15T23:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100926"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ffbf76e6-cada-4dba-a0ce-30b52279f518"
   },
   {
     "AlertId": "100924",
