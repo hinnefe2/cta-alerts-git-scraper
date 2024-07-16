@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "100954",
+    "Headline": "95th- bound Red Line Delays",
+    "ShortDescription": "95th- bound Red Line trains are running w/residual delays following an earlier door problem at Jarvis. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th- bound Red Line trains are running w/residual delays following an earlier door problem at Jarvis<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-07-16T09:32:00",
+    "EventEnd": "2024-07-16T09:41:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100954"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Jarvis",
+          "ServiceId": "41190",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=77"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9d99cbd2-5b1e-4bcf-8e7e-78ea052c0cb4"
+  },
+  {
     "AlertId": "100928",
     "Headline": "#20 Madison Temporary Westbound Reroute near Washington/Paulina",
     "ShortDescription": "Westbound 20 Madison buses are temporarily rerouted via Ashland, Washington, Damen and Madison: due to, street blockage near Washington/Paulina.",
