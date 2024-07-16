@@ -238,38 +238,72 @@
     "GUID": "da2db1cc-0336-4339-a08f-a32a9f43ed01"
   },
   {
-    "AlertId": "100940",
-    "Headline": "#44 Wallace/Racine Temporary Reroute at Racine/65th",
-    "ShortDescription": "44 Wallace/Racine  buses are temporarily rerouted via Racine, Marquette, Ashland, 63rd and Racine: due to, street blockage near Racine/65th.",
+    "AlertId": "100948",
+    "Headline": "#134 Stockton/LaSalle Express Temporary Southbound Reroute near Lower Wacker/Columbus",
+    "ShortDescription": "SB 134 Stockton/LaSalle Express buses are temp. rerouted via DuSable Lake Shore Drive, Michigan and Wacker: due to, street blockage near Lower Wacker/Columbus.",
     "FullDescription": {
-      "#cdata-section": "<p>#44 Wallace/Racine&nbsp; buses are temporarily rerouted via Racine, Marquette, Ashland, 63rd and Racine: due to, street blockage near Racine/65th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #134 Stockton/LaSalle Express buses are temporarily rerouted via DuSable Lake Shore Drive, Michigan and Wacker: due to, street blockage near Lower Wacker/Columbus.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-07-16T06:14:00",
+    "EventStart": "2024-07-16T07:15:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100940"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100948"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Wallace/Racine",
-        "ServiceId": "44",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
+        "ServiceName": "Stockton/LaSalle Express",
+        "ServiceId": "134",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/44/"
+          "#cdata-section": "http://www.transitchicago.com/bus/134/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "9a50b48b-df66-4435-9769-fd19ca539797"
+    "GUID": "9edbc19a-792e-4eb5-9d57-16dcf60cd0bf"
+  },
+  {
+    "AlertId": "100949",
+    "Headline": "#135 Clarendon/LaSalle Express Temporary Southbound Reroute near Lower Wacker/Columbus",
+    "ShortDescription": "SB 135 Clarendon/LaSalle Express buses are temp. rerouted via DuSable Lake Shore Drive, Michigan and Wacker: due to, street blockage near Lower Wacker/Columbus.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #135 Clarendon/LaSalle Express buses are temporarily rerouted via DuSable Lake Shore Drive, Michigan and Wacker: due to, street blockage near Lower Wacker/Columbus.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-16T07:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100949"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clarendon/LaSalle Express",
+        "ServiceId": "135",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/135/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "89d473a5-5a81-4c30-9c91-789a4a0ab12d"
   },
   {
     "AlertId": "100918",
@@ -304,5 +338,39 @@
     },
     "ttim": "0",
     "GUID": "96da9c1f-9241-4a7c-bde6-98d3426c57a5"
+  },
+  {
+    "AlertId": "100940",
+    "Headline": "#44 Wallace/Racine Temporary Reroute at Racine/65th",
+    "ShortDescription": "44 Wallace/Racine  buses are temporarily rerouted via Racine, Marquette, Ashland, 63rd and Racine: due to, street blockage near Racine/65th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#44 Wallace/Racine&nbsp; buses are temporarily rerouted via Racine, Marquette, Ashland, 63rd and Racine: due to, street blockage near Racine/65th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-16T06:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100940"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Wallace/Racine",
+        "ServiceId": "44",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/44/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9a50b48b-df66-4435-9769-fd19ca539797"
   }
 ]
