@@ -32,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "b9489e65-8fce-41d4-acc9-0f5f26129313"
+  },
+  {
+    "AlertId": "100929",
+    "Headline": "Green Line Delays Limited Service ",
+    "ShortDescription": "Green Line service limited service. Shuttle available btwn Cottage Grove & Garfield.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green Line trains are experiencing delays due to signal problems. We are working to run as much service as frequently and as evenly as possible.</p>\r\n\r\n<p>Currently, trains are operating in one section:</p>\r\n\r\n<ul>\r\n\t<li><strong>between Harlem and Ashland/63rd</strong></li>\r\n</ul>\r\n\r\n<p>Shuttle buses are available to provide connecting service to Cottage Grove.</p>\r\n\r\n<p>See station personnel for further assistance and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "88",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption / Major Delays",
+    "EventStart": "2024-07-16T04:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100929"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "71906ece-25b3-4149-9b51-55187947a33b"
   }
 ]
