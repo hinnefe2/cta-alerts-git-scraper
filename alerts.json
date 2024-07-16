@@ -95,18 +95,18 @@
   },
   {
     "AlertId": "100920",
-    "Headline": "Yellow, Brown, Pink & Green Line Service Running with Delays",
-    "ShortDescription": "Yellow, Brown, Pink & Green Line trains are running with significant delays due to signal problems.",
+    "Headline": "Yellow, Brown & Pink Line Service Running with Delays",
+    "ShortDescription": "Yellow, Brown & Pink  Line trains are running with delays due to signal problems.",
     "FullDescription": {
-      "#cdata-section": "<p>Yellow, Brown, Pink &amp; Green Line trains are running with significant delays due to signal problems.</p>\r\n\r\n<p>At this time, also consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Yellow, Brown &amp; Pink&nbsp; Line trains are running with delays due to signal problems.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2024-07-15T22:15:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventEnd": "2024-07-15T23:13:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100920"
@@ -138,17 +138,6 @@
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
           "ServiceName": "Brown Line",
           "ServiceId": "Brn",
           "ServiceBackColor": "62361b",
@@ -160,7 +149,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "1c645e4b-9109-49bd-b2ae-79daff7baac8"
+    "GUID": "ea8ad526-3e52-408c-86f5-0af3c2fd667b"
   },
   {
     "AlertId": "100923",
