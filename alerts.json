@@ -81,6 +81,40 @@
     "GUID": "98342b96-c579-4541-b11f-4bd9e42cadaf"
   },
   {
+    "AlertId": "100924",
+    "Headline": "No trains between the Loop and 18th",
+    "ShortDescription": "Pink Line service has been temporarily suspended between the Loop and 18th due to signal problems.",
+    "FullDescription": {
+      "#cdata-section": "<p>Pink Line service has been temporarily suspended between the Loop and 18th due to signal problems.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between 54th/Cermak&nbsp;and 18th&nbsp;at this time.</strong></p>\r\n\r\n<p>Shuttle buses are available between 18th&nbsp;and Ashland/Lake&nbsp;to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2024-07-15T22:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100924"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8606adbd-b7d6-47f1-b63d-8b7f305067d7"
+  },
+  {
     "AlertId": "100926",
     "Headline": "Green Line Limited Service",
     "ShortDescription": "Green Line service limited service via shuttle buses available btwn Cottage Grove & Garfield.",
@@ -113,39 +147,5 @@
     },
     "ttim": "0",
     "GUID": "59984195-db45-48fc-810f-2aeb31284fee"
-  },
-  {
-    "AlertId": "100924",
-    "Headline": "Pink Line Service Temporarily Suspended",
-    "ShortDescription": "Service on the Pink Line has been temporarily suspended due to signal problems.",
-    "FullDescription": {
-      "#cdata-section": "<p>Service on the Pink Line has been temporarily suspended due to signal problems.</p>\r\n\r\n<p>Shuttle buses are available between 54th/Cermak&nbsp;and Ashland/Lake&nbsp;to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "90",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Suspended",
-    "EventStart": "2024-07-15T22:52:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "1",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100924"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4dffcf67-2c56-4905-aead-5f02234195db"
   }
 ]
