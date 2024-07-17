@@ -1,37 +1,50 @@
 [
   {
-    "AlertId": "100928",
-    "Headline": "#20 Madison Temporary Westbound Reroute near Washington/Paulina",
-    "ShortDescription": "Westbound 20 Madison buses are temporarily rerouted via Madison, Ashland, Washington, Damen and Madison: due to, street blockage near Washington/Paulina.",
+    "AlertId": "100964",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays and congestion following an earlier sick employee at Grand. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound #20 Madison buses are temporarily rerouted via Madison, Ashland, Washington, Damen and Madison: due to, street blockage near Washington/Paulina.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with residual delays and congestion following an earlier sick employee at Grand.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-07-16T03:10:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-07-16T21:29:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100928"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100964"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Madison",
-        "ServiceId": "20",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/20/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Grand",
+          "ServiceId": "40490",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=62"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "25caa2a7-e185-450d-8c86-4f8e547e4545"
+    "GUID": "3e9457a0-08dd-4632-903d-0b3e9d0f3ce5"
   },
   {
     "AlertId": "100934",
@@ -102,40 +115,6 @@
     "GUID": "991efe39-1064-452e-bdbd-524f1e38b001"
   },
   {
-    "AlertId": "100957",
-    "Headline": "#86 Narragansett/Ridgeland Temporary Northbound Reroute near Narragansett/Cornelia",
-    "ShortDescription": "NB 86 Narragansett/Ridgeland buses are temp rerouted via Narraganset, Belmont, Austin, Addison and Narragansett: near Narragansett/Cornelia.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound&nbsp;#86 Narragansett/Ridgeland buses are temporarily rerouted via Narraganset, Belmont, Austin, Addison and Narragansett: due to street blockage near Narragansett/Cornelia.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-07-16T12:12:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100957"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Narragansett/Ridgeland",
-        "ServiceId": "86",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/86/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "29927563-d7a4-4d1b-92ac-5340de007b51"
-  },
-  {
     "AlertId": "100930",
     "Headline": "#67 67th-69th-71st Temporary Reroute at 71st/Spaulding ",
     "ShortDescription": "67 67th-69th-71st buses are temporarily rerouted via 71st, Kedzie, Marquette and Pulaski: due to, street blockage near 71st/Spaulding.",
@@ -170,51 +149,38 @@
     "GUID": "f0c0a7db-29d7-46f4-aa11-ba7d87481382"
   },
   {
-    "AlertId": "100964",
-    "Headline": "O'Hare-bound Blue Line Service Delayed at Grand",
-    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Grand due to a sick employee. Crews working to restore service.",
+    "AlertId": "100928",
+    "Headline": "#20 Madison Temporary Westbound Reroute near Washington/Paulina",
+    "ShortDescription": "Westbound 20 Madison buses are temporarily rerouted via Madison, Ashland, Washington, Damen and Madison: due to, street blockage near Washington/Paulina.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing with significant delays at Grand due to a sick employee.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #20 Madison buses are temporarily rerouted via Madison, Ashland, Washington, Damen and Madison: due to, street blockage near Washington/Paulina.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-07-16T21:29:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-16T03:10:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100964"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=100928"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Grand",
-          "ServiceId": "40490",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=62"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "231f15ef-4af1-4428-b744-65bc9219d0b6"
+    "GUID": "25caa2a7-e185-450d-8c86-4f8e547e4545"
   },
   {
     "AlertId": "100929",
