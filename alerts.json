@@ -34,97 +34,16 @@
     "GUID": "c4d70c8a-b2fc-4df1-932e-ef53c101319f"
   },
   {
-    "AlertId": "101086",
-    "Headline": "#22 Clark Temporary Reroute near Clark/Rogers",
-    "ShortDescription": "22 Clark buses temp rerouted SB: Clark, Rogers, Ashland, Touhy, Clark; NB: Clark, Touhy, Ashland, Rogers, to terminal, due to street blockage near Clark/Rogers",
-    "FullDescription": {
-      "#cdata-section": "<p>#22 Clark buses are temporarily rerouted in both directions&nbsp;due to street blockage near Clark/Rogers.</p>\r\n\r\n<p>Southbound buses will operate via Clark, Rogers, Ashland, Touhy &amp; Clark.</p>\r\n\r\n<p>Northbound buses will operate via Clark, Touhy, Ashland, Rogers &amp; into the terminal.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-07-20T21:50:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101086"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Clark",
-        "ServiceId": "22",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/22/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "89fb955b-5973-4263-87cb-24a39f514ab0"
-  },
-  {
-    "AlertId": "101087",
-    "Headline": "Green Line Delays",
-    "ShortDescription": "Green Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Cicero. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Green Line trains are running with residual delays following an earlier unauthorized person on the tracks at Cicero.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-07-20T22:29:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101087"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Cicero",
-          "ServiceId": "40480",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=41"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "33b1e5f5-220a-4cdc-8922-e1498a75a9c1"
-  },
-  {
     "AlertId": "101088",
-    "Headline": "Blue Line Service Delayed Pulaski",
-    "ShortDescription": "Blue Line trains are standing at Pulaski due to an injured customer. Crews working to restore service.",
+    "Headline": "UPDATE: Blue Line Trains bypassing Pulaski Station",
+    "ShortDescription": "Update: Blue Line trains are running, but not stopping at Pulaski due to police investigation.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are standing at Pulaski due to an injured customer.&nbsp;</p>\r\n\r\n<p><strong>Shuttle buses have been requested to&nbsp; provide connecting service for the affected area. See station personnel for further assistance.</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>Update:</strong> Blue Line trains are running, but not stopping at Pulaski due to police investigation.</p>\r\n\r\n<p>Use nearby Cicero or Kedzie-Homan&nbsp;stations,&nbsp;for access to area near Pulaski.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "58",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
     "EventStart": "2024-07-20T22:36:00",
     "EventEnd": null,
     "TBD": "1",
@@ -159,6 +78,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "b454a118-87c7-4866-a9ed-754dc21711fd"
+    "GUID": "ad01c276-d1ba-434b-81e7-17a25a7dbca0"
   }
 ]
