@@ -34,11 +34,58 @@
     "GUID": "c4d70c8a-b2fc-4df1-932e-ef53c101319f"
   },
   {
+    "AlertId": "101087",
+    "Headline": "Green Line Service Delayed Cicero",
+    "ShortDescription": "Green Line trains are standing at Cicero due to a police investigation. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green Line trains are standing&nbsp;at Cicero due to a police investigation.</p>\r\n\r\n<p><strong>Shuttle buses have been requested&nbsp;between Cicero and Kedzie&nbsp;to provide connecting service. See station personnel for assistance.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-07-20T22:29:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101087"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Cicero",
+          "ServiceId": "40480",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=41"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "506bf931-fef6-448f-9c74-720dd3167ad4"
+  },
+  {
     "AlertId": "101088",
     "Headline": "UPDATE: Blue Line Trains bypassing Pulaski Station",
     "ShortDescription": "Update: Blue Line trains are running, but not stopping at Pulaski due to police investigation.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>Update:</strong> Blue Line trains are running, but not stopping at Pulaski due to police investigation.</p>\r\n\r\n<p>Use nearby Cicero or Kedzie-Homan&nbsp;stations,&nbsp;for access to area near Pulaski.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+      "#cdata-section": "<p><strong>Update:</strong> Blue Line trains are running, but not stopping at Pulaski due to police investigation.</p>\r\n\r\n<p><strong>Shuttle buses are available between Cicero and Kedzie to provide connecting service. See station personnel for details.</strong></p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
     },
     "SeverityScore": "58",
     "SeverityColor": "B45F04",
@@ -78,6 +125,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "ad01c276-d1ba-434b-81e7-17a25a7dbca0"
+    "GUID": "cfe3d071-fbcf-492d-acfb-0cb14a1a0784"
   }
 ]
