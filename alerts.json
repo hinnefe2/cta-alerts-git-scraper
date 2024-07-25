@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "101180",
-    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near Wacker/Harbor",
-    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker & Columbus: due to, street blockage near Wacker/Harbor",
+    "AlertId": "101210",
+    "Headline": "Red Line Service Delayed at 87th",
+    "ShortDescription": "Red Line trains are standing at 87th due to an unauthorized person on the tracks. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker and&nbsp;Columbus: due to, street blockage near Wacker/Harbor.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are standing at 87th due to an unauthorized person on the tracks.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-07-24T04:19:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-07-24T22:35:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101180"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101210"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
-        "ServiceBackColor": "b71234",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "aba4b6a5-3a42-4c11-8237-615a5c5a1b63"
+    "GUID": "8fa550ef-8354-42f9-ac57-2ea48aff859f"
   },
   {
     "AlertId": "101209",
@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "2a68a1d0-ffd4-4a85-b389-df9e1293ad5e"
+  },
+  {
+    "AlertId": "101180",
+    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near Wacker/Harbor",
+    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker & Columbus: due to, street blockage near Wacker/Harbor",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker and&nbsp;Columbus: due to, street blockage near Wacker/Harbor.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-24T04:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101180"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "aba4b6a5-3a42-4c11-8237-615a5c5a1b63"
   }
 ]
