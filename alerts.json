@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "101233",
+    "Headline": "#57 Laramie Temporary Reroute at Laramie/Potomac",
+    "ShortDescription": "57 Laramie buses are temporarily rerouted via Laramie, North, Central, Division and Laramie: due to, street blockage near Laramie/Potomac.",
+    "FullDescription": {
+      "#cdata-section": "<p>#57 Laramie buses are temporarily rerouted via Laramie, North, Central, Division and Laramie: due to, street blockage near Laramie/Potomac.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-26T11:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101233"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Laramie",
+        "ServiceId": "57",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/57/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c73698cb-aa24-4816-8932-7f7f75ce811e"
+  },
+  {
     "AlertId": "101180",
     "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near Wacker/Harbor",
     "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker & Columbus: due to, street blockage near Wacker/Harbor",
@@ -31,6 +65,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "aba4b6a5-3a42-4c11-8237-615a5c5a1b63"
+    "GUID": "9d12a90a-5f38-4099-a7ea-c4653ea0d5a4"
   }
 ]
