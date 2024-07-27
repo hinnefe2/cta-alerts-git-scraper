@@ -1,49 +1,15 @@
 [
   {
-    "AlertId": "101180",
-    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near Wacker/Harbor",
-    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker & Columbus: due to, street blockage near Wacker/Harbor",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker and&nbsp;Columbus: due to, street blockage near Wacker/Harbor.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-07-24T04:19:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101180"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
-        "ServiceBackColor": "b71234",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8ce8043c-4e6e-4102-b16b-18c82f358020"
-  },
-  {
     "AlertId": "101260",
-    "Headline": "Kimball-bound Brown Line Service Delayed near Southport",
-    "ShortDescription": "Kimball-bound Brown Line trains are standing near Southport due to a mechanical problem. Crews working to restore service.",
+    "Headline": "Kimball-bound Brown Line Delays",
+    "ShortDescription": "Kimball-bound Brown Line trains are running w/residual delays following an earlier mechanical problem near Southport. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Kimball-bound Brown Line trains are standing near Southport due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Kimball-bound Brown Line trains are running with residual delays following an earlier mechanical problem near Southport.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2024-07-27T17:59:00",
     "EventEnd": null,
     "TBD": "1",
@@ -78,6 +44,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "2c4eadfb-0902-4a19-9c54-86775a72d040"
+    "GUID": "14f9fb58-60a3-4874-85e0-e8d4920099bc"
+  },
+  {
+    "AlertId": "101180",
+    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near Wacker/Harbor",
+    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker & Columbus: due to, street blockage near Wacker/Harbor",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker and&nbsp;Columbus: due to, street blockage near Wacker/Harbor.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-24T04:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101180"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8ce8043c-4e6e-4102-b16b-18c82f358020"
   }
 ]
