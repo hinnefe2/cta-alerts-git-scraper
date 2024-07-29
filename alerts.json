@@ -1,15 +1,49 @@
 [
   {
-    "AlertId": "101285",
-    "Headline": "Delays at 95th Affecting Howard-BOUND Red Line Service",
-    "ShortDescription": "Howard- Bound Red Line trains are experiencing a delay at 95th: due to police activity. Update to follow.",
+    "AlertId": "101180",
+    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near Wacker/Harbor",
+    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker & Columbus: due to, street blockage near Wacker/Harbor",
     "FullDescription": {
-      "#cdata-section": "<p>Howard- Bound Red Line trains are experiencing a delay at 95th: due to police activity.</p>\r\n\r\n<p>Updates will be posted as new information becomes available.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker and&nbsp;Columbus: due to, street blockage near Wacker/Harbor.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-24T04:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101180"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8ce8043c-4e6e-4102-b16b-18c82f358020"
+  },
+  {
+    "AlertId": "101285",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running w/residual delays following earlier police activity at 95th. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running w/residual delays following earlier police activity at 95th</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2024-07-29T08:09:00",
     "EventEnd": null,
     "TBD": "1",
@@ -44,40 +78,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "b9f443d1-ee2d-484e-9a66-1c85a13a0575"
-  },
-  {
-    "AlertId": "101180",
-    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near Wacker/Harbor",
-    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker & Columbus: due to, street blockage near Wacker/Harbor",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker and&nbsp;Columbus: due to, street blockage near Wacker/Harbor.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-07-24T04:19:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101180"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
-        "ServiceBackColor": "b71234",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8ce8043c-4e6e-4102-b16b-18c82f358020"
+    "GUID": "fec6c73b-6bd7-418b-b706-291dd702b995"
   }
 ]
