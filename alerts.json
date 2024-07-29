@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "101285",
+    "Headline": "Delays at 95th Affecting Howard-BOUND Red Line Service",
+    "ShortDescription": "Howard- Bound Red Line trains are experiencing a delay at 95th: due to police activity. Update to follow.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard- Bound Red Line trains are experiencing a delay at 95th: due to police activity.</p>\r\n\r\n<p>Updates will be posted as new information becomes available.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-07-29T08:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101285"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "95th/Dan Ryan",
+          "ServiceId": "40450",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=13"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b9f443d1-ee2d-484e-9a66-1c85a13a0575"
+  },
+  {
     "AlertId": "101180",
     "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near Wacker/Harbor",
     "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker & Columbus: due to, street blockage near Wacker/Harbor",
