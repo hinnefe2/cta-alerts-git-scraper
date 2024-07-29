@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "101280",
-    "Headline": "Loop-bound Pink Line Delays",
-    "ShortDescription": "Loop-bound Pink Line trains are running w/residual delays at 54th/Cermak. Service is resuming, allow extra time.",
+    "AlertId": "101180",
+    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near Wacker/Harbor",
+    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker & Columbus: due to, street blockage near Wacker/Harbor",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Pink Line trains are running with residual delays at 54th/Cermak.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker and&nbsp;Columbus: due to, street blockage near Wacker/Harbor.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-07-28T23:01:00",
-    "EventEnd": "2024-07-28T23:20:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-24T04:19:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101280"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101180"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "b71234",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "c3988b2e-17a2-43c5-af1b-9d3e7a2bf0ea"
+    "GUID": "8ce8043c-4e6e-4102-b16b-18c82f358020"
   },
   {
     "AlertId": "101275",
@@ -66,40 +66,6 @@
     },
     "ttim": "0",
     "GUID": "6046bfae-7b4d-4c78-a44a-879a6a83d82b"
-  },
-  {
-    "AlertId": "101180",
-    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near Wacker/Harbor",
-    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker & Columbus: due to, street blockage near Wacker/Harbor",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via Lake Shore, Monroe, Michigan, Wacker and&nbsp;Columbus: due to, street blockage near Wacker/Harbor.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-07-24T04:19:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101180"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
-        "ServiceBackColor": "b71234",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8ce8043c-4e6e-4102-b16b-18c82f358020"
   },
   {
     "AlertId": "101279",
