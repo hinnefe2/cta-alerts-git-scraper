@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "101349",
-    "Headline": "63rd-bound Green Line Service Delayed at Garfield",
-    "ShortDescription": "63rd-bound Green Line trains are standing at Garfield due to police activity. Crews working to restore service.",
+    "AlertId": "101309",
+    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near Stetson/Randolph",
+    "ShortDescription": "NB  #6 Jackson Park Exp buses are rrtd via Michigan, Randolph, Columbus, Wacker, then resume their normal route due to street blockage near Stetson/Randolph.",
     "FullDescription": {
-      "#cdata-section": "<p>63rd-bound Green Line trains are standing at Garfield due to police activity.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Northbound</strong>&nbsp; #6 Jackson Park Express buses are temporarily rerouted via Michigan, Randolph, Columbus, Wacker, then resume their normal route (take layover on Wacker between Columbus and Michigan) due to street blockage near Stetson/Randolph.</p>\r\n\r\n<p><strong>Southbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-07-31T17:44:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-07-30T10:17:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101349"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101309"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "1851f346-8001-4997-a8e0-ed08ee637993"
+    "GUID": "8f080887-6973-4168-8596-340248ebe2ce"
   },
   {
     "AlertId": "101328",
@@ -66,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "074c964b-8306-4fdd-a7c6-07f139c94367"
-  },
-  {
-    "AlertId": "101309",
-    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near Stetson/Randolph",
-    "ShortDescription": "NB  #6 Jackson Park Exp buses are rrtd via Michigan, Randolph, Columbus, Wacker, then resume their normal route due to street blockage near Stetson/Randolph.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Northbound</strong>&nbsp; #6 Jackson Park Express buses are temporarily rerouted via Michigan, Randolph, Columbus, Wacker, then resume their normal route (take layover on Wacker between Columbus and Michigan) due to street blockage near Stetson/Randolph.</p>\r\n\r\n<p><strong>Southbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-07-30T10:17:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101309"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
-        "ServiceBackColor": "b71234",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8f080887-6973-4168-8596-340248ebe2ce"
   }
 ]
