@@ -34,40 +34,6 @@
     "GUID": "8f080887-6973-4168-8596-340248ebe2ce"
   },
   {
-    "AlertId": "101354",
-    "Headline": "#80 Irving Park Temporary Eastbound Reroute near irving Park/Key Stone",
-    "ShortDescription": "EB 80 Irving Park buses are temp. rerouted via Irving Park, Avondale,  Pulaski and Irving Park: due to, street blockage near Irving Park/Key Stone.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #80 Irving Park buses are temporarily rerouted via Irving Park, Avondale, Pulaski and Irving Park: due to, street blockage near Irving Park/Key Stone.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-08-01T06:02:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101354"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Irving Park",
-        "ServiceId": "80",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/80/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "5dec7f4a-2dfd-475e-aa72-f62e125ce773"
-  },
-  {
     "AlertId": "101356",
     "Headline": "#52 Kedzie, #52A South Kedzie Temporary Southbound Reroute near Kedzie/Orange Line",
     "ShortDescription": "SB 52 Kedzie, 52A South Kedzie buses are temporarily rerouted via Kedzie, 47th, California, 51st and Kedzie: due to, street blockage near Kedzie/Orange Line.",
@@ -147,5 +113,39 @@
     },
     "ttim": "0",
     "GUID": "3156e740-9e4f-46e1-817c-ecbb3388089b"
+  },
+  {
+    "AlertId": "101354",
+    "Headline": "#80 Irving Park Temporary Eastbound Reroute near irving Park/Key Stone",
+    "ShortDescription": "EB 80 Irving Park buses are temp. rerouted via Irving Park, Avondale,  Pulaski and Irving Park: due to, street blockage near Irving Park/Key Stone.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #80 Irving Park buses are temporarily rerouted via Irving Park, Avondale, Pulaski and Irving Park: due to, street blockage near Irving Park/Key Stone.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-01T06:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101354"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Irving Park",
+        "ServiceId": "80",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/80/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5dec7f4a-2dfd-475e-aa72-f62e125ce773"
   }
 ]
