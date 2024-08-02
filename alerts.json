@@ -34,6 +34,53 @@
     "GUID": "8f080887-6973-4168-8596-340248ebe2ce"
   },
   {
+    "AlertId": "101378",
+    "Headline": "#J14 Jeffery Jump, #15 Jeffery Local Temporary Southbound Reroute near Jeffery/83rd",
+    "ShortDescription": "SB J14 Jeffery Jump, 15 Jeffery Local buses are temp rerouted via Jeffery, 83rd, South Chicago, 85th, Anthony, 87th and Jeffery: near Jeffery/83rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #J14 Jeffery Jump, #15 Jeffery Local buses are temporarily rerouted via Jeffery, 83rd, South Chicago, 85th, Anthony, 87th and Jeffery: due to, street blockage near Jeffery/83rd.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-02T09:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101378"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d926bb2e-5089-4c2c-96c1-7913dd0e3de5"
+  },
+  {
     "AlertId": "101376",
     "Headline": "#9 Ashland , #X9 Ashland Express Temporary Southbound Reroute near Ashland/95th Terminal",
     "ShortDescription": "SB 9 Ashland , X9 Ashland Express buses are temp rerouted via Ashland, 95th, Vincennes, 103rd and Vincennes: due to, street blockage near Ashland/95th Terminal.",
