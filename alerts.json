@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "7f90519e-cd67-42f8-8f16-9cf642b8bf76"
+  },
+  {
+    "AlertId": "101389",
+    "Headline": "#66 Chicago Temporary Reroute near Chicago/Wabash",
+    "ShortDescription": "66 Chicago buses rrtd WB via Chicago, Michigan, Ontario, State and Chicago;Chicago, Sate, Ohio, Michigan and Chicago due to police activity near Chicago/Wabash.",
+    "FullDescription": {
+      "#cdata-section": "<p>#66 Chicago buses are temporarily rerouted in both directions due to police activity near Chicago/Wabash.</p>\r\n\r\n<ul>\r\n\t<li><strong>Westbound</strong> buses will operate via Chicago, Michigan, Ontario, State and&nbsp;Chicago, then resume their normal route.</li>\r\n\t<li><strong>Eastbound</strong> buses will operate via Chicago, Sate, Ohio, Michigan and Chicago, then resume their normal route.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-02T18:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101389"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "107061ea-e360-44a4-9d46-4175c7a92f16"
   }
 ]
