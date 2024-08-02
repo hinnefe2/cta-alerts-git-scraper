@@ -34,53 +34,6 @@
     "GUID": "2153c6ff-60ae-49b4-94df-339c009485df"
   },
   {
-    "AlertId": "101378",
-    "Headline": "#J14 Jeffery Jump, #15 Jeffery Local Temporary Southbound Reroute near Jeffery/83rd",
-    "ShortDescription": "SB J14 Jeffery Jump, 15 Jeffery Local buses are temp rerouted via Jeffery, 83rd, South Chicago, 85th, Anthony, 87th and Jeffery: near Jeffery/83rd.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #J14 Jeffery Jump, #15 Jeffery Local buses are temporarily rerouted via Jeffery, 83rd, South Chicago, 85th, Anthony, 87th and Jeffery: due to, street blockage near Jeffery/83rd.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-08-02T09:41:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101378"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Jump",
-          "ServiceId": "J14",
-          "ServiceBackColor": "0065BD",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Local",
-          "ServiceId": "15",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/15/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "d926bb2e-5089-4c2c-96c1-7913dd0e3de5"
-  },
-  {
     "AlertId": "101384",
     "Headline": "95th-bound Red Line Service Delayed at Thorndale",
     "ShortDescription": "95th-bound Red Line trains are standing at Thorndale due to signal problems. Crews working to restore service.",
@@ -113,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "7f90519e-cd67-42f8-8f16-9cf642b8bf76"
-  },
-  {
-    "AlertId": "101386",
-    "Headline": "95th-bound Red Line Service Delayed near 47th/Dan Ryan",
-    "ShortDescription": "95th-bound Red Line trains are standing near 47th/Dan Ryan due to a sick customer. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are standing near 47th/Dan Ryan due to a sick customer.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-08-02T15:40:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101386"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f25c2a2f-e64f-4a80-b114-f96bba76918a"
   }
 ]
