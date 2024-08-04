@@ -34,40 +34,6 @@
     "GUID": "8938ed26-2138-469e-81ac-4efb0dd5e734"
   },
   {
-    "AlertId": "101415",
-    "Headline": "#53 Pulaski Temporary Reroute at Pulaski/16th",
-    "ShortDescription": "53 Pulaski buses are temporarily rerouted via Pulaski, 16th Street, Central Park, Roosevelt & Pulaski, due to street blockage near Pulaski/16th.",
-    "FullDescription": {
-      "#cdata-section": "<p>#53 Pulaski buses are temporarily rerouted in both directions via Pulaski, 16th Street, Central Park, Roosevelt&nbsp;and&nbsp;Pulaski, due to street blockage near Pulaski/16th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-08-04T10:37:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101415"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pulaski",
-        "ServiceId": "53",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/53/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "37ddb47e-0bf8-439c-aa8c-fcf61eae9b90"
-  },
-  {
     "AlertId": "101419",
     "Headline": "Pink Line Service Running with Delays",
     "ShortDescription": "Pink Line trains are running with significant delays in both directions.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "a4d2fcbf-eb37-44df-adc4-f259d582091b"
+  },
+  {
+    "AlertId": "101421",
+    "Headline": "O'Hare-bound  Blue Line Service Delayed at Kedzie",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Kedzie due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Kedzie due to a sick customer.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-08-04T18:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101421"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9afd678f-52fa-49ad-95e3-1ccc50e5a21c"
   }
 ]
