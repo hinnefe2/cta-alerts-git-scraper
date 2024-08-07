@@ -117,14 +117,14 @@
   {
     "AlertId": "101484",
     "Headline": "Forest Park-bound Blue Line Service Delayed a Clark/Lake",
-    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Clark/Lake due to an unauthorized person on the tracks. Crews working to restore service.",
+    "ShortDescription": "Forest Park-bound Blue Line trains are still standing at Clark/Lake due to an obstruction. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Clark/Lake due to an unauthorized person on the tracks.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are still standing at Clark/Lake due to an obstruction.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2024-08-07T16:54:00",
     "EventEnd": null,
     "TBD": "1",
@@ -146,6 +146,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "c82e98dd-c259-419e-bc49-14b53f9b34c1"
+    "GUID": "610e83e0-0d57-4f56-97a5-de29a9be9744"
+  },
+  {
+    "AlertId": "101485",
+    "Headline": "#20 Madison Temporary Reroute near Madison/Hamlin",
+    "ShortDescription": "20 Madison rtd WB via Mdsn, Homan, Wshngtn, Cntrl Park & Madison; EB via Madison, Cntrl Park, Wshngtn, Warren, Homan & Madison due to blockage nr Madison/Hamlin",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#20 Madison buses are temporarily rerouted in both directions due to street blockage near Madison/Hamlin.</p>\r\n\r\n<ul>\r\n\t<li><strong>Westbound </strong>buses will operate via via Madison, Homan, Washington, Central Park and Madison.</li>\r\n\t<li><strong>Eastbound </strong>buses will operate via Madison, Central Park, Washington, Warren, Homan and Madison.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-07T17:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101485"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3b19322a-cd8a-4220-b3ca-136f8c8d4668"
   }
 ]
