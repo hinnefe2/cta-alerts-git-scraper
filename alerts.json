@@ -38,12 +38,12 @@
     "Headline": "Howard-bound Red Line Service Delayed at 69th",
     "ShortDescription": "Howard-bound Red Line trains are standing at 69th due to police activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are standing at 69th due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing at 69th due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2024-08-10T17:00:00",
     "EventEnd": null,
     "TBD": "1",
@@ -65,6 +65,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "6663ae31-2f3b-4e20-a17e-1f7da6c37dc3"
+    "GUID": "421e0455-ed6b-4645-b664-0a448d1faae6"
+  },
+  {
+    "AlertId": "101568",
+    "Headline": "#8 Halsted Temporary Reroute at Halsted/74th Street",
+    "ShortDescription": "8 Halsted buses are temporarily rerouted in both directions via Halsted, 79th, Racine, 71st and Halsted due to police activity near Halsted/74th Street.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#8 Halsted&nbsp; buses are temporarily rerouted in both directions via Halsted, 79th, Racine, 71st, then resume their normal route on Halsted due to police activity near Halsted/74th Street.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-10T17:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101568"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Halsted",
+        "ServiceId": "8",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/8/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cf61bff9-4cfa-49af-91e7-74106f86bcc9"
   }
 ]
