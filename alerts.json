@@ -34,37 +34,71 @@
     "GUID": "42dd5b4a-41a0-41ed-8625-74dc56d3bfde"
   },
   {
-    "AlertId": "101550",
-    "Headline": "Blue Line Delays",
-    "ShortDescription": "Blue Line trains are running w/residual delays following earlier police activity at Addison. Service is resuming, allow extra time.",
+    "AlertId": "101551",
+    "Headline": "#71 71st/South Shore Temporary Reroute at Commercial/87th",
+    "ShortDescription": "#71 71st/South Shore buses are temporarily rerouted via Commercial, 87th, Houston, 89th and Commercial: due to, street blockage near Commercial/87th.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running with residual delays following earlier police activity at Addison.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#71 71st/South Shore buses are temporarily rerouted via Commercial, 87th, Houston, 89th and Commercial: due to, street blockage near Commercial/87th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-08-10T07:12:00",
-    "EventEnd": "2024-08-10T07:30:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-10T07:33:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101550"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101551"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "616b4429-2b77-4b44-820c-0fc8864d5b7a"
+    "GUID": "f45df6b3-5672-4e9e-a908-7141475e10c7"
+  },
+  {
+    "AlertId": "101552",
+    "Headline": "#87 87th Temporary Westbound Reroute near Commercial/87th",
+    "ShortDescription": "Westbound 87 87th buses are temporarily rerouted via 91st, Commercial, 89th, Houston and 87th: due to, street blockage near Commercial/87th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #87 87th buses are temporarily rerouted via 91st, Commercial, 89th, Houston and 87th: due to, street blockage near Commercial/87th.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-10T07:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101552"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "87th",
+        "ServiceId": "87",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/87/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "44c3ca1c-dcb0-45f2-a6e9-d65083567017"
   }
 ]
