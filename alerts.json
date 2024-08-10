@@ -32,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "42dd5b4a-41a0-41ed-8625-74dc56d3bfde"
+  },
+  {
+    "AlertId": "101555",
+    "Headline": "Loop-bound Brown Line Service Running with Delays",
+    "ShortDescription": "Loop-bound Brown Line trains are running with delays from Kimball.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Brown Line trains are running with delays from Kimball.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-08-10T11:08:00",
+    "EventEnd": "2024-08-10T11:15:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101555"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "faae3aa8-ddd9-4da7-a9eb-824d06aae738"
   }
 ]
