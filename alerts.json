@@ -69,10 +69,10 @@
   },
   {
     "AlertId": "101585",
-    "Headline": "Yellow Line Service Delayed at Skokie",
-    "ShortDescription": "Yellow Line trains are still standing near the area of DempsterSkokie Skokie due to a sick customer.",
+    "Headline": "Yellow Line Service Delayed at Dempster-Skokie",
+    "ShortDescription": "Yellow Line trains are still standing near the area of Dempster-Skokie Skokie due to a sick customer.",
     "FullDescription": {
-      "#cdata-section": "<p>Yellow Line trains are still standing near the area of DempsterSkokie Skokie due to a sick customer.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Yellow Line trains are still standing near the area of Dempster-Skokie Skokie due to a sick customer.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -99,6 +99,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "8409aa72-5d7c-4db1-9f9d-f2658a694c3a"
+    "GUID": "ad9e6a26-32da-40df-8db2-e58055cc9e62"
+  },
+  {
+    "AlertId": "101586",
+    "Headline": "No trains between 54th/Cermak and Central Park",
+    "ShortDescription": "Pink Line service has been temporarily suspended between 54th/Cermak and Central Park due to debris on the tracks.",
+    "FullDescription": {
+      "#cdata-section": "<p>Pink Line service has been temporarily suspended between 54th/Cermak and Central Park due to debris on the tracks.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between The&nbsp;Loop&nbsp;and Central Park&nbsp;at this time.</strong></p>\r\n\r\n<p>Shuttle buses <strong>have been requested</strong>&nbsp;to provide connecting service through the affected area.&nbsp;</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2024-08-11T16:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101586"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c1dd6e8b-0d1c-4085-89f7-f159f0ef4240"
   }
 ]
