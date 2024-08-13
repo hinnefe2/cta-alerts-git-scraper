@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "bc3968b9-d440-4ba8-a3b4-0797bbe19572"
+  },
+  {
+    "AlertId": "101611",
+    "Headline": "Green Line Service Delayed near Conservatory",
+    "ShortDescription": "Green Line trains are standing near Conservatory due to fire department activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green Line trains are standing near Conservatory due to fire department activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-08-13T13:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101611"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Conservatory-Central Park Drive",
+          "ServiceId": "41670",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=47"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d0510039-4cd6-43db-9925-98b5485bf086"
   }
 ]
