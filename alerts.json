@@ -36,9 +36,9 @@
   {
     "AlertId": "101620",
     "Headline": "#3 King Drive Temporary Northbound Reroute near 24th Pl/King Drive",
-    "ShortDescription": "Northbound 3 King Drive buses are temporarily rerouted via King Drive, I-55, State, Cermak, and Michigan due to police activity near 24th Pl/King Drive.",
+    "ShortDescription": "Northbound #3 King Drive buses are temporarily rerouted via King Drive, I-55, State, Cermak, and Michigan, due to police activity near 24th Pl/King Drive.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #3 King Drive buses are temporarily rerouted via King Drive, I-55, State, Cermak, and Michigan due to police activity near 24th Pl/King Drive.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #3 King Drive buses are temporarily rerouted via King Drive, I-55, State, Cermak, and Michigan, due to police activity near 24th Pl/King Drive.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -65,6 +65,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "bf5a03aa-9945-48c4-affc-d9f36f9c1757"
+    "GUID": "4cda695e-a23e-4bf3-aa44-4e6f12bd41a2"
+  },
+  {
+    "AlertId": "101621",
+    "Headline": "#21 Cermak Temporary Westbound Reroute near 24th Pl/King Drive",
+    "ShortDescription": "Westbound #21 Cermak buses are temporarily rerouted via King Drive, I-55, State, Cermak, and Michigan, due to police activity near 24th Pl/King Drive.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #21 Cermak buses are temporarily rerouted via King Drive, I-55, State, Cermak, and Michigan, due to police activity near 24th Pl/King Drive.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-13T22:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101621"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cermak",
+        "ServiceId": "21",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/21/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "308b26da-8a9d-457f-b5ae-1db3c97b3fe2"
   }
 ]
