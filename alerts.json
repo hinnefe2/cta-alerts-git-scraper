@@ -36,14 +36,14 @@
   {
     "AlertId": "101637",
     "Headline": "Delays on Loop 'L' (elevated lines)",
-    "ShortDescription": "Brown, Green, Orange and Pink Line trains are experiencing delays due to an unauthorized person the tracks near  Adams/Wabash.",
+    "ShortDescription": "Green, Orange and Pink Line trains are experiencing delays due to an unauthorized person the tracks near  Adams/Wabash.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown, Green, Orange and Pink Line trains are experiencing delays due to an unauthorized person the tracks near&nbsp; Adams/Wabash.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green, Orange and Pink Line trains are experiencing delays due to an unauthorized person the tracks near&nbsp; Adams/Wabash.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2024-08-14T22:38:00",
     "EventEnd": null,
     "TBD": "1",
@@ -78,17 +78,6 @@
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
           "ServiceName": "Orange Line",
           "ServiceId": "Org",
           "ServiceBackColor": "f9461c",
@@ -100,6 +89,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "428b82bd-f829-4944-b843-e97671c53b62"
+    "GUID": "1648546a-de47-4e39-bb94-e188c17a66fd"
   }
 ]
