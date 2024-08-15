@@ -72,12 +72,12 @@
     "Headline": "Green Line Service Delayed at Central",
     "ShortDescription": "Green Line trains are standing near Central due to police activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Green Line trains are standing near Central due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green Line trains are standing near Central due to police activity.</p>\r\n\r\n<p>Shuttle buses have been requested from Harlem and Lake to provide connecting service through the affected area.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2024-08-15T11:51:00",
     "EventEnd": null,
     "TBD": "1",
@@ -112,6 +112,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "c3def22d-c8b6-457e-9eea-adc292a9378f"
+    "GUID": "2faabb11-3f44-4576-ac0e-48882b9a8fec"
+  },
+  {
+    "AlertId": "101647",
+    "Headline": "#70 Division Temporary Eastbound Reroute near Division/Hamlin",
+    "ShortDescription": "Eastbound 70 Division buses are temporarily rerouted via: Division, Hamlin, Augusta, Homan and Division due to, street blockage near Division/Hamlin.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #70 Division buses are temporarily rerouted via: Division, Hamlin, Augusta, Homan and Division due to, street blockage near Division/Hamlin.</p>\r\n\r\n<p>Westbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-15T11:56:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101647"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Division",
+        "ServiceId": "70",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/70/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a8fe06d5-27bf-45b3-8448-fd3a62d00ef3"
   }
 ]
