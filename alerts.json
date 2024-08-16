@@ -68,50 +68,37 @@
     "GUID": "5255d55e-4e0d-493e-83a9-ca825f21f622"
   },
   {
-    "AlertId": "101666",
-    "Headline": "Forest Park-bound Blue Line Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following earlier police activity at Clark/Lake. Service is resuming, allow extra time.",
+    "AlertId": "101667",
+    "Headline": "#96 Lunt Temporary Eastbound Reroute near Touhy/California",
+    "ShortDescription": "Eastbound 96 Lunt buses are temporarily rerouted via Lunt, Touhy, Western, and Lunt: due to, street blockage near Touhy/California.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays following earlier police activity at Clark/Lake.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Eastbound #96 Lunt buses are temporarily rerouted via Lunt, Touhy, Western, and Lunt: due to, street blockage near Touhy/California.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-08-16T06:29:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-16T06:41:00",
+    "EventEnd": "2024-08-19T06:41:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101666"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101667"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Clark/Lake",
-          "ServiceId": "40380",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=43"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Lunt",
+        "ServiceId": "96",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/96/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "89b90810-ada4-46ab-bb42-d6a586ff7c9c"
+    "GUID": "57f137cf-f93c-45b8-80aa-14491bd8758a"
   }
 ]
