@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "9c6e1aac-83a5-41d2-94d1-a82b51fced82"
+  },
+  {
+    "AlertId": "101664",
+    "Headline": "Blue Line Service Delayed at Illinois Medical District",
+    "ShortDescription": "Blue Line trains are standing at Illinois Medical District due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are standing at Illinois Medical District due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-08-16T03:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101664"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Illinois Medical District",
+          "ServiceId": "40810",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=72"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c637ae2e-4897-470d-9fc5-b007386ae10b"
   }
 ]
