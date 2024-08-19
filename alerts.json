@@ -140,7 +140,7 @@
     "Headline": "#9 Ashland and #X9 Ashland Express Temporary Reroute ",
     "ShortDescription": "9 Ashland and X9 Ashland Express buses are temporarily rerouted in both directions due to rally and march.",
     "FullDescription": {
-      "#cdata-section": "<p>#9 Ashland and #X9 Ashland Express buses are temporarily rerouted in both directions due to rally and march.</p>\r\n\r\n<ul>\r\n\t<li><strong>Northbound</strong> buses will operate via Jackson, Halsted, Grand, and Ashland.</li>\r\n\t<li><strong>Southbound</strong> buses will operate via Ashland, Grand, Halsted, Van Buren, and Ashland.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#9 Ashland and #X9 Ashland Express buses are temporarily rerouted in both directions due to rally and march.</p>\r\n\r\n<ul>\r\n\t<li><strong>Northbound</strong> buses will operate via Jackson, Halsted, Grand, and Ashland.</li>\r\n\t<li><strong>Southbound</strong> buses will operate via Ashland, Grand, Halsted, Van Buren, and Ashland.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -180,14 +180,14 @@
       ]
     },
     "ttim": "0",
-    "GUID": "c382f4c6-4f48-4ad1-8c72-d8221f7c5d63"
+    "GUID": "f52e5d35-db60-46aa-b863-8b7f4cfa8418"
   },
   {
     "AlertId": "101727",
     "Headline": "#36 Broadway Temporary Reroute near State/Chestnut",
     "ShortDescription": "#36 Broadway buses rrtd NB via State, Ontario, Dearborn Chicago & State; SB via State, Chicago, Clark, Ohio & State due to police activity near State/Chestnut.",
     "FullDescription": {
-      "#cdata-section": "<p>#36 Broadway buses are temporarily rerouted in both directions due to police activity near State/Chestnut.</p>\r\n\r\n<ul>\r\n\t<li><strong>Northbound</strong> buses will operate via via State, Chicago, Dearborn, Walton, Clark, then resume their normal route.</li>\r\n\t<li>Southbound buses will operate via Clark, Chicago, State, then resume their normal route.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How doe s this affect my trip?</strong></p>\r\n\r\n<p>#36 Broadway buses are temporarily rerouted in both directions due to police activity near State/Chestnut.</p>\r\n\r\n<ul>\r\n\t<li><strong>Northbound</strong> buses will operate via via State, Chicago, Dearborn, Walton, Clark, then resume their normal route.</li>\r\n\t<li>Southbound buses will operate via Clark, Chicago, State, then resume their normal route.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -214,6 +214,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "9bc58848-59e7-4b8a-8106-08ac9d384162"
+    "GUID": "976f65cf-22c8-4928-abd6-029e465c1c81"
+  },
+  {
+    "AlertId": "101728",
+    "Headline": "#34 South Michigan Temporary Reroute at 130th/Paulina",
+    "ShortDescription": "34 South Michigan buses are temp. rerouted in both directions via Michigan, 115th, Bishop Ford, 130th & Eberhart due to street blockage near 130th/Paulina.\r\n\r\n",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#34 South Michigan buses are temporarily rerouted in both directions via Michigan, 115th, Bishop Ford, 130th, Eberhart, then will resume their normal route due to street blockage near 130th/Paulina.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-19T14:30:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101728"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Michigan",
+        "ServiceId": "34",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/34/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a7fb7aa2-6575-438b-94d1-f1f776054ace"
   }
 ]
