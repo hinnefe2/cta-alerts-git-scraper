@@ -69,15 +69,15 @@
   },
   {
     "AlertId": "101718",
-    "Headline": "O'Hare- bound Blue Line Service Delayed at Clark/Lake",
-    "ShortDescription": "O'Hare- bound Blue Line trains are standing at Clark/Lake due to a sick customer. Crews working to restore service.",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "O'Hare- bound Blue Line trains are running w/residual delays following an earlier sick customer at Clark/Lake. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare- bound Blue Line trains are standing at Clark/Lake due to a&nbsp;sick customer.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare- bound Blue Line trains are running w/residual delays following an earlier sick customer at Clark/Lake.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2024-08-19T08:55:00",
     "EventEnd": null,
     "TBD": "1",
@@ -112,6 +112,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "057890ae-073c-4d01-9457-ebb40eab4363"
+    "GUID": "f2b129a2-ffee-4aca-b65e-f9e990709c7b"
+  },
+  {
+    "AlertId": "101719",
+    "Headline": "#66 Chicago Temporary Reroute at Chicago/Monticello",
+    "ShortDescription": "66 Chicago buses are temporarily rerouted via  Chicago, Hamlin, Augusta, Homan and Chicago: due to, street blockage near Chicago/Monticello.",
+    "FullDescription": {
+      "#cdata-section": "<p>#66 Chicago buses are temporarily rerouted via&nbsp; Chicago, Hamlin, Augusta, Homan and Chicago: due to, street blockage near Chicago/Monticello.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-19T08:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101719"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "76e81723-c8a0-47e3-b0cd-1fde6b72c59b"
   }
 ]
