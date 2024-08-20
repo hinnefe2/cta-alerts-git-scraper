@@ -102,71 +102,37 @@
     "GUID": "3e5bb131-06be-4d61-91f9-8c6f0c142215"
   },
   {
-    "AlertId": "101753",
-    "Headline": "Orange Line Service Running with Delays",
-    "ShortDescription": "Orange Line trains are running with delays in the Loop due to an earlier equipment problem.",
+    "AlertId": "101755",
+    "Headline": "#55 Garfield Temporary Westbound Reroute near Garfield/Wolcott",
+    "ShortDescription": "Westbound 55 Garfield buses are temporarily rerouted via  Garfield, Ashland, 59th, Damen and Garfield: due to, street blockage near Garfield/Wolcott.",
     "FullDescription": {
-      "#cdata-section": "<p>Orange Line trains are running with delays in the Loop due to an earlier equipment problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #55 Garfield buses are temporarily rerouted via&nbsp; Garfield, Ashland, 59th, Damen and Garfield: due to, street blockage near Garfield/Wolcott.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-08-20T12:29:00",
-    "EventEnd": "2024-08-20T12:40:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-20T12:41:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101753"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101755"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Orange Line",
-        "ServiceId": "Org",
-        "ServiceBackColor": "f9461c",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Garfield",
+        "ServiceId": "55",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/55/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "cb22ae4d-7086-436e-9744-4727d98e1578"
-  },
-  {
-    "AlertId": "101754",
-    "Headline": "Orange Line Service Running with Delays",
-    "ShortDescription": "Orange Line trains are running with delays in the Loop due to an earlier equipment problem.",
-    "FullDescription": {
-      "#cdata-section": "<p>Orange Line trains are running with delays in the Loop due to an earlier equipment problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-08-20T12:29:00",
-    "EventEnd": "2024-08-20T12:40:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101754"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Orange Line",
-        "ServiceId": "Org",
-        "ServiceBackColor": "f9461c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/orangeline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "7622a798-90f7-4a4b-94a9-69ebe6b63da0"
+    "GUID": "47d70eae-6db4-41ae-a680-98204169d47f"
   }
 ]
