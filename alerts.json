@@ -100,5 +100,120 @@
     },
     "ttim": "0",
     "GUID": "8c54eae7-77e1-4238-a564-0aeb8433c491"
+  },
+  {
+    "AlertId": "101761",
+    "Headline": "#20 Madison Temporary Eastbound Reroute near Western/Adams.",
+    "ShortDescription": "EB 20 Madison buses are temp. rerouted via Madison, Harrison, California, Madison, then resume their normal route on due to street blockage near Western/Adams.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Eastbound</strong> #20 Madison buses are temporarily rerouted via Madison, Harrison, California, Madison, then resume their normal route on due to street blockage near <strong>Western/Adams.</strong></p>\r\n\r\n<p><strong>Westbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-20T18:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101761"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ca6cf575-bcf4-4bc2-b3bc-5b37a1f31232"
+  },
+  {
+    "AlertId": "101762",
+    "Headline": "Northbound #49 Western and #X49 Western Express Temporary Northbound Reroute near Western/Adams",
+    "ShortDescription": "Northbound 49 Western and X49 Western Exp buses are rerouted via Western, Harrison, California, Madison and Western due to street blockage near Western/Adams.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Northbound </strong>#49 Western and #X49 Western Express buses are temporarily rerouted via Western, Harrison, California, Madison, then resume their normal route on Western due to street blockage near Western/Adams.</p>\r\n\r\n<p><strong>Southbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-20T18:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101762"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "North Western",
+          "ServiceId": "49B",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49b/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western Express",
+          "ServiceId": "X49",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "7cd010b5-c478-4de3-a360-e1ef4db463a1"
+  },
+  {
+    "AlertId": "101763",
+    "Headline": "#50 Damen Temporary Northbound Reroute near Western/Adams",
+    "ShortDescription": "Northbound 50 Damen buses are temporarily rerouted via Damen, Harrison, California, Madison, Western, Grand & Damen due to street blockage near Western/Adams.\r\n",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Northbound </strong>#50 Damen buses are temporarily rerouted via Damen, Harrison, California, Madison, Western, Grand, then resume their normal route on Damen due to street blockage near Western/Adams.</p>\r\n\r\n<p><strong>Southbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-20T18:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101763"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Damen",
+        "ServiceId": "50",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/50/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f78cb3f4-9502-4ea7-b9fd-fc9a532853ac"
   }
 ]
