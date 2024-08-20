@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "101716",
-    "Headline": "#96 Lunt Temporary Westbound Reroute near Lunt/Glenwood",
-    "ShortDescription": "Westbound 96 Lunt buses are temporarily rerouted via Lunt, Morse, Sheridan, Pratt, Ashland and Lunt: due to, street blockage near Lunt/Glenwood.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #96 Lunt buses are temporarily rerouted via Lunt, Morse, Sheridan, Pratt, Ashland and Lunt: due to, street blockage near Lunt/Glenwood.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-08-19T08:32:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101716"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Lunt",
-        "ServiceId": "96",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/96/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "33184066-73db-4f50-8a80-c6db0622966b"
-  },
-  {
     "AlertId": "101717",
     "Headline": "#49B North Western Temporary Southbound Reroute near Western/Leland",
     "ShortDescription": "Southbound 49B North Western  buses are temporarily rerouted via Western, Leland, Wilson and Western: due to, street blockage near Western/Leland.",
@@ -239,16 +205,16 @@
   },
   {
     "AlertId": "101737",
-    "Headline": "Blue Line Service Temporarily Disrupted West of Downtown",
-    "ShortDescription": "Blue Line service is temporarily disrupted between Kedzie-Homan and Clinton—and Western, IMD, Racine & UIC are closed—at the request of public safety officials.",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running w/residual delays and congestion following an earlier disruption from a request by public safety officials. Service is resuming.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line service is temporarily disrupted between Kedzie-Homan and Clinton&mdash;and Western, Illinois Medical District, Racine &amp; UIC-Halsted are closed&mdash;at the request of public safety officials.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are running w/residual delays and congestion following an earlier disruption from a request by public safety officials. Service is resuming, allow extra time.<br />\r\n<br />\r\nTrains are moving and normal service is being restored by our staff as quickly as possible.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
+    "SeverityScore": "80",
     "SeverityColor": "c00c00",
     "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2024-08-19T19:56:00",
+    "Impact": "Major Delays",
+    "EventStart": "2024-08-19T20:43:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
@@ -256,19 +222,65 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101737"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Illinois Medical District",
+          "ServiceId": "40810",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=72"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Racine",
+          "ServiceId": "40470",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=117"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "UIC-Halsted",
+          "ServiceId": "40350",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=132"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Western (Forest Park Branch)",
+          "ServiceId": "40220",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=137"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
         }
-      }
+      ]
     },
-    "ttim": "1",
-    "GUID": "49d30387-f842-46b1-9536-d019fa32999d"
+    "ttim": "0",
+    "GUID": "f987f8f7-0339-4baa-846b-0f4d052fb6cd"
   }
 ]
