@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "ede33a19-60fe-4a71-8b11-3c4977e0fbb7"
+  },
+  {
+    "AlertId": "101799",
+    "Headline": "#9 Ashland and #X9 Ashland Express Temporary Reroute at Ashland/Harrison",
+    "ShortDescription": "9 Ashland and X9 Ashland Express buses are rerouted in both directions via Ashland, Harrison, Halsted, Grand & Ashland due to large crowds near Ashland/Harrison",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#9 Ashland and #X9 Ashland Express buses are temporarily rerouted in both directions via Ashland, Harrison, Halsted, Grand, then resume their normal route on Ashland due to large crowds near Ashland/Harrison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-21T17:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101799"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "efc3ea94-9b2f-4af9-ac53-f8335605a69c"
   }
 ]
