@@ -146,7 +146,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "29c18283-7360-48b9-b049-36ef9e07d0d0"
+    "GUID": "0f05df6f-cdbf-4896-9111-7516d0efd108"
   },
   {
     "AlertId": "101763",
@@ -180,6 +180,86 @@
       }
     },
     "ttim": "0",
-    "GUID": "e664c4c3-4663-4671-a0e7-878dbfa28471"
+    "GUID": "cad31471-0654-43b2-8ba2-52634cd0eda7"
+  },
+  {
+    "AlertId": "101766",
+    "Headline": "Temporary Reroute near Madison/Canal",
+    "ShortDescription": "J14, 20, 50, 60, 124 buses are temporarily rerouted in the area away from Madison/Canal due to police activity from a protest. Updates to follow.",
+    "FullDescription": {
+      "#cdata-section": "<p>J14, 20, 50, 60, 124 buses are temporarily rerouted in the area away from Madison/Canal due to police activity from a protest. Updates to follow when more details are available.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-20T19:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101766"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Madison",
+          "ServiceId": "20",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/20/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Milwaukee",
+          "ServiceId": "56",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/56/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Blue Island/26th",
+          "ServiceId": "60",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/60/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Navy Pier",
+          "ServiceId": "124",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/124/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "35da9ad2-333c-4473-86e2-24aecd3dc5b6"
   }
 ]
