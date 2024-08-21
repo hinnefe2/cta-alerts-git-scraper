@@ -184,10 +184,10 @@
   },
   {
     "AlertId": "101766",
-    "Headline": "Temporary Reroute near Madison/Canal",
-    "ShortDescription": "J14, 20, 50, 60, 124 buses are temporarily rerouted in the area away from Madison/Canal due to police activity from a protest. Updates to follow.",
+    "Headline": "Updated: Temporary Reroute near Madison/Canal and Adams/Canal",
+    "ShortDescription": "J14, 20, 50, 60, 124, 126, 151 buses are temporarily rerouted in the area away from Madison/Canal and Adams/Canal due to police activity. Updates to follow.",
     "FullDescription": {
-      "#cdata-section": "<p>J14, 20, 50, 60, 124 buses are temporarily rerouted in the area away from Madison/Canal due to police activity from a protest. Updates to follow when more details are available.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Buses are temporarily rerouted in the area away from Madison/Canal and Adams/Canal due to police activity from a protest. Updates to follow when more details are available.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -256,10 +256,32 @@
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/bus/124/"
           }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson",
+          "ServiceId": "126",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/126/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "35da9ad2-333c-4473-86e2-24aecd3dc5b6"
+    "GUID": "f3bb9b38-57b4-46d8-94d8-88632658b01e"
   }
 ]
