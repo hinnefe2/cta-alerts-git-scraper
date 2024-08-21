@@ -184,16 +184,16 @@
   },
   {
     "AlertId": "101766",
-    "Headline": "Updated: Temporary Reroute near Madison/Canal and Adams/Canal",
-    "ShortDescription": "J14, 20, 50, 60, 124, 126, 151 buses are temporarily rerouted in the area away from Madison/Canal and Adams/Canal due to police activity. Updates to follow.",
+    "Headline": "Updated: Temporary Reroute near Jackson/Canal",
+    "ShortDescription": "60, 126, 151 buses are temporarily rerouted in the area away Adams/Canal due to police activity. 20 buses have resumed.",
     "FullDescription": {
-      "#cdata-section": "<p>Buses are temporarily rerouted in the area away from Madison/Canal and Adams/Canal due to police activity from a protest. Updates to follow when more details are available.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>60, 126, 151 buses are temporarily rerouted in the area away Adams/Canal due to police activity. 20 buses have resumed.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-08-20T19:00:00",
+    "EventStart": "2024-08-20T23:02:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
@@ -205,56 +205,12 @@
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Jump",
-          "ServiceId": "J14",
-          "ServiceBackColor": "0065BD",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Madison",
-          "ServiceId": "20",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/20/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Milwaukee",
-          "ServiceId": "56",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/56/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
           "ServiceName": "Blue Island/26th",
           "ServiceId": "60",
           "ServiceBackColor": "565a5c",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/bus/60/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Navy Pier",
-          "ServiceId": "124",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/124/"
           }
         },
         {
@@ -282,14 +238,14 @@
       ]
     },
     "ttim": "0",
-    "GUID": "766f6b18-a628-4344-ba05-445625b37e49"
+    "GUID": "c9d38e3b-fc94-4840-97e5-a2e92de8ab36"
   },
   {
     "AlertId": "101767",
-    "Headline": "# 9 Ashland Temporary Reroute near Ashland/52nd",
-    "ShortDescription": "9 Ashland buses temp. rerouted NB via Ashland, 55th, Racine, 51st & Ashland; SB via Ashland, 51st, Damen, 55th due to police activity near Ashland/52nd.",
+    "Headline": "#9 Ashland Temporary Southbound Reroute near Ashland/52nd",
+    "ShortDescription": "Update: SB 9 Ashland buses temporarily rerouted via Ashland, 51st, Damen, 55th and Ashland, due to police activity near Ashland/52nd. NB buses unaffected.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#9 Ashland buses are temporarily rerouted in both directions due to police activity near Ashland/52nd.</p>\r\n\r\n<ul>\r\n\t<li><strong>Northbound</strong> buses will operate via Ashland, 55th, Racine, 51st, then resume their normal route on Ashland.</li>\r\n\t<li><strong>Southbound </strong>buses will operate via Ashland, 51st, Damen, 55th, then resume their normal route on Ashland.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>UPDATE:</strong> Southbound&nbsp;#9 Ashland buses are temporarily rerouted via Ashland, 51st, Damen, 55th, then resume their normal route on Ashland.</p>\r\n\r\n<p><strong>Northbound buses are not affected.</strong></p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -316,40 +272,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "56a6a4fd-f071-4622-a1f4-a7b49e594178"
-  },
-  {
-    "AlertId": "101770",
-    "Headline": "#124 Navy Pier Temporary Reroute near Madison/Canal",
-    "ShortDescription": "124 Navy Pier buses rrtd SB Michigan, Adams, Des Plaines, Harrison; NB via Harrison, Dearborn & Washington due to street blockage near Madison/Canal.",
-    "FullDescription": {
-      "#cdata-section": "<p>#124 Navy Pier buses are temporarily rerouted in both directions due to street blockage near Madison/Canal.</p>\r\n\r\n<ul>\r\n\t<li><strong>Southbound </strong>buses will operate via Michigan, Adams, Des Plaines, Harrison then resume their normal route.</li>\r\n\t<li><strong>Northbound</strong> buses will operate via Harrison, Dearborn, Washington, then resume their normal route.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-08-20T21:21:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101770"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Navy Pier",
-        "ServiceId": "124",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/124/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "41a761df-ff61-40c6-99b8-29a186044638"
+    "GUID": "c723b36f-5a2c-4d5e-b5a6-54fc6fb318cc"
   }
 ]
