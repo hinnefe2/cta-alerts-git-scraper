@@ -282,7 +282,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "e90ec186-f49b-4ee7-98ae-eb4ccd60107e"
+    "GUID": "766f6b18-a628-4344-ba05-445625b37e49"
   },
   {
     "AlertId": "101767",
@@ -351,5 +351,73 @@
     },
     "ttim": "0",
     "GUID": "3771a914-8b95-4d08-9431-31dacae7dae7"
+  },
+  {
+    "AlertId": "101769",
+    "Headline": "#60 Blue Island/26th Temporary Reroute near Madison/Canal",
+    "ShortDescription": "60 Blue Island/26th buses rrtd WB Madison, State, Adams, Halsted & Harrison; EB via Harrison, Dearborn, Washington due to street blockage near Madison/Canal.",
+    "FullDescription": {
+      "#cdata-section": "<p>How does this affect my trip?</p>\r\n\r\n<p>#60 Blue Island/26th&nbsp;buses are temporarily rerouted in both directions due to street blockage near Madison/Canal</p>\r\n\r\n<ul>\r\n\t<li><strong>Westbound</strong> buses will operate via Madison, State, Adams, Halsted, Harrison then resume their normal route.</li>\r\n\t<li><strong>Eastbound</strong> buses will operate via Harrison, Dearborn, Washington, then resume their normal route.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-20T21:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101769"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Blue Island/26th",
+        "ServiceId": "60",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/60/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f14d0cdb-79dc-40ce-9e4a-49428186a163"
+  },
+  {
+    "AlertId": "101770",
+    "Headline": "#124 Navy Pier Temporary Reroute near Madison/Canal",
+    "ShortDescription": "124 Navy Pier buses rrtd SB Michigan, Adams, Des Plaines, Harrison; NB via Harrison, Dearborn & Washington due to street blockage near Madison/Canal.",
+    "FullDescription": {
+      "#cdata-section": "<p>#124 Navy Pier buses are temporarily rerouted in both directions due to street blockage near Madison/Canal.</p>\r\n\r\n<ul>\r\n\t<li><strong>Southbound </strong>buses will operate via Michigan, Adams, Des Plaines, Harrison then resume their normal route.</li>\r\n\t<li><strong>Northbound</strong> buses will operate via Harrison, Dearborn, Washington, then resume their normal route.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-20T21:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101770"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Navy Pier",
+        "ServiceId": "124",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/124/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "41a761df-ff61-40c6-99b8-29a186044638"
   }
 ]
