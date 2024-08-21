@@ -103,10 +103,10 @@
   },
   {
     "AlertId": "101762",
-    "Headline": "#49 Western and #X49 Western Express Temporary Northbound Reroute near Western/Adams",
-    "ShortDescription": "Northbound 49 Western and X49 Western Exp buses are rerouted via Western, Jackson, California, Madison and Western due to street blockage near Western/Adams.",
+    "Headline": "#49 Western Temporary Northbound Reroute near Western/Adams",
+    "ShortDescription": "Northbound 49 Western buses are rerouted via Western, Jackson, California, Warren and Western due to street blockage near Western/Adams.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Northbound </strong>#49 Western and #X49 Western Express buses are temporarily rerouted via Western, Jackson, California, Madison, then resume their normal route on Western due to street blockage near Western/Adams.</p>\r\n\r\n<p><strong>Southbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Northbound </strong>#49 Western buses are temporarily rerouted via Western, Jackson, California, Warren,&nbsp;then resume their normal route on Western due to street blockage near Western/Adams.</p>\r\n\r\n<p><strong>Southbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -120,33 +120,20 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101762"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "North Western",
-          "ServiceId": "49B",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/49b/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western Express",
-          "ServiceId": "X49",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "00a078",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Western",
+        "ServiceId": "49",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/49/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "0f05df6f-cdbf-4896-9111-7516d0efd108"
+    "GUID": "1cf9e196-f948-448f-8608-1c5c789fafea"
   },
   {
     "AlertId": "101763",
