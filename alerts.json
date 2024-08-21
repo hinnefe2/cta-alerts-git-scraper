@@ -32,5 +32,86 @@
     },
     "ttim": "0",
     "GUID": "3e5bb131-06be-4d61-91f9-8c6f0c142215"
+  },
+  {
+    "AlertId": "101778",
+    "Headline": "#49 Western, X49 Western Express Temporary Northbound Reroute near Western/Adams",
+    "ShortDescription": "NB 49 Western, X49 Western buses are temporarily rerouted via Western, Jackson, California, Madison and Western: due to, police activity near Western/Adams.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #49 Western, #X49 Western buses are temporarily rerouted via Western, Jackson, California, Madison and Western: due to, police activity near Western/Adams.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-21T05:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101778"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western",
+          "ServiceId": "49",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western Express",
+          "ServiceId": "X49",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c65803ba-c837-4e27-b23a-0d16350e7ac6"
+  },
+  {
+    "AlertId": "101779",
+    "Headline": "#20 Madison Temporary Westbound Reroute near Western/Adams",
+    "ShortDescription": "Westbound 20 Madison buses are temporarily rerouted via Madison, Ashland, Harrison, California and Madison: due to, police activity near Western/Adams.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #20 Madison buses are temporarily rerouted via Madison, Ashland, Harrison, California and Madison: due to, police activity near Western/Adams.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-21T05:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101779"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6fe23ee7-f8a6-4150-845b-5be20d01fd2e"
   }
 ]
