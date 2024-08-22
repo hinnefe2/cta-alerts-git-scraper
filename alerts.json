@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "ecf92987-6474-40b6-97cd-cf45c0647e27"
+  },
+  {
+    "AlertId": "101822",
+    "Headline": "#9 Ashland and #X9 Ashland ExpressTemporary Reroute at Ashland/Washington",
+    "ShortDescription": "9 Ashland and X9 Ashland Express buses are rerouted via Ashland, Harrison, Halsted, Grand & Ashland due to police activity near Ashland/Washington.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#9 Ashland and #X9 Ashland Express buses are temporarily rerouted in both directions via Ashland, Harrison, Halsted, Grand, then resume their normal route on Ashland due to police activity near Ashland/Washington.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-22T18:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101822"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "135dbaa1-292b-4f16-8049-71ca72570f27"
   }
 ]
