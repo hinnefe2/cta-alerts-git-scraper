@@ -102,53 +102,6 @@
     "GUID": "ecf92987-6474-40b6-97cd-cf45c0647e27"
   },
   {
-    "AlertId": "101822",
-    "Headline": "#9 Ashland and #X9 Ashland ExpressTemporary Reroute at Ashland/Washington",
-    "ShortDescription": "9 Ashland and X9 Ashland Express buses are rerouted via Ashland, Harrison, Halsted, Grand & Ashland due to police activity near Ashland/Washington.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#9 Ashland and #X9 Ashland Express buses are temporarily rerouted in both directions via Ashland, Harrison, Halsted, Grand, then resume their normal route on Ashland due to police activity near Ashland/Washington.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-08-22T18:22:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101822"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ashland",
-          "ServiceId": "9",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/9/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ashland Express",
-          "ServiceId": "X9",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "00a078",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "135dbaa1-292b-4f16-8049-71ca72570f27"
-  },
-  {
     "AlertId": "101826",
     "Headline": "#79 79th Temporary Reroute at 79th/Colfax",
     "ShortDescription": "79 79th buses are temporarily rerouted via 79th, Yates, 76th, South Shore, & 79th due to police activity near 79th/Colfax.",
@@ -215,40 +168,6 @@
     },
     "ttim": "0",
     "GUID": "41a5a51d-6b23-4d50-926e-fbfdd1791e3a"
-  },
-  {
-    "AlertId": "101828",
-    "Headline": "#8 Halsted Temporary Reroute at Halsted/52nd",
-    "ShortDescription": "8 Halsted buses are temporarily rerouted via Halsted, 51st, Racine, 55th and Halsted, due to fire department activity near Halsted/52nd.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#8 Halsted buses are temporarily rerouted in both directions via Halsted, 51st, Racine, 55th and resume their normal route on Halsted, due to fire department activity near Halsted/52nd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-08-22T21:47:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101828"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Halsted",
-        "ServiceId": "8",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/8/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ddd0e7db-32f2-4af9-b4a3-69045fc6ae71"
   },
   {
     "AlertId": "101829",
