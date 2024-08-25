@@ -134,5 +134,39 @@
     },
     "ttim": "0",
     "GUID": "9770b15f-e2c4-4665-b935-896d1d965740"
+  },
+  {
+    "AlertId": "101864",
+    "Headline": "#3 King Drive Temporary Reroute near King Drive/50th",
+    "ShortDescription": "3 King Drive buses rrtd NB via King Dr, 51st, Indiana, 47th & King Dr; SB via King Dr, 47th, Michigan, 51st & King Dr due to police activity nr King Drive/50th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does tis affect my trip?</strong></p>\r\n\r\n<p>#3 King Drive buses are temporarily rerouted in both directions near King Drive/50th due to police activity.&nbsp;</p>\r\n\r\n<ul>\r\n\t<li><strong>Northbound</strong> buses will operate via King Drive, 51st, Indiana, 47th, then resume their normal route on King Drive.</li>\r\n\t<li><strong>Southbound</strong> buses will operate via King Drive, 47th, Michigan, 51st, then resume their normal route on King Drive.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-24T22:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101864"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "King Drive",
+        "ServiceId": "3",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/3/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ceaf1ff8-921c-4f00-b1b7-ad89a044359c"
   }
 ]
