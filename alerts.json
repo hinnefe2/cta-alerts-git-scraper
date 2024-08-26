@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "101887",
-    "Headline": "Red Line Delays",
-    "ShortDescription": "Red Line trains are running w/residual delays following earlier interlocking problems at Howard. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running w/residual delays following earlier interlocking problems at Howard.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-08-26T08:43:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101887"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a2591b1d-581f-4398-8d14-2d9f0fb52823"
-  },
-  {
     "AlertId": "101888",
     "Headline": "Purple Line Delays",
     "ShortDescription": "Purple Line trains are running w/residual delays following earlier interlocking problems at Howard. Service is resuming, allow extra time.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "937e3eae-9898-4373-a930-6f60292b8317"
+  },
+  {
+    "AlertId": "101889",
+    "Headline": "Northbound #6 Jackson Park Express buses Reroute near Wacker/Stetson",
+    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via Michigan, Randolph, Columbus and Wacker : due to, street blockage near Stetson/Randolph.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via Michigan, Randolph, Columbus and Wacker : due to, street blockage near Stetson/Randolph.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-26T09:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101889"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "870c5e73-dd73-4e62-b52b-d1600d0c53b6"
   }
 ]
