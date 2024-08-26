@@ -40,10 +40,10 @@
     "FullDescription": {
       "#cdata-section": "<p>Red Line trains are running with delays at Howard due to interlocking problems.</p>\r\n\r\n<p>Shuttle buses are available from Howard to Thorndale to provide additional connecting service through the affected area.</p>\r\n\r\n<p>At this time, also consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2024-08-26T08:43:00",
     "EventEnd": null,
     "TBD": "1",
@@ -65,6 +65,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "03c5d0ff-cac2-405a-85c7-51bd744f19e8"
+    "GUID": "5ca14966-e432-4c85-a7f6-d5cdad33d6fd"
+  },
+  {
+    "AlertId": "101888",
+    "Headline": "Purple Line Service Delayed at Howard",
+    "ShortDescription": "Purple Line trains are standing at Howard due to interlocking problems. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Purple Line trains are standing at Howard due to interlocking problems</p>\r\n\r\n<p>Shuttle buses have been requested&nbsp; from Howard to Linden to provide connecting service through the affected area.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-08-26T08:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101888"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5abbb75d-f0b6-4a9b-ad92-249721ac6d36"
   }
 ]
