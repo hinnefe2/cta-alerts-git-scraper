@@ -38,7 +38,7 @@
     "Headline": "Yellow  Line Service Temporarily Suspended",
     "ShortDescription": "Service on the Yellow Line has been temporarily suspended due to debris on the tracks. ",
     "FullDescription": {
-      "#cdata-section": "<p>Service on the Yellow Line has been temporarily suspended due to debris on the tracks.&nbsp;</p>\r\n\r\n<p>Shuttle buses&nbsp;<strong>have been requested</strong> to provide connecting service through the affected area.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines. This may include: #97 Skokie.</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Service on the Yellow Line has been temporarily suspended due to debris on the tracks.&nbsp;</p>\r\n\r\n<p>Shuttle buses <b>are available from Howard to Skokie</b>&nbsp;to provide connecting service through the affected area.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines. This may include: #97 Skokie.</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "90",
     "SeverityColor": "c00c00",
@@ -65,6 +65,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "277cd4db-c1ea-4502-add8-2818429d3858"
+    "GUID": "ebb2e037-3dac-48ed-8923-b396ef4ea640"
+  },
+  {
+    "AlertId": "101930",
+    "Headline": "#70 Division Temporary Reroute at Division/Kolmer",
+    "ShortDescription": "70 Division  buses are temporarily rerouted via Division, Kostner, Augusta, Cicero and Division: due to, flooding near Division/Kolmar.",
+    "FullDescription": {
+      "#cdata-section": "<p>#70 Division&nbsp; buses are temporarily rerouted via Division, Kostner, Augusta, Cicero and Division: due to, flooding near Division/Kolmar.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-28T05:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101930"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Division",
+        "ServiceId": "70",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/70/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6483d790-5af0-461b-8ee2-c498d2eb9021"
   }
 ]
