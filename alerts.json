@@ -66,5 +66,74 @@
     },
     "ttim": "0",
     "GUID": "ade76715-4978-4227-9b5c-b32358ea524f"
+  },
+  {
+    "AlertId": "101951",
+    "Headline": "#6, #N5, #26, & #71 Temporary Reroute at 79th/South Shore",
+    "ShortDescription": "#6, #N5, #26, & #71 buses are rerouted via 75th, South Shore, 75th, Coles, 79th, & South Shore, due to fire department activity near 79th/South Shore.",
+    "FullDescription": {
+      "#cdata-section": "<p>#6 Jackson Park Express, #N5 South Shore Night Bus, #26 South Shore Express, &amp; #71 71st/South Shore&nbsp;buses are temporarily rerouted in both directions&nbsp;via South Shore, 75th, South Shore, 75th, Coles, 79th, and South Shore, due to fire department activity&nbsp;near 79th/South Shore.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-29T05:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101951"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Night Bus",
+          "ServiceId": "N5",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "009999",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/n5/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "71st/South Shore",
+          "ServiceId": "71",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/71/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "3109f8e7-9033-415b-bdf5-018e8f1151b0"
   }
 ]
