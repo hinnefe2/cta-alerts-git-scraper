@@ -66,5 +66,73 @@
     },
     "ttim": "0",
     "GUID": "ade76715-4978-4227-9b5c-b32358ea524f"
+  },
+  {
+    "AlertId": "101961",
+    "Headline": "#71 71st/South Shore Temporary Reroute at South Shore Drive/82nd",
+    "ShortDescription": "71 71st/South Shore buses are rerouted via Commercial, Exchange, 79th, South Shore & over the normal route due to street blockage at South Shore Drive/82nd.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#71 71st/South Shore buses are temporarily rerouted in both directions via Commercial, Exchange, 79th, South Shore, then resume their normal route due to street blockage at South Shore Drive/82nd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-29T20:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101961"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e8895f9b-1f44-4a48-adfa-49341afa03a0"
+  },
+  {
+    "AlertId": "101962",
+    "Headline": "#26 South Shore Express Temporary Southbound Reroute near South Shore Drive/82nd",
+    "ShortDescription": "SB 26 South Shore Exp buses are rrtd via South Shore, 79th, Exchange, Commercial, then resume their normal route due to street blockage at South Shore Dr/82nd.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong> #26 South Shore Express buses are temporarily rerouted via South Shore, 79th, Exchange, Commercial, then resume their normal route due to street blockage at South Shore Drive/82nd.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-08-29T20:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=101962"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Shore Express",
+        "ServiceId": "26",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/26/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "82e68c26-211f-47fe-a1e9-abf32203672b"
   }
 ]
