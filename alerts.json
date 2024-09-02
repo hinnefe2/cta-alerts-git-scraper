@@ -69,19 +69,19 @@
   },
   {
     "AlertId": "102020",
-    "Headline": "Yellow Line Service Temporarily Suspended",
-    "ShortDescription": "Service on the Yellow Line has been temporarily suspended due to signal problems.",
+    "Headline": "Normal Yellow Line Service Being Restored",
+    "ShortDescription": "Some Yellow Line trains are running with residual delays after earlier signal problems at Howard. Service is resuming.",
     "FullDescription": {
-      "#cdata-section": "<p>Service on the Yellow Line has been temporarily suspended due to signal problems.</p>\r\n\r\n<p>Shuttle buses<strong> have been requested</strong>&nbsp;to provide connecting service through the affected area.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Please consider the #97 Skokie for&nbsp;alternate services.&nbsp;</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Some Yellow Line trains are running with residual delays after earlier signal problems at Howard.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are now moving and service is resuming; allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "90",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Suspended",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2024-09-02T06:04:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "1",
+    "EventEnd": "2024-09-02T07:19:00",
+    "TBD": "0",
+    "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102020"
     },
@@ -99,6 +99,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "df08a3d4-055f-415a-bf7c-5a3ed6d9ad6e"
+    "GUID": "49fc123c-1a82-48ff-9f8a-e4c8c6b3f7ce"
+  },
+  {
+    "AlertId": "102021",
+    "Headline": "Normal Purple Line Service Being Restored",
+    "ShortDescription": "Some Purple Line trains are running with residual delays after earlier signal problems at Howard. Service is resuming.",
+    "FullDescription": {
+      "#cdata-section": "<p>Some Purple Line trains are running with residual delays after earlier signal problems at Howard.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are now moving and service is resuming; allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-09-02T06:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102021"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ed6efdfa-5740-49b7-aea5-984e6a13c2bb"
   }
 ]
