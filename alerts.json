@@ -38,7 +38,7 @@
     "Headline": "No trains at Forest Park",
     "ShortDescription": "Blue Line service has been temporarily suspended at Forest Park due to police activity.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line service has been temporarily suspended at Forest Park due to police activity.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between O&#39;Hare&nbsp;and Harlem (Forest Park Branch)&nbsp;at this time.</strong></p>\r\n\r\n<p>Shuttle buses<strong> have been requested</strong>&nbsp;to provide connecting service through the affected area.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.&nbsp;These may include: #7 Harrison, #50 Damen, or the #49 Western bus.&nbsp;</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line service has been temporarily suspended at Forest Park due to police activity.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between O&#39;Hare&nbsp;and Harlem (Forest Park Branch)&nbsp;at this time.</strong></p>\r\n\r\n<p>Shuttle buses<strong>&nbsp;</strong>are available&nbsp;to provide connecting service through the affected area.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.&nbsp;These may include: #7 Harrison, #50 Damen, or the #49 Western bus.&nbsp;</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "84",
     "SeverityColor": "c00c00",
@@ -65,6 +65,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "dd95be5a-79fe-466a-950a-1beb5af4fac2"
+    "GUID": "d01b911a-6366-4cc2-846b-0f3f0490377f"
+  },
+  {
+    "AlertId": "102020",
+    "Headline": "Yellow Line Service Temporarily Suspended",
+    "ShortDescription": "Service on the Yellow Line has been temporarily suspended due to signal problems.",
+    "FullDescription": {
+      "#cdata-section": "<p>Service on the Yellow Line has been temporarily suspended due to signal problems.</p>\r\n\r\n<p>Shuttle buses<strong> have been requested</strong>&nbsp;to provide connecting service through the affected area.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Please consider the #97 Skokie for&nbsp;alternate services.&nbsp;</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "90",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Suspended",
+    "EventStart": "2024-09-02T06:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "1",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102020"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Yellow Line",
+        "ServiceId": "Y",
+        "ServiceBackColor": "f9e300",
+        "ServiceTextColor": "000000",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/yellowline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "df08a3d4-055f-415a-bf7c-5a3ed6d9ad6e"
   }
 ]
