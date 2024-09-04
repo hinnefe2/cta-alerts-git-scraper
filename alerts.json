@@ -1,49 +1,15 @@
 [
   {
-    "AlertId": "102052",
-    "Headline": "95th-bound Red Line Delays",
-    "ShortDescription": "95th-bound Red Line trains are running w/residual delays following an earlier sick customer at Clark/Division. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are running with residual delays following an earlier sick customer at Clark/Division.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-09-04T00:49:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102052"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "96df8f72-2888-4298-8d25-33686e1cd2f8"
-  },
-  {
     "AlertId": "102053",
     "Headline": "Brown Line Service Delayed near Armitage",
-    "ShortDescription": "Brown Line trains are standing due to a delay near Armitage. Crews working to restore service.",
+    "ShortDescription": "Brown Line trains are standing near Armitage due to a track condition. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are standing due to a delay near Armitage. Crews working to restore service.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line trains are standing near Armitage due to a track condition.</p>\r\n\r\n<p>Shuttle buses are available between Kimball and Belmont to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2024-09-04T01:04:00",
     "EventEnd": null,
     "TBD": "1",
@@ -52,19 +18,32 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102053"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Armitage",
+          "ServiceId": "40660",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=19"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "8f79f5f4-a5bf-4e0d-9592-a0c410634142"
+    "GUID": "3a6de1f3-ad31-4611-81ab-abd6d98dcaef"
   }
 ]
