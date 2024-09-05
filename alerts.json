@@ -102,50 +102,37 @@
     "GUID": "6d40cf2c-d5fc-4eeb-896e-c5a538e3b86c"
   },
   {
-    "AlertId": "102096",
-    "Headline": "Blue Line Delays",
-    "ShortDescription": "Blue Line trains are running w/residual delays following an earlier police activity at UIc-Halsted. Service is resuming, allow extra time.",
+    "AlertId": "102097",
+    "Headline": "#126 Jackson Temporary Reroute near Jackson/Homan",
+    "ShortDescription": "126 Jackson bus temp. rerouted WB: Jackson, Homan and Congress; EB Jackson, 5th Avenue, Homan and Jackson: due to, fire department activity near Jackson/Homan.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running w/residual delays following an earlier police activity at UIC-Halsted.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#126 Jackson&nbsp; buses are temporarily rerouted in both directions near Jackson/Homan&nbsp;due to fire department activity&nbsp;near Homan/Jackson.</p>\r\n\r\n<p>Westbound buses will operate via Jackson, Homan and Congress including the normal route streets.</p>\r\n\r\n<p>Eastbound buses will operate via Jackson, 5th Avenue, Homan and Jackson.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-09-05T13:24:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-05T13:43:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102096"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102097"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "UIC-Halsted",
-          "ServiceId": "40350",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=132"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson",
+        "ServiceId": "126",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/126/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "9793a764-d0de-4dbd-a3bc-9899efda5154"
+    "GUID": "47d4da31-68b5-4df4-9b1f-0d73833d50ba"
   }
 ]
