@@ -69,10 +69,10 @@
   },
   {
     "AlertId": "102144",
-    "Headline": "#22 Clark , #24 Wentworth Temporary Northbound Reroute near Clakr/Polk",
-    "ShortDescription": "Northbound  22 Clark , 24 Wentworth buses are temporarily rerouted via Clark, Polk, State, Ida B. Wells and Dearborn: due to, a festival near Clark/Polk.",
+    "Headline": "#22 Clark Temporary Southbound Reroute near Clark/Polk",
+    "ShortDescription": "Southbound 22 Clark buses are temporarily rerouted via Clark, Harrison, Sate, Ida B. Wells and Dearborn: due to, a festival near Clark/Polk.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound&nbsp; #22 Clark , #24 Wentworth buses are temporarily rerouted via Clark, Polk, State, Ida B. Wells and Dearborn: due to, a festival near Clark/Polk.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #22 Clark buses are temporarily rerouted via Clark, Harrison, Sate, Ida B. Wells and Dearborn: due to, a festival near Clark/Polk.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -86,33 +86,20 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102144"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Clark",
-          "ServiceId": "22",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/22/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Wentworth",
-          "ServiceId": "24",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/24/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clark",
+        "ServiceId": "22",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/22/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "777347f2-a657-4723-bf3d-b4cd0f8ddadd"
+    "GUID": "cb7393a4-bdc9-463f-a38e-5ab98e90deb0"
   },
   {
     "AlertId": "102145",
@@ -181,5 +168,39 @@
     },
     "ttim": "0",
     "GUID": "737ee3f9-aa9f-46dc-bd1a-eb15093a808f"
+  },
+  {
+    "AlertId": "102147",
+    "Headline": "#24 Wentworth Temporary Northbound Reroute near Clark/Polk",
+    "ShortDescription": "Northbound 24 Wentworth buses are temporarily rerouted via  Clark, Harrison, State, Ida B. Wells and Dearborn: due to, a festival near Clark/Polk.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #24 Wentworth buses are temporarily rerouted via&nbsp; Clark, Harrison, State, Ida B. Wells and Dearborn: due to, a festival near Clark/Polk.</p>\r\n\r\n<p>&nbsp;Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-06T11:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102147"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Wentworth",
+        "ServiceId": "24",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/24/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "80bec080-c9c0-4902-9209-8ea14017ef03"
   }
 ]
