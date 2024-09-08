@@ -134,5 +134,86 @@
     },
     "ttim": "0",
     "GUID": "8437f2b9-b58c-4e0f-a4da-2ce895097d1b"
+  },
+  {
+    "AlertId": "102170",
+    "Headline": "#111 111th/King Drive & #111A Pullman Shuttle Temporary Reroute at Cottage Grove/107th",
+    "ShortDescription": "111 111th/King Drive & 111A Pullman buses temporarily rerouted via Cottage Grove, 100th, King Drive & 111th, due to police activity near Cottage Grove/107th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#111 111th/King Drive &amp; #111A Pullman Shuttle buses are temporarily rerouted in both directions via Cottage Grove, 100th, King Drive &amp; 111th, due to police activity near Cottage Grove/107th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-08T06:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102170"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "111th/King Drive",
+          "ServiceId": "111",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/111/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Pullman Shuttle",
+          "ServiceId": "111A",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/111a/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "02e6b02b-8e0b-4f3a-91af-87c684267bd4"
+  },
+  {
+    "AlertId": "102171",
+    "Headline": "#115 Pullman/115thTemporary Reroute at Cottage Grove/107th.",
+    "ShortDescription": "115 Pullman/115th buses are temporarily rerouted via Cottage Grove, 100th, King Drive & 111th, due to police activity near Cottage Grove/107th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#115 Pullman/115th buses are temporarily rerouted in both directions via Cottage Grove, 100th, King Drive &amp; 111th, due to police activity near Cottage Grove/107th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-08T06:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102171"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pullman/115th",
+        "ServiceId": "115",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/115/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "57a59035-06d0-425f-bb2d-cdcf575dd429"
   }
 ]
