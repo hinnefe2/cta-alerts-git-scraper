@@ -102,71 +102,37 @@
     "GUID": "4fd45c54-f9a6-412c-a1ae-41dabd5cb98a"
   },
   {
-    "AlertId": "102182",
-    "Headline": "#29 State Temporary Reroute at 63rd/State",
-    "ShortDescription": "#29 State buses are temporarily rerouted via State, Marquette, King Drive, 61st, and State due to an accident near 63rd/State.",
+    "AlertId": "102185",
+    "Headline": "O'Hare-bound Blue Line Service Running with Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running with delays near Pulaski due to an earlier mechanical problem .",
     "FullDescription": {
-      "#cdata-section": "<p>#29 State buses are temporarily rerouted via State, Marquette, King Drive, 61st, and State due to an accident near 63rd/State.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with delays near Pulaski due to an earlier mechanical problem .</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-09-08T22:23:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-09-09T01:40:00",
+    "EventEnd": "2024-09-09T02:41:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102182"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102185"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "State",
-        "ServiceId": "29",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "da612d3c-4671-42e0-8b94-01a6be0e7766"
-  },
-  {
-    "AlertId": "102183",
-    "Headline": "#63 63rdTemporary Reroute near 63rd/State",
-    "ShortDescription": "#63 63rd buses rerouted WB via 63rd, King Drive, Marquette, Wentworth and 63rd; EB via 63rd, Wentworth, 61st, King Drive and 63rd.",
-    "FullDescription": {
-      "#cdata-section": "<p>#63 63rd buses are temporarily rerouted in both directions near 63rd/State, due to an accident&nbsp;near 63rd/State.</p>\r\n\r\n<p>Westbound buses will operate via 63rd, King Drive, Marquette, and Wentworth, then resume their normal route on&nbsp;63rd.</p>\r\n\r\n<p>Eastbound buses will operate via&nbsp;63rd, Wentworth, 61st, and King Drive,&nbsp;then resume their normal route on&nbsp;63rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-09-08T23:20:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102183"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "63rd",
-        "ServiceId": "63",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/63/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ddad4a4b-a7e3-44dc-966d-c3e6a9a1da12"
+    "GUID": "1ba03493-3712-4af8-b143-59ba1fef2a90"
   }
 ]
