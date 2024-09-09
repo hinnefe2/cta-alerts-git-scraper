@@ -113,5 +113,107 @@
     },
     "ttim": "0",
     "GUID": "4542b568-a339-4464-87f9-67710b5c2406"
+  },
+  {
+    "AlertId": "102199",
+    "Headline": "#29 State Temporary Southbound Reroute near 79th/Lafayette",
+    "ShortDescription": "SB 29 State buses are temp. rerouted via Lafayette, 79th, Vincennes, 83rd, Lafayette, then resume their normal route due to police activity at 79th/Lafayette.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Southbound</strong> #29 State buses are temporarily rerouted via Lafayette, 79th, Vincennes, 83rd, Lafayette, then resume their normal route due to police activity at 79th/Lafayette.</li>\r\n\t<li><strong>Northbound</strong> buses are not affected.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-09T17:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102199"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "57f1aa6b-1843-4bbe-9c23-7129dbb9ba68"
+  },
+  {
+    "AlertId": "102200",
+    "Headline": "#79 79th Temporary Reroute near 79th/Lafayette",
+    "ShortDescription": "79 79th buses temp. rerouted EB via 79th, Vincennes, 83rd, State & 79th;WB via 79th, King drive, 76th, Vincennes & 79th due to police activity 79th/Lafayette.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#79 79th buses are temporarily rerouted in both directions due to police activity at 79th/Lafayette.</p>\r\n\r\n<ul>\r\n\t<li><strong>Eastbound</strong> buses will operate via 79th, Vincennes, 83rd, State, then resume their normal route on 79th.</li>\r\n\t<li><strong>Westbound</strong> buses will operate via 79th, King drive, 76th, Vincennes, then resume their normal route on 79th.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-09T18:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102200"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "913001bb-f226-4a6d-8151-bf4839d266d5"
+  },
+  {
+    "AlertId": "102201",
+    "Headline": "#75 74th/75th Temporary Reroute near 79th/Lafayette",
+    "ShortDescription": "75 74th/75th buses rtd EB via 75th, Lafayette, then resume on 75th; WB via 75th, State, then resume on 75th due to police activity near 79th/Lafayette.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this&nbsp;affect my trip?</strong></p>\r\n\r\n<p>#75 74th/75th buses are temporarily rerouted in both directions due to police activity at 79th/Lafayette.</p>\r\n\r\n<ul>\r\n\t<li><strong>Eastbound</strong> buses will operate via 75th, Lafayette, then resume their normal route on 75th.</li>\r\n\t<li><strong>Westbound</strong> buses will operate via 75th, State, then resume their normal route on 75th.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-09T18:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102201"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "74th-75th",
+        "ServiceId": "75",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/75/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5ae3888f-ab00-4915-b5e6-049ea2bc91f1"
   }
 ]
