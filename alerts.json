@@ -181,5 +181,39 @@
     },
     "ttim": "0",
     "GUID": "4390544d-44ff-49e5-bb0a-862be784e637"
+  },
+  {
+    "AlertId": "102221",
+    "Headline": "#201 Central/Ridge Temporary Reroute near Ridge/Monroe",
+    "ShortDescription": "201 Central/Ridge buses rrtd WB via Howard, Asbury, Oakton, Dodge & Dempster;EB via Davis, Dodge, Oakton, Asbury & Howard due to street blockage nr Ridge/Monroe",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#201 Central/Ridge buses are temporarily rerouted in both directions due to street blockage near Ridge/Monroe.</p>\r\n\r\n<ul>\r\n\t<li><strong>Westbound </strong>buses will operate via Howard, Asbury, Oakton, Dodge, Dempster, then resume normal route.</li>\r\n\t<li><strong>Eastbound</strong> buses will operate via Davis, Dodge, Oakton, Asbury, Howard, then resume normal route.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-10T17:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102221"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Central/Ridge",
+        "ServiceId": "201",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/201/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "fea509d7-5f6f-4f7c-905e-48bf09e4a7f5"
   }
 ]
