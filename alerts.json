@@ -47,40 +47,6 @@
     "GUID": "683b328f-79c5-4437-9eba-c048e886b1c2"
   },
   {
-    "AlertId": "102190",
-    "Headline": "#55 Garfield Temporary Reroute at 55th/Western",
-    "ShortDescription": "55 Garfield buses are temporarily rerouted via 55th, Western, 51st, California and 55th, due to street blockage near 55th/Western",
-    "FullDescription": {
-      "#cdata-section": "<p>#55 Garfield buses are temporarily rerouted in both directions via 55th, Western, 51st, California and 55th, due to street blockage near 55th/Western</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-09-09T10:45:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102190"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Garfield",
-        "ServiceId": "55",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/55/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4542b568-a339-4464-87f9-67710b5c2406"
-  },
-  {
     "AlertId": "102207",
     "Headline": "#71 71st/South Shore Temporary Reroute near 79th/Coles",
     "ShortDescription": "71 71st/South Shore buses temp. rerouted Northbound: South Shore and 71st; Southbound: Exchange, 76th and South Shore due to, street blockage near 79th/Coles.",
@@ -147,5 +113,39 @@
     },
     "ttim": "0",
     "GUID": "51679570-5b5d-4d7a-a24b-e719a8111974"
+  },
+  {
+    "AlertId": "102214",
+    "Headline": "#82 Kimball-Homan Temporary Reroute at Central Park/23rd",
+    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via 26th, Kedzie, Cermak and Central Park due to, street blockage near Central Park/23rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted via 26th, Kedzie, Cermak and Central Park due to, street blockage near Central Park/23rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-10T11:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102214"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kimball-Homan",
+        "ServiceId": "82",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/82/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "382c8ad5-eeb1-4c66-828f-3886a63ba53a"
   }
 ]
