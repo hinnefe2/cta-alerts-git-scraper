@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "102230",
-    "Headline": "#120 Ogilvie/Streeterville Express Temporary Northbound Reroute near Lower Wacker/Michigan",
-    "ShortDescription": "NB 120 Ogilvie/Streeterville Express buses are temp. rerouted via: Huron, Ontario, Upper Michigan and Wacker due to, street blockage near Lower Wacker/Michigan.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #120 Ogilvie/Streeterville Express buses are temporarily rerouted via: Huron, Fairbanks, Ontario,&nbsp;Upper Michigan and Wacker due to, street blockage near Lower Wacker/Michigan.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-09-11T07:53:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102230"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Ogilvie/Streeterville Express",
-        "ServiceId": "120",
-        "ServiceBackColor": "ffffff",
-        "ServiceTextColor": "b71234",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/120/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0c040a36-a648-4fdc-bc9e-de57d6ccdb41"
-  },
-  {
     "AlertId": "102231",
     "Headline": "#121 Union/Streeterville Express Temporary Northbound Reroute near Lower Wacker/Michigan",
     "ShortDescription": "NB 121 Union/Streeterville Express buses are temp. rerouted via: Huron, Fairbanks, Ontario, Upper Michigan and Wacker near Lower Wacker/Michigan.",
@@ -181,5 +147,39 @@
     },
     "ttim": "0",
     "GUID": "1395d9c5-d8e5-4523-b2bc-66fff8083088"
+  },
+  {
+    "AlertId": "102239",
+    "Headline": "Brown Line Delays",
+    "ShortDescription": "Brown Line trains are running w/residual delays following an earlier mechanical problem on a train. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line trains are running w/residual delays following an earlier mechanical problem on a train.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-09-11T12:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102239"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8a8e65fb-74f4-43b6-b4bc-1d6dffabc3d6"
   }
 ]
