@@ -115,40 +115,6 @@
     "GUID": "51679570-5b5d-4d7a-a24b-e719a8111974"
   },
   {
-    "AlertId": "102214",
-    "Headline": "#82 Kimball-Homan Temporary Reroute at Central Park/23rd",
-    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via 26th, Kedzie, Cermak and Central Park due to, street blockage near Central Park/23rd.",
-    "FullDescription": {
-      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted via 26th, Kedzie, Cermak and Central Park due to, street blockage near Central Park/23rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-09-10T11:52:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102214"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "382c8ad5-eeb1-4c66-828f-3886a63ba53a"
-  },
-  {
     "AlertId": "102224",
     "Headline": "#94 California Temporary Reroute at California/Flournoy",
     "ShortDescription": "94 California buses are rerouted in both directions via California, Roosevelt, Kedzie, Harrison & California due to police activity near California/Flournoy.",
@@ -181,5 +147,39 @@
     },
     "ttim": "0",
     "GUID": "9cafebd5-b290-4e4a-b77e-33c4077f9532"
+  },
+  {
+    "AlertId": "102226",
+    "Headline": "#8A South Halsted Temporary Reroute at 86th/Vincennes",
+    "ShortDescription": "#8A buses are temporarily rerouted via Halsted, 87th, Vincennes, Summit, and Halsted, due to police activity near 86th/Vincennes.",
+    "FullDescription": {
+      "#cdata-section": "<p>#8A buses are temporarily rerouted via Halsted, 87th, Vincennes, Summit, and Halsted, due to police activity near 86th/Vincennes.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-11T00:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102226"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Halsted",
+        "ServiceId": "8A",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/8a/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "70c7d5e2-d4ab-43b6-a525-1a8920d83159"
   }
 ]
