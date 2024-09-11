@@ -113,5 +113,52 @@
     },
     "ttim": "0",
     "GUID": "1395d9c5-d8e5-4523-b2bc-66fff8083088"
+  },
+  {
+    "AlertId": "102241",
+    "Headline": "Pink Line Delays",
+    "ShortDescription": "Pink Line trains are running w/residual delays following an earlier minor fire at track level at 54th/Cermak. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Pink Line trains are running w/residual delays following an earlier minor fire at track level at 54th/Cermak.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-09-11T14:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102241"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "54th/Cermak",
+          "ServiceId": "40580",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=8"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "8c228865-b2d9-45f8-a382-4ef2b88c3553"
   }
 ]
