@@ -79,5 +79,52 @@
     },
     "ttim": "0",
     "GUID": "ba9911d9-f863-4f56-8bec-757d2e1896f8"
+  },
+  {
+    "AlertId": "102230",
+    "Headline": "#120 Ogilvie/Streeterville Express Temporary Northbound Reroute near Lower Wacker/Michigan",
+    "ShortDescription": "NB 120 Ogilvie/Streeterville Express buses are temp. rerouted via: Huron, Ontario, Upper Michigan and Wacker due to, street blockage near Lower Wacker/Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #120 Ogilvie/Streeterville Express buses are temporarily rerouted via: Huron, Ontario, Upper Michigan and Wacker due to, street blockage near Lower Wacker/Michigan.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-11T07:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102230"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ogilvie/Streeterville Express",
+          "ServiceId": "120",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/120/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Union/Streeterville Express",
+          "ServiceId": "121",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/121/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "cc800652-982e-4e8c-b72b-ae72665f3a1c"
   }
 ]
