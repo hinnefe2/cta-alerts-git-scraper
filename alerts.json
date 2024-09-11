@@ -149,40 +149,6 @@
     "GUID": "e5b73e1b-1636-4a9a-a4ca-3291d9c232c9"
   },
   {
-    "AlertId": "102232",
-    "Headline": "#65 Grand Temporary Eastbound Reroute near Illinois/Clark",
-    "ShortDescription": "Eastbound 65 Grand buses are temporarily rerouted via Grand, LaSalle, Kinzie, State and Illinois due to, a Parade/Festival near Illinois/Clark.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #65 Grand buses are temporarily rerouted via Grand, LaSalle, Kinzie, State and Illinois due to, a&nbsp;Parade/Festival near Illinois/Clark.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-09-11T08:10:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102232"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Grand",
-        "ServiceId": "65",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/65/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "5253007f-3812-460e-ab8e-5fdcdc7ccc39"
-  },
-  {
     "AlertId": "102233",
     "Headline": "#71 71st/South Shore Temporary Reroute near 75th/Coles",
     "ShortDescription": "71 71st/South Shore buses temp. rerouted NB: South Shore and 71st; SB: Exchange, 76th and South Shore: due to, street blockage near 75th/Coles.",
@@ -249,5 +215,52 @@
     },
     "ttim": "0",
     "GUID": "eed8f0de-e347-439e-b55f-5120669fbd76"
+  },
+  {
+    "AlertId": "102236",
+    "Headline": "#26 South Shore Express, #30 South Chicago Temporary Reroute at Ewing/95th",
+    "ShortDescription": "26 South Shore Express, 30 South Chicago buses are temporarily rerouted via Ewing, 95th, Avenue L, 100th and Ewing due to, street blockage near Ewing/95th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#26 South Shore Express, #30 South Chicago buses are temporarily rerouted via Ewing, 95th, Avenue L, 100th and Ewing due to, street blockage near Ewing/95th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-11T09:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102236"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Chicago",
+          "ServiceId": "30",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/30/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1395d9c5-d8e5-4523-b2bc-66fff8083088"
   }
 ]
