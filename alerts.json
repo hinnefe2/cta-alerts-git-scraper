@@ -79,5 +79,52 @@
     },
     "ttim": "0",
     "GUID": "baeae9c1-05be-4e25-ac89-63e8a599c66a"
+  },
+  {
+    "AlertId": "102295",
+    "Headline": "#4 Cottage Grove, #X4 Cottage Grove Express Temporary Northbound Reroute near Cottage Grove/83rd",
+    "ShortDescription": "NB 4 Cottage Grove, X4 Cottage Grove Express buses are temp. rerouted via Cottage Grove, 83rd, King Drive, 79th and Cottage Grove: near Cottage Grove/83rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #4 Cottage Grove, #X4 Cottage Grove Express buses are temporarily rerouted via Cottage Grove, 83rd, King Drive, 79th and Cottage Grove: due to, street blockage near Cottage Grove/83rd.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-13T06:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102295"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove Express",
+          "ServiceId": "X4",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "822c32a4-80ca-4a36-ba8c-492e27e4c546"
   }
 ]
