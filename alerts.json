@@ -66,5 +66,73 @@
     },
     "ttim": "0",
     "GUID": "08e8171a-4e28-41d9-9e02-6bf873bb576c"
+  },
+  {
+    "AlertId": "102336",
+    "Headline": "Red Line Trains bypassing Jackson Station",
+    "ShortDescription": "Red Line trains are running, but not stopping at Jackson due to fire department activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running, but not stopping at Jackson due to fire department activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2024-09-15T15:56:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102336"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "552fcbc1-e28f-46ac-a256-60bca6f50db9"
+  },
+  {
+    "AlertId": "102337",
+    "Headline": "Blue Trains bypassing Jackson Station",
+    "ShortDescription": "Blue Line trains are running, but not stopping at Jackson due to fire department activity.\r\n",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running, but not stopping at Jackson due to fire department activity.</p>\r\n\r\n<p>We apologize for this inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2024-09-15T15:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102337"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "66320590-5c04-4dfb-b68a-29f642af39ce"
   }
 ]
