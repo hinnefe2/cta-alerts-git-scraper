@@ -174,7 +174,7 @@
     "Headline": "Bus services Temporarily Rerouted downtown",
     "ShortDescription": "Bus services are being temporarily rerouted in the Loop, from Roosevelt to Wacker in both directions due to large crowds.",
     "FullDescription": {
-      "#cdata-section": "<p>Bus services are being temporarily rerouted in the Loop, from Roosevelt to Wacker in both directions due to large crowds.</p>\r\n\r\n<p>The buses affected are:</p>\r\n\r\n<ul>\r\n\t<li><strong>#3 King Drive</strong></li>\r\n\t<li><strong>#4 Cottage Grove</strong></li>\r\n\t<li><strong># 6 Jackson</strong></li>\r\n\t<li><strong><strong>J14 Jeffrey </strong></strong><strong><strong>Jump</strong></strong></li>\r\n\t<li><strong><strong><strong>#18 16th/18th</strong></strong></strong></li>\r\n\t<li><strong>#20 Madison</strong></li>\r\n\t<li><strong>#26 South Shore Exp</strong></li>\r\n\t<li><strong>#56 Milwaukee</strong></li>\r\n\t<li><strong>#60 Blue island/26th</strong></li>\r\n\t<li><strong>#124 Navy Pier</strong></li>\r\n\t<li><strong>#126 Jackson</strong></li>\r\n\t<li><strong>#146 Inner Drive Express</strong></li>\r\n\t<li><strong>#147 Outer Drive Express</strong></li>\r\n\t<li><strong>#151 Sheridan</strong></li>\r\n</ul>\r\n\r\n<p>Buses are running and may experience major delays due to&nbsp;congestion as routes approach this area and turn back in the other direction.</p>\r\n\r\n<p>Consider using &#39;L&#39; service as an alternative through this area.</p>\r\n"
+      "#cdata-section": "<p>Bus services are being temporarily rerouted in the Loop, from Roosevelt to Wacker in both directions due to large crowds.</p>\r\n\r\n<p>The buses affected are:</p>\r\n\r\n<ul>\r\n\t<li><strong>#3 King Drive</strong></li>\r\n\t<li><strong>#4 Cottage Grove</strong></li>\r\n\t<li><strong># 6 Jackson</strong></li>\r\n\t<li><strong><strong>J14 Jeffrey </strong></strong><strong><strong>Jump</strong></strong></li>\r\n\t<li><strong><strong><strong>#18 16th/18th</strong></strong></strong></li>\r\n\t<li><strong>#20 Madison</strong></li>\r\n\t<li><strong>#56 Milwaukee</strong></li>\r\n\t<li><strong>#60 Blue island/26th</strong></li>\r\n\t<li><strong>#124 Navy Pier</strong></li>\r\n\t<li><strong>#126 Jackson</strong></li>\r\n\t<li><strong>#146 Inner Drive Express</strong></li>\r\n\t<li><strong>#147 Outer Drive Express</strong></li>\r\n\t<li><strong>#151 Sheridan</strong></li>\r\n</ul>\r\n\r\n<p>Buses are running and may experience major delays due to&nbsp;congestion as routes approach this area and turn back in the other direction.</p>\r\n\r\n<p>Consider using &#39;L&#39; service as an alternative through this area.</p>\r\n"
     },
     "SeverityScore": "84",
     "SeverityColor": "c00c00",
@@ -324,6 +324,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "34e04b52-e7d9-4a3d-8cd9-cada1fb424bf"
+    "GUID": "fe3eee21-12a1-4a6c-960b-dbd29142db7e"
+  },
+  {
+    "AlertId": "102322",
+    "Headline": "Red Line Service Delayed at Sox-35th",
+    "ShortDescription": "Red Line trains are standing at Sox-35th due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are standing at Sox-35th due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-09-14T21:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102322"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9e770c9f-4afa-40f7-b28a-5ceca13de6fc"
   }
 ]
