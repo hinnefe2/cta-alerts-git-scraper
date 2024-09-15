@@ -70,14 +70,14 @@
   {
     "AlertId": "102316",
     "Headline": "Brown Line Service Running with Delays",
-    "ShortDescription": "Brown Line trains are running with significant delays in both directions; we're working to run as much service as possible. Allow extra time.",
+    "ShortDescription": "Brown Line trains are running with minor delays in both directions; we're working to run as much service as possible. Allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are running with significant delays in both directions.</p>\r\n\r\n<p>At this time, our operations staff are&nbsp;working to run as much service as frequently and manage service to be spaced as evenly as possible.</p>\r\n\r\n<p>Consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line trains are running with minor&nbsp;delays in both directions.</p>\r\n\r\n<p>At this time, our operations staff are&nbsp;working to run as much service as frequently and manage service to be spaced as evenly as possible.</p>\r\n\r\n<p>Consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2024-09-14T17:39:00",
     "EventEnd": null,
     "TBD": "1",
@@ -99,7 +99,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "aef55feb-6fd7-4b78-88af-b90328a6857a"
+    "GUID": "75356f5b-abab-43c6-8c5e-ea3b3328c929"
   },
   {
     "AlertId": "102317",
@@ -174,7 +174,7 @@
     "Headline": "Bus services Temporarily Rerouted downtown",
     "ShortDescription": "Bus services are being temporarily rerouted in the Loop, from Roosevelt to Wacker in both directions due to large crowds.",
     "FullDescription": {
-      "#cdata-section": "<p>Bus services are being temporarily rerouted in the Loop, from Roosevelt to Wacker in both directions due to large crowds.</p>\r\n\r\n<p>Buses are running and may experience major delays due to&nbsp;congestion as routes approach this area and turn back in the other direction.</p>\r\n\r\n<p>Consider using &#39;L&#39; service as an alternative through this area.</p>\r\n"
+      "#cdata-section": "<p>Bus services are being temporarily rerouted in the Loop, from Roosevelt to Wacker in both directions due to large crowds.</p>\r\n\r\n<p>The buses affected are:</p>\r\n\r\n<ul>\r\n\t<li><strong>#3 King Drive</strong></li>\r\n\t<li><strong>#4 Cottage Grove</strong></li>\r\n\t<li><strong># 6 Jackson</strong></li>\r\n\t<li><strong><strong>J14 Jeffrey </strong></strong><strong><strong>Jump</strong></strong></li>\r\n\t<li><strong><strong><strong>#18 16th/18th</strong></strong></strong></li>\r\n\t<li><strong>#20 Madison</strong></li>\r\n\t<li><strong>#26 South Shore Exp</strong></li>\r\n\t<li><strong>#56 Milwaukee</strong></li>\r\n\t<li><strong>#60 Blue island/26th</strong></li>\r\n\t<li><strong>#124 Navy Pier</strong></li>\r\n\t<li><strong>#126 Jackson</strong></li>\r\n\t<li><strong>#146 Inner Drive Express</strong></li>\r\n\t<li><strong>#147 Outer Drive Express</strong></li>\r\n\t<li><strong>#151 Sheridan</strong></li>\r\n</ul>\r\n\r\n<p>Buses are running and may experience major delays due to&nbsp;congestion as routes approach this area and turn back in the other direction.</p>\r\n\r\n<p>Consider using &#39;L&#39; service as an alternative through this area.</p>\r\n"
     },
     "SeverityScore": "84",
     "SeverityColor": "c00c00",
@@ -203,6 +203,17 @@
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
           "ServiceName": "Jackson Park Express",
           "ServiceId": "6",
           "ServiceBackColor": "b71234",
@@ -220,6 +231,61 @@
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "16th-18th",
+          "ServiceId": "18",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/18/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Madison",
+          "ServiceId": "20",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/20/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Milwaukee",
+          "ServiceId": "56",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/56/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Blue Island/26th",
+          "ServiceId": "60",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/60/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Navy Pier",
+          "ServiceId": "124",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/124/"
           }
         },
         {
@@ -254,21 +320,10 @@
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/bus/151/"
           }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Cottage Grove Express",
-          "ServiceId": "X4",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "00a078",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
-          }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "2773a589-9016-4e82-95ea-4826a7eae5d0"
+    "GUID": "34e04b52-e7d9-4a3d-8cd9-cada1fb424bf"
   }
 ]
