@@ -2,9 +2,9 @@
   {
     "AlertId": "102331",
     "Headline": "Brown Line Service Delayed at Irving Park",
-    "ShortDescription": "Brown Line trains are standing at Irving Park due to a door problem. Crews working to restore service.",
+    "ShortDescription": "Brown Line trains are standing at Irving Park due to a mechanical problem. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>&nbsp;Brown Line trains are standing at Irving Park due to a door problem.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line trains are standing at Irving Park due to a mechanical problem.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "80",
     "SeverityColor": "c00c00",
@@ -31,6 +31,74 @@
       }
     },
     "ttim": "0",
-    "GUID": "51a9ec45-5cd7-4a2c-8b74-0ffdd5b8820b"
+    "GUID": "2f10b2ee-6719-4883-97b3-d512eb4a8a51"
+  },
+  {
+    "AlertId": "102332",
+    "Headline": "#21 Cermak Temporary Reroute near Cicero/Cermak",
+    "ShortDescription": "#21 buses temp. rerouted EB via Cermak, Austin, 16th, Cicero, Cermak; WB via Cermak, Kostner, 16th, Austin, Cermak, due to a parade near Cicero/Cermak.",
+    "FullDescription": {
+      "#cdata-section": "<p>#21 Cermak&nbsp;buses are temporarily rerouted in both directions&nbsp;due to the Mexican Independence Day Parade&nbsp;near Cicero/Cermak.</p>\r\n\r\n<p>Eastbound buses will operate via Cermak, Austin, 16th, and Cicero, then resume their normal route on Cermak.</p>\r\n\r\n<p>Westbound buses will operate via Cermak, Kostner, 16th, and Austin,&nbsp;then resume their normal route on&nbsp;Cermak.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-15T12:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102332"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cermak",
+        "ServiceId": "21",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/21/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "574838fb-0e1e-4dcb-ac39-f46371bc1de1"
+  },
+  {
+    "AlertId": "102333",
+    "Headline": "#54B South Cicero Temporary Reroute at Cicero/Cermak",
+    "ShortDescription": "#54B buses are temporarily rerouted via Cicero, 16th, and 47 Court, due to a parade near Cicero/Cermak.",
+    "FullDescription": {
+      "#cdata-section": "<p>#54B South Cicero&nbsp;buses are temporarily rerouted in both directions via Cicero, 16th, 47th Court, and Cicero, due to the Mexican Independence Day Parade&nbsp;near Cicero/Cermak.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-15T12:44:00",
+    "EventEnd": "2024-09-18T12:44:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102333"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Cicero",
+        "ServiceId": "54B",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54b/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "af48c3c5-a4fa-49de-83be-1daa485a37ce"
   }
 ]
