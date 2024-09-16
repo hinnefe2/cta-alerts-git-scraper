@@ -69,10 +69,10 @@
   },
   {
     "AlertId": "102343",
-    "Headline": "Temporary Reroute in the Loop",
-    "ShortDescription": "Bus services are being temporarily rerouted in the Loop, from Roosevelt to Wacker in both directions due to large crowds.",
+    "Headline": "Temporary Reroute Downtown",
+    "ShortDescription": "Bus services are still temporarily rerouted downtown, between Roosevelt and Division in both directions due to large crowds.",
     "FullDescription": {
-      "#cdata-section": "<p>Bus services are being temporarily rerouted in the Loop, from Roosevelt to Wacker in both directions due to large crowds.</p>\r\n\r\n<p>The buses affected are:</p>\r\n\r\n<ul>\r\n\t<li><strong>#3 King Drive</strong></li>\r\n\t<li><strong><strong>#4 Cottage Grove</strong></strong></li>\r\n\t<li><strong>#6 Jackson Park Express</strong></li>\r\n\t<li><strong>J14 Jeffrey Jump</strong></li>\r\n\t<li><strong><strong>#18 16th/18th</strong></strong></li>\r\n\t<li><strong><strong><strong>#20 Madison</strong></strong></strong></li>\r\n\t<li><strong><strong><strong>#56 Milwaukee</strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong>#60 Blue island/26th</strong></strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong><strong>#124 Navy Pier</strong></strong></strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong><strong><strong>#126 Jackson</strong></strong></strong></strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong><strong><strong><strong>#146 Inner Drive Express</strong></strong></strong></strong></strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong><strong><strong><strong><strong>#147 Outer Drive Express</strong></strong></strong></strong></strong></strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong><strong><strong><strong><strong><strong>#151 Sheridan</strong></strong></strong></strong></strong></strong></strong></strong></strong></li>\r\n</ul>\r\n\r\n<p>Buses are running and may experience major delays due to congestion as routes approach this area and turn back in the other direction.</p>\r\n\r\n<p>Consider using &#39;L&#39; service as an alternative through this area.</p>\r\n"
+      "#cdata-section": "<p>Bus services are still&nbsp;temporarily rerouted downtown, between Roosevelt and Division in both directions due to large crowds.</p>\r\n\r\n<p>The affected areas are:</p>\r\n\r\n<ul>\r\n\t<li><strong>Northbound and Southbound between Roosevelt and Division in both directions.</strong></li>\r\n\t<li><strong>Eastbound and Westbound between Lake Shore Drive and Halsted in both directions.</strong></li>\r\n</ul>\r\n\r\n<p>The buses affected are:</p>\r\n\r\n<ul>\r\n\t<li><strong>#3 King Drive</strong></li>\r\n\t<li><strong><strong>#4 Cottage Grove</strong></strong></li>\r\n\t<li><strong>#6 Jackson Park Express</strong></li>\r\n\t<li><strong>#J14 Jeffrey Jump</strong></li>\r\n\t<li><strong><strong>#18 16th/18th</strong></strong></li>\r\n\t<li><strong><strong><strong>#20 Madison</strong></strong></strong></li>\r\n\t<li><strong><strong><strong>#22 Clark</strong></strong></strong></li>\r\n\t<li><strong><strong><strong>#36 Broadway</strong></strong></strong></li>\r\n\t<li><strong><strong><strong>#56 Milwaukee</strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong>#60 Blue island/26th</strong></strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong>#62 Archer</strong></strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong><strong>#124 Navy Pier</strong></strong></strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong><strong><strong>#126 Jackson</strong></strong></strong></strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong><strong><strong><strong>#146 Inner Drive Express</strong></strong></strong></strong></strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong><strong><strong><strong><strong>#147 Outer Drive Express</strong></strong></strong></strong></strong></strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong><strong><strong><strong><strong><strong>#151 Sheridan</strong></strong></strong></strong></strong></strong></strong></strong></strong></li>\r\n</ul>\r\n\r\n<p>Buses are running and may experience major delays due to congestion as routes approach this area and turn back in the other direction.</p>\r\n\r\n<p>Consider using &#39;L&#39; service as an alternative through this area.</p>\r\n"
     },
     "SeverityScore": "84",
     "SeverityColor": "c00c00",
@@ -123,6 +123,17 @@
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Halsted",
+          "ServiceId": "8",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/8/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
           "ServiceName": "Jeffery Jump",
           "ServiceId": "J14",
           "ServiceBackColor": "0065BD",
@@ -156,6 +167,28 @@
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Broadway",
+          "ServiceId": "36",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/36/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
           "ServiceName": "Milwaukee",
           "ServiceId": "56",
           "ServiceBackColor": "565a5c",
@@ -173,6 +206,17 @@
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/bus/60/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
           }
         },
         {
@@ -233,7 +277,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "85d64171-89b1-4bcb-a1ea-16f3f39c5729"
+    "GUID": "8997e2f6-c281-43fe-8e46-82a821d8147b"
   },
   {
     "AlertId": "102345",
@@ -267,6 +311,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "eb58607e-d9bc-4787-bbb4-a42fc30c69c3"
+    "GUID": "6d04701d-7056-4abf-8721-cce7510cff39"
   }
 ]
