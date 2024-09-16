@@ -66,5 +66,173 @@
     },
     "ttim": "0",
     "GUID": "979aad49-27a1-408e-9e02-c6503943b4b5"
+  },
+  {
+    "AlertId": "102343",
+    "Headline": "Temporary Reroute in the Loop",
+    "ShortDescription": "Bus services are being temporarily rerouted in the Loop, from Roosevelt to Wacker in both directions due to large crowds.",
+    "FullDescription": {
+      "#cdata-section": "<p>Bus services are being temporarily rerouted in the Loop, from Roosevelt to Wacker in both directions due to large crowds.</p>\r\n\r\n<p>The buses affected are:</p>\r\n\r\n<ul>\r\n\t<li><strong>#3 King Drive</strong></li>\r\n\t<li><strong><strong>#4 Cottage Grove</strong></strong></li>\r\n\t<li><strong>#6 Jackson Park Express</strong></li>\r\n\t<li><strong>J14 Jeffrey Jump</strong></li>\r\n\t<li><strong><strong>#18 16th/18th</strong></strong></li>\r\n\t<li><strong><strong><strong>#20 Madison</strong></strong></strong></li>\r\n\t<li><strong><strong><strong>#56 Milwaukee</strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong>#60 Blue island/26th</strong></strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong><strong>#124 Navy Pier</strong></strong></strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong><strong><strong>#126 Jackson</strong></strong></strong></strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong><strong><strong><strong>#146 Inner Drive Express</strong></strong></strong></strong></strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong><strong><strong><strong><strong>#147 Outer Drive Express</strong></strong></strong></strong></strong></strong></strong></strong></li>\r\n\t<li><strong><strong><strong><strong><strong><strong><strong><strong><strong>#151 Sheridan</strong></strong></strong></strong></strong></strong></strong></strong></strong></li>\r\n</ul>\r\n\r\n<p>Buses are running and may experience major delays due to congestion as routes approach this area and turn back in the other direction.</p>\r\n\r\n<p>Consider using &#39;L&#39; service as an alternative through this area.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2024-09-15T19:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102343"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "King Drive",
+          "ServiceId": "3",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/3/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "16th-18th",
+          "ServiceId": "18",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/18/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Madison",
+          "ServiceId": "20",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/20/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Milwaukee",
+          "ServiceId": "56",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/56/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Blue Island/26th",
+          "ServiceId": "60",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/60/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Navy Pier",
+          "ServiceId": "124",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/124/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson",
+          "ServiceId": "126",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/126/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "85d64171-89b1-4bcb-a1ea-16f3f39c5729"
   }
 ]
