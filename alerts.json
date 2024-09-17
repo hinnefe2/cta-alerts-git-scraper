@@ -236,5 +236,52 @@
     },
     "ttim": "0",
     "GUID": "25fed0ab-e46e-4179-8372-18ea5ed5cec1"
+  },
+  {
+    "AlertId": "102371",
+    "Headline": "#4 Cottage Grove and  #6 Jackson Park Express Temporary Southbound Reroute near Michigan/Adams",
+    "ShortDescription": "SB 4 Cott Grv & 6 Jackson Park Exp rr via Mchgn, Adams, State, Wacker, Southwater, Mchgn, SB to Randolph & over normal rte due to police activity at Mchgn/Adams",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong> #4 Cottage Grove and&nbsp; #6 Jackson Park Express buses are temporarily rerouted via Michigan, Adams, State, Wacker, Southwater, Michigan, then Southbound to Randolph, then resume their normal route due to police activity at Michigan/Adams.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-16T21:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102371"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "958d7c96-8fc5-4918-985f-9a1c5c95f7f3"
   }
 ]
