@@ -184,10 +184,10 @@
   },
   {
     "AlertId": "102372",
-    "Headline": "#J14 Jeffrey Jump and #15 Jeffrey Local Temporary Reroute at Jeffrey/71st",
-    "ShortDescription": "J14 Jeffrey Jump & 15 Jeffrey Local are rr via Jeffery, 67th, Stony Island, 73rd, Jeffrey, then over their normal route due to police activity on Jeffrey/71st",
+    "Headline": "#N5 South Shore Night Bus Temporary Reroute at Jeffrey/71st",
+    "ShortDescription": "N5 South Shore Night Buses are rerouted via Jeffery, 67th, Stony Island, 73rd, Jeffrey, then over their normal route due to police activity on Jeffrey/71st.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#J14 Jeffrey Jump and #15 Jeffrey Local buses are temporarily rerouted in both directions via Jeffery, 67th, Stony island, 73rd, Jeffrey, then resume their normal route due to police activity on Jeffrey/71st.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#N5 Night Buses are temporarily rerouted in both directions via Jeffery, 67th, Stony island, 73rd, Jeffrey, then resume their normal route due to police activity on Jeffrey/71st.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -205,29 +205,29 @@
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Jump",
-          "ServiceId": "J14",
-          "ServiceBackColor": "0065BD",
-          "ServiceTextColor": "ffffff",
+          "ServiceName": "South Shore Night Bus",
+          "ServiceId": "N5",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "009999",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+            "#cdata-section": "http://www.transitchicago.com/bus/n5/"
           }
         },
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Local",
-          "ServiceId": "15",
+          "ServiceName": "71st/South Shore",
+          "ServiceId": "71",
           "ServiceBackColor": "565a5c",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+            "#cdata-section": "http://www.transitchicago.com/bus/71/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "e05844a5-6114-416e-87ab-1221adf3139a"
+    "GUID": "4ae20c4d-fcb8-4ecd-8f82-e4394872ee23"
   },
   {
     "AlertId": "102373",
