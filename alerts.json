@@ -68,40 +68,6 @@
     "GUID": "11f35d83-2f5b-4c2b-9eeb-fa8ab196869e"
   },
   {
-    "AlertId": "102478",
-    "Headline": "#80 Irving Park Temporary Eastbound Reroute near Montrose/Austin",
-    "ShortDescription": "Eastbound #80 buses are temporarily rerouted via Montrose, Austin, Irving Park, and Montrose, due to a street blockage near Montrose/Austin.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #80 Irving Park buses are temporarily rerouted via Montrose, Austin, Irving Park, and Montrose, due to a street blockage near Montrose/Austin.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-09-21T14:25:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102478"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Irving Park",
-        "ServiceId": "80",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/80/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "479e1c1d-fc8b-439d-937b-5e5c58d4e7d1"
-  },
-  {
     "AlertId": "102479",
     "Headline": "#22 Temporary Reroute at Clark/Addison",
     "ShortDescription": "#22 Clark buses are temporarily rerouted in both directions via Clark, Racine, Belmont, and Clark, due to a street blockage near Clark/Addison.\r\n",
@@ -134,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "8b942ecb-aa92-48b1-b281-8e00a4124b65"
+  },
+  {
+    "AlertId": "102480",
+    "Headline": "#152 Temporary Reroute at Clark/Addison",
+    "ShortDescription": "#152 Addison buses are temporarily rerouted in both directions via Addison, Racine, Belmont, Halsted, and Addison due to a street blockage near Clark/Addison.",
+    "FullDescription": {
+      "#cdata-section": "<p>#152 Addison buses are temporarily rerouted in both directions via Addison, Racine, Belmont, and Halsted, then resume their normal route on Addison due to a street blockage near Clark/Addison.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-21T14:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102480"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Addison",
+        "ServiceId": "152",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/152/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b0ef6541-3ad0-45e7-9f72-b0a751e49b7b"
   }
 ]
