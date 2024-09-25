@@ -66,5 +66,73 @@
     },
     "ttim": "0",
     "GUID": "c3131fdb-b979-4b83-9c4d-431550bf625f"
+  },
+  {
+    "AlertId": "102571",
+    "Headline": "#79 79th Temporary Reroute at 79th/Ellis.",
+    "ShortDescription": "#79 79th buses are temporarily rerouted via  79th, Greenwood, 76th, Cottage Grove and 79th due to, street blockage near 79th/Ellis.",
+    "FullDescription": {
+      "#cdata-section": "<p>#79 79th buses are temporarily rerouted via&nbsp; 79th, Greenwood, 76th, Cottage Grove and 79th due to, street blockage near 79th/Ellis.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-25T16:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102571"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "00bdc76c-5ec1-4f5d-870d-460b4ed4eaf2"
+  },
+  {
+    "AlertId": "102572",
+    "Headline": "Blue Line Service Delayed Austin",
+    "ShortDescription": "Blue Line trains are standing near Austin Congress. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are standing near Austin Congress. Crews working to restore service.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-09-25T16:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102572"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cb2e3bcb-5d51-42d1-b9a6-103b73c40d65"
   }
 ]
