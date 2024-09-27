@@ -1,1 +1,96 @@
-[]
+[
+  {
+    "AlertId": "102599",
+    "Headline": "#3 King Drive & #151 Sheridan Temporary Reroute near Michigan/Hubbard",
+    "ShortDescription": "3 King Drive & 151 Sheridan buses temp. rerouted NB: Michigan, Wacker, State, Ohio, &  Michigan; SB: Michigan, Ontario, State, Wacker, & Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p>#3 King Drive &amp; #151 Sheridan buses are temporarily rerouted in both directions near Michigan/Hubbard, due to street blockage.</p>\r\n\r\n<p>Northbound buses will operate via Michigan, Wacker, State, Ohio, then resume their normal route on&nbsp;Michigan.</p>\r\n\r\n<p>Southbound buses will operate via Michigan, Ontario, State, Wacker, then resume their normal route on Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-26T23:30:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102599"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "King Drive",
+          "ServiceId": "3",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/3/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "56834dae-997f-4aee-885a-e704e8661138"
+  },
+  {
+    "AlertId": "102600",
+    "Headline": "#146 Inner Lake Shore/Michigan Exp & #147 Outer DuSable Lake Shore Exp Temporary Reroute near Michigan/Hubbard",
+    "ShortDescription": "146 In LS/Mchgn Exp & 147 Outer DuSable LS Exp buses temp. rerouted NB: Michigan, Wacker, State, Ohio, Michigan; SB: Michigan, Ontario, State, Wacker, Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express &amp; #147 Outer DuSable Lake Shore Express buses are temporarily rerouted in both directions near&nbsp;Michigan/Hubbard, due to street blockage.</p>\r\n\r\n<p>Northbound buses will operate via&nbsp;Michigan, Wacker, State, Ohio,&nbsp;then resume their normal route on&nbsp;Michigan.</p>\r\n\r\n<p>Southbound buses will operate via&nbsp;Michigan, Ontario, State, Wacker, then resume their normal route on&nbsp;Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-26T23:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102600"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5ddf8013-f1c8-4ce6-baa8-5762b7456cda"
+  }
+]
