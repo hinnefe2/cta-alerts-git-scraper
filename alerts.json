@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "102618",
-    "Headline": "#39 Pershing Temporary Reroute at Pershing/Albany",
-    "ShortDescription": "39 Pershing buses are temp. rerouted in both directions via Pershing, Kedzie, Archer, California and Pershing, due to a street blockage near Pershing/Albany\r\n\r\n",
+    "AlertId": "102621",
+    "Headline": " Purple Line Service Delayed near South Blvd",
+    "ShortDescription": " Purple Line trains are standing near South Blvd due to debris on the tracks. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#39 Pershing buses are temporarily rerouted in both directions via Pershing, Kedzie, Archer, California, then will continue their normal route on Pershing, due to a street blockage near Pershing/Albany.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Purple Line trains are standing near South Blvd due to debris on the tracks. Crews working to restore service.</p>\r\n\r\n<p>Shuttle buses&nbsp; <strong>have been requested&nbsp;</strong>to provide connecting service through the affected area.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-09-27T17:14:00",
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2024-09-27T21:31:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102618"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102621"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pershing",
-        "ServiceId": "39",
-        "ServiceBackColor": "565a5c",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/39/"
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "f1331811-64c3-4212-9a10-3bb858fc3c49"
+    "GUID": "76ad037d-f3cd-41b5-b250-323258392527"
   }
 ]
