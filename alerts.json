@@ -171,15 +171,15 @@
   },
   {
     "AlertId": "102641",
-    "Headline": "95th- bound Red Line Service Delayed at North/Clybourn",
-    "ShortDescription": "95th- bound Red Line trains are standing at North/Clybourn due to police activity. Crews working to restore service.",
+    "Headline": "95th-BOUND Red Line  trains bypassing North/Clybourn",
+    "ShortDescription": "95th- Bound Red Line trains are running, but not stopping at North/Clybourn due to police activity.",
     "FullDescription": {
-      "#cdata-section": "<p>95th- bound Red Line trains are standing at North/Clybourn due to police activity\\</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th- Bound Red Line trains are running, but not stopping at North/Clybourn due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "58",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
     "EventStart": "2024-09-29T11:57:00",
     "EventEnd": null,
     "TBD": "1",
@@ -214,6 +214,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "c6562d70-03f3-4358-bd4b-492fc1ce3365"
+    "GUID": "9d89fa99-039d-4f0a-8803-b19573c13db6"
+  },
+  {
+    "AlertId": "102642",
+    "Headline": "#155 Devon Temporary Reroute at Devon/Western",
+    "ShortDescription": "155 Devon buses are temporarily rerouted via Devon, Western, Pratt, Ridge and Devon: due to, street blockage near Devon/Western.",
+    "FullDescription": {
+      "#cdata-section": "<p>#155 Devon buses are temporarily rerouted via Devon, Western, Pratt, Ridge and Devon: due to, street blockage near Devon/Western.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-09-29T12:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102642"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Devon",
+        "ServiceId": "155",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/155/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5b206797-7239-43ac-99b6-c967e24ed434"
   }
 ]
