@@ -32,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "84ed60aa-dbef-490d-a858-99619d23404b"
+  },
+  {
+    "AlertId": "102650",
+    "Headline": "Blue Line Service Running with Delays",
+    "ShortDescription": "Blue Line trains are running with significant delays in both directions.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running with significant delays in both directions.</p>\r\n\r\n<p>At this time, our operations staff are working to run as much service as frequently and manage service to be spaced as evenly as possible.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-09-30T03:56:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102650"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "609230fd-7e81-430f-9049-c1bf65d28bb0"
   }
 ]
