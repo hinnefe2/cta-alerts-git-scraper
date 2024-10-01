@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "dbd7a97d-2018-4c1c-bb0e-e108bd2da5bb"
+  },
+  {
+    "AlertId": "102681",
+    "Headline": "#49 Western & #X49 Western Express Temporary Reroute at Western Ave/Pershing",
+    "ShortDescription": "49 Western & X49 Western Exp buses are temporarily rerouted via Western, Archer, Western Blvd, 43rd & Western, due to street blockage near Western Ave/Pershing.",
+    "FullDescription": {
+      "#cdata-section": "<p>#49 Western &amp; #X49 Western Express buses are temporarily rerouted via Western, Archer, Western Blvd, 43rd&nbsp; and then resume their normal route on Western, due to street blockage near Western Ave/Pershing.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-01T10:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102681"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western",
+          "ServiceId": "49",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western Express",
+          "ServiceId": "X49",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "3a401a4e-924d-4df8-a3be-02cd26a6905f"
   }
 ]
