@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "44d084ce-96b1-4d37-94b6-b5446d90d079"
+  },
+  {
+    "AlertId": "102822",
+    "Headline": "#147 Outer DuSable Lake Shore Express and 146 Inner Lake Shore/Michigan Express  Temporary Reroute at Michigan/Chicago",
+    "ShortDescription": "146 Inner Lake Shore/Michigan Express & 147 Outer DuSable Lake Shore Express buses are temp rerouted via Michigan, Chicago, Lasalle, & Stockton.",
+    "FullDescription": {
+      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express &amp; #147 Outer DuSable Lake Shore Express buses are temporarily rerouted in both directions via Michigan, Chicago, Lasalle, and Stockton. due to street blockage near Michigan/Chicago.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-05T16:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102822"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "bff38b56-2af4-4e56-b05b-8264eae42976"
   }
 ]
