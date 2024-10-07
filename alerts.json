@@ -83,9 +83,9 @@
   {
     "AlertId": "102846",
     "Headline": "#92 Foster Temporary Eastbound Reroute near Berwyn Red Line",
-    "ShortDescription": "Eastbound 92 Foster buses are temporarily rerouted via Broadway, Bryn Mawr and Sheridan: due to, street blockage near Berwyn Red Line.",
+    "ShortDescription": "Eastbound 92 Foster buses are temporarily rerouted via Broadway, Bryn Mawr and Sheridan and Berwyn: due to, street blockage near Berwyn Red Line.",
     "FullDescription": {
-      "#cdata-section": "<p>Eastbound #92 Foster buses are temporarily rerouted via Broadway, Bryn Mawr and Sheridan: due to, street blockage near Berwyn Red Line.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Eastbound #92 Foster buses are temporarily rerouted via Broadway, Bryn Mawr and Sheridan and Berwyn: due to, street blockage near Berwyn Red Line.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -112,6 +112,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "4c4addb5-67e0-40d0-8be5-dd7983cabde1"
+    "GUID": "f412c733-99aa-4a71-acb8-46b38c563a15"
+  },
+  {
+    "AlertId": "102847",
+    "Headline": "#146 Inner Lake Shore/Michigan Express Temporary Southbound Reroute near Berwyn Red Line",
+    "ShortDescription": "SB 146 Inner Lake Shore/Michigan Express buses are temporarily rerouted via Broadway, Bryn Mawr and Sheridan due to, street blockage near Berwyn Red Line.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound&nbsp;#146 Inner Lake Shore/Michigan Express buses are temporarily rerouted via Broadway, Bryn Mawr and Sheridan due to, street blockage near Berwyn Red Line.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-07T11:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102847"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Inner Lake Shore/Michigan Express",
+        "ServiceId": "146",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/146/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0419a3b6-ae9c-4325-91c7-0ee93cb16443"
   }
 ]
