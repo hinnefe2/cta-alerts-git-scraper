@@ -134,5 +134,73 @@
     },
     "ttim": "0",
     "GUID": "3d88bcca-7945-40f4-81b5-1b723967c9cd"
+  },
+  {
+    "AlertId": "102860",
+    "Headline": "376 Diversey Temporary Eastbound Reroute near Milwaukee/Diversey",
+    "ShortDescription": "Eastbound 76 Diversey buses are temporarily rerouted via Diversey, Kedzie, Milwaukee and Diversey: due to, street blockage near Milwaukee/Diversey.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #76 Diversey buses are temporarily rerouted via Diversey, Kedzie, Milwaukee and Diversey: due to, street blockage near Milwaukee/Diversey.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-08T10:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102860"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Diversey",
+        "ServiceId": "76",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/76/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "35219461-c100-4c0d-8c66-8ecaa99d47e7"
+  },
+  {
+    "AlertId": "102861",
+    "Headline": "#56 Milwaukee Temporary Reroute at Milwaukee/Diversey",
+    "ShortDescription": "56 Milwaukee buses are temporarily rerouted via Milwaukee, Diversey, Kedzie and Milwaukee: due to, street blockage near Milwaukee/Diversey.",
+    "FullDescription": {
+      "#cdata-section": "<p>#56 Milwaukee buses are temporarily rerouted via Milwaukee, Diversey, Kedzie and Milwaukee: due to, street blockage near Milwaukee/Diversey.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-08T09:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102861"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Milwaukee",
+        "ServiceId": "56",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/56/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8ef4f05a-dbb5-4374-94b0-fb9ef1fa770d"
   }
 ]
