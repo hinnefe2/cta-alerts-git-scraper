@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "b44dbe6b-915b-416f-a695-facfa3c83070"
+  },
+  {
+    "AlertId": "102851",
+    "Headline": "Green & Orange Line Service Delayed at Roosevelt",
+    "ShortDescription": "Green & Orange Line trains are standing at Roosevelt due to a report of a minor fire at track level. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green &amp; Orange Line trains are standing at Roosevelt due to a report of a minor fire at track level.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-10-07T23:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102851"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "87013469-1b47-4ec5-bb5b-17f340b16e1a"
   }
 ]
