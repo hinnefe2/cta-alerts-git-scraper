@@ -34,37 +34,50 @@
     "GUID": "b44dbe6b-915b-416f-a695-facfa3c83070"
   },
   {
-    "AlertId": "102852",
-    "Headline": "Loop-bound Orange Line Delays",
-    "ShortDescription": "Loop-bound Orange Line trains are running w/residual delays following an earlier door problem at Roosevelt. Service is resuming, allow extra time.",
+    "AlertId": "102853",
+    "Headline": "Green & Orange Line Service Delayed at Roosevelt",
+    "ShortDescription": "Green & Orange Line trains are standing at Roosevelt due to a report of a minor fire at track level. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Orange Line trains are running with residual delays following an earlier door problem at Roosevelt.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green &amp; Orange Line trains are standing at Roosevelt due to a report of a minor fire at track level.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2024-10-08T00:28:00",
-    "EventEnd": "2024-10-08T00:45:00",
-    "TBD": "0",
+    "EventStart": "2024-10-08T00:44:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102852"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102853"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Orange Line",
-        "ServiceId": "Org",
-        "ServiceBackColor": "f9461c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "6ce58a02-979c-45ec-83b4-fb5af269afde"
+    "GUID": "df464526-8a7d-430f-9c19-eed2b6160812"
   }
 ]
