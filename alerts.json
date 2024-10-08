@@ -103,7 +103,7 @@
   },
   {
     "AlertId": "102859",
-    "Headline": "387 87th Temporary Westbound Reroute near Commercial/89th",
+    "Headline": "#87 87th Temporary Westbound Reroute near Commercial/89th",
     "ShortDescription": "Westbound 87 87th buses are temporarily rerouted via 91st, Commercial, 92nd, Houston, 89th and Commercial: due to, street blockage near Commercial/89th.",
     "FullDescription": {
       "#cdata-section": "<p>Westbound #87 87th buses are temporarily rerouted via 91st, Commercial, 92nd, Houston, 89th and Commercial: due to, street blockage near Commercial/89th.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
@@ -133,7 +133,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "3d88bcca-7945-40f4-81b5-1b723967c9cd"
+    "GUID": "ccc5303a-a916-4774-bb3c-2b56de90245f"
   },
   {
     "AlertId": "102860",
@@ -202,5 +202,39 @@
     },
     "ttim": "0",
     "GUID": "8ef4f05a-dbb5-4374-94b0-fb9ef1fa770d"
+  },
+  {
+    "AlertId": "102862",
+    "Headline": "#65 Grand Temporary Eastbound Reroute near Illinois/LaSalle",
+    "ShortDescription": "Eastbound 65 Grand buses are temporarily rerouted via Illinois, LaSalle, Kinzie, Dearborn and Illinois: due to, street blockage near Illinois/LaSalle.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #65 Grand buses are temporarily rerouted via Illinois, LaSalle, Kinzie, Dearborn and Illinois: due to, street blockage near Illinois/LaSalle.</p>\r\n\r\n<p>Westbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-08T10:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102862"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Grand",
+        "ServiceId": "65",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/65/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "983eaf81-0866-4933-83a6-a091eb7475df"
   }
 ]
