@@ -103,10 +103,10 @@
   },
   {
     "AlertId": "102935",
-    "Headline": "#79 79th Temporary Reroute at 79th/Albany",
-    "ShortDescription": "79 79th buses are rerouted in both directions via 79th, Western, 83rd, Kedzie, then resume their normal route on 79th, due to street blockage near 79th/Albany.",
+    "Headline": "#79 79th and #169 69th/UPS Express Temporary Reroute at 79th/Albany",
+    "ShortDescription": "79 79th & 169 69th/UPS Express buses are rerouted via 79th, Western, 83rd, Kedzie, then resume their normal route on 79th, due to street blockage nr 79th/Albany",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#79 79th buses are temporarily rerouted in both directions via 79th, Western, 83rd, Kedzie, then resume their normal route on 79th, due to street blockage near 79th/Albany.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#79 79th and #169 69th/UPS Express buses are temporarily rerouted in both directions via 79th, Western, 83rd, Kedzie, then resume their normal route on 79th, due to street blockage near 79th/Albany.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -120,19 +120,32 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102935"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "79th",
-        "ServiceId": "79",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "79th",
+          "ServiceId": "79",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/79/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "69th/UPS Express",
+          "ServiceId": "169",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/169/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "dec4e9d1-2b68-44f5-8789-4c1c7e687afa"
+    "GUID": "3865dac8-54ad-48f1-ac45-e8b42e24250b"
   }
 ]
