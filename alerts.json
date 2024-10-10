@@ -69,7 +69,7 @@
   },
   {
     "AlertId": "102921",
-    "Headline": "#156 LaSalle Temporary Reroute near Lasalle/ Adams due to street blockage.",
+    "Headline": "#156 LaSalle Temporary Reroute in both directions near Lasalle/ Adams due to street blockage.",
     "ShortDescription": "156 LaSalle buses are temporarily rerouted in both directions near Lasalle/ Adams due to street blockage.",
     "FullDescription": {
       "#cdata-section": "<p>#156 LaSalle buses are temporarily rerouted in both directions near Lasalle/ Adams due to street blockage.</p>\r\n\r\n<p>Northbound buses will operate via Jackson, Dearborn, Madison and LaSalle.</p>\r\n\r\n<p>Southbound buses will operate via LaSalle, Madison, Wacker and Adams.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
@@ -99,11 +99,11 @@
       }
     },
     "ttim": "0",
-    "GUID": "2490c744-735c-4960-8773-3688db7bd24c"
+    "GUID": "ef68714b-178b-4064-bdf8-1c3bcd310e32"
   },
   {
     "AlertId": "102922",
-    "Headline": "#7 Harrison and #126 Jackson Reroute near  Lasalle/ Adams.",
+    "Headline": "#7 Harrison and #126 Jackson  Westbound Reroute near  Lasalle/ Adams.",
     "ShortDescription": "Westbound #7 Harrison, #126 Jackson buses are temporarily rerouted via Adams, Dearborn, Madison, Wacker and Adams due to, street blockage near Lasalle/ Adams.",
     "FullDescription": {
       "#cdata-section": "<p>Westbound #7 Harrison, #126 Jackson buses are temporarily rerouted via Adams, Dearborn, Madison, Wacker and Adams due to, street blockage near Lasalle/ Adams.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
@@ -146,6 +146,74 @@
       ]
     },
     "ttim": "0",
-    "GUID": "760944a0-4f98-4e91-9247-de885adeedce"
+    "GUID": "cb41c378-93e0-42e8-8408-285ecb82557c"
+  },
+  {
+    "AlertId": "102923",
+    "Headline": "#28 Stony Island Temporary Westbound Reroute near  Lasalle/ Adams.",
+    "ShortDescription": "Northbound 28 Stony Island buses are temporarily rerouted via Adams, Dearborn, Madison, Wacker and Adams due to street blockage near Lasalle/ Adams.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #28 Stony Island buses are temporarily rerouted via Adams, Dearborn, Madison, Wacker and Adams due to street blockage near Lasalle/ Adams.</p>\r\n\r\n<p><br />\r\nSouthbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-10T10:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102923"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Stony Island",
+        "ServiceId": "28",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/28/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b3d7327b-d24d-4bc7-8586-747cc966d0f2"
+  },
+  {
+    "AlertId": "102924",
+    "Headline": "#151 Sheridan Temporary Southbound Reroute near Lasalle/ Adams.",
+    "ShortDescription": "Southbound 151 Sheridan buses are temporarily rerouted via : Adams, Dearborn, Madison, Wacker and Adams due to, street blockage near Lasalle/ Adams.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #151 Sheridan buses are temporarily rerouted via : Adams, Dearborn, Madison, Wacker and Adams due to, street blockage near Lasalle/ Adams.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-10T10:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102924"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Sheridan",
+        "ServiceId": "151",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/151/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b7875db0-35d5-4419-bad4-59cae701eaba"
   }
 ]
