@@ -66,5 +66,86 @@
     },
     "ttim": "0",
     "GUID": "f72d062b-2d58-4dab-836b-f73c93705f3f"
+  },
+  {
+    "AlertId": "102921",
+    "Headline": "#156 LaSalle Temporary Reroute near Lasalle/ Adams due to street blockage.",
+    "ShortDescription": "156 LaSalle buses are temporarily rerouted in both directions near Lasalle/ Adams due to street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#156 LaSalle buses are temporarily rerouted in both directions near Lasalle/ Adams due to street blockage.</p>\r\n\r\n<p>Northbound buses will operate via Jackson, Dearborn, Madison and LaSalle.</p>\r\n\r\n<p>Southbound buses will operate via LaSalle, Madison, Wacker and Adams.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-10T10:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102921"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "LaSalle",
+        "ServiceId": "156",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/156/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2490c744-735c-4960-8773-3688db7bd24c"
+  },
+  {
+    "AlertId": "102922",
+    "Headline": "#7 Harrison and #126 Jackson Reroute near  Lasalle/ Adams.",
+    "ShortDescription": "Westbound #7 Harrison, #126 Jackson buses are temporarily rerouted via Adams, Dearborn, Madison, Wacker and Adams due to, street blockage near Lasalle/ Adams.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #7 Harrison, #126 Jackson buses are temporarily rerouted via Adams, Dearborn, Madison, Wacker and Adams due to, street blockage near Lasalle/ Adams.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-10T10:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102922"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Harrison",
+          "ServiceId": "7",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/7/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson",
+          "ServiceId": "126",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/126/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "760944a0-4f98-4e91-9247-de885adeedce"
   }
 ]
