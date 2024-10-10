@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "102917",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains running w/residual delays & congestion following an earlier animal on the tracks at Rosemont. Service resuming, allow extra time",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line&nbsp;trains are running with residual delays and&nbsp;congestion following an earlier animal on the tracks at Rosemont. Service is resuming, allow extra time</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-10-09T20:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102917"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "26fa8af9-d214-4305-b54b-f16e6239fc91"
+  },
+  {
     "AlertId": "102906",
     "Headline": "#115 Pullman/115th Temporary Southbound Reroute near 111th/Halsted",
     "ShortDescription": "Southbound 115 Pullman/115th buses are temporarily rerouted via 115th, Wentworth,  119th, Halsted and 115th  due to, street blockage near 111th/Halsted.",
@@ -32,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "a7f9afd4-9fed-4e2f-bea6-065af5f28d38"
-  },
-  {
-    "AlertId": "102917",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains running w/residual delays & congestion following an earlier animal on the tracks at Rosemont. Service resuming, allow extra time",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line&nbsp;trains are running with residual delays and&nbsp;congestion following an earlier animal on the tracks at Rosemont. Service is resuming, allow extra time</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2024-10-09T20:42:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102917"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "2360b03e-90b8-4429-81cd-bbe8770a1021"
   }
 ]
