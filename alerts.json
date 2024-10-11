@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "102961",
+    "Headline": "#J14 Jeffery Jump, #15 Jeffery Local Temporary Reroute at Jeffery/83rd",
+    "ShortDescription": "J14 Jeffery Jump, 15 Jeffery Local buses are temporarily rerouted via: Jeffery, 85th, South Chicago and Jeffery due to, street blockage near Jeffery/83rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#J14 Jeffery Jump, #15 Jeffery Local buses are temporarily rerouted via: Jeffery, 85th, South Chicago and Jeffery due to, street blockage near Jeffery/83rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-11T13:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102961"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1ce0d7b6-4100-46bd-b9e9-456ddc9d1195"
+  },
+  {
     "AlertId": "102953",
     "Headline": "#115 Pullman/115th Temporary Southbound Reroute near 115th/Halsted",
     "ShortDescription": "Southbound 115 Pullman/115th buses are temporarily rerouted via 115th, Wentworth, 119th, Ashland and 115th: due to, street blockage near 115th/Halsted.",
