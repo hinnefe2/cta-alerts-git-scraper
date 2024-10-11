@@ -1,72 +1,71 @@
 [
   {
-    "AlertId": "102959",
-    "Headline": "Red, Brown and Purple Line Delays",
-    "ShortDescription": "Red, Brown and Purple Line trains are running w/residual delays following earlier signal problems at Belmont. Service is resuming, allow extra time.",
+    "AlertId": "102906",
+    "Headline": "#115 Pullman/115th Temporary Southbound Reroute near 111th/Halsted",
+    "ShortDescription": "Southbound 115 Pullman/115th buses are temporarily rerouted via 115th, Wentworth,  119th, Halsted and 115th  due to, street blockage near 111th/Halsted.",
     "FullDescription": {
-      "#cdata-section": "<p>Red, Brown and Purple Line trains are running w/residual delays following earlier signal problems at Belmont.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #115 Pullman/115th buses are temporarily rerouted via 115th, Wentworth,&nbsp; 119th, Halsted and 115th&nbsp; due to, street blockage near 111th/Halsted.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-10-11T09:00:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-09T13:13:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102959"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102906"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Belmont",
-          "ServiceId": "41320",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=25"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pullman/115th",
+        "ServiceId": "115",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/115/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "2497eaea-f58c-4ec4-bc4c-acf1f90c0e16"
+    "GUID": "a7f9afd4-9fed-4e2f-bea6-065af5f28d38"
+  },
+  {
+    "AlertId": "102920",
+    "Headline": "#115 Pullman/115th Temporary Reroute near Halsted/115th ",
+    "ShortDescription": "115 Pullman/115th buses are temporarily rerouted in both directions near Halsted/115th due to street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#115 Pullman/115th buses are temporarily rerouted in both directions near Halsted/115th due to street blockage.</p>\r\n\r\n<p>Southbound buses will operate via Halsted, 119th, Ashland and 115th.</p>\r\n\r\n<p>Northbound buses will operate via 115th, Halsted, 119th, Wentworth and 115th</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-10T08:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102920"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pullman/115th",
+        "ServiceId": "115",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/115/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f72d062b-2d58-4dab-836b-f73c93705f3f"
   },
   {
     "AlertId": "102952",
@@ -250,73 +249,5 @@
     },
     "ttim": "0",
     "GUID": "952b73d8-51bd-48e1-99ec-358eeed891c4"
-  },
-  {
-    "AlertId": "102906",
-    "Headline": "#115 Pullman/115th Temporary Southbound Reroute near 111th/Halsted",
-    "ShortDescription": "Southbound 115 Pullman/115th buses are temporarily rerouted via 115th, Wentworth,  119th, Halsted and 115th  due to, street blockage near 111th/Halsted.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #115 Pullman/115th buses are temporarily rerouted via 115th, Wentworth,&nbsp; 119th, Halsted and 115th&nbsp; due to, street blockage near 111th/Halsted.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-10-09T13:13:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102906"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pullman/115th",
-        "ServiceId": "115",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/115/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a7f9afd4-9fed-4e2f-bea6-065af5f28d38"
-  },
-  {
-    "AlertId": "102920",
-    "Headline": "#115 Pullman/115th Temporary Reroute near Halsted/115th ",
-    "ShortDescription": "115 Pullman/115th buses are temporarily rerouted in both directions near Halsted/115th due to street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>#115 Pullman/115th buses are temporarily rerouted in both directions near Halsted/115th due to street blockage.</p>\r\n\r\n<p>Southbound buses will operate via Halsted, 119th, Ashland and 115th.</p>\r\n\r\n<p>Northbound buses will operate via 115th, Halsted, 119th, Wentworth and 115th</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-10-10T08:58:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102920"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pullman/115th",
-        "ServiceId": "115",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/115/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f72d062b-2d58-4dab-836b-f73c93705f3f"
   }
 ]
