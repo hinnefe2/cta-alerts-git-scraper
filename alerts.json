@@ -47,40 +47,6 @@
     "GUID": "1ce0d7b6-4100-46bd-b9e9-456ddc9d1195"
   },
   {
-    "AlertId": "102953",
-    "Headline": "#115 Pullman/115th Temporary Southbound Reroute near 115th/Halsted",
-    "ShortDescription": "Southbound 115 Pullman/115th buses are temporarily rerouted via 115th, Wentworth, 119th, Ashland and 115th: due to, street blockage near 115th/Halsted.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #115 Pullman/115th buses are temporarily rerouted via 115th, Wentworth, 119th, Ashland and 115th: due to, street blockage near 115th/Halsted.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-10-11T07:10:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102953"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pullman/115th",
-        "ServiceId": "115",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/115/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d1c39820-624a-40d0-b671-44705cafcde3"
-  },
-  {
     "AlertId": "102963",
     "Headline": "#21 Cermak Temporary Reroute at Cermak/Kostner.",
     "ShortDescription": "21 Cermak buses are temporarily rerouted in both directions via Cermak, Cicero, 16th, Kostner and Cermak, due to street blockage near Cermak/Kostner.",
@@ -181,5 +147,39 @@
     },
     "ttim": "0",
     "GUID": "f72d062b-2d58-4dab-836b-f73c93705f3f"
+  },
+  {
+    "AlertId": "102953",
+    "Headline": "#115 Pullman/115th Temporary Southbound Reroute near 115th/Halsted",
+    "ShortDescription": "Southbound 115 Pullman/115th buses are temporarily rerouted via 115th, Wentworth, 119th, Ashland and 115th: due to, street blockage near 115th/Halsted.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #115 Pullman/115th buses are temporarily rerouted via 115th, Wentworth, 119th, Ashland and 115th: due to, street blockage near 115th/Halsted.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-11T07:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102953"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pullman/115th",
+        "ServiceId": "115",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/115/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d1c39820-624a-40d0-b671-44705cafcde3"
   }
 ]
