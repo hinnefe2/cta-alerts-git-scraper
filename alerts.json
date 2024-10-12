@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "102966",
-    "Headline": "#53 Pulaski Temporary Reroute at Pulaski/Ogden",
-    "ShortDescription": "53 Pulaski buses are temporarily rerouted via Pulaski, 26th, Kostner, Cermak, & Pulaski, due to fire department activity near Pulaski/Ogden.",
-    "FullDescription": {
-      "#cdata-section": "<p>#53 Pulaski buses are temporarily rerouted in both directions via Pulaski, 26th, Kostner, Cermak, then resume their normal route on Pulaski, due to fire department activity near Pulaski/Ogden.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-10-11T22:05:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102966"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pulaski",
-        "ServiceId": "53",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/53/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "eda3d77a-c3ec-412e-abe0-56b66e241a9b"
-  },
-  {
     "AlertId": "102906",
     "Headline": "#115 Pullman/115th Temporary Southbound Reroute near 111th/Halsted",
     "ShortDescription": "Southbound 115 Pullman/115th buses are temporarily rerouted via 115th, Wentworth,  119th, Halsted and 115th  due to, street blockage near 111th/Halsted.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "f72d062b-2d58-4dab-836b-f73c93705f3f"
+  },
+  {
+    "AlertId": "102966",
+    "Headline": "#53 Pulaski Temporary Reroute at Pulaski/Ogden",
+    "ShortDescription": "53 Pulaski buses are temporarily rerouted via Pulaski, 26th, Kostner, Cermak, & Pulaski, due to fire department activity near Pulaski/Ogden.",
+    "FullDescription": {
+      "#cdata-section": "<p>#53 Pulaski buses are temporarily rerouted in both directions via Pulaski, 26th, Kostner, Cermak, then resume their normal route on Pulaski, due to fire department activity near Pulaski/Ogden.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-11T22:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=102966"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pulaski",
+        "ServiceId": "53",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/53/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "eda3d77a-c3ec-412e-abe0-56b66e241a9b"
   }
 ]
