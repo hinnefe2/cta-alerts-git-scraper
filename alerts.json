@@ -32,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "1dc24d6e-358c-4c53-a034-7d74487b5b78"
+  },
+  {
+    "AlertId": "103013",
+    "Headline": "Red Line Service Delayed near 95th/Dan Ryan",
+    "ShortDescription": "Red Line trains are still standing near 95th/Dan Ryan due to signal problems. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are still standing near 95th/Dan Ryan due to signal problems.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<ul>\r\n\t<li><strong>#24 Wentworth</strong></li>\r\n\t<li><strong>#29 State</strong></li>\r\n\t<li><strong>#34 South Michigan</strong></li>\r\n\t<li><strong>#95 95th</strong></li>\r\n\t<li><strong>#103 West 103rd</strong></li>\r\n\t<li><strong>#106 East 103rd</strong></li>\r\n</ul>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2024-10-15T20:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103013"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "643ccf5a-231d-424d-bdf7-fcb2fb5c42be"
   }
 ]
