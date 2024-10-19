@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "103084",
+    "Headline": "#22 Clark, #151 Sheridan Temporary Northbound Reroute near Bryn Mawr/Winthrop",
+    "ShortDescription": "NB 22 Clark, 151 Sheridan  buses are temporarily rerouted via: Lake Shore Drive, Hollywood, Ridge and Clark due to, street blockage near Bryn Mawr/Winthrop.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #22 Clark, #151 Sheridan&nbsp; buses are temporarily rerouted via: Lake Shore Drive, Hollywood, Ridge and Clark due to, street blockage near Bryn Mawr/Winthrop.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-19T10:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103084"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "7e0af556-cdea-4475-a53e-6e7121682702"
+  }
+]
