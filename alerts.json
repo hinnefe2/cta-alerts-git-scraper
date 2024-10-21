@@ -79,5 +79,52 @@
     },
     "ttim": "0",
     "GUID": "4bfaf3b2-9979-4026-a3e3-aea248e919a0"
+  },
+  {
+    "AlertId": "103107",
+    "Headline": "#22 Clark and #62 Archer Temporary Northbound Reroute near Adams/ Dearborn",
+    "ShortDescription": "Northbound 22 Clark and 62 Archer buses are temp rerouted via: Dearborn, Jackson, State, Madison and Dearborn due to, police activity, near Adams/ Dearborn,",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #22 Clark and #62 Archer buses are temporarily rerouted via: Dearborn, Jackson, State, Madison and Dearborn due to, police activity, near Adams/ Dearborn.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-21T03:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103107"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d9688fc4-f985-4e31-b149-2c91ed6e70a8"
   }
 ]
