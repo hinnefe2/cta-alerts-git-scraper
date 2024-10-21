@@ -113,5 +113,39 @@
     },
     "ttim": "0",
     "GUID": "d67893a5-c71e-487f-8fb4-bae44d95efe4"
+  },
+  {
+    "AlertId": "103105",
+    "Headline": "Red Line Trains bypassing Morse Station",
+    "ShortDescription": "Red Line trains are running, but not stopping at Morse due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running, but not stopping at Morse due to police activity.</p>\r\n\r\n<p>At this time, consider other alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines. These may include: <strong>#151 Sheridan</strong> buses.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2024-10-20T20:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103105"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8db5819a-29b2-4d81-acbd-5a6148aed4dd"
   }
 ]
