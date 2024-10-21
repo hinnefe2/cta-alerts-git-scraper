@@ -81,40 +81,6 @@
     "GUID": "4bfaf3b2-9979-4026-a3e3-aea248e919a0"
   },
   {
-    "AlertId": "103104",
-    "Headline": "#30 South Chicago Temporary Reroute at 135th/Avenue O",
-    "ShortDescription": "30 South Chicago buses are rerouted via Avenue O, 133rd, Baltimore, then resume over their normal route, due to street blockage near 135th/Avenue O.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#30 South Chicago buses are temporarily rerouted in both directions via Avenue O, 133rd, Baltimore, then resume over their normal route, due to street blockage near 135th/Avenue O.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-10-20T17:47:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103104"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Chicago",
-        "ServiceId": "30",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/30/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d67893a5-c71e-487f-8fb4-bae44d95efe4"
-  },
-  {
     "AlertId": "103105",
     "Headline": "Red Line Trains bypassing Morse Station",
     "ShortDescription": "Red Line trains are running, but not stopping at Morse due to police activity.",
@@ -147,5 +113,39 @@
     },
     "ttim": "0",
     "GUID": "828944e5-08ca-44b1-87f3-0f97d4fa2d1f"
+  },
+  {
+    "AlertId": "103106",
+    "Headline": "#155 Devon Temporary Reroute near Morse/Greenview.",
+    "ShortDescription": "155 Devon buses rerouted Westbound buses will operate via Morse, Clark, Pratt, & Sheridan.\r\nEastbound buses will operate via Pratt, Ashland, & Morse. ",
+    "FullDescription": {
+      "#cdata-section": "<p>#155 Devon buses are temporarily rerouted in both directions, due to police activity near Morse/Greenview.</p>\r\n\r\n<p>Westbound buses will operate via Morse, Clark, Pratt, and&nbsp;Sheridan.<br />\r\nEastbound buses will operate via Pratt, Ashland, and Morse.<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-20T21:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103106"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Devon",
+        "ServiceId": "155",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/155/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "019087c6-8782-453e-8253-5f3f9a46a240"
   }
 ]
