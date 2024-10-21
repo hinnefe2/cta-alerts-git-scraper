@@ -79,5 +79,39 @@
     },
     "ttim": "0",
     "GUID": "4bfaf3b2-9979-4026-a3e3-aea248e919a0"
+  },
+  {
+    "AlertId": "103109",
+    "Headline": "#66 Chicago Temporary Westbound Reroute near Chicago/Long",
+    "ShortDescription": "Westbound 66 Chicago buses are temporarily rerouted via Chicago, Laramie, Augusta, Central and Chicago: due to, street blockage near Chicago/Long.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #66 Chicago buses are temporarily rerouted via Chicago, Laramie, Augusta, Central and Chicago: due to, street blockage near Chicago/Long.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-21T06:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103109"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "fb4813fe-7b47-4221-8c37-17a4c212a6fc"
   }
 ]
