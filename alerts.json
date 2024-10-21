@@ -79,5 +79,52 @@
     },
     "ttim": "0",
     "GUID": "4bfaf3b2-9979-4026-a3e3-aea248e919a0"
+  },
+  {
+    "AlertId": "103110",
+    "Headline": "#8A South Halsted,  #108 Halsted/95th Temporary Southbound Reroute near Halsted/103rd",
+    "ShortDescription": "SB 8A South Halsted, 108 Halsted/95th buses are temp. rerouted via Halsted, 103rd, Vincennes, 107th and Halsted: due to, street blockage near Halsted/103rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #8A South Halsted,&nbsp; #108 Halsted/95th buses are temporarily rerouted via Halsted, 103rd, Vincennes, 107th and Halsted: due to, street blockage near Halsted/103rd.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-21T08:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103110"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Halsted",
+          "ServiceId": "8A",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/8a/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Halsted/95th",
+          "ServiceId": "108",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "565a5c",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/108/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9ebc8f06-555e-4b46-8720-c94b1127a30a"
   }
 ]
