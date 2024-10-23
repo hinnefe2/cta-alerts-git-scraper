@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "103148",
-    "Headline": "Brown Line Delays",
-    "ShortDescription": "Brown Line trains are running with residual delays following an earlier Bridge Lift at the Chicago River, downtown. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are running with residual delays following an earlier Bridge Lift at the Chicago River, downtown.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-10-23T11:21:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103148"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "aa4959e6-66e5-4b39-bf1c-2adc89e4756e"
-  },
-  {
     "AlertId": "103151",
     "Headline": "#9 Ashland & #X9 Ashland Express Temporary Southbound Reroute near Ashland/Jackson",
     "ShortDescription": "Revised: SB 9 Ashland & X9 Ashland Express buses temp rerouted via Ashland, Jackson, Loomis, Van Buren & Ashland: due to street blockage near Ashland/Jackson.",
@@ -79,5 +45,39 @@
     },
     "ttim": "0",
     "GUID": "ed50a6d8-e9ca-4cc0-a2cc-23d2652379f7"
+  },
+  {
+    "AlertId": "103152",
+    "Headline": "#55 Garfield Temporary Eastbound Reroute near Garfield/Michigan",
+    "ShortDescription": "EB 55 Garfield buses are temporarily rerouted via Garfield, Michigan, 57th, Perry, & Garfield, due to street blockage near Garfield/Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound&nbsp;#55 Garfield buses are temporarily rerouted via Garfield, Michigan, 57th, Perry, then resume their normal route on&nbsp;Garfield, due to street blockage near Garfield/Michigan.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-23T13:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103152"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Garfield",
+        "ServiceId": "55",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/55/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "30a6368b-79ce-4e74-a3ed-d677840dc32c"
   }
 ]
