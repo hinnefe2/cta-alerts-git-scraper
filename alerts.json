@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "f66c7ad7-d191-41eb-a1ca-570a9e22b5d0"
+  },
+  {
+    "AlertId": "103151",
+    "Headline": "#9 Ashland & #X9 Ashland Express Temporary Northbound Reroute near Ashland/Jackson",
+    "ShortDescription": "NB 9 Ashland & X9 Ashland Express buses are temporarily rerouted via Ashland, Jackson, Loomis, Van Buren & Ashland: due to street blockage near Ashland/Jackson.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound&nbsp;#9 Ashland &amp; #X9 Ashland Express buses are temporarily rerouted via Ashland, Jackson, Loomis, Van Buren, then resume their normal route on&nbsp;Ashland,&nbsp;due to street blockage near Ashland/Jackson.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-23T12:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103151"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "af44af2c-b8ba-44bd-9a8e-e231a99d442a"
   }
 ]
