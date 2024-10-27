@@ -204,74 +204,6 @@
     "GUID": "84a5772a-e2c1-4730-aa4c-eae610d7a70c"
   },
   {
-    "AlertId": "103215",
-    "Headline": "#66 Chicago Temporary Reroute near Michigan/Chicago",
-    "ShortDescription": "66 Chicago buses temp. rerouted EB Chicago, State, Ohio and Fairbanks; WB: Fairbanks, Ontario, State and Chicago: near Michigan/Fairbanks.",
-    "FullDescription": {
-      "#cdata-section": "<p>#66 Chicago&nbsp;buses are temporarily rerouted in both directions near Michigan/Chicago&nbsp;due to street blockage near Michigan/Chicago.</p>\r\n\r\n<p>Eastbound buses will operate via Chicago, State, Ohio and Fairbanks including the normal route streets.</p>\r\n\r\n<p>Westbound&nbsp;buses will operate via Fairbanks, Ontario, State and Chicago.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-10-27T10:14:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103215"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Chicago",
-        "ServiceId": "66",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/66/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4e820885-26c8-48dc-862c-c8f66317efaa"
-  },
-  {
-    "AlertId": "103216",
-    "Headline": "#146 Inner Lake Shore/Michigan Express Temporary Reroute near  Michigan/Chicago",
-    "ShortDescription": "146 buses temp. rerouted Sb Lake Shore Dr., LaSalle, Ohio and Michigan; NB: Michigan, Ontario, LaSalle and Lake Shore Dr. near Michigan/Chicago.",
-    "FullDescription": {
-      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express&nbsp;buses are temporarily rerouted in both directions near Michigan/Chicago, due to street blockage near Michigan/Chicago.</p>\r\n\r\n<p>Southbound buses will operate via Lake Shore Drive, LaSalle, Ohio and Michigan&nbsp;including the normal route streets.</p>\r\n\r\n<p>Northbound&nbsp;buses will operate via Michigan, Ontario, LaSalle and Lake Shore Drive.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-10-27T10:24:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103216"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Inner Lake Shore/Michigan Express",
-        "ServiceId": "146",
-        "ServiceBackColor": "b71234",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/146/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "bfa9434f-3d31-4f65-aad0-40d18a689dd7"
-  },
-  {
     "AlertId": "103217",
     "Headline": "#147 Outer DuSable Lake Shore Express Temporary Reroute near Michigan/Chicago",
     "ShortDescription": "147 buses temp. rerouted SB: Lake Shore Dr., LaSalle, Ohio and Michigan: NB: Michigan, Ontario, LaSalle and Lake Shore Dr near Michigan/Chicago.",
@@ -372,5 +304,52 @@
     },
     "ttim": "0",
     "GUID": "0afe478b-8aaf-498c-80a3-e13cc3089c7a"
+  },
+  {
+    "AlertId": "103220",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "95th- Bound Red Line trains are running w/residual delays following earlier police activity at Armitage. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th- Bound Red Line trains are running w/residual delays following earlier police activity at Armitage.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-10-27T10:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103220"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5615385c-9d60-43b3-8057-2cf86bb3cf45"
   }
 ]
