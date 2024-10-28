@@ -182,5 +182,39 @@
     },
     "ttim": "0",
     "GUID": "322a6fef-9952-488f-8186-d12d2113a023"
+  },
+  {
+    "AlertId": "103228",
+    "Headline": "Green Line Delays",
+    "ShortDescription": "Green Line trains are running w/residual delays following an earlier track switching problem near Garfield. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green Line trains are running with residual delays following an earlier track switching problem near Garfield.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-10-27T20:56:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103228"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "648da667-466e-4e1e-9097-06c1576562dd"
   }
 ]
