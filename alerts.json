@@ -100,5 +100,73 @@
     },
     "ttim": "0",
     "GUID": "534b31d1-916a-4b78-99c2-8c97c0262c8e"
+  },
+  {
+    "AlertId": "103299",
+    "Headline": "#47 47th Temporary Reroute near 47th Street/Princeton",
+    "ShortDescription": "47 47th buses rrtd EB via 47th, Princeton, 51st, Wentworth & 47th; WB via 47th, LaSalle, 43rd, Wentworth & 47th, due to police activity near 47th St/Princeton.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#47 47th buses are temporarily rerouted in both directions, due to police activity near 47th Street/Princeton.</p>\r\n\r\n<ul>\r\n\t<li><strong>Eastbound</strong> buses will operate via 47th, Princeton, 51st, Wentworth, then resume their normal route on 47th.</li>\r\n\t<li><strong>Westbound </strong>buses will operate via 47th, LaSalle, 43rd, Wentworth, then resume their normal route on 7th.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-30T13:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103299"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "47th",
+        "ServiceId": "47",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/47/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9317ba51-4530-4ec7-b00e-bb875d14fb12"
+  },
+  {
+    "AlertId": "103300",
+    "Headline": "#15 Jeffery Local Temporary Southbound Reroute near 47th Street/Princeton",
+    "ShortDescription": "SB 15 Jeffery Local buses are rerouted via 47th, LaSalle, 43rd, Wentworth then resume their normal route, due to police activity near 47th Street/Princeton.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong> #15 Jeffery Local buses are temporary rerouted via 47th, LaSalle, 43rd, Wentworth then resume their normal route, due to police activity near 47th Street/Princeton.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-10-30T13:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103300"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Local",
+        "ServiceId": "15",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/15/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c20e2e14-a69c-48e5-9ea2-572099dd2266"
   }
 ]
