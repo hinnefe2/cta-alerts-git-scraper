@@ -32,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "3a715d03-97d5-42bc-8884-a0ab953e0e7e"
+  },
+  {
+    "AlertId": "103314",
+    "Headline": "CTA Train Tracker May Be Temporarily Unavailable",
+    "ShortDescription": "Info from CTA Train Tracker may be temporarily unavailable due to planned maintenance. Train service is not affected.\r\n",
+    "FullDescription": {
+      "#cdata-section": "<p>Information from&nbsp;CTA Train&nbsp;Tracker <sup>SM</sup>&nbsp;may be temporarily unavailable due to planned maintenance. Train service is unaffected.</p>\r\n"
+    },
+    "SeverityScore": "59",
+    "SeverityColor": "06c",
+    "SeverityCSS": "special-note",
+    "Impact": "Special Note",
+    "EventStart": "2024-11-02T02:00:00",
+    "EventEnd": "2024-11-02T04:00:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103314"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "X",
+        "ServiceTypeDescription": "Systemwide",
+        "ServiceName": "All Train Routes",
+        "ServiceId": "Train",
+        "ServiceBackColor": "000000",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/travel_information/railstatus.aspx"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2b3c29fe-e231-48f0-be83-76b96f824a21"
   }
 ]
