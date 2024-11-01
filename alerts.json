@@ -32,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "2b3c29fe-e231-48f0-be83-76b96f824a21"
+  },
+  {
+    "AlertId": "103317",
+    "Headline": "Red line Trains bypassing 69th Station",
+    "ShortDescription": "Red Line trains are running with major delays, but not stopping at 69th station due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running with major delays, but not stopping at 69th station due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2024-10-31T21:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103317"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "bda36cba-e314-40f8-9bba-f6b8b9e3c08f"
   }
 ]
