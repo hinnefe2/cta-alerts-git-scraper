@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "1e09e7a2-1872-4eb1-9859-d0afd495248b"
+  },
+  {
+    "AlertId": "103416",
+    "Headline": "#60 Blue Island/26th and #7 Harrison Temporary Westbound Reroute near Clinton/Van Buren",
+    "ShortDescription": "WB 60 Blue Island/26th & 7 Harrison buses are temp rerouted via Clinton, Van Buren, Desplaines & Harrison, due to street blockage near Clinton/Van Buren.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #60 Blue Island/26th and #7 Harrison buses are temporarily rerouted via Clinton, Van Buren, Desplaines and Harrison, due to street blockage near Clinton/Van Buren.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-11-06T21:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103416"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Harrison",
+          "ServiceId": "7",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/7/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Blue Island/26th",
+          "ServiceId": "60",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/60/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4abc2884-32eb-45c0-90a6-dc2f6e56dfbc"
   }
 ]
