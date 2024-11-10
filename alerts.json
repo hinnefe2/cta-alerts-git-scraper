@@ -100,52 +100,5 @@
     },
     "ttim": "0",
     "GUID": "d67fbed6-8de1-46f4-a98a-7ae0f6ceb739"
-  },
-  {
-    "AlertId": "103469",
-    "Headline": "95th- BOUND Red Line trains bypassing 47th",
-    "ShortDescription": "95th- bound Red Line trains are running, but not stopping at 47th due to police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>95th- bound Red Line trains are running, but not stopping at 47th due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
-    },
-    "SeverityScore": "58",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2024-11-10T07:02:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103469"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "47th",
-          "ServiceId": "41230",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=6"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "54089c16-174d-47f2-bdb2-2b46df0602a1"
   }
 ]
