@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "f27c1192-d354-4b4a-8e34-19fbc7e060b8"
+  },
+  {
+    "AlertId": "103493",
+    "Headline": "#J14 Jeffery Jump, #15 Jeffery Local Temporary Reroute at 95th/Jeffery",
+    "ShortDescription": "J14 Jeffery Jump, 15 Jeffery Local buses are temp rerouted via Jeffery, 93rd, Colfax, 95th, Yates, 100th, and to Jeffery, near 95th/Jeffery.",
+    "FullDescription": {
+      "#cdata-section": "<p>#J14 Jeffery Jump, #15 Jeffery Local buses are temporarily rerouted via Jeffery, 93rd, Colfax, 95th, Yates, 100th, and return to Jeffery, due to street blockage near 95th/Jeffery.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-11-12T08:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103493"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5355bce1-17e1-4fcf-8504-bde9248a72e3"
   }
 ]
