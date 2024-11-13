@@ -102,40 +102,6 @@
     "GUID": "d4d9c3f1-e26b-4c3b-ba86-ed142f789f95"
   },
   {
-    "AlertId": "103532",
-    "Headline": "Howard-bound Red Line Trains bypassing Chicago Station",
-    "ShortDescription": "Howard-bound Red Line trains are running, but not stopping at Chicago Station due to police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are running, but not stopping at Chicago Station due to police activity.</p>\r\n\r\n<p>We apologize f<font color=\"#004ea1\">or&nbsp;</font>this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
-    },
-    "SeverityScore": "58",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2024-11-13T14:58:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103532"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b837cc3c-02b8-4748-a617-227efa19e4d1"
-  },
-  {
     "AlertId": "103533",
     "Headline": "Howard-bound Red Line Trains bypassing Chicago Station",
     "ShortDescription": "Howard-bound Red Line trains are running, but not stopping at Chicago Station due to police activity.",
@@ -202,5 +168,39 @@
     },
     "ttim": "0",
     "GUID": "08aedf04-b6a6-41ed-95b1-0000cf23de57"
+  },
+  {
+    "AlertId": "103535",
+    "Headline": "Brown Line Trains bypassing Southport Station",
+    "ShortDescription": "Loop-bound Brown Line trains are running, but not stopping at Southport station due to police activity.\r\n",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Brown Line trains are running, but not stopping at Southport station due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2024-11-13T15:27:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103535"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "143d360d-287f-4dca-980f-82fdcb696734"
   }
 ]
