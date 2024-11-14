@@ -85,7 +85,19 @@
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103538"
     },
-    "ImpactedService": null,
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Narragansett/Ridgeland",
+        "ServiceId": "86",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/86/"
+        }
+      }
+    },
     "ttim": "0",
     "GUID": "c8786dac-c2a6-4be8-8436-3cca016eada3"
   }
