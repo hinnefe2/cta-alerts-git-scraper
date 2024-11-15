@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "59e07c5f-8dd4-4b9b-8e37-857b255e4ba7"
+  },
+  {
+    "AlertId": "103556",
+    "Headline": "Red Line Service Running with Delays",
+    "ShortDescription": "Red Line trains are running with delays.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line&nbsp;trains are running with delay. 95th bound trains are being turned at Roosevelt for restoration of service to provide service to Howard.</p>\r\n\r\n<p>Purple line trains are running local between Belmont and&nbsp;Howard.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-11-15T08:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103556"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "24a8116c-810e-4f0d-b673-23240b7db9a1"
   }
 ]
