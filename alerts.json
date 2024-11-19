@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "c44db240-666e-456c-a904-89dce2cae6af"
+  },
+  {
+    "AlertId": "103597",
+    "Headline": "Howard- Bound Red Line Delays",
+    "ShortDescription": "Howard-Bound Red Line trains are running w/residual delays following an earlier mechanical problem at 87th. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-Bound Red Line trains are running w/residual delays following an earlier mechanical problem at 87th.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-11-19T07:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103597"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "87th",
+          "ServiceId": "41430",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=12"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b1f0be37-47d7-42ce-b72a-31a8931a4c8d"
   }
 ]
