@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "c44db240-666e-456c-a904-89dce2cae6af"
+  },
+  {
+    "AlertId": "103595",
+    "Headline": "#26 South Shore Express, #J14 Jeffery Jump Temporary Northbound Reroute near DuSable Lake Shore Dr/55th",
+    "ShortDescription": "NB 26 , J14 buses are temp rerouted via Jeffery, 67th, Stony Island, 56th, Lake Park, 47th and Lake Shore Dr: near DuSable Lake Shore Dr/55th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #26 South Shore Express, #J14 Jeffery Jump buses are temporarily rerouted via Jeffery, 67th, Stony Island, 56th, Lake Park, 47th and Lake shore Dr: due to, street blockage near DuSable Lake Shore Dr/55th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-11-19T06:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103595"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e5ef71ab-6ee5-4525-8ae0-e853eedcc92e"
   }
 ]
