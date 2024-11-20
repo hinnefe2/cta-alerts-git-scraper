@@ -134,5 +134,73 @@
     },
     "ttim": "0",
     "GUID": "389ddaec-b843-45d6-b3b8-ae235779d5ca"
+  },
+  {
+    "AlertId": "103625",
+    "Headline": "#7 Harrison Temporary Eastbound Reroute near Harrison/St. Louis",
+    "ShortDescription": "Eastbound 7 Harrison buses are temporarily rerouted via Harrison, Central Park, Jackson, Homan and Harrison, due to police activity near Harrison/St. Louis.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Eastbound </strong>#7 Harrison buses are temporarily rerouted via Harrison, Central Park, Jackson, Homan, then resume their normal route on Harrison, due to police activity near Harrison/St. Louis.</p>\r\n\r\n<p><strong>Westbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-11-19T20:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103625"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Harrison",
+        "ServiceId": "7",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/7/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "dccb1f9b-d8e6-4efc-ae8e-abd6b126cebd"
+  },
+  {
+    "AlertId": "103626",
+    "Headline": "Red Line Service Delayed at 79th/Dan Ryan",
+    "ShortDescription": "Red Line trains are standing in both directions due to police activity at 79th/Dan Ryan.\r\nCrews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are standing in both directions due to police activity at 79th/Dan Ryan.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-11-19T20:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103626"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3bdee7d1-08ec-4d4d-a907-08a6f25d40a8"
   }
 ]
