@@ -338,5 +338,52 @@
     },
     "ttim": "0",
     "GUID": "a2094d64-0ff5-4288-b4a2-5eee6991641b"
+  },
+  {
+    "AlertId": "103646",
+    "Headline": "# 49 Western/ X49 Western Exp Temporary Reroute at 51st/Western",
+    "ShortDescription": "49 Western/ X49 Western buses are temporarily rerouted both directions via Western, 47th, Western, 595th, and Western, due to police activity near 51st/Western.",
+    "FullDescription": {
+      "#cdata-section": "<p>49 Western/ X49 Western buses are temporarily rerouted both directions via Western, 47th, Western, 595th, and Western, due to police activity near 51st/Western.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-11-20T21:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103646"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western",
+          "ServiceId": "49",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western Express",
+          "ServiceId": "X49",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9e6cd509-2b86-4343-8ffd-45d69de93d34"
   }
 ]
