@@ -32,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "96aecebb-14fd-49fa-a269-f21370952ec9"
+  },
+  {
+    "AlertId": "103772",
+    "Headline": "Blue Line Trains bypassing Harlem (Blue Line O'Hare Branch) Station",
+    "ShortDescription": "Blue Line trains are running, but not stopping at Harlem (Blue Line O'Hare Branch) due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running, but not stopping at Harlem (Blue Line O&#39;Hare Branch) due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2024-11-26T15:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103772"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "29072ff7-8b5c-4218-9819-b0517ceffa2f"
   }
 ]
