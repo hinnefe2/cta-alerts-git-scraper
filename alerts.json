@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "64f0fc32-5322-4ea2-988b-97594dd4ad4a"
+  },
+  {
+    "AlertId": "103782",
+    "Headline": "Red Line Service Delayed at Sheridan",
+    "ShortDescription": "95th- bound Red Line trains are standing at Sheridan due to mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th- bound Red Line trains are standing at Sheridan due to mechanical problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-11-27T05:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103782"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Sheridan",
+          "ServiceId": "40080",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=125"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "47a39f4b-3ae0-43e6-8e8e-91c6c4db2725"
   }
 ]
