@@ -122,5 +122,86 @@
     },
     "ttim": "0",
     "GUID": "663b0413-338a-4482-9126-5b82d62ab32b"
+  },
+  {
+    "AlertId": "103798",
+    "Headline": "#67 67th/69th/71st Temporary Reroute at Jeffrey/67th",
+    "ShortDescription": "67 67th/69th/71st buses are temporarily rerouted in both directions via 67th, Stony Island, Marquette, Jeffrey and 67th due to police activity near Jeffrey/67th",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#67 67th/69th/71st buses are temporarily rerouted in both directions via 67th, Stony Island, Marquette, Jeffrey, then resume their normal route on 67th due to police activity near Jeffrey/67th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-11-28T20:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103798"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "67th-69th-71st",
+        "ServiceId": "67",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/67/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "73b5cc4f-13bd-42a4-a10a-117fd78411ee"
+  },
+  {
+    "AlertId": "103799",
+    "Headline": "#6 Jackson Park Express and #15 Jeffrey Local Temporary Reroute at Jeffrey/67th",
+    "ShortDescription": "6 Jackson Park Exp & 15 Jeffrey Local are rrtd via 67th, Jeffrey, Marquette, Stony Island, & over their normal route due to police activity near Jeffrey/67th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How doe this affect my trip?</strong></p>\r\n\r\n<p>#6 Jackson Park Express and #15 Jeffrey Local buses are temporarily rerouted in both directions via 67th, Jeffrey, Marquette, Stony Island, then resume their normal route on Clark&nbsp;due to police activity near Jeffrey/67th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-11-28T20:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103799"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4d860482-53ea-4158-a41b-54235603e1ef"
   }
 ]
