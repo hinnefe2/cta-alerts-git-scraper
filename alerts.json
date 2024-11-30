@@ -124,40 +124,6 @@
     "GUID": "8a262061-713a-4fd4-a62c-0389207de0f4"
   },
   {
-    "AlertId": "103814",
-    "Headline": "#47 47th Temporary Westbound Reroute near 47th/Kenwood",
-    "ShortDescription": "Westbound 47 47th buses are temp. rerouted via 47th, lake Park, 51st, Drexel, then resume their normal route on 47th due to street blockage near 47th/Kenwood.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Westbound</strong> #47 47th buses are temporarily rerouted via 47th, lake Park, 51st, Drexel, then resume their normal route on 47th due to street blockage near 47th/Kenwood.</p>\r\n\r\n<p><strong>Eastbound</strong>&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-11-29T18:11:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103814"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "47th",
-        "ServiceId": "47",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/47/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "5cf588fd-3944-44a5-ac53-38e021cd3528"
-  },
-  {
     "AlertId": "103815",
     "Headline": "Howard-bound Subway Trains Rerouted to Elevated Tracks",
     "ShortDescription": "Howard-bound Red Line subway trains are temporarily rerouted to the elevated tracks between Cermak and Fullerton due to a track condition.",
@@ -190,5 +156,39 @@
     },
     "ttim": "0",
     "GUID": "772f690b-059a-4343-bc3a-056b8898f132"
+  },
+  {
+    "AlertId": "103816",
+    "Headline": "Red Line Service Delayed near Roosevelt",
+    "ShortDescription": "Red Line trains are standing near Roosevelt due to a track condition. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are standing near Roosevelt due to a track condition.</p>\r\n\r\n<p><strong><span style=\"background-color:#FFFF00;\">Shuttle buses are available between Cermak&nbsp;and State/Lake&nbsp;to provide connecting service in both directions.</span></strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:&nbsp;</p>\r\n\r\n<ul>\r\n\t<li><strong>#3 King Drive</strong></li>\r\n\t<li><strong>#4 Cottage Grove</strong></li>\r\n\t<li><strong>#29 State</strong></li>\r\n</ul>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-11-29T18:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103816"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3017bd5c-4936-4a35-b5f9-b31dbb38bd8d"
   }
 ]
