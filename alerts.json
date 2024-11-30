@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "2f34a2da-d2d4-4ba0-8f62-62759e736e54"
+  },
+  {
+    "AlertId": "103836",
+    "Headline": "Loop-bound Orange Line Service Delayed at LaSalle/Van Buren",
+    "ShortDescription": "Loop-bound Orange Line trains are standing at LaSalle/Van Buren due to an sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Orange Line trains are standing at LaSalle/Van Buren due to an sick customer.&nbsp;</p>\r\n\r\n<p><strong>As a result of the delayed train, Pink Line and Orange Line trains will be rerouted to the outer Loop (trains will board and exit on the Brown Line platforms at Washington/Wells, Quincy/Wells, LaSalle/Van Buren, State/Van Buren, Adams/Wabash, Washington/Wabash, State/Lake and Clark/Lake).</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-11-30T15:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103836"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "6119e538-b899-488e-a338-d38e82ba29d7"
   }
 ]
