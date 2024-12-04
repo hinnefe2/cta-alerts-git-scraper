@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "094f6cce-a04a-4650-99b9-26b7711b5fd4"
+  },
+  {
+    "AlertId": "103905",
+    "Headline": "#30 South Chicago,   #67 67th-69th-71st  Temporary Westbound Reroute near 69th/Calumet",
+    "ShortDescription": "WB 30 South Chicago,  67 67th-69th-71st buses are temporarily rerouted via 69th, King Drive, 71st, State and 69th: due to, street blockage near 69th/Calumet.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #30 South Chicago,&nbsp; #67 67th-69th-71st buses are temporarily rerouted via 69th, King Drive, 71st, State and 69th: due to, street blockage near 69th/Calumet.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-12-04T10:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103905"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Chicago",
+          "ServiceId": "30",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/30/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "67th-69th-71st",
+          "ServiceId": "67",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/67/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5211dffc-ded1-4034-a52d-4665de5391f0"
   }
 ]
