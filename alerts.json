@@ -134,5 +134,39 @@
     },
     "ttim": "0",
     "GUID": "192da415-a130-491a-bad2-9d1ac022c1a9"
+  },
+  {
+    "AlertId": "103919",
+    "Headline": "#66 Chicago Temporary Eastbound Reroute near Michigan/Chicago",
+    "ShortDescription": "EB 66 Chicago buses are temporarily rerouted via Chicago, State, Ohio, Fairbanks, into the terminal, due to police activity near Michigan/Chicago.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #66 Chicago buses are temporarily rerouted via Chicago, State, Ohio, Fairbanks and into the terminal, due to police activity near Michigan/Chicago.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-12-04T22:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103919"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "99258668-c8d2-4ef2-9ff5-75f606f78bd2"
   }
 ]
