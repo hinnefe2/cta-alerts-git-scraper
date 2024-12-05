@@ -1,96 +1,15 @@
 [
   {
-    "AlertId": "103904",
-    "Headline": "#111 111th/King Drive Temporary Northbound Reroute near Vincennes/115th",
-    "ShortDescription": "Northbound 111 111th/King Drive  buses are temporarily rerouted via Ashland, 112th Place and Vincennes: due to, street blockage near Vincennes/115th.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #111 111th/King Drive&nbsp; buses are temporarily rerouted via Ashland, 112th Place and Vincennes: due to, street blockage near Vincennes/115th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-12-04T09:58:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103904"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "111th/King Drive",
-        "ServiceId": "111",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/111/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "094f6cce-a04a-4650-99b9-26b7711b5fd4"
-  },
-  {
-    "AlertId": "103905",
-    "Headline": "#30 South Chicago,   #67 67th-69th-71st  Temporary Westbound Reroute near 69th/Calumet",
-    "ShortDescription": "WB 30 South Chicago,  67 67th-69th-71st buses are temporarily rerouted via 69th, King Drive, 71st, State and 69th: due to, street blockage near 69th/Calumet.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #30 South Chicago,&nbsp; #67 67th-69th-71st buses are temporarily rerouted via 69th, King Drive, 71st, State and 69th: due to, street blockage near 69th/Calumet.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-12-04T10:03:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103905"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "South Chicago",
-          "ServiceId": "30",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/30/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "67th-69th-71st",
-          "ServiceId": "67",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/67/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "5211dffc-ded1-4034-a52d-4665de5391f0"
-  },
-  {
     "AlertId": "103911",
-    "Headline": "Dempster-Skokie-bound Yellow Line Service Delayed near Oakton",
-    "ShortDescription": "Dempster-Skokie-bound Yellow Line trains continue to stand near Oakton due to an obstruction. Crews working to restore service.",
+    "Headline": "Dempster-Skokie-bound Yellow Line Delays",
+    "ShortDescription": "Dempster-Skokie-bound Yellow Line trains are running w/residual delays following an earlier obstrucion near Oakton. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Dempster-Skokie-bound Yellow Line trains continue to stand&nbsp;near Oakton due to an obstruction.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include: #97 Skokie</p>\r\n\r\n<ul>\r\n\t<li><strong>Also, as a result of the delayed train, shuttle buses are available to provide connecting service from Howard to Skokie in both directions.</strong></li>\r\n</ul>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Dempster-Skokie-bound Yellow Line trains are running with residual delays following an earlier obstrucion near Oakton.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "88",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption / Major Delays",
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
     "EventStart": "2024-12-04T18:33:00",
     "EventEnd": null,
     "TBD": "1",
@@ -112,40 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "a1ff357d-e2a7-45d9-9a51-99750b290371"
+    "GUID": "35ef3d6d-d043-4104-ba2f-d92baf9508f8"
   },
   {
-    "AlertId": "103914",
-    "Headline": "Red Line Trains bypassing Byn Mawr Station",
-    "ShortDescription": "Red Line trains are running, but not stopping at Bryn Mawr due to a loss of power.",
+    "AlertId": "103915",
+    "Headline": "#103 West 103rd Temporary Reroute at 103rd/Talman",
+    "ShortDescription": "103 West 103rd buses are temporarily rerouted via 103rd, Kedzie, 99th, Western & 103rd, due to street blockage near 103rd/Talman.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running, but not stopping at Bryn Mawr due to a loss of power.</p>\r\n\r\n<p><strong>Shuttle buses have been requested to provide connecting service from&nbsp;Thorndale and&nbsp;Argyle in both directions.</strong></p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+      "#cdata-section": "<p>#103 West 103rd buses are temporarily rerouted in both directions via 103rd, Kedzie, 99th, Western, then resume their&nbsp;normal&nbsp;on 103rd, due to&nbsp;street blockage near 103rd/Talman.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "58",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2024-12-04T20:00:00",
-    "EventEnd": "2024-12-05T01:01:00",
-    "TBD": "0",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-12-04T20:37:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103914"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103915"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "West 103rd",
+        "ServiceId": "103",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/103/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "b35d6662-52b4-4cc6-980f-e109c2fac872"
+    "GUID": "e290b460-3545-41f3-a77b-96883eef8c4a"
   }
 ]
