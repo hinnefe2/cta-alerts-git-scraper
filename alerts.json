@@ -83,14 +83,14 @@
   {
     "AlertId": "103911",
     "Headline": "Dempster-Skokie-bound Yellow Line Service Delayed near Oakton",
-    "ShortDescription": "Dempster-Skokie-bound Yellow Line trains are still standing near Oakton due to an obstruction. Crews working to restore service.",
+    "ShortDescription": "Dempster-Skokie-bound Yellow Line trains continue to stand near Oakton due to an obstruction. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Dempster-Skokie-bound Yellow Line trains are still standing near Oakton due to an obstruction.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include: #97 Skokie</p>\r\n\r\n<ul>\r\n\t<li><strong>Also, shuttle buses are requested to provide connecting service from Howard to Skokie in both directions</strong></li>\r\n</ul>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Dempster-Skokie-bound Yellow Line trains continue to stand&nbsp;near Oakton due to an obstruction.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include: #97 Skokie</p>\r\n\r\n<ul>\r\n\t<li><strong>Also, as a result of the delayed train, shuttle buses are available to provide connecting service from Howard to Skokie in both directions.</strong></li>\r\n</ul>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "88",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption / Major Delays",
     "EventStart": "2024-12-04T18:33:00",
     "EventEnd": null,
     "TBD": "1",
@@ -112,19 +112,19 @@
       }
     },
     "ttim": "0",
-    "GUID": "d38b5524-da38-432d-b57e-268acca6abb7"
+    "GUID": "a1ff357d-e2a7-45d9-9a51-99750b290371"
   },
   {
     "AlertId": "103912",
-    "Headline": "Red Line Service Delayed at Monroe",
-    "ShortDescription": "Red Line trains are standing near Monroe due to unauthorized person on tracks. Crews working to restore service.",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running w/residual delays following an earlier unauthorized person on the tracks near Monroe. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing near Monroe due to unauthorized person on tracks.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running with residual delays following an earlier unauthorized person on the tracks near Monroe.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2024-12-04T18:53:00",
     "EventEnd": null,
     "TBD": "1",
@@ -146,6 +146,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "f68eb77b-6462-431d-be73-0b1dfa65a6b7"
+    "GUID": "47c4f795-b090-42c1-aae8-449c4243cbb1"
+  },
+  {
+    "AlertId": "103913",
+    "Headline": "Loop-bound Orange Line Delays",
+    "ShortDescription": "Loop-bound Orange Line trains are running w/residual delays following an earlier door problem at Halsted. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Orange Line trains are running with residual delays following an earlier door problem at Halsted.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-12-04T19:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103913"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9813c316-113c-4be6-85a6-46aa535c4efa"
   }
 ]
