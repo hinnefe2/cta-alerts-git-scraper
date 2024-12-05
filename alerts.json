@@ -102,177 +102,37 @@
     "GUID": "76782339-2b35-4a39-9975-199b125df7c0"
   },
   {
-    "AlertId": "103932",
-    "Headline": "Red, Purple and Yellow Line Service Running with Delays",
-    "ShortDescription": "Red, Purple and Yellow Line trains are running with delays near Howard due to heavy train traffic/congestion.",
+    "AlertId": "103936",
+    "Headline": "Forest Park bound Blue Line Service Delayed at Illinois Medical District",
+    "ShortDescription": "Forest Park bound Blue Line trains are standing at Illinois Medical District due a sick passenger.",
     "FullDescription": {
-      "#cdata-section": "<p>Red, Purple and&nbsp;Yellow&nbsp;Line&nbsp;trains are running with delays&nbsp;near Howard&nbsp;due to&nbsp;heavy train traffic/congestion.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park bound Blue Line trains are standing at Illinois Medical District due a sick passenger.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2024-12-05T10:47:00",
+    "EventStart": "2024-12-05T11:19:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103932"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103936"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Yellow Line",
-          "ServiceId": "Y",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/yellowline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "91e7e330-22b9-45ef-bdd6-8401eca60479"
-  },
-  {
-    "AlertId": "103933",
-    "Headline": "Red, Purple and Yellow Line Service Running with Delays",
-    "ShortDescription": "Red, Purple and Yellow Line trains are running with delays near Howard due to heavy train traffic/congestion.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red, Purple and&nbsp;Yellow&nbsp;Line&nbsp;trains are running with delays&nbsp;near Howard&nbsp;due to&nbsp;heavy train traffic/congestion.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-12-05T10:47:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103933"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Yellow Line",
-          "ServiceId": "Y",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/yellowline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "34e367cd-86eb-4bf1-913b-e1b47a57ff0d"
-  },
-  {
-    "AlertId": "103934",
-    "Headline": "Red, Purple and Yellow Line Service Running with Delays",
-    "ShortDescription": "Red, Purple and Yellow Line trains are running with delays near Howard due to heavy train traffic/congestion.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red, Purple and&nbsp;Yellow&nbsp;Line&nbsp;trains are running with delays&nbsp;near Howard&nbsp;due to&nbsp;heavy train traffic/congestion.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-12-05T10:49:00",
-    "EventEnd": "2024-12-05T11:19:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103934"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Yellow Line",
-          "ServiceId": "Y",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/yellowline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "55a1a74e-4771-428d-95fe-8eb8af291846"
+    "GUID": "1c470f14-a57a-45a1-b2e3-bbbceb9b64dd"
   }
 ]
