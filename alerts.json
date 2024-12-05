@@ -115,22 +115,22 @@
     "GUID": "a1ff357d-e2a7-45d9-9a51-99750b290371"
   },
   {
-    "AlertId": "103912",
-    "Headline": "Red Line Delays",
-    "ShortDescription": "Red Line trains are running w/residual delays following an earlier unauthorized person on the tracks near Monroe. Service is resuming, allow extra time.",
+    "AlertId": "103914",
+    "Headline": "Red Line Trains bypassing Byn Mawr Station",
+    "ShortDescription": "Red Line trains are running, but not stopping at Bryn Mawr due to a loss of power.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running with residual delays following an earlier unauthorized person on the tracks near Monroe.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running, but not stopping at Bryn Mawr due to a loss of power.</p>\r\n\r\n<p><strong>Shuttle buses have been requested to provide connecting service from&nbsp;Thorndale and&nbsp;Argyle in both directions.</strong></p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "58",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-12-04T18:53:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2024-12-04T20:00:00",
+    "EventEnd": "2024-12-05T01:01:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103912"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103914"
     },
     "ImpactedService": {
       "Service": {
@@ -146,40 +146,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "47c4f795-b090-42c1-aae8-449c4243cbb1"
-  },
-  {
-    "AlertId": "103913",
-    "Headline": "Loop-bound Orange Line Delays",
-    "ShortDescription": "Loop-bound Orange Line trains are running w/residual delays following an earlier door problem at Halsted. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Orange Line trains are running with residual delays following an earlier door problem at Halsted.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-12-04T19:16:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103913"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Orange Line",
-        "ServiceId": "Org",
-        "ServiceBackColor": "f9461c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/orangeline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "9813c316-113c-4be6-85a6-46aa535c4efa"
+    "GUID": "b35d6662-52b4-4cc6-980f-e109c2fac872"
   }
 ]
