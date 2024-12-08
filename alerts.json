@@ -2,9 +2,9 @@
   {
     "AlertId": "104004",
     "Headline": "#12 Roosevelt Temporary Reroute at Roosevelt/Cicero ",
-    "ShortDescription": "12 Roosevelt buses are temporarily rerouted in both directions via Roosevelt, Kostner, 16th, Cicero and Roosevelt, due to police activity near Roosevelt/Cicero ",
+    "ShortDescription": "12 Roosevelt buses are temporarily rerouted in both directions via Roosevelt, Kostner, 16th, Laramie and Roosevelt due to police activity near Roosevelt/Cicero ",
     "FullDescription": {
-      "#cdata-section": "<p>#12 Roosevelt buses are temporarily rerouted in both directions via Roosevelt, Kostner, 16th, Cicero and Roosevelt then resume their normal route on Roosevelt, due to police activity near Roosevelt/Cicero .</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#12 Roosevelt buses are temporarily rerouted in both directions via Roosevelt, Kostner, 16th, Laramie and Roosevelt then resume their normal route on Roosevelt, due to police activity near Roosevelt/Cicero .</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "7946ba43-40ad-42c0-a047-5e71364423b0"
+    "GUID": "f570f700-c5fc-485c-b973-188aeb7d7293"
+  },
+  {
+    "AlertId": "104005",
+    "Headline": "#54 Cicero Temporary Reroute at Roosevelt/Cicero",
+    "ShortDescription": "54 Cicero buses are temporarily rerouted via Cicero, Harrison, Laramie, 16th and Cicero: due to police activity near Roosevelt/Cicero",
+    "FullDescription": {
+      "#cdata-section": "<p>#54 Cicero buses are temporarily rerouted via Cicero, Harrison, Laramie, 16th and Cicero: due to police activity near Roosevelt/Cicero</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-12-08T13:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104005"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cicero",
+        "ServiceId": "54",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "32284f2a-8b40-4934-8f1c-b668e728a272"
   }
 ]
