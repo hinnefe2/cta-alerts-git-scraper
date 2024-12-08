@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "103918",
-    "Headline": "#151 Sheridan Temporary Northbound Reroute near Michigan/Chicago",
-    "ShortDescription": "Revised: NB 151 Sheridan buses temp rerouted via Michigan, Ontario, State, Chicago & Michigan, due to police activity near Michigan/Chicago.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>Revised: #151 Sheridan buses are temporarily rerouted via Michigan, Ontario, State, Chicago and Michigan, due to police activity near Michigan/Chicago.</strong></p>\r\n\r\n<p><strong>Southbound buses are not affected.</strong></p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2024-12-04T21:57:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103918"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Sheridan",
-        "ServiceId": "151",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/151/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "3581f6e1-f084-480b-9473-eac1340baf15"
-  },
-  {
     "AlertId": "103991",
     "Headline": "#55 Garfield Temporary Eastbound Reroute near 55th/Ashland",
     "ShortDescription": "Eastbound 55 Garfield buses are temporarily rerouted via: 55th, Ashland, 59th, Racine and 55th due to, street blockage near 55th/Ashland",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "667ed222-241a-4a3d-907e-945edfe52634"
+  },
+  {
+    "AlertId": "103996",
+    "Headline": "95th-bound Red Line Service Delayed at Loyola",
+    "ShortDescription": "95th-bound Red Line trains are standing at Loyola due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are standing at Loyola due to a sick customer.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-12-07T21:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=103996"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7e5d84c6-06d8-49ce-bc55-b0a37e590303"
   }
 ]
