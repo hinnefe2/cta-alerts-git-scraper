@@ -66,52 +66,5 @@
     },
     "ttim": "0",
     "GUID": "6f6b1b4b-9637-439d-a024-19ec1cd2228b"
-  },
-  {
-    "AlertId": "104049",
-    "Headline": "Blue Line Trains bypassing Medical District",
-    "ShortDescription": "Blue Line trains are running, but not stopping at Medical District due to police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running, but not stopping at Medical District due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
-    },
-    "SeverityScore": "58",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2024-12-11T05:45:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104049"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Illinois Medical District",
-          "ServiceId": "40810",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=72"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "d2ca8630-c90c-438b-80b8-b7cbb163c9ad"
   }
 ]
