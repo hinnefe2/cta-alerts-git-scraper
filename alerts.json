@@ -2,9 +2,9 @@
   {
     "AlertId": "104044",
     "Headline": "#8 Halsted Temporary Reroute at Halsted/59th",
-    "ShortDescription": "8 Halsted buses are temporarily rerouted in both directions via due to, a street blockage near Halsted/59th.",
+    "ShortDescription": "8 Halsted buses temp. rerouted in both directions via Halsted, 55th, Racine, 63rd, & Halsted, due to fire department activity near Halsted/59th",
     "FullDescription": {
-      "#cdata-section": "<p>#8 Halsted buses are temporarily rerouted in both directions via Halsted, 55th, Racine, 63rd, and resume normal route on Halsted,&nbsp;due to&nbsp;a street blockage near Halsted/59th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#8 Halsted buses are temporarily rerouted in both directions via Halsted, 55th, Racine, 63rd, and resume normal route on Halsted,&nbsp;due to&nbsp;fire department activity near Halsted/59th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "ccb4547f-aa49-481f-b70a-e5f668568c33"
+    "GUID": "73d1be4e-567f-4786-83c5-c9e1a2509fd8"
+  },
+  {
+    "AlertId": "104047",
+    "Headline": "#59 59th/61st Temporary Reroute near Halsted/59th",
+    "ShortDescription": "59 59th/61st buses temp. rerouted EB: 59th, Racine, 55th, Wells; WB: 59th, Wentworth, Racine, 59th; due to fire department activity near Halsted/59th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#59 59th/61st&nbsp;buses are temporarily rerouted in both directions near&nbsp;Halsted/59th due to fire department activity near Halsted/59th.</p>\r\n\r\n<p>Eastbound buses will operate via 59th, Racine, 55th and Wells.</p>\r\n\r\n<p>Westbound buses will operate via 59th, Wentworth, Racine, then resume their normal route on 59th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-12-11T04:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104047"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "59th/61st",
+        "ServiceId": "59",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/59/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "06444c22-c563-45e0-8cde-585fdd64acdd"
   }
 ]
