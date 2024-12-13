@@ -81,37 +81,37 @@
     "GUID": "f1278939-9f18-4bec-bb89-55180cc83a2c"
   },
   {
-    "AlertId": "104128",
-    "Headline": "Blue Line Trains bypassing Logan Square",
-    "ShortDescription": "Blue Line trains are running, but not stopping at Logan Square due to police activity.",
+    "AlertId": "104131",
+    "Headline": "Red Line Service Delayed Harrison",
+    "ShortDescription": "95th-bound Red Line trains are standing at Harrison due to an unauthorized person on the tracks.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running, but not stopping at Logan Square&nbsp;due to police activity.</p>\r\n\r\n<p><strong>Also, shuttle buses are requested from Belmont to California to provide connecting service in both directions.</strong></p>\r\n\r\n<p>We apologize for this inconvenience and appreciate your understanding.</p>\r\n"
+      "#cdata-section": "<p>95th-bound Red Line trains are standing at Harrison due to an unauthorized person on the tracks.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "58",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2024-12-13T16:20:00",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-12-13T16:50:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104128"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104131"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "R",
         "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "77658a8d-ed75-4411-9bd5-8dd67e9cf88b"
+    "GUID": "8c646882-76d7-44ac-a474-b6607a9dfd03"
   }
 ]
