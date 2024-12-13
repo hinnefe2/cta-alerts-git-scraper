@@ -79,5 +79,39 @@
     },
     "ttim": "0",
     "GUID": "f1278939-9f18-4bec-bb89-55180cc83a2c"
+  },
+  {
+    "AlertId": "104128",
+    "Headline": "Blue Line Trains bypassing Logan Square",
+    "ShortDescription": "Blue Line trains are running, but not stopping at Logan Square due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running, but not stopping at Logan Square&nbsp;due to police activity.</p>\r\n\r\n<p>We apologize for this inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2024-12-13T16:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104128"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "69a8bb82-4ed9-4ff8-bbf8-34c518f1a34a"
   }
 ]
