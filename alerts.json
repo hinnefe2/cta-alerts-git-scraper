@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "104148",
-    "Headline": "Kimball-bound Brown Line Delays",
-    "ShortDescription": "Kimball-bound Brown Line trains are running w/residual delays and congestion following earlier police activity at Damen. Service is resuming, allow extra time.",
+    "AlertId": "104149",
+    "Headline": "Blue Line Service Running with Delays",
+    "ShortDescription": "Blue Line trains are running with wait times of up to 30 minutes; we're working to restore service. Allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Kimball-bound Brown Line trains are running with residual delays and congestion following earlier police activity at Damen.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are running, but with extended wait times. Some riders may experience wait times&nbsp;of up to 30 minutes while our crews work to restore regular service levels.</p>\r\n\r\n<p>Use trackers to look for live arrival information and consider available alternatives, such a local bus routes or buses to/from other &#39;L&#39; lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2024-12-15T00:36:00",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2024-12-15T01:07:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104148"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104149"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "R",
         "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "77935a9d-7150-4fb9-a7a0-3e1d1c3ff54f"
+    "GUID": "c1236eb0-290e-4953-af6a-884f6f20f2ab"
   }
 ]
