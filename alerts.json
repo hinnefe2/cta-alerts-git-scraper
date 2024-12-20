@@ -72,7 +72,7 @@
     "Headline": "Green Line Service Running with Delays",
     "ShortDescription": "Green Line trains are running with delays due to inclement weather.",
     "FullDescription": {
-      "#cdata-section": "<p>Green Line&nbsp;trains are running with major delays due to inclement&nbsp;weather.</p>\r\n\r\n<p>Shuttle buses are available to provide connecting service through the affected area. Shuttle buses are available between Garfield&nbsp;and 63rd Ashland&nbsp;to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green Line&nbsp;trains are running with major delays due to inclement&nbsp;weather.</p>\r\n\r\n<p>&nbsp;Shuttle buses are available between Garfield&nbsp;and 63rd Ashland&nbsp;to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "80",
     "SeverityColor": "c00c00",
@@ -99,7 +99,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "ef59ecad-497e-4280-95f1-ff917c56dcca"
+    "GUID": "3b9c7157-d679-4c2a-8e78-f38e1c11dbc7"
   },
   {
     "AlertId": "104224",
@@ -134,5 +134,39 @@
     },
     "ttim": "0",
     "GUID": "542d08c4-88e4-4321-8e29-a89751b779c0"
+  },
+  {
+    "AlertId": "104225",
+    "Headline": "#56 Milwaukee Temporary Reroute at Milwaukee/Oakley",
+    "ShortDescription": "56 Milwaukee buses are temporarily rerouted via Milwaukee, Armitage, Damen and Milwaukee due to street blockage near Milwaukee/Oakley",
+    "FullDescription": {
+      "#cdata-section": "<p>#56 Milwaukee buses are temporarily rerouted in both directions via Milwaukee, Armitage, Damen and Milwaukee due to street blockage near Milwaukee/Oakley</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-12-19T21:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104225"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Milwaukee",
+        "ServiceId": "56",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/56/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "eda1008b-72b8-459f-84e8-193c6b4ee764"
   }
 ]
