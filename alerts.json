@@ -45,5 +45,120 @@
     },
     "ttim": "0",
     "GUID": "50b919f9-2787-42a9-be66-39a8983314c6"
+  },
+  {
+    "AlertId": "104285",
+    "Headline": "#56 Milwaukee,  #91 Austin Temporary Reroute at Milwaukee/Lawrence",
+    "ShortDescription": "56 Milwaukee, 91 Austin  buses are temporarily rerouted via Milwaukee, Ainslie, Lipps, Lawrence and Milwaukee: due to, street blockage near Milwaukee/Lawrence.",
+    "FullDescription": {
+      "#cdata-section": "<p>#56 Milwaukee, #91 Austin&nbsp; buses are temporarily rerouted via Milwaukee, Ainslie, Lipps, Lawrence and Milwaukee: due to, street blockage near Milwaukee/Lawrence.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-12-24T08:27:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104285"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Milwaukee",
+          "ServiceId": "56",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/56/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Austin",
+          "ServiceId": "91",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/91/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9bc14cc0-a1e3-4e58-a523-d1bbf56d43bf"
+  },
+  {
+    "AlertId": "104286",
+    "Headline": "O'Hare-bound Blue Line Service Delayed at Clark/Lake",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Clark/Lake due to a door problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Clark/Lake due to a door problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-12-24T08:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104286"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "319078ed-72d9-43da-875a-df58c1b261f3"
+  },
+  {
+    "AlertId": "104287",
+    "Headline": "#81 Lawrence Temporary Reroute at Milwaukee/Lawrence",
+    "ShortDescription": "81 Lawrence buses are temporarily rerouted via Milwaukee, Ainslie, Lipps and Lawrence: due to, street blockage near Milwaukee/Lawrence",
+    "FullDescription": {
+      "#cdata-section": "<p>#81 Lawrence buses are temporarily rerouted via Milwaukee, Ainslie, Lipps and Lawrence: due to, street blockage near Milwaukee/Lawrence</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2024-12-24T08:31:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104287"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Lawrence",
+        "ServiceId": "81",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/81/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6cc1b232-f90b-494d-b8c0-3df26585ac15"
   }
 ]
