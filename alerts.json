@@ -239,5 +239,52 @@
     },
     "ttim": "0",
     "GUID": "c9383703-ed66-4f05-a057-f7d80b9588ab"
+  },
+  {
+    "AlertId": "104293",
+    "Headline": "Harlem- bound Green Line Service Delayed at Conservatory",
+    "ShortDescription": "Harlem- bound Green Line trains are standing at Conservatory due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem- bound Green Line trains are standing at Conservatory due to police activity.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2024-12-24T10:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104293"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Conservatory-Central Park Drive",
+          "ServiceId": "41670",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=47"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f5a5e6a0-f4b0-401f-a4cc-eeb403d761ae"
   }
 ]
