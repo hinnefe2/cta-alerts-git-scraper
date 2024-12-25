@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "53276fe3-7edc-41c9-abda-132f21aab1ee"
+  },
+  {
+    "AlertId": "104298",
+    "Headline": "Harlem-bound Green Line Service Delayed near 47th",
+    "ShortDescription": "Harlem-bound Green Line trains are standing near 47th with major delays. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green&nbsp;Line trains are&nbsp;standing&nbsp;near 47th with major delays.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2024-12-24T23:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104298"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "47th",
+          "ServiceId": "41080",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=5"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "6b95623a-cc83-49d6-8521-ed2155cfe5ef"
   }
 ]
