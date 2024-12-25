@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "53276fe3-7edc-41c9-abda-132f21aab1ee"
+  },
+  {
+    "AlertId": "104301",
+    "Headline": "95th- bound Red Line Service Delayed at Granville",
+    "ShortDescription": "95th- bound Red Line trains are standing at Granville due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th- bound Red Line trains are standing at Granville due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-12-25T07:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104301"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Granville",
+          "ServiceId": "40760",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=64"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "7162840e-7f4e-4b66-8778-48a0039e91f5"
   }
 ]
