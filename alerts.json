@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "e5eb9d23-7d0d-4af0-9dbe-0049a918f68b"
+  },
+  {
+    "AlertId": "104383",
+    "Headline": "Purple Line Service Delayed at Howard",
+    "ShortDescription": "Purple Line trains are standing near Howard due to track switching problems. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Purple Line trains are standing near Howard due to track switching problems.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2024-12-30T13:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104383"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ac7c60a0-7625-4a42-963d-512993c458a0"
   }
 ]
