@@ -35,15 +35,15 @@
   },
   {
     "AlertId": "104418",
-    "Headline": "Trains bypassing Washington Station",
-    "ShortDescription": "Blue Line trains are running, but not stopping at Washington due to police activity.",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running w/residual delays following earlier police activity at Washington. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running, but not stopping at Washington due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are running with residual delays following earlier police activity at Washington.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "58",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
     "EventStart": "2025-01-02T16:45:00",
     "EventEnd": null,
     "TBD": "1",
@@ -65,7 +65,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "3623426e-120e-4ca1-ae74-b407d072af02"
+    "GUID": "dd79940b-9932-4e9a-a491-d6d77a2c939b"
   },
   {
     "AlertId": "104419",
@@ -74,10 +74,10 @@
     "FullDescription": {
       "#cdata-section": "<p>Harlem-bound Green Line trains are standing at Cicero due to a door problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2025-01-02T16:50:00",
     "EventEnd": null,
     "TBD": "1",
@@ -99,6 +99,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "966cf7f7-8fa8-4c23-938d-deeb7f2e45fa"
+    "GUID": "97a58798-bb29-4d58-89e4-e48effa47d58"
   }
 ]
