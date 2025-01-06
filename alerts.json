@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "44aacf55-ec2e-44f4-a1e9-5f22775ba883"
+  },
+  {
+    "AlertId": "104471",
+    "Headline": "Harlem and 54th/ Cermak BOUND trains bypassing Ashland/Lake ",
+    "ShortDescription": "Harlem and 54th/ Cermak-bound Pink and Green Line trains are running, but not stopping at Ashland and Lake due to police activity. ",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem and 54th/ Cermak-bound Pink and Green&nbsp;Line trains are running, but not stopping at Ashland/ Lake&nbsp;due to police activity.&nbsp;</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2025-01-05T22:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104471"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "321bd15f-a521-4fda-a280-c64a2af9e12f"
   }
 ]
