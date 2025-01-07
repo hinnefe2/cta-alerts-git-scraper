@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "c7fc88ec-9b75-4760-b1d6-b5fe0bacf12c"
+  },
+  {
+    "AlertId": "104489",
+    "Headline": "Forest Park- bound Blue Line Service Delayed at O'Hare",
+    "ShortDescription": "Forest Park- bound Blue Line trains are standing at O'Hare due to a door problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park- bound Blue Line trains are standing at O&#39;Hare due to a door problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-01-07T07:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104489"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "O'Hare",
+          "ServiceId": "40890",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=110"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "0e0d93f9-da88-49be-94bf-558ac387d8a7"
   }
 ]
