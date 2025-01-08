@@ -34,40 +34,6 @@
     "GUID": "b5ec1dc8-adb9-494d-8597-7e888c1d7327"
   },
   {
-    "AlertId": "104517",
-    "Headline": "#29 State Temporary Southbound Reroute near Lafayette/79th",
-    "ShortDescription": "SB 29 State buses are temporarily rerouted via Lafayette, 79th, I-94, 83rd & Lafayette, due to fire department activity near Lafayette/79th.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #29 State buses are temporarily rerouted via Lafayette, 79th, I-94, 83rd and&nbsp;Lafayette, due to fire department activity near Lafayette/79th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-01-08T11:46:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104517"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "State",
-        "ServiceId": "29",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/29/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "80dd74a9-4969-4591-824d-f7cf89498abd"
-  },
-  {
     "AlertId": "104529",
     "Headline": "#15 Jeffery Local Temporary Reroute at Hyde Park Blvd/Kimbark",
     "ShortDescription": "15 Jeffery Local buses are temporarily rerouted via 51st, Drexel, 47th, Lake Park and 51st, due to street blockage near Hyde Park Blvd/Kimbark.",
@@ -168,5 +134,39 @@
     },
     "ttim": "0",
     "GUID": "b57106ad-a0f9-4a47-8dbb-c9edce0d8f20"
+  },
+  {
+    "AlertId": "104532",
+    "Headline": "Blue Line Service Delayed near Forest Park",
+    "ShortDescription": "Blue Line trains are standing near Forest Park due to a mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are standing near Forest Park due to a mechanical problem.</p>\r\n\r\n<p><strong>Shuttle buses are requested between Forest Park and UIC-Halsted to provide connecting service.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-01-08T17:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104532"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9b9590f7-4d31-4269-b8e4-d9b8362d2f29"
   }
 ]
