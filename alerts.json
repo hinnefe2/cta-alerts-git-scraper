@@ -68,40 +68,6 @@
     "GUID": "80dd74a9-4969-4591-824d-f7cf89498abd"
   },
   {
-    "AlertId": "104528",
-    "Headline": "95th-bound Red Line Delays",
-    "ShortDescription": "95th-bound Red Line trains are running with residual delays and congestion following an earlier sick customer at Lake. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are running with residual delays and congestion following an earlier sick customer at Lake.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-01-08T15:48:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104528"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "32dc82a4-8b8b-40c3-9634-46614ecb8230"
-  },
-  {
     "AlertId": "104529",
     "Headline": "#15 Jeffery Local Temporary Reroute at Hyde Park Blvd/Kimbark",
     "ShortDescription": "15 Jeffery Local buses are temporarily rerouted via 51st, Drexel, 47th, Lake Park and 51st, due to street blockage near Hyde Park Blvd/Kimbark.",
@@ -168,5 +134,39 @@
     },
     "ttim": "0",
     "GUID": "4fc048e2-2efb-436b-9ecf-53ca7d076cb2"
+  },
+  {
+    "AlertId": "104531",
+    "Headline": "#2 Hyde Park Express Temporary Southbound Reroute near Hyde Park Blvd/Kimbark",
+    "ShortDescription": "SB 2 Hyde Park Express buses are temporarily rerouted via Lake Park, 55th and Cottage Grove, due to street blockage near Hyde Park Blvd/Kimbark.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound&nbsp;#2 Hyde Park Express buses are temporarily rerouted via Lake Park, 55th and Cottage Grove, due to street blockage near Hyde Park Blvd/Kimbark.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-01-08T16:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104531"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Hyde Park Express",
+        "ServiceId": "2",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/2/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b57106ad-a0f9-4a47-8dbb-c9edce0d8f20"
   }
 ]
