@@ -34,40 +34,6 @@
     "GUID": "b5ec1dc8-adb9-494d-8597-7e888c1d7327"
   },
   {
-    "AlertId": "104514",
-    "Headline": "Normal Green Line Service Restored",
-    "ShortDescription": "Service on the Green Line has resumed and trains are running normally following earlier signal problems near Clark/Lake. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Service on the Green Line has resumed and trains are running normally following earlier signal problems near Clark/Lake.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-01-08T10:43:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104514"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0d1e42d4-dffc-4b19-8938-7e0c1b1d19f6"
-  },
-  {
     "AlertId": "104517",
     "Headline": "#29 State Temporary Southbound Reroute near Lafayette/79th",
     "ShortDescription": "SB 29 State buses are temporarily rerouted via Lafayette, 79th, I-94, 83rd & Lafayette, due to fire department activity near Lafayette/79th.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "80dd74a9-4969-4591-824d-f7cf89498abd"
+  },
+  {
+    "AlertId": "104528",
+    "Headline": "95th-bound Red Line Service Delayed at Lake",
+    "ShortDescription": "95th-bound Red Line trains are standing at Lake due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are standing at Lake due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-01-08T15:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104528"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f900c2bf-9628-4435-aacb-298ee4a1315a"
   }
 ]
