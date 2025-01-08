@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "104511",
-    "Headline": "Howard-bound Red Line Delays",
-    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays following an earlier mechanical problem at Belmont. Service is resuming, allow extra time.",
+    "AlertId": "104512",
+    "Headline": "#74 Fullerton Temporary Reroute at Fullerton/Monticello",
+    "ShortDescription": "74 Fullerton buses are temporarily rerouted via Fullerton, Pulaski, Armitage, Central Park & Fullerton, due to street blockage near Fullerton/Monticello.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are running with residual delays following an earlier mechanical problem at Belmont.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#74 Fullerton buses are temporarily rerouted in both directions via Fullerton, Pulaski, Armitage, Central Park, then resume their normal route at&nbsp;Fullerton, due to street blockage near Fullerton/Monticello.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-01-08T09:39:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-01-08T10:12:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104511"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104512"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Fullerton",
+        "ServiceId": "74",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/74/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "4a96991d-8ad6-49f4-980e-54ee53d75635"
+    "GUID": "b5ec1dc8-adb9-494d-8597-7e888c1d7327"
   }
 ]
