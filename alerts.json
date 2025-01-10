@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "104562",
-    "Headline": "O'Hare-bound Blue Line Service Delayed at Cicero",
-    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Cicero. Crews working to restore service.",
+    "Headline": "O'Hare-bound Blue Line Service Running with Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running with delays at Cicero.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Cicero&nbsp;due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with delays at Cicero due to an earlier sick customer.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -78,6 +78,53 @@
       ]
     },
     "ttim": "0",
-    "GUID": "e3659364-fa26-42d1-a49a-e7cd4c09700d"
+    "GUID": "5035ffe4-497a-48c3-b3cc-057080267809"
+  },
+  {
+    "AlertId": "104563",
+    "Headline": "Loop-bound Orange Line Service Delayed at Halsted",
+    "ShortDescription": "Loop-bound Orange Line trains are standing at Halsted. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Orange Line trains are standing at Halsted due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-01-10T15:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104563"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Halsted",
+          "ServiceId": "41130",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=66"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "01038419-960e-4b85-a1aa-5d954a067645"
   }
 ]
