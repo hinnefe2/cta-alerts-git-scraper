@@ -34,50 +34,37 @@
     "GUID": "4dcedb95-f1d1-4e4c-8675-5beb142e5f40"
   },
   {
-    "AlertId": "104572",
-    "Headline": "Green Line Delays",
-    "ShortDescription": "Green Line trains are running w/residual delays following earlier fire department activity near Garfield. Service is resuming, allow extra time.",
+    "AlertId": "104573",
+    "Headline": "#76 Diversey Temporary Reroute at Diversey/Lavergne",
+    "ShortDescription": "76 Diversey buses are temporarily rerouted via Diversey, Laramie, Belmont, Cicero and Diversey: due to, street blockage near Diversey/Lavergne.",
     "FullDescription": {
-      "#cdata-section": "<p>Green Line trains are running w/residual delays following earlier fire department activity near Garfield</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#76 Diversey buses are temporarily rerouted via Diversey, Laramie, Belmont, Cicero and Diversey: due to, street blockage near Diversey/Lavergne.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-01-11T09:13:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-01-11T09:32:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104572"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104573"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Garfield",
-          "ServiceId": "40510",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=60"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Diversey",
+        "ServiceId": "76",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/76/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "17d7d29e-4e8c-4ee3-82b1-d6860df9d1fa"
+    "GUID": "af1f8d19-b18f-42ed-947a-968f65536481"
   }
 ]
