@@ -6,10 +6,10 @@
     "FullDescription": {
       "#cdata-section": "<p>95th-bound Red Line trains are standing at Thorndale due to a mechanical problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2025-01-14T17:36:00",
     "EventEnd": null,
     "TBD": "1",
@@ -31,6 +31,53 @@
       }
     },
     "ttim": "0",
-    "GUID": "3dbb7427-6a02-4d3c-bd59-06e72a7b3fc1"
+    "GUID": "b8a4e2eb-fecb-45ef-99cf-bea3a7698683"
+  },
+  {
+    "AlertId": "104637",
+    "Headline": "Loop-bound Purple Line Express Service Delayed near Thorndale",
+    "ShortDescription": "Loop-bound Purple Line Express trains are standing near Thorndale due to a mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Purple Line Express trains are standing near Thorndale due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-01-14T17:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104637"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ff95e579-9e01-4b76-b32f-152f908e5a61"
   }
 ]
