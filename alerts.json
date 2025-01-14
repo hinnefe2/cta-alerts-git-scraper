@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "104625",
-    "Headline": "Howard- bound Red Line Service Delayed at 47th",
-    "ShortDescription": "Howard- bound Red Line trains are standing at 47th due to a sick rider. Crews working to restore service.",
+    "Headline": "Howard- bound Red Line Delays",
+    "ShortDescription": "Howard- bound Red Line trains are running w/residual delays following an earlier sick rider at 47th. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard- bound Red Line trains are standing at 47th due to a sick rider.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard- bound Red Line trains are running w/residual delays following an earlier sick rider at 47th.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -23,27 +23,27 @@
           "ServiceType": "T",
           "ServiceTypeDescription": "Train Station",
           "ServiceName": "47th",
-          "ServiceId": "41080",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
+          "ServiceId": "41230",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=5"
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=6"
           }
         },
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
+            "#cdata-section": "http://www.transitchicago.com/redline/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "a58558d4-7510-4309-942b-75505d665fdb"
+    "GUID": "6dab7e55-514f-4a86-b465-5a6d4b956939"
   }
 ]
