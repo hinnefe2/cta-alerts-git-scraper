@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "e9f19065-5ccb-4334-8d6d-a732032b98b5"
+  },
+  {
+    "AlertId": "104731",
+    "Headline": "No trains between Kimball and Southport",
+    "ShortDescription": "Brown  Line service has been temporarily suspended between Kimball and Southport due to an injured employee.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown&nbsp; Line service has been temporarily suspended between Kimball and Fullerton due to an injured employee.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Kimball and Southport at this time.</strong></p>\r\n\r\n<p>Shuttle buses are available from Southport to Fullerton provide connecting service through the affected area.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2025-01-19T12:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104731"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Addison",
+          "ServiceId": "41440",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=16"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "40ddec16-57c8-4d7c-a339-a33e1f659a86"
   }
 ]
