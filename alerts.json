@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "104733",
+    "Headline": "Loop-bound Brown  Line Service Delayed at Damen",
+    "ShortDescription": "Loop- bound Brown Line trains are standing at Damen due to a door problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop- bound Brown Line trains are standing at Damen due to a door problem.&nbsp;</p>\r\n\r\n<p>Shuttle busses have been requested from Kimball to Belmont to provide connecting service through the affected area,</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-01-19T12:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104733"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Damen",
+          "ServiceId": "40090",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=141"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c5b8a9dc-cca8-4396-9290-78c6a9a3a832"
+  }
+]
