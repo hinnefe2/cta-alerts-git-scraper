@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "104767",
+    "Headline": "95th-bound Red Line Delays",
+    "ShortDescription": "95th-bound Red Line trains are running w/residual delays and congestion following an earlier door problem at Roosevelt. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are running with residual delays and congestion following an earlier door problem at Roosevelt.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-01-20T17:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104767"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f86c86af-2714-4615-8dd4-df3a26fd183d"
+  },
+  {
+    "AlertId": "104768",
+    "Headline": "#103 West 103rd Temporary Reroute at 103rd/Aberdeen",
+    "ShortDescription": "103 West 103rd buses are temporarily rerouted via 103rd, Aberdeen, 101st, Halsted & 103rd, due to fire department activity near 103rd/Aberdeen.",
+    "FullDescription": {
+      "#cdata-section": "<p>#103 West 103rd buses are temporarily rerouted in both directions via 103rd, Aberdeen, 101st, Halsted, then resume their normal route on 103rd, due to fire department activity near 103rd/Aberdeen.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-01-20T17:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104768"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "West 103rd",
+        "ServiceId": "103",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/103/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ee2d11b7-7ec9-4156-a22b-6d73d0e120eb"
+  }
+]
