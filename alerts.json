@@ -1,49 +1,36 @@
 [
   {
-    "AlertId": "104796",
-    "Headline": "Harlem-bound Green Line Delays",
-    "ShortDescription": "Harlem-bound Green Line trains are running w/residual delays following an earlier door problem  at Cermak. Service is resuming, allow extra time.",
+    "AlertId": "104797",
+    "Headline": "#7 Harrison Temporary Westbound Reroute near Congress/Independance",
+    "ShortDescription": "Westbound 7 Harrison buses are temporarily rerouted via Congress, Central Park, Jackson, Hamlin and Congress near Congress/Independence.",
     "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green Line trains are running w/residual delays following an earlier door problem&nbsp; at Cermak.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #7 Harrison buses are temporarily rerouted via Congress, Central Park, Jackson, Hamlin and Congress due to, fire department activity near Congress/Independence.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-01-21T08:23:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-01-21T08:35:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104796"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104797"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Cermak-McCormick Place",
-          "ServiceId": "41690",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=149"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Harrison",
+        "ServiceId": "7",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/7/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "477a3fae-1dcc-4390-9b14-8dbd40db0a72"
+    "GUID": "c58cf690-d942-4d13-9fc7-b2e132a9bae0"
   }
 ]
