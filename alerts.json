@@ -101,5 +101,52 @@
     },
     "ttim": "0",
     "GUID": "61c5d639-5054-4c70-87c5-c8fb6cbb062d"
+  },
+  {
+    "AlertId": "104832",
+    "Headline": "Howard-bound Red Line trains bypassing Roosevelt Station",
+    "ShortDescription": "Howard-bound Red Line trains are running, but not stopping at Roosevelt due to a sick customer.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are running, but not stopping at Roosevelt due to a sick customer.</p>\r\n\r\n<ul>\r\n\t<li>For Howard-bound&nbsp;service to this&nbsp;station, take a Howard-bound&nbsp;train to Cermak-Chinatown where you may take the&nbsp;<strong>#29 State&nbsp;Street</strong> bus to reach Roosevelt.</li>\r\n</ul>\r\n\r\n<p><span style=\"font-weight: bolder;\">Shuttle buses are available between Fullerton and State/Lake to provide connecting service.</span></p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2025-01-22T13:31:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104832"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Roosevelt",
+          "ServiceId": "41400",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=122"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "402405c1-5c2e-40f9-b8b7-d44ce5ad977a"
   }
 ]
