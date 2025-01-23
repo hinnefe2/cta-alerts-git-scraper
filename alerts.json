@@ -35,15 +35,15 @@
   },
   {
     "AlertId": "104848",
-    "Headline": "95th-bound Red Line Service Delayed at Fullerton",
-    "ShortDescription": "95th-bound Red Line trains are standing at Fullerton. Crews working to restore service.",
+    "Headline": "95th-bound Red Line Service Running with Delays",
+    "ShortDescription": "95th-bound Red Line trains are running with delays at Fullerton.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are standing at Fullerton due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th-bound Red Line trains are running with delays at Fullerton due to an earlier&nbsp; mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
     "EventStart": "2025-01-23T07:47:00",
     "EventEnd": null,
     "TBD": "1",
@@ -74,32 +74,10 @@
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/redline/"
           }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "f51c3e5a-612a-4582-810d-b5a2b42b7560"
+    "GUID": "085f9336-2c9d-48f7-a5ba-f0e4dd0579ff"
   }
 ]
