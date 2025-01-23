@@ -4,7 +4,7 @@
     "Headline": "No trains between 54th/Cermak and Central Park",
     "ShortDescription": "Pink Line service has been temporarily suspended between 54th/Cermak and Central Park due to a medical emergency on the tracks.",
     "FullDescription": {
-      "#cdata-section": "<p>Pink Line service has been temporarily suspended between 54th/Cermak and Central Park due to a medical emergency on the tracks.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Central Park and the Loop &#39;L&#39;&nbsp;&nbsp;at this time.</strong></p>\r\n\r\n<p><strong>Shuttle buses have been requested between Central Park and 54th/Cermak to provide connecting service.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p><strong>#21 Cermak</strong></p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Pink Line service has been temporarily suspended between 54th/Cermak and Central Park due to a medical emergency on the tracks.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Central Park and the Loop &#39;L&#39;&nbsp;&nbsp;at this time.</strong></p>\r\n\r\n<p><strong>Shuttle buses are available between Central Park and 54th/Cermak to provide connecting service.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p><strong>#21 Cermak</strong></p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "84",
     "SeverityColor": "c00c00",
@@ -31,7 +31,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "fe3b3907-325e-45e8-ab2f-44a7b3a25029"
+    "GUID": "099bdcc7-ec12-4a52-bda2-badf882db0ab"
   },
   {
     "AlertId": "104840",
@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "524cad68-2720-46d1-a910-f76b0472229a"
+  },
+  {
+    "AlertId": "104841",
+    "Headline": "#91 Austin Temporary Southbound Reroute near Austin/Division",
+    "ShortDescription": "SB 91 Austin buses are temporarily rerouted via Austin, Division, Central, Chicago & Austin, due to street blockage near Austin/Division.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #91 Austin buses are temporarily rerouted via Austin, Division, Central, Chicago &amp; Austin, due to street blockage near Austin/Division.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-01-22T19:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104841"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Austin",
+        "ServiceId": "91",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/91/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ef1b35cb-6414-4866-b268-31d4f84354f4"
   }
 ]
