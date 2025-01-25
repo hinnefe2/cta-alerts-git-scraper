@@ -270,5 +270,52 @@
     },
     "ttim": "0",
     "GUID": "ec155f58-d1ee-4c37-be89-0e6fde3431a5"
+  },
+  {
+    "AlertId": "104901",
+    "Headline": "#6 Jackson Park Express Temporary Southbound Reroute near Balbo/Wabash",
+    "ShortDescription": "Southbound 6 Jackson Park Express buses are temporarily rerouted via State, Ide B Wells, Michigan and  Balbo due to, street blockage near Balbo/Wabash.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #6 Jackson Park Express buses are temporarily rerouted via State, Ide B Wells, Michigan and&nbsp; Balbo due to, street blockage near Balbo/Wabash.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-01-24T18:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104901"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Hyde Park Express",
+          "ServiceId": "2",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/2/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "13d48b5c-8299-4093-9511-b1207a85ac3c"
   }
 ]
