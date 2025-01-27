@@ -103,10 +103,10 @@
   },
   {
     "AlertId": "104940",
-    "Headline": "#6 Jackson Park Express,\t#28 Stony Island Temporary Reroute at Hyde Park/East End",
-    "ShortDescription": "6 Jackson Park Express, 28 Stony Island buses are temporarily rerouted via Hyde Park, 53rd, Lake Park and 47th: due to, street blockage near Hyde Park/East End.",
+    "Headline": "#6 Jackson Park Express, 28 Stony Island Temporary Southbound Reroute near Hyde Park/East End.",
+    "ShortDescription": "Southbound 6 Jackson Park Express, 28 Stony Island buses are temp rrtd via 47th, Lake Park, 53rd and Hyde Park: due to, street blockage near Hyde Park/East End.",
     "FullDescription": {
-      "#cdata-section": "<p>#6 Jackson Park Express, 28 Stony Island&nbsp; buses are temporarily rerouted via Hyde Park, 53rd, Lake Park and 47th: due to, street blockage near Hyde Park/East End.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #6 Jackson Park Express, 28 Stony Island buses are temporarily rerouted via 47th, Lake Park, 53rd and Hyde Park: due to, street blockage near Hyde Park/East End.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -146,7 +146,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "7a2d67c1-cf39-418a-9e99-3ace50ddb86a"
+    "GUID": "e2657a25-d6d4-4485-886b-ef21b48dd40e"
   },
   {
     "AlertId": "104941",
@@ -249,52 +249,5 @@
     },
     "ttim": "0",
     "GUID": "3778734d-37b9-4121-ad5b-2d9c94899bd4"
-  },
-  {
-    "AlertId": "104953",
-    "Headline": "Brown Line Service Delayed at Kimball",
-    "ShortDescription": "Brown Line trains are standing at Kimball due to track switching problems. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are standing at Kimball due to track switching problems.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-01-27T13:52:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104953"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Kimball",
-          "ServiceId": "41290",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=84"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "25cd2fe7-29e9-4a30-ad33-3f6d6045334e"
   }
 ]
