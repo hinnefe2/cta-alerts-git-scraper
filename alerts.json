@@ -38,7 +38,7 @@
     "Headline": "#77 Belmont Temporary Eastbound Reroute near Belmont/Francisco",
     "ShortDescription": "Eastbound 77 Belmont buses are temporarily rerouted via Belmont, Sacramento, Elston and Belmont due to, street blockage near Belmont/Francisco.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How will this effect my trip:</strong></p>\r\n\r\n<p>Eastbound #77 Belmont buses are temporarily rerouted via Belmont, Sacramento, Elston and Belmont due to, street blockage near Belmont/Francisco.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How will this affect my trip:</strong></p>\r\n\r\n<p>Eastbound #77 Belmont buses are temporarily rerouted via Belmont, Sacramento, Elston and Belmont due to, street blockage near Belmont/Francisco.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -65,6 +65,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "0f4b0d3f-6445-425f-a600-a8c7924a1386"
+    "GUID": "6691ad50-e042-4329-8e1f-fae764a4a2ec"
+  },
+  {
+    "AlertId": "104993",
+    "Headline": "#111 111th/ King Drive Temporary Reroute near Vincennes/115th",
+    "ShortDescription": "111 111th/King Drive buses temporary rerouted NB: Ashland, Monterey and Vincennes; SB: Vincennes, Monterey, Marshfield and 115th: due to, near Vincennes/115th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip:</strong></p>\r\n\r\n<p>#111 111th/King Drive buses are temporarily rerouted in both directions near Vincennes/115th, due to street blockage near Vincennes/115th.</p>\r\n\r\n<p>Northbound buses will operate via Ashland, Monterey, Vincennes and over regular route.</p>\r\n\r\n<p>Southbound buses will operate via Vincennes, Monterey, Marshfield, 115th and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-01-29T11:36:00",
+    "EventEnd": "2025-02-05",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=104993"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "111th/King Drive",
+        "ServiceId": "111",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/111/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cac88029-f706-4aa0-ae36-ce55f0b741df"
   }
 ]
