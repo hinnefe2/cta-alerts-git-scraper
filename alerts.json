@@ -100,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "b45be61a-af69-44d9-b833-2c1f5a89d83f"
+  },
+  {
+    "AlertId": "105000",
+    "Headline": "#66 Chicago Temporary Eastbound Reroute near Chicago/Homan",
+    "ShortDescription": "EB 66 Chicago buses are temporarily rerouted via Chicago, Homan, Augusta, Grand, Kedzie & Chicago, due to police department activity near Chicago/Homan.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound&nbsp;#66 Chicago buses are temporarily rerouted via Chicago, Homan, Augusta, Grand, Kedzie, then resume their normal route at&nbsp;Chicago, due to police department activity near Chicago/Homan.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-01-29T15:45:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105000"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b9ead0a8-3b6a-497d-b42c-c2a5bea7e149"
   }
 ]
