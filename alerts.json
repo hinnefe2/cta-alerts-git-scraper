@@ -1,36 +1,70 @@
 [
   {
-    "AlertId": "105043",
-    "Headline": "95th-bound Red Line Service Delayed at Thorndale",
-    "ShortDescription": "95th-bound Red Line trains are standing at Thorndale due to a sick customer. Crews working to restore service.",
+    "AlertId": "105044",
+    "Headline": "#29 State Temporary Southbound Reroute near Grand/ Michigan.",
+    "ShortDescription": "Southbound #29 State buses are temporarily rerouted via Grand, Fairbanks, Ontario, State and Grand due to street blockage near Grand/ Michigan.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are standing at Thorndale due to a sick customer.&nbsp;</p>\r\n\r\n<p><br />\r\nPersonnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #29 State buses are temporarily rerouted via Grand, Fairbanks, Ontario, State and Grand due to street blockage near Grand/ Michigan.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-01-30T22:10:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-01-30T22:30:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105043"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105044"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "7206d5b6-0947-4f90-90fb-e9d3772386de"
+    "GUID": "75ebcda3-3ae6-4248-b888-54b953e99f14"
+  },
+  {
+    "AlertId": "105045",
+    "Headline": "#65 Grand Temporary Westbound Reroute near Grand/ Michigan",
+    "ShortDescription": "Westbound #65 Grand buses are temporarily rerouted via Grand, Fairbanks, Ontario, State and Grand due to street blockage near Grand/ Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #65 Grand buses are temporarily rerouted via Grand, Fairbanks, Ontario, State and Grand due to street blockage near Grand/ Michigan.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-01-30T22:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105045"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Grand",
+        "ServiceId": "65",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/65/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6997ff82-cf7d-41cb-a3a5-010744ffb3e4"
   }
 ]
