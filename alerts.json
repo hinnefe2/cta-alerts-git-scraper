@@ -100,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "52792e78-ff30-453d-819e-297917fbdd15"
+  },
+  {
+    "AlertId": "105101",
+    "Headline": "Howard-bound Red Line Delays",
+    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays following an earlier signal problems at Howard. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are running w/residual delays following an earlier signal problems at Howard.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-02-02T15:44:00",
+    "EventEnd": "2025-02-02T15:53:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105101"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "861bb83d-45ec-4720-be07-4a0745bd79a9"
   }
 ]
