@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "8c97543c-d256-4fc3-93cd-4d3ad3864428"
+  },
+  {
+    "AlertId": "105098",
+    "Headline": "Kimball-bound Brown Line Service Delayed at Belmont",
+    "ShortDescription": "Kimball and Howard-bound Red, Brown Line trains are standing at Belmont due to a delay. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Kimball and Howard-bound Red, Brown Line trains are standing at Belmont due to a delay.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-02-02T14:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105098"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1cf36c02-282a-426a-8846-208ef0a35fbb"
   }
 ]
