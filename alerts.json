@@ -137,10 +137,10 @@
   },
   {
     "AlertId": "105114",
-    "Headline": "63rd-bound Green Line Service Delayed at Oak Park",
-    "ShortDescription": "63rd-bound Green Line trains are standing at Oak Park. Crews working to restore service.",
+    "Headline": "63rd-bound Green Line Service Running with Delays",
+    "ShortDescription": "63rd-bound Green Line trains are running with delays at Oak Park.",
     "FullDescription": {
-      "#cdata-section": "<p>63rd-bound Green&nbsp;Line trains are&nbsp;standing&nbsp;at Oak Park due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>63rd-bound Green Line&nbsp;trains are running with delays&nbsp;at Oak Park due to an earlier sick customer.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -180,6 +180,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "32c08983-f395-4baa-9c5c-9f96bf907c0a"
+    "GUID": "77d92466-f23a-4d3c-820f-2c12fd4484c6"
+  },
+  {
+    "AlertId": "105115",
+    "Headline": "Temporary Northbound #86 Narragansett/Ridgeland Reroute near Narragansett/Montrose",
+    "ShortDescription": "Northbound 86 Narragansett/Ridgeland buses are temporarily rerouted near Narragansett/Montrose.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #86 Narragansett/Ridgeland buses are temporarily rerouted via Narragansett, Montrose, Austin, Gunnison, Nagle, and resume normal route, due to street blockage&nbsp;near Narragansett/Montrose.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-02-03T09:31:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105115"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Narragansett/Ridgeland",
+        "ServiceId": "86",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/86/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b5c53119-2bc4-401c-834c-2c744061f97b"
   }
 ]
