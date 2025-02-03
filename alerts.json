@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "105106",
-    "Headline": "Southbound Temporary #54 Cicero Reroute near Cicero/Cermak",
-    "ShortDescription": "Southbound 54 Cicero buses are temporarily rerouted in both directions via Cicero, Cermak, Kenton and Cermak due to street blockage near Cicero/Cermak.",
+    "Headline": "Southbound Temporary #54B South Cicero Reroute near Cicero/Cermak",
+    "ShortDescription": "Southbound 54B South Cicero buses are temporarily rerouted in both directions via Cicero, Cermak, Kenton and Cermak due to street blockage near Cicero/Cermak.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong>&nbsp;#54 Cicero buses are temporarily rerouted in both directions via Cicero, Cermak, Kenton and Cermak due to street blockage near Cicero/Cermak.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong>&nbsp;#54B South Cicero&nbsp;buses are temporarily rerouted in both directions via Cicero, Cermak, Kenton and Cermak due to street blockage near Cicero/Cermak.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -55,6 +55,40 @@
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Cicero",
+        "ServiceId": "54B",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54b/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b0366667-f38a-46ad-90bf-79e5d3e36d04"
+  },
+  {
+    "AlertId": "105108",
+    "Headline": "#54 Cicero Temporary Southbound Reroute near Cicero/Cermak",
+    "ShortDescription": "Southbound 54 Cicero buses are temporarily rerouted via Cicero, Cermak, 54th Pink Line, Cermak and Cicero : due to, street blockage near Cicero/Cermak.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #54 Cicero buses are temporarily rerouted via Cicero, Cermak, 54th Pink Line, Cermak and Cicero : due to, street blockage near Cicero/Cermak.</p>\r\n\r\n<p>Northbound&nbsp; buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-02-03T06:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105108"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
         "ServiceName": "Cicero",
         "ServiceId": "54",
         "ServiceBackColor": "565a5c",
@@ -65,6 +99,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "c4d2a12e-5c1c-4fff-a74d-56a4a251dc7e"
+    "GUID": "ff7bf5d5-6dbb-42cd-bef9-7c30695a1efd"
   }
 ]
