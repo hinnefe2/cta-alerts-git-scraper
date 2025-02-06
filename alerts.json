@@ -68,8 +68,121 @@
     "GUID": "b003c87b-cddc-4bbb-8f98-cf2ea08e2a2e"
   },
   {
+    "AlertId": "105170",
+    "Headline": "Delays Affecting Trains",
+    "ShortDescription": "Trains are running with delays from weather conditions. Crews working to restore normal service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Trains are running with delays from weather conditions with longer than usual travel times.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes.</p>\r\n\r\n<p>Crews are working to clear tracks and restore normal travel times through the area.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-02-05T22:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105170"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Yellow Line",
+          "ServiceId": "Y",
+          "ServiceBackColor": "f9e300",
+          "ServiceTextColor": "000000",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/yellowline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f661a619-f3f1-4c7b-9ebc-38f0a3213a40"
+  },
+  {
     "AlertId": "105172",
-    "Headline": "Delays Affecting Green Line Trains",
+    "Headline": "Delays Affecting Red Line Trains",
     "ShortDescription": "Trains are running with delays from weather conditions with longer than usual travel times. Crews working to restore service.",
     "FullDescription": {
       "#cdata-section": "<p>Trains are running with delays from weather conditions with longer than usual travel times.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes.</p>\r\n\r\n<p>Crews are working to clear tracks and restore normal travel times through the area.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
@@ -89,16 +202,84 @@
       "Service": {
         "ServiceType": "R",
         "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "da20db37-f415-4ff0-b9bb-e6b578aa1851"
+    "GUID": "4e24919a-827b-48f3-832d-cf236b7cafdf"
+  },
+  {
+    "AlertId": "105173",
+    "Headline": "Delays Affecting Blue Line Trains\t",
+    "ShortDescription": "Trains are running with delays from weather conditions with longer than usual travel times. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Trains are running with delays from weather conditions with longer than usual travel times.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes.</p>\r\n\r\n<p>Crews are working to clear tracks and restore normal travel times through the area.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-02-06T02:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105173"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c2946d4d-71c1-4d53-8d80-f4a9fccc4840"
+  },
+  {
+    "AlertId": "105174",
+    "Headline": "Delays Affecting Blue Line Trains\t",
+    "ShortDescription": "Trains are running with delays from weather conditions with longer than usual travel times. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Trains are running with delays from weather conditions with longer than usual travel times.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes.</p>\r\n\r\n<p>Crews are working to clear tracks and restore normal travel times through the area.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-02-06T02:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105174"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b4e55188-2b95-4359-aa64-588d985c7f50"
   }
 ]
