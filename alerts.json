@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "b003c87b-cddc-4bbb-8f98-cf2ea08e2a2e"
+  },
+  {
+    "AlertId": "105183",
+    "Headline": "Red and Orange Line Delays",
+    "ShortDescription": "Red and Orange Line trains are running w/residual delays following  earlier delays near Roosevelt and Cermak. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red and Orange Line trains are running w/residual delays following&nbsp; earlier delays near Roosevelt and Cermak.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-02-06T10:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105183"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ac9eca8f-934a-4cee-8f5f-99f8b4f5ab84"
   }
 ]
