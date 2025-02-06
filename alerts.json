@@ -68,40 +68,6 @@
     "GUID": "b003c87b-cddc-4bbb-8f98-cf2ea08e2a2e"
   },
   {
-    "AlertId": "105169",
-    "Headline": "Blue Line Service Delayed",
-    "ShortDescription": "Blue Line trains are standing due to track conditions. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are standing due to track conditions.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-02-05T22:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105169"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "cedd4993-d725-4972-9dd1-aee48b456025"
-  },
-  {
     "AlertId": "105170",
     "Headline": "Delays Affecting Trains",
     "ShortDescription": "Trains are running with delays from weather conditions. Crews working to restore normal service.",
@@ -168,6 +134,17 @@
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
           "ServiceName": "Green Line",
           "ServiceId": "G",
           "ServiceBackColor": "009b3a",
@@ -201,6 +178,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "fd3e9105-e960-45aa-af53-08462c5152a7"
+    "GUID": "64e43067-6bfc-4cbf-a918-06ea1581832e"
   }
 ]
