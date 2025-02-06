@@ -187,10 +187,10 @@
     "FullDescription": {
       "#cdata-section": "<p>Trains are running with delays from weather conditions with longer than usual travel times.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes.</p>\r\n\r\n<p>Crews are working to clear tracks and restore normal travel times through the area.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2025-02-06T01:04:00",
     "EventEnd": null,
     "TBD": "1",
@@ -212,41 +212,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "4e24919a-827b-48f3-832d-cf236b7cafdf"
-  },
-  {
-    "AlertId": "105173",
-    "Headline": "Delays Affecting Blue Line Trains\t",
-    "ShortDescription": "Trains are running with delays from weather conditions with longer than usual travel times. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Trains are running with delays from weather conditions with longer than usual travel times.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes.</p>\r\n\r\n<p>Crews are working to clear tracks and restore normal travel times through the area.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-02-06T02:28:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105173"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "fae1db52-ffe4-4447-b46a-c61ee47d4af9"
+    "GUID": "9590b192-634a-443b-9916-269495da24b7"
   },
   {
     "AlertId": "105174",
