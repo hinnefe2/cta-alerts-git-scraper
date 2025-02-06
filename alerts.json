@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "105109",
-    "Headline": "#30 South Chicago Temporary Reroute near Brainard/137th",
-    "ShortDescription": "#30 South Chicago buses rerouted; Southbound buses will operate via Avenue O, 135th and Baltimore. Northbound buses will operate via Baltimore and Brainard.",
-    "FullDescription": {
-      "#cdata-section": "<p>#30 South Chicago buses are temporarily rerouted in both directions near&nbsp; Brainard/137th, due to street blockage.</p>\r\n\r\n<p>Southbound buses will operate via Avenue O, 135th and Baltimore.</p>\r\n\r\n<p>Northbound buses will operate via Baltimore and Brainard.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-02-03T07:16:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105109"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Chicago",
-        "ServiceId": "30",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/30/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b003c87b-cddc-4bbb-8f98-cf2ea08e2a2e"
-  },
-  {
     "AlertId": "105185",
     "Headline": "#50 Damen Temporary Reroute at Damen/Ohio",
     "ShortDescription": "50 Damen buses are temporarily rerouted via Damen, Chicago, Western, Grand & Damen, due to police activity near Damen/Ohio.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "fdadb8dd-20e2-41a1-856b-698431016fc4"
+  },
+  {
+    "AlertId": "105187",
+    "Headline": "#29 State Temporary Northbound Reroute near State/54th",
+    "ShortDescription": "NB 29 State buses are temporarily rerouted via State, 55th, Wabash, 51st and State, due to police activity near State/54th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound&nbsp;#29 State buses are temporarily rerouted via State, 55th, Wabash, 51st, then resume their normal route on State, due to police activity near State/54th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-02-06T16:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105187"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "413fa8a7-40bf-4398-99b0-034411e6f0d2"
   }
 ]
