@@ -134,5 +134,39 @@
     },
     "ttim": "0",
     "GUID": "c8cd4ed4-b7bc-480b-a784-1e0ce931cf5c"
+  },
+  {
+    "AlertId": "105252",
+    "Headline": "Loop- bound Brown Line Service Running with Delays",
+    "ShortDescription": "Loop- bound Brown Line trains are running w/residual delays at Kimball.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop- bound Brown Line trains are running w/residual delays at Kimball.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-02-10T10:31:00",
+    "EventEnd": "2025-02-10T10:35:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105252"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "374d0f63-ecd7-4a6f-be79-65430974025b"
   }
 ]
