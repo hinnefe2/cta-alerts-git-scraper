@@ -99,7 +99,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "68bd9540-ab2e-495d-805a-139992fcdf60"
+    "GUID": "88c88ac9-db72-40f2-98f7-977b8db33279"
   },
   {
     "AlertId": "105242",
@@ -136,84 +136,37 @@
     "GUID": "a3be3b57-17f1-4245-b370-d59b66fe9055"
   },
   {
-    "AlertId": "105243",
-    "Headline": "#47 47th Temporary Westbound Reroute near 47th/Central Park",
-    "ShortDescription": "Westbound 47 47th buses are temporarily rerouted via 47th, Kedzie, 51st, Lawndale, Archer and 47th: due to, police activity near 47th/Central Park.",
+    "AlertId": "105245",
+    "Headline": "#76 Diversey Temporary Reroute near Diversey/Kedzie",
+    "ShortDescription": "76 Diversey buses temp. rerouted EB Milwaukee, Logan, Sacramento and Diversey; WB : Diversey, Sacramento, Logan , Milwaukee and Diversey near Diversey/Kedzie.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound #47 47th buses are temporarily rerouted via 47th, Kedzie, 51st, Lawndale, Archer and 47th: due to, police activity near 47th/Central Park.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#76 Diversey buses are temporarily rerouted in both directions near Diversey/Kedzie&nbsp;due to fire department activity&nbsp;near Diversey/Kedzie.</p>\r\n\r\n<p>Eastbound buses will operate via Milwaukee, Logan Blvd, Sacramento and Diversey&nbsp;including the normal route streets.</p>\r\n\r\n<p>Westbound&nbsp; buses will operate via Diversey, Sacramento, Logan Blvd, Milwaukee and Diversey.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-02-10T05:58:00",
+    "EventStart": "2025-02-10T06:26:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105243"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105245"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "47th",
-        "ServiceId": "47",
+        "ServiceName": "Diversey",
+        "ServiceId": "76",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/47/"
+          "#cdata-section": "http://www.transitchicago.com/bus/76/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "aac75275-5601-43a3-a9c3-93af38f4050e"
-  },
-  {
-    "AlertId": "105244",
-    "Headline": "95th- bound Red Line Delays",
-    "ShortDescription": "95th- bound Red Line trains are running w/residual delays at Howard. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>95th- bound Red Line trains are running w/residual delays at Howard.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-02-10T06:17:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105244"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Howard",
-          "ServiceId": "40900",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=71"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "34a1d709-39c9-4e5b-8e7e-b40c4b3b0282"
+    "GUID": "8451a83f-f391-4acb-8237-a96f5971351a"
   }
 ]
