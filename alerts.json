@@ -232,21 +232,44 @@
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/orangeline/"
           }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "9ce6b4ac-d885-45e8-a035-dea4e287720a"
+    "GUID": "a49bd5ae-d207-4b24-b3f0-4c0e1aa9b256"
+  },
+  {
+    "AlertId": "105269",
+    "Headline": "Downtown Purple Line Express trains Service Rerouted via Subway to Roosevelt",
+    "ShortDescription": "Purple Line Express trains are rerouted via State Street (Red Line) Subway from Fullerton thru Roosevelt. Board on Howard-bound side at Red Line subway stops.",
+    "FullDescription": {
+      "#cdata-section": "<p>Purple Line Express trains are being rerouted into the State Street (Red Line) Subway after Fullerton, making all stops, in both directions from North/Clybourn to Roosevelt.</p>\r\n\r\n<p>Trains are being rerouted due to track switching problems near Clark/Lake.</p>\r\n\r\n<h4 style=\"margin-left: 40px;\">Purple Line Express service to downtown</h4>\r\n\r\n<p style=\"margin-left: 40px;\">Loop-bound Purple Line Express&nbsp; trains will make all regular stops through Fullerton, and then be rerouted into the State Street (Red Line) Subway through Roosevelt.</p>\r\n\r\n<h4 style=\"margin-left: 40px;\">Purple Line Express service from downtown</h4>\r\n\r\n<p style=\"margin-left: 40px;\">Linden-bound Purple Line Express&nbsp;trains will make Red Line stops from Roosevelt through Fullerton. Trains will not serve Loop stations nor those from Merchandise Mart through Armitage.</p>\r\n\r\n<p style=\"margin-left: 40px;\">Board on the Howard-bound side at Red Line subway stations or use Red Line service as an alternative.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "83",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays / Reroute",
+    "EventStart": "2025-02-11T08:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105269"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line Express",
+        "ServiceId": "Pexp",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "fb5347c9-afbb-43bf-9680-1d8d70487698"
   }
 ]
