@@ -304,5 +304,52 @@
     },
     "ttim": "0",
     "GUID": "dddab2c9-a906-41e1-aa3b-e2fe229a95f1"
+  },
+  {
+    "AlertId": "105267",
+    "Headline": "54th/Cermak-bound Pink Line Service Running with Delays",
+    "ShortDescription": "54th/Cermak-bound Pink Line trains are running with delays at Central Park.",
+    "FullDescription": {
+      "#cdata-section": "<p>54th/Cermak-bound Pink Line&nbsp;trains are running with delays&nbsp;at&nbsp;Central Park due to earlier police department activity.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-02-10T20:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105267"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Central Park",
+          "ServiceId": "40780",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=32"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "0f3b79d7-61f0-41d2-ba7b-954a7a5ec082"
   }
 ]
