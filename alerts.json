@@ -1,7 +1,7 @@
 [
   {
     "AlertId": "105285",
-    "Headline": "#151 Sheridan Temporary Northbound Reroute near Sheridan/Winthrop",
+    "Headline": "#151 Sheridan Temporary Southbound Reroute near Sheridan/Winthrop",
     "ShortDescription": "Southbound 151 Sheridan buses are rerouted via Devon, Broadway, Granville, Sheridan, then resume their normal route, due to street blockage nr Sheridan/Winthrop",
     "FullDescription": {
       "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong> #151 Sheridan buses are temporarily rerouted via Devon, Broadway, Granville, Sheridan, then resume their normal route, due to street blockage near Sheridan/Winthrop.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.&nbsp; &nbsp;<strong>(REVISED)</strong></p>\r\n"
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "9fdee589-a669-4a03-b1c9-1abb6975675f"
+    "GUID": "9fc46615-fbaf-4d60-9faf-30253a5d27dc"
+  },
+  {
+    "AlertId": "105286",
+    "Headline": "#147 Outer DuSable Lake Shore Express Temporary Southbound Reroute near Sheridan/Winthrop",
+    "ShortDescription": "SB147 Outer DuSable Lake Shore Exp buses are rerouted via Sheridan, Broadway, Granville, Sheridan, then resume their normal route.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect m trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong> #147 Outer DuSable Lake Shore Express buses are temporarily rerouted via Sheridan, Broadway, Granville, Sheridan, then resume their normal route, due to street blockage near Sheridan/Winthrop.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-02-12T04:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105286"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Outer DuSable Lake Shore Express",
+        "ServiceId": "147",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/147/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0949757f-aa9a-4443-a0b5-df7f47b516e7"
   }
 ]
