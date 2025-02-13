@@ -69,10 +69,10 @@
   },
   {
     "AlertId": "105319",
-    "Headline": "Red Line Service Delayed at Garfield",
-    "ShortDescription": "Red Line trains are standing at Garfield. Crews working to restore service.",
+    "Headline": "Red Line Line Delays",
+    "ShortDescription": "Red Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Garfield. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing at Garfield.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Garfield.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -112,6 +112,53 @@
       ]
     },
     "ttim": "0",
-    "GUID": "db3022ff-a5c1-43d6-bac1-a46e573b0844"
+    "GUID": "4ae64111-7d59-48ca-892f-dfd95b4c3411"
+  },
+  {
+    "AlertId": "105320",
+    "Headline": "Loop- bound Brown Line Delays",
+    "ShortDescription": "Loop- bound Brown Line trains are running w/residual delays following an earlier mechanical problem at Damen. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop- bound Brown Line trains are running w/residual delays following an earlier mechanical problem at Damen.&nbsp;</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-02-13T08:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105320"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Damen",
+          "ServiceId": "40090",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=141"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "838eb1b4-8dae-41f6-8983-693bc90f7767"
   }
 ]
