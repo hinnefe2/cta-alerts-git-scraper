@@ -34,50 +34,16 @@
     "GUID": "df095d6e-e4af-48fe-9c3d-fa38bb5942ac"
   },
   {
-    "AlertId": "105317",
-    "Headline": "#66 Chicago Temporary Westbound Reroute near Chicago/Springfield",
-    "ShortDescription": "Westbound 66 Chicago buses are temporarily rerouted via Chicago, Harrison, Augusta, Pulaski and Chicago: due to, street blockage near Chicago/Springfield.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #66 Chicago buses are temporarily rerouted via Chicago, Harrison, Augusta, Pulaski and Chicago: due to, street blockage near Chicago/Springfield.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-02-13T06:21:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105317"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Chicago",
-        "ServiceId": "66",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/66/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "af79e08d-e3a8-456d-9c6c-f1535ba73439"
-  },
-  {
     "AlertId": "105323",
-    "Headline": "54th/Cermak Pink Line Service Delayed at Ashland/Lake",
-    "ShortDescription": "54th/Cermak- bound Pink Line trains are standing at Ashland/Lake due to a sick rider. Crews working to restore service.",
+    "Headline": "54th/Cermak- bound Pink Line Delays",
+    "ShortDescription": "54th/Cermak- bound Pink Line trains are running w/residual delays following an earlier sick rider at Ashland/Lake. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>54th/Cermak- bound Pink Line trains are standing at Ashland/Lake due to a sick rider.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>54th/Cermak- bound Pink Line trains are running w/residual delays following an earlier sick rider at Ashland/Lake.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2025-02-13T08:59:00",
     "EventEnd": null,
     "TBD": "1",
@@ -123,6 +89,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "15637cf5-82b9-4fd3-8682-a7565a104a26"
+    "GUID": "c4e07fc9-2d08-4e9c-99a1-95f6e7425e0c"
   }
 ]
