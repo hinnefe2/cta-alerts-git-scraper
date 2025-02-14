@@ -136,37 +136,37 @@
     "GUID": "b31bc7f2-0b82-4359-8c02-40ba96bc0deb"
   },
   {
-    "AlertId": "105349",
-    "Headline": "Forest Park-bound Blue Line Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays at Cicero. Service is resuming, allow extra time. Service is resuming, allow extra time.",
+    "AlertId": "105350",
+    "Headline": "#94 California Temporary Northbound Reroute near California/63rd,",
+    "ShortDescription": "Northbound #94 California buses are temporarily rerouted via California, 63rd, Western,59th and California due to, street blockage near California/63rd.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays at Cicero. Service is resuming, allow extra time.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #94 California buses are temporarily rerouted via California, 63rd, Western,59th and California due to, street blockage near California/63rd,</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-02-14T08:25:00",
-    "EventEnd": "2025-02-14T08:30:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-02-14T08:30:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105349"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105350"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/california/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "abf32ffd-4fda-4491-812e-99a3c468bec8"
+    "GUID": "5db8e6dc-363d-4054-acf8-fb23a6e64295"
   }
 ]
