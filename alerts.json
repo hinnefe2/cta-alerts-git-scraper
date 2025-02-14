@@ -102,37 +102,37 @@
     "GUID": "24c2ca73-b5bd-406d-ac3c-51cd2a2ad911"
   },
   {
-    "AlertId": "105345",
-    "Headline": "95th-bound RedLine Delays",
-    "ShortDescription": "95th-bound Red Line trains are running with residual delays following an earlier delay  at Howard. Service is resuming, allow extra time.",
+    "AlertId": "105346",
+    "Headline": " #24 Wentworth Temporary Southbound Reroute near 43rd/Wentworth",
+    "ShortDescription": "Southbound #24 Wentworth buses are temporarily rerouted via Wentworth, I-94, 47th, and Wentworth due to fire department activity near 43rd/Wentworth",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are running with residual delays following an earlier delay&nbsp; at Howard.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #24 Wentworth buses are temporarily rerouted via Wentworth, I-94, 47th, and Wentworth due to fire department activity near 43rd/Wentworth</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-02-14T07:27:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-02-14T07:35:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105345"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105346"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Wentworth",
+        "ServiceId": "24",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/24/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "5b16e25e-67c1-4954-9f44-c46c3a894b68"
+    "GUID": "b31bc7f2-0b82-4359-8c02-40ba96bc0deb"
   }
 ]
