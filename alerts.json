@@ -140,12 +140,12 @@
     "Headline": "Blue Line Service Delayed near Chicago",
     "ShortDescription": "Blue Line trains are standing near Chicago due to an unauthorized person on the tracks. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are standing near Chicago due to an unauthorized person on the tracks.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are standing near Chicago due to an unauthorized person on the tracks.</p>\r\n\r\n<p><strong>Shuttle buses have been requested between Addison and UIC-Halsted to provide connecting service.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p><span style=\"font-weight: bolder;\">#8 Halsted</span></p>\r\n\r\n<p><span style=\"font-weight: bolder;\">#9 Ashland</span></p>\r\n\r\n<p><span style=\"font-weight: bolder;\">#56 Milwaukee</span></p>\r\n\r\n<p><span style=\"font-weight: bolder;\">#65 Grand</span></p>\r\n\r\n<p><span style=\"font-weight: bolder;\">#66 Chicago</span></p>\r\n\r\n<p><span style=\"font-weight: bolder;\">#70 Division</span></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2025-02-15T19:24:00",
     "EventEnd": null,
     "TBD": "1",
@@ -167,6 +167,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "a1c44bc8-a2cc-4988-a46c-cb894404e0d7"
+    "GUID": "104546cb-6272-4043-92b2-6eed44dd2ec6"
+  },
+  {
+    "AlertId": "105382",
+    "Headline": "O'Hare-bound Blue Line Service Delayed near California",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing near California due to a loss of power on the tracks. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing near California due to a loss of power on the tracks.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-02-15T20:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105382"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4197b17f-8080-4e62-b076-14c16235e87b"
   }
 ]
