@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "3ed2ad23-f218-4ddc-a86a-951fc6ccca93"
+  },
+  {
+    "AlertId": "105390",
+    "Headline": "Purple and Yellow Line Service Running with Delays",
+    "ShortDescription": "Board/Exit Linden-bound Purple Line and Yellow Line trains on the 95th-bound platform at Howard.",
+    "FullDescription": {
+      "#cdata-section": "<p>Board/Exit Linden-bound Purple Line&nbsp;and&nbsp;Yellow Line trains on the 95th-bound platform at Howard.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-02-16T13:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105390"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Yellow Line",
+          "ServiceId": "Y",
+          "ServiceBackColor": "f9e300",
+          "ServiceTextColor": "000000",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/yellowline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1f9bf0d9-9f36-4bb9-932c-eb41f3900b7d"
   }
 ]
