@@ -90,12 +90,34 @@
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
           "ServiceName": "Purple Line",
           "ServiceId": "P",
           "ServiceBackColor": "522398",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
           }
         },
         {
@@ -141,10 +163,21 @@
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/orangeline/"
           }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "044fcb25-9055-406f-9288-2392f4b513ff"
+    "GUID": "96a163bb-1c7f-48e4-b9bd-b9759f0d3d2d"
   }
 ]
