@@ -113,5 +113,52 @@
     },
     "ttim": "0",
     "GUID": "556131c8-8571-4d8b-84d9-319513d06cbc"
+  },
+  {
+    "AlertId": "105448",
+    "Headline": "#120 Ogilvie/Streeterville Express & #121 Union/Streeterville Express Temporary Southbound Reroute near Grand/St. Clair",
+    "ShortDescription": "SB 120 Ogilvie/Streeterville Exp & 121 Union/Streeterville Exp buses temp rrtd via Fairbanks, Ontario, Michigan & Grand due to police activity at Grand/St Clair",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound&nbsp;#120 Ogilvie/Streeterville Express and&nbsp;#121 Union/Streeterville Express buses are temporarily rerouted via Fairbanks, Ontario, Michigan and&nbsp;Grand, due to police department activity near Grand/St. Clair.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-02-18T17:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105448"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ogilvie/Streeterville Express",
+          "ServiceId": "120",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/120/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Union/Streeterville Express",
+          "ServiceId": "121",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/121/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "54bc6894-9f3f-4fa2-b77d-a365f60543cd"
   }
 ]
