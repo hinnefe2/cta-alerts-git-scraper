@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "87a80007-0422-4987-b4fd-eae27ad1fb4e"
+  },
+  {
+    "AlertId": "105447",
+    "Headline": "#29 State & #65 Grand Temporary Westbound Reroute near Grand/St. Clair",
+    "ShortDescription": "WB 29 State & 65 Grand buses are temporarily rerouted via Grand, Fairbanks, Ontario, State & Grand, due to police department activity near Grand/St. Clair.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound&nbsp;#29 State and&nbsp;#65 Grand buses are temporarily rerouted via Grand, Fairbanks, Ontario, State, then resume their normal route on&nbsp;Grand, due to police department activity near Grand/St. Clair.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-02-18T17:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105447"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "State",
+          "ServiceId": "29",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/29/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Grand",
+          "ServiceId": "65",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/65/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "556131c8-8571-4d8b-84d9-319513d06cbc"
   }
 ]
