@@ -34,37 +34,37 @@
     "GUID": "edf0c797-561e-451a-96a4-66884eccf413"
   },
   {
-    "AlertId": "105461",
-    "Headline": "Red Line Trains bypassing 35th ",
-    "ShortDescription": "Red Line trains are running, but not stopping at 35th station due to police activity.",
+    "AlertId": "105462",
+    "Headline": "Kimball-bound Brown Line Delays",
+    "ShortDescription": "Kimball-bound Brown Line trains are running with delays near Chicago due to earlier fire department activity. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running, but not stopping at 35th&nbsp;station due to police activity.</p>\r\n\r\n<p>We apologize for this inconvenience and appreciate your understanding.</p>\r\n"
+      "#cdata-section": "<p>Kimball-bound Brown Line trains are running with delays near Chicago due to earlier fire department activity.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "58",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2025-02-19T06:32:00",
-    "EventEnd": "2025-02-19T08:32:00",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-02-19T06:51:00",
+    "EventEnd": "2025-02-19T06:56:00",
     "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105461"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105462"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "R",
         "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "708d51a3-3efe-41e5-b995-7efc18a6d4ee"
+    "GUID": "361860e2-aa70-49d6-a572-83276a91b5c1"
   }
 ]
