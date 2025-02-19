@@ -160,5 +160,120 @@
     },
     "ttim": "0",
     "GUID": "54bc6894-9f3f-4fa2-b77d-a365f60543cd"
+  },
+  {
+    "AlertId": "105450",
+    "Headline": "Red Line Service Delayed near Belmont",
+    "ShortDescription": "Red Line trains are standing near Belmont due to a track switching problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are standing near Belmont due to a track switching problem.</p>\r\n\r\n<p><strong>Shuttle buses are available between Belmont and Wilson to provide connecting service.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-02-18T18:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105450"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "393dbda1-74d9-481d-a43c-f6b07e8df8f1"
+  },
+  {
+    "AlertId": "105451",
+    "Headline": "Brown Line Service Delayed near Belmont",
+    "ShortDescription": "Brown Line trains are standing near Belmont due to a track switching problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line trains are standing near Belmont due to a track switching problem.</p>\r\n\r\n<p><strong>Shuttle buses are available between Southport and Belmont to provide connecting service.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-02-18T19:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105451"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "43cf86aa-c3df-41b9-a013-7d14485832d8"
+  },
+  {
+    "AlertId": "105452",
+    "Headline": "Purple Line Service Delayed near Belmont",
+    "ShortDescription": "Purple Line trains are standing near Belmont due to a track switching problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Purple Line trains are standing near Belmont due to a track switching problem.</p>\r\n\r\n<p><strong>Shuttle buses are available between Belmont and Wilson to provide connecting service.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-02-18T19:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105452"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c0e084c1-1adf-4c2f-b8f7-808ecea1cc43"
   }
 ]
