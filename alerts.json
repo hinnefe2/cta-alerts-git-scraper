@@ -68,110 +68,16 @@
     "GUID": "87a80007-0422-4987-b4fd-eae27ad1fb4e"
   },
   {
-    "AlertId": "105447",
-    "Headline": "#29 State & #65 Grand Temporary Westbound Reroute near Grand/St. Clair",
-    "ShortDescription": "WB 29 State & 65 Grand buses are temporarily rerouted via Grand, Fairbanks, Ontario, State & Grand, due to police department activity near Grand/St. Clair.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound&nbsp;#29 State and&nbsp;#65 Grand buses are temporarily rerouted via Grand, Fairbanks, Ontario, State, then resume their normal route on&nbsp;Grand, due to police department activity near Grand/St. Clair.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-02-18T17:10:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105447"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "State",
-          "ServiceId": "29",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/29/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Grand",
-          "ServiceId": "65",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/65/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "556131c8-8571-4d8b-84d9-319513d06cbc"
-  },
-  {
-    "AlertId": "105448",
-    "Headline": "#120 Ogilvie/Streeterville Express & #121 Union/Streeterville Express Temporary Southbound Reroute near Grand/St. Clair",
-    "ShortDescription": "SB 120 Ogilvie/Streeterville Exp & 121 Union/Streeterville Exp buses temp rrtd via Fairbanks, Ontario, Michigan & Grand due to police activity at Grand/St Clair",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound&nbsp;#120 Ogilvie/Streeterville Express and&nbsp;#121 Union/Streeterville Express buses are temporarily rerouted via Fairbanks, Ontario, Michigan and&nbsp;Grand, due to police department activity near Grand/St. Clair.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-02-18T17:16:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105448"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ogilvie/Streeterville Express",
-          "ServiceId": "120",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/120/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Union/Streeterville Express",
-          "ServiceId": "121",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/121/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "54bc6894-9f3f-4fa2-b77d-a365f60543cd"
-  },
-  {
     "AlertId": "105450",
     "Headline": "Red Line Delays",
     "ShortDescription": "Red Line trains are running w/residual delays and congestion following earlier track switching problems near Belmont. Service is resuming, allow extra time.",
     "FullDescription": {
       "#cdata-section": "<p>Red Line trains are running with residual delays and congestion following earlier track switching problems near Belmont.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2025-02-18T18:58:00",
     "EventEnd": null,
     "TBD": "1",
@@ -193,41 +99,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "bd67cd61-e1ee-439c-a276-506b49747984"
-  },
-  {
-    "AlertId": "105451",
-    "Headline": "Brown Line Delays",
-    "ShortDescription": "Brown Line trains are running w/residual delays and congestion following earlier track switching problems near Belmont. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are running with residual delays and congestion following earlier track switching problems near Belmont.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-02-18T19:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105451"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "cfdae854-e6f8-4be6-ac8c-0f8ba6752e45"
+    "GUID": "7d7ca1e1-f446-4c9e-8ab8-8ca007c3c1af"
   },
   {
     "AlertId": "105452",
@@ -236,10 +108,10 @@
     "FullDescription": {
       "#cdata-section": "<p>Purple Line trains are running with residual delays and congestion following earlier track switching problems near Belmont.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2025-02-18T19:16:00",
     "EventEnd": null,
     "TBD": "1",
@@ -274,6 +146,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "af7a20b2-a39d-4fc5-8a03-22b15f0df3e0"
+    "GUID": "34bddda1-cf21-4456-a652-7bb6251c8358"
   }
 ]
