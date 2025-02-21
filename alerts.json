@@ -45,5 +45,52 @@
     },
     "ttim": "0",
     "GUID": "e58cfaf1-69b8-46ee-a24d-93a90702c99d"
+  },
+  {
+    "AlertId": "105520",
+    "Headline": "#9 Ashland Temporary Reroute at Ashland/71st",
+    "ShortDescription": "9 Ashland buses are temporarily rerouted via Ashland, 69th, Damen, 74th and Ashland: due to, street blockage near Ashland/71st.",
+    "FullDescription": {
+      "#cdata-section": "<p>How does this affect my trip?</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#9 Ashland buses are temporarily rerouted via Ashland, 69th, Damen, 74th,&nbsp;Ashland and over regular route: due to, street blockage near Ashland/71st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-02-21T07:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105520"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "85e83983-a73b-4e50-bc22-9129e37fce9d"
   }
 ]
