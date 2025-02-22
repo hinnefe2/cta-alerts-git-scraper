@@ -1,52 +1,5 @@
 [
   {
-    "AlertId": "105512",
-    "Headline": "#34 South Michigan & #119 Michigan/119th Temporary Reroute at Michigan/112th",
-    "ShortDescription": "34 South Michigan & #19 Michigan/119th buses temp. rerouted via Michigan, 111th, State, 115th & Michigan, due to fire department activity near Michigan/112th.",
-    "FullDescription": {
-      "#cdata-section": "<p>#34 South Michigan and&nbsp;#119 Michigan/119th buses are temporarily rerouted in both directions via Michigan, 111th, State, 115th, then resume their normal routes on&nbsp;Michigan, due to fire department activity near Michigan/112th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-02-20T19:02:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105512"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "South Michigan",
-          "ServiceId": "34",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/34/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Michigan/119th",
-          "ServiceId": "119",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/119/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "e58cfaf1-69b8-46ee-a24d-93a90702c99d"
-  },
-  {
     "AlertId": "105520",
     "Headline": "#9 Ashland Temporary Reroute at Ashland/71st",
     "ShortDescription": "9 Ashland buses are temporarily rerouted via Ashland, 69th, Damen, 74th and Ashland: due to, street blockage near Ashland/71st.",
@@ -92,5 +45,120 @@
     },
     "ttim": "0",
     "GUID": "85e83983-a73b-4e50-bc22-9129e37fce9d"
+  },
+  {
+    "AlertId": "105528",
+    "Headline": "Brown Line Service Delayed at Belmont",
+    "ShortDescription": "Brown Line trains are standing at Belmont due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line trains are standing at Belmont due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-02-21T19:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105528"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c97e881a-4c1b-429e-9913-5d6dff042f30"
+  },
+  {
+    "AlertId": "105529",
+    "Headline": "Red Line Trains bypassing Belmont Station",
+    "ShortDescription": "Red Line trains are running, but not stopping at Belmont due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running, but not stopping at Belmont due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2025-02-21T19:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105529"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f443e722-8a6f-45a1-88da-4d1566d9032c"
+  },
+  {
+    "AlertId": "105530",
+    "Headline": "Purple Line Trains bypassing Belmont Station",
+    "ShortDescription": "Purple Line trains are running, but not stopping at Belmont due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Purple Line trains are running, but not stopping at Belmont due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2025-02-21T19:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105530"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1d5ba33c-330a-4864-aa74-05a659fb4653"
   }
 ]
