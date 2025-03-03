@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "4c7fd26b-0932-43ec-9d2d-160fd2e4b2e1"
+  },
+  {
+    "AlertId": "105724",
+    "Headline": "54th/Cermak-bound Pink Line Service Delayed near Polk",
+    "ShortDescription": "54th/Cermak-bound Pink Line trains are standing near Polk. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>54th/Cermak-bound Pink&nbsp;Line trains are&nbsp;standing near Polk&nbsp;due to a signal problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-03-03T00:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105724"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Polk",
+          "ServiceId": "41030",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=111"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "73aab269-9515-4eb8-95f7-b99728df7c39"
   }
 ]
