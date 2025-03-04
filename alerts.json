@@ -72,12 +72,12 @@
     "Headline": "Delays on Loop 'L' (elevated lines)",
     "ShortDescription": "Green, Orange, Purple and Pink Line trains are experiencing delays due to a sick customer near Adams/Wabash.",
     "FullDescription": {
-      "#cdata-section": "<p>Green, Orange Purple and Pink Line trains are experiencing delays due to a sick customer near Adams/Wabash.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green, Orange Purple and Pink Line trains are experiencing delays due to a sick customer near Adams/Wabash.</p>\n\n<p>Orange, Pink and Purple Line trains will be rerouted to the Outer Loop (trains will board and exit on the Brown Line platforms at Washington/Wells, Quincy/Wells, LaSalle/Van Buren, State/Van Buren, Adams/Wabash, Washington/Wabash, State/Lake and Clark/Lake).</p>\n\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\n\n<p>Personnel are working to restore service. Allow extra travel time.</p>\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2025-03-04T17:28:00",
     "EventEnd": null,
     "TBD": "1",
@@ -87,6 +87,17 @@
     },
     "ImpactedService": {
       "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
@@ -119,10 +130,21 @@
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/orangeline/"
           }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "66b10166-4c29-4c2a-bd20-7eaa427ce0ba"
+    "GUID": "fc918b60-bc92-44db-b2a3-7bd8e02d8ab0"
   }
 ]
