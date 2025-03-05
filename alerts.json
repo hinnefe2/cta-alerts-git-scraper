@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "b191c393-920d-401d-8a2a-6df47a030256"
+  },
+  {
+    "AlertId": "105750",
+    "Headline": "Forest Park- bound Blue Line Delays",
+    "ShortDescription": "Forest Park- bound Blue Line trains are running w/residual delays following an earlier mechanical problem at Division. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park- bound Blue Line trains are running w/residual delays following an earlier mechanical problem at Division.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-03-05T08:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105750"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Division",
+          "ServiceId": "40320",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=54"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "861b027f-1a9e-4549-8348-7c257b60f766"
   }
 ]
