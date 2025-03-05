@@ -69,15 +69,15 @@
   },
   {
     "AlertId": "105752",
-    "Headline": "Red Line Service Delayed at Sheridan",
-    "ShortDescription": "Red Line trains are standing at Sheridan due to unauthorized person on the tracks. Crews working to restore service.",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Sheridan. Service is resuming, allow extra time",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing at Sheridan due to unauthorized person on the tracks.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Sheridan.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2025-03-05T09:56:00",
     "EventEnd": null,
     "TBD": "1",
@@ -108,10 +108,32 @@
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/redline/"
           }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "2d1f3502-6ced-421e-a660-619a68d5c259"
+    "GUID": "4eaa8811-e78d-44ee-b88c-9b48615d1c18"
   }
 ]
