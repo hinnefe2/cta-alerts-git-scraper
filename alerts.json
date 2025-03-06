@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "4b065110-6bf1-4469-856f-fddeccd746fd"
+  },
+  {
+    "AlertId": "105784",
+    "Headline": "#49 Western and #X49 Western Express Temporary Reroute at Western/Pershing",
+    "ShortDescription": "49 Western and X49 Western Express are temporarily rerouted via Western, 40th, Western Blvd, Archer and Western, due to street blockage near Western/Pershing.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#49 Western and #X49 Western Express buses are temporarily rerouted in both directions via Western, 40th, Western Boulevard, Archer, then resume their normal route on Western, due to street blockage near Western/Pershing.</p>\r\n\r\n<p>Allow extra travel time.&nbsp;</p>\r\n\r\n<p><strong>(Revised)</strong></p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-03-06T08:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105784"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western",
+          "ServiceId": "49",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western Express",
+          "ServiceId": "X49",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "04bbefc1-9a1e-449c-8130-21eb14745b70"
   }
 ]
