@@ -70,9 +70,9 @@
   {
     "AlertId": "105840",
     "Headline": "#85 Central Temporary Reroute near Central/North",
-    "ShortDescription": "85 Central buses temp. rerouted SB: Central, North, Austin, Division and Central; EB: North Ave, Austin, Division, Laramie and North Ave near Central/North.",
+    "ShortDescription": "85 Central buses temp. rerouted SB: Central, North, Austin, Division and Central due to street blockage near Central/North.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#85 Central&nbsp;&nbsp;buses are temporarily rerouted in both directions near Central/North, due to street blockage near Central/North.</p>\r\n\r\n<p>Southbound #85 Central&nbsp;buses will operate via Central, North, Austin, Division, Central and over regular route.</p>\r\n\r\n<p>Eastbound #72&nbsp;North buses will operate via North Avenue, Austin, Division, Laramie, North Avenue and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#85 Central&nbsp;&nbsp;buses are temporarily rerouted in both directions near Central/North, due to street blockage near Central/North.</p>\r\n\r\n<p>Southbound #85 Central&nbsp;buses will operate via Central, North, Austin, Division, Central and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -86,32 +86,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105840"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "North",
-          "ServiceId": "72",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/72/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Central",
-          "ServiceId": "85",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/85/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Central",
+        "ServiceId": "85",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/85/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "4aff2407-752f-436e-b49a-e136d63d8cc7"
+    "GUID": "63439369-da52-4801-bd1b-d781612e077e"
   }
 ]
