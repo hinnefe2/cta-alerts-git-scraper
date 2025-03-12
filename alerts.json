@@ -47,64 +47,6 @@
     "GUID": "f9826911-3694-444d-a63b-1a90ccce2f95"
   },
   {
-    "AlertId": "105909",
-    "Headline": "95th-bound Red, Purple Line Express and Brown Line Delays",
-    "ShortDescription": "95th-bound Red, Purple Line Express and Brown Line trains are running w/residual delays and congestion due to heavy train traffic. ",
-    "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red, Purple Line Express and Brown Line trains are running w/residual delays and congestion due to heavy train traffic.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-03-12T08:09:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105909"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "e34fd08c-9df9-4965-9b28-e6d0431c7026"
-  },
-  {
     "AlertId": "105910",
     "Headline": "#54B South Cicero Temporary Northbound Reroute near #54B South Cicero ",
     "ShortDescription": "Northbound #54B South Cicero  buses are temporarily rerouted via Cicero, Pershing, Laramie, 31st, then will resume their normal route on Cicero.",
@@ -137,39 +79,5 @@
     },
     "ttim": "0",
     "GUID": "8de2cfef-f22b-4c0a-8e9a-e2ff7c223c0c"
-  },
-  {
-    "AlertId": "105911",
-    "Headline": "Loop-bound Purple Line Delays",
-    "ShortDescription": "Loop-bound Purple Line trains are running w/residual delays following an earlier mechanical problem at Howard. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Purple Line trains are running w/residual delays following an earlier mechanical problem at Howard.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-03-12T09:01:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105911"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Purple Line Express",
-        "ServiceId": "Pexp",
-        "ServiceBackColor": "522398",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/purpleline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e2bd4bb1-13d8-439c-add4-c5e502dfcc50"
   }
 ]
