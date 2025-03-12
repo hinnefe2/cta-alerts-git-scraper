@@ -48,10 +48,10 @@
   },
   {
     "AlertId": "105910",
-    "Headline": "#54B South Cicero Temporary Northbound Reroute near #54B South Cicero ",
-    "ShortDescription": "Northbound #54B South Cicero  buses are temporarily rerouted via Cicero, Pershing, Laramie, 31st, then will resume their normal route on Cicero.",
+    "Headline": "#54B South Cicero Temporary Reroute at Cicero/33rd",
+    "ShortDescription": "54B South Cicero buses are temporarily rerouted via Cicero, I-55(Eastbound), Pulaski, 31st and Cicero due to, street blockage near Cicero/33rd.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #54B South Cicero&nbsp; buses are temporarily rerouted via Cicero, Pershing, Laramie, 31st, then will resume their normal route on Cicero, due to a street blockage near Cicero/33rd.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#54B South Cicero buses are temporarily rerouted via Cicero, I-55(Eastbound), Pulaski, 31st and Cicero due to, street blockage near Cicero/33rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -78,7 +78,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "8de2cfef-f22b-4c0a-8e9a-e2ff7c223c0c"
+    "GUID": "f171e6fe-a3d5-411f-b6d8-2b92fcb1f767"
   },
   {
     "AlertId": "105912",
@@ -113,5 +113,39 @@
     },
     "ttim": "0",
     "GUID": "53b28881-cbbb-42d0-8743-79db0ffba070"
+  },
+  {
+    "AlertId": "105913",
+    "Headline": "#103 West 103rd Temporary Eastbound Reroute near 103rd/Carpenter",
+    "ShortDescription": "Eastbound 103 West 103rd | buses are temporarily rerouted via 103rd, Vincennes, 107th, Halsted and 103rd: due to, street blockage near 103rd/Carpenter.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #103 West 103rd | buses are temporarily rerouted via 103rd, Vincennes, 107th, Halsted and 103rd: due to, street blockage near 103rd/Carpenter.</p>\r\n\r\n<p>Westbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-03-12T09:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105913"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "West 103rd",
+        "ServiceId": "103",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/103/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8ce08442-5c79-43ba-b338-e9825c3d90eb"
   }
 ]
