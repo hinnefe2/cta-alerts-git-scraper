@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "105981",
-    "Headline": "# 88 Higgins Temporary Reroute at Higgins/Neenah",
-    "ShortDescription": "# 88 Higgins buses are temporarily rerouted in both directions via Higgins, Foster, Oakpark and Higgins due to street blockage near Higgins/Neenah.",
-    "FullDescription": {
-      "#cdata-section": "<p># 88 Higgins&nbsp; buses are temporarily rerouted in both directions via Higgins, Foster, Oakpark and Higgins due to street blockage near Higgins/Neenah.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-03-14T17:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105981"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Higgins",
-        "ServiceId": "88",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/88/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "5673644b-34fd-4d21-85a5-070c54c21454"
-  },
-  {
     "AlertId": "105957",
     "Headline": "#115 Pullman/115th Temporary Reroute at 115th/Normal",
     "ShortDescription": "115 Pullman/115th buses are temporarily rerouted via 115th, Halsted, 119th, Wentworth and 115th: due to street blockage near 115th/Normal.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "00a75b78-593c-414b-a93c-1602b8f181f6"
+  },
+  {
+    "AlertId": "105981",
+    "Headline": "# 88 Higgins Temporary Reroute at Higgins/Neenah",
+    "ShortDescription": "# 88 Higgins buses are temporarily rerouted in both directions via Higgins, Foster, Oakpark and Higgins due to street blockage near Higgins/Neenah.",
+    "FullDescription": {
+      "#cdata-section": "<p># 88 Higgins&nbsp; buses are temporarily rerouted in both directions via Higgins, Foster, Oakpark and Higgins due to street blockage near Higgins/Neenah.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-03-14T17:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105981"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Higgins",
+        "ServiceId": "88",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/88/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5673644b-34fd-4d21-85a5-070c54c21454"
   }
 ]
