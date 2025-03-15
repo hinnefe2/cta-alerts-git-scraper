@@ -102,50 +102,37 @@
     "GUID": "49a6eee6-147e-4e93-87fb-7bdbd8a6e341"
   },
   {
-    "AlertId": "105991",
-    "Headline": "Red and Brown Line Delays",
-    "ShortDescription": "Red and Brown Line trains are running w/residual delays following an earlier unauthorized person on the tracks near Armitage.",
+    "AlertId": "105992",
+    "Headline": " Kimball-bound Brown Line Service Delayed at Armitage",
+    "ShortDescription": " Kimball-bound Brown Line trains are standing at Armitage due to a door problem.\r\nPersonnel are working to restore service. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Red and Brown Line trains are running w/residual delays following an earlier unauthorized person on the tracks near Armitage.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+      "#cdata-section": "<p>&nbsp;Kimball-bound Brown Line trains are standing at Armitage due to a door problem.<br />\r\nPersonnel are working to restore service. Allow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2025-03-15T14:19:00",
+    "EventStart": "2025-03-15T14:30:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105991"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=105992"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "17e7807e-3db6-4963-a163-b703105e25f2"
+    "GUID": "3a8fb281-9f54-4448-ab43-7d6a5eb3b3a1"
   }
 ]
