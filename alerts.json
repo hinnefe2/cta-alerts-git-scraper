@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "c265f1e4-1dc9-45db-8a6d-b5dd24ec5bee"
+  },
+  {
+    "AlertId": "106028",
+    "Headline": "Harlem- bound Green Line Service Delayed at Laramie",
+    "ShortDescription": "Harlem- bound Green Line trains are standing at Laramie due to a mechanical problem. Crews working to restore service",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem- bound Green Line trains are standing at Laramie due to a mechanical problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-03-18T10:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106028"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Laramie",
+          "ServiceId": "40700",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=88"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b0e3896e-76ab-4df7-a780-41c70696caf9"
   }
 ]
