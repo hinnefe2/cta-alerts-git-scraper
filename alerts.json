@@ -65,7 +65,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "2639a977-7ce4-42ef-a20e-8c328c954189"
+    "GUID": "4218fec5-e81f-46a8-9ebe-c7f25eaa99d7"
   },
   {
     "AlertId": "106047",
@@ -100,5 +100,73 @@
     },
     "ttim": "0",
     "GUID": "0cdbd7a9-fde2-4d5b-8c2c-ee6e69c51412"
+  },
+  {
+    "AlertId": "106048",
+    "Headline": " #71 71st/South Shore Temporary Southbound Reroute near 69th Red Line",
+    "ShortDescription": "SB 71 71st/South Shore are rrtd via 71st, State, 69th (wait recovery time), Lafayette, then resume their normal route, due to police activity at 69th Red Line.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong> #71 71st/South Shore&nbsp;buses are temporarily rerouted via 71st, State, 69th (wait recovery time), Lafayette, then resume their normal route, due to police activity at 69th Red Line.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-03-18T23:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106048"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "1aa99233-ef2a-4f69-83c8-49bccbfcf747"
+  },
+  {
+    "AlertId": "106049",
+    "Headline": "#60 Blue Island/26th Temporary Eastbound Reroute near Cicero/Ogden",
+    "ShortDescription": "Eastbound 60 Blue Island/26th buses are rerouted via Cicero, Cermak, Kostner, 26th, then resume their normal route due to street blockage at Cicero/Ogden.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Eastbound</strong> #60 Blue Island/26th&nbsp; buses are temporarily rerouted via Cicero, Cermak, Kostner, 26th, then resume their normal route due to street blockage at Cicero/Ogden.</p>\r\n\r\n<p><strong>Westbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-03-18T23:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106049"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Blue Island/26th",
+        "ServiceId": "60",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/60/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d477d8a7-b954-4dbc-9bd8-0e33a9f32f19"
   }
 ]
