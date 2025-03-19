@@ -32,5 +32,73 @@
     },
     "ttim": "0",
     "GUID": "f299be30-8e30-4607-8ba6-7638aec8249c"
+  },
+  {
+    "AlertId": "106046",
+    "Headline": "#29 State Temporary Southbound Reroute near 69th Red Line",
+    "ShortDescription": "Southbound 29 State buses are temporarily rerouted via State, 69th, Lafayette, then resume their normal route due to police activity at 69th Red Line.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong> #29 State buses are temporarily rerouted via State, 69th, Lafayette, then resume their normal route due to police activity at 69th Red Line.</p>\r\n\r\n<p><strong>Northbound </strong>buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-03-18T23:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106046"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2639a977-7ce4-42ef-a20e-8c328c954189"
+  },
+  {
+    "AlertId": "106047",
+    "Headline": "#30 South Chicago Temporary Northbound Reroute near 69th Red Line",
+    "ShortDescription": "Northbound 30 South Chicago buses are rerouted via 69th, Lafayette (wait recovery time), then resume their normal route, due to police activity at 69th Red Line",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Northbound</strong> #30 South Chicago buses are temporarily rerouted via 69th, Lafayette (wait recovery time), then resume their normal route, due to police activity at 69th Red Line.</p>\r\n\r\n<p><strong>Southbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-03-18T23:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106047"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Chicago",
+        "ServiceId": "30",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/30/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0cdbd7a9-fde2-4d5b-8c2c-ee6e69c51412"
   }
 ]
