@@ -79,5 +79,52 @@
     },
     "ttim": "0",
     "GUID": "5bfafa85-7df7-4f7c-a6a8-8f9c4a23b86e"
+  },
+  {
+    "AlertId": "106076",
+    "Headline": "Brown and Purple Line Service Delayed at/near Merchandise Mart",
+    "ShortDescription": "Brown and Purple Line trains are standing  near Merchandise Mart due to a delay.\r\n\r\nCrews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown and Purple Line trains are standing&nbsp; near Merchandise Mart due to a delay.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-03-19T16:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106076"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "2e0cba09-47a2-41ba-aa92-a8e44d103461"
   }
 ]
