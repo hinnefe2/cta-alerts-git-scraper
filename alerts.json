@@ -92,5 +92,39 @@
     },
     "ttim": "0",
     "GUID": "cacfeb60-6f2c-47fa-867d-f3db33effe92"
+  },
+  {
+    "AlertId": "106080",
+    "Headline": "Purple Line express Service Running with Delays",
+    "ShortDescription": "Purple Exp Line trains are being rrtd into the State Street (Red Line) Subway after Fullerton, making all stops, in both directions from North/Cly to Roosevelt.",
+    "FullDescription": {
+      "#cdata-section": "<p>Purple Express Line trains are being rerouted into the State Street (Red Line) Subway after Fullerton, making all stops, in both directions from North/Clybourn to Roosevelt.</p>\r\n\r\n<p>Purple Line Express service to downtown<br />\r\nLoop-bound Purple Express Line trains will make all regular stops through Fullerton, and then be rerouted into the State Street (Red Line) Subway through Roosevelt.</p>\r\n\r\n<p>Purple Express Line service from downtown<br />\r\nPurple Express Line trains will make Red Line stops from Roosevelt through Fullerton. Trains will not serve Loop stations nor those from Merchandise Mart through Armitage.</p>\r\n\r\n<p>Board on the Howard-bound side at Red Line subway stations or use Red Line service as an alternative.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-03-19T16:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106080"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line Express",
+        "ServiceId": "Pexp",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "edfc3c34-93ff-44f3-8824-b98127cfeb7a"
   }
 ]
