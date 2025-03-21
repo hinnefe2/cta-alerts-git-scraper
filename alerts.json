@@ -35,15 +35,15 @@
   },
   {
     "AlertId": "106132",
-    "Headline": "95th- bound Red Line Service Delayed at Bryn Mawr",
-    "ShortDescription": "95th- bound Red Line trains are standing at Bryn Mawr due to a door problem. Crews working to restore service.",
+    "Headline": "95th- bound Red Line Delays",
+    "ShortDescription": "95th- bound Red Line trains are running w/residual delays following an earlier door problem at Bryn Mawr. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>95th- bound Red Line trains are standing at Bryn Mawr due to a door problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th- bound Red Line trains are running w/residual delays following an earlier door problem at Bryn Mawr.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2025-03-21T06:08:00",
     "EventEnd": null,
     "TBD": "1",
@@ -78,6 +78,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "914adf2f-ee25-4d38-8735-972eaa5fd656"
+    "GUID": "8b779cc8-7fdd-49d2-859b-390ed5dc4254"
+  },
+  {
+    "AlertId": "106133",
+    "Headline": "Forest Park- bound Blue Line Service Delayed at Kedzie",
+    "ShortDescription": "Forest Park- bound Blue Line trains are standing at Kedzie due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park- bound Blue Line trains are standing at Kedzie due to police activity.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-03-21T06:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106133"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a65b077f-3dc6-489a-83a1-16e128c7ef8d"
   }
 ]
