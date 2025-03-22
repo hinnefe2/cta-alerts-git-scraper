@@ -169,5 +169,86 @@
     },
     "ttim": "0",
     "GUID": "312fee5a-b205-44e1-a989-cccb7db1a8aa"
+  },
+  {
+    "AlertId": "106150",
+    "Headline": "#146 Inner Lake Shore/Michigan Express, #147 Outer DuSable Lake Shore Express Temporary Reroute near Lake Shore/Elm.",
+    "ShortDescription": "#146 and #147 buses  temp. rerouted SB Outer LSD, North Avenue, LaSalle Dr, Clark, Chicago, NB Michigan, Chicago, LaSalle, Lasalle Dr, Outter LSD",
+    "FullDescription": {
+      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express, #147 Outer DuSable Lake Shore Express,&nbsp; are temporarily rerouted in both directions due to police activity near Lake Shore/Elm.</p>\r\n\r\n<p>Southbound buses will operate via Outer LSD, North Avenue, LaSalle Dr, Clark, Chicago and resume their normal route on Michigan.</p>\r\n\r\n<p>Northbound buses will operate via Michigan, Chicago, LaSalle, Lasalle Dr, Outter LSD and resume their normal route on Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-03-22T10:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106150"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "dda7052a-863e-4934-b5f1-43c0e2196cf7"
+  },
+  {
+    "AlertId": "106151",
+    "Headline": "#126 Jackson Temporary Eastbound Reroute near Congress Plaza",
+    "ShortDescription": "Eastbound 126 Jackson buses are temporarily rerouted via \r\nMichigan, Harrison and State: due to, street blockage near Congress Plaza.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #126 Jackson buses are temporarily rerouted via&nbsp;<br />\r\nMichigan, Harrison and State: due to, street blockage near Congress Plaza.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-03-22T10:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106151"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson",
+        "ServiceId": "126",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/126/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "fd381281-5b92-4dd0-9ba9-d97f43f337e7"
   }
 ]
