@@ -1,52 +1,5 @@
 [
   {
-    "AlertId": "106174",
-    "Headline": "#147 Outer DuSable Lake Shore Temporary Reroute near Congress Plaza",
-    "ShortDescription": "147 Outer DuSable Lake Shore buses rerouted SB: Michigan, Harrison, Wabash and State; EB 126 Jackson: Michigan, Harrison, Wabash and Balbo near Congress Plaza",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#147 Outer DuSable Lake Shore buses are temporarily rerouted in both directions near Congress Plaza due to festival near Congress Plaza.</p>\r\n\r\n<p>Southbound #147 Outer DuSable Lake Shore buses will operate via Michigan, Harrison, Wabash Layover After, Harrison, State and over regular route.</p>\r\n\r\n<p>Eastbound #126 Jackson buses will operate via Michigan, Harrison, Wabash Layover After,&nbsp;Balbo, Michigan and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-03-23T12:49:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106174"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jackson",
-          "ServiceId": "126",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/126/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Outer DuSable Lake Shore Express",
-          "ServiceId": "147",
-          "ServiceBackColor": "b71234",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/147/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "66568372-add2-4fa7-8e2d-9e3caa7b4ecf"
-  },
-  {
     "AlertId": "106117",
     "Headline": "Bus Substitution Between Illinois Medical District and UIC-Halsted",
     "ShortDescription": "Shuttle buses replace Blue Line service between Illinois Medical District and UIC-Halsted.",
@@ -114,5 +67,52 @@
     },
     "ttim": "1",
     "GUID": "557e46b2-6eb3-4850-9a42-4964cc2fdc48"
+  },
+  {
+    "AlertId": "106174",
+    "Headline": "#147 Outer DuSable Lake Shore Temporary Reroute near Congress Plaza",
+    "ShortDescription": "147 Outer DuSable Lake Shore buses rerouted SB: Michigan, Harrison, Wabash and State; EB 126 Jackson: Michigan, Harrison, Wabash and Balbo near Congress Plaza",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#147 Outer DuSable Lake Shore buses are temporarily rerouted in both directions near Congress Plaza due to festival near Congress Plaza.</p>\r\n\r\n<p>Southbound #147 Outer DuSable Lake Shore buses will operate via Michigan, Harrison, Wabash Layover After, Harrison, State and over regular route.</p>\r\n\r\n<p>Eastbound #126 Jackson buses will operate via Michigan, Harrison, Wabash Layover After,&nbsp;Balbo, Michigan and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-03-23T12:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106174"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson",
+          "ServiceId": "126",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/126/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "66568372-add2-4fa7-8e2d-9e3caa7b4ecf"
   }
 ]
