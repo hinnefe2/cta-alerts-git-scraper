@@ -182,5 +182,39 @@
     },
     "ttim": "0",
     "GUID": "9a2f0df0-b32f-4496-bf3f-f3f3c50107a7"
+  },
+  {
+    "AlertId": "106190",
+    "Headline": "Purple Line Service Running with Delays",
+    "ShortDescription": "Purple Line trains are being rrtd into the State Street (Red Line) Subway after Fullerton, making all stops, in both directions from North/Clybourn to Roosevelt",
+    "FullDescription": {
+      "#cdata-section": "<p>Purple Express Line trains are being rerouted into the State Street (Red Line) Subway after Fullerton, making all stops, in both directions from North/Clybourn to Roosevelt.</p>\r\n\r\n<p>Trains are being rerouted a mechanical problem near Library.</p>\r\n\r\n<p>Purple Line Express service to downtown<br />\r\nLoop-bound Purple Express Line trains will make all regular stops through Fullerton, and then be rerouted into the State Street (Red Line) Subway through Roosevelt.</p>\r\n\r\n<p>Purple Express Line service from downtown<br />\r\nPurple Express Line trains will make Red Line stops from Roosevelt through Fullerton. Trains will not serve Loop stations nor those from Merchandise Mart through Armitage.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-03-24T07:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106190"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line Express",
+        "ServiceId": "Pexp",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "42fd9aee-93ee-44c4-b94f-831548d9b7f3"
   }
 ]
