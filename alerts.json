@@ -70,10 +70,10 @@
   },
   {
     "AlertId": "106186",
-    "Headline": "#53A South Pulaski Temporary Reroute at Pulaski/75th",
-    "ShortDescription": "53A South Pulaski buses are temporarily rerouted in both directions via Pulaski, 71st, Kedzie, 79th and Pulaski, due to police activity near Pulaski/75th.",
+    "Headline": "#53A South Pulaski Temporary Reroute at Pulaski/71st",
+    "ShortDescription": "53A South Pulaski buses are temporarily rerouted in both directions via Pulaski, 79th, kedzie,71st due to police activity near Pulaski/75th.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#53A South Pulaski buses are temporarily rerouted in both directions via Pulaski, 71st, Kedzie, 79th, then resume their normal route on Pulaski, due to police activity near Pulaski/75th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#53A South Pulaski buses are temporarily rerouted in both directions via Pulaski, 79th, kedzie,71st then resume their normal route on Pulaski, due to police activity near Pulaski/71st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -100,6 +100,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "3252d86a-42c6-47fc-b4cb-7b7a87cb082e"
+    "GUID": "b8eb71e9-5f36-468c-96c1-a8eee04bd683"
+  },
+  {
+    "AlertId": "106187",
+    "Headline": "#67 67th-69th-71st Temporary Reroute at  Pulaski/71st",
+    "ShortDescription": "67 67th-69th-71st buses are temporarily rerouted in both directions via 69th, kedzie, 79th, Pulaski, due to police activity near Pulaski/71st.",
+    "FullDescription": {
+      "#cdata-section": "<p>#67 67th-69th-71st buses are temporarily rerouted in both directions via 69th, kedzie, 79th, Pulaski&nbsp; then resume their normal route on 69th , due to police activity near Pulaski/71st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-03-24T06:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106187"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "67th-69th-71st",
+        "ServiceId": "67",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/67/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b1b60201-7eb8-4094-99eb-071cb48a6101"
   }
 ]
