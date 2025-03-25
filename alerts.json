@@ -104,10 +104,10 @@
   },
   {
     "AlertId": "106200",
-    "Headline": "Blue Line Trains bypassing Clark/Lake Station",
-    "ShortDescription": "Blue Line trains are running, but not stopping at Clark/Lake due to police activity.",
+    "Headline": "Blue, Brown, Green, Orange and Pink Line Trains bypassing Clark/Lake Station",
+    "ShortDescription": "Blue, Brown, Green, Orange and Pink Line trains are running, but not stopping at Clark/Lake due to police activity.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running, but not stopping at Clark/Lake due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+      "#cdata-section": "<p><strong>Blue, Brown, Green, Orange </strong>and <strong>Pink</strong> Line trains are running, but not stopping at Clark/Lake due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines. These may include:</p>\r\n\r\n<ul>\r\n\t<li><strong>#J14 Jeffrey Jump</strong></li>\r\n\t<li><strong>#20 Madison</strong></li>\r\n\t<li><strong>#22 Clark </strong></li>\r\n\t<li><strong>#24 Wentworth</strong></li>\r\n\t<li><strong>#29 State</strong></li>\r\n\t<li><strong>#36 Broadway</strong></li>\r\n\t<li><strong>#60 Blue Island/26th</strong></li>\r\n\t<li><strong>#62 Archer</strong></li>\r\n</ul>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
     },
     "SeverityScore": "58",
     "SeverityColor": "B45F04",
@@ -121,19 +121,65 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106200"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "548495a0-3481-452c-9f3c-524e1f4710bd"
+    "GUID": "cb057b8f-ea47-45d8-843c-7ea2cd481921"
   }
 ]
