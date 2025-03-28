@@ -157,5 +157,52 @@
     },
     "ttim": "0",
     "GUID": "3106eae1-42f2-47a8-9ff3-715c7715f9e7"
+  },
+  {
+    "AlertId": "106261",
+    "Headline": "Harlem- bound Green Line Service Delayed at Washington/Wabash",
+    "ShortDescription": "Harlem- bound Green Line trains are standing at Washington/Wabash due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem- bound Green Line trains are standing at Washington/Wabash due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-03-28T06:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106261"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Washington/Wabash",
+          "ServiceId": "41700",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=96"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9042d941-4aec-4903-85db-497272bf73a5"
   }
 ]
