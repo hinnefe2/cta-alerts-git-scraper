@@ -69,15 +69,15 @@
   },
   {
     "AlertId": "106272",
-    "Headline": "63rd-bound Green Line Service Delayed at King Drive",
-    "ShortDescription": "63rd-bound Green Line trains are standing near King Drive due to a track switching problem. Crews working to restore service.",
+    "Headline": "63rd-bound Green Line Delays",
+    "ShortDescription": "63rd-bound Green Line trains running w/residual delays & congestion following earlier track switching problem at King Drive. Service resuming, allow extra time",
     "FullDescription": {
-      "#cdata-section": "<p>63rd-bound Green&nbsp;Line trains are&nbsp;standing near King Drive due to a track switching problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>63rd-bound Green Line trains are running with residual delays and congestion following an earlier track switching problem at King Drive.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2025-03-28T18:28:00",
     "EventEnd": null,
     "TBD": "1",
@@ -112,6 +112,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "bec9889d-af6f-4593-8e8d-62caa9c4203a"
+    "GUID": "f54d0ca0-b297-4984-bd90-688e7e00f84c"
+  },
+  {
+    "AlertId": "106273",
+    "Headline": "#81W West Lawrence Temporary Reroute at Lawrence/Oriole",
+    "ShortDescription": "81W West Lawrence buses are temporarily rerouted near Lawrence/Oriole.",
+    "FullDescription": {
+      "#cdata-section": "<p>#81W West Lawrence&nbsp; buses are temporarily rerouted in both directions via Lawrence, Oketo, Argyle, Oriole, Lawrence, and resume normal route, due to a street blockage near Lawrence/Oriole.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-03-28T18:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106273"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "West Lawrence",
+        "ServiceId": "81W",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/81w/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f29c87e0-2e25-481a-a7b2-e0f49e682260"
   }
 ]
