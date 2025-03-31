@@ -79,5 +79,73 @@
     },
     "ttim": "0",
     "GUID": "00170db6-96e9-4d91-91b4-d6900839e8ff"
+  },
+  {
+    "AlertId": "106302",
+    "Headline": "#67 67th-69th-71st Temporary Westbound Reroute near at 69th/Red Line",
+    "ShortDescription": "Westbound 67 67th-69th-71st buses are temporarily rerouted via 69th, King Drive, 71st, State and into the Terminal due to, street blockage near 69th/Red Line.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #67 67th-69th-71st buses are temporarily rerouted via 69th, King Drive, 71st, State and into the Terminal due to, street blockage near 69th/Red Line.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-03-31T09:10:00",
+    "EventEnd": "2025-04-03T09:10:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106302"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "67th-69th-71st",
+        "ServiceId": "67",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/67/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0f8e13a6-60fa-4e05-81de-fe310a9e91ba"
+  },
+  {
+    "AlertId": "106303",
+    "Headline": "#30 South Chicago Temporary Northbound Reroute near 69th/Red Line",
+    "ShortDescription": "Northbound 30 South Chicago buses are temporarily rerouted via King Drive, 71st, State and into the Terminal due to, street blockage near 69th/Red Line.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #30 South Chicago buses are temporarily rerouted via King Drive, 71st, State and into the Terminal due to, street blockage near 69th/Red Line.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-03-31T09:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106303"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Chicago",
+        "ServiceId": "30",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/30/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "98e8e995-1815-4f76-8d8b-5ab3e27d0a3d"
   }
 ]
