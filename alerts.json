@@ -353,37 +353,50 @@
     "GUID": "5d8c583b-a54b-471b-8cca-7ffc6782be34"
   },
   {
-    "AlertId": "106325",
-    "Headline": "Forest Park-bound Blue Line Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following an earlier sick customer at UIC-Halsted. Service is resuming, allow extra time.",
+    "AlertId": "106326",
+    "Headline": "#9 Ashland and #X9 Ashland Express Temporary Reroute at 104th/ Vincennes",
+    "ShortDescription": "#9 Ashland and #X9 Ashland Express buses are temporarily rerouted in both directions via Vincennes, 103rd, Charles, 104th.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays following an earlier sick customer at UIC-Halsted.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#9 Ashland and #X9 Ashland Express buses are temporarily rerouted in both directions via Vincennes, 103rd, Charles, 104th, then resume their normal route on Ashland, due to street blockage near 104th/ Vincennes.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-04-01T11:19:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-04-01T11:43:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106325"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106326"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "36754353-14d8-42c8-bc72-fc8217fa7927"
+    "GUID": "a47fa79d-3bfc-4f78-88cf-67b8aee125ba"
   }
 ]
