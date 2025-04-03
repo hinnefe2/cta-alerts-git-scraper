@@ -35,15 +35,15 @@
   },
   {
     "AlertId": "106408",
-    "Headline": "Midway-bound Orange Line Service Delayed at 35th/Archer ",
-    "ShortDescription": "Midway-bound Orange Line trains are standing at 35th/Archer due to police department activity. Crews working to restore service.",
+    "Headline": "Midway-bound Orange Line Service Delayed at Western",
+    "ShortDescription": "Midway-bound Orange Line trains are standing at Western due to police department activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Midway-bound Orange Line trains are standing at 35th/Archer due to police department activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Midway-bound Orange Line trains are standing at Western&nbsp;due to police department activity.</p>\r\n\r\n<p><strong>At this time, consider other alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2025-04-03T09:18:00",
     "EventEnd": null,
     "TBD": "1",
@@ -65,6 +65,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "9c5143a6-717b-4691-9d21-2d78183dedc0"
+    "GUID": "2b6a7c1a-1996-4457-a7dc-01a824409a44"
+  },
+  {
+    "AlertId": "106409",
+    "Headline": "Temporary Westbound #70 Division  Reroute near Dearborn/Walton",
+    "ShortDescription": "Westbound 70 Division buses are temporarily rerouted Dearborn/Walton.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #70 Division buses are temporarily rerouted via Dearborn, Clark, Oak, Walton, and resume normal route, due to a street blockage&nbsp;near Dearborn/Walton.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-04-03T09:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106409"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Division",
+        "ServiceId": "70",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/70/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f55aa40a-8fa2-4ce8-9ac0-9c9e91543639"
   }
 ]
