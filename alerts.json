@@ -102,40 +102,6 @@
     "GUID": "def2299b-c208-433f-80a6-a02df45bfcf2"
   },
   {
-    "AlertId": "106379",
-    "Headline": "#59 59th/61st Temporary Eastbound Reroute near Midway Plaisance/Blackstone",
-    "ShortDescription": "EB 59 59th/61st buses are temporarily rerouted via Midway Plaisance, Blackstone & 60th, due to localized flooding near Midway Plaisance/Blackstone",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound&nbsp;#59 59th/61st buses are temporarily rerouted via Midway Plaisance, Blackstone and&nbsp;60th, due to localized flooding near Midway Plaisance/Blackstone</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-04-02T15:43:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106379"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "59th/61st",
-        "ServiceId": "59",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/59/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6861f45f-524f-4320-a428-ae32c92d5143"
-  },
-  {
     "AlertId": "106387",
     "Headline": "#106 East 103rd Temporary Eastbound Reroute near 103rd/Woodlawn",
     "ShortDescription": "EB 106 East 103rd buses are temporarily rerouted via 103rd, then resume on their normal route, due to localized flooding near 103rd/Woodlawn.",
@@ -168,5 +134,39 @@
     },
     "ttim": "0",
     "GUID": "7a6e740b-2316-4a9e-b302-396a7d5eb4a8"
+  },
+  {
+    "AlertId": "106393",
+    "Headline": "#28 Stony Island Temporary Reroute at 103rd/Woodlawn",
+    "ShortDescription": "28 Stony Island buses are temporarily bypassing Olive Harvey College, due to localized flooding near 103rd/Woodlawn",
+    "FullDescription": {
+      "#cdata-section": "<p>#28 Stony Island buses are temporarily bypassing Olive Harvey College in both directions, due to localized flooding near 103rd/Woodlawn</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-04-02T21:10:00",
+    "EventEnd": "2025-04-05T21:10:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106393"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Stony Island",
+        "ServiceId": "28",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/28/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e47dc41f-f9e1-49c0-b714-84656cd83afa"
   }
 ]
