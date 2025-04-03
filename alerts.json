@@ -187,12 +187,12 @@
     "Headline": "Orange Line Service Delayed at Kedzie",
     "ShortDescription": "Orange Line trains are standing at Kedzie due to a mechanical problem. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Orange Line trains are standing at Kedzie due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Orange Line trains are standing at Kedzie due to a mechanical problem.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2025-04-03T15:05:00",
     "EventEnd": null,
     "TBD": "1",
@@ -214,6 +214,74 @@
       }
     },
     "ttim": "0",
-    "GUID": "dc688c3d-85dd-4501-928c-585930dc4926"
+    "GUID": "72447b86-67a7-4c53-a212-78c952fd566b"
+  },
+  {
+    "AlertId": "106424",
+    "Headline": "#146 Inner Lake Shore/Michigan Express Temporary Southbound Reroute near ",
+    "ShortDescription": "SB 146 Inner LS/Mchgn Exp buses temp rrtd via Broadway, Bryn Mawr, Sheridan, Hollywood, Broadway & Foster, due to fire department activity at Sheridan/Catalpa",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound&nbsp;#146 Inner Lake Shore/Michigan Express buses are temporarily rerouted via Broadway, Bryn Mawr, Sheridan, Hollywood, Broadway and&nbsp;Foster, due to fire department activity near&nbsp;Sheridan/Catalpa.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-04-03T15:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106424"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Inner Lake Shore/Michigan Express",
+        "ServiceId": "146",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/146/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "dc0f0384-ce44-4dd2-8b96-6c92b0d49c26"
+  },
+  {
+    "AlertId": "106425",
+    "Headline": "#92 Foster Temporary Westbound Reroute near Sheridan/Catalpa",
+    "ShortDescription": "WB 92 Foster buses are temporarily rerouted via Broadway, Bryn Mawr, Sheridan, Hollywood, Broadway & Foster, due to fire department activity at Sheridan/Catalpa",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound&nbsp;#92 Foster buses are temporarily rerouted via Broadway, Bryn Mawr, Sheridan, Hollywood, Broadway and&nbsp;Foster, due to fire department activity at Sheridan/Catalpa.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-04-03T15:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106425"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Foster",
+        "ServiceId": "92",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/92/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b82d4ad5-ae66-43b6-925e-70af99847e78"
   }
 ]
