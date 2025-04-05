@@ -231,40 +231,6 @@
     "GUID": "67240b09-a132-4285-b437-4bbe13cd966f"
   },
   {
-    "AlertId": "106459",
-    "Headline": "Temporary #20 Madison Reroute near Washington/State",
-    "ShortDescription": "20 Madison buses temp. rerouted due to, street blockage near Washington/State.",
-    "FullDescription": {
-      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted in both directions, due to street blockage&nbsp;near Washington/State.</p>\r\n\r\n<p>Eastbound buses will operate via Washington, Wacker, Michigan,&nbsp;Randolph, Columbus, and resume normal route.</p>\r\n\r\n<p>Westbound buses will operate via Columbus, Wacker, Madison, and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-04-05T14:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106459"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Madison",
-        "ServiceId": "20",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/20/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "7b78effc-e521-41ea-9a2d-1209aac71c6e"
-  },
-  {
     "AlertId": "106460",
     "Headline": "Temporary #56 Milwaukee Reroute near Washington/State",
     "ShortDescription": "56 Milwaukee buses temp. rerouted due to, street blockage near Washington/State.",
@@ -365,5 +331,52 @@
     },
     "ttim": "0",
     "GUID": "0669f92d-d73d-4e30-bbb2-dceafcc86a8d"
+  },
+  {
+    "AlertId": "106463",
+    "Headline": "95th-bound Red Line Service Running with Delays",
+    "ShortDescription": "95th-bound Red Line trains are running with delays at Howard due to an earlier mechanical problem.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red&nbsp;Line&nbsp;trains are running with delays&nbsp;at Howard due to an earlier mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-04-05T15:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106463"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Howard",
+          "ServiceId": "40900",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=71"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c50482ae-1bb2-4741-be18-916dae16b630"
   }
 ]
