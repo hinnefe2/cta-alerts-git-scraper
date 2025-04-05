@@ -235,7 +235,7 @@
     "Headline": "Temporary #20 Madison Reroute near Washington/State",
     "ShortDescription": "20 Madison buses temp. rerouted due to, street blockage near Washington/State.",
     "FullDescription": {
-      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted in both directions, due to street blockage&nbsp;near Washington/State.</p>\r\n\r\n<p>Eastbound buses will operate via Washington, Wacker, Randolph, and resume normal route.</p>\r\n\r\n<p>Westbound buses will operate via Columbus, Randolph, Michigan, Wacker, Madison, and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted in both directions, due to street blockage&nbsp;near Washington/State.</p>\r\n\r\n<p>Eastbound buses will operate via Washington, Wacker, Michigan,&nbsp;Randolph, Columbus, and resume normal route.</p>\r\n\r\n<p>Westbound buses will operate via Columbus, Wacker, Madison, and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -262,7 +262,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "725badbd-4483-4c96-8795-d0ff6e60c0e9"
+    "GUID": "7b78effc-e521-41ea-9a2d-1209aac71c6e"
   },
   {
     "AlertId": "106460",
@@ -303,7 +303,7 @@
     "Headline": "Temporary #60 Blue Island/26th Reroute near Washington/State",
     "ShortDescription": "60 Blue Island/26th buses temp. rerouted due to, street blockage near Washington/State.",
     "FullDescription": {
-      "#cdata-section": "<p>#60 Blue Island/26th&nbsp;buses are temporarily rerouted in both directions, due to&nbsp;street blockage&nbsp;near&nbsp;Washington/State.</p>\r\n\r\n<p>Eastbound buses will operate via Jackson, Wacker, Michigan, Randolph, and resume normal route.</p>\r\n\r\n<p>Westbound&nbsp;buses will operate via Randolph, Michigan, Wacker, Madison, and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#60 Blue Island/26th&nbsp;buses are temporarily rerouted in both directions, due to&nbsp;street blockage&nbsp;near&nbsp;Washington/State.</p>\r\n\r\n<p>Eastbound buses will operate via Canal, Jackson, Wacker, Michigan, Randolph,&nbsp;and resume normal route.</p>\r\n\r\n<p>Westbound&nbsp;buses will operate via Randolph, Columbus, Wacker, Madison, and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -330,6 +330,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "a654d428-625a-46c0-b0c3-9e6b1c6e1377"
+    "GUID": "899fa843-1b2b-49f7-935f-434a532c78bb"
+  },
+  {
+    "AlertId": "106462",
+    "Headline": "Temporary #124 Navy Pier  Reroute near Washington/State",
+    "ShortDescription": "124 Navy Pier  buses temp. rerouted due to, street blockage near Washington/State.",
+    "FullDescription": {
+      "#cdata-section": "<p>#124 Navy Pier&nbsp;buses are temporarily rerouted in both directions near&nbsp;due to street blockage&nbsp;near Washington/State.</p>\r\n\r\n<p>Eastbound buses will operate via Jackson, Wacker, Michigan, &nbsp;and resume normal route.</p>\r\n\r\n<p>Westbound buses will operate via Michigan, Wacker, Madison, and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-04-05T14:47:00",
+    "EventEnd": "2025-04-08T14:48:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106462"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Navy Pier",
+        "ServiceId": "124",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/124/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0669f92d-d73d-4e30-bbb2-dceafcc86a8d"
   }
 ]
