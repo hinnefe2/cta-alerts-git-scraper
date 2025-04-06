@@ -231,53 +231,6 @@
     "GUID": "67240b09-a132-4285-b437-4bbe13cd966f"
   },
   {
-    "AlertId": "106464",
-    "Headline": "Blue Line Experiencing Delays; Boarding change between O'Hare and Rosemont",
-    "ShortDescription": "Blue Line service running w/delays due to a sick customer at Rosemont. Board all trains on the O'Hare-bound side at Rosemont.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line service is running with delays due to a sick customer at Rosemont.</p>\r\n\r\n<p>Trains, in both directions, are running on the same track between O&#39;Hare&nbsp;and Rosemont stations.</p>\r\n\r\n<p>Board/exit all trains on the O&#39;Hare-bound side of the platform at Rosemont station.</p>\r\n\r\n<p>We&#39;re working to restore normal service as quickly as possible. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "88",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption / Major Delays",
-    "EventStart": "2025-04-05T18:22:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106464"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Rosemont",
-          "ServiceId": "40820",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=123"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "45c6a3aa-ba5f-4db7-bdce-b109b39fdffd"
-  },
-  {
     "AlertId": "106467",
     "Headline": "Service Between 54th/Cermak and Polk, then Racine (Blue Line) Stations, Only",
     "ShortDescription": "Pink Line trains are standing near Clinton. Crews working to restore service.",
@@ -323,5 +276,39 @@
     },
     "ttim": "0",
     "GUID": "18312bdd-13e3-401e-9cd8-3d97e0a491aa"
+  },
+  {
+    "AlertId": "106468",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at LaSalle",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at LaSalle due to a door problem on a train. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at LaSalle due to a door problem on a train.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-04-05T22:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106468"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3803978a-67a7-4483-9491-d8be701eddb9"
   }
 ]
