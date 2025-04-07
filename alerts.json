@@ -197,37 +197,37 @@
     "GUID": "c6aa5838-e988-49f4-a3e0-09fe62e0ed33"
   },
   {
-    "AlertId": "106496",
-    "Headline": "Loop-bound Orange Line Delays",
-    "ShortDescription": "Loop-bound Orange Line trains are running w/residual delays at Midway. Service is resuming, allow extra time.",
+    "AlertId": "106497",
+    "Headline": " #8 Halsted Temporary Southbound Reroute near Halsted/Grand",
+    "ShortDescription": "Southbound #8 Halsted buses are temporarily rerouted via Halsted, Grand, Desplaines, Fulton Market then resume their normal route on Halsted.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Orange Line trains are running w/residual delays at Midway.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #8 Halsted buses are temporarily rerouted via Halsted, Grand, Desplaines, Fulton Market then resume their normal route on Halsted due to street blockage near Halsted/Grand.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-04-07T11:03:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-04-07T11:19:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106496"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106497"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Orange Line",
-        "ServiceId": "Org",
-        "ServiceBackColor": "f9461c",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Halsted",
+        "ServiceId": "8",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/8/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "513a3e38-9f06-4add-99d6-ecc80d4233c0"
+    "GUID": "3c3f49ac-6921-4747-89da-619ba5fce657"
   }
 ]
