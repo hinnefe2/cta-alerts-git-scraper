@@ -69,131 +69,37 @@
     "GUID": "67240b09-a132-4285-b437-4bbe13cd966f"
   },
   {
-    "AlertId": "106531",
-    "Headline": "#22 Clark Temporary Reroute at Clark/Addison",
-    "ShortDescription": "22 Clark buses are temp rerouted via Clark, Racine, Belmont, then resume their normal route on Clark, due to street blockage near Clark/Addison.",
+    "AlertId": "106536",
+    "Headline": "Kimball-bound Brown Line Service Delayed at Irving Park",
+    "ShortDescription": "Kimball-bound Brown Line trains are standing at Irving Park due to a sick customer. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>#22 Clark buses are temporarily rerouted in both directions via Clark, Racine, Belmont, then resume their normal route on Clark, due to street blockage near Clark/Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Kimball-bound Brown Line trains are standing at Irving Park due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-04-09T14:51:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-04-09T16:18:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106531"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Clark",
-          "ServiceId": "22",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/22/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Addison",
-          "ServiceId": "152",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/152/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "403ba863-bf27-4291-aa39-e8f6f8b9d0b5"
-  },
-  {
-    "AlertId": "106532",
-    "Headline": "#152 Addison Temporary Reroute at Clark/Addison",
-    "ShortDescription": "152 Addison buses temp rerouted via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison, due to street blockage near Clark/Addison.",
-    "FullDescription": {
-      "#cdata-section": "<p>#152 Addison buses are temporarily rerouted in both directions via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison, due to street blockage near Clark/Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-04-09T14:54:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106532"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Clark",
-          "ServiceId": "22",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/22/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Addison",
-          "ServiceId": "152",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/152/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "7149187a-8054-43e1-9bb0-cbe2e7ed5840"
-  },
-  {
-    "AlertId": "106534",
-    "Headline": "63rd-bound Green Line Delays",
-    "ShortDescription": "63rd-bound Green Line trains running w/residual delays following an earlier sick customer at 35th-Bronzeville-IIT. Service resuming, allow extra time",
-    "FullDescription": {
-      "#cdata-section": "<p>63rd-bound Green Line trains are running with residual delays and congestion following an earlier sick customer at 35th-Bronzeville-IIT.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-04-09T15:54:00",
-    "EventEnd": "2025-04-09T16:14:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106534"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106536"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "R",
         "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "845920c1-5c93-4bc8-bd09-e26a622ed3c8"
+    "GUID": "9b196ce6-9530-4d52-9916-f7a234e6a261"
   }
 ]
