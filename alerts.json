@@ -70,15 +70,15 @@
   },
   {
     "AlertId": "106538",
-    "Headline": "Delays on Loop 'L' (elevated lines)",
-    "ShortDescription": "Brown, Green, Orange, Purple & Pink Line trains are experiencing delays due to fire department activity near Washington/Wabash.",
+    "Headline": "Loop 'L' Delays",
+    "ShortDescription": "Brown, Green, Orange, Purple & Pink Line trains running w/residual delays following earlier fire department activity. Service resuming, allow extra time",
     "FullDescription": {
-      "#cdata-section": "<p>Brown, Green, Orange, Purple &amp; Pink Line trains are experiencing delays due to fire department activity near Washington/Wabash.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown, Green, Orange, Purple &amp; Pink Line trains are running with residual delays and&nbsp;congestion following earlier fire department activity at Washington/Wabash.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2025-04-09T19:24:00",
     "EventEnd": null,
     "TBD": "1",
@@ -157,87 +157,19 @@
       ]
     },
     "ttim": "0",
-    "GUID": "1901f63f-e9f4-43be-b12f-a618d7eb1b36"
-  },
-  {
-    "AlertId": "106539",
-    "Headline": "No trains between Merchandise Mart and the Loop 'L'",
-    "ShortDescription": "Brown Line service has been temporarily suspended between Merchandise Mart and the Loop 'L' due to fire department activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>Brown Line service has been temporarily suspended between Merchandise Mart and the Loop &#39;L&#39; due to fire department activity.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Kimball and Merchandise Mart&nbsp;at this time.</strong></p>\r\n\r\n<p><strong>Shuttle buses have been requested between Merchandise Mart&nbsp;and Roosevelt to provide connecting service.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2025-04-09T19:35:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106539"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "1cb53a93-b9c7-4f54-bc82-41c82999377b"
-  },
-  {
-    "AlertId": "106540",
-    "Headline": "Service Between 54th/Cermak and Polk, then Racine (Blue Line) Stations, Only",
-    "ShortDescription": "Pink Line trains operate from 54th to Polk only then connect w/Blue Line at Racine for continuing service due to fire department activity near Washington/Wabash",
-    "FullDescription": {
-      "#cdata-section": "<p><span>Pink Line service has been temporarily suspended between Polk and the Loop due fire department activity.</span></p>\r\n\r\n<p><span>As a result,</span>&nbsp;<span style=\"color:#E27EA6;\"><strong>Pink Line</strong></span>&nbsp;trains are running as follows:</p>\r\n\r\n<ul type=\"disc\">\r\n\t<li>\r\n\t<p><strong><span style=\"sans-serif: \">Between 54th/Cermak&nbsp;and Polk, and then are diverted to&nbsp;Racine on the Blue Line&nbsp;for direct connections at Racine to continuing Blue Line&nbsp;train service to/from downtown.</span></strong></p>\r\n\t</li>\r\n</ul>\r\n\r\n<p><span>Using connecting <span style=\"color:#00A1DE;\"><strong>Blue Line</strong></span> service:</span></p>\r\n\r\n<ul type=\"disc\">\r\n\t<li>\r\n\t<p><em><strong><span style=\"sans-serif: \">For service to downtown&nbsp;from Pink Line stations between 54th/Cermak and Polk</span></strong></em><span style=\"sans-serif: \">, take a Pink Line train toward the Loop and stay on board until the train reaches Racine on the Blue Line. Transfer to an O&#39;Hare-bound Blue Line train from the same platform for service into downtown.</span></p>\r\n\t</li>\r\n\t<li>\r\n\t<p><em><strong><span style=\"sans-serif: \">For service from downtown to Pink Line stations between Polk and 54th/Cermak</span></strong></em><span style=\"sans-serif: \">, take a Blue Line train toward Forest Park to Racine. Stay on the same platform side and wait for a 54th/Cermak-bound Pink Line train.</span></p>\r\n\t</li>\r\n</ul>\r\n\r\n<p><strong>Shuttle buses have been requested between Polk and Ashland/Lake to provide connecting service.</strong></p>\r\n\r\n<p><span>Other possible alternatives may include:</span></p>\r\n\r\n<ul>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/9\"><span>#9 Ashland</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/21\"><span>#21 Cermak</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/49\"><span>#49 Western</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/50\"><span>#50 Damen</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/52\"><span>#52 Kedzie/California</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/53\"><span>#53 Pulaski</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/54\"><span>#54&nbsp;Cicero</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/60\"><span>#60 Blue Island-26th</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/82\"><span>#82 Kimball-Homan</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/94\"><span>#94 South California</span></a></li>\r\n\t<li><a href=\"http://www.transitchicago.com/bus/157\"><span>#157 Streeterville-Taylor buses</span></a></li>\r\n</ul>\r\n\r\n<p><span>...including to/from and in combination with other &#39;L&#39; services.</span></p>\r\n\r\n<p><span>Note that if you take a bus to/from the Pink Line, you may also be able to connect to/from the Blue Line&#39;s Forest Park branch or Green Line along Lake Street directly via that bus route.</span></p>\r\n\r\n<p><span>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</span></p>\r\n\r\n<p><span>We are working to restore service as quickly as possible. Allow extra travel time.</span></p>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2025-04-09T19:38:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106540"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "2ec39848-998f-4302-a5a1-0aabf5ba479a"
+    "GUID": "1586ec44-6280-42cb-9830-76fc60191f93"
   },
   {
     "AlertId": "106541",
-    "Headline": "No Trains Between 35th and Clinton",
-    "ShortDescription": "Green Line service has been temporarily suspended between 35th and Clinton due to fire department activity.",
+    "Headline": "Green Line Delays",
+    "ShortDescription": "Green Line trains running w/residual delays & congestion following earlier fire department activity near Washington/Wabash. Service resuming, allow extra time",
     "FullDescription": {
-      "#cdata-section": "<p>Green Line service has been temporarily suspended between 35th and Clinton due to fire department activity.</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li><strong>between Harlem/Lake and Clinton</strong>, and,</li>\r\n\t<li><strong>between Roosevelt and 63rd/Cottage Grove and Ashland/63rd</strong>, only.</li>\r\n</ul>\r\n\r\n<p><strong>Shuttle buses have been requested&nbsp;between 35th and Clinton to provide connecting service.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.<br />\r\n&nbsp;</p>\r\n"
+      "#cdata-section": "<p>Green Line trains are running with residual delays and congestion following earlier fire department activity near Washington/Wabash.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p><strong>Shuttle buses have been requested between 35th and Clinton to provide connecting service.</strong></p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
     "EventStart": "2025-04-09T19:48:00",
     "EventEnd": null,
     "TBD": "1",
@@ -259,19 +191,19 @@
       }
     },
     "ttim": "0",
-    "GUID": "83dcb84c-70c6-426e-8369-bcdfc46d8d35"
+    "GUID": "809b71f1-be3e-495e-a8ad-c07980e3b31b"
   },
   {
     "AlertId": "106542",
-    "Headline": "No trains between Halsted and the Loop 'L'",
-    "ShortDescription": "Orange Line service has been temporarily suspended between Halsted and the Loop 'L' due to fire department activity.",
+    "Headline": "Orange Line Delays",
+    "ShortDescription": "Orange Line trains running w/residual delays & congestion following earlier fire department activity near Washington/Wabash. Service resuming, allow extra time",
     "FullDescription": {
-      "#cdata-section": "<p>Orange Line service has been temporarily suspended between Halsted and the Loop &#39;L&#39; due to fire department activity.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Midway and Halsted at this time.</strong></p>\r\n\r\n<p><strong>Shuttle buses have been requested&nbsp;between Halsted and Roosevelt to provide connecting service.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Orange Line trains are running with residual delays and congestion following earlier fire department activity near Washington/Wabash.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p><strong>Shuttle buses have been requested between Halsted and Roosevelt to provide connecting service.</strong></p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
     "EventStart": "2025-04-09T19:54:00",
     "EventEnd": null,
     "TBD": "1",
@@ -293,6 +225,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "eb69f95a-464c-4c29-b1bc-df436d27002a"
+    "GUID": "9d6aca4e-2c44-420c-9b84-3e494d25bc38"
   }
 ]
