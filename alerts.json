@@ -69,71 +69,37 @@
     "GUID": "67240b09-a132-4285-b437-4bbe13cd966f"
   },
   {
-    "AlertId": "106544",
-    "Headline": "#34 South Michigan Temporary Reroute at 130th/Indiana",
-    "ShortDescription": "34 South Michigan buses are rerouted in both directions via 130th, Indiana, 134th, Langley, 131st & over regular route, due to street blockage nr 130th/Indiana.",
+    "AlertId": "106547",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at Cumberland",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Cumberland due to police activity.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>#34 South Michigan buses are te</strong>mporarily rerouted in both directions via 130th, Indiana, 134th, Langley, 131st and over regular route, due to street blockage near 130th/Indiana.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Cumberland due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-04-09T22:15:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-04-10T04:55:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106544"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106547"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Michigan",
-        "ServiceId": "34",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/34/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "130bd5da-6d0c-40ea-905e-7836eedbc630"
-  },
-  {
-    "AlertId": "106546",
-    "Headline": "#79 79th Temporary Reroute at 76th/Phillips",
-    "ShortDescription": "79 79th buses are temporarily rerouted in both directions via 79th, Yates, 76th, South Shore and 79th, due to police activity near 76th/Phillips.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#79 79th buses are temporarily rerouted in both directions via 79th, Yates, 76th, South Shore, then resume their normal rout on 79th, due to police activity near 76th/Phillips.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-04-10T00:13:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106546"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "79th",
-        "ServiceId": "79",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/79/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ff4abec7-8358-45f7-8660-952db2f508f2"
+    "GUID": "3e9a15e7-cc38-4d41-b1ac-b9b75e14dbc3"
   }
 ]
