@@ -67,5 +67,74 @@
     },
     "ttim": "1",
     "GUID": "67240b09-a132-4285-b437-4bbe13cd966f"
+  },
+  {
+    "AlertId": "106573",
+    "Headline": "#29 State, #67 67th/69th/71st, #30 South Chicago and #169 69th/UPS Express Temporary Reroute at State/69th",
+    "ShortDescription": "29 State, 67 67th/69th/71st, 30 South Chicago and 169 69th/UPS Express buses are temporarily rerouted: due to, street blockage near State/69th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#29 State, #67 67th/69th/71st, #30 South Chicago and #169 69th/UPS Express buses are temporarily rerouted in both directions near State/69th due to street blockage.</p>\r\n\r\n<p><strong>Westbound #67 67th/69th/71st</strong> buses will operate via 69th, Lafayette, 71st, State, Red line and over regular route.</p>\r\n\r\n<p><strong>Northbound #30 South Chicago</strong> buses will operate via 69th, Lafayette, 71st, State, Red line and over regular route.</p>\r\n\r\n<p><strong>Eastbound #169 69th/UPS Express</strong> buses will operate via 69th, Lafayette, 71st, State, Red line and over regular route.</p>\r\n\r\n<p><strong>Southbound #29 State</strong> buses will operate via State, 69th, Lafayette, 71st, State and into the terminal over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-04-11T09:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106573"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "State",
+          "ServiceId": "29",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/29/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Chicago",
+          "ServiceId": "30",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/30/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "67th-69th-71st",
+          "ServiceId": "67",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/67/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "69th/UPS Express",
+          "ServiceId": "169",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/169/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5c21ddb2-4433-4242-8cf1-2e1ad2994f25"
   }
 ]
