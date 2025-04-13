@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "106597",
-    "Headline": "Yellow Line Service Running with Delays",
-    "ShortDescription": "Yellow Line trains are running with wait times of up to 30 minutes; we're working to restore service. Allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Yellow Line trains are running, but with extended wait times. Some riders may experience wait times&nbsp;of up to 30 minutes while our crews work to restore regular service levels.</p>\r\n\r\n<p>Use trackers to look for live arrival information and consider available alternatives, such a local bus routes or buses to/from other &#39;L&#39; lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2025-04-12T22:11:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106597"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Yellow Line",
-        "ServiceId": "Y",
-        "ServiceBackColor": "f9e300",
-        "ServiceTextColor": "000000",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/yellowline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "24182e7c-e672-47f5-b0b3-2754f58ae1ab"
-  },
-  {
     "AlertId": "106598",
     "Headline": "Purple Line Service Running with Delays",
     "ShortDescription": "Purple Line trains are running with wait times of up to 30 minutes; we're working to restore service. Allow extra time.",
@@ -66,52 +32,5 @@
     },
     "ttim": "0",
     "GUID": "e290a2ab-48e6-4ff7-aa09-d342b756b197"
-  },
-  {
-    "AlertId": "106599",
-    "Headline": "Harlem-bound Green and Loop-bound Orange Line Service Delayed near Adams/Wabash",
-    "ShortDescription": "Harlem-bound Green and Loop-bound Orange Line trains are standing near the area of Roosevelt due to signal problems.  Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green and Loop-bound Orange Line trains are standing near the area of Roosevelt due to signal problems.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-04-12T22:48:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106599"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "c8c29bb4-fe6b-4943-b7f5-a8447567b57a"
   }
 ]
