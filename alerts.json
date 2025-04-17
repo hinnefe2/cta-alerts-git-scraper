@@ -134,5 +134,39 @@
     },
     "ttim": "0",
     "GUID": "68e9bdd2-68c9-4dc2-94fa-a86fd40d6f96"
+  },
+  {
+    "AlertId": "106692",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running w/residual delays in both directions following earlier police activity at Montrose. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running w/residual delays in both directions following earlier police activity at Montrose.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-04-17T11:56:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106692"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b613e6ad-0ae0-42c3-9003-f1101c78f2c8"
   }
 ]
