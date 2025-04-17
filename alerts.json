@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "106673",
-    "Headline": "Forest Park-bound Blue Line Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following an earlier door problem at Irving Park. Service is resuming, allow extra time.",
+    "AlertId": "106674",
+    "Headline": "Red Line Trains bypassing Garfield Station",
+    "ShortDescription": "Red Line trains are running, but not stopping at Garfield due to police department activity.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with residual delays following an earlier door problem at Irving Park.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running, but not stopping at Garfield due to police department activity.</p>\r\n\r\n<p><strong>Shuttle buses have been requested&nbsp;between 95th and Cermak-Chinatown to provide connecting service.</strong></p>\r\n\r\n<p>See station personnel for further assistance.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "58",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-04-16T19:56:00",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2025-04-16T20:33:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106673"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106674"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "R",
         "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "2b57b084-97f3-4e18-bd1a-8d0c3d9fcab2"
+    "GUID": "71c564a1-e4b7-4fc4-a659-185455be399c"
   }
 ]
