@@ -4,12 +4,12 @@
     "Headline": "Loop-bound Brown Line Service Delayed at Belmont",
     "ShortDescription": "Loop-bound Brown Line trains are standing at Belmont due to a medical emergency on the tracks.\r\n\r\nCrews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown Line trains are standing at Belmont due to a medical emergency on the tracks.</p>\r\n\r\n<ul>\r\n\t<li><strong>Shuttle buses are requested from Kimball to Fullerton to provide connecting service in both directions.</strong></li>\r\n</ul>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Brown Line trains are standing at Belmont due to a medical emergency on the tracks. As a result of the delay:</p>\r\n\r\n<ul>\r\n\t<li><strong>Brown Line shuttle buses are requested from Kimball to Fullerton to provide connecting service in both directions.</strong></li>\r\n\t<li><span style=\"font-weight: bolder;\">Red Line shuttle buses are requested from Addison to Fullerton to provide connecting service in both directions.</span></li>\r\n\t<li><span style=\"font-weight: bolder;\">Purple&nbsp;Line shuttle buses are requested from Linden to Howard to provide connecting service in both directions.</span></li>\r\n</ul>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2025-04-18T04:47:00",
     "EventEnd": null,
     "TBD": "1",
@@ -33,6 +33,17 @@
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
           "ServiceName": "Brown Line",
           "ServiceId": "Brn",
           "ServiceBackColor": "62361b",
@@ -40,10 +51,21 @@
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/brownline/"
           }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "26da0541-f6f3-4292-b384-84f6f7edfa8a"
+    "GUID": "f6c9da82-46a7-4503-b810-500ba973b750"
   }
 ]
