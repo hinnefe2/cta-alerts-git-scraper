@@ -68,45 +68,11 @@
     "GUID": "5f168c49-b916-4946-9c2a-8ce0c81239dd"
   },
   {
-    "AlertId": "106747",
-    "Headline": "95th-bound Red Line Delays",
-    "ShortDescription": "95th-bound Red Line trains are running w/residual delays following earlier police activity. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are running w/residual delays following earlier police activity.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-04-19T09:31:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106747"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "35f28dac-4f24-41b4-b183-11da56082011"
-  },
-  {
     "AlertId": "106748",
     "Headline": "Temporary Northbound #54 Cicero Reroute near Cicero/Diversey",
-    "ShortDescription": "54 Cicero buses are temporarily rerouted near Cicero/Diversey.",
+    "ShortDescription": "Northbound 54 Cicero buses are temporarily rerouted near Cicero/Diversey.",
     "FullDescription": {
-      "#cdata-section": "<p>#54 Cicero buses are temporarily rerouted via Cicero, Diversey, Pulaski, Belmont, Cicero, and resume normal route&nbsp;due to street blockage&nbsp;near Cicero/Diversey.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #54 Cicero buses are temporarily rerouted via Cicero, Diversey, Pulaski, Belmont, Cicero, and resume normal route&nbsp;due to street blockage&nbsp;near Cicero/Diversey.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -133,6 +99,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "4f0e28e6-76b9-409e-a0c9-c6b317eb2dac"
+    "GUID": "bb51134f-74fb-4ad9-850f-044e607d6a36"
+  },
+  {
+    "AlertId": "106749",
+    "Headline": "Green and Pink Line Line Service Experiencing Significant Delays Due to Raised Bridge",
+    "ShortDescription": "Green and Pink Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green and Pink Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.</p>\r\n\r\n<p>Shuttle buses are available between Clinton and Clark/Lake to provide connecting service.</p>\r\n\r\n<p>Some trains may be held or turned back before reaching the bridge in order to maintain service across the remainder of the route. Listen for announcements and check train destination signs when boarding.</p>\r\n\r\n<p>We apologize for this temporary inconvenience and appreciate your patience while the Chicago Department of Transportation works to complete the bridge lift operation.&nbsp;<br />\r\nAllow extra travel time.&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-04-19T09:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106749"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0579fd71-ec97-4e52-a3ac-3d5eeac4f10b"
   }
 ]
