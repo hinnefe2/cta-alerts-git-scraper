@@ -69,15 +69,15 @@
   },
   {
     "AlertId": "106747",
-    "Headline": "95th-bound Red Line Service Delayed at Loyola",
-    "ShortDescription": "95th-bound Red Line trains are standing at Loyola due to police activity. Crews working to restore service.",
+    "Headline": "95th-bound Red Line Delays",
+    "ShortDescription": "95th-bound Red Line trains are running w/residual delays following earlier police activity. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are standing at Loyola due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th-bound Red Line trains are running w/residual delays following earlier police activity.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
     "EventStart": "2025-04-19T09:31:00",
     "EventEnd": null,
     "TBD": "1",
@@ -99,6 +99,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "ce312c0e-8c94-410a-a98c-a42b7f234c89"
+    "GUID": "35f28dac-4f24-41b4-b183-11da56082011"
+  },
+  {
+    "AlertId": "106748",
+    "Headline": "Temporary Northbound #54 Cicero Reroute near Cicero/Diversey",
+    "ShortDescription": "54 Cicero buses are temporarily rerouted near Cicero/Diversey.",
+    "FullDescription": {
+      "#cdata-section": "<p>#54 Cicero buses are temporarily rerouted via Cicero, Diversey, Pulaski, Belmont, Cicero, and resume normal route&nbsp;due to street blockage&nbsp;near Cicero/Diversey.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-04-19T09:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106748"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cicero",
+        "ServiceId": "54",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4f0e28e6-76b9-409e-a0c9-c6b317eb2dac"
   }
 ]
