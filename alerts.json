@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "bb51134f-74fb-4ad9-850f-044e607d6a36"
+  },
+  {
+    "AlertId": "106756",
+    "Headline": "#22 Clark and #152 Addison Temporary Reroute at Clark/Addison",
+    "ShortDescription": "22 Clark and 152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.</p>\r\n\r\n<p><strong>#22 Clark </strong>buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p><strong>#152 Addison </strong>buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-04-19T15:29:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106756"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Addison",
+          "ServiceId": "152",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/152/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "eea28ccc-17dd-4ce4-908e-d03eea21946d"
   }
 ]
