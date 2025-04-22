@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "66504581-48a4-4ed9-9e25-481568f08685"
+  },
+  {
+    "AlertId": "106817",
+    "Headline": "Increased Wait Times on Red Line Service",
+    "ShortDescription": "Red Line service is running with residual delays and busier trains/platforms. Crews working to restore normal service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line service is running with residual delays and busier trains/platforms.</p>\r\n\r\n<p>Crews are working to accommodate all passengers and restore normal service as quickly as is possible.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-04-22T18:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106817"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d44a16fc-bb71-4e7c-b311-44c544069aae"
   }
 ]
