@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "106828",
-    "Headline": "Forest Park-bound Blue Line Service Delayed near Chicago",
-    "ShortDescription": "Forest Park-bound Blue Line trains are delayed near Chicago. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue&nbsp;Line trains are delayed&nbsp;near Chicago.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-04-23T08:30:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106828"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8019511f-b624-4930-b4ee-02aa6dfafbc6"
-  },
-  {
     "AlertId": "106829",
     "Headline": "Temporary Northbound #50 Damen Reroute near Damen/Polk",
     "ShortDescription": "Northbound #50 Damen buses are temporarily near Damen/Polk",
@@ -66,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "a577025c-964e-45ef-b44d-81826522e0ca"
+  },
+  {
+    "AlertId": "106830",
+    "Headline": "Loop-bound Pink Line Service Delayed at Pulaski",
+    "ShortDescription": "Loop-bound Pink Line trains are standing at Pulaski. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Pink&nbsp;Line trains are&nbsp;standing&nbsp;at Pulaski due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-04-23T09:24:00",
+    "EventEnd": "2025-04-23T12:24:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106830"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Pulaski",
+          "ServiceId": "40150",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=112"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "854510c6-4427-4de6-8344-2eb68f25a52b"
   }
 ]
