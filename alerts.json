@@ -34,40 +34,6 @@
     "GUID": "11dd6138-c2e5-41b1-b5f5-29a4a95993ff"
   },
   {
-    "AlertId": "106817",
-    "Headline": "Increased Wait Times on Red Line Service",
-    "ShortDescription": "Red Line service is running with residual delays and busier trains/platforms. Crews working to restore normal service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line service is running with residual delays and busier trains/platforms.</p>\r\n\r\n<p>Crews are working to accommodate all passengers and restore normal service as quickly as is possible.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-04-22T18:26:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106817"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d44a16fc-bb71-4e7c-b311-44c544069aae"
-  },
-  {
     "AlertId": "106818",
     "Headline": "#J14 Jeffery Jump Temporary Northbound Reroute near Jeffery/83rd",
     "ShortDescription": "J14 Jeffery Jump buses are temporarily rerouted via Jeffery, Anthony, 85th, South Chicago and Jeffery: due to, street blockage near Jeffery/83rd.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "480d7d71-5513-48b5-903c-3ceb15717e15"
+  },
+  {
+    "AlertId": "106819",
+    "Headline": "95th-bound Red Line Service Delayed at Clark/Division",
+    "ShortDescription": "95th-bound Red Line trains are standing at Clark/Division due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are standing at Clark/Division due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#22 Clark</strong></p>\r\n\r\n<p><strong>#36 Broadway</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-04-22T19:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106819"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6d8bb066-e9ad-424f-9726-c9ac2c495323"
   }
 ]
