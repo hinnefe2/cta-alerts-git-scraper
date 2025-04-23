@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "106829",
-    "Headline": "Temporary #50 Damen Reroute near Damen/Polk",
-    "ShortDescription": "#50 Damen buses temp. rerouted near Damen/Polk.",
-    "FullDescription": {
-      "#cdata-section": "<p>#50 Damen buses are temporarily rerouted in both directions, due to street blockage near Damen/Polk.</p>\r\n\r\n<p>Northbound buses will operate via Damen, Taylor , Western, Jackson, Damen, and resume normal route.</p>\r\n\r\n<p>Southbound buses will operate via Damen, Van Buren, Western, Taylor, Damen, and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-04-23T09:10:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106829"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Damen",
-        "ServiceId": "50",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/50/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "047c311e-875b-421c-b7ac-cfdfa6f7b7dc"
-  },
-  {
     "AlertId": "106831",
     "Headline": "Temporary Southbound #57 Laramie Reroute near Laramie/Madison",
     "ShortDescription": "Southbound #57 Laramie buses are temporarily rerouted near Laramie/Madison.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "bdb04de2-e6f9-4883-962d-fa697527d99c"
+  },
+  {
+    "AlertId": "106832",
+    "Headline": "Temporary #7 Harrison Reroute near Damen/Polk.",
+    "ShortDescription": "7 Harrison buses temp. rerouted near Damen/Polk.",
+    "FullDescription": {
+      "#cdata-section": "<p>#7 Harrison&nbsp;buses are temporarily rerouted in both directions, due to street blockage&nbsp;near Damen/Polk.</p>\r\n\r\n<p>Eastbound buses will operate via Harrison, Western, Jackson, Loomis, Harrison, and resume normal route.</p>\r\n\r\n<p>Western buses will operate via Harrison, Loomis, Van Buren, Western, Harrison, and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-04-23T11:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106832"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Harrison",
+        "ServiceId": "7",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/7/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "283d18b3-400c-41f6-8d09-9784b6d1bddc"
   }
 ]
