@@ -38,7 +38,7 @@
     "Headline": "Green Line trains bypassing Oak Park Station",
     "ShortDescription": "Green Line trains are running, but not stopping at Oak Park station due to a police investigation.",
     "FullDescription": {
-      "#cdata-section": "<p>Green Line trains are running, but not stopping at Oak Park station due to a police investigation.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines. These may include:</p>\r\n\r\n<ul>\r\n\t<li><strong>#20 Madison buses</strong></li>\r\n</ul>\r\n\r\n<p><strong>Also, as a result of the delay, shuttle buses are requested from Harlem/Lake to Ashland/Lake to provide connecting service in both directions.</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+      "#cdata-section": "<p>Green Line trains are running, but not stopping at Oak Park station due to a police investigation.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines. These may include:</p>\r\n\r\n<ul>\r\n\t<li><strong>#20 Madison buses</strong></li>\r\n</ul>\r\n\r\n<p><strong>Also, as a result of the delay, shuttle buses are available from Harlem/Lake to Ridgeland to provide connecting service in both directions.</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
     },
     "SeverityScore": "58",
     "SeverityColor": "B45F04",
@@ -65,6 +65,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "0b24300b-86f5-4922-967c-2c392400c15e"
+    "GUID": "e3b34ce9-90ca-47ad-a75c-7e5733b253f2"
+  },
+  {
+    "AlertId": "106857",
+    "Headline": "Red Line Service Running with Delays",
+    "ShortDescription": "Red Line trains are running with wait times of up to 30 minutes; we're working to restore service. Allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running, but with extended wait times. Some riders may experience wait times&nbsp;of up to 30 minutes while our crews work to restore regular service levels.</p>\r\n\r\n<p>Use trackers to look for live arrival information and consider available alternatives, such a local bus routes or buses to/from other &#39;L&#39; lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-04-25T00:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106857"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "999e57b3-0108-477c-b868-5ff2b2a1d0b7"
   }
 ]
