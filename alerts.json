@@ -102,84 +102,37 @@
     "GUID": "825f6bf4-a70b-4d9c-912a-835b38d7e9df"
   },
   {
-    "AlertId": "106881",
-    "Headline": "Green and Pink Line Service Experiencing Significant Delays Due to Raised Bridge",
-    "ShortDescription": "Green and Pink Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.",
+    "AlertId": "106883",
+    "Headline": "Brown Line Service Experiencing Significant Delays Due to Raised Bridge",
+    "ShortDescription": "Brown Line service is experiencing delays due to a raised bridge over the Chicago River, downtown.",
     "FullDescription": {
-      "#cdata-section": "<p>Green and Pink Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.</p>\r\n\r\n<p>Shuttle buses are available between Clinton and Clark/Lake to provide connecting service.</p>\r\n\r\n<p>Some trains may be held or turned back before reaching the bridge in order to maintain service across the remainder of the route. Listen for announcements and check train destination signs when boarding.</p>\r\n\r\n<p>We apologize for this temporary inconvenience and appreciate your patience while the Chicago Department of Transportation works to complete the bridge lift operation.&nbsp;<br />\r\nAllow extra travel time.&nbsp;</p>\r\n"
+      "#cdata-section": "<p>Brown Line service is experiencing delays due to a raised bridge over the Chicago River, downtown.</p>\r\n\r\n<p>Shuttle buses are available between Merchandise Mart and Clark/Lake to provide connecting service.<br />\r\n&nbsp;<br />\r\nSome trains may be held in stations or turned back towards Kimball before reaching the bridge to maintain service across the remainder of the route. Bus shuttle service is available at Merchandise Mart and Clark/Lake. Listen for announcements and check train destination signs when boarding. Crews are working to correct the problem to allow us to safely resume service.<br />\r\n&nbsp;<br />\r\nWe apology for this temporary inconvenience and appreciate your patience while the Dept. of Bridge works to complete the bridge lift operation.&nbsp; Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Significant Delays",
-    "EventStart": "2025-04-26T10:30:00",
+    "EventStart": "2025-04-26T10:50:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106881"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "aab05eba-6943-4e75-81f9-5b48089f2904"
-  },
-  {
-    "AlertId": "106882",
-    "Headline": "Blue Line Service Delayed at Belmont",
-    "ShortDescription": "Blue Line trains are standing at Belmont due to an unauthorized person on tracks.  Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are standing at Belmont due to an unauthorized person on tracks.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-04-26T10:41:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106882"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106883"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "R",
         "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "ce699289-ae6e-4b0d-a5d7-f96192d32f00"
+    "GUID": "26f1809f-98c9-47f7-bfcc-78e0747291bb"
   }
 ]
