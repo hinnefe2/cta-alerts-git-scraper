@@ -34,105 +34,71 @@
     "GUID": "d8151461-c753-438a-bc7b-4ceb9af7eb10"
   },
   {
-    "AlertId": "106885",
-    "Headline": "#95 95th Temporary Reroute at Damen/87th",
-    "ShortDescription": "#95 95th buses are temporarily rerouted via 95th, Western, 83rd and Damen into the Terminal: due to, street blockage near Damen/87th.",
+    "AlertId": "106892",
+    "Headline": "#9 Ashland Temporary Reroute at 69th/Ashland",
+    "ShortDescription": "9 Ashland buses are temporarily rerouted in both directions via Ashland, Marquette, Damen, 71st and Ashland, due to street blockage near 69th/Ashland.",
     "FullDescription": {
-      "#cdata-section": "<p>#95 95th buses are temporarily rerouted via 95th, Western, 83rd and Damen into the Terminal: due to, street blockage near Damen/87th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#9 Ashland buses are temporarily rerouted in both directions via Ashland, Marquette, Damen, 71st, then resume their normal route on Ashland, due to street blockage near 69th/Ashland.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-04-26T12:46:00",
+    "EventStart": "2025-04-27T03:21:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106885"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106892"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "95th",
-        "ServiceId": "95",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/95/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "9040b3da-cb6a-41be-8fc5-f82b148a89ba"
-  },
-  {
-    "AlertId": "106890",
-    "Headline": "#14 Jeffrey Express Temporary Southbound Reroute near Lake Shore/63rd-67th",
-    "ShortDescription": "SB 14 Jeffrey Express buses are temporarily rerouted via Lake Shore Drive, 57th, Stony Island, 67th and Jeffrey due to street blockage near Lake Shore/63rd-67th",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong> #14 Jeffrey Express buses are temporarily rerouted via Lake Shore Drive, 57th,&nbsp;Stony Island, 67th, then resume their normal route on Jeffrey due to street blockage near Lake Shore/63rd-67th.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-04-26T22:45:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106890"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jeffery Jump",
-        "ServiceId": "J14",
-        "ServiceBackColor": "0065BD",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/j14/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a9298882-62c0-4bc5-a273-f42d795a987c"
-  },
-  {
-    "AlertId": "106891",
-    "Headline": "#82 Kimball/Homan Temporary Southbound Reroute near Douglas/Homan",
-    "ShortDescription": "Southbound 82 Kimball/Homan buses are rerouted via Kimball, 16th, Central Park, then resume their normal route on Homan due to street blockage nr Douglas/Homan.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound </strong>#82 Kimball/Homan buses are temporarily rerouted via Kimball, 16th, Central Park, then resume their normal route on Homan due to street blockage near Douglas/Homan.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-04-27T01:14:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106891"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
+        "ServiceName": "Ashland",
+        "ServiceId": "9",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
+          "#cdata-section": "http://www.transitchicago.com/bus/9/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "28bf568b-91f4-4389-b74d-ad1f04f1e1a2"
+    "GUID": "65cbc171-f9f1-4e65-908e-d577bca7a286"
+  },
+  {
+    "AlertId": "106893",
+    "Headline": "#67 67th/69th/71st Temporary Reroute at 69th/Ashland",
+    "ShortDescription": "67 67th/69th/71st buses are temporarily rerouted via 69th, Damen, 71st, Loomis, 69th, then resume their normal route, due to street blockage near 69th/Ashland.",
+    "FullDescription": {
+      "#cdata-section": "<p><span style=\"font-weight: bolder;\">How does this affect my trip?</span></p>\r\n\r\n<p>#67 67th/69th/71st buses are temporarily rerouted in both directions via 69th, Damen, 71st, Loomis, 69th, then resume their normal route, due to street blockage near 69th/Ashland.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-04-27T03:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106893"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "67th-69th-71st",
+        "ServiceId": "67",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/67/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "dac52bf9-b7bb-4d3f-b99e-f70ec2a04937"
   }
 ]
