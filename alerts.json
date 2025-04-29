@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "d8151461-c753-438a-bc7b-4ceb9af7eb10"
+  },
+  {
+    "AlertId": "106921",
+    "Headline": "Harlem-bound Green Line Service Delayed at 51st",
+    "ShortDescription": "Harlem-bound Green Line trains are standing at 51st. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green Line trains are&nbsp;standing&nbsp;at 51st due to fire department activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p><u><strong>Such as:</strong></u></p>\r\n\r\n<p><strong>#29 State</strong></p>\r\n\r\n<p><strong>#3 King Drive</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "88",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption / Major Delays",
+    "EventStart": "2025-04-28T20:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106921"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "51st",
+          "ServiceId": "40130",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=7"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "00622dd6-e027-422f-8944-1cea0fe9712d"
   }
 ]
