@@ -79,5 +79,52 @@
     },
     "ttim": "0",
     "GUID": "58d24adb-89fc-47b1-b6d5-511c06997e63"
+  },
+  {
+    "AlertId": "106942",
+    "Headline": "#8A South Halsted and #108 Halsted/95th Temporary Northbound Reroute near Halsted/107th-104th",
+    "ShortDescription": "NB 8A South Halsted and 108 Halsted/95th buses are rerouted via Halsted, 107th, Vincennes, 103rd and Halsted, due to street blockage near Halsted/107th-104th.",
+    "FullDescription": {
+      "#cdata-section": "<p><span style=\"font-weight: bolder;\">How does this affect my trip?</span></p>\r\n\r\n<p><strong>Northbound</strong> #8A South Halsted and #108 Halsted/95th buses are temporarily rerouted via Halsted, 107th, Vincennes, 103rd, then resume their normal route on Halsted, due to street blockage near Halsted/107th-104th.</p>\r\n\r\n<p><strong>Southbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-04-30T07:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106942"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Halsted",
+          "ServiceId": "8A",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/8a/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Halsted/95th",
+          "ServiceId": "108",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "565a5c",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/108/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "640d0c5a-3c94-4a3f-98a9-d4c972dcbef3"
   }
 ]
