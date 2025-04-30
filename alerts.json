@@ -126,5 +126,73 @@
     },
     "ttim": "0",
     "GUID": "e30fcfae-6878-4e8e-bd5c-18450c38ab56"
+  },
+  {
+    "AlertId": "106944",
+    "Headline": "#95 95th Temporary Reroute at 92nd/Exchange",
+    "ShortDescription": "95 95th buses are rerouted in both directions via 93rd, South Chicago, Commercial, 92nd, then resume their normal route due to street blockage nr 92nd/Exchange.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#95 95th buses are temporarily rerouted in both directions via 93rd, South Chicago, Commercial, 92nd, then resume their normal route due to street blockage near 92nd/Exchange.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-04-30T10:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106944"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "95th",
+        "ServiceId": "95",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/95/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7a592898-c590-4fab-bdb9-19015f4ecdde"
+  },
+  {
+    "AlertId": "106945",
+    "Headline": "#30 South Chicago Temporary Reroute at 92nd/Exchange",
+    "ShortDescription": "30 South Chicago buses are temp. rerouted via South Chicago, 91st, Commercial, 92nd, then resume their normal route, due to street blockage near 92nd/Exchange.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#30 South Chicago buses are temporarily rerouted in both directions via South Chicago, 91st, Commercial, 92nd, then resume their normal route, due to street blockage near 92nd/Exchange.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-04-30T10:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=106945"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Chicago",
+        "ServiceId": "30",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/30/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a848f380-bc17-4de5-a9ce-061ba90d5b9f"
   }
 ]
