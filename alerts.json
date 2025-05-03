@@ -79,5 +79,52 @@
     },
     "ttim": "0",
     "GUID": "73a17bac-8c22-4351-a6c4-27b9cf38f7cb"
+  },
+  {
+    "AlertId": "107005",
+    "Headline": "Green and Pink Line Service Experiencing Significant Delays Due to Raised Bridge",
+    "ShortDescription": "Green and Pink Line service is experiencing delays due to a raised bridge at the Chicago River, downtown",
+    "FullDescription": {
+      "#cdata-section": "<p>Green and Pink&nbsp;Line service is experiencing delays due to a raised bridge at the Chicago River, downtown.</p>\r\n\r\n<p>Some trains may be either held or&nbsp;rerouted before reaching the bridge in order&nbsp;to maintain service across the remainder of the route. Listen for announcements and check train destination signs when boarding.</p>\r\n\r\n<p>We apologize for this temporary inconvenience and appreciate your patience while the Chicago Department of Transportation works to complete the bridge operation. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-05-03T09:30:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107005"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1620cdd3-4559-446c-9552-290bb82df875"
   }
 ]
