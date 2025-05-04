@@ -79,5 +79,39 @@
     },
     "ttim": "0",
     "GUID": "f0fdffd3-01d9-4d01-afbf-3f973829d517"
+  },
+  {
+    "AlertId": "107014",
+    "Headline": "Green Line Delays, Limited Service Between Garfield & Cottage Grove",
+    "ShortDescription": "Green Line service experiencing delays; no service via train between Cottage Grove & Garfield.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green Line trains are experiencing delays due to a loss of power. We are working to run as much service as frequently and as evenly as possible.</p>\r\n\r\n<p>Currently, ALL Green Line trains are operating in as follows:</p>\r\n\r\n<ul>\r\n\t<li><strong>between&nbsp;Harlem/Lake and Ashland/63rd in both directions, and,</strong></li>\r\n\t<li><strong>&nbsp;and shuttle buses will provide connecting service between Garfield station and Cottage Grove, in both directions.</strong></li>\r\n</ul>\r\n\r\n<p>Change trains at&nbsp;Garfield for continuing service between the East 63rd branch and trains running the remainder of the Green Line route between Harlem/Lake, downtown and Ashland/63rd.</p>\r\n\r\n<p>See station personnel for further assistance&nbsp;and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "88",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption / Major Delays",
+    "EventStart": "2025-05-04T04:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107014"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c384851f-2f2b-4dfe-8334-6e0641788ebb"
   }
 ]
