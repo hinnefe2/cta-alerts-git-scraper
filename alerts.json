@@ -119,12 +119,12 @@
     "Headline": "Harlem-bound Green Line Service Delayed at Adams/Wabash",
     "ShortDescription": "Harlem-bound Green Line trains are standing at /Adams/Wabash. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green&nbsp; Line trains are&nbsp;standing&nbsp;at/Adams/Wabash&nbsp;due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Harlem-bound Green&nbsp; Line trains are&nbsp;standing with major delays&nbsp;at/Adams/Wabash&nbsp;due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "SeverityScore": "88",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption / Major Delays",
     "EventStart": "2025-05-09T12:41:00",
     "EventEnd": null,
     "TBD": "1",
@@ -203,6 +203,53 @@
       ]
     },
     "ttim": "0",
-    "GUID": "aa6b8791-9b8f-4b1d-bcd5-d9cbbb9fdc79"
+    "GUID": "78be377e-2591-468d-a0c7-47a293ceaabe"
+  },
+  {
+    "AlertId": "107118",
+    "Headline": "Brown Line Trains Rerouted Downtown",
+    "ShortDescription": "Brown Line trains are running on the Inner Loop.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line Trains are being rerouted to the Inner Loop.</p>\r\n\r\n<p>We apologize for this inconvenience and are working to restore service as quickly as possible.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<h4><span style=\"font-weight: bolder;\">Brown Line service&nbsp;to downtown and Midway</span></h4>\r\n\r\n<p>After leaving Merchandise Mart, Loop-bound Brown Line trains will be routed onto the Inner Loop (clockwise)&nbsp;track and make all stops from Clark/Lake, State/Lake, Washington/Wabash, Adams/Wabash, Library, LaSalle, Quincy, and Washington/Wells.&nbsp;</p>\r\n\r\n<h4>Where to board</h4>\r\n\r\n<p>Board Brown Line trains to Kimball on the Orange Line side.</p>\r\n"
+    },
+    "SeverityScore": "75",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Significant Delays / Reroute",
+    "EventStart": "2025-05-09T12:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107118"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Clark/Lake",
+          "ServiceId": "40380",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=43"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "0923ce2d-7f39-46d7-b870-aa8dc8000635"
   }
 ]
