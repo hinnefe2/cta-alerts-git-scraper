@@ -81,37 +81,37 @@
     "GUID": "35e14fd7-801a-4226-a000-775a84bd9667"
   },
   {
-    "AlertId": "107138",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running with residual delays following an earlier signal problem near UIC Halsted. Service is resuming, allow extra time.",
+    "AlertId": "107139",
+    "Headline": "#152 Addison Temporary Reroute at Addison/ Freemont",
+    "ShortDescription": "152 Addison buses are temporarily rerouted via Addison, Clark, Belmont, Halsted and Addison, due to street blockage near Addison/Freemont.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with residual delays following an earlier signal problem near UIC Halsted.</p>\r\n\r\n<p><br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#152 Addison&nbsp; buses are temporarily rerouted in both directions via Addison, Clark, Belmont, Halsted, then resume the normal route at Addison, due to street blockage near Addison/Freemont.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-05-10T18:47:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-05-10T19:20:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107138"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107139"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Addison",
+        "ServiceId": "152",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/152/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "c2cf2be9-8c89-4d45-9765-b1a5925548c4"
+    "GUID": "69f99118-d193-4e62-a461-2d7751dd322c"
   }
 ]
