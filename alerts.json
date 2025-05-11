@@ -45,5 +45,52 @@
     },
     "ttim": "0",
     "GUID": "38e501db-fda0-4d72-a610-7ce46332da99"
+  },
+  {
+    "AlertId": "107154",
+    "Headline": "Loop 'L' trains Line Service Delayed at Washington/Wells ",
+    "ShortDescription": "Loop 'L' trains are standing at Washington/Wells due to a sick customer.\r\nPersonnel are working to restore service. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop &#39;L&#39; trains are standing at Washington/Wells due to a sick customer.</p>\r\n\r\n<p><b><span style=\"font-size: 12pt; line-height: 115%; font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">At this time, consider other alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines</span></b></p>\r\n\r\n<p>Personnel are working to restore service.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-05-11T17:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107154"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c2db984e-83f1-4103-bd30-bd7c60f1a6ef"
   }
 ]
