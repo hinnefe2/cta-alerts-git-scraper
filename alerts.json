@@ -81,37 +81,37 @@
     "GUID": "35e14fd7-801a-4226-a000-775a84bd9667"
   },
   {
-    "AlertId": "107139",
-    "Headline": "#152 Addison Temporary Reroute at Addison/ Freemont",
-    "ShortDescription": "152 Addison buses are temporarily rerouted via Addison, Clark, Belmont, Halsted and Addison, due to street blockage near Addison/Freemont.",
+    "AlertId": "107140",
+    "Headline": "Blue Line Service Delayed at Logan Square",
+    "ShortDescription": "Blue Line trains are standing at Logan Square due to a medical emergency on the tracks. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>#152 Addison&nbsp; buses are temporarily rerouted in both directions via Addison, Clark, Belmont, Halsted, then resume the normal route at Addison, due to street blockage near Addison/Freemont.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are standing at Logan Square due to a medical emergency on the tracks.&nbsp;</p>\r\n\r\n<p><strong>Shuttle buses have been requested between O&#39;Hare and LaSalle&nbsp;to provide connecting service.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p><strong>#56 Milwaukee</strong></p>\r\n\r\n<p><strong>#76 Diversey</strong></p>\r\n\r\n<p><strong>#77 Belmont</strong></p>\r\n\r\n<p><strong>#82 Kimball/Homan</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-10T19:20:00",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-05-10T20:21:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107139"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107140"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Addison",
-        "ServiceId": "152",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/152/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "69f99118-d193-4e62-a461-2d7751dd322c"
+    "GUID": "86132d17-adeb-4928-9d1a-c5fc5ff990d9"
   }
 ]
