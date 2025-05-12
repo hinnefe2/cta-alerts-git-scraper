@@ -79,5 +79,39 @@
     },
     "ttim": "0",
     "GUID": "3e42cab7-9958-4555-a9e5-3b8d61eefd32"
+  },
+  {
+    "AlertId": "107179",
+    "Headline": "Red Line Service Running with Delays",
+    "ShortDescription": "Red Line trains are running w/residual delays and congestion due to heavy train traffic.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running w/residual delays and congestion due to heavy train traffic.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-05-12T17:44:00",
+    "EventEnd": "2025-05-12T18:14:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107179"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e4b98414-2d77-47b8-9e42-00cd137cf1b7"
   }
 ]
