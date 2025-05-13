@@ -181,5 +181,52 @@
     },
     "ttim": "0",
     "GUID": "ba2d2609-9c7f-4750-a2d4-547a40868859"
+  },
+  {
+    "AlertId": "107190",
+    "Headline": "#29 State Temporary Reroute near Lafayette/76th",
+    "ShortDescription": "29 State and 75 74th/75th buses temp. rerouted SB: Lafayette, 75th, Vincennes, 79th and Lafayette ; EB: 75th, Vincennes, 79th and State near Lafayette/76th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#29 State and #75 74th/75th buses are temporarily rerouted in both directions near Lafayette/76th, due to police activity near Lafayette/76th.</p>\r\n\r\n<p>Southbound #29 State&nbsp;buses will operate via Lafayette, 75th, Vincennes, 79th, Lafayette and over regular route.</p>\r\n\r\n<p>Eastbound #75 74th/75th buses will operate via 75th, Vincennes, 79th, State and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-05-13T12:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107190"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "State",
+          "ServiceId": "29",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/29/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "74th-75th",
+          "ServiceId": "75",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/75/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5e65e088-8b6b-4d42-83a8-b97295b64fba"
   }
 ]
