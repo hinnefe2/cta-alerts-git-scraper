@@ -150,15 +150,15 @@
   },
   {
     "AlertId": "107197",
-    "Headline": "63rd-bound Green Line Service Delayed near Roosevelt",
-    "ShortDescription": "63rd-bound Green Line trains are standing near Roosevelt due to signal problems. Crews working to restore service.",
+    "Headline": "63rd-bound Green Line Delays",
+    "ShortDescription": "63rd-bound Green Line trains are running w/residual delays and congestion following earlier signal problems near Roosevelt. Service resuming, allow extra time",
     "FullDescription": {
-      "#cdata-section": "<p>63rd-bound Green Line trains are standing near Roosevelt due to signal problems.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>63rd-bound Green Line trains are running with residual delays and congestion following earlier signal problems near Roosevelt.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2025-05-13T15:18:00",
     "EventEnd": null,
     "TBD": "1",
@@ -180,19 +180,19 @@
       }
     },
     "ttim": "0",
-    "GUID": "c3d20fc8-75ab-4328-b043-9db39000c17e"
+    "GUID": "c81ae16a-6c16-4350-91a7-15122525f53d"
   },
   {
     "AlertId": "107198",
-    "Headline": "Orange Line Service Delayed near Roosevelt",
-    "ShortDescription": "Orange Line trains are standing near Roosevelt due to signal problems. Crews working to restore service.",
+    "Headline": "Orange Line Delays",
+    "ShortDescription": "Orange Line trains are running with residual delays and congestion following earlier signal problems near Roosevelt.  Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Orange Line trains are standing near Roosevelt due to signal problems.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Orange Line trains are running with residual delays and congestion following earlier signal problems near Roosevelt.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2025-05-13T15:21:00",
     "EventEnd": null,
     "TBD": "1",
@@ -214,6 +214,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "0930b192-8418-40f4-adb9-de6e8cfe06c9"
+    "GUID": "31810afb-5aa5-4ac3-9ca8-5eccf803fe44"
+  },
+  {
+    "AlertId": "107199",
+    "Headline": "Trains bypassing UIC-Halsted Station",
+    "ShortDescription": "Blue Line trains are running, but not stopping at UIC-Halsted due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running, but not stopping at UIC-Halsted due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2025-05-13T15:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107199"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b039c5fc-f12f-4c92-b60c-a6ae02d59af6"
   }
 ]
