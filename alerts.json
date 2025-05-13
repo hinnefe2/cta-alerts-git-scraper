@@ -47,40 +47,6 @@
     "GUID": "38e501db-fda0-4d72-a610-7ce46332da99"
   },
   {
-    "AlertId": "107167",
-    "Headline": "#87 87th Temporary Eastbound Reroute near 87th/Baltimore",
-    "ShortDescription": "Eastbound 87 87th buses are temporarily rerouted via 87th, Houston, 90th, Buffalo and 91st due to street blockage near 87th/Baltimore.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Eastbound</strong> #87 87th buses are temporarily rerouted via 87th, Houston, 90th, Buffalo and 91st due to street blockage near 87th/Baltimore.</p>\r\n\r\n<p><strong>Westbound </strong>buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-12T09:24:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107167"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "87th",
-        "ServiceId": "87",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/87/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "cbd8af6f-010d-42cd-8d14-5d4a2102eb21"
-  },
-  {
     "AlertId": "107183",
     "Headline": "#22 Clark Temporary Reroute at Clark/Addison.",
     "ShortDescription": "22 Clark buses are temp rrtd in both directions via Clark, Racine, Belmont, then resume their normal route on Clark, due to street blockage near Clark/Addison.",
@@ -181,5 +147,73 @@
     },
     "ttim": "0",
     "GUID": "ba2d2609-9c7f-4750-a2d4-547a40868859"
+  },
+  {
+    "AlertId": "107197",
+    "Headline": "63rd-bound Green Line Service Delayed near Roosevelt",
+    "ShortDescription": "63rd-bound Green Line trains are standing near Roosevelt due to signal problems. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>63rd-bound Green Line trains are standing near Roosevelt due to signal problems.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-05-13T15:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107197"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c3d20fc8-75ab-4328-b043-9db39000c17e"
+  },
+  {
+    "AlertId": "107198",
+    "Headline": "Orange Line Service Delayed near Roosevelt",
+    "ShortDescription": "Orange Line trains are standing near Roosevelt due to signal problems. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange Line trains are standing near Roosevelt due to signal problems.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-05-13T15:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107198"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0930b192-8418-40f4-adb9-de6e8cfe06c9"
   }
 ]
