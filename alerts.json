@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "ba2d2609-9c7f-4750-a2d4-547a40868859"
+  },
+  {
+    "AlertId": "107212",
+    "Headline": "#26 South Shore Express Temporary Northbound Reroute near Ewing/Machinaw",
+    "ShortDescription": "Northbound 26 South Shore Express buses are temporarily rerouted via Ewing, 95th, South Chicago, Harbor Ave and Mackinaw: due to, near Ewing/Mackinaw.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Northbound #26 South Shore Express buses are temporarily rerouted via Ewing, 95th, South Chicago, Harbor Ave, Mackinaw and over regular route, due to street blockage near Ewing/Mackinaw.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-05-14T09:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107212"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Chicago",
+          "ServiceId": "30",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/30/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "bd3d419e-4bc8-4bc9-9006-f6532f8d53bd"
   }
 ]
