@@ -68,40 +68,6 @@
     "GUID": "c1e7e9af-299e-4fff-8621-9fa5984a82ef"
   },
   {
-    "AlertId": "107239",
-    "Headline": "#44 Wallace/Racine Temporary Southbound Reroute near Racine/59th",
-    "ShortDescription": "Southbound 44 Wallace/Racine buses are temporarily rerouted via Racine, Garfield, Halsted, 59th & Racine due to police activity near Racine/59th.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #44 Wallace/Racine&nbsp;buses are temporarily rerouted via Racine, Garfield, Halsted, 59th, then resume their&nbsp;normal route on Racine,&nbsp;due to police activity&nbsp;near Racine/59th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-14T20:02:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107239"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Wallace/Racine",
-        "ServiceId": "44",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/44/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c069f931-6f3e-4e57-8c85-76a14af70016"
-  },
-  {
     "AlertId": "107240",
     "Headline": "#22 Clark Temporary Reroute at Clark/Addison",
     "ShortDescription": "22 Clark buses are temporarily rerouted in both directions via Clark, Racine, Belmont and Clark, due to street blockage near Clark/Addison.",
@@ -168,5 +134,52 @@
     },
     "ttim": "0",
     "GUID": "752af302-f9ed-4422-b9e3-1b7b71807346"
+  },
+  {
+    "AlertId": "107242",
+    "Headline": "#9 Ashland & #X9 Ashland Express Temporary Southbound Reroute near Ashland/Archer",
+    "ShortDescription": "SB #9 Ashland & #X9 Ashland Express buses are temporarily rerouted via Ashland, Archer, Damen,35th and Ashland, due to police activity near Ashland/Archer.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #9 Ashland &amp; #X9 Ashland Express buses are temporarily rerouted via Ashland, Archer, Damen, 35th, then resume their normal route on Ashland, due to police activity near Ashland/Archer.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-05-14T20:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107242"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "a9be48ca-8081-40fd-8ed8-54a9712ecd34"
   }
 ]
