@@ -34,74 +34,6 @@
     "GUID": "c1e7e9af-299e-4fff-8621-9fa5984a82ef"
   },
   {
-    "AlertId": "107268",
-    "Headline": "#93 California/Dodge Temporary Reroute at California/Catalpa",
-    "ShortDescription": "93 California/Dodge buses are temporarily rerouted via Kedzie, Bryn Mawr & California, due to street blockage near California/Catalpa.",
-    "FullDescription": {
-      "#cdata-section": "<p>#93 California/Dodge buses are temporarily rerouted in both directions via Kedzie, Bryn Mawr, then resume their normal route at&nbsp;California, due to street blockage near California/Catalpa.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-15T21:10:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107268"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "California/Dodge",
-        "ServiceId": "93",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/93/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4789229f-d21e-4925-af86-bd4c6e7b42f8"
-  },
-  {
-    "AlertId": "107269",
-    "Headline": "#75 74th-75th Temporary Reroute at 75th/Vernon",
-    "ShortDescription": "75 74th-75th buses are temporarily rerouted via 75th, Cottage Grove, 76th, King Drive & 75th, due to fire department activity near 75th/Vernon.",
-    "FullDescription": {
-      "#cdata-section": "<p>#75 74th-75th buses are temporarily rerouted in both directions via 75th, Cottage Grove, 76th, King Drive, then resume their normal route on&nbsp;75th, due to fire department activity&nbsp;near 75th/Vernon.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-15T21:28:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107269"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "74th-75th",
-        "ServiceId": "75",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/75/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "1024225c-e9b3-4663-9be3-28304437da6d"
-  },
-  {
     "AlertId": "107270",
     "Headline": "#8A South Halsted Temporary Reroute near Halsted/Emerald",
     "ShortDescription": "8A S. Halsted buses temp. rrtd NB: Halsted, 95th, State, 87th, Halsted; SB: Halsted, 87th, Lafayette, 95th, Halsted; due to street blockage near Halsted/Emerald",
@@ -351,5 +283,39 @@
     },
     "ttim": "0",
     "GUID": "785a7888-38c3-4a57-90c6-c53e0bc0deb9"
+  },
+  {
+    "AlertId": "107284",
+    "Headline": "#100 Jeffery Manor Express Temporary Both Reroute near 99th/Yates",
+    "ShortDescription": "#100 Jeffery Manor Express buses are temporarily rerouted in both direction via 95th, Torrence, 99th, Yates, 100th due to street blockage near 99th/Yates.",
+    "FullDescription": {
+      "#cdata-section": "<p>#100 Jeffery Manor Express buses are temporarily rerouted in both direction via 95th, Torrence, 99th, Yates, 100th due to street blockage near 99th/Yates.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-05-16T07:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107284"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Manor Express",
+        "ServiceId": "100",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/100/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4d51e3e0-4ab9-48ee-95c2-374ddfd3e47b"
   }
 ]
