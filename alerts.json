@@ -272,37 +272,50 @@
     "GUID": "0f4a274a-78c2-4921-8ca8-77505326f56c"
   },
   {
-    "AlertId": "107295",
-    "Headline": "#92 Foster Temporary Reroute near Foster/Lakewood",
-    "ShortDescription": "92 Foster buses temp. rrtd EB: Foster, Clark, Lawrence, Sheridan, Foster; WB: Foster, Sheridan, Lawrence, Foster; due to street blockage near Foster/Lakewood.",
+    "AlertId": "107297",
+    "Headline": "Howard-bound Red Line Service Delayed at Loyola",
+    "ShortDescription": "Howard-bound Red Line trains are standing at Loyola. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>#92 Foster buses are temporarily rerouted in both directions, due to due to street blockage near Foster/Lakewood.</p>\r\n\r\n<p>Eastbound buses will operate via Foster, Clark, Lawrence, Sheridan, then resume their normal route on&nbsp;Foster.</p>\r\n\r\n<p>Westbound buses will operate via Foster, Sheridan, Lawrence, then resume their normal route on&nbsp;Foster.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red&nbsp;Line trains are&nbsp;standing&nbsp;at Loyola due to debris on the tracks.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-16T16:38:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-05-16T18:25:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107295"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107297"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Foster",
-        "ServiceId": "92",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/92/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Loyola",
+          "ServiceId": "41300",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=95"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "9a089810-8c04-4c0a-ad43-f265981c426c"
+    "GUID": "a2d5f78e-ad87-408b-aa5f-ca28a1e0a1eb"
   }
 ]
