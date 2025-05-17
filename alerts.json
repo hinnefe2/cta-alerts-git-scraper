@@ -136,40 +136,6 @@
     "GUID": "5b1e6b91-91bc-4364-b0a1-781902ca8b5b"
   },
   {
-    "AlertId": "107281",
-    "Headline": "#21 Cermak Temporary Reroute at Cermak/Racine",
-    "ShortDescription": "Revised: 21 Cermak buses temp rerouted via Cermak, Halsted, 18th, Loomis, then resume their normal route on Cermak, due to street blockage near Cermak/Racine.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>Revised:</strong> #21 Cermak buses are temporarily rerouted in both directions via Cermak, Halsted, 18th, Loomis, then resume their normal route on Cermak, due to street blockage near Cermak/Racine.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-16T07:31:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107281"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cermak",
-        "ServiceId": "21",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/21/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e84688d7-4453-4a79-9fc8-a4e69410f751"
-  },
-  {
     "AlertId": "107282",
     "Headline": "#78 Montrose Temporary Eastbound Reroute near Montrose/Laverne",
     "ShortDescription": "Eastbound #78 Montrose buses are temporarily rerouted via Montrose, Laramie, Irving Park, Cicero, Montrose, due to street blockage near Montrose/Laverne.",
@@ -338,52 +304,5 @@
     },
     "ttim": "0",
     "GUID": "aa4b5f5a-291f-4b06-8d85-68487673f4ff"
-  },
-  {
-    "AlertId": "107301",
-    "Headline": "Howard-bound Red Line Service Running with Delays",
-    "ShortDescription": "Howard-bound Red Line trains are running with delays near 35th.",
-    "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red&nbsp;Line&nbsp;trains are running with delays&nbsp;near 35th&nbsp;due to an earlier door problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-05-16T19:08:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107301"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Sox-35th",
-          "ServiceId": "40190",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=129"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "c698a97e-c635-460e-9dac-27adaca25bc4"
   }
 ]
