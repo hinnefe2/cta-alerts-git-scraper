@@ -168,5 +168,52 @@
     },
     "ttim": "0",
     "GUID": "29893911-6a6c-4f64-b363-905eb90ab054"
+  },
+  {
+    "AlertId": "107305",
+    "Headline": "#75 74th/75th Temporary Reroute at 74th/Loomis",
+    "ShortDescription": "75 74th/75th buses are rerouted in both directions via 74th, Ashland, 76th, Racine, 74th, then resume their normal route, due to street blockage nr 74th/Loomis.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#75 74th/75th buses are temporarily rerouted in both directions via 74th, Ashland, 76th, Racine, 74th, then resume their normal route, due to street blockage near 74th/Loomis.</p>\r\n\r\n<p><strong>(Also affects #44Racine pull-ins)</strong></p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-05-16T21:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107305"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Wallace/Racine",
+          "ServiceId": "44",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/44/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "74th-75th",
+          "ServiceId": "75",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/75/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "70fd7034-ddc3-4217-af2c-bbaf6da9ba5f"
   }
 ]
