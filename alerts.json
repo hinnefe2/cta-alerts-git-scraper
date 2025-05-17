@@ -137,10 +137,10 @@
   },
   {
     "AlertId": "107281",
-    "Headline": "#21 Cermak Temporary Westbound Reroute near Cicero/Racine ",
-    "ShortDescription": "Westbound 21 Cermak buses are temporarily rerouted via Cermak, Halsted, 18th, Loomis, Cermak,  due to street blockage near Cicero/Racine.",
+    "Headline": "#21 Cermak Temporary Reroute at Cermak/Racine",
+    "ShortDescription": "Revised: 21 Cermak buses temp rerouted via Cermak, Halsted, 18th, Loomis, then resume their normal route on Cermak, due to street blockage near Cermak/Racine.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound #21 Cermak buses are temporarily rerouted via Cermak, Halsted, 18th, Loomis, Cermak and resume&nbsp; normal route on Cicero: due to street blockage near Cicero/Racine.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>Revised:</strong> #21 Cermak buses are temporarily rerouted in both directions via Cermak, Halsted, 18th, Loomis, then resume their normal route on Cermak, due to street blockage near Cermak/Racine.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -167,7 +167,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "6305368a-ec57-457d-907c-7868dc799537"
+    "GUID": "e84688d7-4453-4a79-9fc8-a4e69410f751"
   },
   {
     "AlertId": "107282",
@@ -270,5 +270,120 @@
     },
     "ttim": "0",
     "GUID": "0f4a274a-78c2-4921-8ca8-77505326f56c"
+  },
+  {
+    "AlertId": "107299",
+    "Headline": "#22 Clark Temporary Northbound Reroute near Dearborn/Polk",
+    "ShortDescription": "Northbound 22 Clark buses are temporarily rerouted via Clark, Polk, State, Harrison & Dearborn, due to street blockage near Dearborn/Polk.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #22 Clark&nbsp;buses are temporarily rerouted via Clark, Polk, State, Harrison and&nbsp;Dearborn, due to street blockage near Dearborn/Polk.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-05-16T19:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107299"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clark",
+        "ServiceId": "22",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/22/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0c3b2c0e-214e-4d5f-9094-c288fd633d6d"
+  },
+  {
+    "AlertId": "107300",
+    "Headline": "#62 Archer Temporary Northbound Reroute near Dearborn/Polk",
+    "ShortDescription": "Northbound 62 Archer buses are temporarily rerouted via State, Polk, Harrison & Dearborn, due to street blockage near Dearborn/Polk.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #62 Archer buses are temporarily rerouted via State, Polk, Harrison and&nbsp;Dearborn, due to street blockage near Dearborn/Polk.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-05-16T19:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107300"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Archer",
+        "ServiceId": "62",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/62/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "aa4b5f5a-291f-4b06-8d85-68487673f4ff"
+  },
+  {
+    "AlertId": "107301",
+    "Headline": "Howard-bound Red Line Service Running with Delays",
+    "ShortDescription": "Howard-bound Red Line trains are running with delays near 35th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red&nbsp;Line&nbsp;trains are running with delays&nbsp;near 35th&nbsp;due to an earlier door problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-05-16T19:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107301"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Sox-35th",
+          "ServiceId": "40190",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=129"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c698a97e-c635-460e-9dac-27adaca25bc4"
   }
 ]
