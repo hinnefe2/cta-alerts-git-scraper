@@ -170,50 +170,50 @@
     "GUID": "29893911-6a6c-4f64-b363-905eb90ab054"
   },
   {
-    "AlertId": "107305",
-    "Headline": "#75 74th/75th Temporary Reroute at 74th/Loomis",
-    "ShortDescription": "75 74th/75th buses are rerouted in both directions via 74th, Ashland, 76th, Racine, 74th, then resume their normal route, due to street blockage nr 74th/Loomis.",
+    "AlertId": "107310",
+    "Headline": "Kimball-bound Brown Line Service Delayed at Addison",
+    "ShortDescription": "Kimball-bound Brown Line trains are standing at Addison. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#75 74th/75th buses are temporarily rerouted in both directions via 74th, Ashland, 76th, Racine, 74th, then resume their normal route, due to street blockage near 74th/Loomis.</p>\r\n\r\n<p><strong>(Also affects #44Racine pull-ins)</strong></p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Kimball-bound Brown Line trains are standing at Addison due to a report of a minor fire on the track.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-16T21:44:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-05-17T00:32:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107305"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107310"
     },
     "ImpactedService": {
       "Service": [
         {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Wallace/Racine",
-          "ServiceId": "44",
-          "ServiceBackColor": "565a5c",
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Addison",
+          "ServiceId": "41440",
+          "ServiceBackColor": "62361b",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/44/"
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=16"
           }
         },
         {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "74th-75th",
-          "ServiceId": "75",
-          "ServiceBackColor": "565a5c",
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/75/"
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "70fd7034-ddc3-4217-af2c-bbaf6da9ba5f"
+    "GUID": "821b891a-f94c-492f-8cbd-f06bc746d8ea"
   }
 ]
