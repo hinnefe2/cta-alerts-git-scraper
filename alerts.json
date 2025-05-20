@@ -78,87 +78,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "e87d7c63-65a6-4ca9-b45c-3f31228b1848"
+    "GUID": "2c2d4254-4f9f-4a62-9e5c-edbbe80eb872"
   },
   {
-    "AlertId": "107376",
-    "Headline": "#151 Sheridan Temporary Southbound Reroute near Michigan/Adams",
-    "ShortDescription": "Southbound 151 Sheridan buses are temporarily rerouted via Michigan, Madison, State and Adams due to, street blockage near Michigan/Adams.",
+    "AlertId": "107388",
+    "Headline": "95th-bound Red Line Service Delayed at Jackson",
+    "ShortDescription": "95th-bound Red Line trains are standing at Jackson due to police activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Southbound #151 Sheridan buses are temporarily rerouted via Michigan, Madison, State and Adams due to, street blockage near Michigan/Adams.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th-bound Red Line trains are standing at Jackson due to police activity..</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-20T13:15:00",
-    "EventEnd": "2025-05-23T17:00:00",
-    "TBD": "0",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-05-20T17:44:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107376"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107388"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Sheridan",
-        "ServiceId": "151",
-        "ServiceBackColor": "565a5c",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "7ad6738d-16de-4c8d-85a1-08d8b492a08f"
-  },
-  {
-    "AlertId": "107377",
-    "Headline": "#7 Harrison, #126 Jackson Temporary Westbound Reroute near Michigan/Adams",
-    "ShortDescription": "Westbound 7 Harrison, 126 Jackson buses are temporarily rerouted via Michigan, Madison, State and Adams: due to, street blockage near Michigan/Adams",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #7 Harrison, #126 Jackson buses are temporarily rerouted via Michigan, Madison, State and Adams: due to, street blockage near Michigan/Adams</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-20T13:20:00",
-    "EventEnd": "2025-05-23T17:20:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107377"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Harrison",
-          "ServiceId": "7",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/7/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jackson",
-          "ServiceId": "126",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/126/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "798f8834-825d-48c7-b3fc-343289ec832f"
+    "GUID": "f20691ae-25f1-4820-bfd9-684f551671c9"
   }
 ]
