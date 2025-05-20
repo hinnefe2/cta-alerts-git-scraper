@@ -66,5 +66,120 @@
     },
     "ttim": "0",
     "GUID": "8a5ffea9-8873-434c-b5da-5426eef4da13"
+  },
+  {
+    "AlertId": "107374",
+    "Headline": "Howard-bound Subway Trains Rerouted to Elevated Tracks",
+    "ShortDescription": "Howard-bound Red Line subway trains are temporarily rerouted to the elevated tracks between Cermak and Fullerton due to police activity at Harrison.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line subway trains are temporarily rerouted to the elevated lines between&nbsp;Cermak-Chinatown and Fullerton due to police activity at Harrison.</p>\r\n\r\n<h4>Train service to Howard</h4>\r\n\r\n<p>After stopping at Cermak-Chinatown, Howard-bound trains will be diverted and will make the following elevated station stops:</p>\r\n\r\n<ul>\r\n\t<li>Roosevelt (elevated station west of Wabash; accessible)</li>\r\n\t<li>Adams/Wabash</li>\r\n\t<li>Washington/Wabash (accessible)</li>\r\n\t<li>State/Lake</li>\r\n\t<li>Clark/lake (accessible)</li>\r\n\t<li>Merchandise Mart (accessible)</li>\r\n\t<li>Chicago (at Franklin; accessible)</li>\r\n\t<li>Sedgwick (accessible)</li>\r\n\t<li>Armitage (accessible)</li>\r\n</ul>\r\n\r\n<p>Then, trains will stop at Fullerton and make all normal stops to Howard.</p>\r\n\r\n<p>Connections can be made between 95th/Dan Ryan-bound subway service and Howard-bound rerouted service via elevated lines at State/Lake (transfer to nearby elevated station, board on Brown Line side) and at Roosevelt (accessible).</p>\r\n\r\n<p>We apologize for the inconvenience and are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n\r\n<h4><span style=\"color: #c60c30\"><strong>95th/Dan Ryan-bound service is not affected.</strong></span></h4>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2025-05-20T13:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107374"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "be99e8cd-a0c8-4105-9d06-012de644dc9e"
+  },
+  {
+    "AlertId": "107375",
+    "Headline": "#1 Bronzeville/Union Station, #28 Stony Island Temporary Northbound Reroute near Michigan/Adams",
+    "ShortDescription": "NB 1 Bronzeville/Union Station, 28 Stony Island buses are temp. rerouted via Michigan, Madison, State and Adams: due to, street blockage near Michigan/Adams.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #1 Bronzeville/Union Station,# 28 Stony Island buses are temporarily rerouted via Michigan, Madison, State and Adams: due to, street blockage near Michigan/Adams.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-05-20T13:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107375"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stony Island",
+          "ServiceId": "28",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/28/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Bronzeville/Union Station",
+          "ServiceId": "1",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "565a5c",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/1/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e87d7c63-65a6-4ca9-b45c-3f31228b1848"
+  },
+  {
+    "AlertId": "107376",
+    "Headline": "#151 Sheridan Temporary Southbound Reroute near Michigan/Adams",
+    "ShortDescription": "Southbound 151 Sheridan buses are temporarily rerouted via Michigan, Madison, State and Adams due to, street blockage near Michigan/Adams.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #151 Sheridan buses are temporarily rerouted via Michigan, Madison, State and Adams due to, street blockage near Michigan/Adams.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-05-20T13:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107376"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Sheridan",
+        "ServiceId": "151",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/151/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "46778786-0f7f-4341-8aae-289a7022dba2"
   }
 ]
