@@ -36,9 +36,9 @@
   {
     "AlertId": "107479",
     "Headline": "#29 State and #22 Clark Temporary Northbound Reroute near Wacker/Dearborn",
-    "ShortDescription": "Northbound #29 State and  #22 Clark  buses are temporarily rerouted via Dearborn, Randolph, LaSalle, Illinois, due to street blockage near Wacker/Dearborn.",
+    "ShortDescription": "Northbound 29 State, 22 Clark, 151 Sheridan, 36 Broadway and 124 Navy Pier buses are temporarily rerouted due to street blockage near Wacker/Dearborn.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #29 State and&nbsp; #22 Clark&nbsp; buses are temporarily rerouted via Dearborn, Randolph, LaSalle, Illinois, then resume their normal route, due to street blockage near Wacker/Dearborn.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Northbound #29 State,&nbsp;#22 Clark, #151 Sheridan, #36 Broadway and&nbsp;#124 Navy Pier&nbsp;buses are temporarily rerouted due to street blockage near Wacker/Dearborn.</p>\r\n\r\n<p>#22 Clark buses will operate via Dearborn, Randolph, LaSalle, Illinois, Dearborn and over regular route.</p>\r\n\r\n<p>#29 State buses will operate via Dearborn, Randolph, LaSalle, Illinois and over regular route.</p>\r\n\r\n<p>#62 Archer buses will operate via Dearborn, Randolph, LaSalle, Wacker, Clark and over regular route.</p>\r\n\r\n<p>#151 Sheridan buses will operate via Dearborn, Randolph, LaSalle, Illinois, State and over regular route.</p>\r\n\r\n<p>#36 Broadway buses will operate via Dearborn, Randolph, LaSalle, Illinois, State and over regular route.</p>\r\n\r\n<p>#124 Navy Pier buses will operate via Dearborn, Randolph, LaSalle, Illinois and over regular route.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -74,10 +74,54 @@
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/bus/29/"
           }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Broadway",
+          "ServiceId": "36",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/36/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Navy Pier",
+          "ServiceId": "124",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/124/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "b090019c-0b3a-4893-ab20-5c5d9709a355"
+    "GUID": "a6693914-7113-486c-903c-47620a103f4c"
   }
 ]
