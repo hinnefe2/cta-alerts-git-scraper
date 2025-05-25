@@ -34,83 +34,50 @@
     "GUID": "53c9b115-644c-4bfa-b03e-8270821ec50a"
   },
   {
-    "AlertId": "107494",
-    "Headline": "Harlem- bound Green Line Delays",
-    "ShortDescription": "Harlem- bound Green Line trains are running w/residual delays following earlier signal problems near Adams/Wabash. Service is resuming, allow extra time.",
+    "AlertId": "107495",
+    "Headline": "Howard- bound Red Line Service Delayed at 95th",
+    "ShortDescription": "Howard- bound Red Line trains are standing at 95th due to a temporary limitation on available trains. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Harlem- bound Green Line trains are running w/residual delays following earlier signal problems near Adams/Wabash.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard- bound Red Line trains are standing at 95th due to a temporary limitation on available trains.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2025-05-25T07:29:00",
+    "EventStart": "2025-05-25T08:34:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107494"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107495"
     },
     "ImpactedService": {
       "Service": [
         {
           "ServiceType": "T",
           "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Adams/Wabash",
-          "ServiceId": "40680",
-          "ServiceBackColor": "e27ea6",
+          "ServiceName": "95th/Dan Ryan",
+          "ServiceId": "40450",
+          "ServiceBackColor": "c60c30",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=14"
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=13"
           }
         },
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+            "#cdata-section": "http://www.transitchicago.com/redline/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "4153c2a3-674a-495d-959c-8b673a3c03ea"
+    "GUID": "c75f9ddd-8782-4106-850f-a5993f5c18cb"
   }
 ]
