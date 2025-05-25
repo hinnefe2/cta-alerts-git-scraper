@@ -79,5 +79,52 @@
     },
     "ttim": "0",
     "GUID": "88d4b17c-3457-42c5-a592-617db350f318"
+  },
+  {
+    "AlertId": "107486",
+    "Headline": "#62 & #62H Archer/Harlem Temporary Southbound Reroute near Archer/Leamington",
+    "ShortDescription": "Southbound 62 Archer & 62H Archer/Harlem buses are temporarily rerouted near Archer/Leamington due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #62 Archer &amp; #62H Archer/Harlem buses are temporarily rerouted near Archer/Leamington due to police activity.</p>\r\n\r\n<p>Southbound #62&nbsp;Archer&nbsp;buses are temporarily rerouted via Archer, Cicero, 55th, Central and Archer: due to&nbsp;street blockage near Archer/Leamington.</p>\r\n\r\n<p>Southbound #62H Archer/Harlem buses are temporarily rerouted via Cicero, 55th, Central and Archer: due to&nbsp;street blockage near Archer/Leamington.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-05-24T19:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107486"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer/Harlem",
+          "ServiceId": "62H",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62h/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "2a7627cf-81f0-49d3-abe6-9503ee4ebbb1"
   }
 ]
