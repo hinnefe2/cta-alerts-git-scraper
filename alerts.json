@@ -1,83 +1,49 @@
 [
   {
-    "AlertId": "107524",
-    "Headline": "Temporary Southbound #49 Western Reroute near Western/Greenshaw",
-    "ShortDescription": "Southbound 49 Western buses are temporarily rerouted near Western/Greenshaw.",
+    "AlertId": "107526",
+    "Headline": "Forest-bound Park Line Service Running with Delays",
+    "ShortDescription": "Forest-bound Park Line trains are running with delays near Damen.",
     "FullDescription": {
-      "#cdata-section": "<p>Southbound #49 Western&nbsp;buses are temporarily rerouted via Western, Taylor, Ogden, Roosevelt, Western, and resume normal route, due to street blockage&nbsp;near&nbsp;Western/Greenshaw.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest-bound Park&nbsp;Line&nbsp;trains are running with delays near Damen&nbsp;due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-26T18:39:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-05-26T19:15:00",
+    "EventEnd": "2025-05-26T19:25:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107524"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Western",
-        "ServiceId": "49",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/49/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a3d8b319-f4d9-41f0-b5df-b046214cfc9d"
-  },
-  {
-    "AlertId": "107525",
-    "Headline": "Harlem-bound Green Line Service Delayed near Cermak",
-    "ShortDescription": "Harlem-bound Green trains are standing near Cermak. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green&nbsp;Line trains are&nbsp;standing&nbsp;near Cermak&nbsp;due to a signal problem.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-05-26T18:52:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107525"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107526"
     },
     "ImpactedService": {
       "Service": [
         {
           "ServiceType": "T",
           "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Cermak-McCormick Place",
-          "ServiceId": "41690",
-          "ServiceBackColor": "009b3a",
+          "ServiceName": "Damen",
+          "ServiceId": "40590",
+          "ServiceBackColor": "00a1de",
           "ServiceTextColor": "FFFFFF",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=149"
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=50"
           }
         },
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
           "ServiceTextColor": "FFFFFF",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "bc927839-ea51-467b-90bb-bfe93313eccd"
+    "GUID": "190eb9b7-4c29-4175-b491-7c1c3f51c3ac"
   }
 ]
