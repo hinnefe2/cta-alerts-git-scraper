@@ -147,5 +147,52 @@
     },
     "ttim": "0",
     "GUID": "7c931b9c-68a8-474e-a506-30157299e0ca"
+  },
+  {
+    "AlertId": "107636",
+    "Headline": "Loop-bound Purple Line Express and Loop-bound Brown Line Delays",
+    "ShortDescription": "Loop-bound Purple Line Express and Loop-bound Brown Line trains are running w/residual delays following an earlier mechanical problem at Armitage.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Purple Line Express and Loop-bound Brown Line trains are running w/residual delays following an earlier mechanical problem at Armitage</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-05-29T08:50:00",
+    "EventEnd": "2025-05-29T08:55:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107636"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "3f8d152a-f098-45cc-b8b7-f08fccc40751"
   }
 ]
