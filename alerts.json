@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "107637",
+    "Headline": "#31 31st Temporary Westbound Reroute near 31st/Rhodes",
+    "ShortDescription": "Westbound #31 31st buses are temporarily rerouted via Rhodes, 31st, Vernon, 32nd, King drive, due to street blockage near 31st/Rhodes.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #31 31st buses are temporarily rerouted via Rhodes, 31st, Vernon, 32nd, King drive, then resume their normal route on 31st due to&nbsp;street blockage near 31st/Rhodes.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-05-29T10:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107637"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "31st",
+        "ServiceId": "31",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/31/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "85853ff6-841a-46eb-a602-abaa838d38eb"
+  },
+  {
     "AlertId": "107598",
     "Headline": "#62 Archer Temporary Reroute near Kinzie/Dearborn",
     "ShortDescription": "62 Archer buses temp. rerouted SB Dearborn, Hubbard, Clark, Wacker and Dearborn; NB State, Wacker, Clark, Hubbard and Dearborn: near Kinzie/Dearborn..",
@@ -149,37 +183,37 @@
     "GUID": "7c931b9c-68a8-474e-a506-30157299e0ca"
   },
   {
-    "AlertId": "107637",
-    "Headline": "#31 31st Temporary Westbound Reroute near 31st/Rhodes",
-    "ShortDescription": "Westbound #31 31st buses are temporarily rerouted via Rhodes, 31st, Vernon, 32nd, King drive, due to street blockage near 31st/Rhodes.",
+    "AlertId": "107639",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at Monroe ",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Monroe due to a sick customer.  Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound #31 31st buses are temporarily rerouted via Rhodes, 31st, Vernon, 32nd, King drive, then resume their normal route on 31st due to&nbsp;street blockage near 31st/Rhodes.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Monroe due to a sick customer.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-29T10:24:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-05-29T12:16:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107637"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107639"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "31st",
-        "ServiceId": "31",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/31/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "85853ff6-841a-46eb-a602-abaa838d38eb"
+    "GUID": "891e59e7-bbbe-47fe-91da-7bd6cc920eab"
   }
 ]
