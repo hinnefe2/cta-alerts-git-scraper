@@ -115,37 +115,71 @@
     "GUID": "f05be34a-a82f-4fd2-bf0c-f79ed95361d1"
   },
   {
-    "AlertId": "107603",
-    "Headline": "#94 California Temporary Northbound Reroute near California/35th",
-    "ShortDescription": "Northbound 94 California   buses are temporarily rerouted via California, 35th, Western, 26th and California: due to, street blockage near California/35th.",
+    "AlertId": "107624",
+    "Headline": "#22 Clark Temporary Reroute at Clark/Addison",
+    "ShortDescription": "22 Clark buses are temporarily rerouted via Clark, Racine, Belmont, then resume their normal route on Clark, due to street blockage near Clark/Addison.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #94 California&nbsp; &nbsp;buses are temporarily rerouted via California, 35th, Western, 26th and California: due to, street blockage near California/35th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#22 Clark buses are temporarily rerouted in both directions via Clark, Racine, Belmont, then resume their normal route on Clark, due to street blockage near Clark/Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-28T11:49:00",
+    "EventStart": "2025-05-28T21:14:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107603"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107624"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "California",
-        "ServiceId": "94",
+        "ServiceName": "Clark",
+        "ServiceId": "22",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/california/"
+          "#cdata-section": "http://www.transitchicago.com/bus/22/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "37e90a65-0be7-460f-bfa1-a8accc3da9b1"
+    "GUID": "f325b5f1-eb0a-4dcf-8d55-181773519c74"
+  },
+  {
+    "AlertId": "107625",
+    "Headline": "#152 Addison Temporary Reroute at Clark/Addison",
+    "ShortDescription": "152 Addison buses are temp. rerouted via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison, due to street blockage near Clark/Addison",
+    "FullDescription": {
+      "#cdata-section": "<p>#152 Addison buses are temporarily rerouted in both directions via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison, due to street blockage near Clark/Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-05-28T21:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107625"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Addison",
+        "ServiceId": "152",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/152/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5ff8c250-b91d-4524-ae3b-3dbea9ee68bd"
   }
 ]
