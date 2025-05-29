@@ -1,37 +1,50 @@
 [
   {
-    "AlertId": "107637",
-    "Headline": "#31 31st Temporary Westbound Reroute near 31st/Rhodes",
-    "ShortDescription": "Westbound #31 31st buses are temporarily rerouted via Rhodes, 31st, Vernon, 32nd, King drive, due to street blockage near 31st/Rhodes.",
+    "AlertId": "107640",
+    "Headline": "#49B North Western & # 11 Lincoln/Sedgwick Temporary Southbound Reroute near Lincoln/Sunnyside",
+    "ShortDescription": "Southbound 49B North Western &11 Lincoln/Sedgwick buses are temporarily rerouted via Lincoln, Western and Foster, due to street blockage near Lincoln/Sunnyside.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound #31 31st buses are temporarily rerouted via Rhodes, 31st, Vernon, 32nd, King drive, then resume their normal route on 31st due to&nbsp;street blockage near 31st/Rhodes.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #49B North Western and # 11 Lincoln/Sedgwick buses are temporarily rerouted via Lincoln, Western and Foster, due to street blockage near Lincoln/Sunnyside.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-29T10:24:00",
+    "EventStart": "2025-05-29T12:26:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107637"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107640"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "31st",
-        "ServiceId": "31",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/31/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Lincoln",
+          "ServiceId": "11",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/11/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "North Western",
+          "ServiceId": "49B",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49b/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "85853ff6-841a-46eb-a602-abaa838d38eb"
+    "GUID": "2bf2d11d-ff5e-49ec-a10c-e31c626f438c"
   },
   {
     "AlertId": "107598",
@@ -113,53 +126,6 @@
     },
     "ttim": "0",
     "GUID": "04622e84-c337-4747-a555-3c5ffa4fe071"
-  },
-  {
-    "AlertId": "107640",
-    "Headline": "#49B North Western & # 11 Lincoln/Sedgwick Temporary Southbound Reroute near Lincoln/Sunnyside",
-    "ShortDescription": "Southbound 49B North Western &11 Lincoln/Sedgwick buses are temporarily rerouted via Lincoln, Western and Foster, due to street blockage near Lincoln/Sunnyside.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #49B North Western and # 11 Lincoln/Sedgwick buses are temporarily rerouted via Lincoln, Western and Foster, due to street blockage near Lincoln/Sunnyside.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-29T12:26:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107640"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Lincoln",
-          "ServiceId": "11",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/11/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "North Western",
-          "ServiceId": "49B",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/49b/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "2bf2d11d-ff5e-49ec-a10c-e31c626f438c"
   },
   {
     "AlertId": "107630",
