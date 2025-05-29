@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "107642",
+    "Headline": "54th/Cermak-bound Pink Line Delays",
+    "ShortDescription": "54th/Cermak-bound Pink Line trains are running with residual delays following an earlier track condition near Kostner. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>54th/Cermak-bound Pink Line trains are running with residual delays following an earlier track condition near Kostner.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-05-29T14:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107642"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ffa2d24f-6a79-407c-b91d-d48888ee9c41"
+  },
+  {
     "AlertId": "107640",
     "Headline": "#49B North Western & # 11 Lincoln/Sedgwick Temporary Southbound Reroute near Lincoln/Sunnyside",
     "ShortDescription": "Southbound 49B North Western &11 Lincoln/Sedgwick buses are temporarily rerouted via Lincoln, Western and Foster, due to street blockage near Lincoln/Sunnyside.",
@@ -194,39 +228,5 @@
     },
     "ttim": "0",
     "GUID": "7c931b9c-68a8-474e-a506-30157299e0ca"
-  },
-  {
-    "AlertId": "107642",
-    "Headline": "54th/Cermak-bound Pink Line Service Delayed at Kostner",
-    "ShortDescription": "54th/Cermak-bound Pink Line trains are standing at Kostner due to track condition. Crews working to restore service. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>54th/Cermak-bound Pink Line trains are standing at Kostner due to track condition. Crews working to restore service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-05-29T14:10:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107642"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f8321b4b-3c94-43b3-a21b-451246f472a2"
   }
 ]
