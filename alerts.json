@@ -115,6 +115,53 @@
     "GUID": "04622e84-c337-4747-a555-3c5ffa4fe071"
   },
   {
+    "AlertId": "107640",
+    "Headline": "#49B North Western & # 11 Lincoln/Sedgwick Temporary Southbound Reroute near Lincoln/Sunnyside",
+    "ShortDescription": "Southbound 49B North Western &11 Lincoln/Sedgwick buses are temporarily rerouted via Lincoln, Western and Foster, due to street blockage near Lincoln/Sunnyside.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #49B North Western and # 11 Lincoln/Sedgwick buses are temporarily rerouted via Lincoln, Western and Foster, due to street blockage near Lincoln/Sunnyside.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-05-29T12:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107640"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Lincoln",
+          "ServiceId": "11",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/11/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "North Western",
+          "ServiceId": "49B",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49b/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "2bf2d11d-ff5e-49ec-a10c-e31c626f438c"
+  },
+  {
     "AlertId": "107630",
     "Headline": "#50 Damen Temporary Northbound  Reroute near Damen/18th",
     "ShortDescription": "Northbound 50 Damen buses are temp rerouted via Damen, 18th, Ashland, Roosevelt, then resume their normal route on Damen, due to street blockage near Damen/18th",
@@ -181,39 +228,5 @@
     },
     "ttim": "0",
     "GUID": "7c931b9c-68a8-474e-a506-30157299e0ca"
-  },
-  {
-    "AlertId": "107639",
-    "Headline": "Forest Park-bound Blue Line Service Delayed at Monroe ",
-    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Monroe due to a sick customer.  Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Monroe due to a sick customer.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-05-29T12:16:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107639"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "891e59e7-bbbe-47fe-91da-7bd6cc920eab"
   }
 ]
