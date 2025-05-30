@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "107660",
+    "Headline": "Green and Orange Line Delays",
+    "ShortDescription": "Green and Orange Line trains are running with residual delays following earlier signal problems near Cermak. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green and Orange Line trains are running with residual delays following earlier signal problems near Cermak.&nbsp;</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-05-30T07:45:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107660"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "48c17563-cafe-49a4-be48-79a303f3a9ec"
+  },
+  {
     "AlertId": "107659",
     "Headline": "#56 Milwaukee Temporary Reroute at Milwaukee/Berteau",
     "ShortDescription": "#56 Milwaukee buses are temporarily rerouted in both directions via Milwaukee, Montrose, Cicero, due to street blockage near Milwaukee/Berteau.",
@@ -115,69 +162,22 @@
     "GUID": "04622e84-c337-4747-a555-3c5ffa4fe071"
   },
   {
-    "AlertId": "107660",
-    "Headline": "Green and Orange Line Service Delayed at Cermak",
-    "ShortDescription": "Green and Orange Line trains are experiencing delays due to signal problems near Cermak. Crews working to restore service.",
+    "AlertId": "107661",
+    "Headline": "Trains bypassing Grand ",
+    "ShortDescription": "Blue Line trains are running, but not stopping at Grand due to police investigation.",
     "FullDescription": {
-      "#cdata-section": "<p>Green and Orange Line trains are experiencing delays due to signal problems near Cermak.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Crews are working to correct the problem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are running, but not stopping at Grand due to police investigation.</p>\r\n\r\n<p>Blue Line trains will bypass Grand until further notice. Shuttle buses will be provided from Chicago to Clark/Lake..</p>\r\n\r\n<p><br />\r\nPersonnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "58",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-05-30T07:45:00",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2025-05-30T08:04:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107660"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "f95f0539-58f0-4301-962e-d1e18119e7ab"
-  },
-  {
-    "AlertId": "107658",
-    "Headline": "Blue Line Service Delayed  at Grand",
-    "ShortDescription": "Blue Line service has been temporarily suspended between Damen and Racine due to a medical emergency on our tracks.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line service has been temporarily suspended between Damen and LaSalle due to a medical emergency on our tracks.</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<p>between <strong>O&#39;Hare </strong>and <strong>Damen</strong>, and,</p>\r\n\r\n<p>between <strong>LaSalle </strong>and <strong>Forest Park</strong>, only.</p>\r\n\r\n<p>At this time, consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines while we work to provide alternatives.</p>\r\n\r\n<p><strong>This may include the #56 Milwaukee, #70 Division, #66Chicago, #65 Grand, #20 Madiso</strong>n&nbsp;</p>\r\n\r\n<p>As a result of the delay, shuttle buses are available&nbsp; from <strong>Damen </strong>to <strong>LaSalle </strong>to provide connecting&nbsp; service in both directions.</p>\r\n\r\n<p>See station personnel for further assistance and pay attention to announcements on trains and at stations for the latest service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2025-05-30T05:50:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107658"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107661"
     },
     "ImpactedService": {
       "Service": {
@@ -193,6 +193,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "b593a949-d74a-4676-8ef6-f5e605b48835"
+    "GUID": "49fd02f4-5343-4a25-a38e-cd02f4b57215"
   }
 ]
