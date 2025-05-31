@@ -1,71 +1,71 @@
 [
   {
-    "AlertId": "107659",
-    "Headline": "#56 Milwaukee Temporary Reroute at Milwaukee/Berteau",
-    "ShortDescription": "#56 Milwaukee buses are temporarily rerouted in both directions via Milwaukee, Montrose, Cicero, due to street blockage near Milwaukee/Berteau.",
+    "AlertId": "107697",
+    "Headline": " Loop- bound Brown Line Service Delayed at Merchandise Mart",
+    "ShortDescription": " Loop- bound Brown Line trains are standing at Merchandise Mart due to a door problem on a train. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>#56 Milwaukee buses are temporarily rerouted in both directions via Milwaukee, Montrose, Cicero then resume their normal route on Milwaukee, due to street blockage near Milwaukee/Berteau.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>&nbsp;Loop- bound Brown Line trains are standing at Merchandise Mart due to a door problem on a train.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-30T07:09:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-05-31T09:19:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107659"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107697"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Milwaukee",
-        "ServiceId": "56",
-        "ServiceBackColor": "565a5c",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/56/"
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "8f9b567b-ef3c-4e29-a7f6-9164391cc51e"
+    "GUID": "bcfb534e-0a2b-451d-be65-a568f85344aa"
   },
   {
-    "AlertId": "107696",
-    "Headline": "#18 16th/18th Temporary Eastbound  Reroute near  Michigan/11th",
-    "ShortDescription": "Eastbound #18 16th/18th buses are temporarily rerouted via Roosevelt, Indiana, 16th, Michigan, due to street blockage near Michigan/11th.",
+    "AlertId": "107698",
+    "Headline": " Loop- bound Brown Line Service Delayed at Merchandise Mart",
+    "ShortDescription": " Loop- bound Brown Line trains are standing at Merchandise Mart due to a door problem on a train. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Eastbound #18 16th/18th buses are temporarily rerouted via Roosevelt, Indiana, 16th, Michigan, then resume their normal route, due to street blockage near Michigan/11th.&nbsp;</p>\r\n\r\n<p><br />\r\nWestbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>&nbsp;Loop- bound Brown Line trains are standing at Merchandise Mart due to a door problem on a train.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-31T08:16:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-05-31T09:19:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107696"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107698"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "16th-18th",
-        "ServiceId": "18",
-        "ServiceBackColor": "565a5c",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/18/"
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "c55f7e91-5c3b-4e9a-802d-d6f47d27ca82"
+    "GUID": "a3150be1-5ec1-487c-8552-9c0eb031748c"
   },
   {
     "AlertId": "107693",
@@ -100,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "fcb7defd-f9f4-4148-b563-516625d4acc4"
+  },
+  {
+    "AlertId": "107659",
+    "Headline": "#56 Milwaukee Temporary Reroute at Milwaukee/Berteau",
+    "ShortDescription": "#56 Milwaukee buses are temporarily rerouted in both directions via Milwaukee, Montrose, Cicero, due to street blockage near Milwaukee/Berteau.",
+    "FullDescription": {
+      "#cdata-section": "<p>#56 Milwaukee buses are temporarily rerouted in both directions via Milwaukee, Montrose, Cicero then resume their normal route on Milwaukee, due to street blockage near Milwaukee/Berteau.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-05-30T07:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107659"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Milwaukee",
+        "ServiceId": "56",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/56/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8f9b567b-ef3c-4e29-a7f6-9164391cc51e"
   }
 ]
