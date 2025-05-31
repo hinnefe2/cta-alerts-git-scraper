@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "107699",
-    "Headline": "Linden- bound Purple Line Service Delayed  at Howard ",
-    "ShortDescription": "Linden- bound Purple Line trains are standing at Howard due to a sick rider. Crews working to restore service.",
+    "AlertId": "107659",
+    "Headline": "#56 Milwaukee Temporary Reroute at Milwaukee/Berteau",
+    "ShortDescription": "#56 Milwaukee buses are temporarily rerouted in both directions via Milwaukee, Montrose, Cicero, due to street blockage near Milwaukee/Berteau.",
     "FullDescription": {
-      "#cdata-section": "<p>Linden- bound Purple Line trains are standing at Howard due to a sick rider.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#56 Milwaukee buses are temporarily rerouted in both directions via Milwaukee, Montrose, Cicero then resume their normal route on Milwaukee, due to street blockage near Milwaukee/Berteau.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-05-31T09:28:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-05-30T07:09:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107699"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107659"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Purple Line",
-        "ServiceId": "P",
-        "ServiceBackColor": "522398",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Milwaukee",
+        "ServiceId": "56",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/56/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "d678f008-c0e3-44f5-be29-3c9e934835e9"
+    "GUID": "8f9b567b-ef3c-4e29-a7f6-9164391cc51e"
   },
   {
     "AlertId": "107693",
@@ -66,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "fcb7defd-f9f4-4148-b563-516625d4acc4"
-  },
-  {
-    "AlertId": "107659",
-    "Headline": "#56 Milwaukee Temporary Reroute at Milwaukee/Berteau",
-    "ShortDescription": "#56 Milwaukee buses are temporarily rerouted in both directions via Milwaukee, Montrose, Cicero, due to street blockage near Milwaukee/Berteau.",
-    "FullDescription": {
-      "#cdata-section": "<p>#56 Milwaukee buses are temporarily rerouted in both directions via Milwaukee, Montrose, Cicero then resume their normal route on Milwaukee, due to street blockage near Milwaukee/Berteau.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-05-30T07:09:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107659"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Milwaukee",
-        "ServiceId": "56",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/56/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8f9b567b-ef3c-4e29-a7f6-9164391cc51e"
   }
 ]
