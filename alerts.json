@@ -45,5 +45,52 @@
     },
     "ttim": "0",
     "GUID": "9da97a43-9f68-4b48-8948-90ed95da0b39"
+  },
+  {
+    "AlertId": "107732",
+    "Headline": "#14 Jeffery Jump & #15 Jeffery Local Northbound  Reroute near Jeffery/91st",
+    "ShortDescription": "Northbound J14 Jeffery Jump & 15 Jeffery Local buses are temp rerouted via Jeffery, 93rd, Stony Island, and 87th due to, street blockage near Jeffery/91st.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound J14 Jeffery Jump &amp; #15 Jeffery Local buses are temporarily rerouted via Jeffery, 93rd, Stony Island, and 87th: due to, street blockage near Jeffery/91st.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-02T10:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107732"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "997f26cf-8f36-4fbe-ac97-b9680a6ad942"
   }
 ]
