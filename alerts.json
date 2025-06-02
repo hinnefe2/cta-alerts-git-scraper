@@ -1,5 +1,73 @@
 [
   {
+    "AlertId": "107736",
+    "Headline": "#49 Western Temporary Southbound Reroute near Western/Ogden",
+    "ShortDescription": "Southbound #49 Western buses are temporarily rerouted via Western, Roosevelt, Damen 18th, due to street blockage near Western/Ogden.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #49 Western buses are temporarily rerouted via Western, Roosevelt, Damen 18th, then resume their normal route on Western, due to street blockage near Western/Ogden.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-02T12:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107736"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Western",
+        "ServiceId": "49",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/49/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8613bb9b-7cc5-4e4d-981a-e9848ceaea69"
+  },
+  {
+    "AlertId": "107737",
+    "Headline": "#18 16th/18th Temporary Eastbound  Reroute near Western/Ogden",
+    "ShortDescription": "Eastbound #18 16th/18th buses are temporarily rerouted via Ogden, Roosevelt, Damen, 18th, due to street blockage near Western/Ogden. ",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #18 16th/18th buses are temporarily rerouted via Ogden, Roosevelt, Damen, 18th .then resume their normal route, due to street blockage near Western/Ogden.&nbsp;</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-02T12:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107737"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "16th-18th",
+        "ServiceId": "18",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/18/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "848a1288-00e7-4634-8bd9-8530d1f6e9e1"
+  },
+  {
     "AlertId": "107731",
     "Headline": "#48 South Damen and #94 South California Temporary Reroute near Damen/74th",
     "ShortDescription": "48 South Damen and 94 South California buses are temporarily rerouted in both directions near Damen/74th, due to street blockage near Damen/74th.",
