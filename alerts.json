@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "f4a22a09-ed15-414f-823c-1288c8c71c17"
+  },
+  {
+    "AlertId": "107731",
+    "Headline": "#48 South Damen and #94 South California Temporary Reroute near Damen/74th",
+    "ShortDescription": "48 South Damen and 94 South California buses are temporarily rerouted in both directions near Damen/74th, due to street blockage near Damen/74th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#48 South Damen and #94 South California buses are temporarily rerouted in both directions near Damen/74th, due to street blockage near Damen/74th.</p>\r\n\r\n<p>#48 South Damen buses will operate via Damen, 71st, Ashland, 74th, Damen and over regular route.</p>\r\n\r\n<p>#94 South California buses will operate via Damen, 71st, Ashland, 74th and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-02T10:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107731"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Damen",
+          "ServiceId": "48",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "565a5c",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/48/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "California",
+          "ServiceId": "94",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/california/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9da97a43-9f68-4b48-8948-90ed95da0b39"
   }
 ]
