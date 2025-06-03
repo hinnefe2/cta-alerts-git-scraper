@@ -68,6 +68,40 @@
     "GUID": "e89ce485-20a6-49f7-a18c-e4478942d0fc"
   },
   {
+    "AlertId": "107762",
+    "Headline": "Temporary Westbound #66 Chicago Reroute near Chicago/Albany",
+    "ShortDescription": "Westbound 66 Chicago buses are temporarily rerouted near Chicago/Albany.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #66 Chicago&nbsp;buses are temporarily rerouted via Chicago, Grand, Kedzie, Chicago, and resume normal route, due to street blockage&nbsp;near Chicago/Albany.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-03T17:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107762"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f530871a-d9d9-45ca-bb00-45842460880f"
+  },
+  {
     "AlertId": "107747",
     "Headline": "Temporary Reroute at Narragansett/North",
     "ShortDescription": "#86 Narragansett/Ridgeland buses are temporarily rerouted via Ridgeland, North Ave, Austin, Grand: due to street blockage near Narragansett/North.",
@@ -100,39 +134,5 @@
     },
     "ttim": "0",
     "GUID": "0aa2e971-7c65-4fe6-a4c2-5e6588147a03"
-  },
-  {
-    "AlertId": "107759",
-    "Headline": "Blue Line Delays",
-    "ShortDescription": "Blue Line trains running w/residual delays and congestion following an earlier unauthorized person on the tracks near Racine. Service resuming, allow extra time",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running with residual delays and congestion following an earlier unauthorized person on the tracks near Racine.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-06-03T17:27:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107759"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4fa3fa94-d10c-4ce4-be62-9670219e16a7"
   }
 ]
