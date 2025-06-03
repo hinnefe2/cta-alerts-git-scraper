@@ -34,6 +34,40 @@
     "GUID": "fbf5aa42-be94-4a33-a913-083b4b047bcf"
   },
   {
+    "AlertId": "107761",
+    "Headline": "Temporary Westbound #63 63rd Reroute near 63rd/Union",
+    "ShortDescription": "Westbound #63 63rd buses are temporarily rerouted near 63rd/Union.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #63 63rd buses are temporarily rerouted via 63rd, Stewart, Marquette, Halsted, 63rd, and resume normal route, due to street blockage near 63rd/Union.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-03T17:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107761"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e89ce485-20a6-49f7-a18c-e4478942d0fc"
+  },
+  {
     "AlertId": "107747",
     "Headline": "Temporary Reroute at Narragansett/North",
     "ShortDescription": "#86 Narragansett/Ridgeland buses are temporarily rerouted via Ridgeland, North Ave, Austin, Grand: due to street blockage near Narragansett/North.",
@@ -69,10 +103,10 @@
   },
   {
     "AlertId": "107759",
-    "Headline": "Blue Line Service Delayed near Racine",
-    "ShortDescription": "Blue Line trains are standing near Racine due to an unauthorized person on the tracks. Crews working to restore service.",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains running w/residual delays and congestion following an earlier unauthorized person on the tracks near Racine. Service resuming, allow extra time",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are standing near Racine due to an unauthorized person on the tracks.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p><strong>#7 Harrison</strong></p>\r\n\r\n<p><strong>#8 Halsted</strong></p>\r\n\r\n<p><strong>#60 Blue Island/26th</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are running with residual delays and congestion following an earlier unauthorized person on the tracks near Racine.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -99,6 +133,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "7ec0e565-8e4d-4bd0-93aa-826b458ccced"
+    "GUID": "4fa3fa94-d10c-4ce4-be62-9670219e16a7"
   }
 ]
