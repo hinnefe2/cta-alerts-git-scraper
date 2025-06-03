@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "107753",
+    "Headline": "#26 South Shore Express & #71 71st/South Shore Temporary Reroute at South Shore/81st",
+    "ShortDescription": "26 South Shore Express & 71 71st/South Shore buses temp rrtd via Commercial, 83rd, Exchange, 79th & South Shore, due to street blockage near South Shore/81st",
+    "FullDescription": {
+      "#cdata-section": "<p>#26 South Shore Express and&nbsp;#71 71st/South Shore&nbsp;buses are temporarily rerouted in both directions via Commercial, 83rd, Exchange, 79th, then resume their normal routes on&nbsp;South Shore, due to street blockage near South Shore/81st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-03T13:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107753"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "71st/South Shore",
+          "ServiceId": "71",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/71/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "478ccb9f-2005-4771-9b25-359a78def9db"
+  },
+  {
     "AlertId": "107747",
     "Headline": "Temporary Reroute at Narragansett/North",
     "ShortDescription": "#86 Narragansett/Ridgeland buses are temporarily rerouted via Ridgeland, North Ave, Austin, Grand: due to street blockage near Narragansett/North.",
