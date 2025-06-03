@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "107758",
+    "Headline": " Howard-bound Red Line Service Delayed at 79th",
+    "ShortDescription": " Howard-bound Red Line trains are standing at 79th. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red&nbsp;Line trains are&nbsp;standing at 79th&nbsp;due to a door problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-06-03T16:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107758"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "79th",
+          "ServiceId": "40240",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=11"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "a297afa8-056a-46db-b3e3-b137dd4f4595"
+  },
+  {
     "AlertId": "107757",
     "Headline": "Temporary Northbound #171 U. of Chicago/Hyde Park Reroute near 60th/Dorchester",
     "ShortDescription": "Northbound 171 U. of Chicago/Hyde Park buses are temporarily rerouted near 60th/Dorchester.",
