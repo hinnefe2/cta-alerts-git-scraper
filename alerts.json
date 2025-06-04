@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "107783",
+    "Headline": "Temporary #94 South California Reroute at California/60th",
+    "ShortDescription": "94 South California buses are temporarily rerouted near California/60th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#94 South California&nbsp; buses are temporarily rerouted in both directions via California, 59th, Western, 63rd, California, and resume normal route, due to street blockage&nbsp;near California/60th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-04T16:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107783"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b78cb770-3ebc-4444-8c9a-9bc402d0bccf"
+  },
+  {
     "AlertId": "107747",
     "Headline": "Temporary Reroute at Narragansett/North",
     "ShortDescription": "#86 Narragansett/Ridgeland buses are temporarily rerouted via Ridgeland, North Ave, Austin, Grand: due to street blockage near Narragansett/North.",
