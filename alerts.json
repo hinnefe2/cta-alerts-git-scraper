@@ -113,5 +113,52 @@
     },
     "ttim": "0",
     "GUID": "2515a878-b293-406e-bb7a-91a254d3521a"
+  },
+  {
+    "AlertId": "107790",
+    "Headline": "Orange Line Service Delayed near Midway",
+    "ShortDescription": "Orange Line trains are standing near Midway. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange Line trains are&nbsp;standing&nbsp;near Midway&nbsp;due to an authorized person on the tracks.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-06-04T17:39:00",
+    "EventEnd": "2025-06-04T20:39:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107790"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Midway",
+          "ServiceId": "40930",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=99"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "af6dfb34-4edd-4c24-a510-132991db3904"
   }
 ]
