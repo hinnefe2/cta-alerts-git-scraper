@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "107766",
+    "Headline": "95th-bound Red Line Service Delayed at Cermak-Chinatown",
+    "ShortDescription": "95th-bound Red Line trains are standing at Cermak-Chinatown due to police activity.  Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are standing at Cermak-Chinatown due to police activity.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-06-04T03:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107766"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b7f9d393-f129-46a0-920e-b862fd800beb"
+  },
+  {
     "AlertId": "107747",
     "Headline": "Temporary Reroute at Narragansett/North",
     "ShortDescription": "#86 Narragansett/Ridgeland buses are temporarily rerouted via Ridgeland, North Ave, Austin, Grand: due to street blockage near Narragansett/North.",
@@ -32,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "0aa2e971-7c65-4fe6-a4c2-5e6588147a03"
-  },
-  {
-    "AlertId": "107765",
-    "Headline": "Blue Line Service Running with Delays",
-    "ShortDescription": "Blue Line trains are running with wait times of up to 30 minutes; we're working to restore service. Allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running, but with extended wait times. Some riders may experience wait times&nbsp;of up to 30&nbsp;minutes while our crews work to restore regular service levels.</p>\r\n\r\n<p>Use trackers to look for live arrival information and consider available alternatives, such a local bus routes or buses to/from other &#39;L&#39; lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2025-06-04T02:36:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107765"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e1aed8d9-a4f7-4da7-857b-1354f31c4a8e"
   }
 ]
