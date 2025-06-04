@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "107790",
+    "Headline": "Orange Line Service Delayed near Midway",
+    "ShortDescription": "Orange Line trains are standing near Midway. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange Line trains are&nbsp;standing with major delays&nbsp;near Midway&nbsp;due to authorized person on the tracks.</p>\r\n\r\n<p>Shuttle buses are available between 35th/Archer&nbsp;and Roosevelt&nbsp;to provide connecting service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-06-04T17:39:00",
+    "EventEnd": "2025-06-04T18:00:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107790"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Midway",
+          "ServiceId": "40930",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=99"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ac2823bc-8f6b-42d8-911f-4c1d45c286ad"
+  },
+  {
     "AlertId": "107783",
     "Headline": "Temporary #94 South California Reroute at California/60th",
     "ShortDescription": "94 South California buses are temporarily rerouted near California/60th.",
@@ -66,53 +113,6 @@
     },
     "ttim": "0",
     "GUID": "0aa2e971-7c65-4fe6-a4c2-5e6588147a03"
-  },
-  {
-    "AlertId": "107790",
-    "Headline": "Orange Line Service Delayed near Midway",
-    "ShortDescription": "Orange Line trains are standing with major delays near Midway. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Orange Line trains are&nbsp;standing with major delays near Midway&nbsp;due to an authorized person on the tracks.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2025-06-04T17:39:00",
-    "EventEnd": "2025-06-04T20:39:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107790"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Midway",
-          "ServiceId": "40930",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=99"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "526b3ae3-8c57-4bfe-bc9a-41d2c907bf6b"
   },
   {
     "AlertId": "107789",
