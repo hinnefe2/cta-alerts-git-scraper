@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "107806",
+    "Headline": "#8 Halsted Temporary Reroute at  Halsted/49th",
+    "ShortDescription": "8 Halsted buses are temporarily rerouted via Halsted, 51st, Racine, 47th and Halsted: due to, street blockage near Halsted/49th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#8 Halsted buses are temporarily rerouted via Halsted, 51st, Racine, 47th and Halsted: due to, street blockage near Halsted/49th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-05T11:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107806"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Halsted",
+        "ServiceId": "8",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/8/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2d0cf305-bb81-46a1-9ceb-a709bcf09477"
+  },
+  {
     "AlertId": "107747",
     "Headline": "Temporary Reroute at Narragansett/North",
     "ShortDescription": "#86 Narragansett/Ridgeland buses are temporarily rerouted via Ridgeland, North Ave, Austin, Grand: due to street blockage near Narragansett/North.",
@@ -32,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "0aa2e971-7c65-4fe6-a4c2-5e6588147a03"
-  },
-  {
-    "AlertId": "107805",
-    "Headline": "O'Hare- bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following earlier debris on the tracks at Kedzie. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/residual delays following earlier debris on the tracks at Kedzie.</p>\r\n\r\n<p><strong>Shuttle buses are available from Forest Park to UIC- Halsted to provide connecting service through the affected area.</strong></p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-06-05T10:45:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107805"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a35cbee7-77d1-4b3a-a410-8ba4ba48d1d5"
   }
 ]
