@@ -1,61 +1,37 @@
 [
   {
-    "AlertId": "107799",
-    "Headline": "Loop-bound Brown Line Delays",
-    "ShortDescription": "Loop- bound Brown Line trains are running w/residual delays following an earlier door problem at Merchandise Mart. Service is resuming, allow extra time.",
+    "AlertId": "107800",
+    "Headline": "Yellow Line Service Delayed at Skokie",
+    "ShortDescription": "Yellow Line trains are standing at Skokie due to a sick rider. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop- bound Brown Line trains are running w/residual delays following an earlier door problem at Merchandise Mart.&nbsp;</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Yellow Line trains are standing at Skokie due to a sick rider.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2025-06-05T09:38:00",
+    "EventStart": "2025-06-05T09:52:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107799"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107800"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Merchandise Mart",
-          "ServiceId": "40460",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=98"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Yellow Line",
+        "ServiceId": "Y",
+        "ServiceBackColor": "f9e300",
+        "ServiceTextColor": "000000",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/yellowline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "29728c36-8af7-4039-a200-fa2c285188b4"
+    "GUID": "ce6d0a7d-88f5-4da4-8d33-a2e8c60d2ce4"
   },
   {
     "AlertId": "107747",
