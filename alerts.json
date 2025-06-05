@@ -1,49 +1,15 @@
 [
   {
-    "AlertId": "107747",
-    "Headline": "Temporary Reroute at Narragansett/North",
-    "ShortDescription": "#86 Narragansett/Ridgeland buses are temporarily rerouted via Ridgeland, North Ave, Austin, Grand: due to street blockage near Narragansett/North.",
-    "FullDescription": {
-      "#cdata-section": "<p>#86 Narragansett/Ridgeland buses are temporarily rerouted in both directions via Ridgeland, North Ave, Austin, Grand and the resume their normal route at&nbsp; Narragansett, due to street blockage near Narragansett/North.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-02T19:24:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107747"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Narragansett/Ridgeland",
-        "ServiceId": "86",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/86/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0aa2e971-7c65-4fe6-a4c2-5e6588147a03"
-  },
-  {
     "AlertId": "107811",
     "Headline": "Howard-bound Red Line Delays",
-    "ShortDescription": "Howard-bound Red Line trains are running w/significant delays following an earlier injured customer at Grand. Service is resuming, allow extra time.",
+    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays following an earlier injured customer at Grand. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are running with&nbsp;significant delays following an earlier injured customer&nbsp;at Grand.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are running with&nbsp;residual delays following an earlier injured customer&nbsp;at Grand.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2025-06-05T15:13:00",
     "EventEnd": null,
     "TBD": "1",
@@ -78,6 +44,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "c5d4ed9d-fd40-41de-95d8-bde96147fafd"
+    "GUID": "31166ff1-8df7-4a79-aa09-832aa3f102c3"
+  },
+  {
+    "AlertId": "107747",
+    "Headline": "Temporary Reroute at Narragansett/North",
+    "ShortDescription": "#86 Narragansett/Ridgeland buses are temporarily rerouted via Ridgeland, North Ave, Austin, Grand: due to street blockage near Narragansett/North.",
+    "FullDescription": {
+      "#cdata-section": "<p>#86 Narragansett/Ridgeland buses are temporarily rerouted in both directions via Ridgeland, North Ave, Austin, Grand and the resume their normal route at&nbsp; Narragansett, due to street blockage near Narragansett/North.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-02T19:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107747"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Narragansett/Ridgeland",
+        "ServiceId": "86",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/86/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0aa2e971-7c65-4fe6-a4c2-5e6588147a03"
   }
 ]
