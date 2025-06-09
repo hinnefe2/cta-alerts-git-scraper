@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "107878",
+    "Headline": "95th bound Red and Loop bound Brown trains bypassing Fullerton",
+    "ShortDescription": "95th bound Red & Loop bound Brown line trains will bypass Fullerton  due to police activity.  We apologize for the inconvenience, updates will follow shortly \r\n",
+    "FullDescription": {
+      "#cdata-section": "<p>95th bound Red and Loop bound Brown line trains will bypass Fullerton&nbsp; due to police activity.&nbsp; We apologize for the inconvenience, updates will follow shortly.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2025-06-09T11:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107878"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "7bdd5af5-668e-44e3-929b-8e9bc5f5080d"
+  }
+]
