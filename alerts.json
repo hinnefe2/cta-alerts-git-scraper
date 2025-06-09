@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "107822",
-    "Headline": "#55 Garfield Temporary Reroute at 55th/Cottage Grove-Garfield Red Line",
-    "ShortDescription": "55 Garfield buses are rr via 55th, Prairie, 59th, King Drive, Midway Plaisance, Woodlawn & 55th, due to police activity nr 55th/Cottage Grove-Garfield Red Line.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#55 Garfield buses are temporarily rerouted in both directions via 55th, Prairie, 59th, King Drive, Midway Plaisance, Woodlawn, then resume their normal route on 55th, due to police activity near 55th/Cottage Grove-Garfield Red Line.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-06T02:13:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107822"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Garfield",
-        "ServiceId": "55",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/55/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a18a7446-0528-48e2-8c99-74238f8fb900"
-  },
-  {
     "AlertId": "107833",
     "Headline": "#21 Cermak Temporary Reroute ",
     "ShortDescription": "#21 buses will operate in both directions via Cermak, Loomis, Archer, Halsted and Cermak.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "a081e597-19e8-436d-a368-eab22bc86817"
+  },
+  {
+    "AlertId": "107822",
+    "Headline": "#55 Garfield Temporary Reroute at 55th/Cottage Grove-Garfield Red Line",
+    "ShortDescription": "55 Garfield buses are rr via 55th, Prairie, 59th, King Drive, Midway Plaisance, Woodlawn & 55th, due to police activity nr 55th/Cottage Grove-Garfield Red Line.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#55 Garfield buses are temporarily rerouted in both directions via 55th, Prairie, 59th, King Drive, Midway Plaisance, Woodlawn, then resume their normal route on 55th, due to police activity near 55th/Cottage Grove-Garfield Red Line.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-06T02:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107822"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Garfield",
+        "ServiceId": "55",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/55/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a18a7446-0528-48e2-8c99-74238f8fb900"
   }
 ]
