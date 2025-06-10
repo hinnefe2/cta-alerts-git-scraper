@@ -1,5 +1,86 @@
 [
   {
+    "AlertId": "107890",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running with delays at Granville due to an earlier medical emergency. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>&nbsp;Red Line trains are running with delays at Granville due to an earlier medical emergency.</p>\r\n\r\n<p>Also, shuttle buses are available to provide connecting service between Howard and Wilson.</p>\r\n\r\n<p>We apologize for the inconvenience and are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-06-10T09:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107890"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Granville",
+          "ServiceId": "40760",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=64"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1712aebd-ab96-4934-bc02-c81915bd3a22"
+  },
+  {
+    "AlertId": "107891",
+    "Headline": "#79 79th Temporary Reroute at 79th/Kedzie",
+    "ShortDescription": "Eastbound #79 79th buses are temporarily rerouted in both directions via 79th, Western, 83rd, Kedzie, due to street blockage near 79th/Kedzie.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #79 79th buses are temporarily rerouted in both directions via 79th, Western, 83rd, Kedzie, then resume their normal route on 79th, due to street blockage near 79th/Kedzie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-10T09:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107891"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "215dd149-73d8-411c-882b-315804367ae7"
+  },
+  {
     "AlertId": "107887",
     "Headline": "#95 95th Temporary Eastbound Reroute near 92nd/Burley",
     "ShortDescription": "Eastbound #95 95th buses are temporarily rerouted  via 92nd, Houston, 91st, and Brandon over regular route due to street blockage near 92nd/Burley.",
@@ -66,108 +147,5 @@
     },
     "ttim": "0",
     "GUID": "f922837d-9765-4627-b4ed-9bb93336f4e5"
-  },
-  {
-    "AlertId": "107891",
-    "Headline": "#79 79th Temporary Reroute at 79th/Kedzie",
-    "ShortDescription": "Eastbound #79 79th buses are temporarily rerouted in both directions via 79th, Western, 83rd, Kedzie, due to street blockage near 79th/Kedzie.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #79 79th buses are temporarily rerouted in both directions via 79th, Western, 83rd, Kedzie, then resume their normal route on 79th, due to street blockage near 79th/Kedzie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-10T09:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107891"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "79th",
-        "ServiceId": "79",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/79/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "215dd149-73d8-411c-882b-315804367ae7"
-  },
-  {
-    "AlertId": "107890",
-    "Headline": "No trains between Howard and Wilson",
-    "ShortDescription": "Red Line service has been temporarily suspended between Howard and Wilson due to a medical emergency on the tracks at Granville.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line service has been temporarily suspended between Howard and Wilson due to a medical emergency on the tracks at Granville.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Wilson and&nbsp; 95th at this time.</strong></p>\r\n\r\n<p><strong>Shuttle buses are available&nbsp;from Howard to Wilson&nbsp;connecting service through the affected area.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines. Also consider using the #151 Sheridan, #36 Broadway or #22 Clark.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2025-06-10T09:21:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107890"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Granville",
-          "ServiceId": "40760",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=64"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "44d28b6f-891a-471b-8efc-1f6d7ec14242"
   }
 ]
