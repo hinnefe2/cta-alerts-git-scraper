@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "107886",
+    "Headline": "Forest Park-bound Blue Line Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following an earlier sick customer at Grand. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays following an earlier sick customer at Grand.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-06-10T08:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107886"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ca55f291-6a51-4005-8ca2-c22ef21ee8b9"
+  },
+  {
+    "AlertId": "107887",
+    "Headline": "#95 95th Temporary Reroute near 92nd/Burley",
+    "ShortDescription": "95 95th buses temp. rerouted EB: 92nd, Houston, 91st, Buffalo and 92nd; WB 92nd, Burley, 92st, Houston and 92nd: due to, street blockage near 92nd/Burley.",
+    "FullDescription": {
+      "#cdata-section": "<p>#95 95th&nbsp;buses are temporarily rerouted in both directions near 92nd/Burley due to street blockage near 92nd/Burley.</p>\r\n\r\n<p>Eastbound buses will operate via 92bd, Houston, 91st, Buffalo and 92nd including the normal route streets.</p>\r\n\r\n<p>Westbound buses will operate via 92nd, Burley, 91st, Houston and 92nd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-10T08:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107887"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "95th",
+        "ServiceId": "95",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/95/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f90895b9-3cae-4e00-9bf0-87f09187547c"
+  }
+]
