@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "107929",
-    "Headline": "#47 47th Temporary Westbound Reroute near 47th/Calumet",
-    "ShortDescription": "Westbound 47 47th buses are temporarily rerouted via 47th, King Drive, 43rd, Michigan and 47th due to, street blockage near 47th/Calumet.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Westbound #47 47th buses are temporarily rerouted via 47th, King Drive, 43rd, Michigan, 47th and over regular route due to street blockage near 47th/Calumet.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-11T09:42:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107929"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "47th",
-        "ServiceId": "47",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/47/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "26ee7963-7aaf-436b-a42d-3b99037b5ef5"
-  },
-  {
     "AlertId": "107930",
     "Headline": "#75 74th-75th Temporary Eastbound Reroute near 75th/Ashland",
     "ShortDescription": "Eastbound 75 74th-75th buses are temporarily rerouted via 74th, Ashland, 76th and Loomis due to, street blockage near 75th/Ashland.",
@@ -103,10 +69,10 @@
   },
   {
     "AlertId": "107949",
-    "Headline": "Purple Line Service Running with Delays",
-    "ShortDescription": "Purple Line trains are running w/residual delays due signal problems at Howard.",
+    "Headline": "Purple and Yellow Line Service Running with Delays",
+    "ShortDescription": "Purple and Yellow Line trains are running w/residual delays due signal problems at Howard.",
     "FullDescription": {
-      "#cdata-section": "<p>Purple Line trains are running w/residual delays due signal problems at Howard.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Purple and Yellow Line trains are running w/residual delays due signal problems at Howard.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -120,19 +86,43 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107949"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Purple Line",
-        "ServiceId": "P",
-        "ServiceBackColor": "522398",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Yellow Line",
+          "ServiceId": "Y",
+          "ServiceBackColor": "f9e300",
+          "ServiceTextColor": "000000",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/yellowline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "3a03a3de-a88b-4f72-aaec-43c60481a108"
+    "GUID": "bbcda907-edd9-476c-8c9a-ab1a41e249af"
   }
 ]
