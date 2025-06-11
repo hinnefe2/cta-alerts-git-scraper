@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "107926",
+    "Headline": "#79 79th Temporary Reroute at 79th/Paulina",
+    "ShortDescription": "79 79th buses are temporarily rerouted via 79th, Ashland, 83rd, Damen, then resume their normal route on 79th, due to police activity near 79th/Paulina.",
+    "FullDescription": {
+      "#cdata-section": "<p>#79 79th buses are temporarily rerouted in both directions via 79th, Ashland, 83rd, Damen, then resume their normal route on 79th, due to police activity near 79th/Paulina.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-11T02:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107926"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c4b212fa-08ff-4039-a8f8-e26590307ee6"
+  },
+  {
     "AlertId": "107928",
     "Headline": "#9 Ashland Temporary Southbound Reroute near Ashland/69th",
     "ShortDescription": "Southbound 9 Ashland and X9 Ashland Express buses are temporarily rerouted via Ashland, 69th, Damen, 71st and Ashland near Ashland/69th.",
@@ -45,39 +79,5 @@
     },
     "ttim": "0",
     "GUID": "f41a2fcd-b3bc-4a6a-be26-8349e2a18a3f"
-  },
-  {
-    "AlertId": "107926",
-    "Headline": "#79 79th Temporary Reroute at 79th/Paulina",
-    "ShortDescription": "79 79th buses are temporarily rerouted via 79th, Ashland, 83rd, Damen, then resume their normal route on 79th, due to police activity near 79th/Paulina.",
-    "FullDescription": {
-      "#cdata-section": "<p>#79 79th buses are temporarily rerouted in both directions via 79th, Ashland, 83rd, Damen, then resume their normal route on 79th, due to police activity near 79th/Paulina.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-11T02:10:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107926"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "79th",
-        "ServiceId": "79",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/79/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c4b212fa-08ff-4039-a8f8-e26590307ee6"
   }
 ]
