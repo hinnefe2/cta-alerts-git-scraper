@@ -102,6 +102,121 @@
     "GUID": "bb6cd311-dbe6-46f9-8d23-573b43bdaa36"
   },
   {
+    "AlertId": "107915",
+    "Headline": "#60 Blue Island/26th Temporary Reroute near downtown",
+    "ShortDescription": "60 Blue Island/26th buses are rerouted in via Michigan, Roosevelt, State, Wacker and Michigan, due to protests/march activity near the Loop, downtown.",
+    "FullDescription": {
+      "#cdata-section": "<p>#60 Blue Island/26th buses are temporarily rerouted in both directions via Michigan, Roosevelt, State, Wacker and Michigan, due to protests/march activity near the Loop, downtown.</p>\r\n\r\n<ul>\r\n\t<li><strong>Eastbound</strong> buses will operate via Washington/State, Wacker, Columbus, Randolph, then resume their normal route.</li>\r\n\t<li><strong>Westbound</strong> buses will operate via Randolph/Columbus, Wacker, State, Madison, then resume their normal route.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-10T21:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107915"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Blue Island/26th",
+        "ServiceId": "60",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/60/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f3e7b859-3cd4-488f-a12f-aca95ee6ed0f"
+  },
+  {
+    "AlertId": "107916",
+    "Headline": "Temporary J14 Jeffrey Jump and Southbound #26 South Shore Express Reroute near the Loop, downtown",
+    "ShortDescription": "J14 Jeffrey Jump and Southbound 26 South Shore Express buses temp. rerouted near the Loop, downtown.",
+    "FullDescription": {
+      "#cdata-section": "<p>J14 Jeffrey Jump and #26 South Shore Express buses are temporarily rerouted in both directions near&nbsp;the Loop, downtown. due to protests/march activity&nbsp;near the Loop, downtown.</p>\r\n\r\n<p>J14 Jeffrey Jump Northbound&nbsp;buses will operate regular route to&nbsp;Roosevelt/Michigan, (continue)&nbsp;West on Roosevelt to State, (turn right) North on State to Madison, (turn left) West on Madison over the regular route.</p>\r\n\r\n<p>J14 Jeffrey Jump Southbound&nbsp;buses will operate regular route Washington/State, (turn right) South on State to Roosevelt, (turn Left) East on Roosevelt to Columbus, (turn right) South on Columbus over the regular route.</p>\r\n\r\n<p>Southbound #26 South Shore Express buses will operate regular to route Michigan/Wacker, (turn right) West on Wacker to State, (turn left) South on State to Roosevelt, (turn left) East on Roosevelt to Columbus, (turn right) South on Columbus over the regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-10T21:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107916"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "32e2208c-7ac2-4348-aea8-10a43e80d6a0"
+  },
+  {
+    "AlertId": "107917",
+    "Headline": "#124 Navy Pier Temporary Reroute near Downtown",
+    "ShortDescription": "124 Navy Pier buses are temporarily rerouted via Michigan, Roosevelt, State, Wacker and Michigan, due to protests/march activity near the Loop, downtown.",
+    "FullDescription": {
+      "#cdata-section": "<p>#124 Navy Pier buses are temporarily rerouted in both directions via Michigan, Roosevelt, State, Wacker and Michigan, due to protests/march activity near the Loop, downtown.</p>\r\n\r\n<p><strong>Eastbound</strong> buses will operate via Washington/State, Illinois, Columbus, then resume their normal route.</p>\r\n\r\n<p><strong>Westbound</strong> buses will operate via Grand/Columbus, State, Madison, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-10T21:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107917"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Navy Pier",
+        "ServiceId": "124",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/124/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "43f849d4-0078-4999-8611-ee10bc1f9f94"
+  },
+  {
     "AlertId": "107911",
     "Headline": "Bus services temporarily suspended downtown",
     "ShortDescription": "Bus services are temp suspended in the Loop from North Avenue and Roosevelt Road, and from Clinton Street and the Lake Front, due to protests/march activity.",
