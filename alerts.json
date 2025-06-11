@@ -113,5 +113,86 @@
     },
     "ttim": "0",
     "GUID": "85d74a66-9361-4b62-bb06-3022b2456a29"
+  },
+  {
+    "AlertId": "107931",
+    "Headline": "#26 South Shore Express Temporary Reroute at 83rd/South Shore",
+    "ShortDescription": "26 South Shore Express and 71 71st/South Shore buses are temporarily rerouted via Commercial, 83rd, South Shore and 79th due to, near 83rd/South Shore.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#26 South Shore Express and #71 71st/South Shore buses are temporarily rerouted in both directions via Commercial, 83rd, South Shore, 79th and over regular route, due to street blockage near 83rd/South Shore.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-11T09:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107931"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "71st/South Shore",
+          "ServiceId": "71",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/71/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "36dadddf-db80-403e-9657-1f8c047a53a4"
+  },
+  {
+    "AlertId": "107932",
+    "Headline": "#86 Narragansett/Ridgeland Temporary Reroute at Nagle/Peterson",
+    "ShortDescription": "86 Narragansett/Ridgeland buses are temporarily rerouted via Nagle, Peterson and \r\n Milwaukee: due to, street blockage near Nagle/Peterson.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#86 Narragansett/Ridgeland buses are temporarily rerouted in both directions via Nagle, Peterson, Milwaukee and over regular route, due to street blockage near Nagle/Peterson.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-11T10:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107932"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Narragansett/Ridgeland",
+        "ServiceId": "86",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/86/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b41e5f92-4e7b-4854-8811-7007545eb635"
   }
 ]
