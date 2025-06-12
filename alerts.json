@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "107975",
-    "Headline": "#47 47th Temporary Eastbound Reroute near 43rd/Canal",
-    "ShortDescription": "Eastbound 47 47th buses are temporarily rerouted via 43rd, Normal, Root, Princeton and 43rd due to, street blockage near 43rd/Canal.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Eastbound #47 47th buses are temporarily rerouted via 43rd, Normal, Root, Princeton,&nbsp;43rd and over regular route due to, street blockage near 43rd/Canal.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-12T11:01:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107975"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "47th",
-        "ServiceId": "47",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/47/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "83040c23-e734-4f98-b5c0-a431bfdb5b28"
-  },
-  {
     "AlertId": "107960",
     "Headline": "#56 Milwaukee Temporary Reroute at Hubbard/Milwaukee",
     "ShortDescription": "56 Milwaukee buses are temporarily rerouted via Milwaukee, Halsted, Grand and Des Plaines due to, street blockage near Hubbard/Milwaukee.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "a4a8b2ef-a7a6-4a90-aeaa-e17c1c570c6b"
+  },
+  {
+    "AlertId": "107977",
+    "Headline": "95th/Dan Ryan-bound Subway Trains Rerouted to Elevated Tracks",
+    "ShortDescription": "95th-bound Red Line trains are temporarily rerouted to the elevated tracks between Fullerton and Cermak due to track conditions.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th/Dan Ryan-bound&nbsp;Red Line trains are temporarily rerouted to the elevated lines between Fullerton and&nbsp;Cermak-Chinatown due to track conditions.</p>\r\n\r\n<h4>Red Line service to 95th/Dan Ryan</h4>\r\n\r\n<p>After stopping at Fullerton, <strong>95th-bound trains will be diverted and will make the following elevated station stops</strong>:</p>\r\n\r\n<ul>\r\n\t<li>Armitage (accessible)</li>\r\n\t<li>Sedgwick (accessible)</li>\r\n\t<li>Chicago (at Franklin; accessible)</li>\r\n\t<li>Merchandise Mart (accessible)</li>\r\n\t<li>Clark/lake (accessible)</li>\r\n\t<li>State/Lake</li>\r\n\t<li>Washington/Wabash (accessible)</li>\r\n\t<li>Adams/Wabash</li>\r\n\t<li>Roosevelt (elevated station west of Wabash; accessible)</li>\r\n</ul>\r\n\r\n<p>Then, trains will stop at Cermak-Chinatown and make all normal stops to 95th/Dan Ryan.</p>\r\n\r\n<p>Connections can be made between Howard-bound subway service and 95th-bound rerouted service via elevated lines at Fullerton (accessible), State/Lake (board at nearby elevated station on Orange Line side for 95th-bound Red Line service)&nbsp;and at Roosevelt (accessible).</p>\r\n\r\n<p>We apologize for the inconvenience and are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n\r\n<h4><span style=\"color: #c60c30\"><strong>Howard-bound service is not affected.</strong></span></h4>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2025-06-12T12:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107977"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f690a52f-f518-4d86-87be-26d8a07df43d"
   }
 ]
