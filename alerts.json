@@ -1,37 +1,71 @@
 [
   {
-    "AlertId": "107961",
-    "Headline": "#34 South Michigan Temporary Southbound Reroute near 130th/Ellis",
-    "ShortDescription": "Southbound 34 South Michigan buses are temporarily rerouted via 131st, Ingleside, 132nd and Ellis due to, police activity near 130th/Ellis.",
+    "AlertId": "108018",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains running w/residual delays & congestion following earlier unauthorized person on the tracks near Granville. Service resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Southbound #34 South Michigan buses are temporarily rerouted via 131st, Ingleside, 132nd and Ellis due to, police activity near 130th/Ellis.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running with residual delays and congestion following an earlier unauthorized person on the tracks near Granville.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-06-13T14:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108018"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "20e12a99-58aa-42c6-97a1-650fea9023b8"
+  },
+  {
+    "AlertId": "108017",
+    "Headline": "#36 Broadway Temporary Reroute at Broadway/Wellington",
+    "ShortDescription": "36 Broadway buses are temporarily rerouted via Clark, Diversey, Halsted, Belmont, and Broadway: due to, parade/festival near Broadway/Wellington.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#36 Broadway buses are temporarily rerouted in both directions via Clark, Diversey, Halsted, Belmont, Broadway and over the regular route, due to parade/festival near Broadway/Wellington.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-12T09:40:00",
+    "EventStart": "2025-06-13T13:24:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107961"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108017"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Michigan",
-        "ServiceId": "34",
-        "ServiceBackColor": "414145",
+        "ServiceName": "Broadway",
+        "ServiceId": "36",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/34/"
+          "#cdata-section": "http://www.transitchicago.com/bus/36/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "a4a8b2ef-a7a6-4a90-aeaa-e17c1c570c6b"
+    "GUID": "007217d7-a0ce-4832-9377-fba594651975"
   },
   {
     "AlertId": "108005",
@@ -136,71 +170,37 @@
     "GUID": "a1d93558-40f0-4eb9-b1f4-2ad45f96f552"
   },
   {
-    "AlertId": "108017",
-    "Headline": "#36 Broadway Temporary Reroute at Broadway/Wellington",
-    "ShortDescription": "36 Broadway buses are temporarily rerouted via Clark, Diversey, Halsted, Belmont, and Broadway: due to, parade/festival near Broadway/Wellington.",
+    "AlertId": "107961",
+    "Headline": "#34 South Michigan Temporary Southbound Reroute near 130th/Ellis",
+    "ShortDescription": "Southbound 34 South Michigan buses are temporarily rerouted via 131st, Ingleside, 132nd and Ellis due to, police activity near 130th/Ellis.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#36 Broadway buses are temporarily rerouted in both directions via Clark, Diversey, Halsted, Belmont, Broadway and over the regular route, due to parade/festival near Broadway/Wellington.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Southbound #34 South Michigan buses are temporarily rerouted via 131st, Ingleside, 132nd and Ellis due to, police activity near 130th/Ellis.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-13T13:24:00",
+    "EventStart": "2025-06-12T09:40:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108017"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107961"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Broadway",
-        "ServiceId": "36",
-        "ServiceBackColor": "565a5c",
+        "ServiceName": "South Michigan",
+        "ServiceId": "34",
+        "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/36/"
+          "#cdata-section": "http://www.transitchicago.com/bus/34/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "007217d7-a0ce-4832-9377-fba594651975"
-  },
-  {
-    "AlertId": "108018",
-    "Headline": "Red Line Service Delayed near Granville",
-    "ShortDescription": "Red Line trains are standing near Granville due to an unauthorized person on the tracks. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing near Granville due to an unauthorized person on the tracks.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-06-13T14:24:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108018"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "94d48588-66a4-469b-871f-e52e1ddbcbe2"
+    "GUID": "a4a8b2ef-a7a6-4a90-aeaa-e17c1c570c6b"
   }
 ]
