@@ -1,71 +1,71 @@
 [
   {
-    "AlertId": "107961",
-    "Headline": "#34 South Michigan Temporary Southbound Reroute near 130th/Ellis",
-    "ShortDescription": "Southbound 34 South Michigan buses are temporarily rerouted via 131st, Ingleside, 132nd and Ellis due to, police activity near 130th/Ellis.",
+    "AlertId": "108023",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running with residual delays following an earlier unauthorized person on the tracks near Belmont. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Southbound #34 South Michigan buses are temporarily rerouted via 131st, Ingleside, 132nd and Ellis due to, police activity near 130th/Ellis.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running with&nbsp;residual delays following an earlier &nbsp;unauthorized person on the tracks near Belmont.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-12T09:40:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-06-13T19:51:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107961"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108023"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Michigan",
-        "ServiceId": "34",
-        "ServiceBackColor": "414145",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/34/"
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "a4a8b2ef-a7a6-4a90-aeaa-e17c1c570c6b"
+    "GUID": "57c92e7d-6cfa-4c96-ba5f-d205cbf09026"
   },
   {
-    "AlertId": "107997",
-    "Headline": "#22 Clark Temporary Reroute at Clark/Foster",
-    "ShortDescription": "22 Clark buses are temporarily rerouted via Clark, Foster, Ashland and Clark: due to, parade/festival near Clark/Foster.",
+    "AlertId": "108024",
+    "Headline": "Brown Line Delays",
+    "ShortDescription": "Brown Line trains are running with residual delays following an earlier unauthorized person on the tracks near Belmont. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>How will this affect my trip?</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#22 Clark buses are temporarily rerouted in both directions via Clark, Foster, Ashland, Clark and over regular route&nbsp;due to a parade/festival&nbsp;near Clark/Foster.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line trains are running with residual delays following an earlier unauthorized person on the tracks near Belmont.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-13T06:05:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-06-13T20:05:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107997"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108024"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Clark",
-        "ServiceId": "22",
-        "ServiceBackColor": "565a5c",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "a1d93558-40f0-4eb9-b1f4-2ad45f96f552"
+    "GUID": "7b2d0949-3b99-48ce-a71e-f4d02ae91ffd"
   },
   {
     "AlertId": "108017",
@@ -102,37 +102,71 @@
     "GUID": "007217d7-a0ce-4832-9377-fba594651975"
   },
   {
-    "AlertId": "108023",
-    "Headline": "Red Line Service Delayed near Belmont",
-    "ShortDescription": "Red Line trains are standing near Belmont due to an unauthorized person on the tracks. Crews working to restore service.",
+    "AlertId": "107997",
+    "Headline": "#22 Clark Temporary Reroute at Clark/Foster",
+    "ShortDescription": "22 Clark buses are temporarily rerouted via Clark, Foster, Ashland and Clark: due to, parade/festival near Clark/Foster.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing near Belmont due to an unauthorized person on the tracks.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>How will this affect my trip?</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#22 Clark buses are temporarily rerouted in both directions via Clark, Foster, Ashland, Clark and over regular route&nbsp;due to a parade/festival&nbsp;near Clark/Foster.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-06-13T19:51:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-13T06:05:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108023"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107997"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clark",
+        "ServiceId": "22",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/22/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "83583ab8-41d2-4006-afc6-6611867240f6"
+    "GUID": "a1d93558-40f0-4eb9-b1f4-2ad45f96f552"
+  },
+  {
+    "AlertId": "107961",
+    "Headline": "#34 South Michigan Temporary Southbound Reroute near 130th/Ellis",
+    "ShortDescription": "Southbound 34 South Michigan buses are temporarily rerouted via 131st, Ingleside, 132nd and Ellis due to, police activity near 130th/Ellis.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Southbound #34 South Michigan buses are temporarily rerouted via 131st, Ingleside, 132nd and Ellis due to, police activity near 130th/Ellis.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-12T09:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107961"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Michigan",
+        "ServiceId": "34",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/34/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a4a8b2ef-a7a6-4a90-aeaa-e17c1c570c6b"
   }
 ]
