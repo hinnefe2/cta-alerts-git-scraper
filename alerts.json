@@ -102,6 +102,75 @@
     "GUID": "bbe7dbe1-7949-4ba2-9de2-8d6a060b4ded"
   },
   {
+    "AlertId": "108036",
+    "Headline": "#J14 Jeffery Jump,#20 Madison, #56 Milwaukee, #60 Blue Island/26th Temporary Eastbound Reroute near Washington/LaSalle",
+    "ShortDescription": "NB J14 Jeffery Jump, 20 Madison, 56 Milwaukee buses are temp rerouted via Washington, LaSalle, Jackson, State and Washington: near Washington/LaSalle.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #J14 Jeffery Jump, #20 Madison, #56 Milwaukee, buses are temporarily rerouted via Washington, LaSalle, Jackson, State and Washington: due to, Protest/Marches near Washington/LaSalle.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-14T12:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108036"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Madison",
+          "ServiceId": "20",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/20/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Milwaukee",
+          "ServiceId": "56",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/56/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Blue Island/26th",
+          "ServiceId": "60",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/60/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d2909cab-949b-4b5b-9692-d78189a64b6f"
+  },
+  {
     "AlertId": "107997",
     "Headline": "#22 Clark Temporary Reroute at Clark/Foster",
     "ShortDescription": "22 Clark buses are temporarily rerouted via Clark, Foster, Ashland and Clark: due to, parade/festival near Clark/Foster.",
