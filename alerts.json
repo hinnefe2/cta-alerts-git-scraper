@@ -34,6 +34,40 @@
     "GUID": "007217d7-a0ce-4832-9377-fba594651975"
   },
   {
+    "AlertId": "108033",
+    "Headline": "#44 Wallace-Racine Temporary Reroute at Racine/64th",
+    "ShortDescription": "44 Wallace-Racine buses are temporarily rerouted via Racine, 63rd, Ashland 67th and Racine: due to, street blockage near Racine/64th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#44 Wallace-Racine buses are temporarily rerouted in both directions via Racine, 63rd, Ashland, 67th, Racine and over regular route, due to street blockage near Wallace/64th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-14T10:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108033"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Wallace/Racine",
+        "ServiceId": "44",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/44/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "af82992f-6ed5-45f7-816f-8dcc7a9c884e"
+  },
+  {
     "AlertId": "107997",
     "Headline": "#22 Clark Temporary Reroute at Clark/Foster",
     "ShortDescription": "22 Clark buses are temporarily rerouted via Clark, Foster, Ashland and Clark: due to, parade/festival near Clark/Foster.",
@@ -66,52 +100,5 @@
     },
     "ttim": "0",
     "GUID": "a1d93558-40f0-4eb9-b1f4-2ad45f96f552"
-  },
-  {
-    "AlertId": "108032",
-    "Headline": "Brown Line Service Experiencing Significant Delays Due to Raised Bridge",
-    "ShortDescription": "Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown",
-    "FullDescription": {
-      "#cdata-section": "<p>Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown</p>\r\n\r\n<p>Some trains may be either held or&nbsp;rerouted before reaching the bridge (in order&nbsp;to maintain service across the remainder of the route). Listen for announcements and check train destination signs when boarding.</p>\r\n\r\n<p>We apologize for this temporary inconvenience and appreciate your patience while the Chicago Department of Transportation works to complete the bridge operation. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-06-14T10:02:00",
-    "EventEnd": "2025-06-14T11:59:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108032"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Merchandise Mart",
-          "ServiceId": "40460",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=98"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "0bf35026-727d-46e5-8fa6-841afc747a32"
   }
 ]
