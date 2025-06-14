@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "107997",
-    "Headline": "#22 Clark Temporary Reroute at Clark/Foster",
-    "ShortDescription": "22 Clark buses are temporarily rerouted via Clark, Foster, Ashland and Clark: due to, parade/festival near Clark/Foster.",
-    "FullDescription": {
-      "#cdata-section": "<p>How will this affect my trip?</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#22 Clark buses are temporarily rerouted in both directions via Clark, Foster, Ashland, Clark and over regular route&nbsp;due to a parade/festival&nbsp;near Clark/Foster.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-13T06:05:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107997"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Clark",
-        "ServiceId": "22",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/22/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a1d93558-40f0-4eb9-b1f4-2ad45f96f552"
-  },
-  {
     "AlertId": "108017",
     "Headline": "#36 Broadway Temporary Reroute at Broadway/Wellington",
     "ShortDescription": "36 Broadway buses are temporarily rerouted via Clark, Diversey, Halsted, Belmont, and Broadway: due to, parade/festival near Broadway/Wellington.",
@@ -66,40 +32,6 @@
     },
     "ttim": "0",
     "GUID": "007217d7-a0ce-4832-9377-fba594651975"
-  },
-  {
-    "AlertId": "108051",
-    "Headline": "82 Kimball-Homan Temporary Reroute at Grand/Division",
-    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted in both directions via Homan, Augusta, Pulaski, Armitage, Kimball due to, street blockage near Grand/Division.",
-    "FullDescription": {
-      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted in both directions via Homan, Augusta, Pulaski, Armitage, Kimball, resume their normal route, due to street blockage near Grand/Division.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-14T18:10:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108051"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d743abd2-226d-4a3a-9077-9a71f5cb5a8b"
   },
   {
     "AlertId": "108046",
@@ -203,6 +135,74 @@
     },
     "ttim": "0",
     "GUID": "408f418f-8cdd-4806-be8c-ecf416874764"
+  },
+  {
+    "AlertId": "107997",
+    "Headline": "#22 Clark Temporary Reroute at Clark/Foster",
+    "ShortDescription": "22 Clark buses are temporarily rerouted via Clark, Foster, Ashland and Clark: due to, parade/festival near Clark/Foster.",
+    "FullDescription": {
+      "#cdata-section": "<p>How will this affect my trip?</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#22 Clark buses are temporarily rerouted in both directions via Clark, Foster, Ashland, Clark and over regular route&nbsp;due to a parade/festival&nbsp;near Clark/Foster.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-13T06:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=107997"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clark",
+        "ServiceId": "22",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/22/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a1d93558-40f0-4eb9-b1f4-2ad45f96f552"
+  },
+  {
+    "AlertId": "108051",
+    "Headline": "82 Kimball-Homan Temporary Reroute at Grand/Division",
+    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted in both directions via Homan, Augusta, Pulaski, Armitage, Kimball due to, street blockage near Grand/Division.",
+    "FullDescription": {
+      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted in both directions via Homan, Augusta, Pulaski, Armitage, Kimball, resume their normal route, due to street blockage near Grand/Division.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-14T18:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108051"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kimball-Homan",
+        "ServiceId": "82",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/82/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d743abd2-226d-4a3a-9077-9a71f5cb5a8b"
   },
   {
     "AlertId": "108048",
