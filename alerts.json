@@ -34,6 +34,53 @@
     "GUID": "e161458b-8508-4f4a-8275-05d2d890e780"
   },
   {
+    "AlertId": "108044",
+    "Headline": "#22 Clark and #152 Addison Temporary Reroute near Clark/Addison",
+    "ShortDescription": "22 Clark and 152 Addison buses are temporarily rerouted in both directions due to protests/march near Clark/Addison.",
+    "FullDescription": {
+      "#cdata-section": "<p>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to protests/march near Clark/Addison.</p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-14T14:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108044"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Addison",
+          "ServiceId": "152",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/152/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e4c115fe-2f4f-445a-9bad-3f2409b85392"
+  },
+  {
     "AlertId": "107997",
     "Headline": "#22 Clark Temporary Reroute at Clark/Foster",
     "ShortDescription": "22 Clark buses are temporarily rerouted via Clark, Foster, Ashland and Clark: due to, parade/festival near Clark/Foster.",
