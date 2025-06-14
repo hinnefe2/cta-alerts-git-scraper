@@ -1,73 +1,5 @@
 [
   {
-    "AlertId": "108025",
-    "Headline": "Purple Line Delays",
-    "ShortDescription": "Purple Line trains are running w/residual delays following earlier fire department activity near Central. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Purple Line trains are running with residual delays following earlier fire department activity near Central.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-06-13T21:46:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108025"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Purple Line",
-        "ServiceId": "P",
-        "ServiceBackColor": "522398",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/purpleline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a3ad8204-86d7-433e-b841-3e6dc1f37ce9"
-  },
-  {
-    "AlertId": "108027",
-    "Headline": "Temporary Reroute at Homan/Division",
-    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted near Homan/Division.",
-    "FullDescription": {
-      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted in both directions via Division, Grand, Homan, Chicago, Western, resume their normal route, due to street blockage near Homan/Division.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-13T22:50:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108027"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "87db6827-fa1a-47f4-90c3-d3acc5b60f7d"
-  },
-  {
     "AlertId": "108017",
     "Headline": "#36 Broadway Temporary Reroute at Broadway/Wellington",
     "ShortDescription": "36 Broadway buses are temporarily rerouted via Clark, Diversey, Halsted, Belmont, and Broadway: due to, parade/festival near Broadway/Wellington.",
@@ -134,6 +66,40 @@
     },
     "ttim": "0",
     "GUID": "a1d93558-40f0-4eb9-b1f4-2ad45f96f552"
+  },
+  {
+    "AlertId": "108027",
+    "Headline": "Temporary Reroute at Homan/Division",
+    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted near Homan/Division.",
+    "FullDescription": {
+      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted in both directions via Division, Grand, Homan, Chicago, Western, resume their normal route, due to street blockage near Homan/Division.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-13T22:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108027"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kimball-Homan",
+        "ServiceId": "82",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/82/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "87db6827-fa1a-47f4-90c3-d3acc5b60f7d"
   },
   {
     "AlertId": "108026",
