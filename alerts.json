@@ -1,5 +1,73 @@
 [
   {
+    "AlertId": "108017",
+    "Headline": "#36 Broadway Temporary Reroute at Broadway/Wellington",
+    "ShortDescription": "36 Broadway buses are temporarily rerouted via Clark, Diversey, Halsted, Belmont, and Broadway: due to, parade/festival near Broadway/Wellington.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#36 Broadway buses are temporarily rerouted in both directions via Clark, Diversey, Halsted, Belmont, Broadway and over the regular route, due to parade/festival near Broadway/Wellington.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-13T13:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108017"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Broadway",
+        "ServiceId": "36",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/36/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "007217d7-a0ce-4832-9377-fba594651975"
+  },
+  {
+    "AlertId": "108033",
+    "Headline": "#44 Wallace-Racine Temporary Reroute at Racine/64th",
+    "ShortDescription": "44 Wallace-Racine buses are temporarily rerouted via Racine, 63rd, Ashland 67th and Racine: due to, street blockage near Racine/64th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#44 Wallace-Racine buses are temporarily rerouted in both directions via Racine, 63rd, Ashland, 67th, Racine and over regular route, due to street blockage near Wallace/64th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-14T10:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108033"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Wallace/Racine",
+        "ServiceId": "44",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/44/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "af82992f-6ed5-45f7-816f-8dcc7a9c884e"
+  },
+  {
     "AlertId": "108044",
     "Headline": "#22 Clark and #152 Addison Temporary Reroute near Clark/Addison",
     "ShortDescription": "22 Clark and 152 Addison buses are temporarily rerouted in both directions due to protests/march near Clark/Addison.",
@@ -114,74 +182,6 @@
     },
     "ttim": "0",
     "GUID": "f63113b8-ca17-4b30-bcd0-fb52c7bf871c"
-  },
-  {
-    "AlertId": "108017",
-    "Headline": "#36 Broadway Temporary Reroute at Broadway/Wellington",
-    "ShortDescription": "36 Broadway buses are temporarily rerouted via Clark, Diversey, Halsted, Belmont, and Broadway: due to, parade/festival near Broadway/Wellington.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#36 Broadway buses are temporarily rerouted in both directions via Clark, Diversey, Halsted, Belmont, Broadway and over the regular route, due to parade/festival near Broadway/Wellington.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-13T13:24:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108017"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Broadway",
-        "ServiceId": "36",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/36/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "007217d7-a0ce-4832-9377-fba594651975"
-  },
-  {
-    "AlertId": "108033",
-    "Headline": "#44 Wallace-Racine Temporary Reroute at Racine/64th",
-    "ShortDescription": "44 Wallace-Racine buses are temporarily rerouted via Racine, 63rd, Ashland 67th and Racine: due to, street blockage near Racine/64th.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#44 Wallace-Racine buses are temporarily rerouted in both directions via Racine, 63rd, Ashland, 67th, Racine and over regular route, due to street blockage near Wallace/64th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-14T10:11:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108033"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Wallace/Racine",
-        "ServiceId": "44",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/44/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "af82992f-6ed5-45f7-816f-8dcc7a9c884e"
   },
   {
     "AlertId": "107997",
