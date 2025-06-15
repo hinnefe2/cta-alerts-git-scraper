@@ -106,7 +106,7 @@
     "Headline": "#29 State Temporary Reroute near Kinzie between Clark and State",
     "ShortDescription": "29 State buses temp. rrtd NB: State, Wacker, Dearborn, Illinois, State; SB: State, Grand, Clark, Wacker, State; due to blockage at Kinzie btwn Clark & State",
     "FullDescription": {
-      "#cdata-section": "<p>#29 State buses are temporarily rerouted in both directions near near Kinzie between Clark and State, due to street blockage.</p>\r\n\r\n<p>Northbound buses will operate via State, Wacker, Dearborn, Illinois, then resume their normal route on&nbsp;State.</p>\r\n\r\n<p>Southbound buses will operate via State, Grand, Clark, Wacker, then resume their normal route on&nbsp;State.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#29 State buses are temporarily rerouted in both directions&nbsp;near Kinzie between Clark and State, due to street blockage.</p>\r\n\r\n<p>Northbound buses will operate via State, Wacker, Dearborn, Illinois, then resume their normal route on&nbsp;State.</p>\r\n\r\n<p>Southbound buses will operate via State, Grand, Clark, Wacker, then resume their normal route on&nbsp;State.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -133,7 +133,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "f0dc11de-1bb1-4794-ad19-4bbb3ac0ab5d"
+    "GUID": "62d8ad9c-eb2d-4d5a-afd1-222dac4813f5"
   },
   {
     "AlertId": "108071",
@@ -168,6 +168,40 @@
     },
     "ttim": "0",
     "GUID": "b1f8deff-6b26-44f6-b496-bfd59425f1d7"
+  },
+  {
+    "AlertId": "108072",
+    "Headline": "#62 Archer Temporary Reroute near Kinzie between Clark and State.",
+    "ShortDescription": "62 Archer buses temp. rrtd NB: Kinzie, Dearborn, Hubbard, Clark, Kinzie; SB: Clark, Wacker, State, Kinzie; due to street blockage near Kinzie btwn Clark & State",
+    "FullDescription": {
+      "#cdata-section": "<p>#62 Archer buses are temporarily rerouted in both directions near Kinzie between Clark and State, due to street blockage.</p>\r\n\r\n<p>Northbound buses will operate via Kinzie, Dearborn, Hubbard, Clark, then resume their normal route on&nbsp;Kinzie.</p>\r\n\r\n<p>Southbound buses will operate via&nbsp;Clark, Wacker, State, then resume their normal route on&nbsp;Kinzie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-15T14:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108072"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Archer",
+        "ServiceId": "62",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/62/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "990bd9b3-e842-491c-b44e-c86542630983"
   },
   {
     "AlertId": "108051",
