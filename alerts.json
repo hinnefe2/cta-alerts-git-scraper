@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "108061",
+    "Headline": "Red and Brown Line Delays",
+    "ShortDescription": "Red and Brown Line trains are running w/residual delays following earlier unauthorized person on the tracks at Armitage. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red and Brown Line trains are running with residual delays following an earlier unauthorized person on the tracks at Armitage.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Shuttle buses are still available to provide service on the <strong>Brown Line between Clark/Lake - Southport and on the Red Line between Belmont - Roosevelt</strong><br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-06-15T06:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108061"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "47c52af7-96bf-48ba-9bba-97d0ad55d2f0"
+  },
+  {
     "AlertId": "108017",
     "Headline": "#36 Broadway Temporary Reroute at Broadway/Wellington",
     "ShortDescription": "36 Broadway buses are temporarily rerouted via Clark, Diversey, Halsted, Belmont, and Broadway: due to, parade/festival near Broadway/Wellington.",
@@ -134,52 +181,5 @@
     },
     "ttim": "0",
     "GUID": "d743abd2-226d-4a3a-9077-9a71f5cb5a8b"
-  },
-  {
-    "AlertId": "108061",
-    "Headline": "Red and Brown Line Service Delayed at Armitage",
-    "ShortDescription": "Red and Brown Line trains are standing at Armitage due to an unauthorized person on the tracks. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red and Brown Line trains are standing at Armitage due to an unauthorized person on the tracks.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#73 Armitage</strong></p>\r\n\r\n<p><strong>#50 Damen</strong></p>\r\n\r\n<p><strong>Shuttle buses are available&nbsp;</strong><strong>to provide connecting service through the affected area in both directions:</strong></p>\r\n\r\n<p><strong>Red Line: Belmont to Roosevelt</strong></p>\r\n\r\n<p><strong>Brown Line: Clark/Lake to Southport</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2025-06-15T06:10:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108061"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "39790b9b-3404-487f-83e1-507c1c826248"
   }
 ]
