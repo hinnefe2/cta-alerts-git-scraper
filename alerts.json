@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "108094",
-    "Headline": "Forest Park-bound Blue Line Service Delayed at Kedzie-Homan",
-    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Kedzie-Homan due to a mechanical problem. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Kedzie-Homan due to a mechanical problem.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-06-16T14:42:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108094"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6052aa76-e259-4773-a95e-9ba1489a75e0"
-  },
-  {
     "AlertId": "108083",
     "Headline": "#91 Austin Temporary Northbound Reroute near Austin/Division ",
     "ShortDescription": "Northbound 91 Austin buses are temporarily rerouted via Austin, Division, Central, North and Austin: due to, street blockage near Austin/Division.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "f439976d-abaf-473a-bbb0-f875583ca8b3"
+  },
+  {
+    "AlertId": "108094",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at Kedzie-Homan",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Kedzie-Homan due to a mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Kedzie-Homan due to a mechanical problem.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-06-16T14:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108094"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7de10d1c-9cfd-4c38-9070-3108a0f6cd76"
   }
 ]
