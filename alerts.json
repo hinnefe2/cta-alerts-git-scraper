@@ -1,5 +1,63 @@
 [
   {
+    "AlertId": "108098",
+    "Headline": "Linden-bound Purple & Kimball-bound Brown Line Delays",
+    "ShortDescription": "Linden-bound Purple & Kimball-bound Brown Line trains running w/residual delays following earlier sick customer at Fullerton. Service resuming, allow extra time",
+    "FullDescription": {
+      "#cdata-section": "<p>Linden-bound Purple &amp; Kimball-bound Brown Line trains are running with residual delays and congestion following an earlier sick customer at Fullerton.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-06-16T16:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108098"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b92ae160-27ef-43f0-b76b-c60ffd5b7781"
+  },
+  {
     "AlertId": "108083",
     "Headline": "#91 Austin Temporary Northbound Reroute near Austin/Division ",
     "ShortDescription": "Northbound 91 Austin buses are temporarily rerouted via Austin, Division, Central, North and Austin: due to, street blockage near Austin/Division.",
