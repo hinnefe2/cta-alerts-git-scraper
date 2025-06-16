@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "108095",
-    "Headline": "Dempster-Skokie-bound Yellow Line Delays",
-    "ShortDescription": "Dempster-Skokie-bound Yellow Line trains are running w/residual delays following an earlier signal problem near Howard. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Dempster-Skokie-bound Yellow Line trains are running with residual delays following an earlier signal problem near Howard.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-06-16T15:05:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108095"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Yellow Line",
-        "ServiceId": "Y",
-        "ServiceBackColor": "f9e300",
-        "ServiceTextColor": "000000",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/yellowline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0baef6c1-9fc8-4e82-9cb8-58a0ae7d5ad0"
-  },
-  {
     "AlertId": "108083",
     "Headline": "#91 Austin Temporary Northbound Reroute near Austin/Division ",
     "ShortDescription": "Northbound 91 Austin buses are temporarily rerouted via Austin, Division, Central, North and Austin: due to, street blockage near Austin/Division.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "f439976d-abaf-473a-bbb0-f875583ca8b3"
+  },
+  {
+    "AlertId": "108097",
+    "Headline": "O'Hare-bound Blue Line Service Delayed at kedzie",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing near Kedzie due to a mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing near Kedziedue to a mechanical problem.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-06-16T15:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108097"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "bc82ea71-2774-41af-8192-310b1bb4aeec"
   }
 ]
