@@ -1,50 +1,37 @@
 [
   {
-    "AlertId": "108114",
-    "Headline": "Forest Park- bound Blue Line Delays",
-    "ShortDescription": "Forest Park- bound Line trains are running w/residual delays following an earlier sick rider at UIC- Halsted. Service is resuming, allow extra time.",
+    "AlertId": "108115",
+    "Headline": "95th-bound Red Line Service Delayed at Argyle",
+    "ShortDescription": "95th-bound Red Line trains are standing at Argyle due to mechanical problems on a train.. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park- bound Line trains are running w/residual delays following an earlier sick rider at UIC- Halsted.&nbsp;</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th-bound Red Line trains are standing at Argyle due to mechanical problems on a train.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2025-06-17T12:20:00",
+    "EventStart": "2025-06-17T12:39:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108114"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108115"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "UIC-Halsted",
-          "ServiceId": "40350",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=132"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "b2f744e4-81db-4f73-9b5d-46cf22c839e2"
+    "GUID": "fa4191d1-7b8d-470d-9136-83b31fc9708a"
   },
   {
     "AlertId": "108103",
