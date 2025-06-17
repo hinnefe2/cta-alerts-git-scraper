@@ -66,5 +66,63 @@
     },
     "ttim": "0",
     "GUID": "353ff9ef-5dfe-4e93-9553-6b1d833de6c8"
+  },
+  {
+    "AlertId": "108125",
+    "Headline": "Kimball-bound Brown & Linden-bound Purple Line Service Delayed at Sedgwick",
+    "ShortDescription": "Kimball-bound Brown & Linden-bound Purple Line trains are standing at Sedgwick due to a door problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Kimball-bound Brown &amp; Linden-bound Purple Line trains are standing at Sedgwick due&nbsp;to a door problem.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-06-17T17:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108125"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b361ec7b-7365-42b8-b19f-395eb7bb9f9c"
   }
 ]
