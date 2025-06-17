@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "108103",
-    "Headline": "#72 North Temporary Eastbound Reroute near North Avenue Beach",
-    "ShortDescription": "Eastbound 72 North buses are unable to service North Avenue Beach. Customers may board Eastbound 72 North buses at North Avenue and Clark. ",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #72 North buses are unable to service North Avenue Beach. Customers may board Eastbound #72 North buses at North Avenue and Clark.&nbsp;</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-16T20:40:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108103"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "North",
-        "ServiceId": "72",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/72/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "353ff9ef-5dfe-4e93-9553-6b1d833de6c8"
-  },
-  {
     "AlertId": "108083",
     "Headline": "#91 Austin Temporary Northbound Reroute near Austin/Division ",
     "ShortDescription": "Northbound 91 Austin buses are temporarily rerouted via Austin, Division, Central, North and Austin: due to, street blockage near Austin/Division.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "f439976d-abaf-473a-bbb0-f875583ca8b3"
+  },
+  {
+    "AlertId": "108103",
+    "Headline": "#72 North Temporary Eastbound Reroute near North Avenue Beach",
+    "ShortDescription": "Eastbound 72 North buses are unable to service North Avenue Beach. Customers may board Eastbound 72 North buses at North Avenue and Clark. ",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #72 North buses are unable to service North Avenue Beach. Customers may board Eastbound #72 North buses at North Avenue and Clark.&nbsp;</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-16T20:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108103"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "North",
+        "ServiceId": "72",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/72/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "353ff9ef-5dfe-4e93-9553-6b1d833de6c8"
   }
 ]
