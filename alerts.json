@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "108143",
+    "Headline": "Howard-bound Red Line Service Delayed at 79th",
+    "ShortDescription": "Howard-bound Red Line trains are standing at 79th. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are&nbsp;standing&nbsp;at 79th&nbsp;due to a door problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-06-18T15:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108143"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "79th",
+          "ServiceId": "40240",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=11"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e4a4d2a6-4d74-448a-b7be-9309b358a751"
+  },
+  {
     "AlertId": "108142",
     "Headline": "Temporary #34 South Michigan Reroute near 131st//Eberhart",
     "ShortDescription": "34 South Michigan buses temp. rerouted near 131st//Eberhart.",
