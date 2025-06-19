@@ -1,10 +1,44 @@
 [
   {
-    "AlertId": "108159",
-    "Headline": "95th-bound Red Line and Loop-bound Purple Line Service Delayed near Wilson",
-    "ShortDescription": "95th-bound Red Line and Loop-bound Purple Line trains are standing major delays near Wilson. Crews working to restore service.",
+    "AlertId": "108160",
+    "Headline": "Temporary  #92 Foster Reroute at Kimball/Foster",
+    "ShortDescription": "92 Foster buses are temporarily rerouted near Kimball/Foster.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line and Loop-bound Purple Line trains are standing major&nbsp;delays near Wilson due to a signal problem.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#92 Foster&nbsp;buses are temporarily rerouted in both directions via Foster, Pulaski, Bryn Mawr, Kedzie, Foster, and resume normal route&nbsp;due to street blockage&nbsp;near Kimball/Foster.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-19T17:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108160"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Foster",
+        "ServiceId": "92",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/92/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "14517265-5388-4a8a-a4d5-83dbc47ae705"
+  },
+  {
+    "AlertId": "108159",
+    "Headline": "95th-bound Red Line and Loop-bound Purple Line Delays",
+    "ShortDescription": "95th-bound Red Line and Loop-bound Purple Line trains are running w/major delays near Wilson. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line and Loop-bound Purple Line trains are running w/major&nbsp;delays following earlier signal problems near Wilson.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "80",
     "SeverityColor": "c00c00",
@@ -55,6 +89,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "cd99dea6-4131-4b7c-93bb-4bbec40a1bf0"
+    "GUID": "cd047935-7d90-47a4-9305-f577f30f18d9"
   }
 ]
