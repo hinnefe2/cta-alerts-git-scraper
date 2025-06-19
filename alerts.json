@@ -68,16 +68,50 @@
     "GUID": "af5b7ec9-ce20-49d3-968a-c693ae94591e"
   },
   {
+    "AlertId": "108162",
+    "Headline": "Temporary Southbound #93 California/Dodge Reroute near Kimball/Foster",
+    "ShortDescription": "Southbound 93 California/Dodge buses are temporarily rerouted near Kimball/Foster.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #93 California/Dodge buses are temporarily rerouted via Foster, Kedzie, Montrose, Kimball, Lawrence, and resume normal route, due to street blockage&nbsp;near Kimball/Foster.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-19T17:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108162"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California/Dodge",
+        "ServiceId": "93",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/93/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b064f440-3891-473e-bde7-333260e55d41"
+  },
+  {
     "AlertId": "108159",
     "Headline": "95th-bound Red Line and Loop-bound Purple Line Delays",
-    "ShortDescription": "95th-bound Red Line and Loop-bound Purple Line trains are running w/major delays near Wilson. Service is resuming, allow extra time.",
+    "ShortDescription": "95th-bound Red Line and Loop-bound Purple Line trains are running w/significant delays near Wilson. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line and Loop-bound Purple Line trains are running w/major&nbsp;delays following earlier signal problems near Wilson.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th-bound Red Line and Loop-bound Purple Line trains are running w/significant delays following earlier signal problems near Wilson.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2025-06-19T17:10:00",
     "EventEnd": null,
     "TBD": "1",
@@ -123,6 +157,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "1434839e-e8fb-4876-abff-e37ad922c9f8"
+    "GUID": "d6095edc-56fb-4156-9227-78ad82891a89"
   }
 ]
