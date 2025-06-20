@@ -1,5 +1,63 @@
 [
   {
+    "AlertId": "108196",
+    "Headline": "Linden-bound Purple & Kimball-bound Brown Line Delays",
+    "ShortDescription": "Purple & Brown Line trains running w/residual delays following an earlier track condition at Belmont. Service resuming, allow extra time",
+    "FullDescription": {
+      "#cdata-section": "<p>Linden-bound Purple &amp; Kimball-bound Brown Line trains are running with residual delays following an earlier track condition near Belmont.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-06-20T17:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108196"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "39090972-5665-46c6-9785-978bfe245f82"
+  },
+  {
     "AlertId": "108186",
     "Headline": "#22 Clark Temporary Reroute at Clark/Addison",
     "ShortDescription": "22 Clark buses are temporarily rerouted via Clark, Racine, Belmont, then resume their normal route on Clark, due to street blockage near Clark/Addison.",
@@ -68,74 +126,16 @@
     "GUID": "cccd05e0-6ff0-44e7-b71c-ca61163e9d40"
   },
   {
-    "AlertId": "108196",
-    "Headline": "Linden-bound Purple & Kimball-bound Brown Line Service Delayed at Belmont",
-    "ShortDescription": "Linden-bound Purple & Kimball-bound Brown Line trains are standing at Belmont due to a track condition. Crews working to restore service.",
+    "AlertId": "108195",
+    "Headline": "Pink Line Delays",
+    "ShortDescription": "Pink Line trains running w/residual delays & congestion following earlier unauthorized person on the tracks at 54th/Cermak. Service resuming, allow extra time",
     "FullDescription": {
-      "#cdata-section": "<p>Linden-bound Purple &amp; Kimball-bound Brown Line trains are standing at Belmont due to a track condition.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Pink Line trains are running with residual delays and congestion following an earlier unauthorized person on the tracks at 54th/Cermak.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Significant Delays",
-    "EventStart": "2025-06-20T17:16:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108196"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "a13038fd-dff1-4897-a281-08e05f7d38be"
-  },
-  {
-    "AlertId": "108195",
-    "Headline": "No trains between 54th/Cermak and Central Park",
-    "ShortDescription": "Pink Line service has been temporarily suspended between 54th/Cermak and Central Park due to an unauthorized person on the tracks at 54th/Cermak.",
-    "FullDescription": {
-      "#cdata-section": "<p>Pink Line service has been temporarily suspended between 54th/Cermak and Central Park due to an unauthorized person on the tracks at 54th/Cermak.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between the Loop &#39;L&#39; and Central Park at this time.</strong></p>\r\n\r\n<p><strong>Shuttle buses have been requested between 54th/Cermak and Central Park to provide connecting service.</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
     "EventStart": "2025-06-20T16:50:00",
     "EventEnd": null,
     "TBD": "1",
@@ -157,6 +157,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "35b40ad0-2c54-431e-b8c9-e054bc610f65"
+    "GUID": "13e6da44-c16b-43f9-9ec5-b590c188ff8b"
   }
 ]
