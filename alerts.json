@@ -1,10 +1,78 @@
 [
   {
+    "AlertId": "108186",
+    "Headline": "#22 Clark Temporary Reroute at Clark/Addison",
+    "ShortDescription": "22 Clark buses are temporarily rerouted via Clark, Racine, Belmont, then resume their normal route on Clark, due to street blockage near Clark/Addison.",
+    "FullDescription": {
+      "#cdata-section": "<p>#22 Clark buses are temporarily rerouted in both directions via Clark, Racine, Belmont, then resume their normal route on Clark, due to street blockage near Clark/Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-20T15:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108186"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clark",
+        "ServiceId": "22",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/22/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a9c99aed-5fdd-4bab-afec-2f6903653a78"
+  },
+  {
+    "AlertId": "108187",
+    "Headline": "#152 Addison Temporary Reroute at Clark/Addison",
+    "ShortDescription": "152 Addison buses are temp. rerouted via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison, due to street blockage near Clark/Addison",
+    "FullDescription": {
+      "#cdata-section": "<p>#152 Addison buses are temporarily rerouted in both directions via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison, due to street blockage near Clark/Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-20T15:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108187"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Addison",
+        "ServiceId": "152",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/152/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cccd05e0-6ff0-44e7-b71c-ca61163e9d40"
+  },
+  {
     "AlertId": "108185",
     "Headline": "Green & Orange Line Delays",
     "ShortDescription": "Green & Orange Line trains running with residual delays and congestion following an earlier signal problem near Cermak. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Green and Orange Line trains are running with residual delays and congestion following an earlier signal problem near Cermak.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p><strong>Shuttle buses are available to provide connecting service between Adams/Wabash and Indiana, and between Roosevelt and 35th/Archer.</strong></p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green and Orange Line trains are running with residual delays and congestion following an earlier signal problem near Cermak.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -44,6 +112,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "f2d349c8-9dfa-42d7-9347-013e72d3c718"
+    "GUID": "5162cd24-7e25-47ed-8291-b21115cba1b1"
   }
 ]
