@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "108190",
+    "Headline": "Red Line Service Delayed near Cermak-Chinatown",
+    "ShortDescription": "Red Line trains are standing at Cermak-Chinatown due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are standing at Cermak-Chinatown due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-06-20T16:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108190"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b2f8ab03-6afb-4b20-a1ce-cce6e7e32c89"
+  },
+  {
     "AlertId": "108186",
     "Headline": "#22 Clark Temporary Reroute at Clark/Addison",
     "ShortDescription": "22 Clark buses are temporarily rerouted via Clark, Racine, Belmont, then resume their normal route on Clark, due to street blockage near Clark/Addison.",
