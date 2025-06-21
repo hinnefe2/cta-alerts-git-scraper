@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "108204",
-    "Headline": "Red Line Service Delayed at 47th",
-    "ShortDescription": "Red Line trains are standing at 47th due to a medical emergency on the tracks. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing at 47th due to a medical emergency on the tracks.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-06-21T09:40:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108204"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "dccb771c-295c-40ca-8a75-5906fdf56f5a"
-  },
-  {
     "AlertId": "108200",
     "Headline": "Temporary #12 Roosevelt Reroute at Roosevelt/Western",
     "ShortDescription": "12 Roosevelt buses are temporarily rerouted near Roosevelt/Western.",
@@ -66,5 +32,73 @@
     },
     "ttim": "0",
     "GUID": "89d83dd0-b3f5-4c90-a255-be4ae484c6d6"
+  },
+  {
+    "AlertId": "108205",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at LaSalle",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at LaSalle due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at LaSalle due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-06-21T09:45:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108205"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b9740279-f823-494c-9b25-297b233c4602"
+  },
+  {
+    "AlertId": "108204",
+    "Headline": "Red Line Service Delayed at 47th",
+    "ShortDescription": "Red Line trains are standing at 47th due to a medical emergency on the tracks. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are standing at 47th due to a medical emergency on the tracks.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-06-21T09:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108204"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "14f1ebc2-72e8-4e33-bfbc-f14ceae12b55"
   }
 ]
