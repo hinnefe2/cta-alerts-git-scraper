@@ -100,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "b83dab40-61a7-4142-997a-86c236491742"
+  },
+  {
+    "AlertId": "108274",
+    "Headline": "#126 Jackson Temporary Reroute near Jackson/Parkside Ave.",
+    "ShortDescription": "#126 Jackson buses are temporarily rerouted in both directions, due to street blockage near Jackson/Parkside Ave.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#126 Jackson buses are temporarily rerouted in both directions, due to street blockage near Jackson/Parkside Ave.</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Westbound</strong> buses will operate via Jackson, Central, Madison, Austin, then resume their normal route on Jackson.</li>\r\n\t<li><strong>Eastbound</strong> buses will operate via Madison, Central, Jackson, then resume their normal route.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-23T23:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108274"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson",
+        "ServiceId": "126",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/126/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c82015d5-3383-44ae-bf6e-c52bed2b0896"
   }
 ]
