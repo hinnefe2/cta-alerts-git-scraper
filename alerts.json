@@ -1,36 +1,49 @@
 [
   {
-    "AlertId": "108303",
-    "Headline": "#75 74th-75th Temporary Westbound Reroute near 74th/Ashland",
-    "ShortDescription": "Westbound 75 74th-75th buses are temporarily rerouted via 74th, Ashland, 76th, Damen and the Terminal: due to street blockage near 74th/Ashland.",
+    "AlertId": "108328",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at UIC Halsted",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at UIC Halsted. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound #75 74th-75th buses are temporarily rerouted via 74th, Ashland, 76th, Damen and the Terminal: due to street blockage near 74th/Ashland.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are&nbsp;standing&nbsp;at UIC Halsted&nbsp;due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-25T09:03:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-06-25T14:31:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108303"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108328"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "74th-75th",
-        "ServiceId": "75",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/75/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "UIC-Halsted",
+          "ServiceId": "40350",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=132"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "79ad05fe-ff02-4b02-9a2a-4d18d42ccde9"
+    "GUID": "ccfda4ad-6a82-4367-8ecf-7a92ac4374e1"
   }
 ]
