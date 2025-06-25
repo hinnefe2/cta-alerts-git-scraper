@@ -1,49 +1,15 @@
 [
   {
-    "AlertId": "108333",
-    "Headline": "Temporary Westbound #20 Madison Reroute near Madison/Hamlin",
-    "ShortDescription": "Westbound 20 Madison buses are temporarily rerouted near Madison/Hamlin.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #20 Madison buses are temporarily rerouted via Madison, Hamlin, Washington, Pulaski, Madison, and resume normal route, due to street blockage near Madison/Hamlin.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-25T15:54:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108333"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Madison",
-        "ServiceId": "20",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/20/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6ba21ee7-c24a-4f86-9a3a-df8c3a064a0b"
-  },
-  {
     "AlertId": "108332",
     "Headline": "Howard-bound Red Line Delays",
-    "ShortDescription": "Howard-bound Red Line trains are running w/significant delays at Lake. Service is resuming, allow extra time.",
+    "ShortDescription": "Howard-bound Red Line trains are running w/residual delays at Lake. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are running with significant&nbsp;delays following an earlier sick customer&nbsp;at Lake.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are running with residual delays following an earlier sick customer at Lake.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2025-06-25T15:34:00",
     "EventEnd": null,
     "TBD": "1",
@@ -78,6 +44,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "c809088a-3847-4c4f-a1d8-24d3ab23ec7b"
+    "GUID": "7e567fb1-2152-4aac-a4aa-4ebb3acf4b64"
+  },
+  {
+    "AlertId": "108333",
+    "Headline": "Temporary Westbound #20 Madison Reroute near Madison/Hamlin",
+    "ShortDescription": "Westbound 20 Madison buses are temporarily rerouted near Madison/Hamlin.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #20 Madison buses are temporarily rerouted via Madison, Hamlin, Washington, Pulaski, Madison, and resume normal route, due to street blockage near Madison/Hamlin.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-25T15:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108333"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6ba21ee7-c24a-4f86-9a3a-df8c3a064a0b"
   }
 ]
