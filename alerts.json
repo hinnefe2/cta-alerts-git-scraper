@@ -34,6 +34,98 @@
     "GUID": "6ba21ee7-c24a-4f86-9a3a-df8c3a064a0b"
   },
   {
+    "AlertId": "108339",
+    "Headline": "#3 King Drive, #4 Cottage Grove and #6 Jackson Park Temporary Northbound Reroute near Michigan/Monroe",
+    "ShortDescription": "NB #3 King Drive, #4 Cottage Grove & #6 Jackson Park buses are rr via Michigan, Adams, State, Washington & Michigan, due to street blockage near Michigan/Monroe",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect m trip?</strong></p>\r\n\r\n<p><strong>Northbound</strong> #3 King Drive, #4 Cottage Grove and #6 Jackson Park buses are temporarily rerouted via Michigan, Adams, State, Washington, Michigan, then resume normal route, due to street blockage near Michigan/Monroe.</p>\r\n\r\n<p><strong>Southbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-25T23:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108339"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "King Drive",
+          "ServiceId": "3",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/3/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5a1a043c-29b3-4539-91f4-cace2b5d93e5"
+  },
+  {
+    "AlertId": "108340",
+    "Headline": "#J14 Jeffrey Jump Temporary Westbound Reroute near Michigan/Monroe",
+    "ShortDescription": "Westbound #J14 Jeffrey Jump buses are temp. rerouted via Michigan, Adams, State, Madison, then resume normal route, due to street blockage near Michigan/Monroe.",
+    "FullDescription": {
+      "#cdata-section": "<p><span style=\"font-weight: bolder;\">How does this affect m trip?</span></p>\r\n\r\n<p><strong>Westbound </strong>#J14 Jeffrey Jump buses are temporarily rerouted via Michigan, Adams, State, Madison, then resume normal route, due to street blockage near Michigan/Monroe.</p>\r\n\r\n<p><strong>Eastbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-25T23:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108340"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Jump",
+        "ServiceId": "J14",
+        "ServiceBackColor": "0065BD",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7c3f545b-a000-42d8-a5cc-f630fb8abd56"
+  },
+  {
     "AlertId": "108338",
     "Headline": "Pink Line Service Running with Delays",
     "ShortDescription": "Pink Line trains are running with wait times of up to 30 minutes; we're working to restore service. Allow extra time.",
