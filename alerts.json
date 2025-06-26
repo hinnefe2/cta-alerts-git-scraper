@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "108342",
+    "Headline": "#72 North Temporary Westbound Reroute near North Avenue/Laramie",
+    "ShortDescription": "Westbound #72 North buses are rerouted via North Avenue, Cicero, Division, Central and North Avenue, due to fire department activity near North Avenue/Laramie.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Westbound </strong>#72 North buses are temporarily rerouted via North Avenue, Cicero, Division, Central, then resume normal route on North Avenue, due to fire department activity near North Avenue/Laramie.</p>\r\n\r\n<p><strong>Eastbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-26T03:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108342"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "North",
+        "ServiceId": "72",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/72/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d348e051-9e8d-4dc9-a7af-825c13e815d4"
+  },
+  {
     "AlertId": "108333",
     "Headline": "Temporary Westbound #20 Madison Reroute near Madison/Hamlin",
     "ShortDescription": "Westbound 20 Madison buses are temporarily rerouted near Madison/Hamlin.",
