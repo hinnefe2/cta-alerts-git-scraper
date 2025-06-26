@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "108342",
-    "Headline": "#72 North Temporary Westbound Reroute near North Avenue/Laramie",
-    "ShortDescription": "Westbound #72 North buses are rerouted via North Avenue, Cicero, Division, Central and North Avenue, due to fire department activity near North Avenue/Laramie.",
+    "Headline": "#72 North Temporary Reroute near North Avenue/Laramie",
+    "ShortDescription": "72 North buses are rerouted via North Avenue, Cicero, Division, Central and North Avenue, due to fire department activity near North Avenue/Laramie.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Westbound </strong>#72 North buses are temporarily rerouted via North Avenue, Cicero, Division, Central, then resume normal route on North Avenue, due to fire department activity near North Avenue/Laramie.</p>\r\n\r\n<p><strong>Eastbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#72&nbsp;North buses are temporarily rerouted in both directions via North Avenue, Cicero, Division, Central, North Avenue and over regular&nbsp;route, due to fire department activity near North Avenue/Latrobe.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "d348e051-9e8d-4dc9-a7af-825c13e815d4"
+    "GUID": "407d8ebd-fc0e-4751-afe0-137b5ced01cb"
+  },
+  {
+    "AlertId": "108347",
+    "Headline": "#91 Austin Temporary Northbound Reroute near Diversey/Austin",
+    "ShortDescription": "Northbound 91 Austin buses are temporarily rerouted via Austin, Diversey, Narragansett, Belmont and Austin: due to, street blockage  near Diversey/Austin.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Northbound #91 Austin buses are temporarily rerouted via Austin, Diversey, Narragansett, Belmont and Austin: due to, street blockage&nbsp; near Diversey/Austin.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-26T10:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108347"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Austin",
+        "ServiceId": "91",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/91/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b6c97a73-6404-4a20-b1ee-9e13b87bba60"
   }
 ]
