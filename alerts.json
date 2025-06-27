@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "108373",
+    "Headline": "Forest Park- bound Blue Line Delays",
+    "ShortDescription": "Forest Park- bound Blue Line trains are running w/residual delays following an earlier sick rider at UIC-Halsted. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park- bound Blue Line trains are running w/residual delays following an earlier sick rider at UIC-Halsted.&nbsp;</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-06-27T12:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108373"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "UIC-Halsted",
+          "ServiceId": "40350",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=132"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "7e8dde26-1814-4a30-901e-294fdb0e9f0f"
+  },
+  {
     "AlertId": "108370",
     "Headline": "#72 North Temporary Westbound Reroute near North Avenue/Laramie",
     "ShortDescription": "WB 72 North buses are temp. rerouted via North Avenue, Laramie, Division, Central and North Avenue: due to, fire department activity near North Avenue/Laramie.",
