@@ -68,38 +68,85 @@
     "GUID": "b92a2fc2-e11f-4622-8e09-0d6a4a658d0a"
   },
   {
-    "AlertId": "108342",
-    "Headline": "#72 North Temporary Reroute near North Avenue/Laramie",
-    "ShortDescription": "72 North buses are rerouted via North Avenue, Cicero, Division, Central and North Avenue, due to fire department activity near North Avenue/Laramie.",
+    "AlertId": "108358",
+    "Headline": "#62 Archer & 62H Archer/Harlem Temporary Reroute at Archer/Narragansett",
+    "ShortDescription": "#62 Archer & 62H Archer/Harlem buses are temp rerouted in both directions via, Archer, Central, 63rd Harlem, due to street blockage near Archer/Narragansett.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#72&nbsp;North buses are temporarily rerouted in both directions via North Avenue, Cicero, Division, Central, North Avenue and over regular&nbsp;route, due to fire department activity near North Avenue/Latrobe.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#62 Archer and&nbsp; 62H Archer/Harlem buses are temporarily rerouted in both directions via, Archer, Central, 63rd Harlem, then resume their normal route on Archer due to street blockage near Archer/Narragansett.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-26T03:40:00",
+    "EventStart": "2025-06-26T19:56:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108342"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108358"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer/Harlem",
+          "ServiceId": "62H",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62h/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "de77a875-21c7-415f-88a3-76d29bd2aee5"
+  },
+  {
+    "AlertId": "108359",
+    "Headline": "#55N 55th/Narragansett Temporary Reroute at Archer/Narragansett",
+    "ShortDescription": "#55N 55th/Narragansett buses are temp rerouted in both directions via 55th, Central, Austin and Narragansett, due to street blockage near  Archer/Narragansett.",
+    "FullDescription": {
+      "#cdata-section": "<p>#55N 55th/Narragansett buses are temporarily rerouted in both directions via 55th, Central, Austin and Narragansett, due to street blockage near&nbsp; Archer/Narragansett.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-26T20:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108359"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "North",
-        "ServiceId": "72",
+        "ServiceName": "55th/Narragansett",
+        "ServiceId": "55N",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/72/"
+          "#cdata-section": "http://www.transitchicago.com/bus/55n/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "407d8ebd-fc0e-4751-afe0-137b5ced01cb"
+    "GUID": "f59ccd64-b684-46a7-ab4f-2ceed8528f0f"
   },
   {
     "AlertId": "108347",
