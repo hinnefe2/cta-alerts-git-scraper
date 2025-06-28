@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "108397",
-    "Headline": "Kimball-bound Brown Line Delays",
-    "ShortDescription": "Kimball-bound Brown Line trains are running w/residual delays following an earlier mechanical problem near Paulina. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Kimball-bound Brown Line trains are running with residual delays following an earlier mechanical problem near Paulina.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-06-28T16:28:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108397"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "337cd359-8684-4139-96d9-c664dd105f18"
-  },
-  {
     "AlertId": "108394",
     "Headline": "#36 Broadway Temporary Northbound Reroute near Broadway/Grace",
     "ShortDescription": "NB 36 Broadway buses are temporarily rerouted via Broadway, Addison, Halsted & Broadway, due to police department activity near Broadway/Grace.",
@@ -134,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "b92a2fc2-e11f-4622-8e09-0d6a4a658d0a"
+  },
+  {
+    "AlertId": "108398",
+    "Headline": "63rd-bound Green & Midway-bound Orange Line Service Delayed near Roosevelt",
+    "ShortDescription": "63rd-bound Green & Midway-bound Orange Line trains are standing near Roosevelt due to a track condition. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>63rd-bound Green &amp; Midway-bound Orange Line trains are standing near Roosevelt due to a track condition.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-06-28T16:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108398"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c7f0377e-9dad-4db2-9228-324769c74c84"
   }
 ]
