@@ -1,5 +1,73 @@
 [
   {
+    "AlertId": "108399",
+    "Headline": "Forest Park-bound Blue Line Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following an earlier mechanical problem at Logan Square. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with residual delays and congestion following an earlier mechanical problem at Logan Square.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-06-28T17:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108399"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "86ce887f-87e2-41a5-a864-ad04a3d5ab65"
+  },
+  {
+    "AlertId": "108394",
+    "Headline": "#36 Broadway Temporary Northbound Reroute near Broadway/Grace",
+    "ShortDescription": "NB 36 Broadway buses are temporarily rerouted via Broadway, Addison, Halsted & Broadway, due to police department activity near Broadway/Grace.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound&nbsp;#36 Broadway buses are temporarily rerouted via Broadway, Addison, Halsted, then resume their normal route on&nbsp;Broadway, due to police department activity near Broadway/Grace.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-28T14:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108394"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Broadway",
+        "ServiceId": "36",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/36/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "86ffbf03-38c1-440e-96af-aec1350e8273"
+  },
+  {
     "AlertId": "108356",
     "Headline": "#152 Addison Temporary Westbound Reroute near  Clark/Addison",
     "ShortDescription": "Westbound #152 Addison buses are temporarily rerouted via Addison, Racine, Belmont, Halsted, due to street blockage near Clark/Addison.",
@@ -66,73 +134,5 @@
     },
     "ttim": "0",
     "GUID": "b92a2fc2-e11f-4622-8e09-0d6a4a658d0a"
-  },
-  {
-    "AlertId": "108394",
-    "Headline": "#36 Broadway Temporary Northbound Reroute near Broadway/Grace",
-    "ShortDescription": "NB 36 Broadway buses are temporarily rerouted via Broadway, Addison, Halsted & Broadway, due to police department activity near Broadway/Grace.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound&nbsp;#36 Broadway buses are temporarily rerouted via Broadway, Addison, Halsted, then resume their normal route on&nbsp;Broadway, due to police department activity near Broadway/Grace.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-28T14:40:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108394"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Broadway",
-        "ServiceId": "36",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/36/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "86ffbf03-38c1-440e-96af-aec1350e8273"
-  },
-  {
-    "AlertId": "108399",
-    "Headline": "Forest Park-bound Blue Line Service Delayed at Logan Square",
-    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Logan Square due to a mechanical problem. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Logan Square due to a mechanical problem.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-06-28T17:13:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108399"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "62994788-2861-42b8-bbc2-b85f814eff36"
   }
 ]
