@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "108370",
+    "Headline": "#72 North Temporary Westbound Reroute near North Avenue/Laramie",
+    "ShortDescription": "WB 72 North buses are temp. rerouted via North Avenue, Laramie, Division, Central and North Avenue: due to, fire department activity near North Avenue/Laramie.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound&nbsp; #72 North buses are temporarily rerouted via North Avenue, Laramie, Division, Central and North Avenue: due to, fire department activity near North Avenue/Laramie.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-27T09:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108370"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "North",
+        "ServiceId": "72",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/72/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f7e5131a-ff78-4232-b9a6-a1140cf36eb6"
+  },
+  {
     "AlertId": "108356",
     "Headline": "#152 Addison Temporary Westbound Reroute near  Clark/Addison",
     "ShortDescription": "Westbound #152 Addison buses are temporarily rerouted via Addison, Racine, Belmont, Halsted, due to street blockage near Clark/Addison.",
@@ -66,73 +100,5 @@
     },
     "ttim": "0",
     "GUID": "b92a2fc2-e11f-4622-8e09-0d6a4a658d0a"
-  },
-  {
-    "AlertId": "108370",
-    "Headline": "#72 North Temporary Westbound Reroute near North Avenue/Laramie",
-    "ShortDescription": "WB 72 North buses are temp. rerouted via North Avenue, Laramie, Division, Central and North Avenue: due to, fire department activity near North Avenue/Laramie.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound&nbsp; #72 North buses are temporarily rerouted via North Avenue, Laramie, Division, Central and North Avenue: due to, fire department activity near North Avenue/Laramie.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-27T09:38:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108370"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "North",
-        "ServiceId": "72",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/72/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f7e5131a-ff78-4232-b9a6-a1140cf36eb6"
-  },
-  {
-    "AlertId": "108372",
-    "Headline": "#82 Kimball-Homan Temporary Southbound Reroute near Kimball/Fullerton",
-    "ShortDescription": "Southbound 82 Kimball-Homan buses are temporarily rerouted via Kimball, Diversey, Central Park, Fullerton and Kimball: near Kimball/Fullerton.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Southbound #82 Kimball-Homan&nbsp;buses are temporarily rerouted via Kimball, Diversey, Central Park, Fullerton, Kimball and over regular route, due to street blockage near Kimball/Fullerton.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-27T10:48:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108372"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "81726af2-f61f-4ef7-b41e-90c26b980e68"
   }
 ]
