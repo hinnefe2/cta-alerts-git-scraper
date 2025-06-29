@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "108406",
+    "Headline": "#29 State, #62 Archer Temporary Northbound Reroute near State/13th",
+    "ShortDescription": "Northbound 29 State, 62 Archer buses are temporarily rerouted via State, 13th, Wabash, Roosevelt and State: due to, street blockage near State/13th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #29 State, #62 Archer buses are temporarily rerouted via State, 13th, Wabash, Roosevelt and State: due to, street blockage near State/13th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-06-29T06:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108406"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "State",
+          "ServiceId": "29",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/29/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "59ec6e29-998f-4aa6-bd07-124fc50ae7c1"
+  },
+  {
     "AlertId": "108356",
     "Headline": "#152 Addison Temporary Westbound Reroute near  Clark/Addison",
     "ShortDescription": "Westbound #152 Addison buses are temporarily rerouted via Addison, Racine, Belmont, Halsted, due to street blockage near Clark/Addison.",
@@ -66,52 +113,5 @@
     },
     "ttim": "0",
     "GUID": "b92a2fc2-e11f-4622-8e09-0d6a4a658d0a"
-  },
-  {
-    "AlertId": "108406",
-    "Headline": "#29 State, #62 Archer Temporary Northbound Reroute near State/13th",
-    "ShortDescription": "Northbound 29 State, 62 Archer buses are temporarily rerouted via State, 13th, Wabash, Roosevelt and State: due to, street blockage near State/13th.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #29 State, #62 Archer buses are temporarily rerouted via State, 13th, Wabash, Roosevelt and State: due to, street blockage near State/13th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-06-29T06:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108406"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "State",
-          "ServiceId": "29",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/29/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Archer",
-          "ServiceId": "62",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/62/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "59ec6e29-998f-4aa6-bd07-124fc50ae7c1"
   }
 ]
