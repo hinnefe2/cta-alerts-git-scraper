@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "108418",
+    "Headline": "Belmont Station Bypassed",
+    "ShortDescription": "Red & Brown Line trains are bypassing Belmont for safety reasons. Use nearby Addison (Red Line) or Wellington (Brown Line) stops instead.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>Red &amp; Brown Line trains are bypassing Belmont for safety reasons. Use nearby Addison (Red Line) or Wellington (Brown Line) stops instead.</strong></p>\r\n\r\n<ul>\r\n\t<li>Red Line trains are running but are&nbsp;not stopping at Belmont, Addison and Sheridan stations.</li>\r\n\t<li>Brown Line trains are running but are not stopping at Belmont station.</li>\r\n</ul>\r\n\r\n<p>Please&nbsp;see station personnel or visit transitchicago.com for more details.</p>\r\n"
+    },
+    "SeverityScore": "54",
+    "SeverityColor": "f9461c",
+    "SeverityCSS": "major",
+    "Impact": "Minor Delays, Station(s) Bypassed",
+    "EventStart": "2025-06-29T19:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108418"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e4b57182-deb0-42eb-b817-20deddf7555d"
+  },
+  {
     "AlertId": "108416",
     "Headline": "#72 North Temporary Reroute at North Avenue/Clark",
     "ShortDescription": "72 North buses will terminate at North Avenue/Clark due to a beach terminal closure because of overcrowding.",
