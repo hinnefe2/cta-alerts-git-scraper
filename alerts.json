@@ -1,5 +1,73 @@
 [
   {
+    "AlertId": "108462",
+    "Headline": "Temporary #29 State Reroute at State/Roosevelt",
+    "ShortDescription": "29 State buses are temporarily rerouted near State/Roosevelt.",
+    "FullDescription": {
+      "#cdata-section": "<p>#29 State buses are temporarily rerouted in both directions via State, Polk, Clark, Roosevelt, State, and resume&nbsp; regular route, due to street blockage near State/Roosevelt.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-02T05:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108462"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "665cdc43-2b14-4ce8-89c5-919458b89c95"
+  },
+  {
+    "AlertId": "108463",
+    "Headline": "Temporary #62 Archer Reroute at State/Roosevelt",
+    "ShortDescription": "62 Archer buses are temporarily rerouted near State/Roosevelt",
+    "FullDescription": {
+      "#cdata-section": "<p>#62 Archer buses are temporarily rerouted in both directions via State, Polk, Clark, Roosevelt, State, and resume&nbsp;regular route, due to street blockage near State/Roosevelt.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-02T05:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108463"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Archer",
+        "ServiceId": "62",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/62/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c135eae0-f189-49a0-baf7-c70425f1160b"
+  },
+  {
     "AlertId": "108461",
     "Headline": "Howard-bound Red Line trains bypassing Roosevelt Station",
     "ShortDescription": "Howard-bound Red Line trains are running, but not stopping at Roosevelt due to police activity.",
