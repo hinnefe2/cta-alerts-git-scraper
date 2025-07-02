@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "108461",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running w/residual delays following an earlier police investigation at Roosevelt. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running with residual&nbsp;delays following an earlier police investigation&nbsp;at Roosevelt.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-02T04:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108461"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "fe348a50-1826-41ac-b5b9-b86896a5a60a"
+  },
+  {
     "AlertId": "108462",
     "Headline": "Temporary #29 State Reroute at State/Roosevelt",
     "ShortDescription": "29 State buses are temporarily rerouted near State/Roosevelt.",
@@ -100,39 +134,5 @@
     },
     "ttim": "0",
     "GUID": "64c15e75-16e5-45d1-bf1b-29ece9faa243"
-  },
-  {
-    "AlertId": "108461",
-    "Headline": "Red Line Delays",
-    "ShortDescription": "Red Line trains are running w/significant delays following an earlier police investigation at Roosevelt. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running with&nbsp;significant delays following an earlier police investigation&nbsp;at Roosevelt.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-07-02T04:55:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108461"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "16e3cc42-50ae-4aa1-9a44-3df984cc336f"
   }
 ]
