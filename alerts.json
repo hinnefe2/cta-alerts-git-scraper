@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "108472",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following an earlier mechanical problem at Damen. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with residual delays following an earlier mechanical problem at Damen.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-02T13:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108472"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0259c625-7eaa-4071-b46c-b4a8c1fe11e4"
+  },
+  {
     "AlertId": "108466",
     "Headline": "Temporary Westbound #51 51st Reroute near 51st/Union",
     "ShortDescription": "Westbound 51 51st buses are temporarily rerouted near 1st/Union",
@@ -66,40 +100,6 @@
     },
     "ttim": "0",
     "GUID": "e7be5279-0e0c-446c-bd90-fef71ba096a2"
-  },
-  {
-    "AlertId": "108470",
-    "Headline": "Temporary #8 Halsted Reroute at Halsted/Oakdale",
-    "ShortDescription": "8 Halsted buses are temporarily rerouted near Halsted/Oakdale.",
-    "FullDescription": {
-      "#cdata-section": "<p>#8 Halsted buses are temporarily rerouted in both directions via Halsted, Clark, Diversey, Halsted, and resume normal route, due to street blockage near Halsted/Oakdale.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-02T12:46:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108470"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Halsted",
-        "ServiceId": "8",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/8/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c361f867-e7c0-4315-81fc-c37ef0fb9631"
   },
   {
     "AlertId": "108462",
@@ -202,39 +202,5 @@
     },
     "ttim": "0",
     "GUID": "64c15e75-16e5-45d1-bf1b-29ece9faa243"
-  },
-  {
-    "AlertId": "108472",
-    "Headline": "O'Hare-bound Blue Line Service Delayed at Damen",
-    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Damen due to a mechanical problem. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Damen due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-07-02T13:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108472"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c002c01c-7e9b-49b1-9be4-93eec9354ac6"
   }
 ]
