@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "108461",
+    "Headline": "Howard-bound Red Line trains bypassing Roosevelt Station",
+    "ShortDescription": "Howard-bound Red Line trains are running, but not stopping at Roosevelt due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>Howard-bound Red Line trains are running, but not stopping at Roosevelt due to police activity.</strong></p>\r\n\r\n<p>As a result of the delay, shuttle buses are requested to provide connecting service from Fullerton to State/Lake in&nbsp; both directions.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2025-07-02T04:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108461"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5b5d3384-c8b9-4b78-8be8-68ff9e815ddc"
+  },
+  {
     "AlertId": "108459",
     "Headline": "Blue Line Delays",
     "ShortDescription": "Blue Line trains are running with significant delays following an earlier obstruction at Cicero/Congress. Service is resuming, allow extra time.",
