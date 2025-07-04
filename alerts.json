@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "108518",
-    "Headline": "95th-bound Red Line Service Delayed at Cermak-Chinatown ",
-    "ShortDescription": "95th-bound Red Line trains are standing at Cermak-Chinatown due to a sick customer. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are standing at Cermak-Chinatown due to a sick customer.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-07-04T14:57:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108518"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0da632de-c229-41ef-9a83-a0f4d3d6fc3f"
-  },
-  {
     "AlertId": "108469",
     "Headline": "Temporary Southbound #82 Kimball-Homan Reroute near 31st/Lawndale",
     "ShortDescription": "Southbound 82 Kimball-Homan buses are temporarily rerouted near 31st/Lawndale.",
@@ -202,52 +168,5 @@
     },
     "ttim": "0",
     "GUID": "1152942d-ef4e-4645-828b-aab6098221c4"
-  },
-  {
-    "AlertId": "108519",
-    "Headline": "Green and Orange Line Service Delayed at Roosevelt ",
-    "ShortDescription": "Green and Orange Line trains are standing in both directions near Roosevelt due to signal problems. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Green and Orange Line trains are standing in both directions near Roosevelt due to signal problems.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-07-04T15:00:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108519"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "b5f9c220-587b-4cb3-84c3-dcb0ec489ed4"
   }
 ]
