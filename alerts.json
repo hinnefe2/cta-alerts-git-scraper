@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "108532",
-    "Headline": " Forest Park-bound Blue Line Service Delayed at LaSalle",
-    "ShortDescription": "Forest Park-bound Blue Line trains are standing at LaSalle. Crews working to restore service.",
+    "Headline": "Forest Park-bound Blue Line Service Running with Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running with delays at LaSalle.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue&nbsp; Line trains are&nbsp;standing&nbsp;at LaSalle&nbsp;due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line&nbsp;trains are running with delays&nbsp;at LaSalle due to&nbsp;an earlier mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -44,7 +44,54 @@
       ]
     },
     "ttim": "0",
-    "GUID": "307249a2-d26b-4301-a2ac-31c8adfa7960"
+    "GUID": "4e32d74c-aa12-4b5c-abcf-8525befee3b1"
+  },
+  {
+    "AlertId": "108533",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at Kedzie-Homan",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Kedzie-Homan. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue&nbsp;Line trains are&nbsp;standing at Kedzie-Homan&nbsp;due to a door problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-05T09:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108533"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Kedzie-Homan",
+          "ServiceId": "40250",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=82"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "436503bb-4e1b-4719-b2a1-ebb891f4735c"
   },
   {
     "AlertId": "108509",
