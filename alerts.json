@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "108509",
+    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near 47th/Cornelia",
+    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage Grove, 39th and Lake Shore Drive, due to street blockage near 47th/Cornelia.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage Grove, 39th and Lake Shore Drive, due to street blockage near 47th/Cornelia.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-03T19:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108509"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "bb524100-cff9-4086-ae53-282e2d1603c1"
+  },
+  {
     "AlertId": "108469",
     "Headline": "Temporary Southbound #82 Kimball-Homan Reroute near 31st/Lawndale",
     "ShortDescription": "Southbound 82 Kimball-Homan buses are temporarily rerouted near 31st/Lawndale.",
@@ -66,107 +100,5 @@
     },
     "ttim": "0",
     "GUID": "706f7caf-d958-47b2-98ab-2ef73b70ca52"
-  },
-  {
-    "AlertId": "108509",
-    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near 47th/Cornelia",
-    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage Grove, 39th and Lake Shore Drive, due to street blockage near 47th/Cornelia.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage Grove, 39th and Lake Shore Drive, due to street blockage near 47th/Cornelia.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-03T19:32:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108509"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
-        "ServiceBackColor": "b71234",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "bb524100-cff9-4086-ae53-282e2d1603c1"
-  },
-  {
-    "AlertId": "108530",
-    "Headline": "O'Hare-bound Blue Line Service Delayed near LaSalle",
-    "ShortDescription": "O'Hare-bound Blue Line trains are standing in both directions due to police activity at LaSalle. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing in both directions due to police activity at LaSalle.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-07-05T04:07:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108530"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "3f49320d-1f1c-4037-9d67-a874e4611f78"
-  },
-  {
-    "AlertId": "108529",
-    "Headline": "Forest Park-bound Blue Line Service Running with Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running with wait times of up to 30 minutes; we're working to restore service. Allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running, but with extended wait times. Some riders may experience wait times of up to 30 minutes while our crews work to restore regular service levels.</p>\r\n\r\n<p>Use trackers to look for live arrival information and consider available alternatives, such a local bus routes or buses to/from other &#39;L&#39; lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2025-07-05T01:39:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108529"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "05a1aa11-70eb-4a26-9da4-0cdd8a3cbed9"
   }
 ]
