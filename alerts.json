@@ -134,52 +134,5 @@
     },
     "ttim": "0",
     "GUID": "4e441b8e-bc48-4907-aa77-11ba8f40eb20"
-  },
-  {
-    "AlertId": "108540",
-    "Headline": "Harlem-bound Green Line Delays",
-    "ShortDescription": "Harlem-bound Green Line trains are running w/significant delays following an earlier fire near the tracks near Halsted. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Harlem-bound Green Line trains are running with significant&nbsp;delays&nbsp;following an earlier fire near the tracks&nbsp;near Halsted.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-07-05T15:07:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108540"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Halsted",
-          "ServiceId": "40940",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=65"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "b58ddea1-37d2-429f-9a67-54e73bad7047"
   }
 ]
