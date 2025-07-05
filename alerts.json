@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "108469",
-    "Headline": "Temporary Southbound #82 Kimball-Homan Reroute near 31st/Lawndale",
-    "ShortDescription": "Southbound 82 Kimball-Homan buses are temporarily rerouted near 31st/Lawndale.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #82 Kimball-Homan buses are temporarily rerouted via 31st, Millard, 32nd, Central Park, 31st, and resume normal route due to, street blockage near 31st/Lawndale.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-02T10:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108469"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e7be5279-0e0c-446c-bd90-fef71ba096a2"
-  },
-  {
     "AlertId": "108487",
     "Headline": "Temporary Westbound #51 51st Reroute near 51st/Union",
     "ShortDescription": "Westbound #51 51st buses are temporarily rerouted near 51st/Union.",
@@ -103,15 +69,15 @@
   },
   {
     "AlertId": "108533",
-    "Headline": "Forest Park-bound Blue Line Service Delayed at Kedzie-Homan",
-    "ShortDescription": "Forest Park-bound Blue Line trains are standing with major delays at Kedzie-Homan due to a door problem. Crews working to restore service.",
+    "Headline": "Forest Park-bound Blue Line Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running w/significant delays following an earlier door problem at Kedzie-Homan. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing with major&nbsp;delays at Kedzie-Homan due to a door problem.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line&nbsp;trains are running with significant&nbsp;delays following an earlier door problem at Kedzie-Homan.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2025-07-05T09:44:00",
     "EventEnd": null,
     "TBD": "1",
@@ -146,6 +112,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "ceaaf764-aca4-40ff-96d2-fe7f65435fd6"
+    "GUID": "8fdc0ace-b778-476d-901a-165c3fc50ec0"
   }
 ]
