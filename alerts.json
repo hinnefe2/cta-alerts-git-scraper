@@ -1,5 +1,99 @@
 [
   {
+    "AlertId": "108563",
+    "Headline": "Harlem- bound Green Line Delays",
+    "ShortDescription": "Harlem bound Green Line trains are running w/residual delays following an earlier minor fire at track level at Pulaski. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem bound Green Line trains are running w/residual delays following an earlier minor fire at track level at Pulaski.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-06T07:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108563"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Pulaski",
+          "ServiceId": "40030",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=114"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c5f288f9-a43d-4b91-ab59-ff39de464ee9"
+  },
+  {
+    "AlertId": "108560",
+    "Headline": "#52 Kedzie/California and # 52A South Kedzie Temporary Reroute at Kedzie/54th",
+    "ShortDescription": "#52 Kedzie/California and # 52A South Kedzie buses are temporarily rerouted via Kedzie, 51st, California, 55th & Kedzie, due to police activity near Kedzie/54th",
+    "FullDescription": {
+      "#cdata-section": "<p>&nbsp;52 Kedzie/California and # 52A South Kedzie buses are temporarily rerouted in both directions via Kedzie, 51st, California, 55th, then resume their normal route on Kedzie, due to police activity near Kedzie/54th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-06T05:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108560"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Kedzie",
+          "ServiceId": "52",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/kedzie/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Kedzie",
+          "ServiceId": "52A",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/52a/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "84e7bb8f-981f-487b-8122-53d494af846c"
+  },
+  {
     "AlertId": "108487",
     "Headline": "Temporary Westbound #51 51st Reroute near 51st/Union",
     "ShortDescription": "Westbound #51 51st buses are temporarily rerouted near 51st/Union.",
@@ -66,52 +160,5 @@
     },
     "ttim": "0",
     "GUID": "bb524100-cff9-4086-ae53-282e2d1603c1"
-  },
-  {
-    "AlertId": "108560",
-    "Headline": "#52 Kedzie/California and # 52A South Kedzie Temporary Reroute at Kedzie/54th",
-    "ShortDescription": "#52 Kedzie/California and # 52A South Kedzie buses are temporarily rerouted via Kedzie, 51st, California, 55th & Kedzie, due to police activity near Kedzie/54th",
-    "FullDescription": {
-      "#cdata-section": "<p>&nbsp;52 Kedzie/California and # 52A South Kedzie buses are temporarily rerouted in both directions via Kedzie, 51st, California, 55th, then resume their normal route on Kedzie, due to police activity near Kedzie/54th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-06T05:10:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108560"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Kedzie",
-          "ServiceId": "52",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/kedzie/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "South Kedzie",
-          "ServiceId": "52A",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/52a/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "84e7bb8f-981f-487b-8122-53d494af846c"
   }
 ]
