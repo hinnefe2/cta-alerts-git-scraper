@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "108509",
-    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near 47th/Cornelia",
-    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage Grove, 39th and Lake Shore Drive, due to street blockage near 47th/Cornelia.",
+    "AlertId": "108568",
+    "Headline": "95th- bound Red Line Service Delayed at 69th",
+    "ShortDescription": "95th- bound Red Line trains are standing at 69th due toa door problem. \r\n Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage Grove, 39th and Lake Shore Drive, due to street blockage near 47th/Cornelia.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th- bound Red Line trains are standing at 69th due toa door problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-03T19:32:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-06T15:26:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108509"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108568"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
-        "ServiceBackColor": "b71234",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "bb524100-cff9-4086-ae53-282e2d1603c1"
+    "GUID": "b9d36af9-dd3b-4df2-a685-83a4195e8ff0"
   },
   {
     "AlertId": "108560",
@@ -79,5 +79,39 @@
     },
     "ttim": "0",
     "GUID": "84e7bb8f-981f-487b-8122-53d494af846c"
+  },
+  {
+    "AlertId": "108509",
+    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near 47th/Cornelia",
+    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage Grove, 39th and Lake Shore Drive, due to street blockage near 47th/Cornelia.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage Grove, 39th and Lake Shore Drive, due to street blockage near 47th/Cornelia.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-03T19:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108509"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "bb524100-cff9-4086-ae53-282e2d1603c1"
   }
 ]
