@@ -1,50 +1,37 @@
 [
   {
-    "AlertId": "108563",
-    "Headline": "Harlem- bound Green Line Delays",
-    "ShortDescription": "Harlem bound Green Line trains are running w/residual delays following an earlier minor fire at track level at Pulaski. Service is resuming, allow extra time.",
+    "AlertId": "108509",
+    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near 47th/Cornelia",
+    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage Grove, 39th and Lake Shore Drive, due to street blockage near 47th/Cornelia.",
     "FullDescription": {
-      "#cdata-section": "<p>Harlem bound Green Line trains are running w/residual delays following an earlier minor fire at track level at Pulaski.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage Grove, 39th and Lake Shore Drive, due to street blockage near 47th/Cornelia.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-07-06T07:58:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-03T19:32:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108563"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108509"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Pulaski",
-          "ServiceId": "40030",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=114"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "c5f288f9-a43d-4b91-ab59-ff39de464ee9"
+    "GUID": "bb524100-cff9-4086-ae53-282e2d1603c1"
   },
   {
     "AlertId": "108560",
@@ -92,73 +79,5 @@
     },
     "ttim": "0",
     "GUID": "84e7bb8f-981f-487b-8122-53d494af846c"
-  },
-  {
-    "AlertId": "108487",
-    "Headline": "Temporary Westbound #51 51st Reroute near 51st/Union",
-    "ShortDescription": "Westbound #51 51st buses are temporarily rerouted near 51st/Union.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #51 51st buses are temporarily rerouted via 51st, Halsted, 51st, and resume normal route, due to street blockage near 51st/Union.</p>\r\n\r\n<p>Eastbound&nbsp; buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-03T08:09:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108487"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "51st",
-        "ServiceId": "51",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/51/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "706f7caf-d958-47b2-98ab-2ef73b70ca52"
-  },
-  {
-    "AlertId": "108509",
-    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near 47th/Cornelia",
-    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage Grove, 39th and Lake Shore Drive, due to street blockage near 47th/Cornelia.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via 47th, Cottage Grove, 39th and Lake Shore Drive, due to street blockage near 47th/Cornelia.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-03T19:32:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108509"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
-        "ServiceBackColor": "b71234",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "bb524100-cff9-4086-ae53-282e2d1603c1"
   }
 ]
