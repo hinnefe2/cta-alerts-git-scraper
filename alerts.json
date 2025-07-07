@@ -68,6 +68,53 @@
     "GUID": "96ce4181-7b13-4ae1-8dc9-2597482f5537"
   },
   {
+    "AlertId": "108576",
+    "Headline": "#9 Ashland, #X9 Ashland Express Temporary Southbound Reroute near Ashland/68th",
+    "ShortDescription": "SB 9 Ashland, X9 Ashland Express buses are temporarily rerouted via Ashland, Marquette, Damen, 69th and Ashland: due to, street blockage near Ashland/68th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #9 Ashland, #X9 Ashland Express buses are temporarily rerouted via Ashland, Marquette, Damen, 69th and Ashland: due to, street blockage near Ashland/68th.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-07T06:46:00",
+    "EventEnd": "2025-07-10T06:46:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108576"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "578aa179-97da-4b85-9236-f293a29fc5d9"
+  },
+  {
     "AlertId": "108560",
     "Headline": "#52 Kedzie/California and # 52A South Kedzie Temporary Reroute at Kedzie/54th",
     "ShortDescription": "#52 Kedzie/California and # 52A South Kedzie buses are temporarily rerouted via Kedzie, 51st, California, 55th & Kedzie, due to police activity near Kedzie/54th",
