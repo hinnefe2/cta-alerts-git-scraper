@@ -81,37 +81,118 @@
     "GUID": "84e7bb8f-981f-487b-8122-53d494af846c"
   },
   {
-    "AlertId": "108572",
-    "Headline": "#152 Addison Temporary Reroute at  Clark/Addison",
-    "ShortDescription": "#152 Addison buses are temporarily rerouted in both directions via Addison, Racine, Belmont, Halsted, due to street blockage near Clark/Addison.",
+    "AlertId": "108578",
+    "Headline": "#20 Madison Temporary Reroute near Madison/Damen",
+    "ShortDescription": "20 Madison buses temp. rerouted EB Madison, Damen, Jackson, Ogden, Pualina and Madison; WB Madison, Ashland, Washington, Damen and Madison near Madison/Damen.",
     "FullDescription": {
-      "#cdata-section": "<p>#152 Addison buses are temporarily rerouted in both directions via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison, due to street blockage near Clark/Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted in both directions near Madison/Damen due to a Festival near Madison/Damen.</p>\r\n\r\n<p>Eastbound buses will operate via Madison, Damen, Jackson, Ogden, Paulina and Madison including the normal route streets.</p>\r\n\r\n<p>Westbound buses will operate via Madison, Ashland, Washington, Damen and Madison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-06T20:18:00",
+    "EventStart": "2025-07-07T08:22:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108572"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108578"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Addison",
-        "ServiceId": "152",
-        "ServiceBackColor": "565a5c",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/152/"
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "96ce4181-7b13-4ae1-8dc9-2597482f5537"
+    "GUID": "3cb4079a-374e-4f85-a332-e724f3965490"
+  },
+  {
+    "AlertId": "108579",
+    "Headline": "#19 United Center Express Temporary Eastbound Reroute near Madison/Damen",
+    "ShortDescription": "Eastbound 19 United Center Express buses are temporarily rerouted via Madison, Damen, Jackson, Ogden and Washington: due to, a  Festival near Madison/Damen.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #19 United Center Express buses are temporarily rerouted via Madison, Damen, Jackson, Ogden and Washington: due to, a&nbsp; Festival near Madison/Damen.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-07T08:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108579"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "United Center Express",
+        "ServiceId": "19",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/riding-cta/bus-route/?RouteId=325"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8d38dffd-b515-43eb-93c2-2a1257f71191"
+  },
+  {
+    "AlertId": "108580",
+    "Headline": "95th- bound Red Line Service Delayed at Morse",
+    "ShortDescription": "95th- bound Red Line trains are standing at Morse due to a mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th- bound Red Line trains are standing at Morse due to a mechanical problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-07-07T08:30:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108580"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Morse",
+          "ServiceId": "40100",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=104"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e76c8505-b8b7-469e-8ce7-afeb9ff6fd80"
   }
 ]
