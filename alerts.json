@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "108594",
-    "Headline": "Kimball-bound Brown Line Service Delayed at Montorse",
-    "ShortDescription": "Kimball-bound Brown Line trains are standing at Montrose due to Police activity. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Kimball-bound Brown Line trains are standing at Montrose due to Police activity.&nbsp;</p>\r\n\r\n<p><strong>Loop-bound Brown Line trains will bypass Montrose.</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-07-07T23:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108594"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e78a4e63-6342-4648-b668-c62bf3f734d5"
-  },
-  {
     "AlertId": "108593",
     "Headline": "#146 Inner Drive/Michigan Express Temporary Northbound Reroute near State/Lake",
     "ShortDescription": "Northbound 146 Inner Drive/Michigan Express buses are temporarily rerouted via State, Wacker and Michigan: due to, street blockage near State/Lake.",
@@ -215,5 +181,39 @@
     },
     "ttim": "0",
     "GUID": "53417319-c9a7-4d14-b06c-8c4a7a08cd98"
+  },
+  {
+    "AlertId": "108594",
+    "Headline": "Kimball-bound Brown Line Service Delayed at Montorse",
+    "ShortDescription": "Kimball-bound Brown Line trains are standing at Montrose due to Police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Kimball-bound Brown Line trains are standing at Montrose due to Police activity.&nbsp;</p>\r\n\r\n<p><strong>Loop-bound Brown Line trains will bypass Montrose.</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#78 Montrose</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-07-07T23:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108594"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "32c83d15-eb07-4dd4-9326-3539a7f5e00e"
   }
 ]
