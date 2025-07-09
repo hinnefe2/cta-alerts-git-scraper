@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "108638",
+    "Headline": "63rd- Ashland- bound Green Line Service Delayed at Indiana",
+    "ShortDescription": "63rd- Ashland- bound Green Line trains are standing at Indiana due to a sick rider. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>63rd- Ashland- bound Green Line trains are standing at Indiana due to a sick rider.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-09T12:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108638"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Indiana",
+          "ServiceId": "40300",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=73"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "22b8eeba-d526-4d40-a696-30eef1c5e91c"
+  },
+  {
     "AlertId": "108622",
     "Headline": "#68 Northwest Highway Temporary Northbound Reroute near Summit/Prospect",
     "ShortDescription": "Northbound 68 Northwest Highway buses are temporarily rerouted via Summit, Prospect, Northwest Highway and Washington: due to, Festival near Summit/Prospect.",
