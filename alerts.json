@@ -149,40 +149,6 @@
     "GUID": "ce7ae78e-1e95-4a44-9e79-c8c82b61a372"
   },
   {
-    "AlertId": "108617",
-    "Headline": "Temporary #9 Ashland Reroute at Ashland/Carroll",
-    "ShortDescription": "9 Ashland buses are temporarily rerouted near Ashland/Carroll.",
-    "FullDescription": {
-      "#cdata-section": "<p>#9 Ashland buses are temporarily rerouted in both directions via Ashland, Madison, Damen, Grand, Ashland, and resume normal route, due to street blockage near Ashland/Carroll.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-08T23:59:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108617"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Ashland",
-        "ServiceId": "9",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/9/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "24b5de34-2aec-4134-b6ae-f7b66ebe1d61"
-  },
-  {
     "AlertId": "108614",
     "Headline": "Temporary #12 Roosevelt Reroute at Roosevelt/Campbell",
     "ShortDescription": "12 Roosevelt buses are temporarily rerouted near Roosevelt/Campbell.",
@@ -251,50 +217,37 @@
     "GUID": "b4ceeecf-20bc-47f9-ae04-4f46339e2fec"
   },
   {
-    "AlertId": "108616",
-    "Headline": "63rd-bound Green Line Service Delayed at Cicero",
-    "ShortDescription": "63rd-bound Green Line trains are standing significant delays at Cicero. Crews working to restore service.",
+    "AlertId": "108617",
+    "Headline": "Temporary #9 Ashland Reroute at Ashland/Carroll",
+    "ShortDescription": "9 Ashland buses are temporarily rerouted near Ashland/Carroll.",
     "FullDescription": {
-      "#cdata-section": "<p>63rd-bound Green Line trains are&nbsp;standing with significant delays at Cicero due to a sick customer.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#9 Ashland buses are temporarily rerouted in both directions via Ashland, Madison, Damen, Grand, Ashland, and resume normal route, due to street blockage near Ashland/Carroll.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-07-08T23:44:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-08T23:59:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108616"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108617"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Cicero",
-          "ServiceId": "40480",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=41"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Ashland",
+        "ServiceId": "9",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/9/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "1328c5ba-dd79-46ee-a56d-9fd1a2be7e81"
+    "GUID": "24b5de34-2aec-4134-b6ae-f7b66ebe1d61"
   }
 ]
