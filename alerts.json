@@ -134,5 +134,74 @@
     },
     "ttim": "0",
     "GUID": "8d38dffd-b515-43eb-93c2-2a1257f71191"
+  },
+  {
+    "AlertId": "108592",
+    "Headline": "Bus Substitution Between Illinois Medical District and UIC-Halsted",
+    "ShortDescription": "Shuttle buses replace Blue Line service between Illinois Medical District and UIC-Halsted.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nShuttle buses replace rail service between Illinois Medical District and UIC-Halsted.</p>\r\n\r\n<p>Trains will run between O&rsquo;Hare and UIC-Halsted, and between Forest Park and Illinois Medical District.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nWe are performing construction at the Racine Blue Line station and Morgan substation.</p>\r\n\r\n<h3 style=\"color:#aaa;font-style:italic;\">MAP</h3>\r\n\r\n<p><img alt=\"Image\" src=\"http://www.transitchicago.com/assets/1/6/Image1.jpeg\" style=\"width: 1110px; height: 758px;\" /></p>\r\n"
+    },
+    "SeverityScore": "73",
+    "SeverityColor": "06c",
+    "SeverityCSS": "planned",
+    "Impact": "Planned Work w/Part Closure",
+    "EventStart": "2025-07-18T22:00:00",
+    "EventEnd": "2025-07-21T04:00:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108592"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Illinois Medical District",
+          "ServiceId": "40810",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=72"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Racine",
+          "ServiceId": "40470",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=117"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "UIC-Halsted",
+          "ServiceId": "40350",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=132"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "1",
+    "GUID": "236a7f43-72a9-4c43-8ac0-7b2b97736d89"
   }
 ]
