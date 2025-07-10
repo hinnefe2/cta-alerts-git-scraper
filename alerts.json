@@ -81,6 +81,64 @@
     "GUID": "e51a9c25-9e5e-437d-bf6c-cd7892743ebf"
   },
   {
+    "AlertId": "108679",
+    "Headline": "Red and Purple Line Service Delayed near Wilson",
+    "ShortDescription": "Red and Purple Line trains are standing in the area of Wilson due to signal problem.  Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red and Purple Line trains are standing in the area of&nbsp;Wilson due to signal problem.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#36 Broadway</strong></p>\r\n\r\n<p><strong>#84 Peterson</strong></p>\r\n\r\n<p><strong>#92 Foster</strong></p>\r\n\r\n<p><strong>#151 Sheridan</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-07-10T17:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108679"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "0c1d4cf5-6279-41e5-94f5-8f8701e38bba"
+  },
+  {
     "AlertId": "108592",
     "Headline": "Bus Substitution Between Illinois Medical District and UIC-Halsted",
     "ShortDescription": "Shuttle buses replace Blue Line service between Illinois Medical District and UIC-Halsted.",
