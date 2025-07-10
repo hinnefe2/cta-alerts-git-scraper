@@ -1,52 +1,5 @@
 [
   {
-    "AlertId": "108661",
-    "Headline": "O'Hare-bound Blue Line Service Delayed at Western-oh",
-    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Western-oh. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are&nbsp;standing&nbsp;at Western-oh due to assisting a customer.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-07-10T04:26:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108661"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Western (O'Hare Branch)",
-          "ServiceId": "40670",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=138"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "ab458757-c385-4f0c-ac4f-e2f5e1f284c6"
-  },
-  {
     "AlertId": "108658",
     "Headline": "Temporary #4 Cottage Grove Reroute at Cottage Grove/83rd",
     "ShortDescription": "4 Cottage Grove buses are temporarily rerouted near Cottage Grove/83rd.",
@@ -249,6 +202,53 @@
     },
     "ttim": "0",
     "GUID": "8d38dffd-b515-43eb-93c2-2a1257f71191"
+  },
+  {
+    "AlertId": "108661",
+    "Headline": "O'Hare-bound Blue Line Service Running with Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running with significant delays at Western-oh.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line&nbsp;trains are running with significant delays&nbsp;at Western-oh.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-07-10T04:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108661"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Western (O'Hare Branch)",
+          "ServiceId": "40670",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=138"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "29af4a3b-a7e1-4cc6-a67a-9da066067a03"
   },
   {
     "AlertId": "108592",
