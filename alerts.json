@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "108657",
+    "Headline": "Temporary #94 California Reroute at California/Taylor",
+    "ShortDescription": "94 California buses are temporarily rerouted near California/Taylor.",
+    "FullDescription": {
+      "#cdata-section": "<p>#94 California buses are temporarily rerouted via California, Harrison, Sacramento, Roosevelt, California, and resume normal route: due to street blockage near California/Taylor.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-09T22:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108657"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a51c526f-028e-4247-9fe1-eb0f80cc87c6"
+  },
+  {
     "AlertId": "108578",
     "Headline": "#20 Madison Temporary Reroute near Madison/Damen",
     "ShortDescription": "20 Madison buses temp. rerouted EB Madison, Damen, Jackson, Ogden, Pualina and Madison; WB Madison, Ashland, Washington, Damen and Madison near Madison/Damen.",
