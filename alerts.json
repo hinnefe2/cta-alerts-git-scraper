@@ -136,40 +136,6 @@
     "GUID": "76a82c67-a9ea-4117-b9de-4849d2e4d7e3"
   },
   {
-    "AlertId": "108688",
-    "Headline": "#70 Division Temporary Reroute at Division/Kolmar",
-    "ShortDescription": "70 Division buses are temporarily rerouted via Division, Cicero, Augusta, Kostner and Division: due to, street blockage near Division/Kolmar.",
-    "FullDescription": {
-      "#cdata-section": "<p>#70 Division buses are temporarily rerouted via Division, Cicero, Augusta, Kostner and Division: due to, street blockage near Division/Kolmar.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-11T06:42:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108688"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Division",
-        "ServiceId": "70",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/70/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "5cb72111-51fb-42e4-851d-24a55ea00619"
-  },
-  {
     "AlertId": "108690",
     "Headline": "#56 Milwaukee |Temporary Reroute at Milwaukee/Kilbourn",
     "ShortDescription": "56 Milwaukee buses are temporarily rerouted via Milwaukee, Kilbourn, Addison and Milwaukee: due to, street blockage near Milwaukee/Kilbourn.",
@@ -202,6 +168,40 @@
     },
     "ttim": "0",
     "GUID": "c7519279-efa9-4a2e-8285-eccdf007e924"
+  },
+  {
+    "AlertId": "108688",
+    "Headline": "#70 Division Temporary Reroute at Division/Kolmar",
+    "ShortDescription": "70 Division buses are temporarily rerouted via Division, Cicero, Augusta, Kostner and Division: due to, street blockage near Division/Kolmar.",
+    "FullDescription": {
+      "#cdata-section": "<p>#70 Division buses are temporarily rerouted via Division, Cicero, Augusta, Kostner and Division: due to, street blockage near Division/Kolmar.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-11T06:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108688"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Division",
+        "ServiceId": "70",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/70/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5cb72111-51fb-42e4-851d-24a55ea00619"
   },
   {
     "AlertId": "108592",
@@ -271,39 +271,5 @@
     },
     "ttim": "1",
     "GUID": "236a7f43-72a9-4c43-8ac0-7b2b97736d89"
-  },
-  {
-    "AlertId": "108686",
-    "Headline": "Yellow Line Service Temporarily Suspended",
-    "ShortDescription": "Service on the Yellow Line has been temporarily suspended due to debris on the tracks.",
-    "FullDescription": {
-      "#cdata-section": "<p>Service on the Yellow Line has been temporarily suspended due to debris on tracks.</p>\r\n\r\n<p>Shuttle busses are now available from Howard to Skokie to provide connecting service through the affected area.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Consider using the #97 Skokie for continued service</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "90",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Suspended",
-    "EventStart": "2025-07-11T05:13:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "1",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108686"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Yellow Line",
-        "ServiceId": "Y",
-        "ServiceBackColor": "f9e300",
-        "ServiceTextColor": "000000",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/yellowline/"
-        }
-      }
-    },
-    "ttim": "1",
-    "GUID": "05a83187-b28d-4610-b964-908c16830dd5"
   }
 ]
