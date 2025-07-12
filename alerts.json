@@ -34,40 +34,6 @@
     "GUID": "f1026397-9fc5-4c2e-aaa1-822fcdf6e817"
   },
   {
-    "AlertId": "108709",
-    "Headline": "#60 Blue Island/26th Temporary Reroute at Blue Island/Wolcott",
-    "ShortDescription": "60 Blue Island/26th buses are temporarily rerouted via Blue Island, Damen, Cermak and Ashland: due to, a festival near Blue Island/Wolcott.",
-    "FullDescription": {
-      "#cdata-section": "<p>#60 Blue Island/26th buses are temporarily rerouted in both directions via Blue Island, Damen, Cermak, Ashland and over regular route, due to a festival near Blue Island/Wolcott.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-11T18:13:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108709"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Blue Island/26th",
-        "ServiceId": "60",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/60/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "63cc4bf9-d445-4878-9a4d-764d43470e2f"
-  },
-  {
     "AlertId": "108694",
     "Headline": "#72 North Temporary Eastbound Reroute near North Ave Beach",
     "ShortDescription": "Eastbound 72 North buses are temporarily rerouted via North Ave, Clark and North/Clark Terminal : due to, street blockage near North Ave Beach.",
@@ -102,38 +68,72 @@
     "GUID": "07c8282c-170e-4298-aa0c-a51ac893290d"
   },
   {
-    "AlertId": "108697",
-    "Headline": "#86 Narragansett/Ridgeland Temporary Southbound Reroute near Nagle/Northwest",
-    "ShortDescription": "Northbound 86 Narragansett/Ridgeland buses are temporarily rerouted via Nagel, Northwest Highway and Freemont: due to, street blockage near Nagle/Northwest.",
+    "AlertId": "108709",
+    "Headline": "#60 Blue Island/26th Temporary Reroute at Blue Island/Wolcott",
+    "ShortDescription": "60 Blue Island/26th buses are temporarily rerouted via Blue Island, Damen, Cermak and Ashland: due to, a festival near Blue Island/Wolcott.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #86 Narragansett/Ridgeland buses are temporarily rerouted via Nagel, Northwest Highway and Freemont: due to, street blockage near Nagle/Northwest.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#60 Blue Island/26th buses are temporarily rerouted in both directions via Blue Island, Damen, Cermak, Ashland and over regular route, due to a festival near Blue Island/Wolcott.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-11T11:43:00",
+    "EventStart": "2025-07-11T18:13:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108697"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108709"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Narragansett/Ridgeland",
-        "ServiceId": "86",
-        "ServiceBackColor": "565a5c",
+        "ServiceName": "Blue Island/26th",
+        "ServiceId": "60",
+        "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/86/"
+          "#cdata-section": "http://www.transitchicago.com/bus/60/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "ea4e6711-4849-4d17-8ad5-1871ed48a49a"
+    "GUID": "63cc4bf9-d445-4878-9a4d-764d43470e2f"
+  },
+  {
+    "AlertId": "108711",
+    "Headline": "#77 Belmont Temporary Reroute at Belmont/Ashland",
+    "ShortDescription": "77 Belmont buses are temporarily rerouted via Belmont, Ashland, Diversey, Racine and Belmont: due to, fire department activity near Belmont/Ashland.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#77 Belmont buses are temporarily rerouted in both directions via Belmont, Ashland, Diversey, Racine, Belmont and Over regular route, due to fire department activity&nbsp;near Belmont/Ashland.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-11T20:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108711"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Belmont",
+        "ServiceId": "77",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/77/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8945407c-4926-4302-811b-a7b267f854a7"
   },
   {
     "AlertId": "108592",
