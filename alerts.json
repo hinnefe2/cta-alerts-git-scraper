@@ -1,37 +1,50 @@
 [
   {
-    "AlertId": "108709",
-    "Headline": "#60 Blue Island/26th Temporary Reroute at Blue Island/Wolcott",
-    "ShortDescription": "60 Blue Island/26th buses are temporarily rerouted via Blue Island, Damen, Cermak and Ashland: due to, a festival near Blue Island/Wolcott.",
+    "AlertId": "108725",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Pulaski/Cicero. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>#60 Blue Island/26th buses are temporarily rerouted in both directions via Blue Island, Damen, Cermak, Ashland and over regular route, due to a festival near Blue Island/Wolcott.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Pulaski/Cicero.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-11T18:13:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-12T12:58:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108709"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108725"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Blue Island/26th",
-        "ServiceId": "60",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/60/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Pulaski",
+          "ServiceId": "40920",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=113"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "63cc4bf9-d445-4878-9a4d-764d43470e2f"
+    "GUID": "84d48966-0cd0-4980-9aa4-76574b9d3dcb"
   },
   {
     "AlertId": "108715",
@@ -115,38 +128,38 @@
     "GUID": "e9c9fe23-2a63-478c-a6c2-67ac40eba80c"
   },
   {
-    "AlertId": "108720",
-    "Headline": "#87 87th Temporary Reroute at 87th/Rockwell",
-    "ShortDescription": "87 87th buses are temporarily rerouted via  87th/Western, 83rd, California and 87th: due to, street blockage near 87th/Rockwell.",
+    "AlertId": "108709",
+    "Headline": "#60 Blue Island/26th Temporary Reroute at Blue Island/Wolcott",
+    "ShortDescription": "60 Blue Island/26th buses are temporarily rerouted via Blue Island, Damen, Cermak and Ashland: due to, a festival near Blue Island/Wolcott.",
     "FullDescription": {
-      "#cdata-section": "<p>#87 87th buses are temporarily rerouted via&nbsp; 87th/Western, 83rd, California and 87th: due to, street blockage near 87th/Rockwell.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#60 Blue Island/26th buses are temporarily rerouted in both directions via Blue Island, Damen, Cermak, Ashland and over regular route, due to a festival near Blue Island/Wolcott.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-12T08:46:00",
+    "EventStart": "2025-07-11T18:13:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108720"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108709"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "87th",
-        "ServiceId": "87",
-        "ServiceBackColor": "565a5c",
+        "ServiceName": "Blue Island/26th",
+        "ServiceId": "60",
+        "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/87/"
+          "#cdata-section": "http://www.transitchicago.com/bus/60/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "063d2861-206f-42c0-b17f-7204d2244ded"
+    "GUID": "63cc4bf9-d445-4878-9a4d-764d43470e2f"
   },
   {
     "AlertId": "108592",
