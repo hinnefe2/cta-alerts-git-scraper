@@ -149,38 +149,51 @@
     "GUID": "063d2861-206f-42c0-b17f-7204d2244ded"
   },
   {
-    "AlertId": "108723",
-    "Headline": "#85 Central Temporary Reroute at Central/Adams",
-    "ShortDescription": "85 Central buses are temporarily rerouted via Central, Jackson, Austin, Madison and Central: due to, fire department activity near Central/Adams.",
+    "AlertId": "108724",
+    "Headline": "Pink Line Service Delayed at Western",
+    "ShortDescription": "Pink Line trains are standing at Western due to an unauthorized person on the tracks. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>#85 Central buses are temporarily rerouted via Central, Jackson, Austin, Madison and Central: due to, fire department activity near Central/Adams.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Pink Line trains are standing at Western due to an unauthorized person on the tracks.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-12T11:23:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-07-12T12:21:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108723"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108724"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Central",
-        "ServiceId": "85",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/85/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Western",
+          "ServiceId": "40740",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=136"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "14c7491f-53eb-4565-9262-4f2aa4220785"
+    "GUID": "cebb742d-be4a-4fbc-bd11-ed1f7b1c56e2"
   },
   {
     "AlertId": "108592",
