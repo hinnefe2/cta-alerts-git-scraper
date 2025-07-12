@@ -34,74 +34,6 @@
     "GUID": "63cc4bf9-d445-4878-9a4d-764d43470e2f"
   },
   {
-    "AlertId": "108722",
-    "Headline": "#119 Michigan/119th Temporary Reroute at 119th/Yale",
-    "ShortDescription": "119 Michigan/119th | buses are temporarily rerouted via 119th, Wentowrth, 115th, Halsted and 119th: due to, street blockage near 119th/Yale.",
-    "FullDescription": {
-      "#cdata-section": "<p>#119 Michigan/119th | buses are temporarily rerouted via 119th, Wentowrth, 115th, Halsted and 119th: due to, street blockage near 119th/Yale.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-12T11:18:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108722"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Michigan/119th",
-        "ServiceId": "119",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/119/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ef2cfa66-cff1-444f-b803-fcb7cdfdec3f"
-  },
-  {
-    "AlertId": "108723",
-    "Headline": "#85 Central Temporary Reroute at Central/Adams",
-    "ShortDescription": "85 Central buses are temporarily rerouted via Central, Jackson, Austin, Madison and Central: due to, fire department activity near Central/Adams.",
-    "FullDescription": {
-      "#cdata-section": "<p>#85 Central buses are temporarily rerouted via Central, Jackson, Austin, Madison and Central: due to, fire department activity near Central/Adams.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-12T11:23:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108723"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Central",
-        "ServiceId": "85",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/85/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "14c7491f-53eb-4565-9262-4f2aa4220785"
-  },
-  {
     "AlertId": "108715",
     "Headline": "#15 Jeffery Local|, #28 Stony Island Temporary Reroute at Lake Park/54th",
     "ShortDescription": "15 Jeffery Local, 28 Stony Island buses are temp. rerouted via Lake Park, 55th, Hyde Park, 53rd and Lake Park: due to, street blockage near Lake Park/54th.",
@@ -215,6 +147,74 @@
     },
     "ttim": "0",
     "GUID": "063d2861-206f-42c0-b17f-7204d2244ded"
+  },
+  {
+    "AlertId": "108722",
+    "Headline": "#119 Michigan/119th Temporary Reroute at 119th/Yale",
+    "ShortDescription": "119 Michigan/119th | buses are temporarily rerouted via 119th, Wentowrth, 115th, Halsted and 119th: due to, street blockage near 119th/Yale.",
+    "FullDescription": {
+      "#cdata-section": "<p>#119 Michigan/119th | buses are temporarily rerouted via 119th, Wentowrth, 115th, Halsted and 119th: due to, street blockage near 119th/Yale.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-12T11:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108722"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Michigan/119th",
+        "ServiceId": "119",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/119/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ef2cfa66-cff1-444f-b803-fcb7cdfdec3f"
+  },
+  {
+    "AlertId": "108723",
+    "Headline": "#85 Central Temporary Reroute at Central/Adams",
+    "ShortDescription": "85 Central buses are temporarily rerouted via Central, Jackson, Austin, Madison and Central: due to, fire department activity near Central/Adams.",
+    "FullDescription": {
+      "#cdata-section": "<p>#85 Central buses are temporarily rerouted via Central, Jackson, Austin, Madison and Central: due to, fire department activity near Central/Adams.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-12T11:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108723"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Central",
+        "ServiceId": "85",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/85/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "14c7491f-53eb-4565-9262-4f2aa4220785"
   },
   {
     "AlertId": "108592",
