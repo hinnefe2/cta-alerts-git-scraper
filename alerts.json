@@ -1,5 +1,107 @@
 [
   {
+    "AlertId": "108772",
+    "Headline": "Linden- bound Purple Line Service Delayed at Howard",
+    "ShortDescription": "Linden- bound Purple Line trains are standing at Howard due to a mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Linden- bound Purple Line trains are standing at Howard due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-14T15:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108772"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ce5bf44e-2cde-4ed9-a9a6-dc96663808fa"
+  },
+  {
+    "AlertId": "108769",
+    "Headline": " #55 Garfield Temporary Eastbound  Reroute near Garfield/Wood",
+    "ShortDescription": "Eastbound #55 Garfield buses are temporarily rerouted via Garfield, Damen, 59th, Ashland, due to street blockage near Garfield/Wood.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #55 Garfield buses are temporarily rerouted via Garfield, Damen, 59th, Ashland, then resume their normal route on 55th, due to street blockage near Garfield/Wood.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-14T14:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108769"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Garfield",
+        "ServiceId": "55",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/55/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7ad17fd5-62b5-408d-acd6-87c094280708"
+  },
+  {
+    "AlertId": "108771",
+    "Headline": "#94 California Temporary  Southbound Reroute near California/52nd",
+    "ShortDescription": "Southbound #94 California buses are temporarily rerouted via Western, 55th, California, due to street blockage near California/52nd.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #94 California buses are temporarily rerouted via Western, 55th, California, then resume their normal route, due to street blockage near California/52nd.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-14T15:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108771"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "1b349883-bd87-4519-854f-69c279e8971a"
+  },
+  {
     "AlertId": "108760",
     "Headline": "#J14 Jeffery Jump, #15 Jeffery Local Temporary Northbound Reroute near Jeffery/95th",
     "ShortDescription": "Northbound J14 Jeffery Jump, 15 Jeffery Local buses are temporarily rerouted via 100th, Yates, 95th and Jeffery: due to, street blockage near Jeffery/95th.",
@@ -79,74 +181,6 @@
     },
     "ttim": "0",
     "GUID": "009291a4-0236-4dc9-bbde-1edda95f5c0c"
-  },
-  {
-    "AlertId": "108769",
-    "Headline": " #55 Garfield Temporary Eastbound  Reroute near Garfield/Wood",
-    "ShortDescription": "Eastbound #55 Garfield buses are temporarily rerouted via Garfield, Damen, 59th, Ashland, due to street blockage near Garfield/Wood.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #55 Garfield buses are temporarily rerouted via Garfield, Damen, 59th, Ashland, then resume their normal route on 55th, due to street blockage near Garfield/Wood.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-14T14:09:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108769"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Garfield",
-        "ServiceId": "55",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/55/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "7ad17fd5-62b5-408d-acd6-87c094280708"
-  },
-  {
-    "AlertId": "108771",
-    "Headline": "#94 California Temporary  Southbound Reroute near California/52nd",
-    "ShortDescription": "Southbound #94 California buses are temporarily rerouted via Western, 55th, California, due to street blockage near California/52nd.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #94 California buses are temporarily rerouted via Western, 55th, California, then resume their normal route, due to street blockage near California/52nd.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-14T15:09:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108771"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "California",
-        "ServiceId": "94",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/california/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "1b349883-bd87-4519-854f-69c279e8971a"
   },
   {
     "AlertId": "108709",
