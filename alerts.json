@@ -1,63 +1,5 @@
 [
   {
-    "AlertId": "108759",
-    "Headline": "Brown Line Service Delayed Chicago",
-    "ShortDescription": "Brown Line trains are standing at Chicago due to police activity. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are standing at Chicago due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-07-14T09:30:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108759"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Chicago",
-          "ServiceId": "40710",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=37"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "568d9832-d065-4970-87f5-054e1e7d920e"
-  },
-  {
     "AlertId": "108739",
     "Headline": "Temporary Southbound #J14 Jeffery Jump Reroute near Jeffery/83rd",
     "ShortDescription": "Southbound J14 Jeffery Jump buses are temporarily rerouted near Jeffery/83rd.",
@@ -124,6 +66,53 @@
     },
     "ttim": "0",
     "GUID": "63cc4bf9-d445-4878-9a4d-764d43470e2f"
+  },
+  {
+    "AlertId": "108760",
+    "Headline": "#J14 Jeffery Jump, #15 Jeffery Local Temporary Northbound Reroute near Jeffery/95th",
+    "ShortDescription": "Northbound J14 Jeffery Jump, 15 Jeffery Local buses are temporarily rerouted via 100th, Yates, 95th and Jeffery: due to, street blockage near Jeffery/95th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #J14 Jeffery Jump, #15 Jeffery Local buses are temporarily rerouted via 100th, Yates, 95th and Jeffery: due to, street blockage near Jeffery/95th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-14T09:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108760"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "8d4605d3-307b-47cc-9734-6e9acddfb8b0"
   },
   {
     "AlertId": "108592",
@@ -193,5 +182,63 @@
     },
     "ttim": "1",
     "GUID": "236a7f43-72a9-4c43-8ac0-7b2b97736d89"
+  },
+  {
+    "AlertId": "108759",
+    "Headline": "Brown Line Service Delayed Chicago",
+    "ShortDescription": "Brown Line trains are standing at Chicago due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line trains are standing at Chicago due to police activity.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>Shuttle busses have been requested on the Brown Line from Southport to Clark/Lake to provide connecting service through the affected area.</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-07-14T09:30:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108759"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Chicago",
+          "ServiceId": "40710",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=37"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "8fe0abb0-38af-43b2-b302-e2fdd0f27cbd"
   }
 ]
