@@ -1,5 +1,63 @@
 [
   {
+    "AlertId": "108764",
+    "Headline": "Brown Line Service Delayed at Chicago",
+    "ShortDescription": "Brown Line trains are standing at Chicago due to an unauthorized person on the tracks. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line trains are standing at Chicago due to an unauthorized person on the tracks.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-14T11:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108764"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Chicago",
+          "ServiceId": "40710",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=37"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "00897f20-bb8b-444a-8861-b5570594c733"
+  },
+  {
     "AlertId": "108760",
     "Headline": "#J14 Jeffery Jump, #15 Jeffery Local Temporary Northbound Reroute near Jeffery/95th",
     "ShortDescription": "Northbound J14 Jeffery Jump, 15 Jeffery Local buses are temporarily rerouted via 100th, Yates, 95th and Jeffery: due to, street blockage near Jeffery/95th.",
