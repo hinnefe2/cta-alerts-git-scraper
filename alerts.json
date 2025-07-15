@@ -34,51 +34,38 @@
     "GUID": "63cc4bf9-d445-4878-9a4d-764d43470e2f"
   },
   {
-    "AlertId": "108784",
-    "Headline": "Red Line Service Resuming Normal Routing",
-    "ShortDescription": "Red Line service is resuming its normal routing, via the subway, btwn Fullerton & Cermak-Chinatown after an earlier reroute.",
+    "AlertId": "108785",
+    "Headline": "#57 Laramie Temporary Reroute at Laramie/Lake",
+    "ShortDescription": "57 Laramie  buses are temporarily rerouted via Laramie, Chicago, Cicero, Washington and Laramie: due to, street blockage near Laramie/Lake.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line service is resuming its normal routing, via the subway, between Fullerton &amp; Cermak-Chinatown.</p>\r\n\r\n<p>Trains were temporarily rerouted via the elevated lines due to a mechanical problem at Chicago.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#57 Laramie&nbsp; buses are temporarily rerouted via Laramie, Chicago, Cicero, Washington and Laramie: due to, street blockage near Laramie/Lake.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-07-15T05:33:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-15T05:48:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108784"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108785"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Chicago",
-          "ServiceId": "41450",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=38"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Laramie",
+        "ServiceId": "57",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/57/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "ff64c53c-c310-4a9f-8d41-414a044cf1f3"
+    "GUID": "7b6a37f6-806c-4d41-a274-e774b058e3d3"
   },
   {
     "AlertId": "108592",
