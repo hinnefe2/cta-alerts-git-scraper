@@ -1,86 +1,5 @@
 [
   {
-    "AlertId": "108796",
-    "Headline": "Green Line Delays",
-    "ShortDescription": "63rd- Ashland- bound Green Line trains are running w/residual delays at 47th. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>63rd- Ashland- bound Green Line trains are running w/residual delays following an earlier unauthorized person on the tracks at 47th.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-07-15T13:02:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108796"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "47th",
-          "ServiceId": "41080",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=5"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "f3a266e0-9ff5-4e3a-a18f-93ebce9af994"
-  },
-  {
-    "AlertId": "108709",
-    "Headline": "#60 Blue Island/26th Temporary Reroute at Blue Island/Wolcott",
-    "ShortDescription": "60 Blue Island/26th buses are temporarily rerouted via Blue Island, Damen, Cermak and Ashland: due to, a festival near Blue Island/Wolcott.",
-    "FullDescription": {
-      "#cdata-section": "<p>#60 Blue Island/26th buses are temporarily rerouted in both directions via Blue Island, Damen, Cermak, Ashland and over regular route, due to a festival near Blue Island/Wolcott.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-11T18:13:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108709"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Blue Island/26th",
-        "ServiceId": "60",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/60/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "63cc4bf9-d445-4878-9a4d-764d43470e2f"
-  },
-  {
     "AlertId": "108787",
     "Headline": "#152 Addison Temporary Reroute at Addison/Kedzie",
     "ShortDescription": "#152 Addison buses are temporarily rerouted via Addison, Kedzie, Irving Park, California and Addison due to, street blockage near Addison/Kedzie.",
@@ -113,53 +32,6 @@
     },
     "ttim": "0",
     "GUID": "e85d8d29-4bfe-4206-ad70-9c02bcf74ece"
-  },
-  {
-    "AlertId": "108788",
-    "Headline": "#26 South Shore Express, #71 71st/South Shore Temporary Reroute at Commercial/87th",
-    "ShortDescription": "26 South Shore Express, 71 71st/South Shore  buses are temporarily rerouted via 87th, Burley, 83rd, South Shore: due to, street blockage near Commercial/87th.",
-    "FullDescription": {
-      "#cdata-section": "<p>#26 South Shore Express, #71 71st/South Shore&nbsp; buses are temporarily rerouted via 87th, Burley, 83rd, South Shore: due to, street blockage near Commercial/87th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-15T10:48:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108788"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "South Shore Express",
-          "ServiceId": "26",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/26/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "71st/South Shore",
-          "ServiceId": "71",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/71/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "c4cd43e2-4a7a-4292-a2b4-3b3bdfbaa3eb"
   },
   {
     "AlertId": "108789",
@@ -243,38 +115,38 @@
     "GUID": "9d7711cf-2bcf-451c-a623-a2e9668d345c"
   },
   {
-    "AlertId": "108791",
-    "Headline": "#75 74th-75thTemporary Westbound Reroute near 74th/Loomis",
-    "ShortDescription": "Westbound  75 74th-75th buses are temporarily rerouted via Racine, 76th, Ashland and 74th: due to, street blockage near 74th/Loomis.",
+    "AlertId": "108709",
+    "Headline": "#60 Blue Island/26th Temporary Reroute at Blue Island/Wolcott",
+    "ShortDescription": "60 Blue Island/26th buses are temporarily rerouted via Blue Island, Damen, Cermak and Ashland: due to, a festival near Blue Island/Wolcott.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound&nbsp; #75 74th-75th buses are temporarily rerouted via Racine, 76th, Ashland and 74th: due to, street blockage near 74th/Loomis.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#60 Blue Island/26th buses are temporarily rerouted in both directions via Blue Island, Damen, Cermak, Ashland and over regular route, due to a festival near Blue Island/Wolcott.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-15T12:33:00",
+    "EventStart": "2025-07-11T18:13:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108791"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108709"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "74th-75th",
-        "ServiceId": "75",
-        "ServiceBackColor": "565a5c",
+        "ServiceName": "Blue Island/26th",
+        "ServiceId": "60",
+        "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/75/"
+          "#cdata-section": "http://www.transitchicago.com/bus/60/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "53422aa9-253f-4838-84e5-16c07549b9cd"
+    "GUID": "63cc4bf9-d445-4878-9a4d-764d43470e2f"
   },
   {
     "AlertId": "108592",
