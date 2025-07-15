@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "108779",
-    "Headline": "Howard-bound Red Line Service Delayed at Chicago",
-    "ShortDescription": "Howard-bound Red Line trains are standing at Chicago due to a track condition. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Chicago due to a track condition.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-07-14T23:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108779"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f800cebc-3907-4e51-bd44-c49f198b5a6c"
-  },
-  {
     "AlertId": "108778",
     "Headline": "#54 Cicero Temporary Reroute at Cicero/Lake",
     "ShortDescription": "54 Cicero buses are temporarily rerouted via Cicero, Washington, Pulaski, Chicago and Cicero: due to, street blockage near Cicero/Lake.",
@@ -203,5 +169,73 @@
     },
     "ttim": "1",
     "GUID": "236a7f43-72a9-4c43-8ac0-7b2b97736d89"
+  },
+  {
+    "AlertId": "108779",
+    "Headline": "Howard-bound Red Line Service Delayed at Chicago",
+    "ShortDescription": "Howard-bound Red Line trains are standing at Chicago due to a track condition. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Chicago due to a track condition.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#22 Clark</strong></p>\r\n\r\n<p><strong>#36 Broadway</strong></p>\r\n\r\n<p><strong>#66 Chicago</strong></p>\r\n\r\n<p><strong>Shuttle buses have been requested to provide connecting service via Fullerton to Lake in both directions.</strong></p>\r\n\r\n<p>restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-07-14T23:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108779"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5161e48d-ef1e-4fd4-9fb3-3400fee668f1"
+  },
+  {
+    "AlertId": "108780",
+    "Headline": "Howard-bound Subway Trains Rerouted to Elevated Tracks",
+    "ShortDescription": "Howard-bound Red Line subway trains are temporarily rerouted to the elevated tracks between Cermak and Fullerton due to track conditions.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line subway trains are temporarily rerouted to the elevated lines between&nbsp;Cermak-Chinatown and Fullerton due to track conditions.</p>\r\n\r\n<h4>Train service to Howard</h4>\r\n\r\n<p>After stopping at Cermak-Chinatown, Howard-bound trains will be diverted and will make the following elevated station stops:</p>\r\n\r\n<ul>\r\n\t<li>Roosevelt (elevated station west of Wabash; accessible)</li>\r\n\t<li>Adams/Wabash</li>\r\n\t<li>Washington/Wabash (accessible)</li>\r\n\t<li>State/Lake</li>\r\n\t<li>Clark/lake (accessible)</li>\r\n\t<li>Merchandise Mart (accessible)</li>\r\n\t<li>Chicago (at Franklin; accessible)</li>\r\n\t<li>Sedgwick (accessible)</li>\r\n\t<li>Armitage (accessible)</li>\r\n</ul>\r\n\r\n<p>Then, trains will stop at Fullerton and make all normal stops to Howard.</p>\r\n\r\n<p>Connections can be made between 95th/Dan Ryan-bound subway service and Howard-bound rerouted service via elevated lines at State/Lake (transfer to nearby elevated station, board on Brown Line side) and at Roosevelt (accessible).</p>\r\n\r\n<p>We apologize for the inconvenience and are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n\r\n<h4><span style=\"color: #c60c30\"><strong>95th/Dan Ryan-bound service is not affected.</strong></span></h4>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2025-07-14T23:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108780"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a5b06417-6523-4bde-b9df-92a6c9a744cc"
   }
 ]
