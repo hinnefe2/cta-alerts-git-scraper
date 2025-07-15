@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "108779",
+    "Headline": "Howard-bound Red Line Delays",
+    "ShortDescription": "Howard-bound Red Line trains are resuming their normal routing, via the subway. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p><span style=\"font-weight: bolder;\">Howard-bound Red Line trains are resuming their normal routing, via the subway.</span></p>\r\n\r\n<p>Howard-bound Red Line trains are running with residual delays at Chicago following an earlier track conditions problems.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Shuttle buses are available until 0130 hours to provide connecting service between Fullerton and Lake in both directions.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-14T23:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108779"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f66b9b0d-f374-4a9a-91d0-5bea705ede22"
+  },
+  {
     "AlertId": "108780",
     "Headline": "Howard-bound Resumes in Subway",
     "ShortDescription": "Howard-bound Red Line service has resumed via subway.",
@@ -34,40 +68,6 @@
     "GUID": "5c1a3cb8-59eb-4192-9fbc-4d5541d147de"
   },
   {
-    "AlertId": "108761",
-    "Headline": "#75 74th-75th Temporary Westbound Reroute near 74th/Racine",
-    "ShortDescription": "Westbound 75 74th-75th buses are temporarily rerouted via 76th, Ashland and 74th: due to, street blockage near 74th/Racine.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #75 74th-75th buses are temporarily rerouted via 76th, Ashland and 74th: due to, street blockage near 74th/Racine.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-14T09:54:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108761"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "74th-75th",
-        "ServiceId": "75",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/75/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "009291a4-0236-4dc9-bbde-1edda95f5c0c"
-  },
-  {
     "AlertId": "108709",
     "Headline": "#60 Blue Island/26th Temporary Reroute at Blue Island/Wolcott",
     "ShortDescription": "60 Blue Island/26th buses are temporarily rerouted via Blue Island, Damen, Cermak and Ashland: due to, a festival near Blue Island/Wolcott.",
@@ -100,6 +100,40 @@
     },
     "ttim": "0",
     "GUID": "63cc4bf9-d445-4878-9a4d-764d43470e2f"
+  },
+  {
+    "AlertId": "108761",
+    "Headline": "#75 74th-75th Temporary Westbound Reroute near 74th/Racine",
+    "ShortDescription": "Westbound 75 74th-75th buses are temporarily rerouted via 76th, Ashland and 74th: due to, street blockage near 74th/Racine.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #75 74th-75th buses are temporarily rerouted via 76th, Ashland and 74th: due to, street blockage near 74th/Racine.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-14T09:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108761"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "74th-75th",
+        "ServiceId": "75",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/75/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "009291a4-0236-4dc9-bbde-1edda95f5c0c"
   },
   {
     "AlertId": "108592",
@@ -169,39 +203,5 @@
     },
     "ttim": "1",
     "GUID": "236a7f43-72a9-4c43-8ac0-7b2b97736d89"
-  },
-  {
-    "AlertId": "108779",
-    "Headline": "Howard-bound Red Line Service Delayed at Chicago",
-    "ShortDescription": "Howard-bound Red Line trains are standing at Chicago due to a track condition. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Chicago due to a track condition.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#22 Clark</strong></p>\r\n\r\n<p><strong>#36 Broadway</strong></p>\r\n\r\n<p><strong>#66 Chicago</strong></p>\r\n\r\n<p><strong>Shuttle buses are available</strong>&nbsp;<strong>to provide connecting service between Fullerton to Lake in both directions.</strong></p>\r\n\r\n<p>restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2025-07-14T23:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108779"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "28916502-1b25-4fd6-8e4b-751dd9759987"
   }
 ]
