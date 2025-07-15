@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "108709",
-    "Headline": "#60 Blue Island/26th Temporary Reroute at Blue Island/Wolcott",
-    "ShortDescription": "60 Blue Island/26th buses are temporarily rerouted via Blue Island, Damen, Cermak and Ashland: due to, a festival near Blue Island/Wolcott.",
+    "AlertId": "108780",
+    "Headline": "Howard-bound Resumes in Subway",
+    "ShortDescription": "Howard-bound Red Line service has resumed via subway.",
     "FullDescription": {
-      "#cdata-section": "<p>#60 Blue Island/26th buses are temporarily rerouted in both directions via Blue Island, Damen, Cermak, Ashland and over regular route, due to a festival near Blue Island/Wolcott.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>Howard-bound Red Line trains are resuming their normal routing, via the subway.</strong></p>\r\n\r\n<p>Howard-bound Red Line trains are running with residual delays at Chicago following an earlier track conditions problems.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Shuttle buses are available until 0130 hours to provide connecting service between Fullerton and Lake in both directions.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-11T18:13:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-14T23:23:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108709"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108780"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Blue Island/26th",
-        "ServiceId": "60",
-        "ServiceBackColor": "414145",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/60/"
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "63cc4bf9-d445-4878-9a4d-764d43470e2f"
+    "GUID": "5c1a3cb8-59eb-4192-9fbc-4d5541d147de"
   },
   {
     "AlertId": "108761",
@@ -66,6 +66,40 @@
     },
     "ttim": "0",
     "GUID": "009291a4-0236-4dc9-bbde-1edda95f5c0c"
+  },
+  {
+    "AlertId": "108709",
+    "Headline": "#60 Blue Island/26th Temporary Reroute at Blue Island/Wolcott",
+    "ShortDescription": "60 Blue Island/26th buses are temporarily rerouted via Blue Island, Damen, Cermak and Ashland: due to, a festival near Blue Island/Wolcott.",
+    "FullDescription": {
+      "#cdata-section": "<p>#60 Blue Island/26th buses are temporarily rerouted in both directions via Blue Island, Damen, Cermak, Ashland and over regular route, due to a festival near Blue Island/Wolcott.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-11T18:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108709"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Blue Island/26th",
+        "ServiceId": "60",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/60/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "63cc4bf9-d445-4878-9a4d-764d43470e2f"
   },
   {
     "AlertId": "108592",
@@ -169,39 +203,5 @@
     },
     "ttim": "0",
     "GUID": "28916502-1b25-4fd6-8e4b-751dd9759987"
-  },
-  {
-    "AlertId": "108780",
-    "Headline": "Howard-bound Subway Trains Rerouted to Elevated Tracks",
-    "ShortDescription": "Howard-bound Red Line subway trains are temporarily rerouted to the elevated tracks between Cermak and Fullerton due to track conditions.",
-    "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line subway trains are temporarily rerouted to the elevated lines between&nbsp;Cermak-Chinatown and Fullerton due to track conditions.</p>\r\n\r\n<h4>Train service to Howard</h4>\r\n\r\n<p>After stopping at Cermak-Chinatown, Howard-bound trains will be diverted and will make the following elevated station stops:</p>\r\n\r\n<ul>\r\n\t<li>Roosevelt (elevated station west of Wabash; accessible)</li>\r\n\t<li>Adams/Wabash</li>\r\n\t<li>Washington/Wabash (accessible)</li>\r\n\t<li>State/Lake</li>\r\n\t<li>Clark/lake (accessible)</li>\r\n\t<li>Merchandise Mart (accessible)</li>\r\n\t<li>Chicago (at Franklin; accessible)</li>\r\n\t<li>Sedgwick (accessible)</li>\r\n\t<li>Armitage (accessible)</li>\r\n</ul>\r\n\r\n<p>Then, trains will stop at Fullerton and make all normal stops to Howard.</p>\r\n\r\n<p>Connections can be made between 95th/Dan Ryan-bound subway service and Howard-bound rerouted service via elevated lines at State/Lake (transfer to nearby elevated station, board on Brown Line side) and at Roosevelt (accessible).</p>\r\n\r\n<p>We apologize for the inconvenience and are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n\r\n<h4><span style=\"color: #c60c30\"><strong>95th/Dan Ryan-bound service is not affected.</strong></span></h4>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2025-07-14T23:23:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108780"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a5b06417-6523-4bde-b9df-92a6c9a744cc"
   }
 ]
