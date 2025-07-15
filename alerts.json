@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "108786",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running w/residual delays following an earlier mechanical problem at Jackson. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running w/residual delays following an earlier mechanical problem at Jackson.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-15T10:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108786"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Jackson",
+          "ServiceId": "40070",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=75"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "cd9d450d-e097-4083-bfbc-4a987b79ad99"
+  },
+  {
     "AlertId": "108709",
     "Headline": "#60 Blue Island/26th Temporary Reroute at Blue Island/Wolcott",
     "ShortDescription": "60 Blue Island/26th buses are temporarily rerouted via Blue Island, Damen, Cermak and Ashland: due to, a festival near Blue Island/Wolcott.",
