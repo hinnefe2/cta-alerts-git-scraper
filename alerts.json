@@ -1,15 +1,83 @@
 [
   {
-    "AlertId": "108786",
-    "Headline": "Blue Line Delays",
-    "ShortDescription": "Blue Line trains are running w/residual delays following an earlier mechanical problem at Jackson. Service is resuming, allow extra time.",
+    "AlertId": "108709",
+    "Headline": "#60 Blue Island/26th Temporary Reroute at Blue Island/Wolcott",
+    "ShortDescription": "60 Blue Island/26th buses are temporarily rerouted via Blue Island, Damen, Cermak and Ashland: due to, a festival near Blue Island/Wolcott.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running w/residual delays following an earlier mechanical problem at Jackson.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#60 Blue Island/26th buses are temporarily rerouted in both directions via Blue Island, Damen, Cermak, Ashland and over regular route, due to a festival near Blue Island/Wolcott.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-11T18:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108709"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Blue Island/26th",
+        "ServiceId": "60",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/60/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "63cc4bf9-d445-4878-9a4d-764d43470e2f"
+  },
+  {
+    "AlertId": "108787",
+    "Headline": "#152 Addison Temporary Reroute at Addison/Kedzie",
+    "ShortDescription": "#152 Addison buses are temporarily rerouted via Addison, Kedzie, Irving Park, California and Addison due to, street blockage near Addison/Kedzie.",
+    "FullDescription": {
+      "#cdata-section": "<p>#152 Addison buses are temporarily rerouted via Addison, Kedzie, Irving Park, California and Addison due to, street blockage near Addison/Kedzie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-15T10:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108787"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Addison",
+        "ServiceId": "152",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/152/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e85d8d29-4bfe-4206-ad70-9c02bcf74ece"
+  },
+  {
+    "AlertId": "108786",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": " Forest Park- bound Blue Line trains are running w/residual delays following an earlier mechanical problem at Jackson. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>&nbsp;Forest Park- bound Blue Line trains are running w/residual delays following an earlier mechanical problem at Jackson.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2025-07-15T10:13:00",
     "EventEnd": null,
     "TBD": "1",
@@ -44,41 +112,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "cd9d450d-e097-4083-bfbc-4a987b79ad99"
-  },
-  {
-    "AlertId": "108709",
-    "Headline": "#60 Blue Island/26th Temporary Reroute at Blue Island/Wolcott",
-    "ShortDescription": "60 Blue Island/26th buses are temporarily rerouted via Blue Island, Damen, Cermak and Ashland: due to, a festival near Blue Island/Wolcott.",
-    "FullDescription": {
-      "#cdata-section": "<p>#60 Blue Island/26th buses are temporarily rerouted in both directions via Blue Island, Damen, Cermak, Ashland and over regular route, due to a festival near Blue Island/Wolcott.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-11T18:13:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108709"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Blue Island/26th",
-        "ServiceId": "60",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/60/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "63cc4bf9-d445-4878-9a4d-764d43470e2f"
+    "GUID": "2182b819-4169-4d3d-94d5-1b5ea10d5545"
   },
   {
     "AlertId": "108592",
