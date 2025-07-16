@@ -1,71 +1,50 @@
 [
   {
-    "AlertId": "108806",
-    "Headline": "Temporary Northbound #J14 Jeffery Jump Reroute near Jeffery/95th",
-    "ShortDescription": "Northbound J14 Jeffery Jump buses are temporarily rerouted near Jeffery/95th.",
+    "AlertId": "108819",
+    "Headline": "Green Line Service Delayed at 35th-Bronzeville-IIT",
+    "ShortDescription": "Green Line trains are standing at 35th-Bronzeville-IIT due to a minor fire at track level. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #J14 Jeffery Jump&nbsp; buses are temporarily rerouted via 100th, Yates, 95th and Jeffery: due to, street blockage near Jeffery/95th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green Line trains are standing at 35th-Bronzeville-IIT due to a minor fire at track level.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-16T03:25:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-16T13:10:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108806"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108819"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jeffery Jump",
-        "ServiceId": "J14",
-        "ServiceBackColor": "0065BD",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "35th-Bronzeville-IIT",
+          "ServiceId": "41120",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=2"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "f3fdc4d7-a146-40ad-b979-3d67d4fe90f7"
-  },
-  {
-    "AlertId": "108807",
-    "Headline": "Temporary Northbound #15 Jeffery Local Reroute near Jeffery/95th",
-    "ShortDescription": "Northbound 15 Jeffery Local buses are temporarily rerouted near Jeffery/95th.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #15 Jeffery Local&nbsp;buses are temporarily rerouted via 100th, Yates, 95th and Jeffery: due to, street blockage near Jeffery/95th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-16T03:31:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108807"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jeffery Local",
-        "ServiceId": "15",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/15/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "5b85731b-e318-46e3-8349-65d4ba8472fd"
+    "GUID": "91340a73-d3a3-400d-95c1-d93c06f48985"
   },
   {
     "AlertId": "108811",
@@ -134,6 +113,74 @@
     },
     "ttim": "0",
     "GUID": "63cc4bf9-d445-4878-9a4d-764d43470e2f"
+  },
+  {
+    "AlertId": "108806",
+    "Headline": "Temporary Northbound #J14 Jeffery Jump Reroute near Jeffery/95th",
+    "ShortDescription": "Northbound J14 Jeffery Jump buses are temporarily rerouted near Jeffery/95th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #J14 Jeffery Jump&nbsp; buses are temporarily rerouted via 100th, Yates, 95th and Jeffery: due to, street blockage near Jeffery/95th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-16T03:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108806"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Jump",
+        "ServiceId": "J14",
+        "ServiceBackColor": "0065BD",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f3fdc4d7-a146-40ad-b979-3d67d4fe90f7"
+  },
+  {
+    "AlertId": "108807",
+    "Headline": "Temporary Northbound #15 Jeffery Local Reroute near Jeffery/95th",
+    "ShortDescription": "Northbound 15 Jeffery Local buses are temporarily rerouted near Jeffery/95th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #15 Jeffery Local&nbsp;buses are temporarily rerouted via 100th, Yates, 95th and Jeffery: due to, street blockage near Jeffery/95th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-16T03:31:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108807"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Local",
+        "ServiceId": "15",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/15/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5b85731b-e318-46e3-8349-65d4ba8472fd"
   },
   {
     "AlertId": "108592",
