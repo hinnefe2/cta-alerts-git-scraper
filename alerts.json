@@ -136,6 +136,53 @@
     "GUID": "7c93d2b8-8aa9-4221-8f04-d1f6310db04e"
   },
   {
+    "AlertId": "108833",
+    "Headline": "#9 Ashland and #75 74th/75th Temporary Reroute near Ashland/74th",
+    "ShortDescription": "9 Ashland and 75 74th/75th buses are temporarily rerouted in both directions near Ashland/74th, due to street blockage near Ashland/74th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#9 Ashland and #75&nbsp;74th/75th buses are temporarily rerouted in both directions near Ashland/74th, due to street blockage near Ashland/74th.</p>\r\n\r\n<p><strong>#9 Ashland</strong> buses will operate via Ashland, 74th, Damen, 76th, Ashland and over regular route.</p>\r\n\r\n<p><strong>Westbound #75 74th-75th</strong> buses will operate via Racine, 76th, Damen and Terminal.</p>\r\n\r\n<p><strong>Eastbound #75 74th-75th </strong>buses will operate via Terminal, Damen and 74th</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-16T20:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108833"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "74th-75th",
+          "ServiceId": "75",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/75/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f83cffd1-b7e3-4e30-bd8d-3304513f6928"
+  },
+  {
     "AlertId": "108709",
     "Headline": "#60 Blue Island/26th Temporary Reroute at Blue Island/Wolcott",
     "ShortDescription": "60 Blue Island/26th buses are temporarily rerouted via Blue Island, Damen, Cermak and Ashland: due to, a festival near Blue Island/Wolcott.",
