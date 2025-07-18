@@ -34,6 +34,53 @@
     "GUID": "2f6a8136-9175-4ff1-b6e5-9d62d6d45a20"
   },
   {
+    "AlertId": "108900",
+    "Headline": "Loop- bound Brown Line Delays",
+    "ShortDescription": "Loop- bound Brown Line trains are running w/residual delays following an earlier door problem at Damen. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop- bound Brown Line trains are running w/residual delays following an earlier door problem at Damen.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-07-18T07:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108900"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Damen",
+          "ServiceId": "40090",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=141"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "44a32c45-0445-4d3a-b92f-3aeb7c0db71d"
+  },
+  {
     "AlertId": "108592",
     "Headline": "Bus Substitution Between Illinois Medical District and UIC-Halsted Cancelled",
     "ShortDescription": "The planned work affecting boarding at the Racine and Illinois Medical District Blue Line stations is cancelled. ",
