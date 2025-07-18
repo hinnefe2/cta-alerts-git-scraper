@@ -68,6 +68,53 @@
     "GUID": "63cc4bf9-d445-4878-9a4d-764d43470e2f"
   },
   {
+    "AlertId": "108896",
+    "Headline": "#75 74th-75th and #79 79th Temporary Reroute near Ashland/76th",
+    "ShortDescription": "75 74th-75th and 79 79th buses are temporarily rerouted in both directions near Ashland/76th, due to street blockage near Ashland/76th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#75 74th-75th and #79 79th buses are temporarily rerouted in both directions near Ashland/76th, due to street blockage near Ashland/76th.</p>\r\n\r\n<p>Westbound #75 74th-75th buses will operate via 76th, Damen, 74th, Terminal and over regular route.</p>\r\n\r\n<p>Westbound #79 79th buses will operate via 70th, Ashland, 74th, Racine and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-17T21:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108896"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "74th-75th",
+          "ServiceId": "75",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/75/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "79th",
+          "ServiceId": "79",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/79/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "436722d9-8e9f-4a9d-9238-39b058a1f144"
+  },
+  {
     "AlertId": "108592",
     "Headline": "Bus Substitution Between Illinois Medical District and UIC-Halsted Cancelled",
     "ShortDescription": "The planned work affecting boarding at the Racine and Illinois Medical District Blue Line stations is cancelled. ",
