@@ -1,37 +1,50 @@
 [
   {
-    "AlertId": "108811",
-    "Headline": "#47 47th Temporary Reroute near 47th/Calumet",
-    "ShortDescription": "#47 47th buses are temporarily rerouted in both directions near 47th/Calumet, due to street blockage.",
+    "AlertId": "108898",
+    "Headline": "95th-bound Red Line Service Running with Delays",
+    "ShortDescription": "95th-bound Red Line trains are running with delays at 79th. ",
     "FullDescription": {
-      "#cdata-section": "<p>#47 47th buses are temporarily rerouted in both directions near 47th/Calumet, due to street blockage near 47th/Calumet.</p>\r\n\r\n<p>Eastbound buses will operate via 47th, Indiana, 43rd, King Drive and 47th including the normal route streets.</p>\r\n\r\n<p>Westbound buses will operate via 47th, King Drive, 43rd, Michigan and 47th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th-bound Red Line&nbsp;trains are running with delays&nbsp;at 79th&nbsp;due to an earlier door problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-16T10:09:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-18T01:06:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108811"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108898"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "47th",
-        "ServiceId": "47",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/47/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "79th",
+          "ServiceId": "40240",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=11"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "2f6a8136-9175-4ff1-b6e5-9d62d6d45a20"
+    "GUID": "76c4dfd1-a72a-4436-ab61-d5ac8e1f2267"
   },
   {
     "AlertId": "108896",
@@ -79,6 +92,40 @@
     },
     "ttim": "0",
     "GUID": "436722d9-8e9f-4a9d-9238-39b058a1f144"
+  },
+  {
+    "AlertId": "108811",
+    "Headline": "#47 47th Temporary Reroute near 47th/Calumet",
+    "ShortDescription": "#47 47th buses are temporarily rerouted in both directions near 47th/Calumet, due to street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>#47 47th buses are temporarily rerouted in both directions near 47th/Calumet, due to street blockage near 47th/Calumet.</p>\r\n\r\n<p>Eastbound buses will operate via 47th, Indiana, 43rd, King Drive and 47th including the normal route streets.</p>\r\n\r\n<p>Westbound buses will operate via 47th, King Drive, 43rd, Michigan and 47th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-16T10:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108811"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "47th",
+        "ServiceId": "47",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/47/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2f6a8136-9175-4ff1-b6e5-9d62d6d45a20"
   },
   {
     "AlertId": "108592",
