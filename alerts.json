@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "108903",
+    "Headline": "72 North Temporary Reroute at North Avenue/Elston",
+    "ShortDescription": "72 North buses are temporarily rerouted via North Avenue, Damen, Division, Elston and North Avenue: due to, street blockage near North Avenue/Elston.",
+    "FullDescription": {
+      "#cdata-section": "<p>#72 North buses are temporarily rerouted via North Avenue, Damen, Division, Elston and North Avenue: due to, street blockage near North Avenue/Elston.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-18T11:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108903"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "North",
+        "ServiceId": "72",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/72/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4006048c-3af2-4398-8331-147346499fcc"
+  },
+  {
     "AlertId": "108811",
     "Headline": "#47 47th Temporary Reroute near 47th/Calumet",
     "ShortDescription": "#47 47th buses are temporarily rerouted in both directions near 47th/Calumet, due to street blockage.",
