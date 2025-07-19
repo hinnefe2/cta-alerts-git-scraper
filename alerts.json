@@ -1,5 +1,73 @@
 [
   {
+    "AlertId": "108911",
+    "Headline": "#8 Halsted Temporary Reroute at Halsted/59th",
+    "ShortDescription": "#8 Halsted buses are temporarily rerouted in both directions via Halsted, 63rd, Union, Garfield, due to a street blockage near Halsted/59th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#8 Halsted buses are temporarily rerouted in both directions via Halsted, 63rd, Union, Garfield, then resume their normal route on Halsted, due to a street blockage near Halsted/59th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-18T21:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108911"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Halsted",
+        "ServiceId": "8",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/8/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "28284a7c-733f-4de7-bc52-2cea2ae92047"
+  },
+  {
+    "AlertId": "108912",
+    "Headline": "#59 59th/61st Temporary Reroute at Halsted/59th",
+    "ShortDescription": "#59 59th/61st buses are temporarily rerouted in both directions via 59th, Union, Garfield, Racine, due to street blockage near Halsted/59th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#59 59th/61st buses are temporarily rerouted in both directions via 59th, Union, Garfield, Racine, then resume their normal route, due to street blockage near Halsted/59th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-18T21:03:00",
+    "EventEnd": "2025-07-21T21:03:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108912"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "59th/61st",
+        "ServiceId": "59",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/59/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9519835c-397e-461a-b7a6-818e7154f58c"
+  },
+  {
     "AlertId": "108811",
     "Headline": "#47 47th Temporary Reroute near 47th/Calumet",
     "ShortDescription": "#47 47th buses are temporarily rerouted in both directions near 47th/Calumet, due to street blockage.",
