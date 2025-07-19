@@ -1,37 +1,72 @@
 [
   {
-    "AlertId": "108914",
-    "Headline": "Temporary #9 Ashland Reroute at Ashland/88th",
-    "ShortDescription": "9 Ashland buses are temporarily rerouted via near Ashland/88th.",
+    "AlertId": "108592",
+    "Headline": "Bus Substitution Between Illinois Medical District and UIC-Halsted Cancelled",
+    "ShortDescription": "The planned work affecting boarding at the Racine and Illinois Medical District Blue Line stations is cancelled. ",
     "FullDescription": {
-      "#cdata-section": "<p>#9 Ashland buses are temporarily rerouted in both directions via Ashland, 87th, Vincennes, 95th, Ashland, and resume normal route, due to street blockage near Ashland/88th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><span style=\"font-weight: bolder;\">How does this affect my trip?</span><br />\r\nThe planned work affecting boarding at the Racine and Illinois Medical District stations is cancelled.&nbsp;</p>\r\n\r\n<p>Trains will operate normally between UIC-Halsted and Western (Forest Park branch).&nbsp;</p>\r\n"
     },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-19T00:23:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "SeverityScore": "73",
+    "SeverityColor": "06c",
+    "SeverityCSS": "planned",
+    "Impact": "Planned Work w/Part Closure",
+    "EventStart": "2025-07-18T22:00:00",
+    "EventEnd": "2025-07-21T04:00:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108914"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108592"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Ashland",
-        "ServiceId": "9",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/9/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Illinois Medical District",
+          "ServiceId": "40810",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=72"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Racine",
+          "ServiceId": "40470",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=117"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "UIC-Halsted",
+          "ServiceId": "40350",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=132"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "2a11754e-679b-47c3-a2a0-c958d61c3a90"
+    "GUID": "598f0179-b196-434c-baab-283bb9c726aa"
   },
   {
     "AlertId": "108811",
@@ -137,72 +172,37 @@
     "GUID": "ebbea66f-40da-4d2b-a6f1-20b5bc276758"
   },
   {
-    "AlertId": "108592",
-    "Headline": "Bus Substitution Between Illinois Medical District and UIC-Halsted Cancelled",
-    "ShortDescription": "The planned work affecting boarding at the Racine and Illinois Medical District Blue Line stations is cancelled. ",
+    "AlertId": "108914",
+    "Headline": "Temporary #9 Ashland Reroute at Ashland/88th",
+    "ShortDescription": "9 Ashland buses are temporarily rerouted via near Ashland/88th.",
     "FullDescription": {
-      "#cdata-section": "<p><span style=\"font-weight: bolder;\">How does this affect my trip?</span><br />\r\nThe planned work affecting boarding at the Racine and Illinois Medical District stations is cancelled.&nbsp;</p>\r\n\r\n<p>Trains will operate normally between UIC-Halsted and Western (Forest Park branch).&nbsp;</p>\r\n"
+      "#cdata-section": "<p>#9 Ashland buses are temporarily rerouted in both directions via Ashland, 87th, Vincennes, 95th, Ashland, and resume normal route, due to street blockage near Ashland/88th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "73",
-    "SeverityColor": "06c",
-    "SeverityCSS": "planned",
-    "Impact": "Planned Work w/Part Closure",
-    "EventStart": "2025-07-18T22:00:00",
-    "EventEnd": "2025-07-21T04:00:00",
-    "TBD": "0",
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-19T00:23:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108592"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108914"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Illinois Medical District",
-          "ServiceId": "40810",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=72"
-          }
-        },
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Racine",
-          "ServiceId": "40470",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=117"
-          }
-        },
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "UIC-Halsted",
-          "ServiceId": "40350",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=132"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Ashland",
+        "ServiceId": "9",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/9/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "598f0179-b196-434c-baab-283bb9c726aa"
+    "GUID": "2a11754e-679b-47c3-a2a0-c958d61c3a90"
   }
 ]
