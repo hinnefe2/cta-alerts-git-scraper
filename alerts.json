@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "108944",
-    "Headline": "#79 79th Temporary  Eastbound Reroute near  79th/Wabash",
-    "ShortDescription": "Eastbound  79 79th buses are temporarily rerouted via: 79th, State, 76th, King Drive and 79th due to, fire department activity near 79th/Wabash.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound&nbsp; #79 79th buses are temporarily rerouted via: 79th, State, 76th, King Drive and 79th due to, fire department activity near 79th/Wabash.</p>\r\n\r\n<p>Westbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-21T05:40:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108944"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "79th",
-        "ServiceId": "79",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/79/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ed240fe9-69e3-420c-8d6e-213fbfcddd09"
-  },
-  {
     "AlertId": "108939",
     "Headline": "#22 Clark and #152 Addison Temporary Reroute at Clark/Addison",
     "ShortDescription": "22 Clark and 152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
@@ -79,5 +45,39 @@
     },
     "ttim": "0",
     "GUID": "3ecca03d-33d0-4d18-af86-d7270007b4df"
+  },
+  {
+    "AlertId": "108944",
+    "Headline": "#79 79th Temporary  Eastbound Reroute near  79th/Wabash",
+    "ShortDescription": "Eastbound  79 79th buses are temporarily rerouted via: 79th, State, 76th, King Drive and 79th due to, fire department activity near 79th/Wabash.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound&nbsp; #79 79th buses are temporarily rerouted via: 79th, State, 76th, King Drive and 79th due to, fire department activity near 79th/Wabash.</p>\r\n\r\n<p>Westbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-21T05:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108944"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ed240fe9-69e3-420c-8d6e-213fbfcddd09"
   }
 ]
