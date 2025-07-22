@@ -1,5 +1,63 @@
 [
   {
+    "AlertId": "108974",
+    "Headline": "Brown and Purple Line Service Running with Delays",
+    "ShortDescription": "Brown and Purple Line trains are running with delays Wellington due to an earlier mechanical problem.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown and Purple&nbsp;Line trains are running with delays Wellington due to an earlier mechanical problem.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-22T17:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108974"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4440bda8-e399-473d-9e7b-5dd22b9e16b0"
+  },
+  {
     "AlertId": "108968",
     "Headline": "#22 Clark , #24 Wentworth, #62 Archer, #36 Broadway Temporary Northbound Reroute near Jackson/Dearborn",
     "ShortDescription": "NB 22 Clark , 24 Wentworth, 62 Archer, 36 Broadway buses are temporarily rerouted via Dearborn, Ada B. Wells, State, Madison and Dearborn: at Jackson/Dearborn.",
