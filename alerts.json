@@ -101,5 +101,52 @@
     },
     "ttim": "0",
     "GUID": "03e18753-f397-4754-801d-ab74b98b8c1e"
+  },
+  {
+    "AlertId": "108970",
+    "Headline": "#126 Jackson, #7 Harrison Temporary Reroute near Jackson/Dearborn",
+    "ShortDescription": "126 Jackson, 7 Harrison buses temp. rerouted near Jackson/Dearborn.",
+    "FullDescription": {
+      "#cdata-section": "<p>#126 Jackson, #7 Harrison buses temp. rerouted near Jackson/Dearborn.</p>\r\n\r\n<p>#126 Jackson, #7 Harrison&nbsp;buses are temporarily rerouted in both directions near Jackson/Dearborn, due to police activity near Jackson/Dearborn.</p>\r\n\r\n<p>Eastbound&nbsp;buses will operate via Jackson, Clark, Ida B. Wells and Michigan including the normal route streets.</p>\r\n\r\n<p>Westbound&nbsp;buses will operate via Adams, State, Madison, Clark and Adams.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-22T13:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108970"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Harrison",
+          "ServiceId": "7",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/7/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson",
+          "ServiceId": "126",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/126/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9672ea95-28cc-4f45-ba0c-e338712f97af"
   }
 ]
