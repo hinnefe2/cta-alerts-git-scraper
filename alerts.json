@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "AlertId": "108968",
+    "Headline": "#22 Clark , #24 Wentworth, #62 Archer, #36 Broadway Temporary Northbound Reroute near Jackson/Dearborn",
+    "ShortDescription": "NB 22 Clark , 24 Wentworth, 62 Archer, 36 Broadway buses are temporarily rerouted via Dearborn, Ada B. Wells, State, Madison and Dearborn: at Jackson/Dearborn.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #22 Clark ,#24 Wentworth, #62 Archer, #36 Broadway buses are temporarily rerouted via Dearborn, Ada B. Wells, State, Madison and Dearborn: due to, police activity at Jackson/Dearborn.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-22T12:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108968"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Wentworth",
+          "ServiceId": "24",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/24/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Broadway",
+          "ServiceId": "36",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/36/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9fe62ddd-e027-4c45-b2f5-501848e6eed8"
+  }
+]
