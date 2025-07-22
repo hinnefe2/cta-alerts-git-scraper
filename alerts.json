@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "108971",
+    "Headline": "Forest Park- bound Blue Line Service Delayed at UIC-Halsted",
+    "ShortDescription": "Forest Park- bound Blue Line trains are standing at UIC-Halsted due to a sick rider. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park- bound Blue Line trains are standing at UIC-Halsted due to a sick rider.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-22T13:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108971"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "UIC-Halsted",
+          "ServiceId": "40350",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=132"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f3fcae74-1707-4ce6-b030-9af6c6657e92"
+  },
+  {
     "AlertId": "108968",
     "Headline": "#22 Clark , #24 Wentworth, #62 Archer, #36 Broadway Temporary Northbound Reroute near Jackson/Dearborn",
     "ShortDescription": "NB 22 Clark , 24 Wentworth, 62 Archer, 36 Broadway buses are temporarily rerouted via Dearborn, Ada B. Wells, State, Madison and Dearborn: at Jackson/Dearborn.",
