@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "03e18753-f397-4754-801d-ab74b98b8c1e"
+  },
+  {
+    "AlertId": "109004",
+    "Headline": "#J14 Jeffery Express #15 Jeffery Local Temporary Reroute near 71st/Jeffery",
+    "ShortDescription": "J14 Jeffery Express and 15 Jeffery local buses are temporarily rerouted in both directions near 71st/Jeffery Express due to police activity near 71st/Jeffery.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#J14 Jeffery Express and #15 Jeffery local buses are temporarily rerouted in both directions near 71st/Jeffery Express due to police activity near 71st/Jeffery.</p>\r\n\r\n<p><strong>#J14 Jeffery </strong>Express buses will operate via 67th, Stoney Island, 73rd, Jeffery and over regular route</p>\r\n\r\n<p><strong>#15 Jeffery</strong> Local buses will operate via Stony Island, 73rd, Jeffery and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-23T17:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109004"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "46184550-bad0-494d-ae53-5c566875f7ab"
   }
 ]
