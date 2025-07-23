@@ -1,50 +1,37 @@
 [
   {
-    "AlertId": "108984",
-    "Headline": "95th- bound Red Line Service Delayed  at Chicago",
-    "ShortDescription": "95th- bound Red Line trains are standing at Chicago due to a sick rider. Crews working to restore service.",
+    "AlertId": "108985",
+    "Headline": "#22 Clark Temporary Reroute near Clark/Catalpa",
+    "ShortDescription": "22 Clark  buses temp. rerouted due to street blockage at Clark/Catalpa",
     "FullDescription": {
-      "#cdata-section": "<p>95th- bound Red Line trains are standing at Chicago due to a sick rider.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#22 Clark&nbsp; buses are temporarily rerouted in both directions near Clark/Catalpa, due to street blockage near Clark/Catalpa.</p>\r\n\r\n<p>Northbound buses will operate via Clark, Foster, Ashland, Bryn Mawr and Clark&nbsp;including the normal route streets.</p>\r\n\r\n<p>Southbound buses will operate via Clark, Catalpa, Ashland, Foster and Clark.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-07-23T11:22:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-23T11:36:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108984"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108985"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Chicago",
-          "ServiceId": "41450",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=38"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clark",
+        "ServiceId": "22",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/22/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "6c82c4dc-3748-4ea8-beeb-2f8be716e1a6"
+    "GUID": "b4d2d3d1-63ad-470b-b584-6835c3e9ad19"
   },
   {
     "AlertId": "108969",
