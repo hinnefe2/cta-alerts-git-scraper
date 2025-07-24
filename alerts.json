@@ -72,7 +72,7 @@
     "Headline": "Temporary #J14 Jeffery Jump Reroute at Jeffery/82nd",
     "ShortDescription": "J14 Jeffery Jump buses are temporarily rerouted near Jeffery/82nd.",
     "FullDescription": {
-      "#cdata-section": "<p>#J14 Jeffery Jump buses are temporarily rerouted in both directions via Jeffery, 79th, Yates, 83rd, Jeffery, and resume normal route, due to fire department activity near Jeffery/82nd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#J14 Jeffery Jump buses are temporarily rerouted in both directions via Jeffery, 79th, Yates, 83rd, Jeffery, and resume normal route, due to&nbsp;street blockage near Jeffery/82nd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -99,7 +99,41 @@
       }
     },
     "ttim": "0",
-    "GUID": "ea79935d-314d-4771-af4e-6d45573d53c1"
+    "GUID": "129ed16c-491d-40f4-aa83-f1b4183620f5"
+  },
+  {
+    "AlertId": "109031",
+    "Headline": "Temporary #15 Jeffrey Local Reroute at Jeffery/82nd",
+    "ShortDescription": "15 Jeffrey Local buses are temporarily rerouted near Jeffery/82nd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#15 Jeffrey Local buses are temporarily rerouted in both directions via Jeffery, 79th, Yates, 83rd, Jeffery, and resume normal route, due to street blockage near Jeffery/82nd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-24T16:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109031"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Local",
+        "ServiceId": "15",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/15/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "db3d85b7-2ed5-42f0-8018-c002d1857e2c"
   },
   {
     "AlertId": "109028",
