@@ -1,5 +1,63 @@
 [
   {
+    "AlertId": "109024",
+    "Headline": "Yellow, Purple, and Red Line Service Running with Delays",
+    "ShortDescription": "Yellow, Purple, and Red Line trains are running with delays  from Howard.",
+    "FullDescription": {
+      "#cdata-section": "<p>Yellow, Purple, and Red&nbsp;Line&nbsp;trains are running with delays&nbsp;from Howard&nbsp;due to an&nbsp; earlier track switching problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-24T13:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109024"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Yellow Line",
+          "ServiceId": "Y",
+          "ServiceBackColor": "f9e300",
+          "ServiceTextColor": "000000",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/yellowline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1fc968d1-857a-4777-bb1a-83247a8c81ca"
+  },
+  {
     "AlertId": "108969",
     "Headline": "#151 Sheridan Temporary Reroute near Jackson/Dearborn",
     "ShortDescription": "151 Sheridan buses temp. rerouted NB: Jackson, LaSalle, Monroe and Dearborn, SB: Adams, State, Madison, Clark and Adams near Jackson/Dearborn.",
@@ -66,63 +124,5 @@
     },
     "ttim": "0",
     "GUID": "718f17a3-d272-46b7-87cd-28d60938c664"
-  },
-  {
-    "AlertId": "109024",
-    "Headline": "Yellow, Purple, and Red Line Service Delayed from Howard",
-    "ShortDescription": "Yellow, Purple, and Red Line trains are delayed from Howard due to track switching problem. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Yellow, Purple, and Red Line trains are delayed from Howard due to track switching problem.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-07-24T13:25:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109024"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Yellow Line",
-          "ServiceId": "Y",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/yellowline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "63ec1662-ebf3-4df0-bda0-d789f9134eab"
   }
 ]
