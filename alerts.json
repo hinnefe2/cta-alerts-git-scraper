@@ -68,6 +68,40 @@
     "GUID": "03e18753-f397-4754-801d-ab74b98b8c1e"
   },
   {
+    "AlertId": "109030",
+    "Headline": "Temporary #J14 Jeffery Jump Reroute at Jeffery/82nd",
+    "ShortDescription": "J14 Jeffery Jump buses are temporarily rerouted near Jeffery/82nd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#J14 Jeffery Jump buses are temporarily rerouted in both directions via Jeffery, 79th, Yates, 83rd, Jeffery, and resume normal route, due to fire department activity near Jeffery/82nd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-24T16:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109030"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Jump",
+        "ServiceId": "J14",
+        "ServiceBackColor": "0065BD",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ea79935d-314d-4771-af4e-6d45573d53c1"
+  },
+  {
     "AlertId": "109028",
     "Headline": "Green Line Delays",
     "ShortDescription": "Green Line trains are running w/significant delays following earlier police activity at Cicero. Service is resuming, allow extra time.",
