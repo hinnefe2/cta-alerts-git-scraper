@@ -1,5 +1,73 @@
 [
   {
+    "AlertId": "109006",
+    "Headline": "#56 Milwaukee Temporary Westbound  Reroute near Madison/Clark",
+    "ShortDescription": "Westbound #56 Milwaukee buses are temporarily rerouted via Madison, Clark, Adams, LaSalle, due to police activity near Madison/Clark.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #56 Milwaukee buses are temporarily rerouted via Madison, Clark, Adams, LaSalle,&nbsp;then resume their normal route on Milwaukee, due to police activity near Madison/Clark.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-23T21:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109006"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Milwaukee",
+        "ServiceId": "56",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/56/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a7a30aca-8c4c-4f91-ac5f-64ea8e9d2bdf"
+  },
+  {
+    "AlertId": "109007",
+    "Headline": "#155 Devon Temporary Reroute at Devon/Leavitt",
+    "ShortDescription": "#155 Devon buses are temporarily rerouted in both directions via Devon, Western, Pratt, Ridge, due to police activity near Devon/Leavitt.",
+    "FullDescription": {
+      "#cdata-section": "<p>#155 Devon buses are temporarily rerouted in both directions via Devon, Western, Pratt, Ridge, then resume their normal route, due to police activity near Devon/Leavitt.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-23T21:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109007"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Devon",
+        "ServiceId": "155",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/155/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9d075bd2-8395-41ec-b741-a83349018cac"
+  },
+  {
     "AlertId": "108969",
     "Headline": "#151 Sheridan Temporary Reroute near Jackson/Dearborn",
     "ShortDescription": "151 Sheridan buses temp. rerouted NB: Jackson, LaSalle, Monroe and Dearborn, SB: Adams, State, Madison, Clark and Adams near Jackson/Dearborn.",
