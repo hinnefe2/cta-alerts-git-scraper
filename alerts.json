@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "108969",
+    "Headline": "#151 Sheridan Temporary Reroute near Jackson/Dearborn",
+    "ShortDescription": "151 Sheridan buses temp. rerouted NB: Jackson, LaSalle, Monroe and Dearborn, SB: Adams, State, Madison, Clark and Adams near Jackson/Dearborn.",
+    "FullDescription": {
+      "#cdata-section": "<p>#151 Sheridan buses are temporarily rerouted in both directions near Jackson/Dearborn&nbsp;due to police activity&nbsp;near Jackson/Dearborn.</p>\r\n\r\n<p>Northbound&nbsp;buses will operate via Jackson, Lasalle, Monroe and Dearborn including the normal route streets.</p>\r\n\r\n<p>Southbound&nbsp;buses will operate via Adams, State, Madison, Clark and Adams.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-22T12:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108969"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Sheridan",
+        "ServiceId": "151",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/151/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "03e18753-f397-4754-801d-ab74b98b8c1e"
+  },
+  {
     "AlertId": "109013",
     "Headline": "#22 Clark Temporary Reroute near Clark/Catalpa",
     "ShortDescription": "22 Clark buses temp. rerouted NB: Clark, Foster, Ashland, Bryn Mawr and Clark; SB: Clark, Catalpa, Ashland, Foster and Clark near Clark/Catalpa.",
@@ -34,37 +68,37 @@
     "GUID": "718f17a3-d272-46b7-87cd-28d60938c664"
   },
   {
-    "AlertId": "108969",
-    "Headline": "#151 Sheridan Temporary Reroute near Jackson/Dearborn",
-    "ShortDescription": "151 Sheridan buses temp. rerouted NB: Jackson, LaSalle, Monroe and Dearborn, SB: Adams, State, Madison, Clark and Adams near Jackson/Dearborn.",
+    "AlertId": "109014",
+    "Headline": "#86 Narragansett/Ridgeland Temporary Reroute at Ridgeland/North Ave",
+    "ShortDescription": "86 Narragansett/Ridgeland buses are temporarily rerouted via Narragansett, Ridgeland, Division, Austin, North Avenue and Narragansett: near Ridgeland/North Ave.",
     "FullDescription": {
-      "#cdata-section": "<p>#151 Sheridan buses are temporarily rerouted in both directions near Jackson/Dearborn&nbsp;due to police activity&nbsp;near Jackson/Dearborn.</p>\r\n\r\n<p>Northbound&nbsp;buses will operate via Jackson, Lasalle, Monroe and Dearborn including the normal route streets.</p>\r\n\r\n<p>Southbound&nbsp;buses will operate via Adams, State, Madison, Clark and Adams.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#86 Narragansett/Ridgeland buses are temporarily rerouted in both directions via Narragansett, Ridgeland, Division, Austin, North Avenue, Narragansett and over regular route: near Ridgeland/North Ave.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-22T12:51:00",
+    "EventStart": "2025-07-24T09:34:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=108969"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109014"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Sheridan",
-        "ServiceId": "151",
+        "ServiceName": "Narragansett/Ridgeland",
+        "ServiceId": "86",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          "#cdata-section": "http://www.transitchicago.com/bus/86/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "03e18753-f397-4754-801d-ab74b98b8c1e"
+    "GUID": "f2326136-1f9d-4b7a-b7b1-079341aeecd0"
   }
 ]
