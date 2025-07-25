@@ -385,5 +385,39 @@
     },
     "ttim": "0",
     "GUID": "1ef2ed85-027a-408a-8a49-7743782cbeaf"
+  },
+  {
+    "AlertId": "109066",
+    "Headline": "Temporary #8 Halsted Reroute near Halsted/58th",
+    "ShortDescription": "8 Halsted buses temp. rerouted near Halsted/58th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#8 Halsted buses are temporarily rerouted in both directions, due to street blockage near Halsted/58th.</p>\r\n\r\n<p>Northbound buses will operate via Halsted, 59th. Emerald, 58th, Halsted, and resume normal route.</p>\r\n\r\n<p>Southbound buses will operate via Halsted, 57th, Emerald, 59th, Halsted, and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-25T15:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109066"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Halsted",
+        "ServiceId": "8",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/8/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "22af0e3c-95d0-47cf-a927-77ad3808a15c"
   }
 ]
