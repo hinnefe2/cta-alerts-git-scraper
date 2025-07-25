@@ -34,40 +34,6 @@
     "GUID": "a8cdd232-75a2-4b63-ac8d-5c7cedca60b5"
   },
   {
-    "AlertId": "109048",
-    "Headline": "#22 Clark Temporary Reroute near Clark/Catalpa",
-    "ShortDescription": "22 Clark buses temp. rerouted NB Clark, Foster, Ashland, Bryn Mawr and Clark; SB Clark, Catalpa, Ashland, Foster and Clark: near Clark/Catalpa.",
-    "FullDescription": {
-      "#cdata-section": "<p>#22 Clark&nbsp; buses are temporarily rerouted in both directions near Clark/Catalpa due to street blockage near Clark/Catalpa.</p>\r\n\r\n<p>Northbound buses will operate via Clark, Foster, Ashland, Bryn Mawr and Clark&nbsp;including the normal route streets.</p>\r\n\r\n<p>Southbound buses will operate via Clark, Catalpa, Ashland, Foster and Clark.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-25T06:09:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109048"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Clark",
-        "ServiceId": "22",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/22/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "5ea3070a-f0db-48bd-a642-59fc30ceebb5"
-  },
-  {
     "AlertId": "109056",
     "Headline": "#94 California Temporary Southbound Reroute near 69th/Hamilton",
     "ShortDescription": "Southbound 94 California buses are temporarily rerouted via Western, 67th and Damen: due to, street blockage near 69th/Hamilton.",
@@ -134,5 +100,86 @@
     },
     "ttim": "0",
     "GUID": "5fc402b6-daf2-4a81-b4c1-b4f9a44308e5"
+  },
+  {
+    "AlertId": "109058",
+    "Headline": "#9 Ashland, #X9 Ashland Express Temporary Reroute at Ashland/41st",
+    "ShortDescription": "9 Ashland, X9 Ashland buses are temporarily rerouted via Ashland, Pershing, Western Blvd., 43rd and Ashland: due to, street blockage near Ashland/41st.",
+    "FullDescription": {
+      "#cdata-section": "<p>#9 Ashland,&nbsp;#Ashland,X9 Ashland buses are temporarily rerouted via Ashland, Pershing, Western Blvd., 43rd and Ashland: due to, street blockage near Ashland/41st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-25T13:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109058"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "16bd29ec-b838-484b-a8f4-7ab237d36c1d"
+  },
+  {
+    "AlertId": "109048",
+    "Headline": "#22 Clark Temporary Reroute near Clark/Catalpa",
+    "ShortDescription": "22 Clark buses temp. rerouted NB Clark, Foster, Ashland, Bryn Mawr and Clark; SB Clark, Catalpa, Ashland, Foster and Clark: near Clark/Catalpa.",
+    "FullDescription": {
+      "#cdata-section": "<p>#22 Clark&nbsp; buses are temporarily rerouted in both directions near Clark/Catalpa due to street blockage near Clark/Catalpa.</p>\r\n\r\n<p>Northbound buses will operate via Clark, Foster, Ashland, Bryn Mawr and Clark&nbsp;including the normal route streets.</p>\r\n\r\n<p>Southbound buses will operate via Clark, Catalpa, Ashland, Foster and Clark.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-25T06:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109048"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clark",
+        "ServiceId": "22",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/22/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5ea3070a-f0db-48bd-a642-59fc30ceebb5"
   }
 ]
