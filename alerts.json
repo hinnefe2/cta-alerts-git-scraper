@@ -183,6 +183,74 @@
     "GUID": "5380175b-9ba8-45db-b68a-d110c0da77c5"
   },
   {
+    "AlertId": "109061",
+    "Headline": "Temporary #49 Western Reroute at Western/61st",
+    "ShortDescription": "49 Western buses are temporarily rerouted near Western/61st.",
+    "FullDescription": {
+      "#cdata-section": "<p>#49 Western&nbsp;buses are temporarily rerouted in both directions via exit the terminal onto 79th, Damen, 71st, Western, and resume normal route&nbsp;due to street blockage&nbsp;near Western/61st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-25T14:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109061"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Western",
+        "ServiceId": "49",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/49/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "72e3f42c-edd5-44e4-a60e-bcd11eba6507"
+  },
+  {
+    "AlertId": "109062",
+    "Headline": "Temporary X49 Western Express Reroute at Western/61st",
+    "ShortDescription": "X49 Western Express buses are temporarily rerouted near Western/61st.",
+    "FullDescription": {
+      "#cdata-section": "<p>X49 Western Express buses are temporarily rerouted in both directions via exit the terminal onto 79th, Damen, 71st, Western, and resume normal route due to street blockage near Western/61st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-25T14:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109062"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Western Express",
+        "ServiceId": "X49",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "00a078",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/x49/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "409a5524-a27d-479c-9cbf-fcbafbfe6ae3"
+  },
+  {
     "AlertId": "109048",
     "Headline": "#22 Clark Temporary Reroute near Clark/Catalpa",
     "ShortDescription": "22 Clark buses temp. rerouted NB Clark, Foster, Ashland, Bryn Mawr and Clark; SB Clark, Catalpa, Ashland, Foster and Clark: near Clark/Catalpa.",
