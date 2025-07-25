@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "109049",
+    "Headline": "Green Line Service Delayed at Laramie",
+    "ShortDescription": "Green Line trains are standing near Laramie due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green Line trains are standing near Laramie due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-25T06:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109049"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Laramie",
+          "ServiceId": "40700",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=88"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f02f3c78-cc45-483c-99ce-7b5dfdd2f2b7"
+  },
+  {
     "AlertId": "109047",
     "Headline": "#30 South Chicago Temporary Reroute at 79th//South Chicago",
     "ShortDescription": "30 South Chicago buses are temporarily rerouted via South Chicago, Stony Island, 76th, Jeffery and South Chicago due to, street blockage near79th/South Chicago.",
