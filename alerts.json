@@ -255,7 +255,7 @@
     "Headline": "Temporary #47 47th Reroute near 47th/Wentworth",
     "ShortDescription": "47 47th buses temp. rerouted near 47th/Wentworth.",
     "FullDescription": {
-      "#cdata-section": "<p>#47 47th buses are temporarily rerouted in both directions, due to street blockage near 47th/Wentworth.</p>\r\n\r\n<p>Eastbound buses will operate via 47th, Wells, 51st, State, 47th, and resume normal route.</p>\r\n\r\n<p>Westbound buses will operate via 47th, State, 51st, Wentworth, 47th, and normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#47 47th&nbsp;buses are temporarily rerouted in both directions, due to street blockage near 47th/Wentworth.</p>\r\n\r\n<p>Eastbound buses will operate via 47th, Halsted, 43rd, Wells, 47th, Wentworth, 43rd State, 47th. and resume normal route.</p>\r\n\r\n<p>Westbound buses will operate via 47th, State, 51st, Wentworth, 43rd, Halsted, 47th. and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -282,7 +282,41 @@
       }
     },
     "ttim": "0",
-    "GUID": "eb56321d-379b-4033-869b-1426afc50843"
+    "GUID": "c4f6865e-a8c7-4091-b63a-4174c8b47088"
+  },
+  {
+    "AlertId": "109064",
+    "Headline": "Temporary #51 51st Reroute near 47th/Wentworth",
+    "ShortDescription": "51 51st buses temp. rerouted near 47th/Wentworth.",
+    "FullDescription": {
+      "#cdata-section": "<p>#51 51st buses are temporarily rerouted in both directions, due to street blockage near 47th/Wentworth.</p>\r\n\r\n<p>Eastbound buses will operate via 47th, Halsted, 43rd, Wells, 47th, Wentworth, 43rd State, 47th. and resume normal route.</p>\r\n\r\n<p>Westbound buses will operate via 47th, State, 51st, Wentworth, 43rd, Halsted, 47th. and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-25T14:45:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109064"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "51st",
+        "ServiceId": "51",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/51/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "31c39e0a-11bc-40fc-8710-120b93e2d4e1"
   },
   {
     "AlertId": "109048",
