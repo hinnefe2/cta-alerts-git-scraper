@@ -1,5 +1,97 @@
 [
   {
+    "AlertId": "109055",
+    "Headline": "Yellow and Purple Line Delays",
+    "ShortDescription": "Yellow and Purple Line trains are running w/residual delays following earlier heavy train traffic at Howard. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Yellow and Purple Line trains are running w/residual delays following earlier heavy train traffic at Howard.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-25T12:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109055"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Howard",
+          "ServiceId": "40900",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=71"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Yellow Line",
+          "ServiceId": "Y",
+          "ServiceBackColor": "f9e300",
+          "ServiceTextColor": "000000",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/yellowline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "28d9c6ae-7525-4ed1-ba35-eb6d4385c182"
+  },
+  {
+    "AlertId": "109053",
+    "Headline": "#50 Damen Temporary Reroute at Damen/18th",
+    "ShortDescription": "50 Damen buses are temporarily rerouted via Damen, 18th, Ashland, Roosevelt and Damen: due to, street blockage near Damen/18th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#50 Damen buses are temporarily rerouted via Damen, 18th, Ashland, Roosevelt and Damen: due to, street blockage near Damen/18th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-25T11:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109053"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Damen",
+        "ServiceId": "50",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/50/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a8cdd232-75a2-4b63-ac8d-5c7cedca60b5"
+  },
+  {
     "AlertId": "108969",
     "Headline": "#151 Sheridan Temporary Reroute near Jackson/Dearborn",
     "ShortDescription": "151 Sheridan buses temp. rerouted NB: Jackson, LaSalle, Monroe and Dearborn, SB: Adams, State, Madison, Clark and Adams near Jackson/Dearborn.",
@@ -66,39 +158,5 @@
     },
     "ttim": "0",
     "GUID": "5ea3070a-f0db-48bd-a642-59fc30ceebb5"
-  },
-  {
-    "AlertId": "109053",
-    "Headline": "#50 Damen Temporary Reroute at Damen/18th",
-    "ShortDescription": "50 Damen buses are temporarily rerouted via Damen, 18th, Ashland, Roosevelt and Damen: due to, street blockage near Damen/18th.",
-    "FullDescription": {
-      "#cdata-section": "<p>#50 Damen buses are temporarily rerouted via Damen, 18th, Ashland, Roosevelt and Damen: due to, street blockage near Damen/18th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-25T11:04:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109053"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Damen",
-        "ServiceId": "50",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/50/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a8cdd232-75a2-4b63-ac8d-5c7cedca60b5"
   }
 ]
