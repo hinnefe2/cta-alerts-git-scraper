@@ -34,6 +34,40 @@
     "GUID": "718f17a3-d272-46b7-87cd-28d60938c664"
   },
   {
+    "AlertId": "109032",
+    "Headline": "Temporary #100 Jeffery Manor Express Reroute at 95th/Cottage Grove",
+    "ShortDescription": "100 Jeffery Manor Express buses are temporarily rerouted near 95th/Cottage Grove.",
+    "FullDescription": {
+      "#cdata-section": "<p>#100 Jeffery Manor Express buses are temporarily rerouted in both directions via 95th, King Drive, 103rd, Stony Island, 95th, due to, street blockage at 95th/Cottage Grove.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-24T17:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109032"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Manor Express",
+        "ServiceId": "100",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/100/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9fee5529-94b8-4b91-a5e9-724f6e50bce6"
+  },
+  {
     "AlertId": "108969",
     "Headline": "#151 Sheridan Temporary Reroute near Jackson/Dearborn",
     "ShortDescription": "151 Sheridan buses temp. rerouted NB: Jackson, LaSalle, Monroe and Dearborn, SB: Adams, State, Madison, Clark and Adams near Jackson/Dearborn.",
@@ -100,73 +134,5 @@
     },
     "ttim": "0",
     "GUID": "fa5098cd-b675-4a20-8797-881fc5bc5bb1"
-  },
-  {
-    "AlertId": "109030",
-    "Headline": "Temporary #J14 Jeffery Jump Reroute at Jeffery/82nd",
-    "ShortDescription": "J14 Jeffery Jump buses are temporarily rerouted near Jeffery/82nd.",
-    "FullDescription": {
-      "#cdata-section": "<p>#J14 Jeffery Jump buses are temporarily rerouted in both directions via Jeffery, 79th, Yates, 83rd, Jeffery, and resume normal route, due to&nbsp;street blockage near Jeffery/82nd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-24T16:50:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109030"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jeffery Jump",
-        "ServiceId": "J14",
-        "ServiceBackColor": "0065BD",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/j14/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "129ed16c-491d-40f4-aa83-f1b4183620f5"
-  },
-  {
-    "AlertId": "109032",
-    "Headline": "Temporary #100 Jeffery Manor Express Reroute at 95th/Cottage Grove",
-    "ShortDescription": "100 Jeffery Manor Express buses are temporarily rerouted near 95th/Cottage Grove.",
-    "FullDescription": {
-      "#cdata-section": "<p>#100 Jeffery Manor Express buses are temporarily rerouted in both directions via 95th, King Drive, 103rd, Stony Island, 95th, due to, street blockage at 95th/Cottage Grove.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-24T17:09:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109032"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jeffery Manor Express",
-        "ServiceId": "100",
-        "ServiceBackColor": "ffffff",
-        "ServiceTextColor": "b71234",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/100/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "9fee5529-94b8-4b91-a5e9-724f6e50bce6"
   }
 ]
