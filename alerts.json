@@ -34,6 +34,40 @@
     "GUID": "5fc402b6-daf2-4a81-b4c1-b4f9a44308e5"
   },
   {
+    "AlertId": "109091",
+    "Headline": "Temporary #85 Central Reroute at Chicago/Lamon-Central",
+    "ShortDescription": "85 Central buses are temporarily rerouted near Chicago/Lamon-Central.",
+    "FullDescription": {
+      "#cdata-section": "<p>#85 Central buses are temporarily rerouted via Central, Corcoran, Parkside, Lake, Austin, Division, Central, and resume normal route: due to, street blockage near Chicago/Lamon-Central.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-26T11:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109091"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Central",
+        "ServiceId": "85",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/85/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d0160ad6-d5b5-4a59-b889-3bf0509fa482"
+  },
+  {
     "AlertId": "109086",
     "Headline": "#22 Clark Temporary Reroute at Clark/Roscoe-Addison",
     "ShortDescription": "#22 Clark buses are temporarily rerouted in both directions via Clark,  Addison, Racine, Belmont, due to street blockage near Clark/Roscoe-Addison.",
@@ -171,10 +205,10 @@
   },
   {
     "AlertId": "109090",
-    "Headline": "Forest Park-bound Blue Line Service Delayed at UIC Halsted",
-    "ShortDescription": "Forest Park-bound Blue Line trains are standing with significant delays at UIC Halsted. Crews working to restore service.",
+    "Headline": "Forest Park-bound Blue Line Service Running with Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running with significant  delays at UIC/Halsted.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are&nbsp;standing with significant delays at UIC Halsted due to a sick customer.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue&nbsp;Line&nbsp;trains are running with significant delays&nbsp;at UIC/Halsted&nbsp;due to an earlier sick customer.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -214,6 +248,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "123892f7-e741-42e2-be03-95f9b2c596dd"
+    "GUID": "d659fc7f-a8cd-4210-a185-111fcf1a8869"
   }
 ]
