@@ -34,40 +34,6 @@
     "GUID": "5fc402b6-daf2-4a81-b4c1-b4f9a44308e5"
   },
   {
-    "AlertId": "109059",
-    "Headline": "Temporary #29 State Reroute near State/63rd",
-    "ShortDescription": "29 State buses temp. rerouted near State/63rd.",
-    "FullDescription": {
-      "#cdata-section": "<p>#29 State buses are temporarily rerouted in both directions, due to street blockage near State/63rd.</p>\r\n\r\n<p>Southbound buses will operate via State, 59th, Wells, Marquette, State, and resume normal route.</p>\r\n\r\n<p>Northbound buses will operate via State, Marquette, Wentworth, 59th, State, and resume normal route on State.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-25T13:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109059"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "State",
-        "ServiceId": "29",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/29/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "5380175b-9ba8-45db-b68a-d110c0da77c5"
-  },
-  {
     "AlertId": "109048",
     "Headline": "#22 Clark Temporary Reroute near Clark/Catalpa",
     "ShortDescription": "22 Clark buses temp. rerouted NB Clark, Foster, Ashland, Bryn Mawr and Clark; SB Clark, Catalpa, Ashland, Foster and Clark: near Clark/Catalpa.",
@@ -204,37 +170,50 @@
     "GUID": "1ef2ed85-027a-408a-8a49-7743782cbeaf"
   },
   {
-    "AlertId": "109072",
-    "Headline": "Temporary Westbound #55 Garfield Reroute near Garfield/Hamilton",
-    "ShortDescription": "Westbound 55 Garfield buses are temporarily rerouted near Garfield/Hamilton.",
+    "AlertId": "109076",
+    "Headline": " 95th-bound Red Line Service Running with Delays",
+    "ShortDescription": " 95th-bound Red Line trains are running with significant delays at Monroe.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound #55 Garfield buses are temporarily rerouted via&nbsp;Garfield, Damen, 51st, Western, Garfield and resume normal route: due to, street blockage near Garfield/Hamilton.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th-bound Red&nbsp;Line&nbsp;trains are running with significant delays&nbsp;at Monroe&nbsp;due to an earlier door problem</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-25T17:54:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-07-25T20:19:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109072"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109076"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Garfield",
-        "ServiceId": "55",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/55/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Monroe",
+          "ServiceId": "41090",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=101"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "e6c9fe00-6459-4d04-b90d-6c08dfa8f325"
+    "GUID": "a683f179-5c0b-4406-ac75-2ae1f2a27217"
   }
 ]
