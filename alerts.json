@@ -1,73 +1,5 @@
 [
   {
-    "AlertId": "109080",
-    "Headline": "Howard-bound Red Line Service Delayed at Monroe",
-    "ShortDescription": "Howard-bound Red Line trains are standing at Monroe due to police activity. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Monroe due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-07-25T23:00:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109080"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "1200c775-ff56-474c-82eb-c26360d275e2"
-  },
-  {
-    "AlertId": "109065",
-    "Headline": "Temporary #63 63rd Reroute at 63rd/Western",
-    "ShortDescription": "63 63rd buses are temporarily rerouted near 63rd/Western.",
-    "FullDescription": {
-      "#cdata-section": "<p>#63 63rd buses are temporarily rerouted in both directions via 63rd, Western, Marquette, Damen, 63rd, and resume normal route, due to street blockage near 63rd/Western.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-25T14:59:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109065"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "63rd",
-        "ServiceId": "63",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/63/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "1ef2ed85-027a-408a-8a49-7743782cbeaf"
-  },
-  {
     "AlertId": "109057",
     "Headline": "#67 67th-69th-71st Temporary Eastbound Reroute near 69th/Hamilton",
     "ShortDescription": "Eastbound 67 67th-69th-71st  buses are temporarily rerouted via Western, 67th, Damen and 69th: due to, street blockage near 69th/Hamilton.",
@@ -136,37 +68,37 @@
     "GUID": "5ea3070a-f0db-48bd-a642-59fc30ceebb5"
   },
   {
-    "AlertId": "109079",
-    "Headline": "Forest Park-bound Blue Line Service Delayed at Chicago",
-    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Chicago due to a sick customer.  Crews working to restore service.",
+    "AlertId": "109065",
+    "Headline": "Temporary #63 63rd Reroute at 63rd/Western",
+    "ShortDescription": "63 63rd buses are temporarily rerouted near 63rd/Western.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Chicago due to a sick customer.&nbsp;</p>\r\n\r\n<p>Shuttle Buses has been requested to provide connecting service from Jefferson Park to UIC Halsted.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>This may include&nbsp;<br />\r\n#56 Milwaukee<br />\r\n#66 Chicago</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#63 63rd buses are temporarily rerouted in both directions via 63rd, Western, Marquette, Damen, 63rd, and resume normal route, due to street blockage near 63rd/Western.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2025-07-25T22:18:00",
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-25T14:59:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109079"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109065"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "9c44ca38-9ef9-4435-8b4b-acf4337d515b"
+    "GUID": "1ef2ed85-027a-408a-8a49-7743782cbeaf"
   }
 ]
