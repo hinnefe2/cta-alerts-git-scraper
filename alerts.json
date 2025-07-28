@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "109119",
-    "Headline": "#126 Jackson Temporary Westbound Reroute near Van Buren/Ashland",
-    "ShortDescription": "Westbound 126 Jackson buses are temporarily rerouted via Van Buren, Loomis, Adams, Ogden and Van Buren: due to, fire department activity near Van Buren/Ashland.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #126 Jackson&nbsp;buses are temporarily rerouted via Van Buren, Loomis, Adams, Ogden and Van Buren: due to, fire department activity near Van Buren/Ashland.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-28T08:54:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109119"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson",
-        "ServiceId": "126",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/126/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a9858404-70be-4a18-9320-f79fc377031d"
-  },
-  {
     "AlertId": "109057",
     "Headline": "#67 67th-69th-71st Temporary Eastbound Reroute near 69th/Hamilton",
     "ShortDescription": "Eastbound 67 67th-69th-71st  buses are temporarily rerouted via Western, 67th, Damen and 69th: due to, street blockage near 69th/Hamilton.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "5fc402b6-daf2-4a81-b4c1-b4f9a44308e5"
+  },
+  {
+    "AlertId": "109119",
+    "Headline": "#126 Jackson Temporary Westbound Reroute near Van Buren/Ashland",
+    "ShortDescription": "Westbound 126 Jackson buses are temporarily rerouted via Van Buren, Loomis, Adams, Ogden and Van Buren: due to, fire department activity near Van Buren/Ashland.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #126 Jackson&nbsp;buses are temporarily rerouted via Van Buren, Loomis, Adams, Ogden and Van Buren: due to, fire department activity near Van Buren/Ashland.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-28T08:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109119"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson",
+        "ServiceId": "126",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/126/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a9858404-70be-4a18-9320-f79fc377031d"
   }
 ]
