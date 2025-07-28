@@ -1,37 +1,50 @@
 [
   {
-    "AlertId": "109057",
-    "Headline": "#67 67th-69th-71st Temporary Eastbound Reroute near 69th/Hamilton",
-    "ShortDescription": "Eastbound 67 67th-69th-71st  buses are temporarily rerouted via Western, 67th, Damen and 69th: due to, street blockage near 69th/Hamilton.",
+    "AlertId": "109122",
+    "Headline": "95th- bound Red Line Delays",
+    "ShortDescription": "95th- bound Red Line trains are running w/residual delays following earlier police activity at Chicago. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Eastbound #67 67th-69th-71st&nbsp; buses are temporarily rerouted via Western, 67th, Damen and 69th: due to, street blockage near 69th/Hamilton.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th- bound Red Line trains are running w/residual delays following earlier police activity at Chicago.&nbsp;</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-25T13:03:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-28T11:11:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109057"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109122"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "67th-69th-71st",
-        "ServiceId": "67",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/67/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Chicago",
+          "ServiceId": "41450",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=38"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "5fc402b6-daf2-4a81-b4c1-b4f9a44308e5"
+    "GUID": "feb2444e-a2d8-407f-a3ca-8a7dcbcab590"
   },
   {
     "AlertId": "109119",
@@ -66,5 +79,39 @@
     },
     "ttim": "0",
     "GUID": "a9858404-70be-4a18-9320-f79fc377031d"
+  },
+  {
+    "AlertId": "109057",
+    "Headline": "#67 67th-69th-71st Temporary Eastbound Reroute near 69th/Hamilton",
+    "ShortDescription": "Eastbound 67 67th-69th-71st  buses are temporarily rerouted via Western, 67th, Damen and 69th: due to, street blockage near 69th/Hamilton.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #67 67th-69th-71st&nbsp; buses are temporarily rerouted via Western, 67th, Damen and 69th: due to, street blockage near 69th/Hamilton.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-25T13:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109057"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "67th-69th-71st",
+        "ServiceId": "67",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/67/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5fc402b6-daf2-4a81-b4c1-b4f9a44308e5"
   }
 ]
