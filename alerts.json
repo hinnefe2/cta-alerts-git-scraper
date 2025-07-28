@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "109129",
+    "Headline": "#121 Union/Streeterville Express and #120 Ogilvie/Wacker Express Temporary Reroute near Lower Wacker/Adams",
+    "ShortDescription": "121 Union/Streeterville Express and 120 Ogilvie/Wacker Express buses temporarily rerouted due to, street blockage near Lower Wacker/Adams.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#121 Union/Streeterville Express and #120 Ogilvie/Wacker Express buses temporarily rerouted due to, street blockage near Lower Wacker/Adams.</p>\r\n\r\n<p>Northbound #121 Union/Streeterville Express&nbsp;buses will operate via Jackson, Upper Wacker, LaSalle, Illinois and over regular route.</p>\r\n\r\n<p>Northbound #120 Ogilvie/Wacker Express buses will operate via Washington, Franklin, Upper Wacker, LaSalle, Illinois and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-28T15:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109129"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ogilvie/Streeterville Express",
+          "ServiceId": "120",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/120/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Union/Streeterville Express",
+          "ServiceId": "121",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/121/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "45776067-27af-4678-9baa-276b1df505aa"
+  },
+  {
     "AlertId": "109119",
     "Headline": "#126 Jackson Temporary Westbound Reroute near Van Buren/Ashland",
     "ShortDescription": "Westbound 126 Jackson buses are temporarily rerouted via Van Buren, Loomis, Adams, Ogden and Van Buren: due to, fire department activity near Van Buren/Ashland.",
