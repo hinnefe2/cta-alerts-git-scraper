@@ -1,49 +1,36 @@
 [
   {
-    "AlertId": "109136",
-    "Headline": "95th- bound Red Line Service Delayed at Harrison",
-    "ShortDescription": "95th- bound Red Line trains are standing at Roosevelt due to a mechanical problem. Crews working to restore service.",
+    "AlertId": "109137",
+    "Headline": "#92 Foster Temporary Westbound Reroute near Foster/Cicero",
+    "ShortDescription": "Westbound 92 Foster buses are temporarily rerouted via Foster, Cicero, Elston and Foster: due to, street blockage near Foster/Cicero.",
     "FullDescription": {
-      "#cdata-section": "<p>95th- bound Red Line trains are standing at Roosevelt due to a mechanical problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #92 Foster buses are temporarily rerouted via Foster, Cicero, Elston and Foster: due to, street blockage near Foster/Cicero.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-07-29T08:48:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-29T09:06:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109136"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109137"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Roosevelt",
-          "ServiceId": "41400",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=122"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Foster",
+        "ServiceId": "92",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/92/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "65d6da1d-0b63-4f50-ac36-b0440d810fe3"
+    "GUID": "47c05100-191f-47ea-94bd-89bdd3740b95"
   }
 ]
