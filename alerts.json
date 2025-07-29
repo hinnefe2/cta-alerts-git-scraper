@@ -1,15 +1,49 @@
 [
   {
-    "AlertId": "109138",
-    "Headline": "Blue Line Service Delayed near Rosemont",
-    "ShortDescription": "Blue Line trains are standing near Rosemont due to police activity. Crews working to restore service.",
+    "AlertId": "109137",
+    "Headline": "#92 Foster Temporary Westbound Reroute near Foster/Cicero",
+    "ShortDescription": "Westbound 92 Foster buses are temporarily rerouted via Foster, Cicero, Elston and Foster: due to, street blockage near Foster/Cicero.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are standing near Rosemont due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #92 Foster buses are temporarily rerouted via Foster, Cicero, Elston and Foster: due to, street blockage near Foster/Cicero.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-29T09:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109137"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Foster",
+        "ServiceId": "92",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/92/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "47c05100-191f-47ea-94bd-89bdd3740b95"
+  },
+  {
+    "AlertId": "109138",
+    "Headline": "No trains between O'Hare and Jefferson Park",
+    "ShortDescription": "Blue Line service has been temporarily suspended between O'Hare and Jefferson Park due to police activity at Rosemont.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line service has been temporarily suspended between O&#39;Hare&nbsp;and Jefferson Park&nbsp;due to police activity.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Forest Park and Jefferson Park at this time.</strong></p>\r\n\r\n<p><strong>Shuttle buses are now available&nbsp;from O&#39;Hare to Jefferson Park to provide connecting service through the affected area</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
     "EventStart": "2025-07-29T09:35:00",
     "EventEnd": null,
     "TBD": "1",
@@ -44,40 +78,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "fc6d1e63-eeea-44a0-91fa-e88bcb1bf564"
-  },
-  {
-    "AlertId": "109137",
-    "Headline": "#92 Foster Temporary Westbound Reroute near Foster/Cicero",
-    "ShortDescription": "Westbound 92 Foster buses are temporarily rerouted via Foster, Cicero, Elston and Foster: due to, street blockage near Foster/Cicero.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #92 Foster buses are temporarily rerouted via Foster, Cicero, Elston and Foster: due to, street blockage near Foster/Cicero.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-29T09:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109137"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Foster",
-        "ServiceId": "92",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/92/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "47c05100-191f-47ea-94bd-89bdd3740b95"
+    "GUID": "63676fc7-92ba-4bca-9106-ab7ef27fe6c3"
   }
 ]
