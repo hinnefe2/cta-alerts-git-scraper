@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "e6127064-b4d1-44d7-9507-cbc0ae4a6fe5"
+  },
+  {
+    "AlertId": "109145",
+    "Headline": "#26 South Shore Express and #100 Jeffery Manor Express Temporary Reroute near 106th/Buffalo",
+    "ShortDescription": "26 South Shore Express and 100 Jeffery Manor Express buses temporarily rerouted in both directions near 106th/Buffalo.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#26 South Shore Express and #100 Jeffery Manor Express buses are temporarily rerouted in both directions near 106th/Buffalo due to, a raised bridge near 106th/Buffalo.</p>\r\n\r\n<p>Southbound #26 South Shore Express&nbsp;buses will operate via Ewing, 100th, Commercial, 104th, Torrence and over regular route.</p>\r\n\r\n<p>#100 Jeffery Manor Express buses will operate via Torrence, 104th, Commercial, 100th, Ewing, 106th and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-29T15:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109145"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Manor Express",
+          "ServiceId": "100",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/100/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f69d6701-fdd3-4f96-b714-203635bca5f4"
   }
 ]
