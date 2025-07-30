@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "109151",
+    "Headline": "Temporary #146 Inner Drive/Michigan Express Reroute at Irving Park/Marine Dr",
+    "ShortDescription": "146 Inner Drive/Michigan Express buses are temporarily rerouted near Irving Park/Marine Dr.",
+    "FullDescription": {
+      "#cdata-section": "<p>#146 Inner Drive/Michigan Express&nbsp;buses are temporarily rerouted in both directions via Inner Lake Shore Drive,&nbsp;West Sheridan, Broadway, Irving Park, Clarendon, Lawrence, Marine Drive, and resume normal route&nbsp;due to street blockage&nbsp;near Irving Park/Marine Dr.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-29T21:30:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109151"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Inner Lake Shore/Michigan Express",
+        "ServiceId": "146",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/146/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "480059fc-a28f-47eb-9054-0db4bbc39c02"
+  },
+  {
+    "AlertId": "109152",
+    "Headline": "Temporary Eastbound #80 Irving Park Reroute near Irving Park/Marine Dr.",
+    "ShortDescription": "Eastbound 80 Irving Park buses are temporarily rerouted near Irving Park/Marine Dr.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #80 Irving Park buses are temporarily rerouted via Irving Park, West Sheridan, Broadway, and resume normal route, due to street blockage near Irving Park/Marine Dr.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-29T21:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109152"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Irving Park",
+        "ServiceId": "80",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/80/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "14124197-15ee-4607-8422-633093b6e23b"
+  }
+]
