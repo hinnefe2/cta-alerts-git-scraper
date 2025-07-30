@@ -69,15 +69,15 @@
   },
   {
     "AlertId": "109162",
-    "Headline": "Red Line Service Delayed at Thorndale",
-    "ShortDescription": "Red Line trains are standing at Thorndale due to a medical emergency. Crews working to restore service.",
+    "Headline": "No trains between Howard and Belmont",
+    "ShortDescription": "Red Line service has been temporarily suspended between Howard and Belmont due to a medical emergency at Thorndale.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing at Thorndale due to a medical emergency.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line service has been temporarily suspended between Howard and Belmont due to a medical emergency at Thorndale.</p>\r\n\r\n<p>As a result,&nbsp;<span style=\"font-weight: bolder;\">trains are operating only between 95th and Belmont at this time.</span></p>\r\n\r\n<p><span style=\"font-weight: bolder;\">Shuttle buses have been requested from Howard to Belmont&nbsp;to provide connecting service through the affected area.&nbsp;</span></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
     "EventStart": "2025-07-30T05:20:00",
     "EventEnd": null,
     "TBD": "1",
@@ -108,10 +108,21 @@
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/redline/"
           }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "65b5eeb5-c74a-4fa8-9c2e-5f97b90c8820"
+    "GUID": "4cc61eb9-657f-43ed-bf1b-5051e90353bc"
   }
 ]
