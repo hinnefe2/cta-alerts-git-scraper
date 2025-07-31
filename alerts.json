@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "109204",
-    "Headline": "#88 Higgins Temporary Westbound Reroute near Oriole/Canfield",
-    "ShortDescription": "Westbound 88 Higgins buses are temporarily rerouted via Talcott, Oriole and Devon: due to, street blockage near Oriole/Canfield.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #88 Higgins buses are temporarily rerouted via Talcott, Oriole and Devon: due to, street blockage near Oriole/Canfield.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-07-31T11:56:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109204"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Higgins",
-        "ServiceId": "88",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/88/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "91e8d7b6-7df3-455b-b4b9-5ea82e6169e8"
-  },
-  {
     "AlertId": "109202",
     "Headline": "#8 Halsted Temporary Reroute at Halsted/Belmont",
     "ShortDescription": "8 Halsted buses are temporarily rerouted via Halsted, Clark, Belmont and Halsted: due to, street blockage near Halsted/Belmont.",
@@ -68,6 +34,40 @@
     "GUID": "17ed178f-4196-4dc8-8c9d-65b563ffe8d1"
   },
   {
+    "AlertId": "109204",
+    "Headline": "#88 Higgins Temporary Westbound Reroute near Oriole/Canfield",
+    "ShortDescription": "Westbound 88 Higgins buses are temporarily rerouted via Talcott, Oriole and Devon: due to, street blockage near Oriole/Canfield.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #88 Higgins buses are temporarily rerouted via Talcott, Oriole and Devon: due to, street blockage near Oriole/Canfield.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-31T11:56:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109204"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Higgins",
+        "ServiceId": "88",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/88/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "91e8d7b6-7df3-455b-b4b9-5ea82e6169e8"
+  },
+  {
     "AlertId": "109197",
     "Headline": "#94 California Temporary Southbound Reroute near California/Armitage",
     "ShortDescription": "SB 94 California buses are temp. rerouted via California, Armitage, Western, North Avenue and California: due to, street blockage near California/Armitage.",
@@ -100,52 +100,5 @@
     },
     "ttim": "0",
     "GUID": "6ed16213-c968-4d58-8204-ef331b6f43df"
-  },
-  {
-    "AlertId": "109203",
-    "Headline": "Green Line Delays",
-    "ShortDescription": "Green Line trains are running w/residual delays following earlier signal problems at 35th- Bronzeville-IIT. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Green Line trains are running w/residual delays following earlier signal problems at 35th- Bronzeville-IIT.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-07-31T11:48:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109203"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "35th-Bronzeville-IIT",
-          "ServiceId": "41120",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=2"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "818b1c51-dc5e-40d2-b40c-aece59f75789"
   }
 ]
