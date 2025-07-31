@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "109186",
+    "Headline": "Harlem-bound Green Line Service Running with Delays",
+    "ShortDescription": "Harlem-bound Green Line trains are running with delays at California.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green&nbsp;Line&nbsp;trains are running with delays&nbsp;at California&nbsp;due to an earlier sick customer.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-07-30T23:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109186"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "California",
+          "ServiceId": "41360",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=30"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "2f9e2580-9016-46ae-ac88-71d2d4b0ff23"
+  },
+  {
     "AlertId": "109184",
     "Headline": "#52 Kedzie/California Temporary Southbound Reroute near Kedzie/53rd",
     "ShortDescription": "Southbound 52 Kedzie/California buses are temporarily rerouted via Kedzie, 51st, California, 55th and Kedzie near Kedzie/53rd.",
