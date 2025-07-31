@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "109202",
+    "Headline": "#8 Halsted Temporary Reroute at Halsted/Belmont",
+    "ShortDescription": "8 Halsted buses are temporarily rerouted via Halsted, Clark, Belmont and Halsted: due to, street blockage near Halsted/Belmont.",
+    "FullDescription": {
+      "#cdata-section": "<p>#8 Halsted buses are temporarily rerouted via Halsted, Clark, Belmont and Halsted: due to, street blockage near Halsted/Belmont.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-07-31T11:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109202"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Halsted",
+        "ServiceId": "8",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/8/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "17ed178f-4196-4dc8-8c9d-65b563ffe8d1"
+  },
+  {
     "AlertId": "109197",
     "Headline": "#94 California Temporary Southbound Reroute near California/Armitage",
     "ShortDescription": "SB 94 California buses are temp. rerouted via California, Armitage, Western, North Avenue and California: due to, street blockage near California/Armitage.",
