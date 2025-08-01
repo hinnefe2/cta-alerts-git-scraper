@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "109222",
+    "Headline": "#52 Kedzie/California Temporary Northbound Reroute near Kedzie/Roosevelt",
+    "ShortDescription": "Northbound 52 Kedzie/California buses are temporarily rerouted via Kedzie, Roosevelt, Homan, Harrison and Kedzie near Kedzie/Roosevelt.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Northbound #52 Kedzie/California buses are temporarily rerouted via Kedzie, Roosevelt, Homan, Harrison, Kedzie and over regular route, due to street blockage near Kedzie/Roosevelt.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-01T09:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109222"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kedzie",
+        "ServiceId": "52",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/kedzie/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "649d85ac-3971-437d-9416-98d031276a17"
+  },
+  {
     "AlertId": "109202",
     "Headline": "#8 Halsted Temporary Reroute at Halsted/Belmont",
     "ShortDescription": "8 Halsted buses are temporarily rerouted via Halsted, Clark, Belmont and Halsted: due to, street blockage near Halsted/Belmont.",
@@ -66,39 +100,5 @@
     },
     "ttim": "0",
     "GUID": "6ed16213-c968-4d58-8204-ef331b6f43df"
-  },
-  {
-    "AlertId": "109221",
-    "Headline": "Kimball-bound Brown Line Service Delayed at Francisco",
-    "ShortDescription": "Kimball-bound Brown Line trains are standing at Francisco due to a door problem. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Kimball-bound Brown Line trains are standing at Francisco due to a door problem.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#81 Lawrence</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-08-01T09:41:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109221"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e90f4831-1a0b-4dc7-9736-68adc1232141"
   }
 ]
