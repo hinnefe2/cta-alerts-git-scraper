@@ -202,5 +202,85 @@
     },
     "ttim": "0",
     "GUID": "4e948eb0-b666-4740-957b-cd61a0c1e978"
+  },
+  {
+    "AlertId": "109258",
+    "Headline": "Southbound # 3 King Drive, # 10 Museum of Science and Industry,  #146 Inner Drive/Michigan Express, #147 Outer Drive Express,  #151 Sheridan Temporary Southbound Reroute near Michigan/Wacker",
+    "ShortDescription": "SB 3 King Drive, #10 Museum of Science and Industry, 146 Inner Drive/Michigan, 147 Outer Drive,  151 Sheridan buses are temp rrtd via Michigan, Chestnut",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound # 3 King Drive, # 10 Museum of Science and Industry,&nbsp; #146 Inner Drive/Michigan Express,&nbsp;#147 Outer Drive Express,&nbsp; #151 Sheridan buses are temporarily rerouted via Michigan, Chestnut, Clark Wacker, due to street blockage near Michigan/Wacker.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-02T17:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109258"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "King Drive",
+          "ServiceId": "3",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/3/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Museum of Science & Industry",
+          "ServiceId": "10",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/10/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "72343ac5-ad1f-4c76-8d6f-46b6f117ed8c"
   }
 ]
