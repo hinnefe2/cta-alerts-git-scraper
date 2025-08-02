@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "236b9e23-87e4-4567-b691-8e99769e3375"
+  },
+  {
+    "AlertId": "109240",
+    "Headline": " #3 King Drive, #4 Cottage Grove Reroute near Michigan/Roosevelt ",
+    "ShortDescription": " #3 King Drive, #4 Cottage Grove, buses are temporarily rerouted in both directions near Michigan/Roosevelt due street blockage.",
+    "FullDescription": {
+      "#cdata-section": "<p>&nbsp;#3 King Drive, #4 Cottage Grove, buses are temporarily rerouted in both directions near Michigan/Roosevelt due street blockage.</p>\r\n\r\n<p>Southbound buses will operate via Michigan, Madison, State, and Roosevelt, then resume their normal route on Michigan.</p>\r\n\r\n<p>Northbound buses will operate via Michigan, Roosevelt, State, Monroe, then resume their normal route on Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-01T21:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109240"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "King Drive",
+          "ServiceId": "3",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/3/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d23b65cc-b1fc-4f99-be95-d67b8dd29032"
   }
 ]
