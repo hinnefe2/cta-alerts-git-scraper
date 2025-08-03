@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "109265",
+    "Headline": "Temporary #124 Navy Pier Reroute near State/Hubbard",
+    "ShortDescription": "124 Navy Pier buses temp. rerouted near State/Hubbard.",
+    "FullDescription": {
+      "#cdata-section": "<p>#124 Navy Pier buses are temporarily rerouted in both directions due to street blockage near State/Hubbard.&nbsp;</p>\r\n\r\n<p>Westbound buses will operate via Grand, State, Hubbard, Clark, Wacker, State, Madison, and resume normal route.</p>\r\n\r\n<p>Eastbound buses will operate via Washington, State, Wacker, Dearborn, Illinois, Columbus, and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-02T23:39:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109265"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Navy Pier",
+        "ServiceId": "124",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/124/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c306a9d3-5a34-4193-a610-3af23ada6ba2"
+  },
+  {
     "AlertId": "109244",
     "Headline": "#126 Jackson Temporary Eastbound Reroute near Jackson/California",
     "ShortDescription": "Eastbound 126 Jackson buses are temporarily rerouted via Jackson, California, Madison, Western and Jackson near Jackson/California.",
@@ -72,7 +106,7 @@
     "Headline": "Red Line Delays, Limited Service Between Howard and 63rd",
     "ShortDescription": "Red Line service experiencing major delays due to police activity at 95th. Trains are available btwn Howard & 63rd.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are experiencing major delays to due police activity at 95th.</p>\r\n\r\n<p>As a result, trains are operating:</p>\r\n\r\n<ul>\r\n\t<li><strong>between Howard and 63rd.&nbsp;</strong></li>\r\n</ul>\r\n\r\n<p>Bus shuttles are also available to help make connections. Bus shuttles are available between Garfield and 95th.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are still experiencing major delays to due police activity at 95th.</p>\r\n\r\n<p>As a result, trains are operating:</p>\r\n\r\n<ul>\r\n\t<li><strong>between Howard and 63rd.&nbsp;</strong></li>\r\n</ul>\r\n\r\n<p>Bus shuttles are also available to help make connections. Bus shuttles are available between Garfield and 95th.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "88",
     "SeverityColor": "c00c00",
@@ -112,6 +146,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "a3d33e7d-c37f-4dcf-9092-947f6928652c"
+    "GUID": "f5421354-508a-4a41-abbe-e378a60e6144"
   }
 ]
