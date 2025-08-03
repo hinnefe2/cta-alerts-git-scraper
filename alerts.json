@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "109270",
+    "Headline": "#53 Pulaski Temporary Reroute at Pulaski/15th",
+    "ShortDescription": "53 Pulaski buses are temporarily rerouted via Pulaski, 16th, Central Park, Roosevelt and Pulaski: due to, a Festival near Pulaski/15th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#53 Pulaski buses are temporarily rerouted via Pulaski, 16th, Central Park, Roosevelt and Pulaski: due to, a Festival near Pulaski/15th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-03T09:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109270"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pulaski",
+        "ServiceId": "53",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/53/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a0b1a212-0547-4ba2-a5ec-fa6dc90f76d6"
+  },
+  {
     "AlertId": "109274",
     "Headline": "#22 Clark Temporary Reroute at Clark/Addison",
     "ShortDescription": "#22 Clark buses are temporarily rerouted in both directions via Clark, Racine, Belmont,  due to street blockage near Clark/Addison.\r\n",
@@ -66,39 +100,5 @@
     },
     "ttim": "0",
     "GUID": "bc74efc6-f5d6-48e5-8d96-4558b5b4576d"
-  },
-  {
-    "AlertId": "109270",
-    "Headline": "#53 Pulaski Temporary Reroute at Pulaski/15th",
-    "ShortDescription": "53 Pulaski buses are temporarily rerouted via Pulaski, 16th, Central Park, Roosevelt and Pulaski: due to, a Festival near Pulaski/15th.",
-    "FullDescription": {
-      "#cdata-section": "<p>#53 Pulaski buses are temporarily rerouted via Pulaski, 16th, Central Park, Roosevelt and Pulaski: due to, a Festival near Pulaski/15th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-03T09:41:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109270"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pulaski",
-        "ServiceId": "53",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/53/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a0b1a212-0547-4ba2-a5ec-fa6dc90f76d6"
   }
 ]
