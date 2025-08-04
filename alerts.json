@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "109295",
-    "Headline": "Yellow Line Service Delayed at Howard",
-    "ShortDescription": "Yellow Line trains are standing at Howard due to a door problem.?Crews working to restore service.",
+    "AlertId": "109296",
+    "Headline": "#81W West Lawrence Temporary Reroute at Lawrence/Lavergne",
+    "ShortDescription": "#81W West Lawrence buses are temporarily rerouted in both directions via Milwaukee, Foster, Cicero, Lawrence, due to a street blockage near Lawrence/Lavergne.",
     "FullDescription": {
-      "#cdata-section": "<p>Yellow Line trains are standing at Howard due to a door problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#81W West Lawrence&nbsp;buses are temporarily rerouted in both directions via Milwaukee, Foster, Cicero, Lawrence, then resume their normal route, due to a street blockage near Lawrence/Lavergne.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-08-04T15:31:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-04T15:42:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109295"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109296"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Yellow Line",
-        "ServiceId": "Y",
-        "ServiceBackColor": "f9e300",
-        "ServiceTextColor": "000000",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Lawrence",
+        "ServiceId": "81",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/yellowline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/81/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "872a87a3-85f0-4f6d-804c-1988e50c7228"
+    "GUID": "73b08aff-1eb4-4cfa-921d-84d03a9e4160"
   }
 ]
