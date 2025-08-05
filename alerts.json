@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "109328",
+    "Headline": "#65 Grand Temporary Reroute at  Grand/Laramie",
+    "ShortDescription": "#65 Grand buses are temporarily rerouted in both directions via Grand, Laramie, Fullerton, Central, due to police activity near Grand/Laramie.",
+    "FullDescription": {
+      "#cdata-section": "<p>#65 Grand buses are temporarily rerouted in both directions via Grand, Laramie, Fullerton, Central, then resume their normal route on Grand, due to police activity near Grand/Laramie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-05T16:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109328"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Grand",
+        "ServiceId": "65",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/65/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d0c968e2-835e-4856-9fb7-69e70feb1d23"
+  },
+  {
     "AlertId": "109315",
     "Headline": "#126 Jackson Temporary Eastbound Reroute near Jackson/Damen",
     "ShortDescription": "Eastbound 126 Jackson buses are temporarily rerouted via Jackson, Damen, Madison, Ashland and Jackson: due to, street blockage near Jackson/Damen.",
@@ -66,39 +100,5 @@
     },
     "ttim": "0",
     "GUID": "14ba9534-7971-46f3-8093-5efbdb52689a"
-  },
-  {
-    "AlertId": "109328",
-    "Headline": "#65 Grand Temporary Reroute at  Grand/Laramie",
-    "ShortDescription": "#65 Grand buses are temporarily rerouted in both directions via Grand, Laramie, Fullerton, Central, due to police activity near Grand/Laramie.",
-    "FullDescription": {
-      "#cdata-section": "<p>#65 Grand buses are temporarily rerouted in both directions via Grand, Laramie, Fullerton, Central, then resume their normal route on Grand, due to police activity near Grand/Laramie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-05T16:12:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109328"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Grand",
-        "ServiceId": "65",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/65/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d0c968e2-835e-4856-9fb7-69e70feb1d23"
   }
 ]
