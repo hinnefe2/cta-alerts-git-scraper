@@ -34,40 +34,6 @@
     "GUID": "e7df1c33-7a75-4efa-9f0f-6c2762cca99e"
   },
   {
-    "AlertId": "109312",
-    "Headline": "#86 Narragansett/Ridgeland Temporary Reroute at Nagle/Avondale",
-    "ShortDescription": "86 Narragansett/Ridgeland buses are temporarily rerouted via Nagle, Bryn Mawr, Northwest Highway and Nagle : due to, street blockage near Nagle/Avondale.",
-    "FullDescription": {
-      "#cdata-section": "<p>#86 Narragansett/Ridgeland buses are temporarily rerouted via Nagle, Bryn Mawr, Northwest Highway and Nagle : due to, street blockage near Nagle/Avondale.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-05T12:11:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109312"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Narragansett/Ridgeland",
-        "ServiceId": "86",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/86/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "14ba9534-7971-46f3-8093-5efbdb52689a"
-  },
-  {
     "AlertId": "109315",
     "Headline": "#126 Jackson Temporary Eastbound Reroute near Jackson/Damen",
     "ShortDescription": "Eastbound 126 Jackson buses are temporarily rerouted via Jackson, Damen, Madison, Ashland and Jackson: due to, street blockage near Jackson/Damen.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "f7dce8b3-e4bf-4318-a061-fc084c808140"
+  },
+  {
+    "AlertId": "109312",
+    "Headline": "#86 Narragansett/Ridgeland Temporary Reroute at Nagle/Avondale",
+    "ShortDescription": "86 Narragansett/Ridgeland buses are temporarily rerouted via Nagle, Bryn Mawr, Northwest Highway and Nagle : due to, street blockage near Nagle/Avondale.",
+    "FullDescription": {
+      "#cdata-section": "<p>#86 Narragansett/Ridgeland buses are temporarily rerouted via Nagle, Bryn Mawr, Northwest Highway and Nagle : due to, street blockage near Nagle/Avondale.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-05T12:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109312"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Narragansett/Ridgeland",
+        "ServiceId": "86",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/86/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "14ba9534-7971-46f3-8093-5efbdb52689a"
   }
 ]
