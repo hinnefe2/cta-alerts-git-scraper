@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "109328",
-    "Headline": "#65 Grand Temporary Reroute at  Grand/Laramie",
-    "ShortDescription": "#65 Grand buses are temporarily rerouted in both directions via Grand, Laramie, Fullerton, Central, due to police activity near Grand/Laramie.",
-    "FullDescription": {
-      "#cdata-section": "<p>#65 Grand buses are temporarily rerouted in both directions via Grand, Laramie, Fullerton, Central, then resume their normal route on Grand, due to police activity near Grand/Laramie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-05T16:12:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109328"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Grand",
-        "ServiceId": "65",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/65/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d0c968e2-835e-4856-9fb7-69e70feb1d23"
-  },
-  {
     "AlertId": "109339",
     "Headline": "#22 Clark Temporary Reroute at Clark/Addison",
     "ShortDescription": "#22 Clark buses are temporarily rerouted in both directions via Clark, Racine, Belmont, due to street blockage near Clark/Addison.\r\n",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "62d005d0-6631-4418-916a-82788c3c40d3"
+  },
+  {
+    "AlertId": "109342",
+    "Headline": "Orange Line Service Delayed Western",
+    "ShortDescription": "Orange Line trains are standing with major delays at Western due to an unauthorized person on the tracks.  Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange Line trains are standing with major delays at Western due to an unauthorized person on the tracks.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-08-05T21:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109342"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4b8ad4a6-c82e-47a0-9240-f9cffa62e609"
   }
 ]
