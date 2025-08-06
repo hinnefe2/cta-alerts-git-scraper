@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "109353",
+    "Headline": "O'Hare- bound Blue Line Delays",
+    "ShortDescription": "O'Hare- bound Blue Line trains are running w/residual delays at Western. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare- bound Blue Line trains are running w/residual delays following an earlier unauthorized person on the tracks at Western.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-08-06T10:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109353"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Western (Forest Park Branch)",
+          "ServiceId": "40220",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=137"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "81211170-462d-45ae-a1d3-b9a0991138c1"
+  },
+  {
     "AlertId": "109349",
     "Headline": "#82 Kimball-Homan Temporary Reroute at Kimball/Bryn Mawr",
     "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Kimball, Bryn Mawr, Pulaski, Peterson and Kimball: due to, street blockage near Bryn Mawr.",
