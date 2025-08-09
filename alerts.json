@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "109448",
+    "Headline": "Loop-bound Brown Line Service Delayed at Kimball",
+    "ShortDescription": "Loop-bound Brown Line trains are standing at Kimball due to a mechanical problem.  Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Brown Line trains are standing at Kimball due to a mechanical problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-08-09T08:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109448"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "fead5f4b-613d-4edb-aec1-4c16acdf2a23"
+  },
+  {
     "AlertId": "109446",
     "Headline": "#55 Garfield Temporary Reroute near 61st/Eberhart",
     "ShortDescription": "#55 Garfield buses are temporarily rerouted in both directions, due to a parade near 61st/Eberhart.",
@@ -32,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "52d11182-8c63-4172-8eaa-60afd378f930"
+  },
+  {
+    "AlertId": "109447",
+    "Headline": "#59 59th/61st Temporary Reroute near 61st/Eberhart",
+    "ShortDescription": "#59 59th/61st buses are temporarily rerouted in both directions, due to a parade near 61st/Eberhart.",
+    "FullDescription": {
+      "#cdata-section": "<p>#59 59th/61st buses are temporarily rerouted in both directions, due to a parade near 61st/Eberhart.</p>\r\n\r\n<p>Eastbound buses will operate via 59th, State, 63rd, Cottage Grove, the resume their normal route.</p>\r\n\r\n<p>Westbound buses will operate via 61st, Cottage Grove, 63rd, Indiana, 60th, State, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-09T08:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109447"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "59th/61st",
+        "ServiceId": "59",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/59/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "65eb5159-d31e-4889-aaa1-8b34ac5b0e9e"
   }
 ]
