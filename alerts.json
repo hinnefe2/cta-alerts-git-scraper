@@ -38,7 +38,7 @@
     "Headline": "Brown and Purple Line Service Delayed at Paulina ",
     "ShortDescription": "Brown Line trains are standing with major delays at Paulina due to a fire on the tracks. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are standing with major&nbsp;delays at Paulina due to a fire on the tracks.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line trains are standing with major&nbsp;delays at Paulina due to a fire on the tracks.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>Bus Shuttles are available between Kimball and Clark/Lake.</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "80",
     "SeverityColor": "c00c00",
@@ -100,7 +100,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "4954dc63-578c-49b2-8e4e-8937f8066ed5"
+    "GUID": "bc9fb9a4-77a0-49e6-ab64-1116e2bf8486"
   },
   {
     "AlertId": "109484",
@@ -195,5 +195,63 @@
     },
     "ttim": "0",
     "GUID": "d4c8f007-94f7-48ab-9815-f7e7cae750a0"
+  },
+  {
+    "AlertId": "109486",
+    "Headline": "Howard-bound Red Line Service Delayed at Wellington",
+    "ShortDescription": "Howard-bound Red Line trains are standing with major delays at Wellington. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing with major delays at Wellington&nbsp;due to fire department activity.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-08-11T18:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109486"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Wellington",
+          "ServiceId": "41210",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=145"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e3250ba5-b119-4fbc-8c50-86eabd7c3a05"
   }
 ]
