@@ -34,61 +34,50 @@
     "GUID": "eb3fa53c-fba5-4d96-bc33-3049519a4a8e"
   },
   {
-    "AlertId": "109482",
-    "Headline": "Loop-bound Pink Line Delays",
-    "ShortDescription": "Loop-bound Pink Line trains are running w/significant delays following earlier police activity at Clark/Lake. Service is resuming, allow extra time.",
+    "AlertId": "109483",
+    "Headline": "Brown Line Service Delayed at Paulina ",
+    "ShortDescription": "Brown Line trains are standing with major delays at Paulina due to a fire on the tracks. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Pink Line trains are running w/significant&nbsp;delays following earlier police activity at Clark/Lake.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line trains are standing with major&nbsp;delays at Paulina due to a fire on the tracks.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-08-11T17:36:00",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-08-11T17:48:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109482"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109483"
     },
     "ImpactedService": {
       "Service": [
         {
           "ServiceType": "T",
           "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Clark/Lake",
-          "ServiceId": "40380",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
+          "ServiceName": "Paulina",
+          "ServiceId": "41310",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=43"
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=143"
           }
         },
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "cc34c825-aed4-4843-a077-b61906199aa0"
+    "GUID": "d3627691-9186-470c-aefd-e40ed1cc97b5"
   }
 ]
