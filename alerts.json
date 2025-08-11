@@ -82,10 +82,10 @@
   },
   {
     "AlertId": "109484",
-    "Headline": "Temporary #4 Cottage Grove Reroute at Cottage Grove/43rd",
-    "ShortDescription": "4 Cottage Grove buses are temporarily rerouted near Cottage Grove/43rd.",
+    "Headline": "Temporary #4 Cottage Grove , X4 Cottage Grove Express Reroute at Cottage Grove/43rd",
+    "ShortDescription": "4 Cottage Grove buses, X4 Cottage Grove Express are temporarily rerouted near Cottage Grove/43rd.",
     "FullDescription": {
-      "#cdata-section": "<p>#4 Cottage Grove buses are temporarily rerouted via 35th, King Drive, 47th, Cottage Grove, and resume normal : due to police activity near Cottage Grove/43rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#4 Cottage Grove,&nbsp;X4 Cottage Grove Express&nbsp;buses are temporarily rerouted via 35th, King Drive, 47th, Cottage Grove, and resume normal : due to police activity near Cottage Grove/43rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -99,19 +99,79 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109484"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cottage Grove",
-        "ServiceId": "4",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/4/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove Express",
+          "ServiceId": "X4",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "8326c293-c4fa-4aaa-9db1-e93de188ee34"
+    "GUID": "4ef965e3-12c4-43af-8366-6b16fabf1b88"
+  },
+  {
+    "AlertId": "109485",
+    "Headline": "Red Line Service Delayed at 63rd",
+    "ShortDescription": "Red Line trains are standing at 63rd due to n unauthorized person on the tracks. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are&nbsp;standing&nbsp;at 63rd due to n unauthorized person on the tracks.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-08-11T18:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109485"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "63rd",
+          "ServiceId": "40910",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=9"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "31c21aad-4b9c-4ce8-8ffe-aab4300c8055"
   }
 ]
