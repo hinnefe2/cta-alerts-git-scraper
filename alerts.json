@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "109483",
-    "Headline": "Brown Line Service Delayed at Paulina ",
+    "Headline": "Brown and Purple Line Service Delayed at Paulina ",
     "ShortDescription": "Brown Line trains are standing with major delays at Paulina due to a fire on the tracks. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are standing with major&nbsp;delays at Paulina due to a fire on the tracks.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line trains are standing with major&nbsp;delays at Paulina due to a fire on the tracks.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "80",
     "SeverityColor": "c00c00",
@@ -67,6 +67,17 @@
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
           "ServiceName": "Brown Line",
           "ServiceId": "Brn",
           "ServiceBackColor": "62361b",
@@ -74,11 +85,22 @@
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/brownline/"
           }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "d3627691-9186-470c-aefd-e40ed1cc97b5"
+    "GUID": "4954dc63-578c-49b2-8e4e-8937f8066ed5"
   },
   {
     "AlertId": "109484",
@@ -129,15 +151,15 @@
   },
   {
     "AlertId": "109485",
-    "Headline": "Red Line Service Delayed at 63rd",
-    "ShortDescription": "Red Line trains are standing at 63rd due to n unauthorized person on the tracks. Crews working to restore service.",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running w/major delays following an earlier unauthorized person on the tracks at 63rd. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are&nbsp;standing&nbsp;at 63rd due to n unauthorized person on the tracks.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running w/major&nbsp;delays following an earlier unauthorized person on the tracks at 63rd.&nbsp;</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2025-08-11T18:05:00",
     "EventEnd": null,
     "TBD": "1",
@@ -172,6 +194,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "31c21aad-4b9c-4ce8-8ffe-aab4300c8055"
+    "GUID": "d4c8f007-94f7-48ab-9815-f7e7cae750a0"
   }
 ]
