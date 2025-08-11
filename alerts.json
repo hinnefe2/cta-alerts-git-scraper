@@ -1,36 +1,49 @@
 [
   {
-    "AlertId": "109472",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running with residual delays following earlier police activity at Medical District. Service is resuming, allow extra time.",
+    "AlertId": "109473",
+    "Headline": "#26 South Shore Express, # 30 South Chicago Temporary Reroute at Ewing/93rd",
+    "ShortDescription": "#26 South Shore Express, # 30 South Chicago  buses are temporarily rerouted via Ewing, Harbor, South Chicago, 95th, due to, street blockage near Ewing/93rd.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with residual delays and congestion following earlier police activity at Illinois Medical District.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#26 South Shore Express, # 30 South Chicago&nbsp; buses are temporarily rerouted via Ewing, Harbor, South Chicago, 95th, then resume their normal route: due to, street blockage near Ewing/93rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-08-11T08:38:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-11T08:49:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109472"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109473"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Chicago",
+          "ServiceId": "30",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/30/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "a5915851-5282-48c2-9eb9-c057fd65d846"
+    "GUID": "440187af-dc4b-4471-9c54-15360a93df2d"
   }
 ]
