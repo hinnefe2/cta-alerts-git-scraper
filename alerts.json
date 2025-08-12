@@ -1,49 +1,15 @@
 [
   {
-    "AlertId": "109479",
-    "Headline": "Temporary Northbound #53 Pulaski Reroute near Pulaski/Division",
-    "ShortDescription": "Northbound 53 Pulaski buses are temporarily rerouted near Pulaski/Division.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #53 Pulaski buses are temporarily rerouted via Pulaski, Division, Kostner, Grand, Pulaski, and resume normal route, due to street blockage near Pulaski/Division.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-11T16:17:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109479"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pulaski",
-        "ServiceId": "53",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/53/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "eb3fa53c-fba5-4d96-bc33-3049519a4a8e"
-  },
-  {
     "AlertId": "109483",
     "Headline": "Brown and Purple Line Delays",
-    "ShortDescription": "Brown and Purple Line trains are delayed following earlier fire department activity at Paulina. Service is resuming, allow extra time.",
+    "ShortDescription": "Brown and Purple Line trains are running w/residual delays following earlier fire department activity at Paulina. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown and Purple Line trains are delayed&nbsp;following earlier fire department activity at Paulina.&nbsp;</p>\r\n\r\n<p>Bus Shuttles are available between Kimball and Clark/Lake<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown and Purple Line trains are running w/residual delays following earlier fire department activity at Paulina.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2025-08-11T17:48:00",
     "EventEnd": null,
     "TBD": "1",
@@ -100,19 +66,19 @@
       ]
     },
     "ttim": "0",
-    "GUID": "79f3f303-8f29-4aa5-af14-fdf7a584144e"
+    "GUID": "b69f9f83-e700-4018-b55b-ca0cf06a1e5b"
   },
   {
     "AlertId": "109486",
     "Headline": "Red Line Delays",
-    "ShortDescription": "Red Line trains are delayed following earlier fire department activity at Wellington. Service is resuming, allow extra time.",
+    "ShortDescription": "Red Line trains are running w/residual delays following earlier fire department activity  at Wellington. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are delayed following earlier fire department activity at Wellington.&nbsp;&nbsp;</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running w/residual delays following earlier fire department activity&nbsp; at Wellington.&nbsp;</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2025-08-11T18:26:00",
     "EventEnd": null,
     "TBD": "1",
@@ -147,6 +113,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "cf007a83-e47d-4d2c-81a5-feddf17a547a"
+    "GUID": "ce7bf477-0ee0-4abe-be0b-b2e64521f171"
   }
 ]
