@@ -134,5 +134,86 @@
     },
     "ttim": "0",
     "GUID": "ad1bbb26-b8ea-4bdf-8fc7-45383ce83024"
+  },
+  {
+    "AlertId": "109506",
+    "Headline": "#30 South Chicago and #67 67th/69th/71st Temporary Reroute near South Chicago/Keefe",
+    "ShortDescription": "30 South Chicago and 67 67th/69th/71st  buses are temp. rerouted in both directions near South Chicago/Keefe, due to street blockage near South Chicago/Keefe.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#30 South Chicago and #67 67th/69th/71st&nbsp; buses are temporarily rerouted in both directions near South Chicago/Keefe, due to street blockage&nbsp;near South Chicago/Keefe.</p>\r\n\r\n<p>#30 South Chicago buses will operate via King Drive, 67th, South Chicago and over regular route.</p>\r\n\r\n<p>#67 67th/69th/71st buses will operate via 67th, King Drive, 69th and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-12T18:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109506"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Chicago",
+          "ServiceId": "30",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/30/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "67th-69th-71st",
+          "ServiceId": "67",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/67/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "7bc24ad6-bf74-4b68-8fa4-cac1610b3d8b"
+  },
+  {
+    "AlertId": "109507",
+    "Headline": "#71 71st/South Shore Temporary Reroute near 71st/Cottage Grove",
+    "ShortDescription": "71 71st/South Shore buses are temporarily rerouted in both directions near 71st, King Drive, 67th, South Chicago and 71st, near 71st/Cottage Grove.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#71 71st/South Shore buses are temporarily rerouted in both directions near 71st, King Drive, 67th, South Chicago, 71st and over regular route, due to street blockage, near 71st/Cottage Grove.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-12T18:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109507"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6019b078-edc4-4af4-929c-1ac150cb9d58"
   }
 ]
