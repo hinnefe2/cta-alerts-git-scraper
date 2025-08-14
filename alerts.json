@@ -36,7 +36,7 @@
   {
     "AlertId": "109540",
     "Headline": "Blue Line Service Delayed at Cicero-cn",
-    "ShortDescription": "Blue Line service has been temporarily suspended between  UIC Halsted and Forest Park due to a medical emergency on our track. Crews working to restore service.",
+    "ShortDescription": "Blue Line service has been temporarily suspended between  Cicero-cn and Forest Park due to a medical emergency on the track. Crews working to restore service.",
     "FullDescription": {
       "#cdata-section": "<p>Blue Line service has been temporarily suspended between&nbsp; Cicero Congress and Forest Park due to a medical emergency on the tracks near Cicero Congress.</p>\r\n\r\n<p>At this time, consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines while we work to provide alternatives.</p>\r\n\r\n<p><strong>This may include:<br />\r\n#7 Harrison<br />\r\n#8 Halsted<br />\r\n#60 Blue Island/26th<br />\r\n#126 Jackson<br />\r\n#49 Western<br />\r\n#53 Pulaski<br />\r\n#54 Cicero</strong></p>\r\n\r\n<p>As a result of the delay, shuttle buses are available from UIC Halsted to Forest Park to provide connecting&nbsp; service in both directions.</p>\r\n\r\n<p>See station personnel for further assistance and pay attention to announcements on trains and at stations for the latest service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
@@ -65,6 +65,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "058d7547-2e85-424b-9e71-5cfe7dc3aa20"
+    "GUID": "27a35120-5035-4ae4-a91a-dd89d3925f62"
+  },
+  {
+    "AlertId": "109541",
+    "Headline": "#34 South Michigan Temporary Reroute at 130th/Indiana",
+    "ShortDescription": "#34 South Michigan buses are temp rrtd in both directions via Michigan, 115th, Bishop Ford I-194 East, 130th, Eberhar.",
+    "FullDescription": {
+      "#cdata-section": "<p>#34 South Michigan buses are temporarily rerouted in both directions via Michigan, 115th, Bishop Ford I-194 East, 130th, Eberhart,&nbsp;over regular route, due to street blockage near 130th/Indiana.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-14T05:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109541"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Michigan",
+        "ServiceId": "34",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/34/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7dc677c1-7c7d-4721-a22f-45d4103c3bbb"
   }
 ]
