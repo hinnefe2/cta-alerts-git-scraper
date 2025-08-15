@@ -34,37 +34,50 @@
     "GUID": "23a9844f-9fb2-49cb-9d1c-8cdc730c7369"
   },
   {
-    "AlertId": "109569",
-    "Headline": "Temporary Eastbound #72 North Reroute near North Avenue/Kennedy Expressway",
-    "ShortDescription": "Eastbound 72 North buses are temporarily rerouted near North Avenue/Kennedy Expressway.",
+    "AlertId": "109570",
+    "Headline": "Loop- bound Brown Line Service Delayed at Kedzie",
+    "ShortDescription": "Loop- bound Brown Line trains are standing at Kedzie. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Eastbound #72 North buses are temporarily rerouted via North Avenue, Ashland, Courtland, Elston, North Avenue and resume normal route, due to street blockage near North Avenue/Kennedy Expressway.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop- bound Brown Line trains are&nbsp;standing&nbsp;at Kedzie due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-15T08:24:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-08-15T08:44:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109569"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109570"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "North",
-        "ServiceId": "72",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/72/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Kedzie",
+          "ServiceId": "41180",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=79"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "8e4a49f6-eeff-476d-96c7-30ec8fd4e6e1"
+    "GUID": "e4d1404b-e9ea-4673-ac34-bdf04e3e4ab7"
   }
 ]
