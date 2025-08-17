@@ -181,52 +181,5 @@
     },
     "ttim": "0",
     "GUID": "7a2c0908-e43e-4af8-ac5b-a06a1bf406a8"
-  },
-  {
-    "AlertId": "109625",
-    "Headline": "Green Line Delays",
-    "ShortDescription": "Green Line trains are running with residual delays following an earlier signal problem at Damen. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Green Line trains are running with&nbsp;residual delays&nbsp;following an earlier signal problem&nbsp;at Damen.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-08-17T13:56:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109625"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Damen",
-          "ServiceId": "41710",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=150"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "cefce106-6d0f-4a95-b881-941be3a6bf82"
   }
 ]
