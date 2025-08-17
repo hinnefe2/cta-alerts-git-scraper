@@ -283,5 +283,86 @@
     },
     "ttim": "0",
     "GUID": "31ec0149-5df9-4f64-9634-ed65a65b949f"
+  },
+  {
+    "AlertId": "109617",
+    "Headline": "Temporary #75 74th-75th Reroute at 74th/Eggleston",
+    "ShortDescription": "75 74th-75th buses are temporarily rerouted near 74th/Eggleston.",
+    "FullDescription": {
+      "#cdata-section": "<p>#75 74th-75th buses are temporarily rerouted via Racine, 76th, Vincennes, 75th, and resume normal route: due to street blockage near 74th/Eggleston.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-17T08:39:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109617"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "74th-75th",
+        "ServiceId": "75",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/75/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2e2e95d2-c0d2-41f4-acc4-01cef733ba95"
+  },
+  {
+    "AlertId": "109618",
+    "Headline": "54th/Cermak-bound Pink Line Service Delayed at Polk",
+    "ShortDescription": "54th/Cermak-bound Pink Line trains are standing at Polk. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>54th/Cermak-bound Pink Line trains are&nbsp;standing&nbsp;at Polk&nbsp;due to a sick customer.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-08-17T08:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109618"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Polk",
+          "ServiceId": "41030",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=111"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "671b81cb-1ce5-4283-9e49-dee50c090827"
   }
 ]
