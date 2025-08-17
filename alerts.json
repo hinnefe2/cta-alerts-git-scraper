@@ -283,5 +283,73 @@
     },
     "ttim": "0",
     "GUID": "2e2e95d2-c0d2-41f4-acc4-01cef733ba95"
+  },
+  {
+    "AlertId": "109619",
+    "Headline": "Temporary #126 Jackson Reroute at Jackson/Central",
+    "ShortDescription": "126 Jackson buses are temporarily rerouted near Jackson/Central.",
+    "FullDescription": {
+      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted in both directions via Jackson, Central, Harrison, and resume normal route, due to street blockage near Jackson/Central.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-17T09:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109619"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson",
+        "ServiceId": "126",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/126/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e914bf59-d1f4-4780-983a-359a6f073993"
+  },
+  {
+    "AlertId": "109620",
+    "Headline": "Temporary Westbound #12 Roosevelt Reroute near Roosevelt/Pulaski",
+    "ShortDescription": "Westbound 12 Roosevelt buses are temporarily rerouted near Roosevelt/Pulaski.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #12 Roosevelt buses are temporarily rerouted via Roosevelt, Pulaski, 5th, Kostner, Roosevelt, and resume normal route, due to street blockage near Roosevelt/Pulaski.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-17T09:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109620"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Roosevelt",
+        "ServiceId": "12",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/12/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7960a2f5-6104-43a7-b10c-b40e627fd681"
   }
 ]
