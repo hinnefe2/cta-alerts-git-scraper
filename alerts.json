@@ -116,10 +116,10 @@
   },
   {
     "AlertId": "109640",
-    "Headline": "Red Line Service Delayed at Lake",
-    "ShortDescription": "Red Line trains are standing at Lake due to a medical emergency. Crews working to restore service.",
+    "Headline": "Red and Purple Line Service Delayed at Lake",
+    "ShortDescription": "Red and Purple Line trains are standing at Lake due to a medical emergency. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing at Lake due to a medical emergency.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#8 Halsted</strong></p>\r\n\r\n<p><strong>#22 Clark</strong></p>\r\n\r\n<p><strong>#29 State</strong></p>\r\n\r\n<p><strong>Shuttle buses are available to provide connecting service between Fullerton and Lake in both directions.</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red and Purple Line trains are standing at Lake due to a medical emergency.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>Red Line:</strong></p>\r\n\r\n<p><strong>#8 Halsted</strong></p>\r\n\r\n<p><strong>#22 Clark</strong></p>\r\n\r\n<p><strong>#29 State</strong></p>\r\n\r\n<p><strong>Purple Line:</strong></p>\r\n\r\n<p><strong>#205 Chicago/Golf</strong></p>\r\n\r\n<p><strong>Shuttle buses are available to provide connecting service between Fullerton and Lake in both directions.</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "90",
     "SeverityColor": "c00c00",
@@ -133,20 +133,44 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109640"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "b34ca6b3-b1b4-4d15-baaf-55457e7e8986"
+    "GUID": "f6c6110d-0138-47ed-bca1-bd6ae7b37b36"
   },
   {
     "AlertId": "109641",
