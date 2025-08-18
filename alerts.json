@@ -115,64 +115,6 @@
     "GUID": "31ec0149-5df9-4f64-9634-ed65a65b949f"
   },
   {
-    "AlertId": "109640",
-    "Headline": "Purple Line Delays",
-    "ShortDescription": "Purple Line trains are running w/residual delays following an earlier medical emergency on the Red Line at Lake. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Purple Line trains are running with residual delays following an earlier medical emergency on the Red Line at Lake.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p><strong>Shuttle buses will are available to provide connecting service between Grand and Lake in both directions until 0700 hours.</strong><br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-08-18T04:53:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109640"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "ec435198-f633-4851-b078-79677fc64405"
-  },
-  {
     "AlertId": "109641",
     "Headline": "Red Trains bypassing Lake",
     "ShortDescription": "Red Line trains are running, but not stopping at Lake due to a medical emergency.",
