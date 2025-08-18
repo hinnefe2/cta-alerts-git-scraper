@@ -134,5 +134,52 @@
     },
     "ttim": "0",
     "GUID": "ed2ae8dc-e977-495a-b603-5b372e094ac2"
+  },
+  {
+    "AlertId": "109662",
+    "Headline": " Howard bound  Red Line Service Delayed near Argyle",
+    "ShortDescription": " Howard bound Red Line trains are standing near Argyle. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard bound&nbsp;Red&nbsp; Line trains are&nbsp;standing near Argyle&nbsp;due to signal problems.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-08-18T17:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109662"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Argyle",
+          "ServiceId": "41200",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=18"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b9cf33eb-67ff-49ea-82b2-97bf03a0c18e"
   }
 ]
