@@ -119,7 +119,7 @@
     "Headline": "Red Line Service Delayed at Lake",
     "ShortDescription": "Red Line trains are standing at Lake due to a medical emergency. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing at Lake due to a medical emergency.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#8 Halsted</strong></p>\r\n\r\n<p><strong>#22 Clark</strong></p>\r\n\r\n<p><strong>#29 State</strong></p>\r\n\r\n<p><strong>Shuttle buses have been requested to provide connecting service between Fullerton and Lake in both directions.</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are standing at Lake due to a medical emergency.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#8 Halsted</strong></p>\r\n\r\n<p><strong>#22 Clark</strong></p>\r\n\r\n<p><strong>#29 State</strong></p>\r\n\r\n<p><strong>Shuttle buses are available to provide connecting service between Fullerton and Lake in both directions.</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "90",
     "SeverityColor": "c00c00",
@@ -146,6 +146,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "9077d19c-7b22-4620-8267-5f860044c125"
+    "GUID": "b34ca6b3-b1b4-4d15-baaf-55457e7e8986"
+  },
+  {
+    "AlertId": "109641",
+    "Headline": "Red Line Subway Trains Rerouted to Elevated Tracks",
+    "ShortDescription": "Red Line subway trains are rerouted to the elevated lines between Fullerton and Cermak-Chinatown due to a medical emergency.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line subway trains are rerouted to the elevated lines between Fullerton and&nbsp;Cermak-Chinatown due to a medical emergency.</p>\r\n\r\n<p>We apologize for the inconvenience and are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n\r\n<h4><b>Red Line&nbsp;service to 95th/Dan Ryan </b></h4>\r\n\r\n<p>After stopping at Fullerton,&nbsp;95th-bound trains will be diverted and will make the following elevated station stops:</p>\r\n\r\n<ul>\r\n\t<li>Armitage (accessible)</li>\r\n\t<li>Sedgwick (accessible)</li>\r\n\t<li>Chicago (at Franklin; accessible)</li>\r\n\t<li>Merchandise Mart (accessible)</li>\r\n\t<li>Clark/lake (accessible)</li>\r\n\t<li>State/Lake</li>\r\n\t<li>Washington/Wabash&nbsp;(accessible)</li>\r\n\t<li>Adams/Wabash</li>\r\n\t<li>Roosevelt (elevated station west of Wabash; accessible)</li>\r\n</ul>\r\n\r\n<p>Then, trains will stop at&nbsp;Cermak-Chinatown and make all normal stops to 95th/Dan Ryan.</p>\r\n\r\n<h4><b>Red Line&nbsp;service to Howard</b></h4>\r\n\r\n<p>For service toward Howard, after stopping at Cermak-Chinatown, trains will then be diverted to the above-listed elevated stations, in the opposite order, through Armitage and then make all normal stops from Fullerton to Howard.</p>\r\n\r\n<h4>For service in areas away from where the Red Line is running</h4>\r\n\r\n<p>Consider using local bus alternatives through the area where you&#39;re traveling, including those to other train lines or where Red Line service has been rerouted to operate.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2025-08-18T05:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109641"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8c591145-1387-4dd1-b9b1-01f104bf6ea7"
   }
 ]
