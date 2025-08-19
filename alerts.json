@@ -170,40 +170,6 @@
     "GUID": "cb3e72e7-28e2-407c-95fe-cb2a26f6b36f"
   },
   {
-    "AlertId": "109673",
-    "Headline": "#55 Garfield Temporary Eastbound Reroute near Garfield/Carpenter",
-    "ShortDescription": "Eastbound 55 Garfield buses are temporarily rerouted via Garfield, Racine, 59th, Halsted and Garfield: due to, street blockage near Garfield/Carpenter.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #55 Garfield buses are temporarily rerouted via Garfield, Racine, 59th, Halsted and Garfield: due to, street blockage near Garfield/Carpenter.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-19T06:02:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109673"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Garfield",
-        "ServiceId": "55",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/55/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8d839bc5-7127-41c6-8a77-51ebeeff99eb"
-  },
-  {
     "AlertId": "109681",
     "Headline": "Bus Substitution Between Illinois Medical District and UIC-Halsted",
     "ShortDescription": "Shuttle buses replace Blue Line service between Illinois Medical District and UIC-Halsted.",
@@ -271,5 +237,39 @@
     },
     "ttim": "1",
     "GUID": "a0587b3a-f6b3-4015-b911-430455a61409"
+  },
+  {
+    "AlertId": "109682",
+    "Headline": "#71 71st/South Shore Temporary Reroute at 71st/St Lawrence",
+    "ShortDescription": "71 71st/South Shore buses are temporarily rerouted via 71st, St Lawrence, South Chicago and 71st : due to, street blockage near 71st/St Lawrence.",
+    "FullDescription": {
+      "#cdata-section": "<p>#71 71st/South Shore buses are temporarily rerouted via 71st, St Lawrence, South Chicago and 71st : due to, street blockage near 71st/St Lawrence.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-19T11:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109682"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "25c14525-c6b3-4e25-af77-c790b1993bb8"
   }
 ]
