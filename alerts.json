@@ -137,16 +137,16 @@
   },
   {
     "AlertId": "109666",
-    "Headline": "Yellow Line and Purple Line Service Delayed at Howard",
-    "ShortDescription": "Yellow Line and Purple Line trains are standing with significant delays at Howard due to track switching problems. Crews working to restore service.",
+    "Headline": "Yellow Line, Purple Line, and Red Line Service Standing at Howard",
+    "ShortDescription": "Yellow Line,  Purple Line, and Red Line trains are standing with major delays at Howard due to a track condition. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Yellow Line and Purple Line trains are standing with significant delays at Howard due to track switching problems.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Yellow Line,&nbsp;Purple Line, and Red Line trains are standing with major delays at Howard due to a track condition.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p><strong>Bus shuttles have been requested:&nbsp;</strong></p>\r\n\r\n<p>Red Line: from Howard to Morse</p>\r\n\r\n<p>Purple Line: from Howard to Linden</p>\r\n\r\n<p>Yellow Line: from Howard to Skokie</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-08-18T19:12:00",
+    "SeverityScore": "88",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption / Major Delays",
+    "EventStart": "2025-08-18T19:44:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
@@ -155,6 +155,17 @@
     },
     "ImpactedService": {
       "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
@@ -180,6 +191,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "0cea7b40-b9dd-40e9-9149-83b8b252e043"
+    "GUID": "f8b0de9a-04cd-48fa-9cb3-bf4365ee72d2"
   }
 ]
