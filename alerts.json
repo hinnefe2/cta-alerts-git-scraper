@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "6654cbf9-c81e-4980-949b-f3f8d0069d4c"
+  },
+  {
+    "AlertId": "109669",
+    "Headline": "Purple Line Service Temporarily Suspended",
+    "ShortDescription": "Service on the Purple Line has been temporarily suspended due to debris on the track.",
+    "FullDescription": {
+      "#cdata-section": "<p>Service on the Purple Line has been temporarily suspended due to debris on the track.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#205 Chicago/Golf</strong></p>\r\n\r\n<p><strong>Shuttle buses have been requested to provide connecting service between Howard and Linden in both directions.</strong></p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "90",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Suspended",
+    "EventStart": "2025-08-19T04:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "1",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109669"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f7ab4e06-8cf1-4f48-9ab2-bea558c1c9a8"
   }
 ]
