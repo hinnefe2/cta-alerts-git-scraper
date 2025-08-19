@@ -136,37 +136,50 @@
     "GUID": "ed2ae8dc-e977-495a-b603-5b372e094ac2"
   },
   {
-    "AlertId": "109663",
-    "Headline": "#71 71st/South Shore Temporary Reroute at 71st/St Lawrence",
-    "ShortDescription": "71 71st/South Shore buses are temporarily rerouted near 71st/St Lawrence.",
+    "AlertId": "109666",
+    "Headline": "Yellow Line and Purple Line Service Delayed at Howard",
+    "ShortDescription": "Yellow Line and Purple Line trains are delayed at Howard due to track switching problems. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>#71 71st/South Shore buses are temporarily rerouted via 71st, South Chicago, Keefe, 69th, King Dr, 71st, and resume normal route: due to, street blockage near 71st/St Lawrence.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Yellow Line and Purple Line&nbsp;trains are&nbsp;delayed at Howard&nbsp;due to track switching problems.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-18T18:07:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-08-18T19:12:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109663"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109666"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "71st/South Shore",
-        "ServiceId": "71",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Yellow Line",
+          "ServiceId": "Y",
+          "ServiceBackColor": "f9e300",
+          "ServiceTextColor": "000000",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/yellowline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "6c8ae2bb-d22f-4780-9177-16d5879c5670"
+    "GUID": "03f2ae9b-7683-4455-9a18-6e3a184eb7a6"
   }
 ]
