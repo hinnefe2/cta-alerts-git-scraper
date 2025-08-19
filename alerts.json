@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "109502",
-    "Headline": "#71 71st/South Shore Temporary Reroute at Commercial/103rd",
-    "ShortDescription": "71 71st/South Shore buses are temporarily rerouted via Torrence, 100th and Commercial : due to, street blockage near Commercial/103rd.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#71 71st/South Shore&nbsp;buses are temporarily rerouted in both directions via Torrence, 100th, Commercial and over regular route, due to street blockage near Commercial/103rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-12T15:34:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109502"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "71st/South Shore",
-        "ServiceId": "71",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/71/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "23a9844f-9fb2-49cb-9d1c-8cdc730c7369"
-  },
-  {
     "AlertId": "109649",
     "Headline": "#67 67th-69th-71st Temporary Reroute at 67th/South Shore",
     "ShortDescription": "67 67th-69th-71st buses are temporarily rerouted near 67th/South Shore.",
@@ -124,5 +90,39 @@
     },
     "ttim": "0",
     "GUID": "7fd58cb5-4081-4730-b9ef-2e29c45ae065"
+  },
+  {
+    "AlertId": "109668",
+    "Headline": "#60 Blue Island Temporary Westbound Reroute near Blue Island",
+    "ShortDescription": "Westbound 60 Blue Island buses are temp. rerouted via Blue Island, Western, Cermak, California and 26th street: due to street blockage near Blue Island/Western.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #60 Blue Island buses are temporarily rerouted via Blue Island, Western, Cermak, California, 26th street and over regular route: due to, street blockage near Blue Island/Western.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-19T00:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109668"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Blue Island/26th",
+        "ServiceId": "60",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/60/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9475413b-ae6e-449d-8527-04d42cb29eb6"
   }
 ]
