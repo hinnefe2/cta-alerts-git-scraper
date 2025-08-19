@@ -86,32 +86,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109669"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
         }
-      ]
+      }
     },
-    "ttim": "0",
-    "GUID": "f7ab4e06-8cf1-4f48-9ab2-bea558c1c9a8"
+    "ttim": "1",
+    "GUID": "71574800-61dd-41e4-8ed4-df87a74fa931"
   }
 ]
