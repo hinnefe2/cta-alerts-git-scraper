@@ -135,52 +135,5 @@
     },
     "ttim": "0",
     "GUID": "ae7c2a84-4283-452c-862d-bc2f37de79a1"
-  },
-  {
-    "AlertId": "109694",
-    "Headline": "Loop- bound Brown Line Delays",
-    "ShortDescription": "Loop- Bound Brown Line trains are running w/residual delays following an earlier mechanical problem at Montrose. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop- Bound Brown Line trains are running w/residual delays following an earlier mechanical problem at Montrose.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-08-20T09:01:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109694"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Montrose",
-          "ServiceId": "41500",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=103"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "6ff65ac6-868b-4198-bd3e-87afbbd5bf5f"
   }
 ]
