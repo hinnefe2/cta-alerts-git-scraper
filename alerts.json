@@ -68,62 +68,51 @@
     "GUID": "ae7c2a84-4283-452c-862d-bc2f37de79a1"
   },
   {
-    "AlertId": "109753",
-    "Headline": "Kimball-bound Brown Line Delays",
-    "ShortDescription": "Kimball-bound Brown Line trains are running w/significant delays following an earlier door problem at Clark/Lake. Service is resuming, allow extra time.",
+    "AlertId": "109752",
+    "Headline": "Loop-bound Orange Line Delays",
+    "ShortDescription": "Loop-bound Orange Line trains are running w/significant delays following an earlier signal problem at Midway. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Kimball-bound Brown&nbsp;Line trains are running with&nbsp;significant&nbsp;delays following an earlier door problem&nbsp;at Clark/Lake.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Orange Line trains are running w/significant delays following an earlier signal problem at Midway.&nbsp;</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Significant Delays",
-    "EventStart": "2025-08-21T17:54:00",
-    "EventEnd": "2025-08-21T18:20:00",
+    "EventStart": "2025-08-21T17:49:00",
+    "EventEnd": "2025-08-21T18:50:00",
     "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109753"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109752"
     },
     "ImpactedService": {
       "Service": [
         {
           "ServiceType": "T",
           "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Clark/Lake",
-          "ServiceId": "40380",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=43"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
+          "ServiceName": "Midway",
+          "ServiceId": "40930",
+          "ServiceBackColor": "f9461c",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=99"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "71026701-d53c-4adc-bc44-3ef3b3c7c99e"
+    "GUID": "230e13f5-69e1-4979-ad9f-f6d06208a11f"
   },
   {
     "AlertId": "109681",
@@ -193,52 +182,5 @@
     },
     "ttim": "1",
     "GUID": "666d4997-c48d-482d-a1de-99d593a62af3"
-  },
-  {
-    "AlertId": "109752",
-    "Headline": "Loop-bound Orange Line Service Delayed at Midway",
-    "ShortDescription": "Loop-bound Orange Line trains are standing with major at Midway due to signal problems. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Orange Line trains are standing with major delays at Midway due to signal problems.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2025-08-21T17:49:00",
-    "EventEnd": "2025-08-21T21:00:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109752"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Midway",
-          "ServiceId": "40930",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=99"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "9b6b4ed2-7cef-4013-97af-f0ce37ee8eba"
   }
 ]
