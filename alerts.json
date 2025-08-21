@@ -1,52 +1,5 @@
 [
   {
-    "AlertId": "109752",
-    "Headline": "Loop-bound Orange Line Service Delayed at Midway",
-    "ShortDescription": "Loop-bound Orange Line trains are standing at Midway due to signal problems. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Orange&nbsp;Line trains are&nbsp;standing&nbsp;at Midway due to signal problems.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-08-21T17:49:00",
-    "EventEnd": "2025-08-21T20:49:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109752"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Midway",
-          "ServiceId": "40930",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=99"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "edf09824-4cb7-42cc-9d20-cf02edb55c22"
-  },
-  {
     "AlertId": "109753",
     "Headline": "Kimball-bound Brown Line Service Delayed at Clark/Lake",
     "ShortDescription": "Kimball-bound Brown Line trains are standing at Clark/Lake. Crews working to restore service.",
@@ -105,40 +58,6 @@
     "GUID": "d7c1c918-272f-4dad-9a02-3bbd65aa4e03"
   },
   {
-    "AlertId": "109739",
-    "Headline": "Northbound #9 Temporary Reroute near Ashland/75th",
-    "ShortDescription": "Northbound 9 Ashland buses are temporarily rerouted near Ashland/75th.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #9 Ashland buses are temporarily rerouted via Ashland, 76th, Damen, 74th, Ashland, and resume normal route: due to, street blockage near Ashland/75th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-21T12:51:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109739"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Ashland",
-        "ServiceId": "9",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/9/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "7aaf61cc-da47-4c70-a964-c3911174645b"
-  },
-  {
     "AlertId": "109682",
     "Headline": "Temporary Reroute",
     "ShortDescription": "#71 buses are rerouted in both directions via Torrance, 100th, and Commercial. ",
@@ -171,6 +90,40 @@
     },
     "ttim": "0",
     "GUID": "ae7c2a84-4283-452c-862d-bc2f37de79a1"
+  },
+  {
+    "AlertId": "109739",
+    "Headline": "Northbound #9 Temporary Reroute near Ashland/75th",
+    "ShortDescription": "Northbound 9 Ashland buses are temporarily rerouted near Ashland/75th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #9 Ashland buses are temporarily rerouted via Ashland, 76th, Damen, 74th, Ashland, and resume normal route: due to, street blockage near Ashland/75th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-21T12:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109739"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Ashland",
+        "ServiceId": "9",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/9/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7aaf61cc-da47-4c70-a964-c3911174645b"
   },
   {
     "AlertId": "109681",
@@ -240,5 +193,52 @@
     },
     "ttim": "1",
     "GUID": "666d4997-c48d-482d-a1de-99d593a62af3"
+  },
+  {
+    "AlertId": "109752",
+    "Headline": "Loop-bound Orange Line Service Delayed at Midway",
+    "ShortDescription": "Loop-bound Orange Line trains are standing with major at Midway due to signal problems. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Orange Line trains are standing with major delays at Midway due to signal problems.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-08-21T17:49:00",
+    "EventEnd": "2025-08-21T21:00:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109752"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Midway",
+          "ServiceId": "40930",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=99"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9b6b4ed2-7cef-4013-97af-f0ce37ee8eba"
   }
 ]
