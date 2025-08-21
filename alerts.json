@@ -1,73 +1,5 @@
 [
   {
-    "AlertId": "109734",
-    "Headline": "Northbound #29 State Temporary Reroute near State/24th",
-    "ShortDescription": "Northbound 29 State buses are temporarily rerouted near State/24th.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #29 State buses are temporarily rerouted via State, 26th, Michigan, 24th, State, and resume normal route, due to street blockage near State/24th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-21T11:02:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109734"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "State",
-        "ServiceId": "29",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/29/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "61bda54b-d609-457c-be6d-d3abf313765f"
-  },
-  {
-    "AlertId": "109682",
-    "Headline": "Temporary Reroute",
-    "ShortDescription": "#71 buses are rerouted in both directions via Torrance, 100th, and Commercial. ",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nBuses are rerouted in both directions via Torrance, 100th, and&nbsp;Commercial.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nBuses are rerouted due to utility maintenance at Commercial/103rd.&nbsp;</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-19T08:00:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109682"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "71st/South Shore",
-        "ServiceId": "71",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/71/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ae7c2a84-4283-452c-862d-bc2f37de79a1"
-  },
-  {
     "AlertId": "109729",
     "Headline": "Westbound #87 87th Temporary Reroute near 87th/Lafayette",
     "ShortDescription": "Westbound 87 87th buses are temporarily rerouted near 87th/Lafayette.",
@@ -183,38 +115,38 @@
     "GUID": "dba92b82-8f11-4d82-b6e2-be7246109f75"
   },
   {
-    "AlertId": "109649",
-    "Headline": "#67 67th-69th-71st Temporary Reroute at 67th/South Shore",
-    "ShortDescription": "67 67th-69th-71st buses are temporarily rerouted near 67th/South Shore.",
+    "AlertId": "109682",
+    "Headline": "Temporary Reroute",
+    "ShortDescription": "#71 buses are rerouted in both directions via Torrance, 100th, and Commercial. ",
     "FullDescription": {
-      "#cdata-section": "<p>#67 67th-69th-71st&nbsp;buses are temporarily rerouted in both directions via 67th, Cottage Grove, Marquette, Stoney Island, 67th, and resume normal route, due to street blockage near 67th/South Shore.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nBuses are rerouted in both directions via Torrance, 100th, and&nbsp;Commercial.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nBuses are rerouted due to utility maintenance at Commercial/103rd.&nbsp;</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-18T11:32:00",
+    "EventStart": "2025-08-19T08:00:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109649"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109682"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "67th-69th-71st",
-        "ServiceId": "67",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/67/"
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "d3403ce1-af30-4639-b674-cef7d0b482cb"
+    "GUID": "ae7c2a84-4283-452c-862d-bc2f37de79a1"
   },
   {
     "AlertId": "109681",
