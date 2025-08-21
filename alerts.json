@@ -1,107 +1,5 @@
 [
   {
-    "AlertId": "109682",
-    "Headline": "Temporary Reroute",
-    "ShortDescription": "#71 buses are rerouted in both directions via Torrance, 100th, and Commercial. ",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nBuses are rerouted in both directions via Torrance, 100th, and&nbsp;Commercial.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nBuses are rerouted due to utility maintenance at Commercial/103rd.&nbsp;</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-19T08:00:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109682"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "71st/South Shore",
-        "ServiceId": "71",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/71/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ae7c2a84-4283-452c-862d-bc2f37de79a1"
-  },
-  {
-    "AlertId": "109721",
-    "Headline": "#22 Clark Temporary Reroute at Clark/Addison",
-    "ShortDescription": "#22 Clark buses are temporarily rerouted in both directions via Clark, Racine, Belmont due to street blockage near Clark/Addison.",
-    "FullDescription": {
-      "#cdata-section": "<p>#22 Clark buses are temporarily rerouted in both directions via Clark, Racine, Belmont, then resume their normal route on Clark, due to street blockage near Clark/Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-20T20:41:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109721"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Clark",
-        "ServiceId": "22",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/22/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6bd3eacf-6b84-4d06-8635-8439ff8f8b25"
-  },
-  {
-    "AlertId": "109722",
-    "Headline": "#152 Addison Temporary Reroute at Clark/Addison",
-    "ShortDescription": "#152 Addison buses are temporarily rerouted in both directions via Addison, Racine, Belmont, Halsted, due to street blockage near Clark/Addison.",
-    "FullDescription": {
-      "#cdata-section": "<p>#152 Addison buses are temporarily rerouted in both directions via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison, due to street blockage near Clark/Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-20T20:43:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109722"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Addison",
-        "ServiceId": "152",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/152/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "42b90831-cb30-4504-9bc0-6e7860637ccd"
-  },
-  {
     "AlertId": "109723",
     "Headline": "Temporary Eastbound #72 North Reroute near North/Bosworth",
     "ShortDescription": "Eastbound 72 North buses are temporarily rerouted via North Avenue, Milwaukee, Division, Elston and North Avenue: due to, street block near North/Bosworth.",
@@ -136,6 +34,40 @@
     "GUID": "bff143c7-6c50-43bd-9050-b42700fde7af"
   },
   {
+    "AlertId": "109682",
+    "Headline": "Temporary Reroute",
+    "ShortDescription": "#71 buses are rerouted in both directions via Torrance, 100th, and Commercial. ",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nBuses are rerouted in both directions via Torrance, 100th, and&nbsp;Commercial.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nBuses are rerouted due to utility maintenance at Commercial/103rd.&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-19T08:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109682"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ae7c2a84-4283-452c-862d-bc2f37de79a1"
+  },
+  {
     "AlertId": "109649",
     "Headline": "#67 67th-69th-71st Temporary Reroute at 67th/South Shore",
     "ShortDescription": "67 67th-69th-71st buses are temporarily rerouted near 67th/South Shore.",
@@ -168,40 +100,6 @@
     },
     "ttim": "0",
     "GUID": "d3403ce1-af30-4639-b674-cef7d0b482cb"
-  },
-  {
-    "AlertId": "109714",
-    "Headline": "CTA Bus/Train Trackers May Be Temporarily Unavailable",
-    "ShortDescription": "Info in CTA Bus/Train Trackers may be temporarily unavailable due to a network problem. Engineers are working to correct.",
-    "FullDescription": {
-      "#cdata-section": "<p>Info in CTA Bus/Train Trackers may be temporarily unavailable due to a network problem.</p>\r\n\r\n<p>Engineers are working to correct the problem, and we appreciate your patience.</p>\r\n\r\n<p>Service is unaffected.</p>\r\n"
-    },
-    "SeverityScore": "59",
-    "SeverityColor": "06c",
-    "SeverityCSS": "special-note",
-    "Impact": "Special Note",
-    "EventStart": "2025-08-20T17:20:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109714"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "X",
-        "ServiceTypeDescription": "Systemwide",
-        "ServiceName": "All Routes",
-        "ServiceId": "Systemwide",
-        "ServiceBackColor": "000000",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/travel_information/systemalerts.aspx"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "29246b0f-c02f-447e-8c55-02599c464096"
   },
   {
     "AlertId": "109681",
