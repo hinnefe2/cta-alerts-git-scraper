@@ -170,6 +170,53 @@
     "GUID": "4b8421df-991c-483e-bbcf-8f3f887d055a"
   },
   {
+    "AlertId": "109743",
+    "Headline": "Kimball-bound Brown Line Service Running with Delays",
+    "ShortDescription": "Kimball-bound Brown Line trains are running with significant delays at Paulina.",
+    "FullDescription": {
+      "#cdata-section": "<p>Kimball-bound Brown Line&nbsp;trains are running with significant delays&nbsp;at Paulina due to earlier police activity.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-08-21T15:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109743"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Paulina",
+          "ServiceId": "41310",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=143"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b42cb9db-5cc8-45f7-939e-efa15ee827f5"
+  },
+  {
     "AlertId": "109681",
     "Headline": "Bus Substitution Between Illinois Medical District and UIC-Halsted",
     "ShortDescription": "Shuttle buses replace Blue Line service between Illinois Medical District and UIC-Halsted.",
@@ -237,53 +284,6 @@
     },
     "ttim": "1",
     "GUID": "666d4997-c48d-482d-a1de-99d593a62af3"
-  },
-  {
-    "AlertId": "109743",
-    "Headline": "Kimball-bound Brown Line Service Delayed at Paulina",
-    "ShortDescription": "Kimball-bound Brown Line trains are standing major delay at Paulina. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Kimball-bound Brown Line trains are standing with major&nbsp;delays at Paulina due to police activity.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2025-08-21T15:19:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109743"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Paulina",
-          "ServiceId": "41310",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=143"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "b3266a1b-0a69-4e67-97ff-220e40621f1c"
   },
   {
     "AlertId": "109744",
