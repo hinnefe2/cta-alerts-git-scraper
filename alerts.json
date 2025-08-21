@@ -1,84 +1,37 @@
 [
   {
-    "AlertId": "109745",
-    "Headline": "95th-bound Red Line Service Running with Delays",
-    "ShortDescription": "95th-bound Red Line trains are running with residual delays at Jarvis.",
+    "AlertId": "109739",
+    "Headline": "Northbound #9 Temporary Reroute near Ashland/75th",
+    "ShortDescription": "Northbound 9 Ashland buses are temporarily rerouted near Ashland/75th.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line&nbsp;trains are running with residual delays&nbsp;at Jarvis due to earlier&nbsp;police activity.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-08-21T16:24:00",
-    "EventEnd": "2025-08-21T16:39:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109745"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Jarvis",
-          "ServiceId": "41190",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=77"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "72077312-5b77-48c9-be26-575dd343005b"
-  },
-  {
-    "AlertId": "109682",
-    "Headline": "Temporary Reroute",
-    "ShortDescription": "#71 buses are rerouted in both directions via Torrance, 100th, and Commercial. ",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nBuses are rerouted in both directions via Torrance, 100th, and&nbsp;Commercial.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nBuses are rerouted due to utility maintenance at Commercial/103rd.&nbsp;</p>\r\n"
+      "#cdata-section": "<p>Northbound #9 Ashland buses are temporarily rerouted via Ashland, 76th, Damen, 74th, Ashland, and resume normal route: due to, street blockage near Ashland/75th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-19T08:00:00",
+    "EventStart": "2025-08-21T12:51:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109682"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109739"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "71st/South Shore",
-        "ServiceId": "71",
+        "ServiceName": "Ashland",
+        "ServiceId": "9",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+          "#cdata-section": "http://www.transitchicago.com/bus/9/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "ae7c2a84-4283-452c-862d-bc2f37de79a1"
+    "GUID": "7aaf61cc-da47-4c70-a964-c3911174645b"
   },
   {
     "AlertId": "109741",
@@ -149,72 +102,38 @@
     "GUID": "4b8421df-991c-483e-bbcf-8f3f887d055a"
   },
   {
-    "AlertId": "109739",
-    "Headline": "Northbound #9 Temporary Reroute near Ashland/75th",
-    "ShortDescription": "Northbound 9 Ashland buses are temporarily rerouted near Ashland/75th.",
+    "AlertId": "109682",
+    "Headline": "Temporary Reroute",
+    "ShortDescription": "#71 buses are rerouted in both directions via Torrance, 100th, and Commercial. ",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #9 Ashland buses are temporarily rerouted via Ashland, 76th, Damen, 74th, Ashland, and resume normal route: due to, street blockage near Ashland/75th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nBuses are rerouted in both directions via Torrance, 100th, and&nbsp;Commercial.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nBuses are rerouted due to utility maintenance at Commercial/103rd.&nbsp;</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-21T12:51:00",
+    "EventStart": "2025-08-19T08:00:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109739"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109682"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Ashland",
-        "ServiceId": "9",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "7aaf61cc-da47-4c70-a964-c3911174645b"
-  },
-  {
-    "AlertId": "109729",
-    "Headline": "Westbound #87 87th Temporary Reroute near 87th/Lafayette",
-    "ShortDescription": "Westbound 87 87th buses are temporarily rerouted near 87th/Lafayette.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound&nbsp;#87 87th buses are temporarily rerouted via 87th, Lafayette, 95th, Halsted, 87th, and resume normal route, due to street blockage near 87th/Lafayette.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-21T09:59:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109729"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "87th",
-        "ServiceId": "87",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/87/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "498bd296-f6b1-4fec-b579-34afa589e9db"
+    "GUID": "ae7c2a84-4283-452c-862d-bc2f37de79a1"
   },
   {
     "AlertId": "109681",
