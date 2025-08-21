@@ -34,6 +34,87 @@
     "GUID": "498bd296-f6b1-4fec-b579-34afa589e9db"
   },
   {
+    "AlertId": "109730",
+    "Headline": "Northbound #4 Cottage Grove and X4 Cottage Grove Temporary Reroute near 35th/Cottage Grove",
+    "ShortDescription": "Northbound 4 Cottage Grove and X4 Cottage Grove Temporary buses are temporarily rerouted near 35th/Cottage Grove.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #4 Cottage Grove and&nbsp;X4 Cottage Grove Express buses are temporarily rerouted via Cottage Grove, 33rd Place, King Drive, 35th, and resume normal route, due to street blockage near 35th/Cottage Grove.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-21T10:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109730"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove Express",
+          "ServiceId": "X4",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "0c482d2e-5314-4375-85ef-521e64b3f933"
+  },
+  {
+    "AlertId": "109731",
+    "Headline": "Westbound #35 31st/35th Temporary Reroute near 35th/Cottage Grove",
+    "ShortDescription": "Westbound #35 31st/35th buses are temporarily rerouted near 35th/Cottage Grove.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #35 31st/35th buses are temporarily rerouted via Rhodes, 33rd Place, King Drive, 35th, and resume normal route, due to street blockage near 35th/Cottage Grove.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-21T10:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109731"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "31st/35th",
+        "ServiceId": "35",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/35/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "dba92b82-8f11-4d82-b6e2-be7246109f75"
+  },
+  {
     "AlertId": "109649",
     "Headline": "#67 67th-69th-71st Temporary Reroute at 67th/South Shore",
     "ShortDescription": "67 67th-69th-71st buses are temporarily rerouted near 67th/South Shore.",
