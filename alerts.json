@@ -68,6 +68,40 @@
     "GUID": "498bd296-f6b1-4fec-b579-34afa589e9db"
   },
   {
+    "AlertId": "109682",
+    "Headline": "Temporary Reroute",
+    "ShortDescription": "#71 buses are rerouted in both directions via Torrance, 100th, and Commercial. ",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nBuses are rerouted in both directions via Torrance, 100th, and&nbsp;Commercial.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nBuses are rerouted due to utility maintenance at Commercial/103rd.&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-19T08:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109682"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ae7c2a84-4283-452c-862d-bc2f37de79a1"
+  },
+  {
     "AlertId": "109741",
     "Headline": "#22 Clark Temporary Reroute at Clark/Addison",
     "ShortDescription": "22 Clark buses are temporarily rerouted near Clark/Addison.",
@@ -136,38 +170,51 @@
     "GUID": "4b8421df-991c-483e-bbcf-8f3f887d055a"
   },
   {
-    "AlertId": "109682",
-    "Headline": "Temporary Reroute",
-    "ShortDescription": "#71 buses are rerouted in both directions via Torrance, 100th, and Commercial. ",
+    "AlertId": "109743",
+    "Headline": "Kimball-bound Brown Line Service Delayed at Paulina",
+    "ShortDescription": "Kimball-bound Brown Line trains are standing at Paulina. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nBuses are rerouted in both directions via Torrance, 100th, and&nbsp;Commercial.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nBuses are rerouted due to utility maintenance at Commercial/103rd.&nbsp;</p>\r\n"
+      "#cdata-section": "<p>Kimball-bound Brown Line trains are&nbsp;standing&nbsp;at Paulina due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-19T08:00:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-08-21T15:19:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109682"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109743"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "71st/South Shore",
-        "ServiceId": "71",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Paulina",
+          "ServiceId": "41310",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=143"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "ae7c2a84-4283-452c-862d-bc2f37de79a1"
+    "GUID": "8080c00f-0fa9-4094-a257-63ad7f24a82a"
   },
   {
     "AlertId": "109681",
