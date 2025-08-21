@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "109734",
+    "Headline": "Northbound #29 State Temporary Reroute near State/24th",
+    "ShortDescription": "Northbound 29 State buses are temporarily rerouted near State/24th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #29 State buses are temporarily rerouted via State, 26th, Michigan, 24th, State, and resume normal route, due to street blockage near State/24th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-21T11:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109734"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "61bda54b-d609-457c-be6d-d3abf313765f"
+  },
+  {
     "AlertId": "109682",
     "Headline": "Temporary Reroute",
     "ShortDescription": "#71 buses are rerouted in both directions via Torrance, 100th, and Commercial. ",
