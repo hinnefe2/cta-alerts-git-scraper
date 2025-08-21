@@ -68,40 +68,6 @@
     "GUID": "498bd296-f6b1-4fec-b579-34afa589e9db"
   },
   {
-    "AlertId": "109682",
-    "Headline": "Temporary Reroute",
-    "ShortDescription": "#71 buses are rerouted in both directions via Torrance, 100th, and Commercial. ",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nBuses are rerouted in both directions via Torrance, 100th, and&nbsp;Commercial.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nBuses are rerouted due to utility maintenance at Commercial/103rd.&nbsp;</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-19T08:00:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109682"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "71st/South Shore",
-        "ServiceId": "71",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/71/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ae7c2a84-4283-452c-862d-bc2f37de79a1"
-  },
-  {
     "AlertId": "109741",
     "Headline": "#22 Clark Temporary Reroute at Clark/Addison",
     "ShortDescription": "22 Clark buses are temporarily rerouted near Clark/Addison.",
@@ -170,51 +136,38 @@
     "GUID": "4b8421df-991c-483e-bbcf-8f3f887d055a"
   },
   {
-    "AlertId": "109744",
-    "Headline": "O'Hare-bound Blue Line Service Running with Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running with  significant delays at California-oh.",
+    "AlertId": "109682",
+    "Headline": "Temporary Reroute",
+    "ShortDescription": "#71 buses are rerouted in both directions via Torrance, 100th, and Commercial. ",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line&nbsp;trains are running with significant delays&nbsp;at California-oh&nbsp; due to an earlier door problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nBuses are rerouted in both directions via Torrance, 100th, and&nbsp;Commercial.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nBuses are rerouted due to utility maintenance at Commercial/103rd.&nbsp;</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-08-21T15:36:00",
-    "EventEnd": "2025-08-21T16:05:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-19T08:00:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109744"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109682"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "California",
-          "ServiceId": "40570",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=31"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "99bbfe7c-ff6e-4409-9e30-8cb4da62ae70"
+    "GUID": "ae7c2a84-4283-452c-862d-bc2f37de79a1"
   },
   {
     "AlertId": "109681",
