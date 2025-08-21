@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "109729",
+    "Headline": "Westbound #87 87th Temporary Reroute near 87th/Lafayette",
+    "ShortDescription": "Westbound 87 87th buses are temporarily rerouted near 87th/Lafayette.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound&nbsp;#87 87th buses are temporarily rerouted via 87th, Lafayette, 95th, Halsted, 87th, and resume normal route, due to street blockage near 87th/Lafayette.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-21T09:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109729"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "87th",
+        "ServiceId": "87",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/87/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "498bd296-f6b1-4fec-b579-34afa589e9db"
+  },
+  {
     "AlertId": "109649",
     "Headline": "#67 67th-69th-71st Temporary Reroute at 67th/South Shore",
     "ShortDescription": "67 67th-69th-71st buses are temporarily rerouted near 67th/South Shore.",
