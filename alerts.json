@@ -135,5 +135,52 @@
     },
     "ttim": "0",
     "GUID": "25fd1800-e166-47ec-b4d9-518af6f32572"
+  },
+  {
+    "AlertId": "109763",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running w/significant delays following an earlier door problem at Oak Park. ",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/significant delays following an earlier door problem at Oak Park.&nbsp;</p>\r\n\r\n<p>Shuttle buses are available to provide additional connecting service through the affected area. <strong>Shuttle buses are available from&nbsp;UIC-Halsted to Forest Park.</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-08-22T09:59:00",
+    "EventEnd": "2025-08-22T10:59:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109763"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Oak Park",
+          "ServiceId": "40180",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=108"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "a8b8b445-d595-40b1-b43e-93d3020a250a"
   }
 ]
