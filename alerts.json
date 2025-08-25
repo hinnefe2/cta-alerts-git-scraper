@@ -163,15 +163,15 @@
   },
   {
     "AlertId": "109816",
-    "Headline": "Orange and Green Line Service Delayed near Roosevelt",
-    "ShortDescription": "Green and Orange Line trains are standing near Roosevelt due to signal problems. Crews working to restore service.",
+    "Headline": "No Trains Between 35th- Bronzeville-IIT and Clark/Lake",
+    "ShortDescription": "Green Line service has been temporarily suspended between 35th- Bronzeville-IIT and Clark/Lake due to signal problems.",
     "FullDescription": {
-      "#cdata-section": "<p>Green and Orange Line trains are standing near Roosevelt due to signal problems.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green Line service has been temporarily suspended between 35th- Bronzeville-IIT and Clark/Lake due to signal problems.</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li><strong>between 63rd/Cottage Grove/63rd- Ashland&nbsp;and 35th- Bronzeville-IIT</strong></li>\r\n\t<li><strong>between Harlem and the Loop</strong>, only.</li>\r\n</ul>\r\n\r\n<p><strong>Shuttle buses have been requested from 35th- Bronzeville-IIT and Clark/Lake&nbsp;to provide connecting service through the affected area.&nbsp;</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.<br />\r\n&nbsp;</p>\r\n"
     },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
     "EventStart": "2025-08-25T09:50:00",
     "EventEnd": null,
     "TBD": "1",
@@ -202,22 +202,11 @@
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/greenline/"
           }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "7840e5ad-3b41-43f9-b3fb-502ef4bf81f4"
+    "GUID": "dbb58d63-28fc-4c41-ab9b-79d0d1d6ee98"
   },
   {
     "AlertId": "109817",
@@ -309,5 +298,52 @@
     },
     "ttim": "0",
     "GUID": "84d47f33-3a9a-4f3f-a937-4c83e85362dd"
+  },
+  {
+    "AlertId": "109818",
+    "Headline": "Orange Line Delays",
+    "ShortDescription": "Orange Line trains are running w/residual delays following an earlier signal problems near Roosevelt. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange Line trains are running w/residual delays following an earlier signal problems near Roosevelt.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-08-25T10:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109818"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Roosevelt",
+          "ServiceId": "41400",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=122"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "78e89150-2a61-45d8-8eb9-dcf798b8513b"
   }
 ]
