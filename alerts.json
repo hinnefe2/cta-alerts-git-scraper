@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "109682",
+    "Headline": "Temporary Reroute",
+    "ShortDescription": "#71 buses are rerouted in both directions via Torrance, 100th, and Commercial. ",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nBuses are rerouted in both directions via Torrance, 100th, and&nbsp;Commercial.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nBuses are rerouted due to utility maintenance at Commercial/103rd.&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-19T08:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109682"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "99f60edb-a675-446b-88fd-4b02d40f730d"
+  },
+  {
     "AlertId": "109781",
     "Headline": "#126 Jackson Temporary Reroute near Morgan/Harrison",
     "ShortDescription": "#126 Jackson buses are temporarily rerouted in both directions near Morgan/Harrison, due to street blockage.",
@@ -35,10 +69,10 @@
   },
   {
     "AlertId": "109834",
-    "Headline": "54th/Cermak- bound Pink Line Service Delayed at Clinton",
-    "ShortDescription": "54th/Cermak- bound Pink Line trains are standing at Clinton due to police activity. Crews working to restore service.",
+    "Headline": "54th/Cermak- bound Pink Line Service Delayed at Ashland",
+    "ShortDescription": "54th/Cermak- bound Pink Line trains are standing at Ashland due to police activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>54th/Cermak- bound Pink&nbsp;Line trains are standing at Clinton due to police activity.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>54th/Cermak- bound Pink Line trains are standing at Ashland due to police activity.</p>\r\n\r\n<p>Crews working to restore service.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -56,12 +90,12 @@
         {
           "ServiceType": "T",
           "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Clinton",
-          "ServiceId": "41160",
+          "ServiceName": "Ashland",
+          "ServiceId": "40170",
           "ServiceBackColor": "e27ea6",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=46"
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=21"
           }
         },
         {
@@ -89,6 +123,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "954c5e3d-c22a-4221-a352-42b60d368b83"
+    "GUID": "b9f3b217-c110-4770-815f-fc7f887fa644"
   }
 ]
