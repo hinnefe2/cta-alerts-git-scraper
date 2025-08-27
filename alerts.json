@@ -34,40 +34,6 @@
     "GUID": "99f60edb-a675-446b-88fd-4b02d40f730d"
   },
   {
-    "AlertId": "109781",
-    "Headline": "#126 Jackson Temporary Reroute near Morgan/Harrison",
-    "ShortDescription": "#126 Jackson buses are temporarily rerouted in both directions near Morgan/Harrison, due to street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted in both directions near Morgan/Harrison, due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via Jackson,&nbsp; Racine, Harrison, Jefferson, Jackson, and resume normal route.</p>\r\n\r\n<p>Westbound buses will operate via Adams, Des Plaines, Harrison, Racine, Van Buren, and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-23T08:19:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109781"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson",
-        "ServiceId": "126",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/126/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4bd1eb00-564c-4f07-a37f-1d439f8d96f3"
-  },
-  {
     "AlertId": "109846",
     "Headline": "#95 95th Temporary Reroute at 93rd/Clyde",
     "ShortDescription": "95 95th buses are temporarily rerouted near 93rd/Clyde.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "7b64a847-402e-4853-bd6d-01e49bcbc5e8"
+  },
+  {
+    "AlertId": "109850",
+    "Headline": "#63 63rd Temporary Reroute at 63rd/Morgan",
+    "ShortDescription": "63 63rd buses are temporarily rerouted via 63rd, Racine, 59th, Halsted and 63rd: due to, street blockage near 63rd/Morgan.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#63 63rd buses are temporarily rerouted in both directions via 63rd, Racine, 59th, Halsted, 63rd and over regular route, due to street blockage near 63rd/Morgan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-27T00:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109850"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ec6b304b-e4bb-4da9-9d1d-b6bdecbf40fd"
   }
 ]
