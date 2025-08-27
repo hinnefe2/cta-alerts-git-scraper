@@ -168,52 +168,5 @@
     },
     "ttim": "0",
     "GUID": "2177f49e-cec5-426c-92f7-9909e58cb0eb"
-  },
-  {
-    "AlertId": "109866",
-    "Headline": "Loop-bound Orange Line Service Running with Delays",
-    "ShortDescription": "Loop-bound Orange Line trains are running with delays near Roosevelt.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Orange Line&nbsp;trains are running with delays&nbsp;near Roosevelt.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-08-27T15:55:00",
-    "EventEnd": "2025-08-27T16:06:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109866"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Roosevelt",
-          "ServiceId": "41400",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=122"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "81a3abf4-c465-4723-b324-32d7f5911005"
   }
 ]
