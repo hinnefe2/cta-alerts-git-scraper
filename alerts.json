@@ -124,5 +124,52 @@
     },
     "ttim": "0",
     "GUID": "86668cd6-3fa3-44fe-9d89-c83f0bfdc988"
+  },
+  {
+    "AlertId": "109856",
+    "Headline": "#4 Cottage Grove, #X4 Cottage Grove Express Temporary Northbound Reroute near Indiana/35th",
+    "ShortDescription": "NB 4 Cottage Grove, X4 Cottage Grove Express buses are temp. rerouted via Michigan, 35th, State, 31st and Michigan due to street blockage near Indiana/35th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #4 Cottage Grove, #X4 Cottage Grove Express buses are temporarily rerouted via Michigan, 35th, State, 31st and Michigan due to street blockage near Indiana/35th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-27T08:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109856"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove Express",
+          "ServiceId": "X4",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "570193f5-2e79-48d6-807f-a050a320b49a"
   }
 ]
