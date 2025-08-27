@@ -168,5 +168,52 @@
     },
     "ttim": "0",
     "GUID": "2177f49e-cec5-426c-92f7-9909e58cb0eb"
+  },
+  {
+    "AlertId": "109869",
+    "Headline": "Northbound #49 Western and X49 Western Express Temporary Reroute near Western/Walton",
+    "ShortDescription": "Northbound 49 Western and X49 Western Express buses are temporarily rerouted near Western/Walton.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #49 Western and&nbsp;X49 Western Express buses are temporarily rerouted via Western, Chicago, Damen, Division, Western, and resume normal route, due to street blockage near Western/Walton.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-27T17:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109869"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western",
+          "ServiceId": "49",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western Express",
+          "ServiceId": "X49",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b40bb54b-3201-41ec-b4bc-144f591b0d57"
   }
 ]
