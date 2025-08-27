@@ -66,5 +66,63 @@
     },
     "ttim": "0",
     "GUID": "3ec16520-ab42-4d5a-8631-595a9b1a6e7e"
+  },
+  {
+    "AlertId": "109855",
+    "Headline": "#1 Bronzeville/Union Station Temporary Northbound Reroute near Indiana/35th",
+    "ShortDescription": "Northbound 1 Bronzeville/Union Station buses are temporarily rerouted via 35th/State and31st/ Michigan due to street blockage. ",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #1&nbsp;Bronzeville/Union Station buses are temporarily rerouted via 35th/State and31st/ Michigan due to street blockage.&nbsp;</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-27T08:30:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109855"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Bronzeville/Union Station",
+          "ServiceId": "1",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "565a5c",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/1/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove Express",
+          "ServiceId": "X4",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "86668cd6-3fa3-44fe-9d89-c83f0bfdc988"
   }
 ]
