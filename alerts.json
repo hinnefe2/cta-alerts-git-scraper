@@ -142,10 +142,10 @@
     "FullDescription": {
       "#cdata-section": "<p>95th bound Red Line trains are running with delays at Jarvis due to a mechanical problem.&nbsp;</p>\r\n\r\n<p>95th bound Red Line trains were being rerouted down track 1, alternate bus routes 22 clark and 36 broadway is available.</p>\r\n\r\n<p>Trains are moving with residual delays. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "SeverityScore": "83",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays / Reroute",
     "EventStart": "2025-08-29T12:13:00",
     "EventEnd": "2025-08-29T12:43:00",
     "TBD": "0",
@@ -167,6 +167,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "7528c2c6-f104-4ba1-95aa-f10d77275d74"
+    "GUID": "ee7f9657-42b2-45a7-986c-bfc6b329e0f7"
+  },
+  {
+    "AlertId": "109899",
+    "Headline": "Forest Park bound Blue Line Service Running with Delays",
+    "ShortDescription": "Forest Park bound Blue Line trains are running with delays near Rosemont due to Track Maintenance. ",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park bound Blue Line trains are running with delays near Rosemont due to Track Maintenance.&nbsp;</p>\r\n\r\n<p>88 Higgins route can be used for alternate service</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-08-29T12:23:00",
+    "EventEnd": "2025-08-29T13:24:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109899"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cfd76b94-f882-49d5-a00b-68d19f7270f0"
   }
 ]
