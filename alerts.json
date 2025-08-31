@@ -1,37 +1,50 @@
 [
   {
-    "AlertId": "109682",
-    "Headline": "Temporary Reroute",
-    "ShortDescription": "#71 buses are rerouted in both directions via Torrance, 100th, and Commercial. ",
+    "AlertId": "109943",
+    "Headline": "Loop-bound Orange Line Service Running with Delays",
+    "ShortDescription": "Loop-bound Orange Line trains are running with delays at 35th/Archer.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nBuses are rerouted in both directions via Torrance, 100th, and&nbsp;Commercial.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nBuses are rerouted due to utility maintenance at Commercial/103rd.&nbsp;</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Orange Line&nbsp;trains are running with delays at 35th/Archer&nbsp;due to earlier police activity.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-08-19T08:00:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-08-31T11:57:00",
+    "EventEnd": "2025-08-31T12:09:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109682"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109943"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "71st/South Shore",
-        "ServiceId": "71",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "35th/Archer",
+          "ServiceId": "40120",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=3"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "99f60edb-a675-446b-88fd-4b02d40f730d"
+    "GUID": "816ac4ee-475a-4904-ae64-f3bc0bbc4d4b"
   },
   {
     "AlertId": "109935",
@@ -202,5 +215,39 @@
     },
     "ttim": "0",
     "GUID": "f03efc24-f354-4ac2-912c-814f0116b6d1"
+  },
+  {
+    "AlertId": "109682",
+    "Headline": "Temporary Reroute",
+    "ShortDescription": "#71 buses are rerouted in both directions via Torrance, 100th, and Commercial. ",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nBuses are rerouted in both directions via Torrance, 100th, and&nbsp;Commercial.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nBuses are rerouted due to utility maintenance at Commercial/103rd.&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-19T08:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109682"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "99f60edb-a675-446b-88fd-4b02d40f730d"
   }
 ]
