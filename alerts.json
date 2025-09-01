@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "109964",
+    "Headline": "O'Hare-bound Blue Line Service Delayed at Western-cn",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Western-cn due to a mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are&nbsp;standing&nbsp;at&nbsp;Western-cn due to a door problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-09-01T13:02:00",
+    "EventEnd": "2025-09-01T16:02:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109964"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Western (Forest Park Branch)",
+          "ServiceId": "40220",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=137"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4d880dd8-5fe4-4504-92de-6554ee51d5e0"
+  },
+  {
     "AlertId": "109963",
     "Headline": "#56 Milwaukee Temporary Reroute near Desplaines/Lake",
     "ShortDescription": "56 Milwaukee buses temp. rerouted near Desplaines/Lake.",
