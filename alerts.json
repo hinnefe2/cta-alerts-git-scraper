@@ -1,52 +1,5 @@
 [
   {
-    "AlertId": "109951",
-    "Headline": "O'Hare- bound Blue Line Service Delayed at Damen",
-    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Damen due to police activity. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Damen due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-08-31T19:17:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109951"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Damen",
-          "ServiceId": "40590",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=50"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "0034657e-c05d-4663-b6a3-131f329c5d88"
-  },
-  {
     "AlertId": "109682",
     "Headline": "Temporary Reroute",
     "ShortDescription": "#71 buses are rerouted in both directions via Torrance, 100th, and Commercial. ",
@@ -79,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "99f60edb-a675-446b-88fd-4b02d40f730d"
+  },
+  {
+    "AlertId": "109952",
+    "Headline": "#29 State Temporary Northbound Reroute near State/64th",
+    "ShortDescription": "Northbound 29 State buses are temporarily rerouted via State, 67th, Wentworth, 63rd and State due to, street blockage near State/64th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #29 State buses are temporarily rerouted via State, 67th, Wentworth, 63rd and State due to, street blockage near State/64th.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-08-31T19:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109952"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d7973839-08ce-47ed-986d-74fa92f86b3f"
   }
 ]
