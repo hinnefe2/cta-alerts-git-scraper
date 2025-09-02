@@ -79,5 +79,52 @@
     },
     "ttim": "0",
     "GUID": "5f455180-a993-4ecd-afb9-e40e88dea8e7"
+  },
+  {
+    "AlertId": "109969",
+    "Headline": "Purple Line Service Temporarily Suspended",
+    "ShortDescription": "Service on the Purple Line has been temporarily suspended due to a medical emergency.",
+    "FullDescription": {
+      "#cdata-section": "<p>Service on the Purple Line has been temporarily suspended due to a medical emergency.</p>\r\n\r\n<p><strong>Shuttle buses have been requested from Howard to Belmont&nbsp;to provide connecting service through the affected area.</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "90",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Suspended",
+    "EventStart": "2025-09-02T05:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "1",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109969"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line Express",
+          "ServiceId": "Pexp",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "1",
+    "GUID": "6130b49f-146a-4c59-bbd3-c4749b7a18f6"
   }
 ]
