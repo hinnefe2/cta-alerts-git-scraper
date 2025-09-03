@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "a60890da-fd2e-41e1-b9cf-5a09c303a11d"
+  },
+  {
+    "AlertId": "109986",
+    "Headline": "#52 Kedzie and #65 Grand Temporary Reroute near Sacramento/Grand",
+    "ShortDescription": "52 Kedzie and 65 Grand buses are temporarily rerouted in both directions near Sacramento/Grand, due to street blockage near Sacramento/Grand.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#52 Kedzie and #65 Grand buses are temporarily rerouted in both directions near Sacramento/Grand, due to street blockage near Sacramento/Grand.</p>\r\n\r\n<p><strong>Northbound #52 Kedzie</strong> buses will operate via Kedzie, Grand, Augusta, Homan, Chicago, Kedzie and over regular route.</p>\r\n\r\n<p><strong>Southbound #52 Kedzie</strong> buses will operate via Chicago, Sacramento, Augusta, Kedzie and over regular route.</p>\r\n\r\n<p><strong>#65 Grand </strong>buses will operate via Grand, Sacramento, Augusta, Grand and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-03T14:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=109986"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Kedzie",
+          "ServiceId": "52",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/kedzie/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Grand",
+          "ServiceId": "65",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/65/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4b5b9649-d893-45c8-a45e-d29291608522"
   }
 ]
