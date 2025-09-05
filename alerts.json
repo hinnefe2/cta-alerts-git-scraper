@@ -70,7 +70,7 @@
   {
     "AlertId": "110055",
     "Headline": "#7 Harrison,#126 Jackson, #143 Stockton/Michigan Express Temporary Reroute near Congress Plaza",
-    "ShortDescription": "7 Harrison, 126 Jackson, 143 Stockton/Michigan Express buses temp. rerouted : due to, a Festival near Congress Plaza.",
+    "ShortDescription": "7 Harrison, 126 Jackson, 143 Stockton/Michigan Express buses temp. near Congress Plaza.",
     "FullDescription": {
       "#cdata-section": "<p>#7 Harrison,#126 Jackson, #143 Stockton/Michigan Express buses temp. rerouted : due to, a Festival near Congress Plaza.</p>\r\n\r\n<p>#7 Harrison,#126 Jackson, #143 Stockton/Michigan Express Eastbound&nbsp;buses will operate via Michigan, Ida. B. Wells, State, 9th and including the normal route streets.</p>\r\n\r\n<p>#7 Harrison,#126 Jackson, #143 Stockton/Michigan Express Westbound buses will operate via 9th, Wabash, Balbo, Michigan and&nbsp;Ida B. Wells.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
@@ -123,12 +123,12 @@
       ]
     },
     "ttim": "0",
-    "GUID": "f5fc47d4-e998-4065-8741-232ff9b0eaf5"
+    "GUID": "5d8c5b9b-5012-4759-86dc-0d73a7237480"
   },
   {
     "AlertId": "110057",
     "Headline": "#147 Outer DuSable Lake Shore Express Temporary Reroute near Congress Plaza",
-    "ShortDescription": "147 Outer DuSable Lake Shore Express buses temp. rerouted : due to,  a Festival near Congress Plaza.",
+    "ShortDescription": "147 Outer DuSable Lake Shore Express buses temp. rerouted : near Congress Plaza.",
     "FullDescription": {
       "#cdata-section": "<p>#147 Outer DuSable Lake Shore Express buses temp. rerouted : due to,&nbsp; a Festival near Congress Plaza.</p>\r\n\r\n<p>Southbound&nbsp; buses will operate via Michigan, Ida B. Wells, State, and Van Buren&nbsp;including the normal route streets.</p>\r\n\r\n<p>Northbound&nbsp;buses will operate via State and the normal route streets.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
@@ -157,12 +157,12 @@
       }
     },
     "ttim": "0",
-    "GUID": "fd892e50-fb2a-4672-b152-1ee8700abb45"
+    "GUID": "83312df7-83d6-4911-8b71-c868d42fd454"
   },
   {
     "AlertId": "110058",
     "Headline": "#148 Clarendon/Michigan Express Temporary Reroute near Congress Plaza",
-    "ShortDescription": "148 Clarendon/Michigan Express buses temp. rerouted : due to, a Festival near Congress Plaza.",
+    "ShortDescription": "148 Clarendon/Michigan Express buses temp. rerouted :near Congress Plaza.",
     "FullDescription": {
       "#cdata-section": "<p>#148 Clarendon/Michigan Express buses temp. rerouted : due to, a Festival near Congress Plaza.</p>\r\n\r\n<p>Southbound &nbsp;buses temp. rerouted Lake Shore Drive, Jackson, Roosevelt and State&nbsp;including the normal route streets.</p>\r\n\r\n<p>Northbound&nbsp;&nbsp;buses will operate via State, Balbo and the normal route streets.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
@@ -191,6 +191,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "951c3148-8a47-4832-829f-93dbb40a685e"
+    "GUID": "1e861a09-317d-428c-bba4-aec1e3ca9d1e"
+  },
+  {
+    "AlertId": "110059",
+    "Headline": "#125 Water Tower Express Temporary Southbound Reroute near Congress Plaza",
+    "ShortDescription": "Southbound  125 Water Tower Express buses are temporarily rerouted : near Congress Plaza.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound&nbsp; #125 Water Tower Express buses are temporarily rerouted : due to,&nbsp; a Festival near Congress Plaza..</p>\r\n\r\n<p>Southbound buses are temporarily rerouted via: Lake Shore Drive, Roosevelt, Michigan&nbsp;including the normal route streets , due to a Festival near Congress Plaza.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-05T12:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110059"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Water Tower Express",
+        "ServiceId": "125",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/125/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "32d39a18-d740-4c74-938f-93298628ec8e"
   }
 ]
