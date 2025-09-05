@@ -119,7 +119,7 @@
     "Headline": "Red Line Service Resuming Normal Routing",
     "ShortDescription": "Red Line service is resuming its normal routing, via the subway, btwn Fullerton & Cermak-Chinatown after an earlier reroute.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line service is resuming its normal routing, via the subway, between Fullerton &amp; Cermak-Chinatown.</p>\r\n\r\n<p>Trains were temporarily rerouted via the elevated lines due to earlier&nbsp;unauthorized person on the tracks.</p>\r\n\r\n<p>Shuttle buses are available between Fullerton and State/Lake to provide connecting service.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line service is resuming its normal routing, via the subway, between Fullerton &amp; Cermak-Chinatown.</p>\r\n\r\n<p>Trains were temporarily rerouted via the elevated lines due to earlier&nbsp;unauthorized person on the tracks.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -159,6 +159,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "9e091b9a-eb50-420a-8074-e89d2f68bd31"
+    "GUID": "3f1d509a-ac93-4d0e-b520-9b9cd5ddfdb5"
+  },
+  {
+    "AlertId": "110045",
+    "Headline": "#54 Cicero Temporary Reroute at Jackson/Cicero",
+    "ShortDescription": "54 Cicero buses are temporarily rerouted near Jackson/Cicero.",
+    "FullDescription": {
+      "#cdata-section": "<p>#54 Cicero buses are temporarily rerouted in both directions via Cicero, Jackson, Laramie, Harrison, and resume normal route: due to street blockage at Jackson/Cicero.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-04T22:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110045"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cicero",
+        "ServiceId": "54",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0af80358-0f18-47e2-a31d-9bb2f3138055"
   }
 ]
