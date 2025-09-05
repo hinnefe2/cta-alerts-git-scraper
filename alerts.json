@@ -126,50 +126,37 @@
     "GUID": "f5fc47d4-e998-4065-8741-232ff9b0eaf5"
   },
   {
-    "AlertId": "110056",
-    "Headline": "63rd- Ashland- bound Green Line Delays",
-    "ShortDescription": "63rd- Ashland- bound Green Line trains are running w/residual delays following earlier police activity at Austin. Service is resuming, allow extra time",
+    "AlertId": "110057",
+    "Headline": "#147 Outer DuSable Lake Shore Express Temporary Reroute near Congress Plaza",
+    "ShortDescription": "147 Outer DuSable Lake Shore Express buses temp. rerouted : due to,  a Festival near Congress Plaza.",
     "FullDescription": {
-      "#cdata-section": "<p>63rd- Ashland- bound Green Line trains are running w/residual delays following earlier police activity at Austin.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#147 Outer DuSable Lake Shore Express buses temp. rerouted : due to,&nbsp; a Festival near Congress Plaza.</p>\r\n\r\n<p>Southbound&nbsp;#147 Outer DuSable Lake Shore Express buses will operate via Michigan, Ida B. Wells, State, and Van Buren&nbsp;&nbsp;including the normal route streets.</p>\r\n\r\n<p>Northbound&nbsp;#147 Outer DuSable Lake Shore Express&nbsp;buses will operate via State and the normal route streets.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-09-05T12:13:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-05T12:23:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110056"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110057"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Austin",
-          "ServiceId": "41260",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=24"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Outer DuSable Lake Shore Express",
+        "ServiceId": "147",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/147/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "249cb40e-ac55-4ec6-959f-c17e64fd353d"
+    "GUID": "32f98119-e2ea-48c8-87d2-1d0ff484c17e"
   }
 ]
