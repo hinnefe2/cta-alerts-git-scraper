@@ -68,40 +68,6 @@
     "GUID": "d2e40df7-c7f4-4ddc-a116-eae2f83be13f"
   },
   {
-    "AlertId": "110059",
-    "Headline": "#125 Water Tower Express Temporary Southbound Reroute near Congress Plaza",
-    "ShortDescription": "Southbound  125 Water Tower Express buses are temporarily rerouted : near Congress Plaza.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound&nbsp; #125 Water Tower Express buses are temporarily rerouted : due to,&nbsp; a Festival near Congress Plaza..</p>\r\n\r\n<p>Southbound buses are temporarily rerouted via: Lake Shore Drive, Roosevelt, Michigan&nbsp;including the normal route streets , due to a Festival near Congress Plaza.</p>\r\n\r\n<p>Northbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-09-05T12:42:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110059"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Water Tower Express",
-        "ServiceId": "125",
-        "ServiceBackColor": "ffffff",
-        "ServiceTextColor": "b71234",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/125/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "32d39a18-d740-4c74-938f-93298628ec8e"
-  },
-  {
     "AlertId": "110060",
     "Headline": "Temporary Northbound #37 Sedgwick Reroute near Franklin/Washington ",
     "ShortDescription": "Northbound 37 Sedgwick buses are temporarily rerouted via Franklin, Madison, Wacker, Orleans over regular route near Franklin/Washington. ",
@@ -168,5 +134,52 @@
     },
     "ttim": "0",
     "GUID": "07706031-b674-4135-8e73-e874625bc369"
+  },
+  {
+    "AlertId": "110064",
+    "Headline": "#22 Clark and #152 Addison Temporary Reroute at Clark/Addison.",
+    "ShortDescription": "22 Clark and 152 Addison buses are temporarily rerouted in both directions due to a Cubs game near Clark/Addison.",
+    "FullDescription": {
+      "#cdata-section": "<p>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to a Cubs game near Clark/Addison.</p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-05T15:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110064"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Addison",
+          "ServiceId": "152",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/152/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d5f77960-87f6-489c-b477-1fa837f86e96"
   }
 ]
