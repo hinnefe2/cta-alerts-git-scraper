@@ -113,5 +113,39 @@
     },
     "ttim": "0",
     "GUID": "d5f77960-87f6-489c-b477-1fa837f86e96"
+  },
+  {
+    "AlertId": "110077",
+    "Headline": "#66 Chicago Temporary Reroute at Chicago/Parkside",
+    "ShortDescription": "66 Chicago buses are temporarily rerouted near Chicago/Parkside.",
+    "FullDescription": {
+      "#cdata-section": "<p>#66 Chicago buses are temporarily rerouted in both directions via Chicago, Central, Augusta, Austin, and resume normal route: due to, street blockage near Chicago/Parkside.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-06T04:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110077"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7f33d61f-fe13-4a61-b1ae-369e6d734ac4"
   }
 ]
