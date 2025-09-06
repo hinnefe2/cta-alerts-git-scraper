@@ -181,5 +181,52 @@
     },
     "ttim": "0",
     "GUID": "049b47ee-ef94-4a65-9582-905cfcccb2b5"
+  },
+  {
+    "AlertId": "110088",
+    "Headline": "63rd Cottage Grove Bound Green Line Service Delayed California",
+    "ShortDescription": "63rd Cottage Grove Bound Green Line trains are standing California due to a sick rider. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>63rd Cottage Grove Bound Green Line trains are standing California due to a sick rider.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-09-06T14:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110088"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "California",
+          "ServiceId": "41360",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=30"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "56fbd2e9-b7ea-49a4-8c93-ee52316770e2"
   }
 ]
