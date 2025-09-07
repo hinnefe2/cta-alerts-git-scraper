@@ -385,5 +385,63 @@
     },
     "ttim": "0",
     "GUID": "3edaa25f-db55-4d28-a1bc-fd5f8ed9f895"
+  },
+  {
+    "AlertId": "110110",
+    "Headline": "#6 Jackson, #15 Jeffery Local and #67 67th/69th/71st Temporary Reroute near 67th/ Ridgeland",
+    "ShortDescription": "6 Jackson, 15 Jeffery Local and 67 67th/69th/71st buses are temp. rerouted in both directions near 67th/Ridgeland, due to police activity near 67th/Ridgeland.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#6 Jackson, #15 Jeffery Local and #67 67th/69th/71st buses are temporarily rerouted in both directions near 67th/Ridgeland, due to police activity near 67th/Ridgeland.</p>\r\n\r\n<p>#6 Jackson and #15 Jeffery&nbsp;Local&nbsp;buses will operate via Stony Island, Marquette, Jeffrey, 67th and over regular route.</p>\r\n\r\n<p>#67 67th/69th/71st buses will operate via Marquette, Jeffery, 67th and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-07T12:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110110"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "67th-69th-71st",
+          "ServiceId": "67",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/67/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9679d723-bb73-4b77-b52e-ff909f263c33"
   }
 ]
