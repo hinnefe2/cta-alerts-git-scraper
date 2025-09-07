@@ -185,14 +185,14 @@
   {
     "AlertId": "110102",
     "Headline": "95th-bound Red Line Service Delayed at Granville",
-    "ShortDescription": "95th-bound Red Line trains are standing at Granville. Crews working to restore service.",
+    "ShortDescription": "95th-bound Red Line trains are standing significant delays at Granville. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are&nbsp;standing&nbsp;at Granville.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>95th-bound Red Line trains are standing with significant delays at Granville.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2025-09-07T07:53:00",
     "EventEnd": null,
     "TBD": "1",
@@ -227,7 +227,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "b4a03054-f9e9-4caa-a5a3-9b4470820923"
+    "GUID": "26dae549-4840-4864-9eaf-bc596d6b4977"
   },
   {
     "AlertId": "110103",
@@ -262,5 +262,73 @@
     },
     "ttim": "0",
     "GUID": "ff8c2f2a-d43c-43cd-ad80-5c0a4f4f4179"
+  },
+  {
+    "AlertId": "110104",
+    "Headline": "Northbound #10 Museum of Science and Industry Temporary Reroute near State/Jackson",
+    "ShortDescription": "Northbound 10 Museum of Science and Industry buses are temporarily rerouted near State/Jackson.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #10 Museum of Science and Industry&nbsp;buses are temporarily rerouted via State, Ida B. Wells, Dearborn, Wacker, State, and resume normal route: due to, street blockage near State/Jackson.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-07T07:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110104"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Museum of Science & Industry",
+        "ServiceId": "10",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/10/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4b35853f-3aea-4991-b1a3-6cb88ab2a3d1"
+  },
+  {
+    "AlertId": "110105",
+    "Headline": "Northbound #62 Archer Temporary Reroute near State/Jackson",
+    "ShortDescription": "Northbound #62 Archer buses are temporarily rerouted near State/Jackson.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #62 Archer buses are temporarily rerouted via State, Ida B. Wells, Dearborn, Wacker, State, and resume normal route: due to, street blockage near State/Jackson.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-07T08:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110105"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Archer",
+        "ServiceId": "62",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/62/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "10fe5f81-1087-46b5-a549-9d20a1b950a2"
   }
 ]
