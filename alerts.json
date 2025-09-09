@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "110126",
-    "Headline": "Blue Line Service Delayed at Western-cn",
-    "ShortDescription": "Blue Line trains are standing at Western-cn. Crews working to restore service.",
+    "Headline": "Blue Line Service Running with Delays",
+    "ShortDescription": "Blue Line trains are running with delays at Western-cn.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are&nbsp;standing&nbsp;Western-cn&nbsp;due to an unauthorized person on the tracks.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line&nbsp;trains are running with delays&nbsp;at Western-cn&nbsp;due to&nbsp;an earlier unauthorized person on the tracks.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -44,6 +44,53 @@
       ]
     },
     "ttim": "0",
-    "GUID": "24a67d3b-3912-40e7-add8-e504cdd9eda1"
+    "GUID": "1d9479d5-31eb-4d30-92ca-b13d6bfa3bbc"
+  },
+  {
+    "AlertId": "110127",
+    "Headline": " O'Hare-bound Blue Line Service Delayed at Grand ",
+    "ShortDescription": " O'Hare-bound Blue Line trains are standing at Grand. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are&nbsp;standing&nbsp;at Grand due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-09-09T03:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110127"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Grand",
+          "ServiceId": "40490",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=62"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "80c41d27-2db0-4cb5-bcbb-9efe3d6c3056"
   }
 ]
