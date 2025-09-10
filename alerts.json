@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "110188",
+    "Headline": "Temporary Northbound #148 Clarendon/Michigan  Reroute near Irving Park/Marine Drive",
+    "ShortDescription": "Northbound 148 Clarendon/Michigan buses are temp. rerouted via Marine Drive, Montrose and Clarendon: due to, police activity near Irving Park/Marine Drive.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Northbound #148 Clarendon/Michigan buses are temporarily rerouted via Marine Drive, Montrose, Clarendon and over regular route: due to, police activity near Irving Park/Marine Drive.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-10T17:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110188"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clarendon/Michigan Express",
+        "ServiceId": "148",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/148/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "209a84b7-575d-4ea3-b6d0-a3b76aa2d7ca"
+  },
+  {
     "AlertId": "110163",
     "Headline": "#22 Clark, #24 Wentworth, #36 Broadway, #62 Archer Temporary Northbound Reroute near Dearborn/Washington",
     "ShortDescription": "22 Clark, 24 Wentworth, 36 Broadway, and 62 Archer buses are temporarily near Dearborn/Washington. ",
@@ -251,52 +285,5 @@
     },
     "ttim": "0",
     "GUID": "a5633b4c-29f2-44cc-b4d4-b7ea64a75364"
-  },
-  {
-    "AlertId": "110173",
-    "Headline": "#146 Inner Lake Shore/Michigan Express , #147 Outer DuSable Lake Shore Express Temporary Reroute near State/Madison",
-    "ShortDescription": "#146 Inner Lake Shore/Michigan Express , #147 Outer DuSable Lake Shore Express buses temp. rerouted near State/Madison.",
-    "FullDescription": {
-      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express , #147 Outer DuSable Lake Shore Express buses temp. rerouted near State/Madison.</p>\r\n\r\n<p>Northbound buses will operate via State, Jackson, Michigan, Madison and State including the normal route streets..</p>\r\n\r\n<p>Southbound buses will operate via State, Washington, Michigan, Adams and State.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-09-10T12:18:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110173"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Inner Lake Shore/Michigan Express",
-          "ServiceId": "146",
-          "ServiceBackColor": "b71234",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/146/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Outer DuSable Lake Shore Express",
-          "ServiceId": "147",
-          "ServiceBackColor": "b71234",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/147/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "2328f247-d8d2-4513-9c97-ccc0e2786b9d"
   }
 ]
