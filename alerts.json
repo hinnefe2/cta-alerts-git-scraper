@@ -298,5 +298,52 @@
     },
     "ttim": "0",
     "GUID": "a5633b4c-29f2-44cc-b4d4-b7ea64a75364"
+  },
+  {
+    "AlertId": "110173",
+    "Headline": "#146 Inner Lake Shore/Michigan Express , #147 Outer DuSable Lake Shore Express Temporary Reroute near State/Madison",
+    "ShortDescription": "#146 Inner Lake Shore/Michigan Express , #147 Outer DuSable Lake Shore Express buses temp. rerouted near State/Madison.",
+    "FullDescription": {
+      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express , #147 Outer DuSable Lake Shore Express buses temp. rerouted near State/Madison.</p>\r\n\r\n<p>Northbound buses will operate via State, Jackson, Michigan, Madison and State including the normal route streets..</p>\r\n\r\n<p>Southbound buses will operate via State, Washington, Michigan, Adams and State.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-10T12:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110173"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "2328f247-d8d2-4513-9c97-ccc0e2786b9d"
   }
 ]
