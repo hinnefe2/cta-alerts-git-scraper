@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "110197",
-    "Headline": "Howard-bound Red Line Service Running with Delays",
-    "ShortDescription": "Howard-bound Red Line trains are running with delays at Jackson due to track conditions.",
-    "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are running with delays at Jackson due to track conditions..</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#7 Harrison</strong></p>\r\n\r\n<p><strong>#29 State</strong></p>\r\n\r\n<p><strong>#24 Wentworth</strong></p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-09-11T13:41:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110197"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "745e242f-bec8-4a21-afba-1c28fd2fed59"
-  },
-  {
     "AlertId": "110195",
     "Headline": "#59 59th/61st Temporary Westbound Reroute near 60h Indiana.",
     "ShortDescription": "Westbound 59 59th/61st buses are temporarily rerouted due to street blockage near 60th/Indiana. ",
@@ -69,15 +35,15 @@
   },
   {
     "AlertId": "110196",
-    "Headline": "Howard-bound Subway Trains Rerouted to Elevated Tracks",
-    "ShortDescription": "Howard-bound Red Line subway trains are temporarily rerouted to the elevated tracks between Cermak and Fullerton due to track condition.",
+    "Headline": "Red Line Service Resuming Normal Routing",
+    "ShortDescription": "Red Line service is resuming its normal routing, via the subway, btwn Fullerton & Cermak-Chinatown after an earlier reroute.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line subway trains are temporarily rerouted to the elevated tracks between Cermak and Fullerton due to track condition.</p>\r\n\r\n<h4>Train service to Howard</h4>\r\n\r\n<p>After stopping at Cermak-Chinatown, Howard-bound trains will be diverted and will make the following elevated station stops:</p>\r\n\r\n<ul>\r\n\t<li>Roosevelt (elevated station west of Wabash; accessible)</li>\r\n\t<li>Adams/Wabash</li>\r\n\t<li>Washington/Wabash (accessible)</li>\r\n\t<li>State/Lake</li>\r\n\t<li>Clark/lake (accessible)</li>\r\n\t<li>Merchandise Mart (accessible)</li>\r\n\t<li>Chicago (at Franklin; accessible)</li>\r\n\t<li>Sedgwick (accessible)</li>\r\n\t<li>Armitage (accessible)</li>\r\n</ul>\r\n\r\n<p>Then, trains will stop at Fullerton and make all normal stops to Howard.</p>\r\n\r\n<p>Connections can be made between 95th/Dan Ryan-bound subway service and Howard-bound rerouted service via elevated lines at State/Lake (transfer to nearby elevated station, board on Brown Line side) and at Roosevelt (accessible).</p>\r\n\r\n<p>We apologize for the inconvenience and are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n\r\n<h4><span style=\"color: #c60c30\"><strong>95th/Dan Ryan-bound service is not affected.</strong></span></h4>\r\n"
+      "#cdata-section": "<p>Red Line service is resuming its normal routing, via the subway, between Fullerton &amp; Cermak-Chinatown.</p>\r\n\r\n<p>Trains were temporarily rerouted via the elevated lines due to an earlier track condition.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2025-09-11T13:34:00",
     "EventEnd": null,
     "TBD": "1",
@@ -99,6 +65,6 @@
       }
     },
     "ttim": "0",
-    "GUID": "c68cbc29-fac9-4563-bfa1-cded56d3ae30"
+    "GUID": "e04a4045-ba07-4aa2-acbc-b08be325aeb7"
   }
 ]
