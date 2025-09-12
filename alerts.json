@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "00c48b68-70ff-4892-a3ae-12fa6d74b4b4"
+  },
+  {
+    "AlertId": "110209",
+    "Headline": "O'Hare-Bound Blue Line Service Delayed Clark/Lake ",
+    "ShortDescription": "O'Hare-Bound Blue Line trains are standing Clark/Lake due to debris on the tracks. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-Bound Blue Line trains are standing Clark/Lake due to debris on the tracks.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-09-12T09:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110209"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Clark/Lake",
+          "ServiceId": "40380",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=43"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ebc6f2b5-6eea-4514-a01b-ae8e1a484848"
   }
 ]
