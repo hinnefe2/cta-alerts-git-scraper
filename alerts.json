@@ -1,73 +1,5 @@
 [
   {
-    "AlertId": "110208",
-    "Headline": "#68 Northwest Highway Temporary Reroute at Northwest Highway/ Nettleton",
-    "ShortDescription": "68 Northwest Highway buses are temporarily rerouted  near Northwest Highway/ Nettleton. ",
-    "FullDescription": {
-      "#cdata-section": "<p>#68 Northwest Highway buses are temporarily rerouted&nbsp;near Northwest Highway/ Nettleton.&nbsp;</p>\r\n\r\n<p>Buses are temporarily rerouted in both directions via Northwest Highway, Newark, Raven, and Northwest Highway including normal route streets&nbsp;&nbsp;due to street blockage&nbsp;near Northwest Highway/ Nettleton.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-09-12T08:53:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110208"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Northwest Highway",
-        "ServiceId": "68",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/68/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "00c48b68-70ff-4892-a3ae-12fa6d74b4b4"
-  },
-  {
-    "AlertId": "110212",
-    "Headline": "#36 Broadway Temporary Reroute at Broadway",
-    "ShortDescription": "36 Broadway are temporarily rerouted via due to a festival. ",
-    "FullDescription": {
-      "#cdata-section": "<p>#36 Broadway buses are temporarily rerouted in both directions via Broadway, Halsted, Belmont, and Broadway including regular routes&nbsp;due to a festival.&nbsp;.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-09-12T12:07:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110212"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Broadway",
-        "ServiceId": "36",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/36/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6f9d4074-cdd6-4105-bb6e-fe7e59faecd2"
-  },
-  {
     "AlertId": "110214",
     "Headline": "Yellow Line Service Temporarily Suspended",
     "ShortDescription": "Service on the Yellow Line has been temporarily suspended due to police activity. ",
@@ -100,5 +32,52 @@
     },
     "ttim": "1",
     "GUID": "7551c6f3-5e8b-487b-9094-d20bbe03c5dd"
+  },
+  {
+    "AlertId": "110216",
+    "Headline": "#22 Clark, #152 Addison Temporary Reroute at Clark/Addison",
+    "ShortDescription": "#22 Clark, #152 Addison buses are temporarily rerouted in both directions due to a Cubs game near Clark/Addison.",
+    "FullDescription": {
+      "#cdata-section": "<p>#22 Clark, #152 Addison buses are temporarily rerouted in both directions due to a Cubs game near Clark/Addison.</p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via, Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-12T15:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110216"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Addison",
+          "ServiceId": "152",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/152/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "33bf00fb-48d7-4e43-8a56-1252e5871414"
   }
 ]
