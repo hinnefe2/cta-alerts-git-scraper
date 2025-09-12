@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "110200",
+    "Headline": "Northbound #29 State Temporary Reroute near State/Lake",
+    "ShortDescription": "Northbound 29 State buses are temporarily rerouted via near State/Lake.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #29 State buses are temporarily rerouted via State, Randolph, Dearborn,&nbsp;Wacker, Illinois, and resume normal route: due to street blockage near State/Lake.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-11T22:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110200"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "412d2ae8-5873-4e46-ba88-505474d1b2e8"
+  },
+  {
+    "AlertId": "110201",
+    "Headline": "Northbound #146 Inner Drive/Michigan Express Temporary Reroute near State/Lake",
+    "ShortDescription": "Northbound 146 Inner Drive/Michigan Express buses are temporarily rerouted near State/Lake.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #146 Inner Drive/Michigan Express buses are temporarily rerouted via State, Randolph, Dearborn,&nbsp;Wacker, and resume normal route: due to street blockage near State/Lake.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-11T22:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110201"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Inner Lake Shore/Michigan Express",
+        "ServiceId": "146",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/146/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6f000b6e-5eaf-4d62-9cc4-c3e30b42e46b"
+  }
+]
