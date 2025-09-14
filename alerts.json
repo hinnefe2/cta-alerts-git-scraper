@@ -121,10 +121,10 @@
     "FullDescription": {
       "#cdata-section": "<p>Forest Park-Bound Blue Line service is running with major delays due to a stalled train at Kedzie.</p>\r\n\r\n<p>Trains, in both directions, are running on the same track between Kedzie&nbsp;and Pulaski&nbsp;stations.</p>\r\n\r\n<p>Board/exit all trains on the&nbsp;O&#39;Hare-bound side of the platform at Kedzie to Pulaski.</p>\r\n\r\n<p><strong>Shuttle buses are available from UIC Halsted to Forest Park.</strong></p>\r\n\r\n<p>We&#39;re working to restore normal service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
+    "SeverityScore": "88",
     "SeverityColor": "c00c00",
     "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "Impact": "Service Disruption / Major Delays",
     "EventStart": "2025-09-14T01:55:00",
     "EventEnd": "2025-09-14T05:21:00",
     "TBD": "0",
@@ -146,6 +146,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "4bbee0ae-e4c6-41ea-b4ec-8a9ff145366e"
+    "GUID": "5a0febe4-ac35-4771-82d4-ed6969e6c741"
+  },
+  {
+    "AlertId": "110241",
+    "Headline": "Southbound #9 Ashland Temporary Reroute near Ashland/87th",
+    "ShortDescription": "Southbound 9 Ashland buses are temporarily rerouted near Ashland/87th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #9 Ashland buses are temporarily rerouted via Ashland, 87th, Halsted, 95th, Ashland, and resume normal route: due to police activity near Ashland/87th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-14T02:30:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110241"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Ashland",
+        "ServiceId": "9",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/9/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3c893bac-aa02-4da1-960f-ccb01a989141"
   }
 ]
