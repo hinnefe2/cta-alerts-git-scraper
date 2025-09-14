@@ -146,6 +146,53 @@
       }
     },
     "ttim": "0",
-    "GUID": "6b15b553-af79-4b68-99e3-a9a726ec2e16"
+    "GUID": "f79447cf-d447-4898-8b1a-02dddb6ca024"
+  },
+  {
+    "AlertId": "110238",
+    "Headline": "O'Hare-bound Blue Line Service Running with Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running with significant delays at Harlem-cn.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue&nbsp;Line&nbsp;trains are running with significant delays&nbsp;at Harlem-cn due to an earlier mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-09-13T21:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110238"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Harlem (Forest Park Branch)",
+          "ServiceId": "40980",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=67"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "135ce15f-3153-4f4f-8869-c9c2d2b18719"
   }
 ]
