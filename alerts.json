@@ -113,5 +113,52 @@
     },
     "ttim": "0",
     "GUID": "6e2d4859-08d8-4ce5-9429-e95c5453b04e"
+  },
+  {
+    "AlertId": "110249",
+    "Headline": "#43 43rd and #37 47th Temporary Reroute near 47th/LaSalle",
+    "ShortDescription": "43 43rd and 47 47th buses are temporarily rerouted in both directions near 47th/LaSalle, due to street blockage near 47th/LaSalle.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this&nbsp;affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#43 43rd and #47 47th buses are temporarily rerouted in both directions near 47th/LaSalle, due to street blockage near 47th/LaSalle.</p>\r\n\r\n<p>Westbound #43 43rd buses will operate via 43rd, LaSalle, 43rd, Wells/ 47th and over regular route.</p>\r\n\r\n<p>Westbound #47 47th&nbsp;buses will operate via LaSalle, 43rd, Wells, 47th and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-14T15:27:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110249"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "43rd",
+          "ServiceId": "43",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/43/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "47th",
+          "ServiceId": "47",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/47/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f6c2fc62-c84f-4fdd-ae75-9ee4303fd968"
   }
 ]
