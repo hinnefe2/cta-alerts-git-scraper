@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "110309",
-    "Headline": "#20 Madison Temporary Reroute at Madison/Lockwood",
-    "ShortDescription": "#20 Madison buses are temp rerouted in both directions via Madison, Laramie, Washington, Central and Madison, due to police activity near Madison/Lockwood.\r\n\r\n",
+    "AlertId": "110310",
+    "Headline": "Blue Line Trains bypassing Cicero-Congress",
+    "ShortDescription": "Blue Line trains are running, but not stopping at Cicero-Congress due to police investigation.",
     "FullDescription": {
-      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted in both directions via Madison, Laramie, Washington, Central and Madison, then resume their normal route, due to police activity near Madison/Lockwood.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are running, but not stopping at Cicero-Congress due to police investigation.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "58",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-09-18T00:00:00",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2025-09-18T00:56:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110309"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110310"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Madison",
-        "ServiceId": "20",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/20/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "50316b3d-3b14-413e-a772-21486ba63940"
+    "GUID": "80bdf52c-8ace-448d-9d50-5a2654905739"
   }
 ]
