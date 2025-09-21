@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "110358",
+    "Headline": "#85 Central & #85A North Central Temporary Reroute at  Central/Catalpa",
+    "ShortDescription": "#85 Central & #85A North Central buses are temp rerouted in both directions via Central, Bryn/Mawr and Milwaukee, due to street blockage near Central/Catalpa.",
+    "FullDescription": {
+      "#cdata-section": "<p>#85 Central &amp;&nbsp;#85A North Central&nbsp; buses are temporarily rerouted in both directions via Central, Bryn/Mawr and Milwaukee, then resume their normal route on Central, due to street blockage near Central/Catalpa.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-21T10:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110358"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Central",
+          "ServiceId": "85",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/85/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "North Central",
+          "ServiceId": "85A",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/85a/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "18d9fa05-5864-4a51-b948-6dbfaf83fd44"
+  }
+]
