@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "110367",
-    "Headline": "Red and Purple Line Delays",
-    "ShortDescription": "Red and Purple Line trains are running with residual delays following an earlier signal problem near Wilson. Service is resuming, allow extra time.",
+    "Headline": "Purple Line Express Delays",
+    "ShortDescription": "Purple Line Express trains are running with residual delays following an earlier signal problem near Wilson.  Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Red and Purple Line trains are running with residual delays following an earlier signal problem near Wilson.&nbsp;</p>\r\n\r\n<p>Loop bound Purple Line Express trains will operate on the 95th bound Red Line tracks from Thorndale to Addison.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Shuttle bus are available from Howard to Belmont to provide service into the Loop</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Purple Line Express trains are running with residual delays following an earlier signal problem near Wilson.&nbsp;</p>\r\n\r\n<p>Shuttle bus are available from Howard to Belmont to provide service into the Loop until 7:00 am.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -18,43 +18,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110367"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line Express",
-          "ServiceId": "Pexp",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line Express",
+        "ServiceId": "Pexp",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "0e1020ff-c3b2-4330-9266-337db925143e"
+    "GUID": "5b52be5e-858e-46ee-8733-2faef632a785"
   }
 ]
