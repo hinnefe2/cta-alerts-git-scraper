@@ -147,5 +147,73 @@
     },
     "ttim": "0",
     "GUID": "b635d28b-36b6-4ffe-8503-eea7991f535b"
+  },
+  {
+    "AlertId": "110410",
+    "Headline": "#22 Clark Temporary Reroute at Clark/Addison",
+    "ShortDescription": "22 Clark buses are temporarily rerouted near Clark/Addison.",
+    "FullDescription": {
+      "#cdata-section": "<p>#22 Clark buses are temporarily rerouted in both directions via Clark, Racine, Belmont, then resume their normal route on Clark, due to street blockage near Clark/Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-23T20:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110410"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clark",
+        "ServiceId": "22",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/22/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4a06fd83-36ca-4ef9-80d5-11772a8168d6"
+  },
+  {
+    "AlertId": "110411",
+    "Headline": "#152 Addison Temporary Reroute at  Clark/Addison.",
+    "ShortDescription": "152 Addison buses are temporarily rerouted via near Clark/Addison.",
+    "FullDescription": {
+      "#cdata-section": "<p>#152 Addison buses are temporarily rerouted in both directions via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison, due to street blockage near Clark/Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-23T20:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110411"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Addison",
+        "ServiceId": "152",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/152/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "56ea5613-f978-418f-867f-1f6bb516f1ef"
   }
 ]
