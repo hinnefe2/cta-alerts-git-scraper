@@ -1,49 +1,36 @@
 [
   {
-    "AlertId": "110467",
-    "Headline": "Purple and Yellow Line Delays",
-    "ShortDescription": "Purple and Yellow Line trains are running w/residual delays following earlier signal problems at Howard. Service is resuming, allow extra time.",
+    "AlertId": "110468",
+    "Headline": "#43 43rd Temporary Eastbound Reroute near Root/Normal",
+    "ShortDescription": "Eastbound 43 43rd buses are temporarily rerouted via Emerald, Root, Wallace and 43rd : due to, street blockage near Root/Normal.",
     "FullDescription": {
-      "#cdata-section": "<p>Purple and Yellow Line trains are running w/residual delays following earlier signal problems at Howard.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Eastbound #43 43rd buses are temporarily rerouted via Emerald, Root, Wallace and 43rd : due to, street blockage near Root/Normal.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-09-26T08:49:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-26T09:00:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110467"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110468"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Yellow Line",
-          "ServiceId": "Y",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/yellowline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "43rd",
+        "ServiceId": "43",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/43/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "ca098f3e-0f9f-4168-9ca1-efc8d7c838e9"
+    "GUID": "678d617c-a634-4e32-bd90-e1991c24a9cd"
   }
 ]
