@@ -100,52 +100,5 @@
     },
     "ttim": "0",
     "GUID": "57a30837-2350-4e89-a9d1-2493bfcc5d91"
-  },
-  {
-    "AlertId": "110479",
-    "Headline": "Loop-bound Brown Line Delays",
-    "ShortDescription": "Loop-bound Brown Line trains are running with residual delays following an earlier door problem at Addison. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown Line trains are running with&nbsp;residual delays following an earlier door problem at Addison.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-09-26T13:39:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110479"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Addison",
-          "ServiceId": "41440",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=16"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "39d9a439-e0f1-495a-afd3-f0fc76b4e1c7"
   }
 ]
