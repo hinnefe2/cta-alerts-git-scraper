@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "110507",
-    "Headline": "#79 79th Temporary Reroute at 79th/Ashland",
-    "ShortDescription": "#79 79th buses are rerouted in both directions via 79th, Ashland, 76th, Damen and 79th, then resume normal route, due to police activity near 79th/Ashland. ",
+    "Headline": "#79 Temporary Reroute at 79th/Ashland",
+    "ShortDescription": "79 79th buses are temporarily rerouted via 79th, Loomis, 76th, Damen and 79th: due to, police activity near 79th/Ashland.",
     "FullDescription": {
-      "#cdata-section": "<p>#79 79th buses are temporarily rerouted in both directions via 79th, Ashland, 76th, Damen and 79th, then resume normal route, due to police activity near 79th/Ashland.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#79 79th buses are temporarily rerouted via 79th, Loomis, 76th, Damen and 79th: due to, police activity near 79th/Ashland.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "65cdf362-b711-465f-a59a-4a953313b9dd"
+    "GUID": "4777daf8-8f3b-44c6-ad8c-5b2630f870d9"
+  },
+  {
+    "AlertId": "110509",
+    "Headline": "#9 Ashland Temporary Reroute at Ashland/79th",
+    "ShortDescription": "9 Ashland buses are temporarily rerouted via Ashland, 76th, Loomis, 83rd and Ashland: due to, fire department activity near Ashland/79th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#9 Ashland buses are temporarily rerouted via Ashland, 76th, Loomis, 83rd and Ashland: due to, fire department activity near Ashland/79th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-27T07:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110509"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Ashland",
+        "ServiceId": "9",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/9/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "fce43d9c-e645-47ed-816e-776b40e1daf6"
   }
 ]
