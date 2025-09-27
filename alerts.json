@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "715451da-40c4-4a36-bf56-75eeca92647f"
+  },
+  {
+    "AlertId": "110512",
+    "Headline": "#62H Archer/Harlem,  #63W West 63rd Temporary Reroute at Harlem/63rd",
+    "ShortDescription": "63W West 63rd, 62H Archer/Harlem, buses are temporarily rerouted via Harlem, 65th, Old Harlem and 64th: due to, a Festival near Harlem/63rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#63W West 63rd, #62H Archer/Harlem, buses are temporarily rerouted via Harlem, 65th, Old Harlem and 64th: due to, a Festival near Harlem/63rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-09-27T09:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110512"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer/Harlem",
+          "ServiceId": "62H",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62h/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "West 63rd",
+          "ServiceId": "63W",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/63w/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4f92ef78-e786-418e-be5d-e600e5d482be"
   }
 ]
