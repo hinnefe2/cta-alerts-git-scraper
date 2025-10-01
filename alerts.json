@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "110559",
-    "Headline": "#126 Jackson Temporary Reroute at Jackson/Central",
-    "ShortDescription": "126 Jackson buses are temporarily rerouted via Jackson, Central, Madison, Laramie and Jackson: due to, street blockage near Jackson/Central.",
+    "Headline": "#126 Jackson Temporary Reroute near Jackson/Central",
+    "ShortDescription": "126 Jackson buses temp. rerouted near Jackson/Central.",
     "FullDescription": {
-      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted via Jackson, Central, Madison, Laramie and Jackson: due to, street blockage near Jackson/Central.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted in both directions near Jackson/Central, due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via Jackson, Central, Madison, Laramie, Jackson, and resume normal route.</p>\r\n\r\n<p>Westbound buses will operate via Jackson, Laramie, Madison, Central, Jackson,&nbsp; and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -31,41 +31,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "642638aa-aeff-419b-ac4c-dcabdf3ae4aa"
-  },
-  {
-    "AlertId": "110588",
-    "Headline": "#126 Jackson Temporary Reroute near Jackson/Central",
-    "ShortDescription": "126 Jackson buses temp. rerouted near Jackson/Central.",
-    "FullDescription": {
-      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted in both directions near Jackson/Central, due to street blockage.</p>\r\n\r\n<p>Eastbound buses will operate via Jackson, Central, Madison, Laramie, Jackson, and resume normal route.</p>\r\n\r\n<p>Westbound buses will operate via Jackson, Laramie, Madison, Central, Jackson,&nbsp; and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-10-01T08:26:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110588"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson",
-        "ServiceId": "126",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/126/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e3c29c64-d231-4a8b-b0e6-f655922f978f"
+    "GUID": "fd4a4d26-c4a3-458b-ae5f-ac1d8ebb66b2"
   },
   {
     "AlertId": "110589",
@@ -140,12 +106,12 @@
     "Headline": "Brown Line Service Delayed near Washington/Wells",
     "ShortDescription": "Brown Line trains are standing near Washington/Wells. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line service is experiencing delays due to a raised bridge over the Chicago River, downtown.</p>\r\n\r\n<p>Shuttle buses are available between Merchandise Mart and Clark/Lake to provide connecting service.<br />\r\n&nbsp;<br />\r\nSome trains may be held in stations or turned back towards Kimball before reaching the bridge to maintain service across the remainder of the route. Bus shuttle service is available at Merchandise Mart and Clark/Lake. Listen for announcements and check train destination signs when boarding. Crews are working to correct the problem to allow us to safely resume service.<br />\r\n&nbsp;<br />\r\nWe apology for this temporary inconvenience and appreciate your patience while the Dept. of Bridge works to complete the bridge lift operation.&nbsp; Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line service is experiencing major delays due to a raised bridge over the Chicago River, downtown.</p>\r\n\r\n<p>Shuttle buses are available between Merchandise Mart and Clark/Lake to provide connecting service.<br />\r\n&nbsp;<br />\r\nSome trains may be held in stations or turned back towards Kimball before reaching the bridge to maintain service across the remainder of the route. Bus shuttle service is available at Merchandise Mart and Clark/Lake. Listen for announcements and check train destination signs when boarding. Crews are working to correct the problem to allow us to safely resume service.<br />\r\n&nbsp;<br />\r\nWe apology for this temporary inconvenience and appreciate your patience while the Dept. of Bridge works to complete the bridge lift operation.&nbsp; Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2025-10-01T10:47:00",
     "EventEnd": null,
     "TBD": "1",
@@ -180,6 +146,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "eb20a13d-d5c3-40d7-9520-1453e785f2cf"
+    "GUID": "8ded84df-a8d7-424a-9188-7058a1d30182"
   }
 ]
