@@ -158,5 +158,52 @@
     },
     "ttim": "0",
     "GUID": "0f52a985-419c-469f-94ee-9919ba485235"
+  },
+  {
+    "AlertId": "110594",
+    "Headline": "Pink Line Service Delayed near Washington/Wells",
+    "ShortDescription": "Pink Line trains are standing near Washington/Wells. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Pink Line trains will be rerouted to the outer Loop (trains will board and exit on the Brown Line platforms at Washington/Wells, Quincy/Wells, LaSalle/Van Buren, Adams/Wabash, Washington/Wabash, State/Lake and Clark/Lake).</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-10-01T09:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110594"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Washington/Wells",
+          "ServiceId": "40730",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=133"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "898a65a2-11b3-4898-982c-efe5d332fcd1"
   }
 ]
