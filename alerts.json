@@ -102,64 +102,6 @@
     "GUID": "75309ec3-e9d9-42c1-9698-5f6a3cbdf4da"
   },
   {
-    "AlertId": "110593",
-    "Headline": "Green and Orange Line Service Running with Delays",
-    "ShortDescription": "Green and Orange Line trains are running with delays near Roosevelt.",
-    "FullDescription": {
-      "#cdata-section": "<p>Green and Orange&nbsp;Line&nbsp;trains are running with delays&nbsp;near Roosevelt due to an earlier minor fire on track.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2025-10-01T09:31:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110593"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Roosevelt",
-          "ServiceId": "41400",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=122"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "6b9fa610-879a-4302-acc6-b88dc82aaeda"
-  },
-  {
     "AlertId": "110594",
     "Headline": "Pink Line Service Running with Delays",
     "ShortDescription": "Pink Line trains are running with delays near Washington/Wells.",
@@ -252,5 +194,39 @@
     },
     "ttim": "0",
     "GUID": "4b1d95af-5c5e-4458-a22f-2592eccdf8b7"
+  },
+  {
+    "AlertId": "110596",
+    "Headline": "Pink Line Service Delayed near Washington/Wells",
+    "ShortDescription": "Pink Line trains are delayed near Washington/Wells. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Pink Line trains will be rerouted to the outer Loop (trains will board and exit on the Brown Line platforms at Washington/Wells, Quincy/Wells, LaSalle/Van Buren, Library, Adams/Wabash, Washington/Wabash, State/Lake and Clark/Lake).</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-10-01T10:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110596"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "621b0ccb-d473-45db-bc82-b3900e5225e4"
   }
 ]
