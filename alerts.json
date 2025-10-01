@@ -134,5 +134,52 @@
     },
     "ttim": "0",
     "GUID": "0f5de223-1e15-44c1-8da1-9dc62022316a"
+  },
+  {
+    "AlertId": "110598",
+    "Headline": "Brown Line Service Delayed near Washington/Wells",
+    "ShortDescription": "Brown Line trains are standing near Washington/Wells. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line service is experiencing delays due to a raised bridge over the Chicago River, downtown.</p>\r\n\r\n<p>Shuttle buses are available between Merchandise Mart and Clark/Lake to provide connecting service.<br />\r\n&nbsp;<br />\r\nSome trains may be held in stations or turned back towards Kimball before reaching the bridge to maintain service across the remainder of the route. Bus shuttle service is available at Merchandise Mart and Clark/Lake. Listen for announcements and check train destination signs when boarding. Crews are working to correct the problem to allow us to safely resume service.<br />\r\n&nbsp;<br />\r\nWe apology for this temporary inconvenience and appreciate your patience while the Dept. of Bridge works to complete the bridge lift operation.&nbsp; Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-10-01T10:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110598"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Washington/Wells",
+          "ServiceId": "40730",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=133"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "eb20a13d-d5c3-40d7-9520-1453e785f2cf"
   }
 ]
