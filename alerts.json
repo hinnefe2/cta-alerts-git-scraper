@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "a7363d9f-0b90-46ed-b4af-2d5ee0aa2353"
+  },
+  {
+    "AlertId": "110688",
+    "Headline": "#79 79th and #169 69th/UPS Express Temporary Eastbound Reroute near 79th/Washtenaw",
+    "ShortDescription": "Eastbound #79 79th and #169 69th/UPS Express buses are temporarily rerouted via 79th, Kedzie, 83rd, Western and 79th, due to street blockage near 79th/Washtenaw",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>Eastbound </strong>#79 79th and #169 69th/UPS Express buses are temporarily rerouted via 79th, Kedzie, 83rd, Western, then resume their normal route on 79th, due to street blockage near 79th/Washtenaw.</p>\r\n\r\n<p><strong>Westbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-03T08:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110688"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "79th",
+          "ServiceId": "79",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/79/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "69th/UPS Express",
+          "ServiceId": "169",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/169/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b9f5c896-109d-449d-82de-b2c286fc9291"
   }
 ]
