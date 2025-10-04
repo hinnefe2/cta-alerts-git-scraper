@@ -149,40 +149,6 @@
     "GUID": "99ddd438-ee96-4852-a29f-df0e223537c5"
   },
   {
-    "AlertId": "110711",
-    "Headline": "#52 Kedzie Temporary Reroute at Kedzie/Pershing",
-    "ShortDescription": "52 Kedzie buses are temporarily rerouted via Kedzie, 31st, California, Archer and Kedzie: due to, police activity near Kedzie/Pershing.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>#52 Kedzie buses are temporarily rerouted via Kedzie, 31st, California, Archer, Kedzie and over regular route: due to, police activity near Kedzie/Pershing.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-10-04T13:14:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110711"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kedzie",
-        "ServiceId": "52",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/kedzie/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f2556d0e-22e5-42bc-969b-6bf2580c5997"
-  },
-  {
     "AlertId": "110714",
     "Headline": "Red Line Delays",
     "ShortDescription": "Red Line trains are running with major delays near Wilson. Service is resuming, allow extra time.",
@@ -275,5 +241,73 @@
     },
     "ttim": "0",
     "GUID": "4ce8bff3-8219-41c5-bd95-22d1ea5eaa18"
+  },
+  {
+    "AlertId": "110716",
+    "Headline": "#39 Pershing Temporary Reroute near Kedzie/Pershing",
+    "ShortDescription": "39 Pershing buses are temporarily rerouted in both directions due to police activity near Kedzie/Pershing.",
+    "FullDescription": {
+      "#cdata-section": "<p>#39 Pershing buses are temporarily rerouted in both directions due to police activity near Kedzie/Pershing.</p>\r\n\r\n<p>Westbound buses will operate via Pershing, California, 36th Place, Albany, 36th St, and enter the terminal.</p>\r\n\r\n<p>Eastbound buses will leave the terminal and operate via California, Pershing, and resume normal route.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-04T15:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110716"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pershing",
+        "ServiceId": "39",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/39/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "569e2864-c0d8-40ee-9cb9-c1446286eaa8"
+  },
+  {
+    "AlertId": "110717",
+    "Headline": "#35 35th Temporary Reroute at Kedzie/Pershing",
+    "ShortDescription": "35 35th buses are rerouted in both directions via Kedzie, 31st, California, 36th Place, and resume normal route: due to police activity near Kedzie/Pershing.",
+    "FullDescription": {
+      "#cdata-section": "<p>#35 35th buses are temporarily rerouted in both directions via Kedzie, 31st, California, 36th Place, and resume normal route: due to police activity near Kedzie/Pershing.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-04T15:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110717"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "31st/35th",
+        "ServiceId": "35",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/35/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e43c6e85-79f7-42a2-a896-700b11487739"
   }
 ]
