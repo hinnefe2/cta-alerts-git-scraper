@@ -181,5 +181,73 @@
     },
     "ttim": "0",
     "GUID": "e43c6e85-79f7-42a2-a896-700b11487739"
+  },
+  {
+    "AlertId": "110724",
+    "Headline": "#6 Jackson Park Express Temporary Reroute at 75th/South Shore.",
+    "ShortDescription": "6 Jackson Park Exp buses are rr via 79th, South Shore Drive, Yates, 75th, then resume their normal route, due to fire department activity near 75th/South Shore.",
+    "FullDescription": {
+      "#cdata-section": "<p>#6 Jackson Park Express buses are temporarily rerouted via 79th, South Shore Drive, Yates, 75th, then resume their normal route, due to fire department activity near 75th/South Shore.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-04T21:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110724"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "1845aa81-725b-43a1-88b9-b3e4fc2c2aa6"
+  },
+  {
+    "AlertId": "110725",
+    "Headline": "#71 71st/South Shore Temporary Reroute near 75th/South Shore",
+    "ShortDescription": "#71 71st/South Shore buses are temporarily rerouted in both directions due to fire department activity near 75th/South Shore.",
+    "FullDescription": {
+      "#cdata-section": "<p>#71 71st/South Shore buses are temporarily rerouted in both directions due to fire department activity near 75th/South Shore.</p>\r\n\r\n<p><strong>Southbound </strong>buses will operate via 75th, Exchange, 79th, Exchange, 83rd, then resume normal route.</p>\r\n\r\n<p><strong>Northbound </strong>buses will operate via 79th, South Shore, 75th, Exchange, then resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-04T21:39:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110725"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a7211bff-ff96-4ffd-a601-14a3fd0ab66a"
   }
 ]
