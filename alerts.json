@@ -134,5 +134,52 @@
     },
     "ttim": "0",
     "GUID": "59eb88b3-75e2-458a-b76d-735d93c4c216"
+  },
+  {
+    "AlertId": "110761",
+    "Headline": "Loop-bound Brown Line Service Running with Delays",
+    "ShortDescription": "Loop-bound Brown Line trains are running with delays at Francisco.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Brown Line trains are running with delays at Francisco.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-10-06T20:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110761"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Francisco",
+          "ServiceId": "40870",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=58"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "28927162-312b-40cc-92e5-a84398bcd2f2"
   }
 ]
