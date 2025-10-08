@@ -102,87 +102,6 @@
     "GUID": "59eb88b3-75e2-458a-b76d-735d93c4c216"
   },
   {
-    "AlertId": "110765",
-    "Headline": "#47 47th and #44 Wallace/Racine Temporary Reroute at 47th/Peoria",
-    "ShortDescription": "47 47th and 44 Wallace/Racine buses are temporarily rerouted in both directions near 47th/Peoria, due to street blockage near 47th/Peoria.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#47 47th and #44 Wallace/Racine buses are temporarily rerouted in both directions near 47th/Peoria, due to street blockage near 47th/Peoria.</p>\r\n\r\n<p>#47 47th buses will operate via 47th, Racine, 51st, Halsted, 47th and over regular route.</p>\r\n\r\n<p>#44 Wallace/Racine&nbsp;buses will operate via Racine, 51st, Halsted, 47th and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-10-07T05:54:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110765"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Wallace/Racine",
-          "ServiceId": "44",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/44/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "47th",
-          "ServiceId": "47",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/47/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "1d584c5f-2302-4279-b0fb-72db63136391"
-  },
-  {
-    "AlertId": "110766",
-    "Headline": "#15 Jeffery Local Temporary Reroute at 51st/Woodlawn",
-    "ShortDescription": "15 Jeffery Local buses are temporarily rerouted via Lake Park, 55th, Cottage Grove and 51st: due to, fire department activity near 51st/Woodlawn.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#15 Jeffery Local buses are temporarily rerouted in both directions via Lake Park, 55th, Cottage Grove, 51st and over regular route, due to fire department activity near 51st/Woodlawn.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-10-07T06:12:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110766"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jeffery Local",
-        "ServiceId": "15",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/15/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ae8eca99-0cc5-4dde-aa33-76184d43b0c4"
-  },
-  {
     "AlertId": "110768",
     "Headline": "#43 43rd Temporary Eastbound Reroute near Root/Normal",
     "ShortDescription": "Eastbound 43 43rd buses are temporarily rerouted via Root, Wallace, Pershing, Princeton and Root: due to, street blockage near Root/Normal.",
@@ -215,39 +134,5 @@
     },
     "ttim": "0",
     "GUID": "22804c70-a8b3-41b4-947e-6033ae91e32d"
-  },
-  {
-    "AlertId": "110807",
-    "Headline": "#82 Kimball-Homan Temporary Reroute at Homan/Douglass",
-    "ShortDescription": "82 Kimball-Homan buses are temporarily rerouted via Homan, Roosevelt, Central Park, Douglass due to, street blockage near Homan/Douglass.",
-    "FullDescription": {
-      "#cdata-section": "<p>#82 Kimball-Homan buses are temporarily rerouted in both directions via Homan, Roosevelt, Central Park, Douglass and resume normal route, due to street blockage near Homan/Douglass.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-10-07T18:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110807"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "1845b1e0-2d5c-4f28-8d94-47cffd7cbfd5"
   }
 ]
