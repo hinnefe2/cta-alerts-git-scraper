@@ -38,12 +38,12 @@
     "Headline": "Blue Line Service Delayed at Montrose",
     "ShortDescription": "Blue Line trains are standing at Montrose due to a medical emergency on the tracks. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are standing at Montrose due to a medical emergency on the tracks.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are standing at Montrose due to a medical emergency on the tracks.&nbsp;</p>\r\n\r\n<p>Shuttle buses have been requested to provide connecting service between Harlem(O&#39;Hare) and Damen/Milwaukee to provide connecting service.</p>\r\n\r\n<p>At this time, consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines while we work to provide alternatives.</p>\r\n\r\n<p>This may include:<br />\r\n#78 Montrose<br />\r\n#56 Milwaukee<br />\r\n#53 Irving Park<br />\r\n#152 Addison<br />\r\n#77 Belmont</p>\r\n\r\n<p>See station personnel for further assistance and pay attention to announcements on trains and at stations for the latest service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2025-10-11T20:53:00",
     "EventEnd": null,
     "TBD": "1",
@@ -65,6 +65,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "5027f2e7-622c-400d-8e76-76c6d2b5353d"
+    "GUID": "6843a5fb-d55b-4ab9-8dae-c45a4ff24847"
+  },
+  {
+    "AlertId": "110872",
+    "Headline": "No Trains Between Harlem (O'Hare Branch) and Damen/Milwaukee",
+    "ShortDescription": "Blue Line service has been temporarily suspended between Harlem (O'Hare Branch) and Damen/Milwaukee due to a medical emergency on the tracks near Montrose.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line service has been temporarily suspended between Harlem (O&#39;Hare Branch)&nbsp;and Damen/Milwaukee&nbsp;due to a medical emergency on the tracks near Montrose.</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li><strong>between O&#39;Hare&nbsp;and Harlem (O&#39;Hare Branch)&nbsp;</strong>and,</li>\r\n\t<li><strong>between Damen and Forest Park</strong>, only.</li>\r\n</ul>\r\n\r\n<p>Shuttle buses have been requested between Harlem and Damen to provide connecting service.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#78 Montrose<br />\r\n#56 Milwaukee<br />\r\n#80&nbsp;Irving Park<br />\r\n#152 Addison<br />\r\n#77 Belmont</p>\r\n\r\n<p>See station personnel for further assistance and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.<br />\r\n&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2025-10-11T21:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110872"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3a3fbd8b-9ccb-453f-bee6-01a71a409f6c"
   }
 ]
