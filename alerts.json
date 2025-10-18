@@ -168,5 +168,97 @@
     },
     "ttim": "0",
     "GUID": "d7588bf4-5c91-46ce-91ef-820073d64ca3"
+  },
+  {
+    "AlertId": "110983",
+    "Headline": "#20 Madison, #56 Milwaukee & #60 Blue Island/26th Temporary Eastbound Reroute near Washington/LaSalle",
+    "ShortDescription": "Eastbound 20 Madison, # Milwaukee & 60 Blue Island/26th buses are temporarily rerouted via Washington, LaSalle, Madison, due to a Parade near Washington/LaSalle",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #20 Madison, #56 Milwaukee &amp; #60 Blue Island/26th buses are temporarily rerouted via Washington, LaSalle, and Madison, then resume their normal route, due to a Parade near Washington/LaSalle.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-18T15:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110983"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Madison",
+          "ServiceId": "20",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/20/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Milwaukee",
+          "ServiceId": "56",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/56/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Blue Island/26th",
+          "ServiceId": "60",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/60/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "24a1ba80-629f-4757-a5c4-597084a91fe6"
+  },
+  {
+    "AlertId": "110984",
+    "Headline": "# 124 Navy Pier Temporary Eastbound Reroute near Washington/LaSalle",
+    "ShortDescription": "Eastbound # 124 Navy Pier buses are temporarily rerouted via Washington, LaSalle, Dearborn, Illinois and Columbus, due to a Parade near Washington/LaSalle.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound # 124 Navy Pier buses are temporarily rerouted via Washington, LaSalle, Dearborn, Illinois and Columbus, then resume their normal route, due to a Parade near Washington/LaSalle.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-18T15:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110984"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Navy Pier",
+        "ServiceId": "124",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/124/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "aede1837-fa61-47bc-a602-9fe807b535ef"
   }
 ]
