@@ -66,5 +66,73 @@
     },
     "ttim": "0",
     "GUID": "381e0746-996d-428b-90e0-f62d7acedd6a"
+  },
+  {
+    "AlertId": "110975",
+    "Headline": "#63 63rd Temporary Reroute at 63rd/LaSalle",
+    "ShortDescription": "#63 63rd buses are temporarily rerouted via 63rd, Wentworth, 59th, State, then resume their normal route at 63rd, due to street blockage near 63rd/LaSalle.",
+    "FullDescription": {
+      "#cdata-section": "<p>#63 63rd buses are temporarily rerouted in both directions via 63rd, Wentworth, 59th, State, then resume their normal route at 63rd, due to street blockage near 63rd/LaSalle.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-18T12:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110975"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "99df0f60-4b12-49f1-b3ea-3056e63a2c62"
+  },
+  {
+    "AlertId": "110976",
+    "Headline": " Brown Line Service Experiencing Minor Delays Due to Bridge Lift",
+    "ShortDescription": "Brown Line service is experiencing delays due to a raised bridge over the Chicago River, downtown.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line service is experiencing delays due to a raised bridge over the Chicago River, downtown.</p>\r\n\r\n<p>Shuttle buses are available between Merchandise Mart and Clark/Lake to provide connecting service.<br />\r\n&nbsp;<br />\r\nSome trains may be held in stations or turned back towards Kimball before reaching the bridge to maintain service across the remainder of the route. Bus shuttle service is available at Merchandise Mart and Clark/Lake. Listen for announcements and check train destination signs when boarding. Crews are working to correct the problem to allow us to safely resume service.<br />\r\n&nbsp;<br />\r\nWe apology for this temporary inconvenience and appreciate your patience while the Dept. of Bridge works to complete the bridge lift operation.&nbsp; Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-10-18T12:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110976"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "31d3502c-0856-4bfe-8356-bf10c3a04907"
   }
 ]
