@@ -260,5 +260,97 @@
     },
     "ttim": "0",
     "GUID": "aede1837-fa61-47bc-a602-9fe807b535ef"
+  },
+  {
+    "AlertId": "110985",
+    "Headline": "J14 Jeffrey Jump Temporary Reroute near Washington/LaSalle",
+    "ShortDescription": "J14 Jeffrey Jump buses are temporarily rerouted in both directions, due to a parade near Washington/LaSalle.",
+    "FullDescription": {
+      "#cdata-section": "<p>J14 Jeffrey Jump buses are temporarily rerouted in both directions, due to a parade near Washington/LaSalle.</p>\r\n\r\n<p>Southbound buses will operate via Washington, LaSalle, Adams, Clinton, Harris and&nbsp; Balbo then resume their normal route.</p>\r\n\r\n<p>Northbound buses will operate via Balbo, Michigan, Harrison, Randolph and Washington then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-18T15:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110985"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Jump",
+        "ServiceId": "J14",
+        "ServiceBackColor": "0065BD",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "727ca92e-0370-4761-89f7-fe9f8fb06df1"
+  },
+  {
+    "AlertId": "110986",
+    "Headline": "63rd-bound Green and Loop 'L' Line Service Delayed at Roosevelt ",
+    "ShortDescription": "63rd-bound Green and Loop 'L' Line trains are standing at Roosevelt due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>63rd-bound Green and Loop &#39;L&#39; Line&nbsp;trains are standing at Roosevelt due to a sick customer.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-10-18T15:39:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110986"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1022fddb-b6d7-45c7-a855-3e4f2f145646"
   }
 ]
