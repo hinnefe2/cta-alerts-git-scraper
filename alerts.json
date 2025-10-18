@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "110960",
-    "Headline": "#66 Chicago Temporary Reroute at Chicago/Western",
-    "ShortDescription": "#66 Chicago buses are temporarily rerouted in both directions via Chicago, Western, Grand, Damen, and Chicago, due to a street blockage near Chicago/Western. \r\n",
-    "FullDescription": {
-      "#cdata-section": "<p>#66 Chicago buses are temporarily rerouted in both directions via Chicago, Western, Grand, Damen, and Chicago, then resume their normal route: due to a street blockage near Chicago/Western.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-10-17T14:52:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110960"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Chicago",
-        "ServiceId": "66",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/66/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6f7c64cb-2041-4531-8b2d-889fbccfd23e"
-  },
-  {
     "AlertId": "110963",
     "Headline": "#63 63rd Temporary Reroute at 63rd/Sacramento",
     "ShortDescription": "63 63rd buses are temporarily rerouted in both directions via 63rd, Kedzie, Marquette, California and 63rd, due to fire department activity near 63rd/Sacramento",
@@ -100,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "6a4c04e4-815e-411b-bc22-292460281c69"
-  },
-  {
-    "AlertId": "110969",
-    "Headline": "#75 74th/75th Temporary Reroute near 75th/Wentworth",
-    "ShortDescription": "75 74th/75th rr EB via 75th, Stewart, 76th, Lafayette & over normal rte; WB via State, 76th, Stewart, and 75th due to blockage nr 75th/Wentworth\r\n \r\n",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>#75 74th/75th buses are temporarily rerouted in both directions due to street blockage near 75th/Wentworth.</strong></p>\r\n\r\n<p><strong>Eastbound </strong>buses will operate via 75th, Stewart, 76th, Lafayette, then resume their normal route.</p>\r\n\r\n<p><strong>Westbound</strong> buses will operate via State, 76th, Stewart, 75th, then resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-10-17T22:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110969"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "74th-75th",
-        "ServiceId": "75",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/75/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6256f6e7-319c-4680-b983-4e81740aa157"
   }
 ]
