@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "110968",
-    "Headline": "#67 67th/69th/71st Temporary Reroute at 71st/Lawndale",
-    "ShortDescription": "#67 67th/69th/71st buses are temporarily rerouted via 71st, Kedzie, Marquette, Pulaski, then resume their normal route, due to street blockage nr 71st/Lawndale.",
+    "Headline": "#67 67th/69th/71st Temporary Westbound Reroute near 71st/Lawndale",
+    "ShortDescription": "Westbound #67 67th/69th/71st buses are temporarily rerouted via 71st, Kedzie, Marquette, Pulaski, due to street blockage near 71st/Lawndale.",
     "FullDescription": {
-      "#cdata-section": "<p>#67 67th/69th/71st buses are temporarily rerouted in both directions via 71st, Kedzie, Marquette, Pulaski, then resume their normal route, due to street blockage near 71st/Lawndale.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #67 67th/69th/71st buses are temporarily rerouted via 71st, Kedzie, Marquette, Pulaski, then resume their normal route, due to street blockage near 71st/Lawndale.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -31,7 +31,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "6a4c04e4-815e-411b-bc22-292460281c69"
+    "GUID": "cd41d1a8-ba79-4349-8d25-4ce5df6db0be"
   },
   {
     "AlertId": "110974",
@@ -134,40 +134,6 @@
     },
     "ttim": "0",
     "GUID": "86af81e2-27e7-4d25-bd52-cc6759c99050"
-  },
-  {
-    "AlertId": "110980",
-    "Headline": "#126 Jackson Temporary Reroute at Jackson/St.Louis",
-    "ShortDescription": "#126 Jackson buses are temporarily rerouted in both directions via Jackson, Central Park, Madison, Homan, due to fire department activity near Jackson/St.Louis.",
-    "FullDescription": {
-      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted in both directions via Jackson, Central Park, Madison, Homan and Jackson, then resume their normal route, due to fire department activity near Jackson/St.Louis</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-10-18T14:15:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=110980"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson",
-        "ServiceId": "126",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/126/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d7588bf4-5c91-46ce-91ef-820073d64ca3"
   },
   {
     "AlertId": "110983",
