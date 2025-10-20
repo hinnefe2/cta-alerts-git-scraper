@@ -45,5 +45,52 @@
     },
     "ttim": "0",
     "GUID": "6f631370-a24d-4ea4-9106-efd8caca47f6"
+  },
+  {
+    "AlertId": "111018",
+    "Headline": "#47 47th and #48 South Damen Temporary Reroute near 47th/Hoyne",
+    "ShortDescription": "47 47th and 48 South Damen buses are temporarily rerouted in both directions near 47th/Hoyne, due to street blockage near 47th/Hoyne.",
+    "FullDescription": {
+      "#cdata-section": "<p>#47 47th and #48 South Damen buses are temporarily rerouted in both directions near 47th/Hoyne, due to street blockage near 47th/Hoyne.</p>\r\n\r\n<p>Westbound #47 47th buses will operate via 47th, Damen, 51st, Western, 47th and over regular route.</p>\r\n\r\n<p>Northbound #48 Damen buses will operate via Damen, 51st, Western and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-20T10:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111018"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "47th",
+          "ServiceId": "47",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/47/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Damen",
+          "ServiceId": "48",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "565a5c",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/48/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e92c91f3-8ce9-4227-bc92-5e4d8a0c198c"
   }
 ]
