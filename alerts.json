@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "67725578-62b2-4f10-9dac-67c0d85cced5"
+  },
+  {
+    "AlertId": "111013",
+    "Headline": "Howard- bound Red Line Delays",
+    "ShortDescription": "Howard- bound Red Line trains are running w/residual delays at Jackson. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard- bound Red Line trains are running w/residual delays at Jackson.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-10-20T05:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111013"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Jackson",
+          "ServiceId": "40560",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=76"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d3506a21-c4eb-4525-b124-51103f422349"
   }
 ]
