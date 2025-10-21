@@ -128,53 +128,6 @@
     "GUID": "1fea80dc-8e4a-4246-a430-99481c8c3025"
   },
   {
-    "AlertId": "111041",
-    "Headline": "#34 South Michigan and #119 Michigan/119th Temporary Reroute at Michigan/107th",
-    "ShortDescription": "34 South Michigan and #119 Michigan/119th buses are temp. rerouted via Michigan, 107th, State, 103rd and Michigan: due to, street blockage near Michigan/107th.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#34 South Michigan&nbsp;and #119 Michigan/119th buses are temporarily rerouted in bo.th directions via Michigan, 107th, State, 103rd, Michigan and over regular route, due to street blockage near Michigan/107th.</p>\r\n\r\n<p>Allow extra travel time</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-10-21T09:45:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111041"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "South Michigan",
-          "ServiceId": "34",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/34/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Michigan/119th",
-          "ServiceId": "119",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/119/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "2e3e4e82-edc8-4ecf-8533-0fdb8fde2353"
-  },
-  {
     "AlertId": "111043",
     "Headline": "#66 Chicago Temporary Reroute at Chicago/Kedzie",
     "ShortDescription": "66 Chicago buses are temporarily rerouted via Chicago, Kedzie, Augusta, Homan and Chicago: due to, street blockage near Chicago/Kedzie.",
@@ -207,39 +160,5 @@
     },
     "ttim": "0",
     "GUID": "fb4f4fb4-e230-4be8-a2ea-e4b7fe0a9cb8"
-  },
-  {
-    "AlertId": "111044",
-    "Headline": "#47 47th Temporary Reroute at 47th/Justine",
-    "ShortDescription": "47 47th buses are temporarily rerouted via 47th, Ashland, 51st, Racine and 47th: due to, street blockage near 47th/ Justine.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#47 47th&nbsp; buses are temporarily rerouted in both directions via 47th, Ashland, 51st, Racine, 47th and&nbsp; over regular route, due to street&nbsp; blockage near 47th/Justine.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-10-21T10:41:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111044"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "47th",
-        "ServiceId": "47",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/47/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "34bd8b2e-f787-4b31-9c99-8de103690f8a"
   }
 ]
