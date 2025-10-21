@@ -1,52 +1,5 @@
 [
   {
-    "AlertId": "111016",
-    "Headline": "#9 Ashland, #X9 Ashland Express Temporary Southbound Reroute near Ashland/74th Place",
-    "ShortDescription": "Southbound 9 Ashland, X9 Ashland Express buses are temporarily rerouted: due to, street blockage near Ashland/74th Place.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #9 Ashland, #X9 Ashland Express buses are temporarily rerouted via Ashland, 74th, Damen, 76th and Ashland: due to, street blockage near Ashland/74th Place.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-10-20T08:11:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111016"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ashland",
-          "ServiceId": "9",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/9/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ashland Express",
-          "ServiceId": "X9",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "00a078",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "6f631370-a24d-4ea4-9106-efd8caca47f6"
-  },
-  {
     "AlertId": "111018",
     "Headline": "#47 47th and #48 South Damen Temporary Reroute near 47th/Hoyne",
     "ShortDescription": "47 47th and 48 South Damen buses are temporarily rerouted in both directions near 47th/Hoyne, due to street blockage near 47th/Hoyne.",
@@ -92,74 +45,6 @@
     },
     "ttim": "0",
     "GUID": "aa6cbafe-c84c-4c51-bdb8-82179b8ce514"
-  },
-  {
-    "AlertId": "111024",
-    "Headline": "#75 74th-75th Temporary Eastbound  Reroute near 74th/Ashland",
-    "ShortDescription": "Eastbound #75 74th-75th buses are temp rerouted via Ashland, 71st, Loomis and 74th, then resume their normal route: due to street blockage near 74th/Ashland.\r\n",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #75 74th-75th buses are temporarily rerouted via Ashland, 71st, Loomis and 74th, then resume their normal route: due to street blockage near 74th/Ashland.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-10-20T15:19:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111024"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "74th-75th",
-        "ServiceId": "75",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/75/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "1fea80dc-8e4a-4246-a430-99481c8c3025"
-  },
-  {
-    "AlertId": "111043",
-    "Headline": "#66 Chicago Temporary Reroute at Chicago/Kedzie",
-    "ShortDescription": "66 Chicago buses are temporarily rerouted via Chicago, Kedzie, Augusta, Homan and Chicago: due to, street blockage near Chicago/Kedzie.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#66 Chicago buses are temporarily rerouted in both directions via Chicago, Kedzie, Augusta, Homan, Chicago and over regular route due to Chicago/Kedzie near Chicago/Kedzie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-10-21T09:55:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111043"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Chicago",
-        "ServiceId": "66",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/66/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "fb4f4fb4-e230-4be8-a2ea-e4b7fe0a9cb8"
   },
   {
     "AlertId": "111050",
