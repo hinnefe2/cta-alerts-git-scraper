@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "8c9d369d-dbfa-466f-803a-f5da7f60d0a0"
+  },
+  {
+    "AlertId": "111060",
+    "Headline": "#34 South Michigan and #119 Michigan/119th Temporary Reroute near Michigan/107th",
+    "ShortDescription": "#34 South Michigan and #119 Michigan/119th buses are temp. rerouted via Michigan, 107th, State, 103rd and Michigan, due to street blockage near Michigan/107th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#34 South Michigan and #119 Michigan/119th buses are temporarily rerouted in both directions via Michigan, 107th, State, 103rd, Michigan and over regular route, due to street blockage near Michigan/107th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-22T09:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111060"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Michigan",
+          "ServiceId": "34",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/34/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Michigan/119th",
+          "ServiceId": "119",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/119/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f7d6ba78-1805-4b1c-a89d-934e135dc941"
   }
 ]
