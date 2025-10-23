@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "AlertId": "111070",
+    "Headline": "#54B South Cicero, #47 47th and #62H Archer/Harlem Temporary Reroute near Cicero/Archer",
+    "ShortDescription": "54B South Cicero, 47 47th and 62h Archer/Harlem buses are temporarily rerouted in both directions near Cicero/Archer, due to street blockage near Cicero/Archer.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#54B South Cicero, #47 47th and #62H&nbsp;Archer/Harlem buses are temporarily rerouted in both directions near Cicero/Archer, due to street blockage near Cicero/Archer.</p>\r\n\r\n<p>Westbound #47 47th&nbsp;buses will operate via Cicero, Archer, Pulaski, 59th and over regular route.</p>\r\n\r\n<p>Southbound #54B South Cicero buses will operate via Cicero, Archer, Pulaski, 59th and over regular route.</p>\r\n\r\n<p>Eastbound #62H Archer/Harlem buses will operate via Archer, Pulaski, 59th and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-23T07:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111070"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "47th",
+          "ServiceId": "47",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/47/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Cicero",
+          "ServiceId": "54B",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/54b/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer/Harlem",
+          "ServiceId": "62H",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62h/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "0e64cd24-9f24-44a5-9809-36db4dd763df"
+  }
+]
