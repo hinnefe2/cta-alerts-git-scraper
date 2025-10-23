@@ -134,5 +134,39 @@
     },
     "ttim": "0",
     "GUID": "6de7c797-6f21-4a9c-b7e2-1db1d846b518"
+  },
+  {
+    "AlertId": "111092",
+    "Headline": "Red Line Service Running with Delays",
+    "ShortDescription": "Red Line trains are running with delays at 47th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running w/residual delays following an earlier stalled train at 47th.&nbsp;</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-10-23T16:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111092"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "31e85b4e-3810-4957-9a53-7d8cf5ccdcae"
   }
 ]
