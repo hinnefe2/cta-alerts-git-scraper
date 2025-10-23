@@ -1,49 +1,70 @@
 [
   {
-    "AlertId": "111060",
-    "Headline": "#34 South Michigan and #119 Michigan/119th Temporary Reroute near Michigan/107th",
-    "ShortDescription": "#34 South Michigan and #119 Michigan/119th buses are temp. rerouted via Michigan, 107th, State, 103rd and Michigan, due to street blockage near Michigan/107th.",
+    "AlertId": "111067",
+    "Headline": " #35 31st/35th Temporary Reroute at 35th/King Drive",
+    "ShortDescription": " #35 31st/35th buses are temporarily rerouted in both directions via 35th, Indiana, 33rd, King Drive, and 35th, due to police activity near 35th/King Drive.\r\n",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#34 South Michigan and #119 Michigan/119th buses are temporarily rerouted in both directions via Michigan, 107th, State, 103rd, Michigan and over regular route, due to street blockage near Michigan/107th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>&nbsp;#35 31st/35th buses are temporarily rerouted in both directions via 35th, Indiana, 33rd, King Drive, and 35th, then resume their normal route, due to police activity near 35th/King Drive.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-10-22T09:41:00",
+    "EventStart": "2025-10-22T20:19:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111060"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111067"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "South Michigan",
-          "ServiceId": "34",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/34/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Michigan/119th",
-          "ServiceId": "119",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/119/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "31st/35th",
+        "ServiceId": "35",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/35/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "f7d6ba78-1805-4b1c-a89d-934e135dc941"
+    "GUID": "52bfe89e-3e68-40d4-8387-1090492828e1"
+  },
+  {
+    "AlertId": "111068",
+    "Headline": "#4 Cottage Grove Temporary Reroute near 35th/King Drive",
+    "ShortDescription": "#4 Cottage Grove buses are temporarily rerouted in both directions due to police activity near 35th/King Drive.",
+    "FullDescription": {
+      "#cdata-section": "<p>#4 Cottage Grove buses are temporarily rerouted in both directions due to police activity near 35th/King Drive.</p>\r\n\r\n<p>Southbound buses will operate via Michigan, 33rd, King Drive and 5th, then resume their normal route.</p>\r\n\r\n<p>Northbound buses will operate via 35th, King Drive, 33rd and Indiana, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-22T20:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111068"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cottage Grove",
+        "ServiceId": "4",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/4/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "16d3c804-e88e-4f6a-a589-ede65085b034"
   }
 ]
