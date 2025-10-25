@@ -34,40 +34,6 @@
     "GUID": "4023a6bd-da6f-49a1-bae5-525499b6c7d6"
   },
   {
-    "AlertId": "111102",
-    "Headline": "#50 Damen Temporary Northbound Reroute near Ashland/Clark",
-    "ShortDescription": "Northbound 50 Damen buses are temporarily rerouted via Ashland, Bryn Mawr, Clark and Catalpa: due to, street blockage near Ashland/Clark.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Northbound #50 Damen buses are temporarily rerouted via Ashland, Bryn Mawr, Clark, Catalpa and over regular route: due to, street blockage near Ashland/Clark.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-10-24T12:13:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111102"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Damen",
-        "ServiceId": "50",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/50/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e0feab6c-019e-4f02-bb29-c6662826fbaf"
-  },
-  {
     "AlertId": "111107",
     "Headline": "#72 North Temporary Westbound Reroute near North Avenue/Sedgwick",
     "ShortDescription": "Westbound 72 North buses are temporarily rerouted via North Avenue, Sedgwick, Black Hawk, Larabee, then resume normal route, due to street blockage. ",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "f7533135-a0cd-4fe1-8ad6-44c3f1b1eb30"
+  },
+  {
+    "AlertId": "111108",
+    "Headline": "#115 Pullman/115th Temporary Reroute at 115th/Stewart",
+    "ShortDescription": "115 Pullman/115th buses are temporarily rerouted via 115th, Wentworth, 119th, Halsted, 115th and over regular route due to, street blockage near 115th/Stewart.",
+    "FullDescription": {
+      "#cdata-section": "<p>#115 Pullman/115th buses are temporarily rerouted in both directions via 115th, Wentworth, 119th, Halsted, 115th and over regular route, due to a street blockage near 115th/Stewart.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-24T20:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111108"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pullman/115th",
+        "ServiceId": "115",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/115/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "1111fbd9-4b50-474a-a3d7-1f55f47d41cc"
   }
 ]
