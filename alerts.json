@@ -32,5 +32,86 @@
     },
     "ttim": "0",
     "GUID": "8e934e6f-303a-4535-9290-40e9787ed5cd"
+  },
+  {
+    "AlertId": "111115",
+    "Headline": "#62 Archer &  #62H Archer/Harlem Temporary Reroute at Archer/Harlem",
+    "ShortDescription": "#62 Archer &  #62H Archer/Harlem buses are rr via Archer, Austin, 63rd & Archer Road (63rdW Terminal), due to a parade/festival near Archer/Harlem.",
+    "FullDescription": {
+      "#cdata-section": "<p>#62 Archer and&nbsp; #62H Archer/Harlem buses are temporarily rerouted in both directions via Archer, Austin, 63rd, Archer Road (63rdW Terminal), then resume their normal route, due to a parade/festival near Archer/Harlem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-25T11:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111115"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer/Harlem",
+          "ServiceId": "62H",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62h/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "20a3dcd1-58d0-41fb-98eb-dadb4c8bc6ab"
+  },
+  {
+    "AlertId": "111116",
+    "Headline": "#55N 55th/Narragansett Temporary Reroute at Archer/Harlem",
+    "ShortDescription": "#55N 55th/Narragansett buses are temporarily rerouted via 55th, Austin, 63rd, Narragansett, 63rd & into the Terminal, due to a parade/festival nr Archer/Harlem.",
+    "FullDescription": {
+      "#cdata-section": "<p>#55N 55th/Narragansett buses are temporarily rerouted in both directions via 55th, Austin, 63rd, Narragansett, 63rd and into the Terminal, then resume their normal route due to a parade/festival near Archer/Harlem.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-25T11:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111116"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "55th/Narragansett",
+        "ServiceId": "55N",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/55n/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "aa014ed3-9adc-4953-95bc-97974f9c436b"
   }
 ]
