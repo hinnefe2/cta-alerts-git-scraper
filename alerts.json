@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "111193",
-    "Headline": "Red and Purple Line Service Delayed at Howard",
-    "ShortDescription": "Red and Purple Line trains are standing at Howard due to signal problems. Crews working to restore service.",
+    "Headline": "Red and Purple Line Delays",
+    "ShortDescription": "Red and Purple Line trains are running w/residual delays following earlier signal problems at Howard. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Red and Purple&nbsp;Line trains are standing at Howard due to signal problems.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red and Purple Line trains are running w/residual delays following earlier signal problems at Howard.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -100,6 +100,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "de84ded7-d344-42ac-9ec3-5c78da822c70"
+    "GUID": "22417997-961a-4c1f-a286-784dcc5c2093"
+  },
+  {
+    "AlertId": "111194",
+    "Headline": "#56 Milwaukee Temporary Reroute at Milwaukee/Fullerton",
+    "ShortDescription": "56 Milwaukee buses are temporarily rerouted: due to, street blockage near Milwaukee/Fullerton.",
+    "FullDescription": {
+      "#cdata-section": "<p>#56 Milwaukee buses are temporarily rerouted via Milwaukee, Fullerton, Sacramento and Milwaukee: due to, street blockage near Milwaukee/Fullerton.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-28T09:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111194"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Milwaukee",
+        "ServiceId": "56",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/56/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "400ac193-1364-44b6-9940-dfd23fe4632a"
   }
 ]
