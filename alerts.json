@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "AlertId": "111226",
+    "Headline": "#29 State, #62 Archer and #146 Inner Drive/ Michigan Express Temporary Reroute near State/Roosevelt",
+    "ShortDescription": "29 State, 62 Archer and 146 Inner Drive/Michigan Express buses are temp. rerouted near State/Roosevelt, due to police activity near State/Roosevelt.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#29 State, #62 Archer and #146 Inner Drive/Michigan Express buses are temporarily rerouted near State/Roosevelt, due to police activity near State/Roosevelt.</p>\r\n\r\n<p>Northbound #29 State&nbsp;and #62 Archer buses will operate via State, Roosevelt, Michigan, 9th, State and over regular route.</p>\r\n\r\n<p>Northbound #146 inner Drive/Michigan Express buses will operate via Roosevelt, Michigan, 9th, State and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-10-29T22:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111226"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "State",
+          "ServiceId": "29",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/29/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "de5b3848-f86a-4f51-93ba-45317052a540"
+  }
+]
