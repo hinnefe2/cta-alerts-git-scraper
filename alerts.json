@@ -1,52 +1,5 @@
 [
   {
-    "AlertId": "111295",
-    "Headline": "#87 87th Temporary Westbound Reroute near 91st/Brandon",
-    "ShortDescription": "87 87th and 26 South Shore Express buses are temporarily rerouted in both directions near 91st/Brandon, due to street blockage near 91st/Brandon.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#87 87th and #26 South Shore Express buses are temporarily rerouted in both directions near 91st/Brandon, due to street blockage near 91st/Brandon.</p>\r\n\r\n<p>Westbound #87 87th buses will operate via 91st, Baltimore, 90th, Houston and over regular route.</p>\r\n\r\n<p>Northbound #26 South Shore Express buses will operate via 91st, Baltimore, 90th, Houston and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-04T12:55:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111295"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "South Shore Express",
-          "ServiceId": "26",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/26/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "87th",
-          "ServiceId": "87",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/87/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "8cef0bce-040e-4f35-84fe-6d52e35f0a55"
-  },
-  {
     "AlertId": "111300",
     "Headline": "#8 Halsted and #44 Wallace/Racine Temporary Reroute near Halsted/43rd",
     "ShortDescription": "8 Halsted and 44 Wallace/Racine buses are temporarily rerouted in both directions near Halsted/43rd, due to street blockage near Halsted/43rd.",
@@ -194,5 +147,39 @@
     },
     "ttim": "0",
     "GUID": "044936bb-1f77-4adf-853c-1672fae4be95"
+  },
+  {
+    "AlertId": "111324",
+    "Headline": "Harlem-bound Green Line Service Delayed near California",
+    "ShortDescription": "Harlem-bound Green Line trains are standing at California due to an obstruction. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green Line trains are standing at California due to an obstruction.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-11-05T12:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111324"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "036a8c33-d2d0-4b9f-9d65-791ecb6478d9"
   }
 ]
