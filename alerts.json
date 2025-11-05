@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "111294",
-    "Headline": "#56 Milwaukee Temporary Reroute at Milwaukee/Oakley",
-    "ShortDescription": "56 Milwaukee  buses are temporarily rerouted via Milwaukee, Damen ,North Ave., Western and Milwaukee: due to, street blockage near Milwaukee/Oakley.",
-    "FullDescription": {
-      "#cdata-section": "<p>#56 Milwaukee&nbsp; buses are temporarily rerouted via Milwaukee, Damen ,North Ave., Western and Milwaukee: due to, street blockage near Milwaukee/Oakley.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-04T11:30:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111294"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Milwaukee",
-        "ServiceId": "56",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/56/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "485c31ea-2934-47aa-bfe9-8e18bc044e02"
-  },
-  {
     "AlertId": "111295",
     "Headline": "#87 87th Temporary Westbound Reroute near 91st/Brandon",
     "ShortDescription": "87 87th and 26 South Shore Express buses are temporarily rerouted in both directions near 91st/Brandon, due to street blockage near 91st/Brandon.",
@@ -162,40 +128,6 @@
     "GUID": "e9a0ba90-f50f-4300-b113-9039ea39fcc3"
   },
   {
-    "AlertId": "111301",
-    "Headline": "#20 Madison Temporary Eastbound Reroute near Madison/Homan",
-    "ShortDescription": "Eastbound 20 Madison buses are temporarily rerouted via Madison, Homan, Washington, Sacramento and Madison: near Madison/Homan",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Eastbound #20 Madison buses are temporarily rerouted via Madison, Homan, Washington, Sacramento, Madison and over regular route&nbsp;due to street blockage near Madison/Homan.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-04T19:11:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111301"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Madison",
-        "ServiceId": "20",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/20/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "9071ada0-c60d-4c2b-b1c2-0cf740c7dad6"
-  },
-  {
     "AlertId": "111303",
     "Headline": "#54 Cicero Temporary Northbound Reroute near Cicero/18th",
     "ShortDescription": "Northbound 54 Cicero buses are temporarily rerouted via Cicero, 16th, Kostner, Roosevelt and Cicero: due to, street blockage near Cicero/18th.",
@@ -228,5 +160,39 @@
     },
     "ttim": "0",
     "GUID": "33d1624d-2888-4f69-a5e2-3826c4b0cd21"
+  },
+  {
+    "AlertId": "111305",
+    "Headline": "#20 Madison Temporary Reroute near Madison/Wood",
+    "ShortDescription": "20 Madison buses are temporarily rerouted in both directions near Madison/Wood, due to street blockage near Madison/Wood.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#20 Madison buses are temporarily rerouted in both directions near Madison/Wood, due to street blockage near Madison/Wood.</p>\r\n\r\n<p>Eastbound#20 Madison buses will operate via Madison, Damen, Warren, Paulina, Damen, Madison and over regular route.</p>\r\n\r\n<p>Westbound #20 Madison&nbsp;buses will operate via Madison, Paulina, Washington, Damen, Madison and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-04T20:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111305"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "16193d1b-da2a-4673-98b5-0427a1c7d07e"
   }
 ]
