@@ -113,5 +113,52 @@
     },
     "ttim": "0",
     "GUID": "b02af956-b0a6-4af2-a2e4-4f18adff5199"
+  },
+  {
+    "AlertId": "111300",
+    "Headline": "#8 Halsted and #44 Wallace/Racine Temporary Reroute near Halsted/43rd",
+    "ShortDescription": "8 Halsted and 44 Wallace/Racine buses are temporarily rerouted in both directions near Halsted/43rd, due to street blockage near Halsted/43rd.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#8 Halsted and #44 Wallace/Racine buses are temporarily rerouted in both directions near Halsted/43rd, due to street blockage near Halsted/43rd.</p>\r\n\r\n<p>Southbound #8 Halsted buses will operate via Halsted, 43rd, Union, 47th, Halsted and over regular route.</p>\r\n\r\n<p>Northbound #8 Halsted buses will operate via Halsted, 47th, Union, 43rd, Halsted and over regular route.</p>\r\n\r\n<p>Southbound #44 Wallace/Racine buses will operate via Halsted, 43rd, Union, 47th, Halsted and over regular route.</p>\r\n\r\n<p>Northbound #44 Wallace/Racine buses will operate via Halsted, 47th, Union, 43rd, Halsted and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-04T17:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111300"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Halsted",
+          "ServiceId": "8",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/8/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Wallace/Racine",
+          "ServiceId": "44",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/44/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e9a0ba90-f50f-4300-b113-9039ea39fcc3"
   }
 ]
