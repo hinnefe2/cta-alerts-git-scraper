@@ -100,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "9c76ee5b-49d3-41ce-aead-aff765e4dadf"
+  },
+  {
+    "AlertId": "111362",
+    "Headline": "#54 Central Temporary Reroute at Chicago/Cicero",
+    "ShortDescription": "54 Central buses are rerouted via Cicero, Augusta, Laramie, Washington, Cicero then resume their normal route, due to a street blockage near Chicago/Cicero.",
+    "FullDescription": {
+      "#cdata-section": "<p>#54 Central buses are temporarily rerouted in both directions via Cicero, Augusta, Laramie, Washington, Cicero then resume their normal route, due to a street blockage near Chicago/Cicero.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-07T17:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111362"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cicero",
+        "ServiceId": "54",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "584d2fb2-f622-498d-84f4-6ffce228e9a5"
   }
 ]
