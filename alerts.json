@@ -537,15 +537,15 @@
   },
   {
     "AlertId": "111412",
-    "Headline": "No trains between Howard and Belmont",
-    "ShortDescription": "Red Line service has been temporarily suspended between Howard and Belmont due to a medical emergency on the tracks.",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running w/residual delays following an earlier medical emergency on the tracks at Howard. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line service has been temporarily suspended between Howard and Belmont due to a medical emergency on the tracks.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between 95th and Belmont&nbsp;at this time.</strong></p>\r\n\r\n<p><strong>Shuttle buses are available&nbsp;from Howard to Belmont to provide connecting service through the affected area.&nbsp;</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running w/residual delays following an earlier medical emergency on the tracks at Howard.</p>\r\n\r\n<p><strong>Shuttle busses are available from Howard to Belmont to provide connecting&nbsp;service through the affected area.</strong><br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2025-11-10T11:57:00",
     "EventEnd": null,
     "TBD": "1",
@@ -602,66 +602,19 @@
       ]
     },
     "ttim": "0",
-    "GUID": "1ff14cea-6d23-4b85-b63f-ee1a7aa5c2bd"
-  },
-  {
-    "AlertId": "111413",
-    "Headline": "Yellow Line Service Temporarily Suspended",
-    "ShortDescription": "Service on the Yellow Line has been temporarily suspended due to a medical emergency at Howard.",
-    "FullDescription": {
-      "#cdata-section": "<p>Service on the Yellow Line has been temporarily suspended due to a medical emergency at Howard.</p>\r\n\r\n<p><strong>Shuttle buses are available&nbsp;from Howard to Skokie&nbsp;to provide connecting service through the affected area.</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines. Consider using the #97 Skokie bus for alternate service,</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "90",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Suspended",
-    "EventStart": "2025-11-10T12:01:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "1",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111413"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Howard",
-          "ServiceId": "40900",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=71"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Yellow Line",
-          "ServiceId": "Y",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/yellowline/"
-          }
-        }
-      ]
-    },
-    "ttim": "1",
-    "GUID": "f1565b3c-80a9-4f19-aaf9-09a4540d70bb"
+    "GUID": "8690a479-95a1-43ed-ab78-c2e4c4651f03"
   },
   {
     "AlertId": "111414",
-    "Headline": "No trains between Howard and Linden",
-    "ShortDescription": "Purple Line service has been temporarily suspended between Howard and Linden due to a medical emergency on the tracks.",
+    "Headline": "Purple Line Delays",
+    "ShortDescription": "Purple Line trains are running w/residual delays following an earlier medical emergency at Howard. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Purple&nbsp;Line service has been temporarily suspended between Howard&nbsp;and Linden due to a medical emergency on the tracks.</p>\r\n\r\n<p><strong>Shuttle buses are now available&nbsp;from Howard to Linden to provide connecting service through the affected area.&nbsp;</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Purple Line trains are running w/residual delays following an earlier medical emergency at Howard.</p>\r\n\r\n<p><strong>Shuttle buses are available from Howard to Linden to provide connecting service through the affected area,</strong><br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2025-11-10T12:08:00",
     "EventEnd": null,
     "TBD": "1",
@@ -696,6 +649,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "7da7d7c3-97da-4035-90c5-5693ffdcb51c"
+    "GUID": "1ad63a39-bcc0-4110-bdc0-888944d5ba28"
   }
 ]
