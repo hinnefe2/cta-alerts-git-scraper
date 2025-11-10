@@ -202,5 +202,73 @@
     },
     "ttim": "0",
     "GUID": "b0565b46-0286-4881-8c26-2393d5a7f15b"
+  },
+  {
+    "AlertId": "111386",
+    "Headline": "#2 Hyde Park Express Temporary Reroute near  Lake Shore Drive",
+    "ShortDescription": "#2 Hyde Park Express buses are temporarily rerouted due to severe weather conditions near Lake Shore Drive.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#2 Hyde Park Express buses are temporarily rerouted due to severe weather conditions near Lake Shore Drive.</strong></p>\r\n\r\n<p><strong>Northbound </strong>buses will operate via Lake Park/47th, King Drive, Cermak, Michigan, Balbo, then resume their normal route.&nbsp;</p>\r\n\r\n<p><strong>Southbound</strong> buss will operate via Balbo/Michigan, Cermak, King Drive, 47th, Lake Park, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time. (A.M. RUSH HOUR ONLY)</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-10T06:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111386"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Hyde Park Express",
+        "ServiceId": "2",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/2/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "71400a33-b7fc-452b-a373-498cebe389c7"
+  },
+  {
+    "AlertId": "111387",
+    "Headline": "Red Line Service Delayed at 95th/Dan Ryan",
+    "ShortDescription": "Red Line trains are standing at 95th due to signal problems. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are standing at 95th due to signal problems.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-11-10T02:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111387"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "64511547-3242-4fc5-a818-eb4956bf332e"
   }
 ]
