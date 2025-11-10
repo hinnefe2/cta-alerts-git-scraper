@@ -170,37 +170,37 @@
     "GUID": "28229476-3f8c-4afc-a959-0db1fd620af6"
   },
   {
-    "AlertId": "111384",
-    "Headline": "Purple Line Service Delayed near Linden",
-    "ShortDescription": "Purple Line trains are standing near Linden due to signal problems. Crews working to restore service.",
+    "AlertId": "111385",
+    "Headline": "#12 Roosevelt Temporary Reroute near Roosevelt/Indiana",
+    "ShortDescription": "#12 Roosevelt buses are temporarily rerouted in both directions due to street blockage near Roosevelt/Indiana.",
     "FullDescription": {
-      "#cdata-section": "<p>Purple Line trains are standing near Linden due to signal problems.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>#12 Roosevelt buses are temporarily rerouted in both directions due to street blockage near Roosevelt/Indiana.</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Eastbound</strong> buses will operate via Roosevelt, Michigan, 16th, then take layover at this location.&nbsp;</li>\r\n\t<li><strong>Westbound</strong> buss will operate via 16th, Wabash, Roosevelt, then resume their normal route.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-11-10T01:11:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-10T01:24:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111384"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111385"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Purple Line",
-        "ServiceId": "P",
-        "ServiceBackColor": "522398",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Lincoln",
+        "ServiceId": "11",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/11/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "12ecf4c9-1ff6-4ccb-ae8e-33c300e3323b"
+    "GUID": "b0565b46-0286-4881-8c26-2393d5a7f15b"
   }
 ]
