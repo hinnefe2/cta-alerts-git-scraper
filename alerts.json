@@ -170,71 +170,37 @@
     "GUID": "28229476-3f8c-4afc-a959-0db1fd620af6"
   },
   {
-    "AlertId": "111382",
-    "Headline": "#35 31st/35th Temporary Reroute near 35th/Cottage Grove",
-    "ShortDescription": "#35 31st/35th buses are temporarily rerouted in both directions due to fire department activity near 35th/Cottage Grove.",
+    "AlertId": "111384",
+    "Headline": "Purple Line Service Delayed near Linden",
+    "ShortDescription": "Purple Line trains are standing near Linden due to signal problems. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>#35 31st/35th buses are temporarily rerouted in both directions due to fire department activity near 35th/Cottage Grove.</strong></p>\r\n\r\n<p><strong>Northbound</strong> buses will operate via 35th, Rhodes, 33rd, then wait recovery time at this location.&nbsp;</p>\r\n\r\n<p><strong>Southbound</strong> buss will operate via 33rd, King Drive, 35th, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Purple Line trains are standing near Linden due to signal problems.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-09T23:40:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-11-10T01:11:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111382"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111384"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "31st/35th",
-        "ServiceId": "35",
-        "ServiceBackColor": "565a5c",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/35/"
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "c83e4e2b-54fc-42f4-9166-7e2877db92ba"
-  },
-  {
-    "AlertId": "111383",
-    "Headline": "#4 Cottage Grove Temporary Reroute at 35th/Cottage Grove",
-    "ShortDescription": "#4 Cottage Grove buses are rerouted via Cottage Grove, 39th, King Dr, 35th, then resume their normal route due to fire department activity nr 35th/Cottage Grove",
-    "FullDescription": {
-      "#cdata-section": "<p>#4 Cottage Grove buses are temporarily rerouted in both directions via Cottage Grove, 39th, King Drive, 35th, then resume their normal route due to fire department activity near 35th/Cottage Grove.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-09T23:42:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111383"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cottage Grove",
-        "ServiceId": "4",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/4/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "3fc51a83-ab5a-426f-a9fb-ecf16b4a6dbc"
+    "GUID": "12ecf4c9-1ff6-4ccb-ae8e-33c300e3323b"
   }
 ]
