@@ -34,108 +34,6 @@
     "GUID": "7251c5a2-f598-42b3-b15a-df611e84b507"
   },
   {
-    "AlertId": "111379",
-    "Headline": "#14 Jeffrey Express Temporary Reroute at Lake Shore Drive",
-    "ShortDescription": "#14 Jeffrey Express buses are temporarily rerouted in both directions due to severe weather conditions near Lake Shore Drive.",
-    "FullDescription": {
-      "#cdata-section": "<p>#14 Jeffrey Express buses are temporarily rerouted in both directions via Jeffrey/67th, Stony Island, 57th, Hyde Park, Hyde Park Blvd, Lake Park, 47th, King Drive, Cermak, Michigan/Balbo, then resume their normal route due to severe weather conditions near Lake Shore Drive.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-09T22:18:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111379"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jeffery Jump",
-        "ServiceId": "J14",
-        "ServiceBackColor": "0065BD",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/j14/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d6cb883c-7fdf-4a1e-9141-c7853f53ff67"
-  },
-  {
-    "AlertId": "111380",
-    "Headline": "#147 Outer Drive Express Temporary Reroute at Lake Shore Drive",
-    "ShortDescription": "#147 Outer Drive Express buses are temporarily rerouted due to severe weather conditions near Lake Shore Drive.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>#147 Outer Drive Express buses are temporarily rerouted&nbsp;due to severe weather conditions near Lake Shore Drive.</strong></p>\r\n\r\n<p><strong>Northbound</strong> buses will operate via Michigan. Oak/Inner Lake Shore Drive, LaSalle, Stockton, Cannon, Diversey/Sheridan, Belmont/Inner Lake Shore Drive, Irving Park/Marine, Foster, then resume their normal route.&nbsp;</p>\r\n\r\n<p><strong>Southbound </strong>buss will operate via Foster/Marine, Irving Park/Inner Lake Shore Drive, Belmont/Sheridan. Diversey/Cannon, Stockton, LaSalle, Inner Lake Shore Drive, Michigan/Oak, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-09T22:30:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111380"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Outer DuSable Lake Shore Express",
-        "ServiceId": "147",
-        "ServiceBackColor": "b71234",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/147/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8226a64b-2592-453e-8d62-6787c0eb937f"
-  },
-  {
-    "AlertId": "111381",
-    "Headline": "#151 Sheridan Temporary Reroute near Lake Shore Drive",
-    "ShortDescription": "#151 Sheridan buses are temporarily rerouted  due to severe weather conditions near Lake Shore Drive.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>#151 Sheridan buses are temporarily rerouted due to severe weather conditions near Lake Shore Drive.</strong></p>\r\n\r\n<p><strong>Northbound </strong>buses will operate via Michigan/Wacker, Chicago. Dearborn, Walton, Clark, Halsted, Broadway, Sheridan, then resume their normal route.&nbsp;&nbsp;</p>\r\n\r\n<p><strong>Southbound</strong> buss will operate via Sheridan/Broadway, Halsted, Clark, Chicago. Michigan, Wacker, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-09T22:38:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111381"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Sheridan",
-        "ServiceId": "151",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/151/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "28229476-3f8c-4afc-a959-0db1fd620af6"
-  },
-  {
     "AlertId": "111385",
     "Headline": "#12 Roosevelt Temporary Reroute near Roosevelt/Indiana",
     "ShortDescription": "#12 Roosevelt buses are temporarily rerouted in both directions due to street blockage near Roosevelt/Indiana.",
@@ -317,5 +215,52 @@
     },
     "ttim": "0",
     "GUID": "e683201f-e21c-4699-a3ec-aa20b446d66a"
+  },
+  {
+    "AlertId": "111390",
+    "Headline": "#14 Jeffrey Express and #26 South Shore Express Temporary Reroute near Lake Shore Drive",
+    "ShortDescription": "#14 Jeffrey Express and #26 South Shore Express  are temporarily rerouted due to severe weather conditions near Lake Shore Drive.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#14 Jeffrey Express and #26 South Shore Express&nbsp;are temporarily rerouted due to severe weather conditions near Lake Shore Drive.</strong></p>\r\n\r\n<p><strong>Northbound</strong> buses will operate via buses are temporarily rerouted via Jeffrey/67th, Stony Island, 57th, Hyde Park, Hyde Park Blvd, Lake Park, 47th, King Drive, Cermak, Michigan/Balbo, then resume their normal route due to severe weather conditions near Lake Shore Drive.</p>\r\n\r\n<p><strong>Southbound </strong>buses will operate via Michigan/Balbo, Cermak, king drive, 47th, Lake Park, Hyde Park Blvd, Hyde Park, 57th, Stony Island, 67th, Jeffrey, then resume their normal route</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong><em>(Please Note: #26 South Shore Express will operate&nbsp;northbound only during a.m. rush hours and southbound only during p.m. rush hour)</em></strong></p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-10T03:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111390"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "6355eed5-5aa4-40c5-b5d6-0e40a5effa2b"
   }
 ]
