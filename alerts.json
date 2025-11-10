@@ -670,5 +670,195 @@
     },
     "ttim": "0",
     "GUID": "a7b41dff-7235-4c29-a709-b54923cc7c1d"
+  },
+  {
+    "AlertId": "111403",
+    "Headline": "Temporary Reroute near Lake Shore Drive",
+    "ShortDescription": "#2, #6, #J14, #26, #28, #134, #135, #136, #143, #146, #147, #148, #151, #156 and #192 buses are rerouted due to severe weather conditions nr Lake Shore Dr.\r\n\r\n",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>Some buses are temporarily rerouted due to severe weather conditions near Lake Shore Drive. These may include:</strong></p>\r\n\r\n<ul>\r\n\t<li>#2 Hyde Park Express&nbsp;</li>\r\n\t<li>#6 Jackson Park Express&nbsp;</li>\r\n\t<li>#J14 Jeffrey Express&nbsp;</li>\r\n\t<li>#26 South Shore Express&nbsp;</li>\r\n\t<li>#28 Stony Island&nbsp;</li>\r\n\t<li>#134 Stockton/LaSalle Express&nbsp;</li>\r\n\t<li>#135 Clarendon/LaSalle Express&nbsp;</li>\r\n\t<li>#136 Sheridan/LaSalle Express&nbsp;</li>\r\n\t<li>#143 Stockton/Michigan Express&nbsp;</li>\r\n\t<li>#146 Inner Drive/Michigan Express&nbsp;</li>\r\n\t<li>#147 Outer Drive Express&nbsp;</li>\r\n\t<li>#148 Clarendon/Michigan Express&nbsp;</li>\r\n\t<li>#151 Sheridan&nbsp;</li>\r\n\t<li>#156 LaSalle&nbsp;</li>\r\n\t<li>#192 U. of Chicago/Hospitals Express&nbsp;</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-10T04:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111403"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Hyde Park Express",
+          "ServiceId": "2",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/2/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stony Island",
+          "ServiceId": "28",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/28/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stockton/LaSalle Express",
+          "ServiceId": "134",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/134/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clarendon/LaSalle Express",
+          "ServiceId": "135",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/135/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan/LaSalle Express",
+          "ServiceId": "136",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/136/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stockton/Michigan Express",
+          "ServiceId": "143",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/143/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clarendon/Michigan Express",
+          "ServiceId": "148",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/148/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "LaSalle",
+          "ServiceId": "156",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/156/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "U. of Chicago Hospitals Express",
+          "ServiceId": "192",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/192/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4091649a-7583-45e8-8cd3-e8962fcb1670"
   }
 ]
