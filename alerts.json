@@ -34,40 +34,6 @@
     "GUID": "7251c5a2-f598-42b3-b15a-df611e84b507"
   },
   {
-    "AlertId": "111378",
-    "Headline": "#6 Jackson Park Express Temporary Reroute near Lake Shore Drive",
-    "ShortDescription": "#6 Jackson Park Express buses are temporarily rerouted due to severe weather conditions near Lake Shore Drive.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>#6 Jackson Park Express buses are temporarily rerouted via Lake Shore Drive, due to severe weather conditions near Lake Shore Drive.</strong></p>\r\n\r\n<p><strong>Northbound</strong> buses will operate via Lake Park/47th, King Drive, Cermak, Michigan, Balbo, then resume their normal route.&nbsp;</p>\r\n\r\n<p><strong>Southbound</strong> buss will operate via Balbo/Michigan, Cermak, King Drive, 47th, Lake Park, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-09T22:02:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111378"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson Park Express",
-        "ServiceId": "6",
-        "ServiceBackColor": "b71234",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/6/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4c1d8c09-6f0d-4cfd-be0d-693103a057a6"
-  },
-  {
     "AlertId": "111379",
     "Headline": "#14 Jeffrey Express Temporary Reroute at Lake Shore Drive",
     "ShortDescription": "#14 Jeffrey Express buses are temporarily rerouted in both directions due to severe weather conditions near Lake Shore Drive.",
@@ -270,5 +236,86 @@
     },
     "ttim": "0",
     "GUID": "64511547-3242-4fc5-a818-eb4956bf332e"
+  },
+  {
+    "AlertId": "111388",
+    "Headline": "#2 Hyde Park Express Temporary Reroute near Lake Shore Drive",
+    "ShortDescription": "#2 Hyde Park Express buses are temporarily rerouted due to severe weather conditions near Lake Shore Drive.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#2 Hyde Park Express buses are temporarily rerouted due to severe weather conditions near Lake Shore Drive.</strong></p>\r\n\r\n<p><strong>Northbound</strong> buses will operate via Stony Island/57th, 56th, Lake Park, 47th, King Drive, Cermak, Michigan, Balbo, then resume their normal route.&nbsp;</p>\r\n\r\n<p><strong>Southbound </strong>buss will operate via Balbo/Michigan, Cermak, King Drive, 47th, Lake Park, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time. (P.M. RUSH HOUR ONLY)</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-10T15:29:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111388"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Hyde Park Express",
+        "ServiceId": "2",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/2/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a56629c7-6f7e-45c1-9f6d-e27ed0c34046"
+  },
+  {
+    "AlertId": "111389",
+    "Headline": "#6 Jackson Park Express and #28 Stony Island Temporary Reroute near Lake Shore Drive",
+    "ShortDescription": "#6 Jackson Park Express and #28 Stony Island buses are temporarily rerouted due to severe weather conditions near Lake Shore Drive.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#6 Jackson Park Express and #28 Stony Island buses are temporarily rerouted due to severe weather conditions near Lake Shore Drive.</strong></p>\r\n\r\n<p><strong>Northbound</strong> buses will operate via Lake Park/47th, King Drive, Cermak, Michigan, Balbo, then resume their normal route.&nbsp;</p>\r\n\r\n<p><strong>Southbound</strong> buss will operate via Balbo/Michigan, Cermak, King Drive, 47th, Lake Park, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-10T04:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111389"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stony Island",
+          "ServiceId": "28",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/28/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e683201f-e21c-4699-a3ec-aa20b446d66a"
   }
 ]
