@@ -826,5 +826,52 @@
     },
     "ttim": "0",
     "GUID": "4091649a-7583-45e8-8cd3-e8962fcb1670"
+  },
+  {
+    "AlertId": "111407",
+    "Headline": "Forest Park- bound Blue Line Service Delayed at Oak Park",
+    "ShortDescription": "Forest Park- bound Blue Line trains are standing at Oak Park due to a sick rider. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park- bound Blue Line trains are standing at Oak Park due to a sick rider.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-11-10T08:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111407"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Oak Park",
+          "ServiceId": "40180",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=108"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "853759db-fbbf-496a-8508-015fad93d0b8"
   }
 ]
