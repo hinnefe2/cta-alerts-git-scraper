@@ -1,117 +1,70 @@
 [
   {
-    "AlertId": "111385",
-    "Headline": "#12 Roosevelt Temporary Reroute near Roosevelt/Indiana",
-    "ShortDescription": "#12 Roosevelt buses are temporarily rerouted in both directions due to street blockage near Roosevelt/Indiana.",
+    "AlertId": "111422",
+    "Headline": "#8 Halsted Temporary Reroute at Elston/Cortez",
+    "ShortDescription": "8 Halsted buses are temporarily rerouted via Halsted, Milwaukee, Division and Halsted: due to, street blockage near Elston/Cortez.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>#12 Roosevelt buses are temporarily rerouted in both directions due to street blockage near Roosevelt/Indiana.</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Eastbound</strong> buses will operate via Roosevelt, Michigan, 16th, then take layover at this location.&nbsp;</li>\r\n\t<li><strong>Westbound</strong> buss will operate via 16th, Wabash, Roosevelt, then resume their normal route.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#8 Halsted buses are temporarily rerouted via Halsted, Milwaukee, Division and Halsted: due to, street blockage near Elston/Cortez.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-10T01:24:00",
+    "EventStart": "2025-11-10T19:15:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111385"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111422"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Lincoln",
-        "ServiceId": "11",
+        "ServiceName": "Halsted",
+        "ServiceId": "8",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/11/"
+          "#cdata-section": "http://www.transitchicago.com/bus/8/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "b0565b46-0286-4881-8c26-2393d5a7f15b"
+    "GUID": "c2315f6c-c7e4-4956-b3ef-12b12efdf21c"
   },
   {
-    "AlertId": "111388",
-    "Headline": "#2 Hyde Park Express Temporary Reroute near Lake Shore Drive",
-    "ShortDescription": "#2 Hyde Park Express buses are temporarily rerouted due to severe weather conditions near Lake Shore Drive.",
+    "AlertId": "111424",
+    "Headline": "#79 79thTemporary Eastbound Reroute near 79th/Hamlin",
+    "ShortDescription": "Eastbound 79 79th  buses are temporarily rerouted via 79th, Pulaski, 71st, Kedzie and 79th: due to, police activity near 79th/Hamlin.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>#2 Hyde Park Express buses are temporarily rerouted due to severe weather conditions near Lake Shore Drive.</strong></p>\r\n\r\n<p><strong>Northbound</strong> buses will operate via Stony Island/57th, 56th, Lake Park, 47th, King Drive, Cermak, Michigan, Balbo, then resume their normal route.&nbsp;</p>\r\n\r\n<p><strong>Southbound </strong>buss will operate via Balbo/Michigan, Cermak, King Drive, 47th, Lake Park, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time. (P.M. RUSH HOUR ONLY)</p>\r\n"
+      "#cdata-section": "<p>Eastbound #79 79th&nbsp; buses are temporarily rerouted via 79th, Pulaski, 71st, Kedzie and 79th: due to, police activity near 79th/Hamlin.</p>\r\n\r\n<p>Westbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-10T15:29:00",
+    "EventStart": "2025-11-10T19:43:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111388"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111424"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Hyde Park Express",
-        "ServiceId": "2",
-        "ServiceBackColor": "ffffff",
-        "ServiceTextColor": "b71234",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/2/"
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "a56629c7-6f7e-45c1-9f6d-e27ed0c34046"
-  },
-  {
-    "AlertId": "111389",
-    "Headline": "#6 Jackson Park Express and #28 Stony Island Temporary Reroute near Lake Shore Drive",
-    "ShortDescription": "#6 Jackson Park Express and #28 Stony Island buses are temporarily rerouted due to severe weather conditions near Lake Shore Drive.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>#6 Jackson Park Express and #28 Stony Island buses are temporarily rerouted due to severe weather conditions near Lake Shore Drive.</strong></p>\r\n\r\n<p><strong>Northbound</strong> buses will operate via Lake Park/47th, King Drive, Cermak, Michigan, Balbo, then resume their normal route.&nbsp;</p>\r\n\r\n<p><strong>Southbound</strong> buss will operate via Balbo/Michigan, Cermak, King Drive, 47th, Lake Park, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-10T04:00:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111389"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jackson Park Express",
-          "ServiceId": "6",
-          "ServiceBackColor": "b71234",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/6/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Stony Island",
-          "ServiceId": "28",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/28/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "e683201f-e21c-4699-a3ec-aa20b446d66a"
+    "GUID": "78ce58ed-b615-4d6b-b711-2d2a94233066"
   }
 ]
