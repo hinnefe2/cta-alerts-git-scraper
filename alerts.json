@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "ddff7161-2dd6-4987-a324-66b87301a596"
+  },
+  {
+    "AlertId": "111429",
+    "Headline": "Forest Park- bound Blue Line Service Delayed at Chicago",
+    "ShortDescription": "Forest Park- bound Blue Line trains are standing at Chicago due to a mechanical problem.  Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park- bound Blue Line trains are standing at Chicago due to a mechanical problem.&nbsp;&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-11-11T10:30:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111429"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Chicago",
+          "ServiceId": "41410",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=36"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "78a9f6b0-4316-4115-b6b8-c4fa49c80528"
   }
 ]
