@@ -32,5 +32,63 @@
     },
     "ttim": "0",
     "GUID": "1718bd70-3177-49f6-87a3-978c06b6c869"
+  },
+  {
+    "AlertId": "111455",
+    "Headline": "#146 Inner Lake Shore/Michigan Express, #151 Sheridan,  #135 Clarendon/LaSalle Express Temporary Reroute at Inner Lake Shore Drive/Hawthorne ",
+    "ShortDescription": "146 Inner Lake Shore/Michigan Express, 151 Sheridan, 135 Clarendon/LaSalle Express  buses are temporarily rerouted near Inner Lake Shore Drive/Hawthorne.",
+    "FullDescription": {
+      "#cdata-section": "<p>#146 Inner Lake Shore/Michigan Express, #151 Sheridan,&nbsp; #135 Clarendon/LaSalle Express&nbsp;buses are temporarily rerouted in both directions via Inner Lake Shore Drive, Belmont, Halsted, Addison and Inner Lake Shore Drive, due to street blockage near Lake Shore Drive/Hawthorne.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-12T12:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111455"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clarendon/LaSalle Express",
+          "ServiceId": "135",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/135/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "77041de6-05c4-4e93-9bb2-90ce8965d293"
   }
 ]
