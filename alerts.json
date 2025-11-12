@@ -1,49 +1,49 @@
 [
   {
-    "AlertId": "111446",
-    "Headline": "Howard- bound Red Line Service Delayed at Lawrence",
-    "ShortDescription": "Howard- bound Red Line trains are standing at Lawrence due to police activity Crews working to restore service.",
+    "AlertId": "111447",
+    "Headline": "#9 Ashland,  #X9 Ashland Express Temporary Reroute at Ashland/59th",
+    "ShortDescription": "9 Ashland,  X9 Ashland Express  buses are temporarily rerouted : due to, a Festival near Ashland/59th.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard- bound Red Line trains are standing at Lawrence due to police activity .</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#9 Ashland,&nbsp; #X9 Ashland Express&nbsp;buses are temporarily rerouted in both directions via Ashland, 59th, Racine, 63rd and Ashland&nbsp;, due to a Festival&nbsp;near Ashland/59th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-11-12T07:20:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-12T07:29:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111446"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111447"
     },
     "ImpactedService": {
       "Service": [
         {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Lawrence",
-          "ServiceId": "40770",
-          "ServiceBackColor": "c60c30",
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland",
+          "ServiceId": "9",
+          "ServiceBackColor": "565a5c",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=91"
+            "#cdata-section": "http://www.transitchicago.com/bus/9/"
           }
         },
         {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Ashland Express",
+          "ServiceId": "X9",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
+            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "8daa12a0-990b-4f86-803e-5004f94fd47f"
+    "GUID": "8f9c6953-80e1-4525-b84c-4ef3165ddd7a"
   }
 ]
