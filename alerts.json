@@ -32,5 +32,73 @@
     },
     "ttim": "0",
     "GUID": "3e650ee9-a6a1-41c0-9e0d-9894de608675"
+  },
+  {
+    "AlertId": "111499",
+    "Headline": "#79 79th Temporary Reroute near 79th/East End",
+    "ShortDescription": "79 79th buses rerouted: \r\nWB buses via 79th, Jeffery, 75th, Cottage Grove, 79th reg. route. \r\nEB buses via 79th, Stony Island, 75th, Jeffery, 79th reg. route.",
+    "FullDescription": {
+      "#cdata-section": "<p>#79 79th buses are temporarily rerouted in both directions due to police activity near 79th/East End.</p>\r\n\r\n<p>Westbound buses will operate via 79th, Jeffery, 75th, Cottage Grove, 79th, and resume normal route.</p>\r\n\r\n<p>Eastbound buses will operate via 79th, Stony Island, 75th, Jeffery, 79th, and resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-14T09:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111499"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5deb2665-728f-47f4-a544-5209dd79179a"
+  },
+  {
+    "AlertId": "111500",
+    "Headline": "Forest Park Blue Line Service Delayed at Addison",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Addison due to a mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Addison due to a mechanical problem.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-11-14T09:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111500"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9344bf73-5a7a-4a9b-9bd3-8d991c988e6c"
   }
 ]
