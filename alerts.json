@@ -100,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "1d7f7531-cc13-449b-8711-0fde3e3848ca"
+  },
+  {
+    "AlertId": "111501",
+    "Headline": "#35 31st/35th Temporary Reroute near 35th/Cottage Grove",
+    "ShortDescription": "35 31st/35th buses rerouted:\r\nEB buses via 35th, Rhodes, 33rd Pl, then recovery time at location. \r\nWB buses via 33rd, King Drive, 35th, resume normal route.",
+    "FullDescription": {
+      "#cdata-section": "<p>#35 31st/35th buses are temporarily rerouted in both directions due to construction near 35th/Cottage Grove.</p>\r\n\r\n<p>Eastbound buses will operate via 35th, Rhodes, 33rd Pl., then wait recovery time at this location.&nbsp;</p>\r\n\r\n<p>Westbound buses will operate via 33rd, King Drive, 35th, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-14T10:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111501"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "31st/35th",
+        "ServiceId": "35",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/35/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f3a4cde3-c516-4f77-9724-976b124c22e7"
   }
 ]
