@@ -32,5 +32,73 @@
     },
     "ttim": "0",
     "GUID": "3e650ee9-a6a1-41c0-9e0d-9894de608675"
+  },
+  {
+    "AlertId": "111514",
+    "Headline": "#91 Austin Temporary Reroute at  Austin/Cortland",
+    "ShortDescription": "#91 Austin buses are temporarily rerouted in both directions via Austin, Grand, Central, North Avenue and Austin, due to street blockage near Austin/Cortland.",
+    "FullDescription": {
+      "#cdata-section": "<p>#91 Austin buses are temporarily rerouted in both directions via Austin, Grand, Central, North Avenue and Austin, then resume their normal route, due to street blockage near Austin/Cortland.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-14T14:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111514"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Austin",
+        "ServiceId": "91",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/91/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ae31715f-dc73-4651-b9c4-fcfb40f04ad8"
+  },
+  {
+    "AlertId": "111515",
+    "Headline": "Loop-bound Brown Line Service Delayed at Chicago",
+    "ShortDescription": "Loop-bound Brown Line trains are standing at Chicago due to a mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Brown Line trains are standing at Chicago due to a mechanical problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-11-14T14:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111515"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ac022fc8-94f0-4e13-a416-47a61bfc9f01"
   }
 ]
