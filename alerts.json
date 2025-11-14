@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "f3a4cde3-c516-4f77-9724-976b124c22e7"
+  },
+  {
+    "AlertId": "111513",
+    "Headline": "Blue Trains bypassing Grand ",
+    "ShortDescription": "Blue Line trains are running, but not stopping at Grand due to police investigation.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running, but not stopping at Grand due to police investigation.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2025-11-14T13:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111513"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c8cb50b8-3520-4c0a-ad45-d07746a26575"
   }
 ]
