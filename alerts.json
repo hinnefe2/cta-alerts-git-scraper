@@ -68,40 +68,6 @@
     "GUID": "31b67cf5-0b92-41a0-9c40-e92b2cb2ff6c"
   },
   {
-    "AlertId": "111559",
-    "Headline": "#95 95th Temporary Reroute at 95th Street/Wood",
-    "ShortDescription": "95 95th buses are temporarily rerouted via 95th, Ashland, 87th and Damen: due to, street blockage near 95th Street/Wood.",
-    "FullDescription": {
-      "#cdata-section": "<p>#95 95th buses are temporarily rerouted via 95th, Ashland, 87th and Damen: due to, street blockage near 95th Street/Wood.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-17T07:27:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111559"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "95th",
-        "ServiceId": "95",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/95/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "468aadcc-17bf-4240-a24d-d8a19f53894c"
-  },
-  {
     "AlertId": "111561",
     "Headline": "Red, Purple and Yellow  Line Delays",
     "ShortDescription": "Red, Purple and Yellow Line trains are running w/residual delays following an earlier signal problems at Howard. Service is resuming, allow extra time.",
@@ -169,5 +135,63 @@
     },
     "ttim": "0",
     "GUID": "02aa79db-3348-4090-86ec-2dc937098874"
+  },
+  {
+    "AlertId": "111562",
+    "Headline": "Harlem- bound Green Line Delays",
+    "ShortDescription": "Harlem- bound Green Line trains are running w/residual delays following an earlier sick rider at Clark/Lake. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem- bound Green Line trains are running w/residual delays following an earlier sick rider at Clark/Lake.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-11-17T08:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111562"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Clark/Lake",
+          "ServiceId": "40380",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=43"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9073ce64-50e3-4186-94a5-f253dd481fca"
   }
 ]
