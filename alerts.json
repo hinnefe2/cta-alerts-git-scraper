@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "111551",
+    "Headline": "#94 South California Temporary Reroute at California/60th",
+    "ShortDescription": "#94 South California buses are temp rerouted in both directions via California, 63rd, Western, 59th and California, due to police activity near California/60th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#94 South California buses are temporarily rerouted in both directions via California, 63rd, Western, 59th and California, then resume their normal route: due to police activity near California/60th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-16T20:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111551"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2c500aa9-accb-4155-9922-3345ca1f0467"
+  },
+  {
+    "AlertId": "111552",
+    "Headline": "#20 Madison Temporary Reroute at Madison/Homan",
+    "ShortDescription": "#20 Madison buses are temporarily rerouted in both directions via Madison, Homan, Jackson, California and Madison, due to police activity near Madison/Homan.",
+    "FullDescription": {
+      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted in both directions via Madison, Homan, Jackson, California and Madison, then resume their normal route, due to police activity near Madison/Homan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-16T20:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111552"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6e625b10-eaab-4921-8a87-5879abb3404f"
+  }
+]
