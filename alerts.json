@@ -1,73 +1,5 @@
 [
   {
-    "AlertId": "111557",
-    "Headline": "#94 California Temporary Northbound Reroute near Western/71st Street",
-    "ShortDescription": "Northbound 94 California buses are temporarily rerouted via Damen, 69th, and California: due to, street blockage near Western/71st.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #94 California buses are temporarily rerouted via Damen, 69th, and California: due to, street blockage near Western/71st.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-17T07:19:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111557"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "California",
-        "ServiceId": "94",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/california/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "578410cd-5c26-418f-87fe-ecc1327c9705"
-  },
-  {
-    "AlertId": "111558",
-    "Headline": "#67 67th-69th-71st Temporary Westbound Reroute near  Western/71st Street",
-    "ShortDescription": "Westbound 67 67th-69th-71st buses are temporarily rerouted via 69th, California and 71st: due to, street blockage near Western/71st Street.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #67 67th-69th-71st buses are temporarily rerouted via 69th, California and 71st: due to, street blockage near Western/71st Street.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-17T07:23:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111558"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "67th-69th-71st",
-        "ServiceId": "67",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/67/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "31b67cf5-0b92-41a0-9c40-e92b2cb2ff6c"
-  },
-  {
     "AlertId": "111561",
     "Headline": "Red, Purple and Yellow  Line Delays",
     "ShortDescription": "Red, Purple and Yellow Line trains are running w/residual delays following an earlier signal problems at Howard. Service is resuming, allow extra time.",
@@ -135,5 +67,63 @@
     },
     "ttim": "0",
     "GUID": "02aa79db-3348-4090-86ec-2dc937098874"
+  },
+  {
+    "AlertId": "111563",
+    "Headline": "#6 Jackson Park Express, #26 South Shore Express, #71 71st/South Shore Temporary Reroute at South Shore Drive/73rd",
+    "ShortDescription": "6 Jackson Park Express, 26 South Shore Express, 71 71st/South Shore buses are temporarily rerouted  near South Shore Drive/73rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#6 Jackson Park Express, #26 South Shore Express, #71 71st/South Shore&nbsp;buses are temporarily rerouted in both directions via 79th, Yates and 71st, due to street blockage&nbsp;near South Shore Drive/73rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-17T08:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111563"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "71st/South Shore",
+          "ServiceId": "71",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/71/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ecbbad44-59b8-4492-bd52-0f19c585a1ec"
   }
 ]
