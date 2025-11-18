@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "111587",
-    "Headline": "Orange Line Service Delayed at Kedzie",
-    "ShortDescription": "Orange Line trains are standing at Kedzie due to unauthorized person on the tracks. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Orange Line trains are standing at Kedzie due to unauthorized person on the tracks.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#62 Archer</strong></p>\r\n\r\n<p><strong>Shuttle buses have been requested to provide connecting service between Midway and 35th/Archer in both directions.</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2025-11-18T16:01:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111587"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Orange Line",
-        "ServiceId": "Org",
-        "ServiceBackColor": "f9461c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/orangeline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "aabc71d1-0616-4656-8058-3877492841e4"
-  },
-  {
     "AlertId": "111588",
     "Headline": "#112 Vincennes/111th Temporary Reroute at 111th/Sacramento",
     "ShortDescription": "112 Vincennes/111th buses are temporarily rerouted via 111th, Western, 103rd, Kedzie and 111th over regular route due to, street blockage near 111th/Sacramento.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "a61a51c3-2de2-435c-ab4c-ca76346951b7"
+  },
+  {
+    "AlertId": "111589",
+    "Headline": "#48 South Damen Temporary Reroute at Damen/58th",
+    "ShortDescription": "48 South Damen buses are temporarily rerouted via Damen, 55th, Ashland, 59th and Damen over regular route due to, street blockage near Damen/58th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#48 South Damen buses are temporarily rerouted via Damen, 55th, Ashland, 59th and Damen over regular route due to, street blockage near Damen/58th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-18T16:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111589"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Damen",
+        "ServiceId": "48",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "565a5c",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/48/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0722d0ca-fa8d-49f9-8457-f185ff166ede"
   }
 ]
