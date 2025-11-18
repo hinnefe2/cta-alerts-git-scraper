@@ -216,40 +216,6 @@
     "GUID": "9a94e38d-6c7d-4f73-bf01-b335755d49d9"
   },
   {
-    "AlertId": "111577",
-    "Headline": "#126 Jackson Temporary Reroute near Cicero/Jackson",
-    "ShortDescription": "126 Jackson  buses temp. rerouted : due to, fire department activity near Cicero/Jackson.",
-    "FullDescription": {
-      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted in both directions near Cicero/Jackson due to police activity near Cicero/Jackson.</p>\r\n\r\n<p>Eastbound&nbsp;buses will operate via Jackson, Cicero, Harrison, Kostner and Jackson&nbsp;including the normal route streets.</p>\r\n\r\n<p>Westbound buses will operate via Jackson, Kostner, Harrison, Laramie and Jackson.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-18T07:45:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111577"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson",
-        "ServiceId": "126",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/126/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ae732584-60a6-40c8-9ec3-bbd83c676a34"
-  },
-  {
     "AlertId": "111579",
     "Headline": "#119 Michigan/119th |Temporary Reroute at 119th/Vincennes",
     "ShortDescription": "119 Michigan/119th buses are temporarily rerouted via 119th, Vincennes, 11th, Western and 119th: due to, street blockage near 119th/Vincennes.",
@@ -282,5 +248,39 @@
     },
     "ttim": "0",
     "GUID": "ee4acd3a-00d1-4ca1-b333-e45e2b426b0a"
+  },
+  {
+    "AlertId": "111581",
+    "Headline": "#54B South Cicero Temporary Northbound Reroute near Cicero/Chicago Ave",
+    "ShortDescription": "Northbound 54B South Cicero buses are temporarily rerouted: due to, street blockage near Cicero/Chicago Ave.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #54B South Cicero buses are temporarily rerouted via Cicero, Chicago Ave, Kostner, Augusta and Cicero: due to, street blockage near Cicero/Chicago Ave.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-18T09:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111581"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Cicero",
+        "ServiceId": "54B",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54b/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f8ff7b03-b54d-4475-8e7a-1c874c0d8b7f"
   }
 ]
