@@ -4,7 +4,7 @@
     "Headline": "Subway Trains Rerouted to Elevated Tracks",
     "ShortDescription": "Red Line subway trains are rerouted to the elevated tracks between Cermak-Chinatown and Fullerton in both directions.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nRed Line subway trains are rerouted to the elevated tracks between Cermak-Chinatown and Fullerton in both directions.</p>\r\n\r\n<p>Trains will not stop at subway stations (see map below ).</p>\r\n\r\n<p><strong>Reaching rerouted Red Line trains:</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>From North/Clybourn station: </strong>Walk 1/2 mile north to Armitage and 1/4 mile west to Armitage Brown Line station for Red Line trains.</li>\r\n\t<li><strong>From Clark/Division station: </strong>Consider using #22 Clark bus south to Clark/Lake for Red Line trains (board on elevated platforms).</li>\r\n\t<li><strong>From Chicago station</strong>: Use #66 Chicago bus west to Chicago Brown Line station (at Franklin) for Red Line trains.</li>\r\n\t<li><strong>From Grand station</strong>: Walk approx. 1/2 mi south, across Chicago River, to State/Lake elevated station, for Red Line trains.</li>\r\n\t<li><strong>Downtown</strong>: Board/exit trains at any Lake or Wabash Loop Elevated station.</li>\r\n\t<li><strong>Roosevelt station</strong>: Board/exit trains on Green/Orange lines elevated platform.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nWe are performing equipment testing.&nbsp;</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong><br />\r\nRed Line subway trains are rerouted to the elevated tracks between Cermak-Chinatown and Fullerton in both directions.</p>\r\n\r\n<p>Trains will not stop at subway stations.</p>\r\n\r\n<p><strong>Reaching rerouted Red Line trains:</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>From North/Clybourn station: </strong>Walk 1/2 mile north to Armitage and 1/4 mile west to Armitage Brown Line station for Red Line trains.</li>\r\n\t<li><strong>From Clark/Division station: </strong>Consider using #22 Clark bus south to Clark/Lake for Red Line trains (board on elevated platforms).</li>\r\n\t<li><strong>From Chicago station</strong>: Use #66 Chicago bus west to Chicago Brown Line station (at Franklin) for Red Line trains.</li>\r\n\t<li><strong>From Grand station</strong>: Walk approx. 1/2 mi south, across Chicago River, to State/Lake elevated station, for Red Line trains.</li>\r\n\t<li><strong>Downtown</strong>: Board/exit trains at any Lake or Wabash Loop Elevated station.</li>\r\n\t<li><strong>Roosevelt station</strong>: Board/exit trains on Green/Orange lines elevated platform.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nWe are performing equipment testing.&nbsp;</p>\r\n"
     },
     "SeverityScore": "39",
     "SeverityColor": "06c",
@@ -132,7 +132,7 @@
       ]
     },
     "ttim": "1",
-    "GUID": "73e356f5-9d7c-49bc-9cd1-e368f744ad55"
+    "GUID": "856ebdf2-ded6-44c2-8014-8c2f6c19602b"
   },
   {
     "AlertId": "111573",
@@ -214,5 +214,107 @@
     },
     "ttim": "0",
     "GUID": "9a94e38d-6c7d-4f73-bf01-b335755d49d9"
+  },
+  {
+    "AlertId": "111575",
+    "Headline": "#54 Cicero Temporary Reroute at Cicero/Jackson",
+    "ShortDescription": "54 Cicero buses are temporarily rerouted via Cicero, Harrison, Laramie, Madison and Cicero: due to, fire department activity near Cicero/Jackson.",
+    "FullDescription": {
+      "#cdata-section": "<p>#54 Cicero buses are temporarily rerouted via Cicero, Harrison, Laramie, Madison and Cicero: due to, fire department activity near Cicero/Jackson.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-18T07:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111575"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cicero",
+        "ServiceId": "54",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b59089d0-481b-4731-90b7-b0d65f79d57e"
+  },
+  {
+    "AlertId": "111577",
+    "Headline": "#126 Jackson Temporary Reroute near Cicero/Jackson",
+    "ShortDescription": "126 Jackson  buses temp. rerouted : due to, fire department activity near Cicero/Jackson.",
+    "FullDescription": {
+      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted in both directions near Cicero/Jackson due to police activity near Cicero/Jackson.</p>\r\n\r\n<p>Eastbound&nbsp;buses will operate via Jackson, Cicero, Harrison, Kostner and Jackson&nbsp;including the normal route streets.</p>\r\n\r\n<p>Westbound buses will operate via Jackson, Kostner, Harrison, Laramie and Jackson.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-18T07:45:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111577"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson",
+        "ServiceId": "126",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/126/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ae732584-60a6-40c8-9ec3-bbd83c676a34"
+  },
+  {
+    "AlertId": "111579",
+    "Headline": "#119 Michigan/119th |Temporary Reroute at 119th/Vincennes",
+    "ShortDescription": "119 Michigan/119th buses are temporarily rerouted via 119th, Vincennes, 11th, Western and 119th: due to, street blockage near 119th/Vincennes.",
+    "FullDescription": {
+      "#cdata-section": "<p>#119 Michigan/119th buses are temporarily rerouted via 119th, Vincennes, 11th, Western and 119th: due to, street blockage near 119th/Vincennes.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-18T08:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111579"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Michigan/119th",
+        "ServiceId": "119",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/119/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ee4acd3a-00d1-4ca1-b333-e45e2b426b0a"
   }
 ]
