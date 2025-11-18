@@ -1,49 +1,15 @@
 [
   {
-    "AlertId": "111586",
-    "Headline": "Loop-bound Pink Line Service Delayed at Morgan",
-    "ShortDescription": "Loop-bound Pink Line trains are standing at Morgan due to police activity. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Pink Line trains are standing at Morgan due to police activity.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#21 Cermak</strong></p>\r\n\r\n<p><strong>#9 Ashland</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-11-18T15:47:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111586"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "436794f0-4c3a-4388-808d-676e4d6740a0"
-  },
-  {
     "AlertId": "111587",
     "Headline": "Orange Line Service Delayed at Kedzie",
     "ShortDescription": "Orange Line trains are standing at Kedzie due to unauthorized person on the tracks. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Orange Line trains are standing at Kedzie due to unauthorized person on the tracks.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#62 Archer</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Orange Line trains are standing at Kedzie due to unauthorized person on the tracks.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#62 Archer</strong></p>\r\n\r\n<p><strong>Shuttle buses have been requested to provide connecting service between Midway and 35th/Archer in both directions.</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2025-11-18T16:01:00",
     "EventEnd": null,
     "TBD": "1",
@@ -65,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "f1e4c2c8-497c-40b7-adf8-988094c5c8a8"
+    "GUID": "aabc71d1-0616-4656-8058-3877492841e4"
+  },
+  {
+    "AlertId": "111588",
+    "Headline": "#112 Vincennes/111th Temporary Reroute at 111th/Sacramento",
+    "ShortDescription": "112 Vincennes/111th buses are temporarily rerouted via 111th, Western, 103rd, Kedzie and 111th over regular route due to, street blockage near 111th/Sacramento.",
+    "FullDescription": {
+      "#cdata-section": "<p>#112 Vincennes/111th&nbsp; buses are temporarily rerouted via 111th, Western, 103rd, Kedzie and 111th over regular route: due to, street blockage near 111th/Sacramento.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-18T16:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111588"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Vincennes/111th",
+        "ServiceId": "112",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/112/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a61a51c3-2de2-435c-ab4c-ca76346951b7"
   }
 ]
