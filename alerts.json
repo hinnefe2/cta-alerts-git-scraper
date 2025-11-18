@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "111588",
-    "Headline": "#112 Vincennes/111th Temporary Reroute at 111th/Sacramento",
-    "ShortDescription": "112 Vincennes/111th buses are temporarily rerouted via 111th, Western, 103rd, Kedzie and 111th over regular route due to, street blockage near 111th/Sacramento.",
-    "FullDescription": {
-      "#cdata-section": "<p>#112 Vincennes/111th&nbsp; buses are temporarily rerouted via 111th, Western, 103rd, Kedzie and 111th over regular route: due to, street blockage near 111th/Sacramento.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-18T16:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111588"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Vincennes/111th",
-        "ServiceId": "112",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/112/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a61a51c3-2de2-435c-ab4c-ca76346951b7"
-  },
-  {
     "AlertId": "111589",
     "Headline": "#48 South Damen Temporary Reroute at Damen/58th",
     "ShortDescription": "48 South Damen buses are temporarily rerouted via Damen, 55th, Ashland, 59th and Damen over regular route due to, street blockage near Damen/58th.",
@@ -66,39 +32,5 @@
     },
     "ttim": "0",
     "GUID": "0722d0ca-fa8d-49f9-8457-f185ff166ede"
-  },
-  {
-    "AlertId": "111590",
-    "Headline": "Blue Line Service Delayed near Western (Congress)",
-    "ShortDescription": "Blue Line trains are standing Western (Congress) due to police activity. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are standing Western (Congress) due to police activity.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#7 Harrison</strong></p>\r\n\r\n<p><strong>#50 Damen</strong></p>\r\n\r\n<p><strong>#49 Western</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-11-18T16:47:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111590"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "619f64c6-d540-4087-b8c2-06b0fb77e93a"
   }
 ]
