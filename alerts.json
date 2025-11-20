@@ -34,40 +34,6 @@
     "GUID": "bdd1bc05-b740-4058-940a-a33916552508"
   },
   {
-    "AlertId": "111606",
-    "Headline": "#20 Madison Temporary Westbound Reroute near Madison/Menard",
-    "ShortDescription": "Westbound 20 Madison buses are temporarily rerouted via Madison, Central, Washington and Austin: due to, fire department activity near Madison/Menard.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #20 Madison buses are temporarily rerouted via Madison, Central, Washington and Austin: due to, fire department activity near Madison/Menard.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-20T05:22:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111606"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Madison",
-        "ServiceId": "20",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/20/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "5c68f73d-3ec6-4ab9-8ed7-ca4c788f437a"
-  },
-  {
     "AlertId": "111607",
     "Headline": "#94 California Temporary Reroute near 51st/California",
     "ShortDescription": "94 California buses temp. rerouted : due to, street blockage near 51st/California.",
@@ -134,5 +100,73 @@
     },
     "ttim": "0",
     "GUID": "4cc721dc-2cc3-4323-bd66-7074d07b51a1"
+  },
+  {
+    "AlertId": "111615",
+    "Headline": "#34 South Michigan Temporary Reroute at 130th/Indiana",
+    "ShortDescription": "34 South Michigan buses are temporarily rerouted via Michigan, 115th, Bishop Ford and 103th: due to, street blockage near 130th/Indiana.",
+    "FullDescription": {
+      "#cdata-section": "<p>#34 South Michigan buses are temporarily rerouted via Michigan, 115th, Bishop Ford and 103th: due to, street blockage near 130th/Indiana.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-20T08:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111615"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Michigan",
+        "ServiceId": "34",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/34/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6481ac9c-9f6a-4784-9f8c-d4554f8f3011"
+  },
+  {
+    "AlertId": "111616",
+    "Headline": "#108 Halsted/95thTemporary Northbound Reroute near 130th/Indiana",
+    "ShortDescription": "Northbound  108 Halsted/95th buses are temporarily rerouted via 127th, Michigan, 115th, Bishop Ford and 130th: due to, street blockage near 130th/Indiana.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound&nbsp; #108 Halsted/95th buses are temporarily rerouted via 127th, Michigan, 115th, Bishop Ford and 130th: due to, street blockage near 130th/Indiana.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-20T08:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111616"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Halsted/95th",
+        "ServiceId": "108",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "565a5c",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/108/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "69174e06-495c-43f1-97ae-94795525a924"
   }
 ]
