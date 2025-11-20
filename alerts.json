@@ -136,97 +136,50 @@
     "GUID": "4cc721dc-2cc3-4323-bd66-7074d07b51a1"
   },
   {
-    "AlertId": "111612",
-    "Headline": "95th/Dan Ryan-bound Subway Trains Rerouted to Elevated Tracks",
-    "ShortDescription": "95th-bound Red Line trains are temporarily rerouted to the elevated tracks between Fullerton and Cermak due to police activity at Lake.",
+    "AlertId": "111614",
+    "Headline": "Purple Line Delays",
+    "ShortDescription": "Howard- bound Purple Line trains are running w/residual delays following an earlier door problem at Foster. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are temporarily rerouted to the elevated tracks between Fullerton and Cermak due to police activity at Lake.</p>\r\n\r\n<h4>Red Line service to 95th/Dan Ryan</h4>\r\n\r\n<p>After stopping at Fullerton, <strong>95th-bound trains will be diverted and will make the following elevated station stops</strong>:</p>\r\n\r\n<ul>\r\n\t<li>Armitage (accessible)</li>\r\n\t<li>Sedgwick (accessible)</li>\r\n\t<li>Chicago (at Franklin; accessible)</li>\r\n\t<li>Merchandise Mart (accessible)</li>\r\n\t<li>Clark/lake (accessible)</li>\r\n\t<li>State/Lake</li>\r\n\t<li>Washington/Wabash (accessible)</li>\r\n\t<li>Adams/Wabash</li>\r\n\t<li>Roosevelt (elevated station west of Wabash; accessible)</li>\r\n</ul>\r\n\r\n<p>Then, trains will stop at Cermak-Chinatown and make all normal stops to 95th/Dan Ryan.</p>\r\n\r\n<p>Connections can be made between Howard-bound subway service and 95th-bound rerouted service via elevated lines at Fullerton (accessible), State/Lake (board at nearby elevated station on Orange Line side for 95th-bound Red Line service)&nbsp;and at Roosevelt (accessible).</p>\r\n\r\n<p>We apologize for the inconvenience and are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n\r\n<h4><span style=\"color: #c60c30\"><strong>Howard-bound service is not affected.</strong></span></h4>\r\n"
+      "#cdata-section": "<p>Howard- bound Purple Line trains are running w/residual delays following an earlier door problem at Foster.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2025-11-20T07:44:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111612"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Lake",
-          "ServiceId": "41660",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=87"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "2bd83a76-84f0-4255-976f-779af50215de"
-  },
-  {
-    "AlertId": "111613",
-    "Headline": "Howard- bound Red Line trains bypassing Lake",
-    "ShortDescription": "Howard- bound Red Line trains are running, but not stopping at Lake due to police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>Howard- bound Red Line trains are running, but not stopping at Lake due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
-    },
-    "SeverityScore": "58",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2025-11-20T07:47:00",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-11-20T08:06:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111613"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111614"
     },
     "ImpactedService": {
       "Service": [
         {
           "ServiceType": "T",
           "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Lake",
-          "ServiceId": "41660",
-          "ServiceBackColor": "c60c30",
+          "ServiceName": "Foster",
+          "ServiceId": "40520",
+          "ServiceBackColor": "522398",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=87"
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=57"
           }
         },
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "c81b4575-1559-463d-a5d4-0b4969a6d12b"
+    "GUID": "1068bf43-b637-409f-8848-917e4bb11997"
   }
 ]
