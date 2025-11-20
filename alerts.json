@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "111606",
-    "Headline": "#20 Madison Temporary Reroute at Madison/Menard",
-    "ShortDescription": "20 Madison buses are temporarily rerouted via Madison, Central, Washington and Austin: due to, fire department activity near Madison/Menard.",
+    "Headline": "#20 Madison Temporary Westbound Reroute near Madison/Menard",
+    "ShortDescription": "Westbound 20 Madison buses are temporarily rerouted via Madison, Central, Washington and Austin: due to, fire department activity near Madison/Menard.",
     "FullDescription": {
-      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted via Madison, Central, Washington and Austin: due to, fire department activity near Madison/Menard.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #20 Madison buses are temporarily rerouted via Madison, Central, Washington and Austin: due to, fire department activity near Madison/Menard.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -65,7 +65,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "c63b90d6-e805-44ab-8723-6d94076e18b0"
+    "GUID": "5c68f73d-3ec6-4ab9-8ed7-ca4c788f437a"
   },
   {
     "AlertId": "111607",
@@ -100,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "ff498c01-5230-4a7f-95a2-34d873a6150e"
+  },
+  {
+    "AlertId": "111608",
+    "Headline": "#51 51st Temporary Reroute at 51st/California",
+    "ShortDescription": "51 51st buses are temporarily rerouted via 51st, Western, 55th, California and 51st: due to, street blockage near 51st/California.",
+    "FullDescription": {
+      "#cdata-section": "<p>#51 51st&nbsp;&nbsp;buses are temporarily rerouted in both directions via 51st, Western, 55th, California and 51st&nbsp; due to street blockage near 51st/California.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-20T05:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111608"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "51st",
+        "ServiceId": "51",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/51/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4cc721dc-2cc3-4323-bd66-7074d07b51a1"
   }
 ]
