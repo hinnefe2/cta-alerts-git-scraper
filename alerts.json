@@ -65,7 +65,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "61813c78-b800-4cc3-9a82-96132af0b0a5"
+    "GUID": "e4387b4b-c5d6-444f-be0e-871d527e9d4a"
   },
   {
     "AlertId": "111635",
@@ -124,5 +124,39 @@
     },
     "ttim": "0",
     "GUID": "6d7ebfdc-3c0b-496b-8f15-c9b5686e5c87"
+  },
+  {
+    "AlertId": "111636",
+    "Headline": "#94 buses Temporary Northbound Reroute near California/Roosevelt",
+    "ShortDescription": "Northbound 94 buses are temporarily rerouted via California, Ogden, Sacramento, Roosevelt, California due to street blockage near California/Roosevelt.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #94 buses are temporarily rerouted via California, Ogden, Sacramento, Roosevelt, California due to street blockage near California/Roosevelt.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-20T17:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111636"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0dbdb8dc-be23-44de-8840-0a30766ac112"
   }
 ]
