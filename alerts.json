@@ -92,5 +92,63 @@
     },
     "ttim": "0",
     "GUID": "402abc04-6149-4318-82b8-8df45d6e9b37"
+  },
+  {
+    "AlertId": "111666",
+    "Headline": "#22 Clark, #62 Archer and #151 Sheridan Temporary Reroute near Dearborn/Jackson",
+    "ShortDescription": "22Clark, 62 Archer and 151 Sheridan buses are temporarily rerouted in both directions near Dearborn/Jackson, due to police activity near Dearborn/Jackson.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#22 Clark, #62 Archer and #151 Sheridan buses are temporarily rerouted in both directions near Dearborn/Jackson, due to police activity near Dearborn/Jackson.</p>\r\n\r\n<p>Northbound #22 Clark and 362 Archer&nbsp;buses will operate via Dearborn, Jackson, State, Madison, Dearborn and over regular route.</p>\r\n\r\n<p>Northbound #151 Sheridan buses will operate via Dearborn, State, Washington and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-22T01:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111666"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "01a2842a-179e-41a2-934f-0b1d0df8f9a4"
   }
 ]
