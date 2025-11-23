@@ -1,36 +1,49 @@
 [
   {
-    "AlertId": "111678",
-    "Headline": "#49B North Western Temporary Reroute at Western/Granville",
-    "ShortDescription": "#49B North Western buses are temp rerouted in both directions via Western, Peterson California, Devon and Western, due to police activity near Western/Granville",
+    "AlertId": "111679",
+    "Headline": "#6 Jackson Park Express & #J14 Jeffery Jump Temporary Reroute at  Lake Shore Drive/38th",
+    "ShortDescription": "Southbound #6 Jackson Park Express & #J14 Jeffery Jump buses are temporarily rerouted via Lake Shore Drive, 39th, Cottage Grove, 47th & Lake Shore Drive.",
     "FullDescription": {
-      "#cdata-section": "<p>#49B North Western buses are temporarily rerouted in both directions via Western, Peterson California, Devon and Western, then resume their normal route, due to police activity near Western/Granville.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #6 Jackson Park Express &amp; #J14 Jeffery Jump buses are temporarily rerouted via Lake Shore Drive, 39th, Cottage Grove, 47th &amp; Lake Shore Drive, then resume their normal route, due to police activity near Lake Shore Drive/38th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-23T06:18:00",
+    "EventStart": "2025-11-23T06:45:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111678"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111679"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "North Western",
-        "ServiceId": "49B",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/49b/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "26a6261b-5da9-40dc-9d2b-95dea5ea3ea4"
+    "GUID": "70147196-30d4-485c-881c-09de50cdbcb8"
   }
 ]
