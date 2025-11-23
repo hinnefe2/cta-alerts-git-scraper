@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "111671",
-    "Headline": "Red Line Delays",
-    "ShortDescription": "Red Line trains are running w/residual delays and congestion following earlier police activity at Sox-35th. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running w/residual delays and congestion following earlier police activity at Sox-35th. Service is resuming, allow extra time.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-11-22T14:50:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111671"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "804cb305-c629-41d4-82e3-2a0c3e6f5be3"
-  },
-  {
     "AlertId": "111672",
     "Headline": "#112 Vincennes/111th Temporary Reroute at 111th/Sacramento",
     "ShortDescription": "112 Vincennes/111th buses are rerouted via 111th, Western, 115th, Kedzie and 111th over regular route: due to, street blockage near 111th/Sacramento.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "036b5dba-d863-4259-8a84-9cd1ed0a5980"
+  },
+  {
+    "AlertId": "111673",
+    "Headline": "147 Outer DuSable Lake Shore Express Temporary Reroute near State/Randolph",
+    "ShortDescription": "147 Outer DuSable Lake Shore Express buses are temporarily rerouted in both directions near State/Randolph due to festival near State/Randolph.",
+    "FullDescription": {
+      "#cdata-section": "<p>#147 Outer DuSable Lake Shore Express buses are temporarily rerouted in both directions near State/Randolph due to festival near State/Randolph.</p>\r\n\r\n<p>Northbound #147 Outer DuSable Lake Shore Exp. buses will operate via Ida B. Wells, State, Adams, LaSalle, North Ave., Lake Shore Drive and over regular route.</p>\r\n\r\n<p>Southbound #147 Outer DuSable Lake Shore Exp. buses will operate via LaSalle, Washington, Clark, Monroe, Dearborn, Washington, Michigan and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-22T18:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111673"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Outer DuSable Lake Shore Express",
+        "ServiceId": "147",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/147/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0e772ed0-9f9a-4bcb-9401-20ef121e35ce"
   }
 ]
