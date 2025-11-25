@@ -66,5 +66,86 @@
     },
     "ttim": "0",
     "GUID": "7ec9e954-d319-476b-b397-1bef7d0b5dfe"
+  },
+  {
+    "AlertId": "111710",
+    "Headline": "#108 Halsted/95th,\t#112 Vincennes/111th Temporary Reroute near 95th/Yale",
+    "ShortDescription": "108 Halsted/95th, 112 Vincennes/111th buses temp. rerouted : due to, street blockage near 95th/Yale.",
+    "FullDescription": {
+      "#cdata-section": "<p>#108 Halsted/95th, #112 Vincennes/111th buses temp. rerouted : due to, street blockage near 95th/Yale.</p>\r\n\r\n<p>Northbound&nbsp;buses will operate via 95th, Halsted, 87th, Lafayette and 95th including the normal route streets.</p>\r\n\r\n<p>Southbound&nbsp;buses will operate via 95th, State, 87th, Halsted and 95th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-25T08:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111710"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Halsted/95th",
+          "ServiceId": "108",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "565a5c",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/108/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Vincennes/111th",
+          "ServiceId": "112",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/112/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "91fdb023-3609-4c77-b860-9f0c643e4aa9"
+  },
+  {
+    "AlertId": "111711",
+    "Headline": "#95 95th Temporary Reroute near 95th/Yale",
+    "ShortDescription": "95 95th buses temp. rerouted : due to, street blockage near 95th/Yale.",
+    "FullDescription": {
+      "#cdata-section": "<p>#95 95th buses temp. rerouted : due to, street blockage near 95th/Yale.</p>\r\n\r\n<p>Eastbound buses will operate via 95th, Halsted, 87th, Lafayette and 95th including the normal route streets.</p>\r\n\r\n<p>Westbound buses will operate via 95th, State, 87th, Lafayette and 95th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-25T08:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111711"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "95th",
+        "ServiceId": "95",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/95/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4be0f818-ba5d-4749-a364-8d088a913bb7"
   }
 ]
