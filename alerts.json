@@ -34,50 +34,37 @@
     "GUID": "c1ba6e09-e92f-4b4f-bf33-83b527bc5f08"
   },
   {
-    "AlertId": "111777",
-    "Headline": "Howard- bound Red Line Delays",
-    "ShortDescription": "Howard- bound Red Line trains are running w/residual delays following earlier police activity at 47th. Service is resuming, allow extra time.",
+    "AlertId": "111779",
+    "Headline": "#91 Austin Temporary Northbound Reroute near Austin/Augusta",
+    "ShortDescription": "Northbound 91 Austin  buses are temporarily rerouted via Austin, Chicago, Central, Division and Austin: due to, fire department activity near Austin/Augusta.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard- bound Red Line trains are running w/residual delays following earlier police activity at 47th.</p>\r\n\r\n<p><strong>Shuttles buses are available from 63rd to Cermak to provide connecting service through the affected area.</strong><br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #91 Austin&nbsp; buses are temporarily rerouted via Austin, Chicago, Central, Division and Austin: due to, fire department activity near Austin/Augusta.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-11-27T11:42:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-27T12:20:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111777"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111779"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "47th",
-          "ServiceId": "41230",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=6"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Austin",
+        "ServiceId": "91",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/91/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "40cf9123-e191-4c27-a076-1d9836a795f3"
+    "GUID": "380206de-a8af-4bb5-9609-b0a32588a1db"
   }
 ]
