@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "4f8aa7ac-4d2c-4f61-acb2-f84e814e68e6"
+  },
+  {
+    "AlertId": "111827",
+    "Headline": "Green and Orange Line Service Delayed near Roosevelt",
+    "ShortDescription": "Green and Orange Line trains are standing near Roosevelt. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green and Orange Line trains are standing near Roosevelt.</p>\r\n\r\n<p>At this time, consider other alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>This may include:<br />\r\n#29 State<br />\r\n#62 Archer</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-11-30T11:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111827"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "61e1e19b-8898-453a-b858-94cd53308ccb"
   }
 ]
