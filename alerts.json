@@ -34,40 +34,6 @@
     "GUID": "0c01f716-557d-4a11-9a2d-28bea116c372"
   },
   {
-    "AlertId": "111821",
-    "Headline": "#103 West 103rd Temporary Reroute at 103rd/Sacramento",
-    "ShortDescription": "#103 West 103rd buses are temporarily rerouted in both directions via 103rd, Western, 99th, Kedzie and 103rd, due to street blockage near 103rd/Sacramento.",
-    "FullDescription": {
-      "#cdata-section": "<p>#103 West 103rd buses are temporarily rerouted in both directions via 103rd, Western, 99th, Kedzie and 103rd, then resume their normal route&nbsp;due to street blockage near 103rd/Sacramento.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-11-30T07:12:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111821"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "West 103rd",
-        "ServiceId": "103",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/103/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4f8aa7ac-4d2c-4f61-acb2-f84e814e68e6"
-  },
-  {
     "AlertId": "111833",
     "Headline": "#4 Cottage Grove Temporary Southbound Reroute near Michigan/29th",
     "ShortDescription": "Southbound 4 Cottage Grove buses are temporarily rerouted via Michigan, 29th, State, 31st and Michigan: due to, police activity near Michigan/29th.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "0d2c167e-f72b-4dd4-a622-f29c90c5987c"
+  },
+  {
+    "AlertId": "111835",
+    "Headline": "#94 California Temporary Northbound Reroute near California/35th",
+    "ShortDescription": "Northbound 94 California buses are temporarily rerouted via California, 35th, Western, 31st and California: due to, street blockage near California/35th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Northbound #94 California buses are temporarily rerouted via California, 35th, Western, 31st, California and over regular route, due to street blockage near California/35th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-11-30T19:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111835"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6354cf84-22c4-49b0-a67b-fc709f28f45f"
   }
 ]
