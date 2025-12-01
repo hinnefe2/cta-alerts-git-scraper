@@ -1,52 +1,5 @@
 [
   {
-    "AlertId": "111848",
-    "Headline": "Red Trains bypassing Thorndale",
-    "ShortDescription": "Red Line trains are running, but not stopping at Thorndale due to a medical emergency on the tracks.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running, but not stopping at Thorndale due to a medical emergency on the tracks.</p>\r\n\r\n<p><strong>Shuttle buses are available to provide connecting service between Granville and Bryn Mawr in both directions.</strong></p>\r\n\r\n<p>We apologize for this inconvenience and appreciate your understanding.</p>\r\n"
-    },
-    "SeverityScore": "58",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2025-12-01T14:46:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111848"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "f7a7324c-07e9-4a97-8d4a-1ffff35bc313"
-  },
-  {
     "AlertId": "111849",
     "Headline": "#X9 Ashland Express Temporary Southbound Reroute near Ashland/85th",
     "ShortDescription": "Southbound X9 Ashland Express buses are temporarily rerouted via Ashland, 79th, Racine, 87th and Ashland: due to, street blockage near Ashland/85th.",
