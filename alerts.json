@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "111845",
-    "Headline": "Red Line Service Delayed at Thorndale",
-    "ShortDescription": "Red Line trains are standing at Thorndale due to a medical emergency on the tracks. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing at Thorndale due to a medical emergency on the tracks.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#36 Broadway</strong></p>\r\n\r\n<p><strong>#151 Sheridan</strong></p>\r\n\r\n<p><strong>#84 Peterson</strong></p>\r\n\r\n<p><strong>#92 Foster</strong></p>\r\n\r\n<p><strong>Shuttle buses are available to provide connecting service between Howard and Belmont in both directions.</strong></p>\r\n\r\n<p><strong>Red Line trains will turn from north to south at Belmont to provide connecting&nbsp;service.</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "90",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Suspended",
-    "EventStart": "2025-12-01T13:37:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "1",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111845"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b216ec9f-0f11-4556-a42a-5134215dddc9"
-  },
-  {
     "AlertId": "111846",
     "Headline": "Purple Line Service Temporarily Suspended",
     "ShortDescription": "Service on the Purple Line has been temporarily suspended due to a medical emergency at Thorndale.",
@@ -66,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "b78117b8-8758-4407-85dc-cfa01f93a594"
+  },
+  {
+    "AlertId": "111848",
+    "Headline": "Red Line Trains bypassing Thorndale",
+    "ShortDescription": "Red Line trains are running, but not stopping at Thorndale due to a medical emergency on the tracks.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running, but not stopping at Thorndale due to a medical emergency on the tracks.</p>\r\n\r\n<p><strong>Red Line trains will turn from north to south at Belmont to provide connecting service.</strong></p>\r\n\r\n<p><span style=\"font-weight: bolder;\">Shuttle buses are available to provide connecting service between Howard and Belmont in both directions.</span></p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2025-12-01T14:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111848"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "32d1883a-5b85-4e66-86fe-6379e1b81fa6"
   }
 ]
