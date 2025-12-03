@@ -45,5 +45,39 @@
     },
     "ttim": "0",
     "GUID": "3fdbd95c-6c12-4701-bb14-810cddde709f"
+  },
+  {
+    "AlertId": "111903",
+    "Headline": "Red  Line Service Delayed at Harrison",
+    "ShortDescription": "Red Line trains are standing at Harrison due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are standing at Harrison due to police activity.</p>\r\n\r\n<p>At this time, also consider other alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-12-03T12:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111903"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d7f2825a-ae2a-4ead-a6fd-6f95e609143f"
   }
 ]
