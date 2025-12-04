@@ -34,37 +34,61 @@
     "GUID": "6a164575-8288-47ed-8065-ea4aa5f10802"
   },
   {
-    "AlertId": "111912",
-    "Headline": "Loop-bound Brown Line Service Delayed at Kimball ",
-    "ShortDescription": "Loop-bound Brown Line trains are standing at Kimball due to a door problem. Crews working to restore service.",
+    "AlertId": "111913",
+    "Headline": "95th-bound Red Line Service Delayed at Howard",
+    "ShortDescription": "95th-bound Red Line trains are standing at Howard due to a mechanical problem. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown Line trains are standing at Kimball due to a door problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Purple and Yellow Line trains are standing at Howard due to a mechanical problem.</p>\r\n\r\n<p>At this time, also consider other alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.&nbsp;</p>\r\n\r\n<p>This may include:<br />\r\n#151 Sheridan<br />\r\n#22 Clark<br />\r\n#97 Skokie<br />\r\n#147 Outer Drive Express</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-12-04T09:13:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-12-04T09:20:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111912"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111913"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Yellow Line",
+          "ServiceId": "Y",
+          "ServiceBackColor": "f9e300",
+          "ServiceTextColor": "000000",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/yellowline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "74c30577-593d-49bd-9cac-b7d682f4e234"
+    "GUID": "5f62b363-c620-47b9-a488-fd6ab0af7aa4"
   }
 ]
