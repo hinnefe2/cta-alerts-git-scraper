@@ -1,21 +1,21 @@
 [
   {
-    "AlertId": "111964",
-    "Headline": "Kimball-bound Brown Line Service Delayed at Belmont ",
-    "ShortDescription": "Kimball-bound Brown Line trains are standing near Belmont due to a mechanical problem.? Crews working to restore service.",
+    "AlertId": "111965",
+    "Headline": "Kimball-bound Brown Line Service Delayed at Southport ",
+    "ShortDescription": "Kimball-bound Brown Line trains are standing near Southport due to Signal problems.?Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Kimball-bound Brown Line trains are standing near Belmont&nbsp;due to a mechanical problem.</p>\r\n\r\n<p>At this time, also consider other alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Kimball-bound Brown Line trains are standing near Southport&nbsp; due to a Signal problems.</p>\r\n\r\n<p>Shuttle busses have been requested from Kimball to Belmont to provide connecting service</p>\r\n\r\n<p>At this time, also consider other alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.&nbsp;</p>\r\n\r\n<p>This may include<br />\r\n#77 Belmont<br />\r\n#22 Clark<br />\r\n#8 Halsted<br />\r\n#81 Lawrence<br />\r\n#80 Irving Park<br />\r\n#78 Montrose<br />\r\n#152 Addison</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2025-12-07T20:19:00",
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2025-12-07T20:53:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111964"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111965"
     },
     "ImpactedService": {
       "Service": {
@@ -31,6 +31,53 @@
       }
     },
     "ttim": "0",
-    "GUID": "9383c163-f23b-4f23-8d4d-d99b41a74da9"
+    "GUID": "af425a3f-f3d2-40a7-a1f7-2a31b8dfdc89"
+  },
+  {
+    "AlertId": "111966",
+    "Headline": "Kimball-bound Brown Line Service Delayed at Belmont",
+    "ShortDescription": "Kimball-bound Brown and Howard bound Line trains are standing near Belmont  due to a stalled train. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Kimball-bound Brown and Howard bound Line trains are standing near Belmont&nbsp; due to a stalled train.</p>\r\n\r\n<p>At this time, also consider other alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.&nbsp;</p>\r\n\r\n<p>This may include<br />\r\n#77 Belmont<br />\r\n#22 Clark<br />\r\n#8 Halsted<br />\r\n#81 Lawrence<br />\r\n#80 Irving Park<br />\r\n#78 Montrose<br />\r\n#152 Addison</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-12-07T20:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111966"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "77c373c0-7b96-4adb-a7e9-238e5901000d"
   }
 ]
