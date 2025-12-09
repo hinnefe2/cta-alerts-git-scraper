@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "bc670d93-fd32-4374-af6f-4a1203793213"
+  },
+  {
+    "AlertId": "111985",
+    "Headline": "Howard- bound Red Line Delays",
+    "ShortDescription": "Howard- bound Red Line trains are running w/residual delays at 69th. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard- bound Red Line trains are running w/residual delays at 69th.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-12-09T08:39:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=111985"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "69th",
+          "ServiceId": "40990",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=10"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9f2fd6d8-2718-4138-8f96-25402f9c8792"
   }
 ]
