@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "112015",
+    "Headline": "#8 Halsted Temporary Reroute at Halsted/North",
+    "ShortDescription": "8 Halsted buses are temporarily rerouted via Halsted, North Ave, Clybourn and Halsted: due to, street blockage near Halsted/North Ave.",
+    "FullDescription": {
+      "#cdata-section": "<p>#8 Halsted buses are temporarily rerouted via Halsted, North Ave, Clybourn and Halsted: due to, street blockage near Halsted/North Ave.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-12-10T09:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112015"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Halsted",
+        "ServiceId": "8",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/8/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0117e5d1-7520-4151-a4fd-af22162c135a"
+  },
+  {
+    "AlertId": "112016",
+    "Headline": "#151 Sheridan Temporary Northbound Reroute near Sheridan/Lawrence",
+    "ShortDescription": "Northbound 151 Sheridan buses are temporarily rerouted via Sheridan, Lawrence, Marine Dr., Foster, then resume their normal route on Sheridan.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #151 Sheridan buses are temporarily rerouted via Sheridan, Lawrence, Marine Dr., Foster, then resume their normal route on Sheridan, due to street blockage near Sheridan/Lawrence.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-12-10T09:30:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112016"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Sheridan",
+        "ServiceId": "151",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/151/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "867b2cdc-a53a-407b-aa1c-45cd9c5341bb"
+  }
+]
