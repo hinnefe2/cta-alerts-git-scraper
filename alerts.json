@@ -59,15 +59,15 @@
   },
   {
     "AlertId": "112036",
-    "Headline": "Howard-BOUND trains bypassing Fullerton ",
-    "ShortDescription": "Red, Purple and Brown Line trains are standing at Fullerton due to police activity. ",
+    "Headline": "Red, Brown, Purple Line Delays",
+    "ShortDescription": "Red, Brown, Purple Line trains are running w/residual delays following earlier police activity at Fullerton. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Red, Purple and Brown Line trains are standing at Fullerton due to police activity.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>These may include</p>\r\n\r\n<p>#74 Fullerton</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red, Brown, Purple&nbsp;Line trains are running w/residual delays and congestion following earlier police activity at Fullerton. Service is resuming, allow extra time.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "58",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2025-12-11T08:04:00",
     "EventEnd": null,
     "TBD": "1",
@@ -113,6 +113,74 @@
       ]
     },
     "ttim": "0",
-    "GUID": "5e629c02-e921-4d60-b653-b15b86a1b71e"
+    "GUID": "b1182b06-162b-4917-bfd8-2a7bfa8c0314"
+  },
+  {
+    "AlertId": "112037",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running w/residual delays and congestion Clark/Lake. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running w/residual delays and congestion Clark/Lake. Service is resuming, allow extra time.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-12-11T08:27:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112037"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "953275d5-95f4-4689-bc0e-8925342a5b6c"
+  },
+  {
+    "AlertId": "112038",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running w/residual delays and congestion Clark/Lake. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running w/residual delays and congestion Clark/Lake. Service is resuming, allow extra time.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-12-11T08:27:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112038"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7c54a32b-caac-4b8c-ab31-3b5ca9ef0d23"
   }
 ]
