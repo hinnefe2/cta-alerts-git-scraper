@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "badac299-57cd-4955-a931-822cd074a0d0"
+  },
+  {
+    "AlertId": "112118",
+    "Headline": "Kimball-bound Brown and Linden-Bound Purple Line Service Delayed at Sedgwick",
+    "ShortDescription": "Kimball-bound Brown and Linden-bound Purple Line trains are standing at Sedgwick due to a door problem on a train.  Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Kimball-bound Brown and Linden-bound Purple&nbsp;Line trains are standing at Sedgwick due to a door problem on a train.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-12-15T16:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112118"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1cdbd1b9-77eb-4cd6-9b6e-7f6404b89a49"
   }
 ]
