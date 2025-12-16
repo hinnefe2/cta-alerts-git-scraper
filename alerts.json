@@ -32,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "0d99bb12-3520-48db-839a-51c6c9be1e90"
+  },
+  {
+    "AlertId": "112125",
+    "Headline": "Yellow Line Service Temporarily Suspended",
+    "ShortDescription": "Service on the Yellow Line has been temporarily suspended due to a stalled train near the area of Prairie.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>Service on the Yellow Line has been temporarily suspended due to a stalled train near the area of Prairie.</strong></p>\r\n\r\n<ul>\r\n\t<li>Shuttle buses are requested to provide connecting service from <strong>Howard</strong> to <strong>Dempster-Skokie </strong>in both directions.</li>\r\n</ul>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "90",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Suspended",
+    "EventStart": "2025-12-16T04:45:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "1",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112125"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Yellow Line",
+        "ServiceId": "Y",
+        "ServiceBackColor": "f9e300",
+        "ServiceTextColor": "000000",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/yellowline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "de29d49e-aa0f-42a2-b9b9-1fd2c66e7653"
   }
 ]
