@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "112111",
-    "Headline": "#94 South California Temporary Reroute at California/54th",
-    "ShortDescription": "94 South California buses are temporarily rerouted in both directions via California, 55th, Kedzie, 51st, then resume their normal route on California.",
-    "FullDescription": {
-      "#cdata-section": "<p>#94 South California buses are temporarily rerouted in both directions via California, 55th, Kedzie, 51st, then resume their normal route on California.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>Why is service being changed?<br />\r\nBuses are rerouted due to street blockage near California/54th.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-12-15T08:41:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112111"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "California",
-        "ServiceId": "94",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/california/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0d99bb12-3520-48db-839a-51c6c9be1e90"
-  },
-  {
     "AlertId": "112125",
     "Headline": "Yellow Line Service Temporarily Suspended",
     "ShortDescription": "Service on the Yellow Line has been temporarily suspended due to a track condition near the area of Hamlin.",
@@ -68,37 +34,37 @@
     "GUID": "8fbc5402-e41b-45ef-b9f1-32a9e80f9bff"
   },
   {
-    "AlertId": "112128",
-    "Headline": "#34 South Michigan Temporary Reroute near 130th/King Drive",
-    "ShortDescription": "#34 South Michigan buses are temporarily rerouted in both directions due to street blockage near 130th/King Drive.",
+    "AlertId": "112130",
+    "Headline": "#91 Austin Temporary Southbound Reroute near Austin/Belden",
+    "ShortDescription": "Southbound #91 Austin buses are temporarily rerouted via Austin, Fullerton, Narragansett, Grand and Austin due to street blockage near Austin/Belden.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>#34 South Michigan buses are temporarily rerouted in both directions:</strong></p>\r\n\r\n<p><strong>Northbound</strong> buses will operate via 130th, Indiana, Langley, 131st, Ellis then resume their normal route.</p>\r\n\r\n<p><strong>Southbound</strong> buses will operate via Ellis,131st, Vernon, 134th, Indiana, 130th, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near 130th/King Drive.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong> #91 Austin buses are temporarily rerouted via Austin, Fullerton, Narragansett, Grand and Austin.</p>\r\n\r\n<p><strong>Northboun</strong>d buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Austin/Belden.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-12-16T07:23:00",
+    "EventStart": "2025-12-16T09:06:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112128"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112130"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Michigan",
-        "ServiceId": "34",
-        "ServiceBackColor": "414145",
+        "ServiceName": "Austin",
+        "ServiceId": "91",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/34/"
+          "#cdata-section": "http://www.transitchicago.com/bus/91/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "0df6f680-cf71-45d8-b18b-3fcea889db95"
+    "GUID": "46e2fc3e-00b2-4d58-91c9-17937a5c11b6"
   }
 ]
