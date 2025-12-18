@@ -1,36 +1,71 @@
 [
   {
-    "AlertId": "112166",
-    "Headline": "Green Line Trains bypassing Cicero/Lake Station",
-    "ShortDescription": "Green Line trains are running, but not stopping at Cicero/Lake due to flooding.",
+    "AlertId": "112168",
+    "Headline": "#85 Central &  #85A North Central, #68 Northwest Highway, #92 Foster Temporary Reroute near Milwaukee/Gale",
+    "ShortDescription": "85 Central & 85A North Central, WB 68 Northwest Highway, EB 92 Foster buses are rerouted in both directions due to street blockage near Milwaukee/Gale.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>Green Line trains are running, but not stopping at Cicero/Lake&nbsp;due to flooding.</strong></p>\r\n\r\n<ul>\r\n\t<li>As a result of the delay, shuttle buses are available to provide connecting service from <strong>Pulaski/Lake </strong>to <strong>Laramie/Lake,</strong> in both directions.</li>\r\n</ul>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines. These may include:</p>\r\n\r\n<ul>\r\n\t<li><strong>#54 Cicero buses.</strong></li>\r\n</ul>\r\n\r\n<p>We apologize for this inconvenience and appreciate your understanding.</p>\r\n"
+      "#cdata-section": "<p>#85 Central &amp;&nbsp; #85A North Central,&nbsp;Westbound #68 Northwest Highway,&nbsp;Eastbound #92 Foster buses are temporarily rerouted in both directions&nbsp; due to street blockage near Milwaukee/Gale.</p>\r\n\r\n<p>#85 Central &amp;&nbsp; #85A North Central&nbsp; buses are temporarily rerouted in both directions via Gale, Higgins and&nbsp; resume their normal route on Central.</p>\r\n\r\n<p>Westbound #68 Northwest Highway buses are temporarily rerouted via Gale, Higgins, Central, Northwest Highway over normal route.</p>\r\n\r\n<p>Eastbound #92 Foster buses are temporarily rerouted via Gale, Higgins, Central, Foster and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "58",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2025-12-18T04:35:00",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-12-18T06:27:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112166"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112168"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Northwest Highway",
+          "ServiceId": "68",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/68/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Central",
+          "ServiceId": "85",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/85/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "North Central",
+          "ServiceId": "85A",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/85a/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Foster",
+          "ServiceId": "92",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/92/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "b87d185e-92ce-4ee5-8429-95acf9117d3e"
+    "GUID": "ba53c804-b3ed-43ad-a1ea-72e0b2a6518d"
   }
 ]
