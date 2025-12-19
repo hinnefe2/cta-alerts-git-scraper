@@ -79,5 +79,52 @@
     },
     "ttim": "0",
     "GUID": "0a360dc8-4188-4cce-af52-5a71c37705a3"
+  },
+  {
+    "AlertId": "112186",
+    "Headline": "Forest Park- bound Blue Line Service Delayed at Damen",
+    "ShortDescription": "Forest Park- bound Blue Line trains are standing at Damen due to fire department activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park- bound Blue Line trains are standing at Damen due to Fire Department activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-12-19T06:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112186"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Damen",
+          "ServiceId": "40590",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=50"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5998fa64-1346-47e5-8353-429d19284671"
   }
 ]
