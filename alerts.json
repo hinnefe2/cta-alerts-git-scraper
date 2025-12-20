@@ -113,5 +113,52 @@
     },
     "ttim": "0",
     "GUID": "add04a15-88d8-42ce-a1f9-531f24a838e0"
+  },
+  {
+    "AlertId": "112213",
+    "Headline": "95th- bound Red Line Delays",
+    "ShortDescription": "95th- bound Red Line trains are running w/residual delays following an earlier door problem at Morse. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th- bound Red Line trains are running w/residual delays following an earlier door problem at Morse.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-12-20T09:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112213"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Morse",
+          "ServiceId": "40100",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=104"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "cd3201c4-b41b-4544-aec2-4b53f02642b8"
   }
 ]
