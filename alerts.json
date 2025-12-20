@@ -35,15 +35,15 @@
   },
   {
     "AlertId": "112210",
-    "Headline": "O'Hare- bound Blue Line Service Delayed at Clark/Lake",
-    "ShortDescription": "O'Hare- bound Blue Line trains are standing at Clark/Lake due toa sick rider. Crews working to restore service.",
+    "Headline": "O'Hare- bound Blue Line Delays",
+    "ShortDescription": "O'Hare- bound Blue Line trains are running w/residual delays following an earlier sick rider at Clark/Lake. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare- bound Blue Line trains are standing at Clark/Lake due toa sick rider.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare- bound Blue Line trains are running w/residual delays following an earlier sick rider at Clark/Lake.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2025-12-20T08:47:00",
     "EventEnd": null,
     "TBD": "1",
@@ -78,6 +78,53 @@
       ]
     },
     "ttim": "0",
-    "GUID": "6db83312-69c8-4b4d-86ac-9a0189d818c1"
+    "GUID": "b02bfc49-7df8-468b-ba53-40f531b8f8f3"
+  },
+  {
+    "AlertId": "112211",
+    "Headline": "#J14 Jeffery Jump, #15 Jeffery Local Temporary Reroute at 103rd/Oglesby",
+    "ShortDescription": "J14 Jeffery Jump, 15 Jeffery Local  buses are temporarily rerouted via 103rd, Stony Island, 95th and Jeffery: due to, police activity near103rd/Oglesby.",
+    "FullDescription": {
+      "#cdata-section": "<p>#J14 Jeffery Jump, #15 Jeffery Local&nbsp; buses are temporarily rerouted via 103rd, Stony Island, 95th and Jeffery: due to, police activity near103rd/Oglesby.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-12-20T08:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112211"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b8154ea5-d0d0-4744-9ac8-d6c31eca4dd2"
   }
 ]
