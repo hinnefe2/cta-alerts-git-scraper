@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "389debde-3407-4769-81b2-21985bd5ba80"
+  },
+  {
+    "AlertId": "112233",
+    "Headline": "#111 King Drive/111th and #115 Pullman/115th Temporary Southbound Reroute near 116th/Marshfield",
+    "ShortDescription": "Southbound #111 King Drive/111th and #115 Pullman/115th buses are temporarily rerouted due to street blockage near 116th/Marshfield ",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #111 King Drive/111th buses are temporarily rerouted via 111th, Vincennes, 119th, Ashland and proceed to 115th: due to, street blockage near 116th/Marshfield.</p>\r\n\r\n<p>Southbound #115 Pullman/115th buses are temporarily rerouted via 115th, Vincennes, 119th, Ashland over regular route due to, street blockage near 116th/Marshfield.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-12-21T06:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112233"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "111th/King Drive",
+          "ServiceId": "111",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/111/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Pullman/115th",
+          "ServiceId": "115",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/115/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "db0768db-a4ab-4bc0-9e9b-b659ca6512ea"
   }
 ]
