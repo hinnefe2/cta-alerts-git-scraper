@@ -1,36 +1,49 @@
 [
   {
-    "AlertId": "112235",
-    "Headline": "152 Addison Temporary Reroute at Addison/Pulaski",
-    "ShortDescription": "152 Addison buses are temporarily rerouted in both directions via Addison, Pulaski, Belmont, Cicero and Addison due to, street blockage near Addison/Pulaski.",
+    "AlertId": "112243",
+    "Headline": "#J14 Jeffery Jump and #15 Jeffery Local Temporary Reroute near Jeffery/70th",
+    "ShortDescription": "J14 Jeffery Jump and 15 Jeffery Local buses are temporarily rerouted in both directions near Jeffery/70th, due to street blockage near Jeffery/70th.",
     "FullDescription": {
-      "#cdata-section": "<p>#152 Addison buses are temporarily rerouted in both directions via Addison, Pulaski, Belmont, Cicero and Addison due to, street blockage near Addison/Pulaski.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#J14 Jeffery Jump and #15 Jeffery Local buses are temporarily rerouted in both directions near Jeffery/70th, due to street blockage near Jeffery/70th.</p>\r\n\r\n<p>#J14 Jeffery Jump buses will operate via Jeffery, 75th, Stoney Island, 67th, Jeffery and over regular route.</p>\r\n\r\n<p>#15 Jeffery Local buses will operate via Jeffery, 75th, Stoney Island, 67th and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-12-21T07:42:00",
+    "EventStart": "2025-12-21T20:17:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112235"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112243"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Addison",
-        "ServiceId": "152",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/152/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "3b07f31e-2c83-43f7-a6fa-a96354145cad"
+    "GUID": "40af06f2-0e78-4aa5-bc38-a7ffb3e35758"
   }
 ]
