@@ -69,7 +69,7 @@
   },
   {
     "AlertId": "112267",
-    "Headline": "Loop-bound CTA rider Service Delayed near Washington/Wells",
+    "Headline": "Delays on Loop 'L' (elevated lines)",
     "ShortDescription": "Loop-bound CTA riders trains are standing near Washington/Wells due to an unauthorized person on the tracks. Crews working to restore service.",
     "FullDescription": {
       "#cdata-section": "<p>Loop-bound CTA riders trains are standing near Washington/Wells due to&nbsp;an unauthorized person on the tracks.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#22 Clark</strong></p>\r\n\r\n<p><strong>#12 Roosevelt</strong></p>\r\n\r\n<p><strong>#29 State</strong></p>\r\n\r\n<p><strong>Shuttle buses have been requested to provide connecting service between the affected area in both directions.</strong></p>\r\n\r\n<p><u><b>Green Line:</b></u></p>\r\n\r\n<p><b>Clinton/Lake to Roosevelt&nbsp;</b></p>\r\n\r\n<p><u><b>Orange Line:</b></u></p>\r\n\r\n<p><b>Adams/Wabash to Roosevelt</b></p>\r\n\r\n<p><u><b>Brown Line:</b></u></p>\r\n\r\n<p><b>Southport to Clark/Lake</b></p>\r\n\r\n<p><u><b>Pink Line service has been temporarily suspended.</b></u></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
@@ -134,6 +134,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "f4c6f227-c65a-4563-808c-fd4737bd1417"
+    "GUID": "9736ef91-36a2-4203-9344-2a8541e67082"
+  },
+  {
+    "AlertId": "112268",
+    "Headline": "Pink Line Service Temporarily Suspended",
+    "ShortDescription": "Service on the Pink Line has been temporarily suspended due to an medical emergency.",
+    "FullDescription": {
+      "#cdata-section": "<p>Service on the Pink Line has been temporarily suspended due to an medical emergency.</p>\r\n\r\n<p>Shuttle buses are available to provide connecting service through the affected area.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><u><span style=\"font-weight: bolder;\">Green Line:</span></u></p>\r\n\r\n<p><span style=\"font-weight: bolder;\">Clinton/Lake to Roosevelt&nbsp;</span></p>\r\n\r\n<p><u><span style=\"font-weight: bolder;\">Orange Line:</span></u></p>\r\n\r\n<p><span style=\"font-weight: bolder;\">Adams/Wabash to Roosevelt</span></p>\r\n\r\n<p><u><span style=\"font-weight: bolder;\">Brown Line:</span></u></p>\r\n\r\n<p><span style=\"font-weight: bolder;\">Southport to Clark/Lake</span></p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "90",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Suspended",
+    "EventStart": "2025-12-23T01:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "1",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112268"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "37ae287f-9674-46b9-b4a3-631d35f4f9fc"
   }
 ]
