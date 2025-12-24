@@ -103,15 +103,15 @@
   },
   {
     "AlertId": "112292",
-    "Headline": "No trains between 95th and Roosevelt",
-    "ShortDescription": "Red Line service has been temporarily suspended between 95th and Roosevelt due to fire department activity.",
+    "Headline": "Howard- BOUND Red Line  trains bypassing Garfield",
+    "ShortDescription": "Howard- bound Red Line trains are running, but not stopping at Garfield due to fire department activity.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line service has been temporarily suspended between 95th and Roosevelt due to fire department activity.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Howard&nbsp;and Roosevelt at this time.</strong></p>\r\n\r\n<p><strong>Shuttle buses are available&nbsp;from Roosevelt to 95th&nbsp; provide connecting service through the affected area.&nbsp;</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p><strong>#29 State</strong></p>\r\n\r\n<p><strong>#24 Wentworth</strong></p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard- bound Red Line trains are running, but not stopping at Garfield due to fire department activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
     "EventStart": "2025-12-24T11:11:00",
     "EventEnd": null,
     "TBD": "1",
@@ -146,6 +146,53 @@
       ]
     },
     "ttim": "0",
-    "GUID": "0cbafb46-5677-48ed-b252-998cb265e788"
+    "GUID": "c364823a-6460-4e88-902c-85cd38eec5f7"
+  },
+  {
+    "AlertId": "112293",
+    "Headline": "95th- Bound Red Line Service Delayed at Garfield",
+    "ShortDescription": "95th- bound Red Line trains are standing  at Garfield due to fire department activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th- bound Red Line trains are standing&nbsp; at Garfield due to fire department activity.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.&nbsp;</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p><strong>#29 State</strong></p>\r\n\r\n<p><strong>#24 Wentworth</strong></p>\r\n\r\n<p><strong>Shuttles busses are available from Sox-35th to 95th to provide connecting service through the affected area.</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-12-24T12:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112293"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Garfield",
+          "ServiceId": "41170",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=61"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e5dc7e03-b0a4-40c9-a109-bb470448d0aa"
   }
 ]
