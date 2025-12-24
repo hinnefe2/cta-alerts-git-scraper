@@ -100,52 +100,5 @@
     },
     "ttim": "0",
     "GUID": "9783d48f-83d6-4d79-97a6-0f3c5c196914"
-  },
-  {
-    "AlertId": "112291",
-    "Headline": "Red Trains bypassing Lake",
-    "ShortDescription": "Red Line trains are running, but not stopping at Lake due to police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running, but not stopping at Lake due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
-    },
-    "SeverityScore": "58",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2025-12-24T09:05:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112291"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Lake",
-          "ServiceId": "41660",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=87"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "b467f2e9-a2ea-455e-be06-6c37a4c8f190"
   }
 ]
