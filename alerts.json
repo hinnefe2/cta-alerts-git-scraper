@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "90320bca-16b7-4a72-be8c-21bae2109f43"
+  },
+  {
+    "AlertId": "112301",
+    "Headline": "Orange Line Service Running with Delays",
+    "ShortDescription": "Orange Line trains are running with wait times of up to 30 minutes; we're working to restore service. Allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange Line trains are running with wait times of up to 30 minutes; we&#39;re working to restore service.</p>\r\n\r\n<p>Use trackers to look for live arrival information and consider available alternatives, such a local bus routes or buses to/from other &#39;L&#39; lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2025-12-25T04:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112301"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e328b0a2-879c-4b1f-bc05-335caa3b1d5e"
   }
 ]
