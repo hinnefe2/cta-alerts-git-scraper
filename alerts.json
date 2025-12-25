@@ -1,49 +1,36 @@
 [
   {
-    "AlertId": "112303",
-    "Headline": "Blue Line Service Delayed at Cicero",
-    "ShortDescription": "Blue Line trains are standing near Cicero due to an unauthorized person on the tracks. Crews working to restore service.",
+    "AlertId": "112305",
+    "Headline": "#112 Vincennes/111thTemporary Reroute at 111th/Kedzie",
+    "ShortDescription": "112 Vincennes/111th buses are temporarily rerouted via 111th, Western, 115th, Kedzie and 111th: due to, street blockage near 111th/Kedzie.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are standing near Cicero due to an unauthorized person on the tracks.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#112 Vincennes/111th buses are temporarily rerouted via 111th, Western, 115th, Kedzie and 111th: due to, street blockage near 111th/Kedzie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2025-12-25T12:36:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-12-25T14:35:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112303"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112305"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Cicero",
-          "ServiceId": "40970",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=40"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Vincennes/111th",
+        "ServiceId": "112",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/112/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "138b588d-712a-4f9a-831e-a1b71642d7d9"
+    "GUID": "17f58c88-543a-4325-a552-899ef5e8555c"
   }
 ]
