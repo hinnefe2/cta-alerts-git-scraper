@@ -1,5 +1,73 @@
 [
   {
+    "AlertId": "112253",
+    "Headline": "#J14 Jeffery Jump Temporary Reroute near Jeffery/73rd",
+    "ShortDescription": "J14 Jeffery Jump buses are rerouted in both directions: due to street blockage near Jeffery/73rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#J14 Jeffery Jump buses are temporarily rerouted in both directions:&nbsp;</p>\r\n\r\n<p><strong>Northbound </strong>via Jeffery, 73rd, Yates, 71st, Jeffery, and resume normal route.<br />\r\n<strong>Southbound </strong>via Jeffery, 67th, Stony Island, 73rd, Jeffery and resume normal route due to street blockage near Jeffery/73rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-12-22T08:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112253"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Jump",
+        "ServiceId": "J14",
+        "ServiceBackColor": "0065BD",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "70d1178f-5249-48a6-97ee-ca4947a84a35"
+  },
+  {
+    "AlertId": "112254",
+    "Headline": "#15 Jeffrey Local Temporary Reroute near Jeffery/73rd",
+    "ShortDescription": "15 Jeffrey Local buses are temporarily rerouted in both directions due to: street blockage near Jeffery/73rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#15 Jeffrey Local buses are temporarily rerouted in both directions:&nbsp;</p>\r\n\r\n<p><strong>Northbound </strong>via Jeffery, 73rd, Yates, 71st, Jeffery, and resume normal route.<br />\r\n<strong>Southbound </strong>via Stony Island, 73rd, Jeffery and resume normal route due to street blockage near Jeffery/73rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-12-22T08:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112254"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Local",
+        "ServiceId": "15",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/15/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0cacfe26-f33a-4327-b9d0-e34d2b234029"
+  },
+  {
     "AlertId": "112305",
     "Headline": "#112 Vincennes/111thTemporary Reroute at 111th/Kedzie",
     "ShortDescription": "112 Vincennes/111th buses are temporarily rerouted via 111th, Western, 115th, Kedzie and 111th: due to, street blockage near 111th/Kedzie.",
