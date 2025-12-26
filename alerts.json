@@ -181,5 +181,86 @@
     },
     "ttim": "0",
     "GUID": "9d05ae5a-5af9-4351-bc85-7d4f45e968a1"
+  },
+  {
+    "AlertId": "112316",
+    "Headline": "Howard- bound Red Line Service Delayed at 69th",
+    "ShortDescription": "Howard- bound Red Line trains are standing at 69th due to a door problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard- bound Red Line trains are standing at 69th due to a door problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-12-26T08:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112316"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "69th",
+          "ServiceId": "40990",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=10"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1b8e7de0-8238-4c3b-82d2-ee5c3cd6db99"
+  },
+  {
+    "AlertId": "112317",
+    "Headline": "#77 Belmont Temporary Reroute at Belmont/Lawndale",
+    "ShortDescription": "77 Belmont buses are temporarily rerouted via Belmont, Central Park, Milwaukee and Belmont: due to, street blockage near Belmont/Lawndale.",
+    "FullDescription": {
+      "#cdata-section": "<p>#77 Belmont buses are temporarily rerouted via Belmont, Central Park, Milwaukee and Belmont: due to, street blockage near Belmont/Lawndale.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-12-26T08:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112317"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Belmont",
+        "ServiceId": "77",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/77/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c0b66a8c-bb16-4d81-a510-ca682c91d187"
   }
 ]
