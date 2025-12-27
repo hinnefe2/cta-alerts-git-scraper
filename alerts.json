@@ -100,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "afa99a08-4acc-4fa2-afba-e98c8c2cd57e"
+  },
+  {
+    "AlertId": "112345",
+    "Headline": "Purple Line Service Running with Delays",
+    "ShortDescription": "Purple Line trains are running but will board and exit via the Southbound platform due to track switching problems. ",
+    "FullDescription": {
+      "#cdata-section": "<p>Purple Line trains are running but will board and exit via the Southbound platform due to track switching problems.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-12-27T15:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112345"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c8502ccc-056e-4911-ab63-7b1a751993f8"
   }
 ]
