@@ -136,40 +136,6 @@
     "GUID": "10c835ab-8250-458d-8fea-7e70352cb781"
   },
   {
-    "AlertId": "112362",
-    "Headline": "#53 Pulaski Temporary Reroute at Pulaski/23rd",
-    "ShortDescription": "53 Pulaski buses are temporarily rerouted via Pulaski, Cermak, Kostner, 26th and Pulaski: due to, street blockage near Pulaski/23rd.",
-    "FullDescription": {
-      "#cdata-section": "<p>#53 Pulaski buses are temporarily rerouted via Pulaski, Cermak, Kostner, 26th and Pulaski: due to, street blockage near Pulaski/23rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-12-28T12:41:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112362"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pulaski",
-        "ServiceId": "53",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/53/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "aaedaef4-b773-47e5-8225-a81ed01d3f81"
-  },
-  {
     "AlertId": "112363",
     "Headline": "#35 35th buses Temporary Reroute at Kedzie/35th",
     "ShortDescription": "35 35th buses are temporarily rerouted in both directions via 31st, California, 36th, over normal route due to, street blockage near Kedzie/35th.",
@@ -304,5 +270,73 @@
     },
     "ttim": "0",
     "GUID": "3aa6424f-167b-4e09-9a41-c9971da9ea67"
+  },
+  {
+    "AlertId": "112372",
+    "Headline": "#63 63rd Temporary Westbound Reroute near 63rd/State",
+    "ShortDescription": "Westbound 63 63rd buses are temporarily rerouted via 63rd, State, 59th, Lafayette, 63rd over normal route, due to street blockage near 63rd/State.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #63 63rd buses are temporarily rerouted via 63rd, State, 59th, Lafayette, 63rd over normal route, due to street blockage near 63rd/State.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-12-28T19:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112372"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a6293b6e-9123-4483-89b1-95e6ecc1aeba"
+  },
+  {
+    "AlertId": "112373",
+    "Headline": "#63 63rd Temporary Reroute at 63rd/Ellis",
+    "ShortDescription": "63 63rd buses are temporarily rerouted in both directions via 63rd, Ellis, 61st, Woodlawn, and 63rd over normal route, due to street blockage near 63rd/Ellis.",
+    "FullDescription": {
+      "#cdata-section": "<p>#63 63rd buses are temporarily rerouted in both directions via 63rd, Ellis, 61st, Woodlawn, and 63rd over normal route, due to street blockage near 63rd/Ellis.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2025-12-28T19:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112373"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a917c36d-8059-49e1-9fc5-51eda9593f74"
   }
 ]
