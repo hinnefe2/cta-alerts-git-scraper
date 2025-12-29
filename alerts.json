@@ -68,37 +68,50 @@
     "GUID": "8a9098d7-a3e6-49d5-a939-b36de0f48a3a"
   },
   {
-    "AlertId": "112379",
-    "Headline": "#112 Vincennes/111th |Temporary Reroute at 111th/Sacramento",
-    "ShortDescription": "112 Vincennes/111th buses are temporarily rerouted via 111th, Western, 103rd, Kedzie, 111th and Pulaski : due to, street blockage near 111th/Sacramento.",
+    "AlertId": "112384",
+    "Headline": "Forest Park- Bound Blue Line Delays",
+    "ShortDescription": "Forest Park- Bound Blue Line trains are running w/residual delays following earlier signal problems at Rosemont. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>#112 Vincennes/111th buses are temporarily rerouted via 111th, Western, 103rd, Kedzie, 111th and Pulaski : due to, street blockage near 111th/Sacramento</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park- Bound Blue Line trains are running w/residual delays following earlier signal problems at Rosemont.&nbsp;<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-12-29T05:58:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2025-12-29T07:33:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112379"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112384"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Vincennes/111th",
-        "ServiceId": "112",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/112/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Rosemont",
+          "ServiceId": "40820",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=123"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "51899d0f-bd55-4c9c-a3fe-a7bef0a2fe10"
+    "GUID": "22fd1bf7-608f-478f-b7c3-b8ddf6607898"
   }
 ]
