@@ -1,36 +1,71 @@
 [
   {
-    "AlertId": "112387",
-    "Headline": "#75 74th-75th |Temporary Westbound Reroute near 75th/South Chicago",
-    "ShortDescription": "Westbound  75 74th-75th buses are temporarily rerouted via 75th, Stony island, 76th,  South Chicago and 75th: due to, street blockage near 75th/South Chicago.",
+    "AlertId": "112413",
+    "Headline": " #126 Jackson, #7 Harrison, #1 Indiana/Hyde Park and # 28 Stony Island Temporary Eastbound Reroute near Jackson/State",
+    "ShortDescription": "EB #126 Jackson, #7 Harrison, #1 Indiana/Hyde Park and # 28 Stony Island buses are temporarily rerouted via Jackson, Clark, Ida B. Wells, State & Jackson.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound&nbsp; 75 74th-75th buses are temporarily rerouted via 75th, Stony island, 76th,&nbsp; South Chicago and 75th: due to, street blockage near 75th/South Chicago.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Eastbound</strong> #126 Jackson, #7 Harrison,&nbsp; 1 Indiana/Hyde Park and # 28 Stony Island buses are temporarily rerouted via Jackson, Clark, Ida B. Wells, State, then resume their normal route on Jackson.</p>\r\n\r\n<p><strong>Westbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>Why is service being changed?</p>\r\n\r\n<p>Buses are rerouted due to street blockage near Jackson/State.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2025-12-29T08:50:00",
+    "EventStart": "2025-12-31T07:12:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112387"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112413"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "74th-75th",
-        "ServiceId": "75",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/75/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Harrison",
+          "ServiceId": "7",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/7/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stony Island",
+          "ServiceId": "28",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/28/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson",
+          "ServiceId": "126",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/126/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Bronzeville/Union Station",
+          "ServiceId": "1",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "565a5c",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/1/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "ccc73b02-e077-4ceb-bc05-5cf910e1d123"
+    "GUID": "9f1cb280-3192-4021-9bb3-f1d8ac898a61"
   }
 ]
