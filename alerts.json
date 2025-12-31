@@ -67,5 +67,52 @@
     },
     "ttim": "0",
     "GUID": "9f1cb280-3192-4021-9bb3-f1d8ac898a61"
+  },
+  {
+    "AlertId": "112421",
+    "Headline": "Howard- Bound Red Line Service Delayed at Clark/Division",
+    "ShortDescription": "Howard- Bound Red Line trains are standing at Clark/Division due to sick rider. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard- Bound Red Line trains are standing at Clark/Division due to sick rider.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2025-12-31T12:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112421"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Clark/Division",
+          "ServiceId": "40630",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=42"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1273ffda-9b05-4bd7-88e5-897719ee36aa"
   }
 ]
