@@ -100,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "a8bb55f1-ea96-4ca7-ba4a-c9ace8f86238"
+  },
+  {
+    "AlertId": "112448",
+    "Headline": "#66 Chicago Temporary Reroute near Chicago/Kostner",
+    "ShortDescription": "66 Chicago buses are temporarily rerouted in both directions due to street blockage near Chicago/Kostner.",
+    "FullDescription": {
+      "#cdata-section": "<p>#66 Chicago buses are temporarily rerouted in both directions due to street blockage near Chicago/Kostner.</p>\r\n\r\n<p>Westbound buses will operate via Chicago, Kostner, Augusta, Cicero, then resume normal route on Chicago.</p>\r\n\r\n<p>Eastbound buses will operate via Chicago, Cicero, Augusta, Kostner, then resume normal route on Chicago.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-01T17:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112448"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e256a269-d441-46ea-a0b4-49e750f30470"
   }
 ]
