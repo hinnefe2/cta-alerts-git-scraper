@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "112485",
-    "Headline": "#94 California Temporary Reroute at California/24th",
-    "ShortDescription": "94 California buses are temporarily rerouted via California, 24th Blvd, Marshall Blvd, Cermak and California: due to, street blockage near California/24th..",
+    "Headline": "#94 California Temporary Reroute near California/24th",
+    "ShortDescription": "94 California buses are temporarily rerouted in both directions near California/24th due to street blockage near California/24th.",
     "FullDescription": {
-      "#cdata-section": "<p>#94 California buses are temporarily rerouted via California, 24th Blvd, Marshall Blvd, Cermak and California: due to, street blockage near California/24th..</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#94 California buses are temporarily rerouted in both directions near California/24th due to street blockage near California/24th.</p>\r\n\r\n<p>Northbound buses will operate via California, 24th Blvd., Cermak and California, over normal route.</p>\r\n\r\n<p>Southbound buses will operate via California, Cermak, 24th Blvd. and California over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -65,7 +65,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "6da644e9-77d7-49ad-9879-bff98d048f04"
+    "GUID": "90e06679-f554-458e-b5c4-5e75cc3ea3dd"
   },
   {
     "AlertId": "112486",
@@ -100,39 +100,5 @@
     },
     "ttim": "0",
     "GUID": "9f6f2235-05d5-466b-a1fb-94d552fdd935"
-  },
-  {
-    "AlertId": "112488",
-    "Headline": "Blue Line Delays",
-    "ShortDescription": "Blue Line trains are running w/residual delays following earlier police activity at Pulaski. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running w/residual delays following earlier police activity at Pulaski.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-01-05T14:40:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112488"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6cd47e3c-9a86-4d2e-92f9-25642f17d98b"
   }
 ]
