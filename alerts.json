@@ -181,5 +181,73 @@
     },
     "ttim": "0",
     "GUID": "dcf059bf-4939-4441-ae3b-e71f5837ad02"
+  },
+  {
+    "AlertId": "112518",
+    "Headline": " #92 Foster Temporary Eastbound Reroute near Berwyn/Broadway",
+    "ShortDescription": "Eastbound #92 Foster buses are temporarily rerouted via Foster, Broadway, Bryn Mawr, Sheridan, due to street blockage near Berwyn/Broadway.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #92 Foster buses are temporarily rerouted via Foster, Broadway, Bryn Mawr, Sheridan, then resume their normal route, due to street blockage near Berwyn/Broadway.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-07T08:27:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112518"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Foster",
+        "ServiceId": "92",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/92/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "846d1e84-55b9-4a63-8440-5a408ac27987"
+  },
+  {
+    "AlertId": "112519",
+    "Headline": " # 146 Inner Drive/Michigan Express Temporary Southbound Reroute near Berwyn/Broadway",
+    "ShortDescription": "Southbound # 146 Inner Drive/Michigan Express buses are temporarily rerouted via Sheridan, Foster, Broadway, Bryn Mawr, Sheridan, near Berwyn/Broadway.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound # 146 Inner Drive/Michigan Express buses are temporarily rerouted via Sheridan, Foster, Broadway,&nbsp; Bryn Mawr, Sheridan, then resume their normal route, due to street blockage near Berwyn/Broadway.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-07T08:31:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112519"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Inner Lake Shore/Michigan Express",
+        "ServiceId": "146",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/146/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b00a8c2e-4901-4612-9228-620aee3aa6d9"
   }
 ]
