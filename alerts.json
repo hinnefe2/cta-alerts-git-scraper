@@ -134,5 +134,52 @@
     },
     "ttim": "0",
     "GUID": "f920bfd0-8238-4f6e-926b-bf8d1cb9e8b8"
+  },
+  {
+    "AlertId": "112516",
+    "Headline": "Red Line Service Delayed at Berwyn ",
+    "ShortDescription": "Red Line trains are standing at Berwyn due to a medical emergency on the tracks. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are standing at Berwyn due to a medical emergency on the tracks.&nbsp;</p>\r\n\r\n<p><strong>Shuttle buses are available from Howard to Belmont to provide connecting service in both directions.</strong></p>\r\n\r\n<p>At this time also consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p><strong>#36 Broadway</strong></p>\r\n\r\n<p><strong>#151 Sheridan</strong></p>\r\n\r\n<p><strong>#84 Peterson</strong></p>\r\n\r\n<p><strong>#92 Foster</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2026-01-07T07:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112516"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f14bf5a5-541e-44fb-9ea6-01fa7a0fea01"
   }
 ]
