@@ -66,5 +66,73 @@
     },
     "ttim": "0",
     "GUID": "9f6f2235-05d5-466b-a1fb-94d552fdd935"
+  },
+  {
+    "AlertId": "112535",
+    "Headline": "#66 Chicago Temporary Westbound Reroute near Chicago/Kilbourn",
+    "ShortDescription": "Westbound 66 Chicago buses are temporarily rerouted via Chicago, Kostner, Augusta, Cicero, Chicago, over normal route, near Chicago/Kilbourn.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #66 Chicago buses are temporarily rerouted via Chicago, Kostner, Augusta, Cicero, Chicago, over normal route, due to street blockage near Chicago/Kilbourn.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-07T18:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112535"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0b95e99f-d90d-4986-979b-ea83c255ca3a"
+  },
+  {
+    "AlertId": "112536",
+    "Headline": "Green Line Service Running with Delays",
+    "ShortDescription": "Green Line trains are running with delays at Harlem/Lake due to fire department activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>%3Cp%3EGreen%20Line%20trains%20are%20running%20with%20delays%20at%20Harlem%2FLake%20due%20to%20fire%20department%20activity.%3C%2Fp%3E%0A%0A%3Cp%3EDue%20to%20this%20delay%2C%20all%20trains%20will%20enter%20and%20exit%20on%20the%20Harlem%2FLake%20side%20of%20the%20terminal.%20The%20Marion%20side%20of%20the%20terminal%20will%20be%20closed%20until%20further%20notice.%3C%2Fp%3E%0A%0A%3Cp%3EConsider%20other%20service%20alternatives%20that%20may%20serve%20your%20trip%2C%20such%20as%20nearby%20bus%20routes%26nbsp%3Bor%20using%20buses%20to%20other%20rail%20lines.%3C%2Fp%3E%0A%0A%3Cp%3EPersonnel%20are%20working%20to%20restore%20normal%20service.%20Allow%20extra%20travel%20time.%3C%2Fp%3E%0A</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-01-07T18:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112536"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "62495667-0c7d-43a8-bff7-356cb2c3d47c"
   }
 ]
