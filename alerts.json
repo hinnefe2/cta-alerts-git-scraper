@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "112484",
-    "Headline": "#75 74th-75thTemporary Westbound Reroute near 75th/South Shore",
-    "ShortDescription": "Westbound 75 74th-75th buses are temporarily rerouted via 75th, Stony Island, 76th, South Chicago and 75th: due to, street blockage near 75th/South Shore.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #75 74th-75th buses are temporarily rerouted via 75th, Stony Island, 76th, South Chicago and 75th: due to, street blockage near 75th/South Shore.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-01-05T09:59:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112484"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "74th-75th",
-        "ServiceId": "75",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/75/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c3314474-3d91-4691-8a41-ed2b2704ae7b"
-  },
-  {
     "AlertId": "112486",
     "Headline": "#30 South Chicago Temporary Northbound Reroute near 75th/South Shore",
     "ShortDescription": "Northbound #30 South Chicago buses are temporarily rerouted: due to, street blockage near 75th/South Shore.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "9f6f2235-05d5-466b-a1fb-94d552fdd935"
+  },
+  {
+    "AlertId": "112550",
+    "Headline": "#39 Pershing Temporary Reroute near Pershing/Indiana",
+    "ShortDescription": "#39 Pershing buses are temporarily rerouted in both directions, due to street blockage near Pershing/Indiana.",
+    "FullDescription": {
+      "#cdata-section": "<p>#39 Pershing buses are temporarily rerouted in both directions, due to street blockage near Pershing/Indiana.</p>\r\n\r\n<p>Eastbound buses will operate via Pershing, Michigan, 41st, Prairie and Pershing, then resume their normal route.</p>\r\n\r\n<p>Westbound buses will operate via Pershing, 41st, Wabash and Pershing, then resume their normal route.</p>\r\n\r\n<p><br />\r\nAllow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-08T09:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112550"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pershing",
+        "ServiceId": "39",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/39/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "1a2c907f-9e4e-47cf-841a-de882e2dd1b6"
   }
 ]
