@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "9f6f2235-05d5-466b-a1fb-94d552fdd935"
+  },
+  {
+    "AlertId": "112548",
+    "Headline": "#119 Michigan/119th & #34 South Michigan Temporary Reroute at Michigan/104th",
+    "ShortDescription": "#119 Michigan/119th & #34 South Michigan buses are temporarily rerouted in both directions via Michigan, 103rd, State, 107th,and Michigan, near Michigan/104th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#119 Michigan/119th &amp; #34 South Michigan buses are temporarily rerouted in both directions via Michigan, 103rd, State, 107th,and Michigan, then resume their normal route, due to street blockage near Michigan/104th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-08T05:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112548"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Michigan",
+          "ServiceId": "34",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/34/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Michigan/119th",
+          "ServiceId": "119",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/119/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "a22a61d4-5227-4e7d-b2f4-8a19270753c0"
   }
 ]
