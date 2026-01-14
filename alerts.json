@@ -75,10 +75,10 @@
     "FullDescription": {
       "#cdata-section": "<p>Brown Line trains are standing at Francisco due to a collision with a vehicle.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#81 Lawrence</strong></p>\r\n\r\n<p><strong>#78 Montrose</strong></p>\r\n\r\n<p><strong>Shuttle buses have been requested to provide connecting service between Kimball and Belmont in both directions.</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2026-01-14T08:58:00",
     "EventEnd": null,
     "TBD": "1",
@@ -100,6 +100,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "2c3d4d10-2158-40fa-b5ae-fd20d46c15c9"
+    "GUID": "20d34e03-0aa1-44be-8028-cefd2022d8b4"
+  },
+  {
+    "AlertId": "112662",
+    "Headline": "#148 Clarendon/Michigan Temporary Reroute at Foster/Marine Drive",
+    "ShortDescription": "148 Clarendon/Michigan buses are temp. rerouted via Foster, Marine, Lake Shore Drive, Lawrence and Marine: due to, police activity near Foster/Marine Drive.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#148 Clarendon/Michigan buses are temporarily rerouted in both directions via Foster, Marine, Lake Shore Drive, Lawrence and Marine: due to, police activity near Foster/Marine Drive.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-14T09:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112662"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clarendon/Michigan Express",
+        "ServiceId": "148",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/148/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7d744695-d1d9-4aae-8f2b-9cb9d10f17e2"
   }
 ]
