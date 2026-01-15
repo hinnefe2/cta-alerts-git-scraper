@@ -167,5 +167,74 @@
     },
     "ttim": "0",
     "GUID": "ff49228d-913b-45ac-911d-0d703d1eb00d"
+  },
+  {
+    "AlertId": "112688",
+    "Headline": "#22 Clark, #29 State, #36 Broadway and #62 Archer Temporary Reroute near Clark/Wacker",
+    "ShortDescription": "22 Clark, 29 State, 36 Broadway and 62 Archer buses are temporarily rerouted in both directions near Clark/Wacker, due to street blockage near Clark/Wacker.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#22 Clark, #29 State, #36 Broadway and #62 Archer buses are temporarily rerouted in both directions near Clark/Wacker, due to street blockage near Clark/Wacker.</p>\r\n\r\n<p>Southbound #62 Archer buses will operate via Dearborn, Kinzie, LaSalle, Wacker, State and over regular route.</p>\r\n\r\n<p>Southbound #22 Clark, #29 State and #36 Broadway&nbsp;buses will operate via Clark, Kinzie, LaSalle, Wacker, State and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-15T09:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112688"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "State",
+          "ServiceId": "29",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/29/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Broadway",
+          "ServiceId": "36",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/36/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "64b01037-a0f9-4109-bb87-12a81193f4ca"
   }
 ]
