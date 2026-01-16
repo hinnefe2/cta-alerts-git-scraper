@@ -214,5 +214,52 @@
     },
     "ttim": "0",
     "GUID": "1617d897-49b3-449f-981a-bdf4411cf50b"
+  },
+  {
+    "AlertId": "112715",
+    "Headline": "Loop- Bound Pink Line Delays",
+    "ShortDescription": "Loop- Bound Pink Line trains are running w/residual delays following earlier police activity at 54th/Cermak. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop- Bound Pink Line trains are running w/residual delays following earlier police activity at 54th/Cermak.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-01-16T09:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112715"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "54th/Cermak",
+          "ServiceId": "40580",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=8"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5b4e46a8-fb92-488f-a5a8-fa67f78ac137"
   }
 ]
