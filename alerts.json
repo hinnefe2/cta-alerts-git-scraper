@@ -139,7 +139,7 @@
     "Headline": "Red, Orange, Green Line Service Delayed at Roosevelt ",
     "ShortDescription": "Red, Orange, Green Line trains are standing near Roosevelt due to an unauthorized person on the tracks. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Red, Orange,&nbsp;Green Line trains are standing near Roosevelt due to an unauthorized person on the tracks.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red, Orange,&nbsp;Green Line trains are standing near Roosevelt due to an unauthorized person on the tracks.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#12 Roosevelt</strong></p>\r\n\r\n<p><strong>#29 State</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -190,19 +190,19 @@
       ]
     },
     "ttim": "0",
-    "GUID": "737d58b4-0b93-4a96-820f-334bfc5958bf"
+    "GUID": "dcb75ee1-4868-4c93-9900-963ee0713447"
   },
   {
     "AlertId": "112738",
     "Headline": "Brown Line Service Delayed at Diversey ",
     "ShortDescription": "Brown Line trains are standing near Diversey due to a medical emergency on the tracks. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are standing near Diversey due to a medical emergency on the tracks.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown and Red Line trains are standing near Diversey due to a medical emergency on the tracks..</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>This may include:<br />\r\n<strong>#81 Lawrence<br />\r\n#78 Montrose<br />\r\n#80 Irving Park<br />\r\n#152 Addison</strong></p>\r\n\r\n<p><br />\r\nPersonnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
+    "SeverityScore": "84",
     "SeverityColor": "c00c00",
     "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "Impact": "Service Disruption",
     "EventStart": "2026-01-17T15:45:00",
     "EventEnd": null,
     "TBD": "1",
@@ -211,19 +211,32 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112738"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "7e71ae68-acc0-421d-845d-870cf4fe6643"
+    "GUID": "cc4a6934-038d-408c-9653-03365d88c3a8"
   }
 ]
