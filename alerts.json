@@ -133,5 +133,52 @@
     },
     "ttim": "1",
     "GUID": "444fac6b-a1bc-4e36-b70a-f0dcbf1b6bcc"
+  },
+  {
+    "AlertId": "112741",
+    "Headline": "#6 Jackson Park Express, \t#J14 Jeffery Jump Temporary Reroute at Lake Shore Drive/27th",
+    "ShortDescription": "6 Jackson Park Express,  J14 Jeffery Jump buses are temporarily rerouted : due to, police activity near Lake Shore Drive/27th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#6 Jackson Park Express,&nbsp;#J14 Jeffery Jump buses are temporarily rerouted via Lake Shore Drive, 31st, King Drive, Cermak, Michigan and Balbo: due to, police activity near Lake Shore Drive/27th</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-18T06:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112741"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ae52015c-8113-4ab4-be81-c5eed77808d5"
   }
 ]
