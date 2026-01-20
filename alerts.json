@@ -241,12 +241,12 @@
     "Headline": "Howard-bound Red Line Service Delayed at Berwyn",
     "ShortDescription": "Howard-bound Red Line trains are standing at Berwyn due to police activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Berwyn due to police activity.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Berwyn due to police activity.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#151 Sheridan</strong></p>\r\n\r\n<p><strong>#81 Lawrence</strong></p>\r\n\r\n<p><strong>#36 Broadway</strong></p>\r\n\r\n<p><strong>#84 Peterson</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2026-01-20T16:35:00",
     "EventEnd": null,
     "TBD": "1",
@@ -268,6 +268,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "bbe3b9fa-c14e-4a28-afec-c4303d2adced"
+    "GUID": "7dedc58d-3128-459c-a92e-448f3bcaf74d"
+  },
+  {
+    "AlertId": "112791",
+    "Headline": "Red Trains bypassing at Berwyn",
+    "ShortDescription": "Red Line trains are running, but not stopping at Berwyn due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running, but not stopping at Berwyn due to police activity.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2026-01-20T16:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112791"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8181a65f-bc0e-4291-bf97-ed512e7ca481"
   }
 ]
