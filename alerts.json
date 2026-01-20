@@ -203,40 +203,6 @@
     "GUID": "3df8b901-5dc8-4772-9b6e-cbd79f7d90cb"
   },
   {
-    "AlertId": "112779",
-    "Headline": "#43 43rd Temporary Westbound Reroute near Root/Princeton",
-    "ShortDescription": "Westbound 43 43rd buses are temporarily rerouted via 43rd, Normal and Root: due to, street blockage near Root/Princeton.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Westbound #43 43rd buses are temporarily rerouted via 43rd, Normal, Root and over regular route, due to street blockage near root/Princeton.</p>\r\n\r\n<p>Eastbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-01-20T09:49:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112779"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "43rd",
-        "ServiceId": "43",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/43/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6a61733c-c131-46da-9bbe-f49c5b99dab9"
-  },
-  {
     "AlertId": "112780",
     "Headline": "#53 Pulaski Temporary Northbound Reroute near Pulaski/Division",
     "ShortDescription": "Northbound53 Pulaski buses are temporarily rerouted via Pulaski, Division, Hamlin, North Avenue and Pulaski due to, street blockage near Pulaski/Division.",
@@ -269,5 +235,39 @@
     },
     "ttim": "0",
     "GUID": "7f5ab144-c47d-4462-8c0c-d7fe5a1be206"
+  },
+  {
+    "AlertId": "112781",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at Chicago",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Chicago due to a mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Chicago due to a mechanical problem.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p><strong>These may include:</strong></p>\r\n\r\n<p><strong>#66 Chicago</strong></p>\r\n\r\n<p><strong>#56 Milwaukee</strong></p>\r\n\r\n<p><strong>#70 Division</strong></p>\r\n\r\n<p><strong>#9 Ashland</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2026-01-20T10:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112781"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4e30114b-2f35-46c3-b110-85ce435f24eb"
   }
 ]
