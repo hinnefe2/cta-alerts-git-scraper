@@ -124,5 +124,86 @@
     },
     "ttim": "0",
     "GUID": "f1b99fbb-929f-4e82-a8d9-7e27a2e36530"
+  },
+  {
+    "AlertId": "112829",
+    "Headline": "#J14 Jeffery Jump and #15 Jeffery Local Temporary Reroute at 103rd/Stony Island",
+    "ShortDescription": "J14 Jeffery Jump and 15 Jeffery Local  buses are temporarily rerouted in both directions, near 103rd/Stony Island.",
+    "FullDescription": {
+      "#cdata-section": "<p>#J14 Jeffery Jump and #15 Jeffery Local&nbsp; buses are temporarily rerouted in both directions via Jeffery, 95th, Stony Island, 103rd and over normal route due to street blockage near 103rd/Stony Island.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-22T15:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112829"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "bd23c8bb-84e4-4f8d-817f-0789c03d939d"
+  },
+  {
+    "AlertId": "112830",
+    "Headline": "#26 South Shore Express Temporary Reroute at 103rd/ Stony Island",
+    "ShortDescription": "26 South Shore Express buses are temporarily rerouted in both directions due to street blockage near 103rd/ Stony Island.",
+    "FullDescription": {
+      "#cdata-section": "<p>#26 South Shore Express buses are temporarily rerouted in both directions via Ewing, 95th, Stony Island,103rd and over regular route, due to street blockage near 103rd/ Stony Island.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-22T15:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112830"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Shore Express",
+        "ServiceId": "26",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/26/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "84b9fcc4-42af-46f9-bd22-e36413aa1340"
   }
 ]
