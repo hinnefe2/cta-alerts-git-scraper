@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "112818",
-    "Headline": "#31 31st Temporary Eastbound Reroute near 31st/Rhodes",
-    "ShortDescription": "Eastbound 3131st buses are temporarily rerouted via 31st, Vernon, 31st Place, Rhodes and 31st: due to, street blockage near 31st/Rhodes.",
-    "FullDescription": {
-      "#cdata-section": "<p>How will this affect my trip?</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Eastbound #31 31st buses are temporarily rerouted via 31st, Vernon, 31st Place, Rhodes, 31st and over regular route, due to street blockage near 31st/Rhodes.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-01-22T09:10:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112818"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "31st",
-        "ServiceId": "31",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/31/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "7b7767c4-bd39-4880-86bb-5845ddabc172"
-  },
-  {
     "AlertId": "112836",
     "Headline": "#62 Archer Temporary Westbound Reroute near Archer/Sacramento",
     "ShortDescription": "Westbound 62 Archer buses are temp. rerouted, due to street blockage near Archer/Sacramento.",
@@ -66,5 +32,73 @@
     },
     "ttim": "0",
     "GUID": "a2f22610-fa52-4eee-9052-137a26238fca"
+  },
+  {
+    "AlertId": "112837",
+    "Headline": "Temporary Westbound Reroute near Devon/Sacramento",
+    "ShortDescription": "Westbound 155 Devon buses are temp. rerouted via Devon, California, Pratt, Kedzie, Devon, and resume normal route, due to street blockage near Devon/Sacramento.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #155 Devon buses are temporarily rerouted via Devon, California, Pratt, Kedzie, Devon, and resume normal route, due to street blockage near Devon/Sacramento.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-22T20:29:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112837"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Devon",
+        "ServiceId": "155",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/155/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "51b598b1-cb21-463c-9dd7-1bc6e20727b5"
+  },
+  {
+    "AlertId": "112839",
+    "Headline": "Red Line Service Delayed at 69th",
+    "ShortDescription": "Red Line trains are standing at 69th due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are standing at 69th due to police activity.</p>\r\n\r\n<p>At this time also consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-01-22T21:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112839"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7a0f5739-e627-4e83-9f13-ecba4ecfce97"
   }
 ]
