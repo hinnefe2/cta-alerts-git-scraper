@@ -68,37 +68,37 @@
     "GUID": "f1b99fbb-929f-4e82-a8d9-7e27a2e36530"
   },
   {
-    "AlertId": "112835",
-    "Headline": "O'Hare-bound Blue Line Service Delayed at Jefferson Park",
-    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Jefferson Park due to a sick customer. Crews working to restore service.",
+    "AlertId": "112836",
+    "Headline": "#62 Archer Temporary Westbound Reroute near Archer/Sacramento",
+    "ShortDescription": "Westbound 62 Archer buses are temp. rerouted, due to street blockage near Archer/Sacramento.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Jefferson Park due to a sick customer.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #62 Archer buses are temporarily rerouted via Archer, California, Pershing, Kedzie, and Archer over normal route: due to, street blockage near Archer/Sacramento.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-01-22T18:23:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-22T18:43:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112835"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112836"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Archer",
+        "ServiceId": "62",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/62/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "cf19f944-b245-4e75-9e0e-49b728372979"
+    "GUID": "a2f22610-fa52-4eee-9052-137a26238fca"
   }
 ]
