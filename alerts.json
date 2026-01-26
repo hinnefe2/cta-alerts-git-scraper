@@ -1,49 +1,70 @@
 [
   {
-    "AlertId": "112917",
-    "Headline": "Loop- Bound Orange Line Delays",
-    "ShortDescription": "Loop- Bound Orange Line trains are running w/residual delays following earlier police activity at Ashland. Service is resuming, allow extra time.",
+    "AlertId": "112918",
+    "Headline": "#7 Harrison |Temporary Reroute near Harrison/Campbell",
+    "ShortDescription": "7 Harrison buses temp. rerouted : due to, street blockage near Harrison/Campbell.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop- Bound Orange Line trains are running w/residual delays following earlier police activity at Ashland.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#7 Harrison buses temp. rerouted : due to, street blockage near Harrison/Campbell.</p>\r\n\r\n<p>Eastbound buses will operate via Harrison, California, Congress, Western and Harrison including the normal route streets.</p>\r\n\r\n<p>Westbound buses will operate via Harrison, Western, Van Buren, California and Harrison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2026-01-26T10:01:00",
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-26T10:30:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112917"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112918"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Ashland",
-          "ServiceId": "41060",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=22"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Harrison",
+        "ServiceId": "7",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/7/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "67e7ffe6-f0ac-48b3-b321-ad101fb78c32"
+    "GUID": "295e406e-41b9-43fd-93ed-e5894cc9d48a"
+  },
+  {
+    "AlertId": "112919",
+    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near Wacker/Columbus",
+    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted via Michigan, Randolph, Columbus and Wacker: due to, street blockage near Wacker/Columbus.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via Michigan, Randolph, Columbus and Wacker: due to, street blockage near Wacker/Columbus.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-26T10:39:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112919"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6f5661e5-2eb6-48b6-a986-87031d281ffd"
   }
 ]
