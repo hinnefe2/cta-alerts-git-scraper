@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "112910",
+    "Headline": "#53 Pulaski Temporary Reroute near Pulaski/Adams",
+    "ShortDescription": "#53 Pulaski buses are temporarily rerouted in both directions, due to police activity near Pulaski/Adams.",
+    "FullDescription": {
+      "#cdata-section": "<p>#53 Pulaski buses are temporarily rerouted in both directions, due to police activity near Pulaski/Adams.</p>\r\n\r\n<p>Southbound buses will operate via Pulaski, Madison, Hamlin, Congress and Pulaski, then resume their normal route.</p>\r\n\r\n<p>Northbound buses will operate via Pulaski, Harrison, Independence, Hamlin, Madison and Pulaski, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-26T00:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112910"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pulaski",
+        "ServiceId": "53",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/53/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "76536b58-af68-455c-93a3-c621041e135a"
+  },
+  {
+    "AlertId": "112911",
+    "Headline": "Forest Park-bound Blue Line Service Delayed Chicago",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing at Chicago due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at Chicago due to a sick customer.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>This may include&nbsp;<br />\r\n#56 Milwaukee<br />\r\n#66 Chicago</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-01-26T00:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112911"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2fc35e6c-5efd-43be-9c13-2b0a7749b1c8"
+  }
+]
