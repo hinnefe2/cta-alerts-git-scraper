@@ -69,15 +69,15 @@
   },
   {
     "AlertId": "112994",
-    "Headline": "Loop Elevated Service Delayed at Harold Washington Library",
-    "ShortDescription": "Elevated Loop trains are standing at Harold Washington Library due to a door problem. Crews working to restore service.",
+    "Headline": "Loop Elevated Service Delays",
+    "ShortDescription": "Loop Elevated trains are running w/residual delays following an earlier door problem at Harold Washington Library. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Elevated Loop trains are standing at Harold Washington Library&nbsp;due to a door problem.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop Elevated (Green, Orange, Brown, Pink, and Purple)Line trains are running w/residual delays following an earlier door problem at Harold Washington Library.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2026-01-29T15:34:00",
     "EventEnd": null,
     "TBD": "1",
@@ -145,6 +145,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "1ace2e64-d6a3-41b4-a562-e9ae3807db50"
+    "GUID": "010980b0-f83b-47d7-aa86-cab751164c76"
+  },
+  {
+    "AlertId": "112995",
+    "Headline": "63rd-bound Green Line Delays",
+    "ShortDescription": "63rd-bound Green Line trains are running w/residual delays following an earlier sick customer at 47th. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>63rd-bound Green Line trains are running w/residual delays following an earlier sick customer at 47th.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-01-29T15:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=112995"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e8817e5e-8549-441a-96aa-cc74383b6105"
   }
 ]
