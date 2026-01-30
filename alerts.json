@@ -34,50 +34,37 @@
     "GUID": "bc28354d-20cc-460f-9a0a-2fcf2361e934"
   },
   {
-    "AlertId": "113000",
-    "Headline": "63rd- Cottage Grove- Bound Green Line Service Delayed at Austin",
-    "ShortDescription": "63rd- Cottage Grove- Bound Green Line trains are standing at Austin due toa sick rider. Crews working to restore service.",
+    "AlertId": "113002",
+    "Headline": "#22 Clark Temporary Northbound Reroute near Dearborn/Illinois ",
+    "ShortDescription": "Northbound 22 Clark buses are temporarily rerouted via Dearborn, Illinois, State, Ontario and Dearborn: due to, street blockage near Dearborn/Illinois.",
     "FullDescription": {
-      "#cdata-section": "<p>63rd- Cottage Grove- Bound Green Line trains are standing at Austin due toa sick rider.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Northbound #22 Clark buses are temporarily rerouted via Dearborn, Illinois, State, Ontario and Dearborn: due to, street blockage near Dearborn/Illinois.</p>\r\n\r\n<p>Southbound&nbsp; buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2026-01-30T09:07:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-30T09:23:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113000"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113002"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Austin",
-          "ServiceId": "41260",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=24"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clark",
+        "ServiceId": "22",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/22/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "da3bac63-1c92-4b58-9e0b-f74e688a473e"
+    "GUID": "0fbb7bdd-da90-4882-a3c4-8100588ee0f3"
   }
 ]
