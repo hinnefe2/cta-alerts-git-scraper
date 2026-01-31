@@ -1,49 +1,49 @@
 [
   {
-    "AlertId": "113011",
-    "Headline": "Red Line Service Delayed at 95th",
-    "ShortDescription": "Red Line trains are standing at 95th due to signal problems. Crews working to restore service.",
+    "AlertId": "113012",
+    "Headline": "#34 South Michigan, #119 Michigan/119th Temporary Reroute at Michigan/107th",
+    "ShortDescription": "34 South Michigan, 119 Michigan/119th buses are temporarily rerouted: due to, street blockage near Michigan/107th.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are standing at 95th due to signal problems.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#34 South Michigan, #119 Michigan/119th buses are temporarily rerouted via Michigan, 107th, State, 103rd and Michigan: due to, street blockage near Michigan/107th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-01-31T11:21:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-01-31T11:32:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113011"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113012"
     },
     "ImpactedService": {
       "Service": [
         {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "95th/Dan Ryan",
-          "ServiceId": "40450",
-          "ServiceBackColor": "c60c30",
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Michigan",
+          "ServiceId": "34",
+          "ServiceBackColor": "414145",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=13"
+            "#cdata-section": "http://www.transitchicago.com/bus/34/"
           }
         },
         {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Michigan/119th",
+          "ServiceId": "119",
+          "ServiceBackColor": "565a5c",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
+            "#cdata-section": "http://www.transitchicago.com/bus/119/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "a5f026d7-8dd5-46e0-a1d8-de0514d61b87"
+    "GUID": "2e9f80f8-d6ce-46f3-ac18-be90634b639a"
   }
 ]
