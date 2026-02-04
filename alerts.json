@@ -32,5 +32,73 @@
     },
     "ttim": "0",
     "GUID": "9a047e60-af32-4aa1-953d-7a98916fdf96"
+  },
+  {
+    "AlertId": "113086",
+    "Headline": "#79 79th Temporary Reroute at 79th/Central Park",
+    "ShortDescription": "#79 79th buses are temporarily rerouted in both directions via 79th, Lawndale, 83rd, Columbus and 79th due to street blockage near 79th/Central Park.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>#79 79th buses are temporarily rerouted in both directions via 79th, Lawndale, 83rd, Columbus. then resume their normal route on 79th.</strong></p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near 79th/Central Park.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-02-03T21:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113086"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "42cdeb8c-5dae-4b93-980f-9425d82189be"
+  },
+  {
+    "AlertId": "113087",
+    "Headline": "#169 69th/UPS Express Temporary Reroute at 79th/Central Park",
+    "ShortDescription": "#169 69th/UPS Express buses are rerouted via 79th, Lawndale, 83rd, Columbus. 79th, then resume their normal route due to street blockage near 79th/Central Park.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>#169 69th/UPS Express buses are temporarily rerouted in both directions via 79th, Lawndale, 83rd, Columbus. 79th, then resume their normal route.</strong></p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near 79th/Central Park.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-02-03T21:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113087"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "69th/UPS Express",
+        "ServiceId": "169",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/169/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ca6685bf-d578-459b-b9ec-e9e9f99e5eb3"
   }
 ]
