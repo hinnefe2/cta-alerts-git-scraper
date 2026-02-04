@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "01b6e2e1-8d1d-44bc-b862-6e784e3edd69"
+  },
+  {
+    "AlertId": "113104",
+    "Headline": "#4 Cottage Grove and #X4 Cottage Grove Express Temporary Northbound Reroute near Cottage Grove/51st",
+    "ShortDescription": "Northbound 4 Cottage Grove and X4 Cottage Grove Express buses are temporarily rerouted, due to street blockage near Cottage Grove/51st.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #4 Cottage Grove and #X4 Cottage Grove Express buses are temporarily rerouted via Cottage Grove, Payne Drive, Drexel, 47th, Cottage Grove and over normal route, due to street blockage near Cottage Grove/51st.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-02-04T17:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113104"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove Express",
+          "ServiceId": "X4",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "cb48c2b2-4aee-491e-af7d-cb36a23fb7a5"
   }
 ]
