@@ -102,37 +102,50 @@
     "GUID": "7251264e-aa9e-47fd-aab9-30564adf538f"
   },
   {
-    "AlertId": "113116",
-    "Headline": "Red Line Delays",
-    "ShortDescription": "Red Line trains are running with residual delays near the area of  Howard due to heavy train traffic. Service is resuming, allow extra time.",
+    "AlertId": "113119",
+    "Headline": "Loop-bound Orange and Loop 'L' Line Delays",
+    "ShortDescription": "Loop-bound Orange and Loop 'L' Line trains are running w/residual delays following an earlier door problem at Washington/Wells. ",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running with residual delays near the area of&nbsp; Howard due to heavy train traffic.</p>\r\n\r\n<p>At this time, consider other alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Orange and Loop &#39;L&#39; Line trains are running w/residual delays following an earlier door problem at Washington/Wells.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2026-02-05T11:13:00",
+    "EventStart": "2026-02-05T11:44:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113116"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113119"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "413e1537-38ed-42f2-be20-9bcfc15d9f29"
+    "GUID": "01a6a755-4541-4c5b-90ef-5162f8a082f5"
   }
 ]
