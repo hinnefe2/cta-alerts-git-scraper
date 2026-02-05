@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "113093",
-    "Headline": "#79 79th Temporary Reroute at 79th/Racine",
-    "ShortDescription": "79 79th buses are temporarily rerouted via 79th, Racine, 76th, Halsted, 79th, and over normal route, due to: police activity near 79th/Racine.",
-    "FullDescription": {
-      "#cdata-section": "<p>#79 79th buses are temporarily rerouted via 79th, Racine, 76th, Halsted, 79th, and over normal route, due to: police activity near 79th/Racine.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-02-04T14:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113093"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "79th",
-        "ServiceId": "79",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/79/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "01b6e2e1-8d1d-44bc-b862-6e784e3edd69"
-  },
-  {
     "AlertId": "113104",
     "Headline": "#4 Cottage Grove and #X4 Cottage Grove Express Temporary Northbound Reroute near Cottage Grove/51st",
     "ShortDescription": "Northbound 4 Cottage Grove and X4 Cottage Grove Express buses are temporarily rerouted, due to street blockage near Cottage Grove/51st.",
@@ -79,5 +45,39 @@
     },
     "ttim": "0",
     "GUID": "cb48c2b2-4aee-491e-af7d-cb36a23fb7a5"
+  },
+  {
+    "AlertId": "113105",
+    "Headline": "#66 Chicago Temporary Westbound Reroute near Chicago/Laramie",
+    "ShortDescription": "Westbound 66 Chicago buses are temp. rerouted via Chicago, Cicero, Augusta, Laramie, and Chicago over normal route, due to police activity near Chicago/Laramie.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #66 Chicago buses are temporarily rerouted via Chicago, Cicero, Augusta, Laramie, and Chicago over normal route, due to police activity near Chicago/Laramie.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-02-04T19:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113105"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d7c5776a-1e16-456b-b15b-aea7cc24e2c1"
   }
 ]
