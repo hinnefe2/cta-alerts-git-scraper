@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "68105f30-f7cc-444b-8a4d-cdb86969b3f7"
+  },
+  {
+    "AlertId": "113180",
+    "Headline": "#4 Cottage Grove and #X4 Cottage Grove Express Temporary Northbound Reroute near Cottage Grove/51st",
+    "ShortDescription": "NB #4 Cottage Grove & #X4 Cottage Grove Exp buses are rr via Cottage Grove, Payne Drive, Drexel, 47th & Cottage Grove due to blockage near Cottage Grove/51st.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>Northbound #4 Cottage Grove and #X4 Cottage Grove Express</strong> buses are temporarily rerouted via Cottage Grove, Payne Drive, Drexel, 47th, then resume their normal route on Cottage Grove.</p>\r\n\r\n<p><strong>Southbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Cottage Grove/51st.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-02-09T12:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113180"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove Express",
+          "ServiceId": "X4",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5d6bce82-40ae-493b-a9c6-2a3452be6151"
   }
 ]
