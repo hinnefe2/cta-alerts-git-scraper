@@ -66,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "0ae12e02-c2c4-459a-ad6e-8dbf9a928871"
+  },
+  {
+    "AlertId": "113236",
+    "Headline": "#76 Diversey and #93 California/Dodge Temporary Reroute near Diversey/Francisco",
+    "ShortDescription": "76 Diversey and 93 California/Dodge buses are temporarily rerouted in both directions near Diversey/Francisco, due to street blockage near Diversey/Francisco.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#76 Diversey and #93 California/Dodge buses are temporarily rerouted in both directions near Diversey/Francisco, due to street blockage near Diversey/Francisco.</p>\r\n\r\n<p>#76 Diversey buses will operate via Diversey, California, Elston, Belmont, Sacramento, Diversey and over regular route.</p>\r\n\r\n<p>#93 California/Dodge buses will operate via California, Belmont, Sacramento, Diverse and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-02-12T09:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113236"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Diversey",
+          "ServiceId": "76",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/76/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "California/Dodge",
+          "ServiceId": "93",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/93/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "8f00e135-2524-41f6-8c01-a984cc13c080"
   }
 ]
