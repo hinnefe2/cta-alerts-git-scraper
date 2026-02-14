@@ -34,105 +34,37 @@
     "GUID": "c599af47-82e2-47ac-aeaa-0ee8c2490d42"
   },
   {
-    "AlertId": "113277",
-    "Headline": "#85 Central Temporary Reroute at Central/Division",
-    "ShortDescription": "#85 Central buses are temporarily rerouted in both directions, due to fire department activity near Central/Division.",
+    "AlertId": "113282",
+    "Headline": "Pink Line Service Delayed near Cicero",
+    "ShortDescription": "Pink Line trains are standing near Cicero due to an obstruction. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>#85 Central buses are temporarily rerouted in both directions via Central, Division, Austin, North Ave., and Central, over normal route, due to fire department activity near Central/Division.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Pink Line trains are standing near Cicero due to an obstruction.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>As a result of the delay, shuttle buses are requested to provide connecting service between 54th/Cermak to Central Park, in both directions.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-02-13T16:59:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2026-02-13T20:52:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113277"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113282"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Central",
-        "ServiceId": "85",
-        "ServiceBackColor": "565a5c",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/85/"
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "fb8018ff-981a-4893-b92a-139c9524dab3"
-  },
-  {
-    "AlertId": "113279",
-    "Headline": "#22 Clark Temporary Reroute near Clark/Harrison",
-    "ShortDescription": "#22 Clark buses are temporarily rerouted in both directions due to street blockage near Clark/Harrison.",
-    "FullDescription": {
-      "#cdata-section": "<p>#22 Clark buses are temporarily rerouted in both directions&nbsp;due to street blockage near Clark/Harrison.</p>\r\n\r\n<p>Northbound buses will operate via Clark, Harrison, Dearborn, and over normal route.</p>\r\n\r\n<p>Southbound buses will take layover on Clark at Harrison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-02-13T19:14:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113279"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Clark",
-        "ServiceId": "22",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/22/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0bd70851-6f11-4109-8144-203d0bda1429"
-  },
-  {
-    "AlertId": "113280",
-    "Headline": "#24 Wentworth Temporary Southbound Reroute near Clark/Harrison",
-    "ShortDescription": "Southbound #24 Wentworth buses are temp. rerouted via Clark, Harrison, State, Polk, Clark, over normal route, due to a street blockage near Clark/Harrison. ",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #24 Wentworth buses are temporarily rerouted via Clark, Harrison, State, Polk, Clark, and resume normal route, due to a street blockage near Clark/Harrison.&nbsp;</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-02-13T19:17:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113280"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Wentworth",
-        "ServiceId": "24",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/24/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a18c1049-5524-48af-b74a-b273c166d209"
+    "GUID": "88df1bbf-a35b-4172-b5f4-8ffc9421f25e"
   }
 ]
