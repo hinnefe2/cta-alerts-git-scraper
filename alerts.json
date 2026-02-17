@@ -34,53 +34,6 @@
     "GUID": "a643763f-f05a-492d-b5e8-39be26c34682"
   },
   {
-    "AlertId": "113312",
-    "Headline": "No Trains Between Grand and UIC- Halsted",
-    "ShortDescription": "Blue Line service has been temporarily suspended between Grand and UIC- Halsted due to a medical emergency on the tracks in the area of Washington.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line service has been temporarily suspended between Grand and UIC- Halsted due to a medical emergency on the tracks in the area of Washington.</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li><strong>between O&#39;Hare and Grand</strong>, and,</li>\r\n\t<li><strong>between Forest Park and UIC- Halsted</strong>&nbsp;only.</li>\r\n</ul>\r\n\r\n<p><strong>Shuttle buses are available&nbsp;between Grand&nbsp;and UIC- Halsted to provide connecting service through the affected area.&nbsp;</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.<br />\r\n&nbsp;</p>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2026-02-17T08:58:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113312"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Washington",
-          "ServiceId": "40370",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=134"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "5dcc75ef-edfd-4b52-a9be-882b6a38c790"
-  },
-  {
     "AlertId": "113313",
     "Headline": "#77 Belmont Temporary Eastbound Reroute near Belmont/Harding",
     "ShortDescription": "Eastbound  77 Belmont buses are temporarily rerouted via Belmont, Pulaski, Diversey, Kimball and Belmont: due to, street blockage near Belmont/Harding.",
@@ -113,5 +66,52 @@
     },
     "ttim": "0",
     "GUID": "24139744-eb14-47b0-a2af-8f8f72ec8264"
+  },
+  {
+    "AlertId": "113314",
+    "Headline": "Blue Line Trains bypassing Washington",
+    "ShortDescription": "Blue Line trains are running, but not stopping at Washington due to a medical emergency on the tracks.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running, but not stopping at Washington due to a medical emergency on the tracks.</p>\r\n\r\n<p><strong>Shuttles buses are available from Monroe&nbsp;to Clark/Lake provide connecting service through the affected area,</strong></p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2026-02-17T10:45:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113314"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Washington",
+          "ServiceId": "40370",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=134"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "3cd1b9b6-4e49-4373-8336-ee19b0efae6f"
   }
 ]
