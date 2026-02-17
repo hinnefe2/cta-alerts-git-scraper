@@ -34,37 +34,50 @@
     "GUID": "a643763f-f05a-492d-b5e8-39be26c34682"
   },
   {
-    "AlertId": "113308",
-    "Headline": "#49B North Western Temporary Northbound Reroute near Western/Berwyn",
-    "ShortDescription": "Northbound 49B North Western buses are temporarily rerouted via Western, Lincoln, Bryn Mawr and Western: due to, street blockage near Western/Berwyn,",
+    "AlertId": "113312",
+    "Headline": "No Trains Between Damen-Milwaukee and Racine",
+    "ShortDescription": "Blue Line service has been temporarily suspended between Damen-Milwaukee and Racine due to a medical emergency on the tracks.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #49B North Western buses are temporarily rerouted via Western, Lincoln, Bryn Mawr and Western: due to, street blockage near Western/Berwyn,</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line service has been temporarily suspended between Damen-Milwaukee and Racine due to a medical emergency on the tracks.</p>\r\n\r\n<p>As a result, trains are operating in two sections:</p>\r\n\r\n<ul>\r\n\t<li><strong>between O&#39;Hare and Damen-Milwaukee</strong>, and,</li>\r\n\t<li><strong>between Forest Park and Racine</strong>, only.</li>\r\n</ul>\r\n\r\n<p><strong>Shuttle buses have been requested between Damen-Milwaukee and Racine&nbsp;to provide connecting service through the affected area.&nbsp;</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.<br />\r\n&nbsp;</p>\r\n"
     },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-02-17T07:53:00",
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2026-02-17T08:58:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113308"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113312"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "North Western",
-        "ServiceId": "49B",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/49b/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Washington",
+          "ServiceId": "40370",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=134"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "494d331d-6194-483e-a0f0-760cfcf1d693"
+    "GUID": "1b81fa60-51f8-422e-a192-02646092378e"
   }
 ]
