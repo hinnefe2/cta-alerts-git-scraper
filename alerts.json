@@ -1,71 +1,49 @@
 [
   {
-    "AlertId": "113338",
-    "Headline": "95th- Bound Red, Purple and Yellow Lines Experiencing Delays; Boarding change at Howard",
-    "ShortDescription": "95th- Bound Red, Purple and Yellow Line service running w/delays due to police activity at Howard.",
+    "AlertId": "113342",
+    "Headline": "#95 95th , #112 Vincennes/111th Temporary Reroute at 95th/Vincennes",
+    "ShortDescription": "95 95th , 112 Vincennes/111th buses are temporarily rerouted via 95th, Halsted, 87th, Vincennes and 95th: due to, street blockage near 95th/Vincennes.",
     "FullDescription": {
-      "#cdata-section": "<p>95th- Bound Red, Purple and Yellow Line service running w/delays due to police activity at Howard;</p>\r\n\r\n<p>95th- Bound Red Line trains, Board/exit all trains on the Howard- bound side of the platform at Howard.</p>\r\n\r\n<p>Purple and Yellow&nbsp;Line trains, Board/exit all trains on the 95th- bound Red Line side of the platform at Howard.</p>\r\n\r\n<p>We&#39;re working to restore normal service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#95 95th , #112 Vincennes/111th buses are temporarily rerouted via 95th, Halsted, 87th, Vincennes and 95th: due to, street blockage near 95th/Vincennes.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2026-02-18T08:49:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-02-18T10:43:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113338"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113342"
     },
     "ImpactedService": {
       "Service": [
         {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Howard",
-          "ServiceId": "40900",
-          "ServiceBackColor": "c60c30",
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Vincennes/111th",
+          "ServiceId": "112",
+          "ServiceBackColor": "565a5c",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=71"
+            "#cdata-section": "http://www.transitchicago.com/bus/112/"
           }
         },
         {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "414145",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Yellow Line",
-          "ServiceId": "Y",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/yellowline/"
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "77ff07be-574b-46d2-a7a0-bcb21ea62271"
+    "GUID": "5c2a0205-01e4-41dd-8a64-1b14219e525c"
   }
 ]
