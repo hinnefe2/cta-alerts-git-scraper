@@ -137,7 +137,7 @@
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-02-17T23:39:00",
+    "EventStart": "2026-02-17T22:48:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
@@ -158,6 +158,64 @@
       }
     },
     "ttim": "0",
-    "GUID": "69e855cc-cfb3-48bf-8b03-2b60d8ef43aa"
+    "GUID": "4e686bad-da05-423d-9341-c6ec237a6ba0"
+  },
+  {
+    "AlertId": "113326",
+    "Headline": "#112 Vincennes/111th, #52A South Kedzie and #53A South Pulaski Temporary Reroute at 111th/Talman",
+    "ShortDescription": "#112 Vincennes/111th, #52A South Kedzie and #53A South Pulaski buses are rerouted via 111th, Western, 115th, Kedzie & 111th due to blockage near 111th/Talman.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#112 Vincennes/111th, #52A South Kedzie and #53A South Pulaski buses are temporarily rerouted in both directions via 111th, Western, 115th, Kedzie, then resume their normal route on 111th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near 111th/Talman.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-02-17T00:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113326"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Kedzie",
+          "ServiceId": "52A",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/52a/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Pulaski",
+          "ServiceId": "53A",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/53a/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Vincennes/111th",
+          "ServiceId": "112",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/112/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b27e3bb9-56a7-4fe6-83db-dc4eef4dc335"
   }
 ]
