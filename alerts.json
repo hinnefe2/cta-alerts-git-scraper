@@ -34,37 +34,37 @@
     "GUID": "934a3a79-9fc2-400a-832c-0d0db4a73829"
   },
   {
-    "AlertId": "113394",
-    "Headline": "Green Line Service Delayed at Cicero",
-    "ShortDescription": "Green Line trains are standing at Cicero due to an obstruction on the tracks. Crews working to restore service.",
+    "AlertId": "113395",
+    "Headline": "Yellow Line Service Temporarily Suspended",
+    "ShortDescription": "Service on the Yellow Line has been temporarily suspended due to a track condition.",
     "FullDescription": {
-      "#cdata-section": "<p>Green Line trains are standing at Cicero due to an obstruction on the tracks.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Service on the Yellow Line has been temporarily suspended due to a track condition near the area of Hamlin.</p>\r\n\r\n<p>Shuttle buses are available to provide connecting service from Howard to Dempster-Skokie in both directions.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines. These may include:</p>\r\n\r\n<p>#97 Skokie buses.</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2026-02-20T12:01:00",
-    "EventEnd": "2026-02-20T12:31:00",
-    "TBD": "0",
-    "MajorAlert": "0",
+    "SeverityScore": "90",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Suspended",
+    "EventStart": "2026-02-20T12:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "1",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113394"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113395"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "R",
         "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceName": "Yellow Line",
+        "ServiceId": "Y",
+        "ServiceBackColor": "f9e300",
+        "ServiceTextColor": "000000",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
+          "#cdata-section": "http://www.transitchicago.com/yellowline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "33d02d4b-f769-47a2-9386-06cee8e84366"
+    "GUID": "4d89c9cb-210b-45e3-a32a-774fd5042e1a"
   }
 ]
