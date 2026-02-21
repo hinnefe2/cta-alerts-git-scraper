@@ -66,5 +66,73 @@
     },
     "ttim": "0",
     "GUID": "446afac3-2a25-496a-88f3-2cc945d1ee6f"
+  },
+  {
+    "AlertId": "113403",
+    "Headline": "Linden-bound Purple Line Service Running with Delays",
+    "ShortDescription": "Linden-bound Purple Line trains are running with delays due to an obstruction on the tracks.",
+    "FullDescription": {
+      "#cdata-section": "<p>Linden-bound Purple Line trains are running with delays due to an obstruction on the tracks.</p>\r\n\r\n<p><strong>Purple Line trains will operate locally northbound only.</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2026-02-20T18:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113403"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b4717fd4-73af-434f-98ff-37f2cc35be05"
+  },
+  {
+    "AlertId": "113404",
+    "Headline": "#71 71st/South/Shore Temporary Reroute at 72nd/Yates",
+    "ShortDescription": "71 71st/South Shore buses are temporarily rerouted via 71st, 75th, Exchange and 71st: due to, police activity near 72nd/Yates.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#71 71st/South Shore buses are temporarily rerouted in both directions&nbsp;via 71st, 75th, Exchange, 71st and over regular route: due to, police activity near 72nd/Yates.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-02-20T18:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113404"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3c8415da-2ebf-4dc2-92ba-03021dad2a3a"
   }
 ]
