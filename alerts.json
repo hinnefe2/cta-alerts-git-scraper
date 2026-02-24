@@ -32,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "85a97390-7fbc-47c7-88c1-3e1bf8266bf6"
+  },
+  {
+    "AlertId": "113432",
+    "Headline": "Blue Line trains bypassing Cicero/Congress Station",
+    "ShortDescription": "Blue Line trains are running, but not stopping at Cicero/Congress due to police activity, in both directions.",
+    "FullDescription": {
+      "#cdata-section": "<p><span style=\"font-weight: bolder;\">Blue Line trains are running, but not stopping at Cicero/Congress due to police activity, in both directions.</span></p>\r\n\r\n<p>Please consider other service service alternatives that may serve your trip, such as nearby bus routes and uses to other rail lines. These may include these buses:</p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-weight: bolder;\">#54 Cicero</span></li>\r\n</ul>\r\n\r\n<p>We apologize for this inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2026-02-23T22:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113432"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f1de9985-6f7f-4ba5-89d5-3f7754cd0cfd"
   }
 ]
