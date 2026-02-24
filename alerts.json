@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "113438",
+    "Headline": "#8 Halsted and #70 Division Temporary Reroute near Haslted/Division",
+    "ShortDescription": "8 Halsted and 70 Division buses are temporarily rerouted in both directions near Halsted/Division, due to street blockage near Halsted/Division.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#8 Halsted and #70 Division buses are temporarily rerouted in both directions near Halsted/Division, due to street blockage near Halsted/Division.</p>\r\n\r\n<p>Southbound #8 Halsted&nbsp;buses will operate via Halsted, Division, North Branch, Halsted and over regular route</p>\r\n\r\n<p>Northbound #8 Halsted buses will operate via Halsted, North Branch, Division, Halsted and over regular route.</p>\r\n\r\n<p>Westbound #70 Division buses will operate via Division, Halsted, North Branch, Division and over regular route</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-02-24T15:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113438"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Halsted",
+          "ServiceId": "8",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/8/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Division",
+          "ServiceId": "70",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/70/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "7bb650fa-79a2-4a77-8573-da9d060ceac0"
+  }
+]
