@@ -1,36 +1,49 @@
 [
   {
-    "AlertId": "113449",
-    "Headline": "#87 87th Temporary Westbound Reroute near 87th/Central Park",
-    "ShortDescription": "Westbound 87 87th  buses are temporarily rerouted via 87th, Kedzie, 79th, Pulaski and 87th due to, street blockage near near 87th/Central Park.",
+    "AlertId": "113451",
+    "Headline": "O'Hare- Bound Blue Line Service Delayed at Montrose",
+    "ShortDescription": "O'Hare- Bound Blue Line trains are standing at Montrose due to a mechanical problem. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound&nbsp; #87 87th buses are temporarily rerouted via 87th, Kedzie, 79th, Pulaski and 87th due to, street blockage near near 87th/Central Park.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare- Bound Blue Line trains are standing at Montrose due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-02-25T05:50:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-02-25T06:50:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113449"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113451"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "87th",
-        "ServiceId": "87",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/87/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Montrose",
+          "ServiceId": "41330",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=102"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "23dd5d21-35ea-46ed-8e3f-97d834aa2260"
+    "GUID": "299614db-3a40-47b5-9536-5abc4f20d8de"
   }
 ]
