@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "113471",
+    "Headline": "#66 Chicago Temporary Westbound Reroute near Chicago/Laramie",
+    "ShortDescription": "Westbound 66 Chicago buses are temporarily rerouted via Chicago, Laramie, Augusta, Central and Chicago: due to, street blockage near Chicago.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #66 Chicago buses are temporarily rerouted via Chicago, Laramie, Augusta, Central and Chicago: due to, street blockage near Chicago</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-02-26T09:00:00",
+    "EventEnd": "2026-03-01T09:00:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113471"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a8ae694e-e20c-401a-9d49-0fe60fc3843b"
+  },
+  {
+    "AlertId": "113472",
+    "Headline": "#85 Central Temporary Reroute at Central/Hirsch",
+    "ShortDescription": "85 Central  buses are temporarily rerouted via Central, Division, Austin, North Avenue and Central: due to, street blockage near Central Hirsch.",
+    "FullDescription": {
+      "#cdata-section": "<p>#85 Central&nbsp; buses are temporarily rerouted via Central, Division, Austin, North Avenue and Central: due to, street blockage near Central Hirsch.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-02-26T09:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113472"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Central",
+        "ServiceId": "85",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/85/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cadff6c4-09db-468d-914e-042170ad9bb1"
+  }
+]
