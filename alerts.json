@@ -1,49 +1,36 @@
 [
   {
-    "AlertId": "113504",
-    "Headline": "Howard- Bound Red Line Delays",
-    "ShortDescription": "Howard- Bound Red Line trains are running w/residual delays following earlier police activity at Argyle. Service is resuming, allow extra time.",
+    "AlertId": "113506",
+    "Headline": "#70 Division Temporary Eastbound Reroute near Division/Dearborn",
+    "ShortDescription": "Eastbound  70 Division buses are temporarily rerouted via division, State, Oak and Dearborn: due to, street blockage near Division/Dearborn.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard- Bound Red Line trains are running w/residual delays following earlier police activity at Argyle.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Eastbound&nbsp; #70 Division buses are temporarily rerouted via division, State, Oak and Dearborn: due to, street blockage near Division/Dearborn.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2026-02-27T08:28:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-02-27T08:47:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113504"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113506"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Argyle",
-          "ServiceId": "41200",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=18"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Division",
+        "ServiceId": "70",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/70/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "6627f197-5f0c-4e57-8e7e-cc412165fad2"
+    "GUID": "a57149b7-39a9-4a8a-828c-41dc1e941969"
   }
 ]
