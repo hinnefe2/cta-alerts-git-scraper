@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "113493",
+    "Headline": "Harlem-bound Green and 54th/Cermak-bound Pink Line Service Delayed at Morgan",
+    "ShortDescription": "Harlem-bound Green and 54th/Cermak-bound Pink Line Services Line trains are standing at Morgan due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green and 54th/Cermak-bound Pink Line Services Line trains are standing at Morgan due to a sick customer.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#20 Madison</p>\r\n\r\n<p>Shuttle buses have been requested to provide connecting service between:</p>\r\n\r\n<p>Green Line: Harlem/Lake -&nbsp; Clark/Lake (Northbound)</p>\r\n\r\n<p>Pink Line: 54th/Cermak - Polk - Clark/Lake (Eastbound)</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-02-26T20:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113493"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c0f23948-4359-4087-a792-f8199872c213"
+  }
+]
