@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "AlertId": "113520",
+    "Headline": "#78 Montrose, #76 Diversey, #77 Belmont, #80 Irving Park & #152 Addison Temporary Reroute at Montrose/Austin",
+    "ShortDescription": "#78. #76, #77, #80 & #152 buses are temporarily rerouted via Montrose, Narragansett, Irving Park, Central & Montrose due to street blockage near Montrose/Austin",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#78 Montrose buses are temporarily rerouted in both directions via Montrose, Narragansett, Irving Park, Central, then resume their normal route on Montrose. As a result of the delay, the pullouts for these buses will also be temporarily rerouted:</p>\r\n\r\n<ul>\r\n\t<li><strong># 76 Diversey&nbsp;</strong></li>\r\n\t<li><strong>&nbsp;#77 Belmont&nbsp;</strong></li>\r\n\t<li><strong>&nbsp;#80 Irving Park&nbsp;</strong></li>\r\n\t<li><strong>&nbsp;#152 Addison&nbsp;</strong></li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Montrose/Austin.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-02-28T06:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113520"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Diversey",
+          "ServiceId": "76",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/76/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Belmont",
+          "ServiceId": "77",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/77/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Montrose",
+          "ServiceId": "78",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/78/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Irving Park",
+          "ServiceId": "80",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/80/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Addison",
+          "ServiceId": "152",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/152/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "3eb329f1-1be0-4aef-8190-2da28fccc235"
+  }
+]
