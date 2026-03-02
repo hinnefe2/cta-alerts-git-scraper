@@ -1,15 +1,15 @@
 [
   {
     "AlertId": "113547",
-    "Headline": "Blue and Pink Line Service Delayed near Racine",
-    "ShortDescription": "Blue and Pink Line trains are standing near Racine due to police activity.",
+    "Headline": "Blue and Pink Line Delays",
+    "ShortDescription": "Blue and Pink Line trains are running with significant delays following an earlier police activity near Racine.  Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue and Pink Line trains are standing near Racine due to police activity.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>These may include:&nbsp;<br />\r\n#7 Harrison<br />\r\n#8 Halsted<br />\r\n#126 Jackson<br />\r\n#60 Blue Island/26th</p>\r\n\r\n<p>Shuttles buses have been requested in both directions for the following:</p>\r\n\r\n<p><strong>Blue Line</strong> from Grand to Forest Park to provide connecting service through the affected area.</p>\r\n\r\n<p><strong>Pink Line</strong> from Pulaski to Ashland to provide connecting service through the affected area.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue and Pink Line trains are running with significant delays following an earlier police activity near Racine.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "88",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption / Major Delays",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
     "EventStart": "2026-03-02T17:04:00",
     "EventEnd": null,
     "TBD": "1",
@@ -44,6 +44,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "0eabbe58-ca36-4710-8e62-b610b487c4e2"
+    "GUID": "8f26af16-2624-43f8-9a6b-c9c5a3800b52"
+  },
+  {
+    "AlertId": "113548",
+    "Headline": "#85A North Central Temporary Reroute near Touhy/Lehigh",
+    "ShortDescription": "85A North Central buses are temporarily rerouted in both directions near Touhy/Lehigh, due to street blockage near Touhy/Lehigh.",
+    "FullDescription": {
+      "#cdata-section": "<p>#85A North Central buses are temporarily rerouted in both directions near Touhy/Lehigh, due to street blockage near Touhy/Lehigh.</p>\r\n\r\n<p>Northbound buses will operate via Central, Touhy, Caldwell and Central over the normal route.</p>\r\n\r\n<p>Southbound buses will operate via Central, Caldwell, Touhy, Central over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-02T17:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113548"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "North Central",
+        "ServiceId": "85A",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/85a/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3a470760-0b89-441b-af78-83870736c368"
   }
 ]
