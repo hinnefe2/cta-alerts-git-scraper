@@ -2,14 +2,14 @@
   {
     "AlertId": "113544",
     "Headline": "Blue Line Service Delayed at Pulaski (Congress)",
-    "ShortDescription": "Blue Line trains are standing Pulaski (Congress) due to an unauthorized person on the tracks. Crews working to restore service.",
+    "ShortDescription": "Blue Line trains are standing Pulaski (Congress) due to police activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are standing Pulaski (Congress) due to an unauthorized person on the tracks.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are standing Pulaski (Congress) due to police activity</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>These may include:<br />\r\n#7 Harrison</p>\r\n\r\n<p>#49 Western</p>\r\n\r\n<p>#53 Pulaski</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
     "EventStart": "2026-03-02T14:25:00",
     "EventEnd": null,
     "TBD": "1",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "06777a88-42dc-4a27-94e0-4f129b2cce85"
+    "GUID": "200e286d-23be-41fd-8e4f-3f683fce35c8"
+  },
+  {
+    "AlertId": "113545",
+    "Headline": "95th-bound Red Line Service Delayed at 69th/Dan Ryan",
+    "ShortDescription": "95th-bound Red Line trains are standing at 69th/Dan Ryan due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are standing at 69th/Dan Ryan due to a sick customer.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2026-03-02T14:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113545"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "451028b4-c511-48ac-b8dc-9758187cef08"
   }
 ]
