@@ -32,5 +32,86 @@
     },
     "ttim": "0",
     "GUID": "d908f934-882d-4c64-9d43-0e8269603647"
+  },
+  {
+    "AlertId": "113565",
+    "Headline": "#67 67th-69th-71st , #94 California Temporary Reroute at 69th/Bell",
+    "ShortDescription": "67 67th-69th-71st , 94 California buses are temporarily rerouted : due to, street blockage near 69th/Bell.",
+    "FullDescription": {
+      "#cdata-section": "<p>#67 67th-69th-71st&nbsp;,#94 California buses are temporarily rerouted in both directions via 69th, Damen, 67th and Western including normal route streets&nbsp;due to street blockage at 69th/Bell.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-04T07:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113565"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "67th-69th-71st",
+          "ServiceId": "67",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/67/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "California",
+          "ServiceId": "94",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/california/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "04971522-6c61-485a-8424-f0ff7f398236"
+  },
+  {
+    "AlertId": "113566",
+    "Headline": "#66 Chicago Temporary Westbound Reroute near Chicago/Laramie",
+    "ShortDescription": "Westbound 66 Chicago   buses are temporarily rerouted via Chicago, Laramie, Augusta, Central and Chicago: due to, street blockage near Chicago/Laramie.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #66 Chicago&nbsp; &nbsp;buses are temporarily rerouted via Chicago, Laramie, Augusta, Central and Chicago: due to, street blockage near Chicago/Laramie.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-04T07:31:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113566"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "731a9397-837b-4029-b0a9-dbb8c36456a3"
   }
 ]
