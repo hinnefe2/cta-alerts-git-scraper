@@ -81,37 +81,37 @@
     "GUID": "04971522-6c61-485a-8424-f0ff7f398236"
   },
   {
-    "AlertId": "113571",
-    "Headline": "#87 87th Temporary Reroute at 87th/Rockwell",
-    "ShortDescription": "#87 87th buses are temporarily rerouted in both directions via 87th, California, 83rd, Western and 87th due to street blockage near 87th/Rockwell.",
+    "AlertId": "113574",
+    "Headline": "Red Line Service Delayed near Morse",
+    "ShortDescription": "Red Line trains are standing near the area of Morse due to an unauthorized person on the tracks. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#87 87th buses are temporarily rerouted in both directions via 87th, California, 83rd, Western, then resume their normal route on 87th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near 87th/Rockwell.</p>\r\n"
+      "#cdata-section": "<p><strong>Red Line trains are standing near the area of Morse due to an unauthorized person on the tracks.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-03-04T18:22:00",
+    "Impact": "Significant Delays",
+    "EventStart": "2026-03-05T02:00:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113571"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113574"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "87th",
-        "ServiceId": "87",
-        "ServiceBackColor": "565a5c",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/87/"
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "9e070f4f-0660-4fdf-9451-ba8e2d686d1b"
+    "GUID": "f3de9dc9-1213-41e8-a684-a53a86d5d88a"
   }
 ]
