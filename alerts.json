@@ -113,5 +113,52 @@
     },
     "ttim": "0",
     "GUID": "ee0ae609-481f-419b-a9f0-0d13901a72e5"
+  },
+  {
+    "AlertId": "113620",
+    "Headline": "Forest Park- Bound Blue Line Service Delayed at Jefferson Park",
+    "ShortDescription": "Forest Park- Bound Blue Line trains are standing at Jefferson Park due to a sick rider. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park- Bound Blue Line trains are standing at Jefferson Park due to a sick rider.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-03-07T14:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113620"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Jefferson Park",
+          "ServiceId": "41280",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=78"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c4985d4b-f360-4891-a155-3e282dcf7ffa"
   }
 ]
