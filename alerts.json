@@ -113,5 +113,52 @@
     },
     "ttim": "0",
     "GUID": "ee0ae609-481f-419b-a9f0-0d13901a72e5"
+  },
+  {
+    "AlertId": "113622",
+    "Headline": "Harlem- Bound Green Line Service Delayed at 35th- Bronzeville-IIT",
+    "ShortDescription": "Harlem- Bound Green Line trains are standing at 35th- Bronzeville- IIT due to a sick rider. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem- Bound Green Line trains are standing at 35th- Bronzeville- IIT due to a sick rider.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-03-07T15:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113622"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "35th-Bronzeville-IIT",
+          "ServiceId": "41120",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=2"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "f8828811-1929-48bb-aa57-9940d95f783a"
   }
 ]
