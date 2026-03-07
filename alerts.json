@@ -116,10 +116,10 @@
   },
   {
     "AlertId": "113618",
-    "Headline": "#60 Blue Island/26th Temporary Westbound Reroute near Clinton/Madison",
-    "ShortDescription": "Westbound 60 Blue Island/26th buses are temporarily rerouted via Madison, Wacker, Adams and Clinton: due to, street blockage near Clinton/Madison.",
+    "Headline": "#60 Blue Island/26th,#124 Navy Pier Temporary Westbound Reroute near Clinton/Madison",
+    "ShortDescription": "Westbound 60 Blue Island/26th, 124 Navy Pier buses are temporarily :due to, street blockage near Clinton/Madison.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound #60 Blue Island/26th buses are temporarily rerouted via Madison, Wacker, Adams and Clinton: due to, street blockage near Clinton/Madison.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #60 Blue Island/26th, #124 Navy Pier buses are temporarily rerouted via Madison, Wacker, Adams and Clinton: due to, street blockage near Clinton/Madison.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -133,19 +133,66 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113618"
     },
     "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Blue Island/26th",
+          "ServiceId": "60",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/60/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Navy Pier",
+          "ServiceId": "124",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/124/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "bcf87ed0-a115-4592-8891-86b965e0e956"
+  },
+  {
+    "AlertId": "113619",
+    "Headline": "#55N 55th/Narragansett Temporary Reroute at Narragansett/62nd",
+    "ShortDescription": "55N 55th/Narragansett buses are temporarily rerouted via 55th, Austin, 63rd and Narragansett: due to, police activity near Narragansett.",
+    "FullDescription": {
+      "#cdata-section": "<p>#55N 55th/Narragansett buses are temporarily rerouted via 55th, Austin, 63rd and Narragansett: due to, police activity near Narragansett</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-07T09:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113619"
+    },
+    "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Blue Island/26th",
-        "ServiceId": "60",
-        "ServiceBackColor": "414145",
+        "ServiceName": "55th/Narragansett",
+        "ServiceId": "55N",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/60/"
+          "#cdata-section": "http://www.transitchicago.com/bus/55n/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "28c69173-8b14-478e-9c7d-4f79abf7bf77"
+    "GUID": "088f3878-8f52-4a62-aea6-74071fabd738"
   }
 ]
