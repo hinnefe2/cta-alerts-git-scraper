@@ -91,7 +91,7 @@
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-03-09T09:50:00",
+    "EventStart": "2026-03-09T09:40:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
@@ -112,6 +112,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "73863fff-33ea-4724-a054-e01a8ef28149"
+    "GUID": "36f7dd57-f959-4efc-955c-78b4847037fd"
+  },
+  {
+    "AlertId": "113643",
+    "Headline": "#8 Halsted Temporary Reroute at Halsted/Archer",
+    "ShortDescription": "#8 Halsted buses are temporarily rerouted in both directions via Halsted, Archer, Canal, Cermak and Halsted due to a bridge lift near Halsted/Archer.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#8 Halsted buses are temporarily rerouted in both directions via Halsted, Archer, Canal, Cermak, then resume their normal route on Halsted.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to a bridge lift near Halsted/Archer.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-09T09:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113643"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Halsted",
+        "ServiceId": "8",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/8/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ea4d3505-9d00-411a-9d41-4568ef037284"
   }
 ]
