@@ -116,15 +116,15 @@
   },
   {
     "AlertId": "113651",
-    "Headline": "No trains between Bryn Mawr and Jarvis",
-    "ShortDescription": "Howard-bound Red and Purple Line service has been temporarily suspended between Bryn Mawr and Jarvis due to track conditions.",
+    "Headline": "Howard-bound Red Line trains bypassing Thorndale, Granville, Loyola, Morse, Jarvis",
+    "ShortDescription": "Howard-bound Red Line trains are running, but not stopping at Thorndale, Granville, Loyola, Morse, Jarvis due to track conditions.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red and Purple Line service has been temporarily suspended between Bryn Mawr and Jarvis due to track conditions.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between 95th&nbsp;and Bryn Mawr&nbsp;at this time. </strong>Where riders needing stations from Thorndale through Jarvis, can transfer to 95th-bound service and ride back to bypassed stops.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#151 Sheridan</p>\r\n\r\n<p>#155 Devon</p>\r\n\r\n<p>#36 Broadway</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Howard-bound Red Line trains are running, but not stopping at Thorndale, Granville, Loyola, Morse, Jarvis due to track conditions.</p>\r\n\r\n<p>As a result, trains are operating only between 95th and Bryn Mawr at this time. Where riders needing stations from Thorndale through Jarvis, can transfer to 95th-bound service and ride back to bypassed stops.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#151 Sheridan</p>\r\n\r\n<p>#155 Devon</p>\r\n\r\n<p>#36 Broadway</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
     "EventStart": "2026-03-09T16:32:00",
     "EventEnd": null,
     "TBD": "1",
@@ -133,32 +133,19 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113651"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "520c2a08-0e3c-427e-8e8d-c903bf5fd6e2"
+    "GUID": "3d0d0ee2-8e01-424e-9ac2-bcdef98e371c"
   }
 ]
