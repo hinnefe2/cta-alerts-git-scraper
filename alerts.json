@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "113683",
-    "Headline": "#62 Archer Temporary Reroute at Archer/Brighton Place",
-    "ShortDescription": "#62 Archer buses are temporarily rerouted in both directions via Archer, Pershing, California and Archer due to street blockage near Archer/Brighton Place.",
+    "Headline": "#62 Archer Temporary Reroute near Archer/Brighton Place",
+    "ShortDescription": "#62 Archer buses are rrtd SB via Archer, Pershing, California & Archer; NB via Archer, Pershing, Kedzie & Archer due to blockage near Archer/Brighton Place.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#62 Archer buses are temporarily rerouted in both directions via Archer, Pershing, California, then resume their normal route on Archer.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Archer/Brighton Place.</p>\r\n"
+      "#cdata-section": "<p><span style=\"font-weight: bolder;\">How does this affect my trip?</span></p>\r\n\r\n<p><span style=\"font-weight: bolder;\">#62 Archer buses are temporarily rerouted in both directions.</span></p>\r\n\r\n<p><span style=\"font-weight: bolder;\">Southbound</span>&nbsp;#62 Archer buses will operate via Archer, Pershing, California, then resume their normal route on Archer.</p>\r\n\r\n<p><span style=\"font-weight: bolder;\">Northbound</span>&nbsp;#62 Archer buses will operate via Archer, Pershing, Kedzie, then resume their normal route on Archer.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><span style=\"font-weight: bolder;\">Why is service being changed?</span></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Archer/Brighton Place.</p>\r\n\r\n<p><em>(Revised)</em></p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "5014b846-9f30-4999-a4e1-45b467e41e46"
+    "GUID": "55cc2325-0f71-4129-ad6d-38145b6b83b1"
+  },
+  {
+    "AlertId": "113684",
+    "Headline": "#94 South California Temporary Northbound Reroute near Archer/Brighton Place",
+    "ShortDescription": "Northbound #94 South California buses rerouted via California, 47th, Western, Archer, Pershing & California due to street blockage near Archer/Brighton Place.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Northbound</strong> #94 South California buses are temporarily rerouted via California, 47th, Western, Archer, Pershing, then resume their normal route on California.</p>\r\n\r\n<p><strong>Southbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Archer/Brighton Place.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-11T04:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113684"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "945aac77-5136-401f-993c-0af80ebcdb97"
   }
 ]
