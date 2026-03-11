@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "113683",
-    "Headline": "#62 Archer Temporary Reroute near Archer/Brighton Place",
-    "ShortDescription": "#62 Archer buses are rrtd SB via Archer, Pershing, California & Archer; NB via Archer, Pershing, Kedzie & Archer due to blockage near Archer/Brighton Place.",
-    "FullDescription": {
-      "#cdata-section": "<p><span style=\"font-weight: bolder;\">How does this affect my trip?</span></p>\r\n\r\n<p><span style=\"font-weight: bolder;\">#62 Archer buses are temporarily rerouted in both directions.</span></p>\r\n\r\n<p><span style=\"font-weight: bolder;\">Southbound</span>&nbsp;#62 Archer buses will operate via Archer, Pershing, California, then resume their normal route on Archer.</p>\r\n\r\n<p><span style=\"font-weight: bolder;\">Northbound</span>&nbsp;#62 Archer buses will operate via Archer, Pershing, Kedzie, then resume their normal route on Archer.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><span style=\"font-weight: bolder;\">Why is service being changed?</span></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Archer/Brighton Place.</p>\r\n\r\n<p><em>(Revised)</em></p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-03-11T04:07:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113683"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Archer",
-        "ServiceId": "62",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/62/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "55cc2325-0f71-4129-ad6d-38145b6b83b1"
-  },
-  {
     "AlertId": "113684",
     "Headline": "#94 South California Temporary Northbound Reroute near Archer/Brighton Place",
     "ShortDescription": "Northbound #94 South California buses rerouted via California, 47th, Western, Archer, Pershing & California due to street blockage near Archer/Brighton Place.",
@@ -168,5 +134,73 @@
     },
     "ttim": "0",
     "GUID": "74c2443a-d9d4-40a3-8bda-85ebca1ed4a6"
+  },
+  {
+    "AlertId": "113693",
+    "Headline": "#35 31st/35th Temporary Reroute at 35th/Kedzie",
+    "ShortDescription": "35 31st/35th buses are temporarily rerouted via 35th, California, 31st and Kedzie due to, street blockage near 35th/Kedzie.",
+    "FullDescription": {
+      "#cdata-section": "<p>#35 31st/35th buses are temporarily rerouted via 35th, California, 31st and Kedzie due to, street blockage near 35th/Kedzie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-11T09:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113693"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "31st/35th",
+        "ServiceId": "35",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/35/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "dbdc05a0-333a-4ae3-901d-15130b07b47e"
+  },
+  {
+    "AlertId": "113694",
+    "Headline": "#52 Kedzie Temporary Reroute at 35th/Kedzie",
+    "ShortDescription": "52 Kedzie buses are temporarily rerouted via Kedzie, Pershing, California, 31st and Kedzie: due to, street blockage near 35th/Kedzie.",
+    "FullDescription": {
+      "#cdata-section": "<p>#52 Kedzie buses are temporarily rerouted via Kedzie, Pershing, California, 31st and Kedzie: due to, street blockage near 35th/Kedzie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-11T10:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113694"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kedzie",
+        "ServiceId": "52",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/kedzie/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5bcd5d1f-c353-4508-a71a-038f54deb998"
   }
 ]
