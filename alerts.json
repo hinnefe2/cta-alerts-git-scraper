@@ -102,40 +102,6 @@
     "GUID": "8997f62d-9363-42cd-b8a4-6c089397914c"
   },
   {
-    "AlertId": "113690",
-    "Headline": "82 Kimball-Homan Temporary Reroute near Homan/Franklin",
-    "ShortDescription": "82 Kimball-Homan buses temp. rerouted : due to, street blockage near Homan/Franklin.",
-    "FullDescription": {
-      "#cdata-section": "<p>#82 Kimball-Homan buses temp. rerouted : due to, street blockage near Homan/Franklin.</p>\r\n\r\n<p>Northbound&nbsp;buses will operate via Homan, Madison, Kedzie, Franklin and Homan including the normal route streets.</p>\r\n\r\n<p>Southbound&nbsp;buses will operate via Homan, Franklin, Kedzie, Washington and Homan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-03-11T07:57:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113690"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "74c2443a-d9d4-40a3-8bda-85ebca1ed4a6"
-  },
-  {
     "AlertId": "113693",
     "Headline": "#35 31st/35th Temporary Reroute at 35th/Kedzie",
     "ShortDescription": "35 31st/35th buses are temporarily rerouted via 35th, California, 31st and Kedzie due to, street blockage near 35th/Kedzie.",
@@ -204,37 +170,50 @@
     "GUID": "5bcd5d1f-c353-4508-a71a-038f54deb998"
   },
   {
-    "AlertId": "113695",
-    "Headline": "#70 Division Temporary Reroute at Division/Avers",
-    "ShortDescription": "70 Division buses are temporarily rerouted via Division, Hamlin, Augusta, Pulaski and Division: due to, fire department activity near Division/Avers.",
+    "AlertId": "113696",
+    "Headline": "Red Line Service Delayed at Garfield",
+    "ShortDescription": "Red Line trains are standing at Garfield due to police activity. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>#70 Division buses are temporarily rerouted via Division, Hamlin, Augusta, Pulaski and Division: due to, fire department activity near Division/Avers.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are standing at Garfield due to police activity.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-03-11T11:26:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-03-11T11:50:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113695"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113696"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Division",
-        "ServiceId": "70",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/70/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Garfield",
+          "ServiceId": "41170",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=61"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "9b68dfc1-4f62-4514-b0f0-69be6881e56f"
+    "GUID": "b5c55c88-da90-42ff-a8c7-d243b4cabc06"
   }
 ]
