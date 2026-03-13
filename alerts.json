@@ -66,5 +66,63 @@
     },
     "ttim": "0",
     "GUID": "605d0aed-9c18-4784-828a-12dec67be07d"
+  },
+  {
+    "AlertId": "113754",
+    "Headline": "#3 King Drive, # 66 Chicago and # 26 South Shore Express Temporary Reroute near Michigan/Chicago",
+    "ShortDescription": "#3 King Drive, # 66 Chicago and # 26 South Shore Express buses are temporarily rerouted in both directions, due to street blockage at Michigan/Chicago.",
+    "FullDescription": {
+      "#cdata-section": "<p>#3 King Drive, # 66 Chicago and # 26 South Shore Express buses are temporarily rerouted in both directions, due to street blockage at Michigan/Chicago.</p>\r\n\r\n<p>Southbound <strong>#3 King Drive</strong> buses will operate via Ontario, Michigan,&nbsp;and over regular route.</p>\r\n\r\n<p>Northbound <strong>#3 King Drive</strong> buses will operate via Michigan, Pearson, Mies Van De roe, Chicago, and over regular route.</p>\r\n\r\n<p>Eastbound <strong>#66 Chicago</strong> buses will operate via Chicago, Michigan, Ohio, Fairbanks, and over regular route</p>\r\n\r\n<p>Westbound <strong>#66 Chicago</strong> buses will operate via Grand, Fairbanks, Ontario, Michigan,&nbsp;and over regular route.</p>\r\n\r\n<p>Northbound&nbsp;<span style=\"font-weight: bolder;\">#26 South Shore Express</span>&nbsp;buses will operate via Michigan, Oak, Inner Lake Shore Drive, Chicago, and over regular route</p>\r\n\r\n<p>Southbound&nbsp;<span style=\"font-weight: bolder;\">#66 Chicago</span>&nbsp;buses will operate via Chicago, Fairbanks, Ontario, Michigan,&nbsp;and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-13T14:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113754"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "King Drive",
+          "ServiceId": "3",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/3/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Chicago",
+          "ServiceId": "66",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/66/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "43ee1390-342f-487a-983a-feb0949068e9"
   }
 ]
