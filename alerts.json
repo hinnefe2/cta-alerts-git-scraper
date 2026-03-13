@@ -1,36 +1,83 @@
 [
   {
-    "AlertId": "113726",
-    "Headline": "#97 Skokie Temporary Reroute at Niles Center Road/Main",
-    "ShortDescription": "97 Skokie buses are temporarily rerouted via Dempster, Skokie and Oakton due to, police activity near Niles Center Road/Main.",
+    "AlertId": "113732",
+    "Headline": "#52 Kedzie and #47 47th Temporary Reroute near Kedzie/47th",
+    "ShortDescription": "52 Kedzie and 47 47th buses are temporarily rerouted in both directions near Kedzie/47th, due to street blockage Kedzie/47th.\r\n\r\n",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#97 Skokie buses are temporarily rerouted in both directions via Dempster, Skokie, Oakton and over regular route due to, police activity near Niles Center Road/Main.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#52 Kedzie and #47 47th buses are temporarily rerouted in both directions near Kedzie/47th, due to street blockage Kedzie/47th.</p>\r\n\r\n<p>Southbound #52 Kedzie buses will operate via Kedzie, 47th, California, 51st, Kedzie, Orange Line and over regular route.</p>\r\n\r\n<p>Westbound #47 47 buses will operate via 47th, California, 51st, Kedzie, Orange Line and over regular route</p>\r\n\r\n<p>Eastbound #47 47th buses will operate via 47th, California, 51st, Kedzie, Orange Line, Kedzie, 47th and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-03-12T13:58:00",
+    "EventStart": "2026-03-12T20:38:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113726"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113732"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "47th",
+          "ServiceId": "47",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/47/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Kedzie",
+          "ServiceId": "52",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/kedzie/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "622352c1-54e0-4dc6-9995-eb71ffbd81bf"
+  },
+  {
+    "AlertId": "113733",
+    "Headline": "#20 Madison Temporary Reroute at Madison/Albany",
+    "ShortDescription": "20 Madison buses are temporarily rerouted via Madison, Kedzie, Jackson, Sacramento and Madison: due to, police activity near Madison/Albany.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#20 Madison buses are temporarily rerouted in both directions via Madison, Kedzie, Jackson, Sacramento, Madison and over regular route: due to, police activity near Madison/Albany.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-12T21:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113733"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Skokie",
-        "ServiceId": "97",
-        "ServiceBackColor": "565a5c",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/97/"
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "2e441baf-0caa-4101-8b01-62310d44c2a3"
+    "GUID": "eceb4888-9b93-4c07-9222-d448fa052146"
   }
 ]
