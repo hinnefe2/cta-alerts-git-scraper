@@ -34,40 +34,6 @@
     "GUID": "e5dd7217-cc86-4860-bf67-f54cab8d3af9"
   },
   {
-    "AlertId": "113744",
-    "Headline": "#62 Archer Temporary Reroute at Archer/Poplar",
-    "ShortDescription": "62 Archer buses are temporarily rerouted via Archer, Cermak, Loomis and Archer: due to, street blockage near Archer/Poplar.",
-    "FullDescription": {
-      "#cdata-section": "<p>#62 Archer buses are temporarily rerouted via Archer, Cermak, Loomis and Archer: due to, street blockage near Archer/Poplar.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-03-13T09:12:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113744"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Archer",
-        "ServiceId": "62",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/62/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "06f68fb4-e7a2-4189-b122-0619c4ebd1ad"
-  },
-  {
     "AlertId": "113747",
     "Headline": "#93 California/Dodge Temporary Reroute at California/Morse",
     "ShortDescription": "93 California/Dodge buses are temporarily rerouted via California, Pratt, Kedzie, Touhy and California: due to, street blockage near California/Morse.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "605d0aed-9c18-4784-828a-12dec67be07d"
+  },
+  {
+    "AlertId": "113749",
+    "Headline": "Purple Line Service Temporarily Suspended",
+    "ShortDescription": "Service on the Purple Line has been temporarily suspended due to debris on the tracks.",
+    "FullDescription": {
+      "#cdata-section": "<p>Service on the Purple Line has been temporarily suspended due to debris on the tracks.</p>\r\n\r\n<p><strong>Shuttle buses are available&nbsp; from Howard to Linden to provide connecting service through the affected area.</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p><strong>#93 California/Dodge</strong></p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "90",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Suspended",
+    "EventStart": "2026-03-13T12:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "1",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113749"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+        }
+      }
+    },
+    "ttim": "1",
+    "GUID": "f03d7c44-766a-4028-bbc5-e01a85ed2f4c"
   }
 ]
