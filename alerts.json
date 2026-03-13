@@ -65,7 +65,7 @@
       }
     },
     "ttim": "1",
-    "GUID": "44406e83-56cb-48c1-89ae-de659222d4bc"
+    "GUID": "71d80e25-a862-4098-bc79-3a225725e712"
   },
   {
     "AlertId": "113740",
@@ -170,50 +170,37 @@
     "GUID": "06f68fb4-e7a2-4189-b122-0619c4ebd1ad"
   },
   {
-    "AlertId": "113746",
-    "Headline": "Forest Park- Blue Line Delays",
-    "ShortDescription": "Forest Park- Bound Blue Line trains are running w/residual delays at Irving Park. Service is resuming, allow extra time.",
+    "AlertId": "113747",
+    "Headline": "#93 California/Dodge Temporary Reroute at California/Morse",
+    "ShortDescription": "93 California/Dodge buses are temporarily rerouted via California, Pratt, Kedzie, Touhy and California: due to, street blockage near California/Morse.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park- Bound Blue Line trains are running w/residual delays following an earlier obstruction on the tracks at Irving Park.</p>\r\n\r\n<p>Shuttle buses are available from Harlem-O&#39;Hare Branch to Grand to provide connecting service through the affected area until 10:30 am.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#93 California/Dodge buses are temporarily rerouted via California, Pratt, Kedzie, Touhy and California: due to, street blockage near California/Morse.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2026-03-13T09:41:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-13T10:22:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113746"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113747"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Irving Park",
-          "ServiceId": "40550",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=74"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California/Dodge",
+        "ServiceId": "93",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/93/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "bfe39d92-b966-487e-a1e1-44439cf94bad"
+    "GUID": "605d0aed-9c18-4784-828a-12dec67be07d"
   }
 ]
