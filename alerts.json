@@ -59,10 +59,10 @@
   },
   {
     "AlertId": "113766",
-    "Headline": "#47 47th Temporary Reroute at 47th/Kedzie",
-    "ShortDescription": "47 47th buses are temporarily rerouted via 47th, California, 51st, Kedzie, Orange Line, 51st, Lawndale, Archer and 47th: near 47th/Kedzie.",
+    "Headline": "#47 47th and #52 Kedzie/California Temporary Reroute at 47th/Kedzie",
+    "ShortDescription": "47 47th and 52 Kedzie/California buses are temporarily rerouted in both directions near 47th/Kedzie, due to street blockage near 47th/Kedzie.",
     "FullDescription": {
-      "#cdata-section": "<p>#47 47th buses are temporarily rerouted in both directions via 47th, California, 51st, Kedzie, Orange Line, 51st, Lawndale, Archer, 47th and over regular route due to street blockage near 47th/Kedzie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><span style=\"font-weight: bolder;\">How does this affect my trip?</span></p>\r\n\r\n<p>#47 47th and #52 Kedzie/California buses are temporarily rerouted in both directions near 47th/Kedzie, due to street blockage near 47th/Kedzie.</p>\r\n\r\n<p><strong>Eastbound #47 47th</strong> buses will operate&nbsp;via 47th, Lawndale, 51st, Kedzie and Orange Line.</p>\r\n\r\n<p><strong>Westbound #47 47th </strong>buses will operate via Orange Line, Kedzie, Lawndale, Archer and 47th.</p>\r\n\r\n<p><strong>#52 Kedzie/California</strong>&nbsp;buses will operate via Kedzie, 47th, Archer, Lawndale, 51st, Kedzie and Orange Line.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -76,53 +76,32 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113766"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "47th",
-        "ServiceId": "47",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/47/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "47th",
+          "ServiceId": "47",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/47/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Kedzie",
+          "ServiceId": "52",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/kedzie/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "8578ba00-ad5c-4abd-8eff-501e93918542"
-  },
-  {
-    "AlertId": "113767",
-    "Headline": "#87 87th Temporary Westbound Reroute near 87th/Lafayette",
-    "ShortDescription": "Westbound 87 87th buses are temporarily rerouted via 87th, Lafayette, 95th, Halsted and 87th: due to, street blockage near 87th/Lafayette.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound 87 87th buses are temporarily rerouted via 87th, Lafayette, 95th, Halsted, 87th and over regular route: due to, street blockage near 87th/Lafayette.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-03-14T03:44:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113767"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "87th",
-        "ServiceId": "87",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/87/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "20d7ff0f-2591-482e-90f6-13d8044ce20d"
+    "GUID": "3ea4b09d-6a19-4f33-8d00-2efd6a33e1b6"
   }
 ]
