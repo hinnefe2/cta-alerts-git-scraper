@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "1ceca628-551d-4250-a5bb-0f3aa49e71cb"
+  },
+  {
+    "AlertId": "113785",
+    "Headline": "#52 Kedzie Temporary Southbound Reroute near Kedzie/34th",
+    "ShortDescription": "Southbound 52 Kedzie buses are temp. rerouted via Kedzie, 31st, California, 36th Place, Albany, 36thsreet and Kedzie: due to, street blockage near Kedzie/34th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #52 Kedzie buses are temp. rerouted via Kedzie, 31st, California, 36th Place, Albany, 36thsreet and Kedzie: due to, street blockage near Kedzie/34th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-15T08:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113785"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "31st/35th",
+          "ServiceId": "35",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/35/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Kedzie",
+          "ServiceId": "52",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/kedzie/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ee9aabf3-d26f-4c73-b831-678a8a99974b"
   }
 ]
