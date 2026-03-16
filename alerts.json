@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "113791",
-    "Headline": "Red Line Trains bypassing North/Clybourn Station",
-    "ShortDescription": "Red Line trains are running, but not stopping at North/Clybourn due to flooding.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running, but not stopping at North/Clybourn due to flooding.</p>\r\n\r\n<p>As a result of the delay, shuttle buses are available to provide connecting service from Fullerton to Clark/Division in both directions.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#8 Halsted</p>\r\n\r\n<p>#72 North</p>\r\n\r\n<p>We apologize for this inconvenience and appreciate your understanding.</p>\r\n"
-    },
-    "SeverityScore": "58",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2026-03-15T19:19:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113791"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "a275d88e-7432-4632-8fce-e1fa5c936b36"
-  },
-  {
     "AlertId": "113793",
     "Headline": "Service Between 54th/Cermak and Polk, then Racine (Blue Line) Stations, Only",
     "ShortDescription": "Pink Line trains operate from 54th to Polk only, then connect w/Blue Line at Racine for continuing service, due to signal problems at Ashland/Lake.",
@@ -317,5 +283,39 @@
     },
     "ttim": "0",
     "GUID": "e664fdd0-ed5c-42f4-b629-9d7f3f86e464"
+  },
+  {
+    "AlertId": "113802",
+    "Headline": "#71 71st/South Shore Temporary Reroute at South Shore Drive/83rd",
+    "ShortDescription": "71 71st/South Shore buses are temporarily rerouted via 83rd, Lakeshore Drive and 79th: due to, street blockage near South Shore Drive/83rd.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#71 71st/South Shore buses are temporarily rerouted in both directions via 83rd, Lakeshore Drive, 79th and over regular route: due to, street blockage near South Shore Drive/83rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-15T23:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113802"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e2c912cd-3f07-4825-a2c5-214dcab56b97"
   }
 ]
