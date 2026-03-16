@@ -38,12 +38,12 @@
     "Headline": "Green and Pink Line Service Delayed at Ashland/Lake",
     "ShortDescription": "Green and Pink Line trains are standing at Ashland/Lake due to signal problems. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Green and Pink Line trains are standing at Ashland/Lake due to signal problems.</p>\r\n\r\n<p>Shuttle buses have been requested from to provide connecting service in both directions for:</p>\r\n\r\n<p>Green Line Riders -Harlem/Lake to Clark/Lake</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#9 Ashland<br />\r\n#21 Cermak<br />\r\n#49 Western<br />\r\n#50 Damen</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green and Pink Line trains are standing at Ashland/Lake due to signal problems.</p>\r\n\r\n<p>Shuttle buses are available to provide connecting service in both directions for:</p>\r\n\r\n<p>Green Line Riders - Harlem/Lake to Clark/Lake</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#9 Ashland<br />\r\n#21 Cermak<br />\r\n#49 Western<br />\r\n#50 Damen</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
+    "SeverityScore": "84",
     "SeverityColor": "c00c00",
     "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "Impact": "Service Disruption",
     "EventStart": "2026-03-15T20:10:00",
     "EventEnd": null,
     "TBD": "1",
@@ -78,7 +78,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "ef53f816-fa99-4cdd-8c59-20a2b1dc6787"
+    "GUID": "efed35ca-9726-454e-8971-a996264675fc"
   },
   {
     "AlertId": "113793",
@@ -147,5 +147,222 @@
     },
     "ttim": "0",
     "GUID": "d5dc47db-9909-4688-affc-acf3bb92fcf7"
+  },
+  {
+    "AlertId": "113795",
+    "Headline": "#70 Division Temporary Reroute at Division/Kostner",
+    "ShortDescription": "70 Division buses are temporarily rerouted via Division, Cicero, Augusta, Kostner and Division, over regular route: due to flooding near Division/Kostner.",
+    "FullDescription": {
+      "#cdata-section": "<p>#70 Division buses are temporarily rerouted via Division, Cicero, Augusta, Kostner and Division, over regular route: due to flooding near Division/Kostner.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-15T21:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113795"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Division",
+        "ServiceId": "70",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/70/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "db9fb9bc-ad8e-4c9f-80a5-07fad6e67355"
+  },
+  {
+    "AlertId": "113796",
+    "Headline": "#53 Pulaski Temporary Reroute at Pulaski/24th",
+    "ShortDescription": "53 Pulaski buses are temporarily rerouted via Pulaski, 26th, Central Park, Cermak and Pulaski, over normal route due to, street blockage near Pulaski/24th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#53 Pulaski buses are temporarily rerouted via Pulaski, 26th, Central Park, Cermak and Pulaski, over normal route due to, street blockage near Pulaski/24th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-15T21:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113796"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pulaski",
+        "ServiceId": "53",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/53/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4a3f905a-b85b-4c74-83b4-638da3783ae9"
+  },
+  {
+    "AlertId": "113797",
+    "Headline": "#65 Grand Temporary Reroute at Grand/Lacrosse",
+    "ShortDescription": "65 Grand buses are temporarily rerouted via Grand, Armitage, Cicero and Grand: due to, street blockage near Grand/Lacrosse.",
+    "FullDescription": {
+      "#cdata-section": "<p>#65 Grand buses are temporarily rerouted via Grand, Armitage, Cicero, Grand and over regular route: due to, street blockage near Grand/Lacrosse.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-15T21:27:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113797"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Grand",
+        "ServiceId": "65",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/65/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2a7c4a83-e79e-48c1-ad1e-602c4ec61307"
+  },
+  {
+    "AlertId": "113798",
+    "Headline": "#81 Lawrence Temporary Reroute at Lawrence/Lavergne",
+    "ShortDescription": "81 Lawrence buses are temporarily rerouted via Lawrence, Cicero, Elston, Foster, Milwaukee and Jefferson Park: due to, street blockage near Lawrence/Lavergne.",
+    "FullDescription": {
+      "#cdata-section": "<p>#81 Lawrence buses are temporarily rerouted via Lawrence, Cicero, Elston, Foster, Milwaukee, Jefferson Park and over regular route: due to, street blockage near Lawrence/Lavergne.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-15T21:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113798"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Lawrence",
+        "ServiceId": "81",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/81/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "52e73847-b394-4ee3-8070-c5be2a716b9b"
+  },
+  {
+    "AlertId": "113800",
+    "Headline": "#119 Michigan/119th and #34 South Chicago Temporary Reroute near Michigan/116th",
+    "ShortDescription": "119 Michigan/119th and 34 South Chicago buses are temporarily rerouted in both directions near Michigan/116th due to street blockage near Michigan/116th.",
+    "FullDescription": {
+      "#cdata-section": "<p><span style=\"font-weight: bolder;\">How does this affect my trip?</span></p>\r\n\r\n<p>#119 Michigan/119th and #34 South Chicago buses are temporarily rerouted in both directions near Michigan/116th due to street blockage near Michigan/116th.</p>\r\n\r\n<p>#34 South Chicago&nbsp;buses will operate via Michigan, 119th, State, 115th, Michigan and over regular route.</p>\r\n\r\n<p>#119 Michigan/119th buses will operate via 119th, State, 115th, Michigan and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-15T21:56:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113800"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Michigan",
+          "ServiceId": "34",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/34/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Michigan/119th",
+          "ServiceId": "119",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/119/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "bbc9f85e-1ce2-4059-960c-90123c651af8"
+  },
+  {
+    "AlertId": "113801",
+    "Headline": "#47 47th Temporary Reroute at 47th/Morgan",
+    "ShortDescription": "47 47th buses are temporarily rerouted via 47th, Racine, 51st, Halsted and 47th to, street blockage near 47th/Morgan.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How will this affect my trip?</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>#47 47th buses are temporarily rerouted in both directions via 47th, Racine, 51st, Halsted, 47th and over regular route due to, street blockage near 47th/Morgan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-15T22:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113801"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "47th",
+        "ServiceId": "47",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/47/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e664fdd0-ed5c-42f4-b629-9d7f3f86e464"
   }
 ]
