@@ -4,7 +4,7 @@
     "Headline": "Red Line Trains bypassing North/Clybourn Station",
     "ShortDescription": "Red Line trains are running, but not stopping at North/Clybourn due to flooding.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running, but not stopping at North/Clybourn&nbsp;due to flooding.</p>\r\n\r\n<p>As a result of the delay, shuttle buses have been requested to provide connecting service from Fullerton to Clark/Division in both directions.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#8 Halsted</p>\r\n\r\n<p>#72 North</p>\r\n\r\n<p>We apologize for this inconvenience and appreciate your understanding.</p>\r\n"
+      "#cdata-section": "<p>Red Line trains are running, but not stopping at North/Clybourn due to flooding.</p>\r\n\r\n<p>As a result of the delay, shuttle buses are available to provide connecting service from Fullerton to Clark/Division in both directions.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#8 Halsted</p>\r\n\r\n<p>#72 North</p>\r\n\r\n<p>We apologize for this inconvenience and appreciate your understanding.</p>\r\n"
     },
     "SeverityScore": "58",
     "SeverityColor": "B45F04",
@@ -31,6 +31,53 @@
       }
     },
     "ttim": "0",
-    "GUID": "398c7a01-a3bb-4577-be45-9680922dc475"
+    "GUID": "024e25c3-0c62-4750-9c4a-e27aa908cf83"
+  },
+  {
+    "AlertId": "113792",
+    "Headline": "Green and Pink Line Service Delayed at Ashland/Lake",
+    "ShortDescription": "Green and Pink Line trains are standing at Ashland/Lake due to signal problems. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green and Pink Line trains are standing at Ashland/Lake due to signal problems.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-03-15T20:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113792"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "8ade8422-a96e-4504-b344-8f2ef38a0359"
   }
 ]
