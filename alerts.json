@@ -34,37 +34,37 @@
     "GUID": "bc1ca5f4-8b6f-4c1d-af60-d63eaf2e3b05"
   },
   {
-    "AlertId": "113925",
-    "Headline": "#87 87th Temporary Reroute at 87th/Yates",
-    "ShortDescription": "87 87th buses are temporarily rerouted in both directions, due to fire department activity near 87th/Yates",
+    "AlertId": "113926",
+    "Headline": "Trains bypassing Washington ",
+    "ShortDescription": "Blue Line trains are running, but not stopping at Washington due to fire department activity.",
     "FullDescription": {
-      "#cdata-section": "<p>#87 87th buses are temporarily rerouted in both directions via 87th, Yates, 83rd, Exchange, Commercial, and 87th over normal route, due to fire department activity near 87th/Yates.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are running, but not stopping at Washington due to fire department activity.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:&nbsp;<br />\r\n#22 Clark<br />\r\n#36&nbsp;Broadway</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "58",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-03-22T19:43:00",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2026-03-22T20:22:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113925"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113926"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "87th",
-        "ServiceId": "87",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/87/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "da631995-4679-4b53-885c-b2aa88a54e73"
+    "GUID": "ed9ff91f-985d-4d78-a14b-029d558f8d0a"
   }
 ]
