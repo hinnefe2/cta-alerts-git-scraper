@@ -34,37 +34,37 @@
     "GUID": "e7d06fbd-cdc6-4cbe-bda0-42d4252cc725"
   },
   {
-    "AlertId": "113944",
-    "Headline": "O'Hare-bound Blue Line Service Delayed near Damen/Milwaukee",
-    "ShortDescription": "O'Hare-bound Blue Line trains are standing near Damen/Milwaukee due to a door problem on a train. Crews working to restore service.",
+    "AlertId": "113945",
+    "Headline": "#94 South California Temporary Reroute at Archer/California",
+    "ShortDescription": "#94 South California buses are rerouted in both directions via California, 47th, Kedzie. 39th and California due to street blockage near Archer/California.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>O&#39;Hare-bound Blue Line trains are standing near Damen/Milwaukee due to a door problem on a train.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#94 South California buses are temporarily rerouted in both directions via California, 47th, Kedzie. 39th, then resume their normal route on California.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Archer/California.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2026-03-24T04:25:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-03-24T04:41:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113944"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=113945"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/california/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "ca14755a-775a-4ada-b28b-b4c1ba56a357"
+    "GUID": "563e9b1c-05ca-41d3-9096-713bb8314efa"
   }
 ]
