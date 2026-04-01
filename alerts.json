@@ -1,52 +1,5 @@
 [
   {
-    "AlertId": "114103",
-    "Headline": "22 Clark and 152 Addison Temporary Reroute near Clark/Addison",
-    "ShortDescription": "#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to a Cubs game near Clark/Addison.",
-    "FullDescription": {
-      "#cdata-section": "<p>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to a Cubs game near Clark/Addison.</p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-04-01T14:55:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114103"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Clark",
-          "ServiceId": "22",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/22/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Addison",
-          "ServiceId": "152",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/152/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "e2d50b2a-b551-444a-868d-b71b7ca426b0"
-  },
-  {
     "AlertId": "114110",
     "Headline": "#43 43rd Temporary Westbound Reroute near 43rd/Michigan",
     "ShortDescription": "Westbound #43 43rd buses are temporarily rerouted via 43rd, Indiana, 39th, State, 43rd and over regular route, due to street blockage near 43rd/Michigan.",
@@ -79,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "0936b7c4-e633-42bb-93fc-4c85c5f81b12"
+  },
+  {
+    "AlertId": "114111",
+    "Headline": "Howard-bound Red Line Service Delayed at 87th",
+    "ShortDescription": "Howard-bound Red Line trains are standing at 87th due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing at 87th due to a sick customer.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2026-04-01T16:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114111"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0464d1e2-0b84-409b-8f50-a5de5e8866c3"
   }
 ]
