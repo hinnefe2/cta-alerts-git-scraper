@@ -147,5 +147,39 @@
     },
     "ttim": "0",
     "GUID": "d48c00d8-51cd-4329-9440-5636d571dcf9"
+  },
+  {
+    "AlertId": "114145",
+    "Headline": "Blue Line Trains bypassing Pulaski/Congress Station",
+    "ShortDescription": "Blue Line trains, in both directions, are running, but not stopping at Pulaski/Congress due to a loss of power.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>Blue Line trains, in both directions, are running, but not stopping at Pulaski/Congress due to a loss of power.</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2026-04-03T01:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114145"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "40fd363a-9c27-4309-b7e2-3bd6719718d6"
   }
 ]
