@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "114170",
-    "Headline": "#34 South Michigan Temporary Reroute at Michigan/114th",
-    "ShortDescription": "#34 South Michigan buses are temporarily rerouted in both directions via Michigan, 115th, State, 119th & Michigan due to localized flooding near Michigan/114th.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#34 South Michigan buses are temporarily rerouted in both directions via Michigan, 115th, State, 119th and Michigan, then will resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to localized flooding near Michigan/114th.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-04-04T00:44:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114170"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Michigan",
-        "ServiceId": "34",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/34/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "dddbcdda-372b-49a7-a896-132fed12ff62"
-  },
-  {
     "AlertId": "114171",
     "Headline": "#95 95th Temporary Reroute at 95th/Cottage Grove",
     "ShortDescription": "#95 95th buses are rrtd via 95th, King Drive, 100th, Cottage Grove and 95th, then will resume their normal route due to localized flooding nr 95th/Cottage Grove",
@@ -134,39 +100,5 @@
     },
     "ttim": "0",
     "GUID": "2893a503-02c3-4c76-bc13-56f98e4a0ca0"
-  },
-  {
-    "AlertId": "114174",
-    "Headline": "Blue Line Delays",
-    "ShortDescription": "Blue Line trains are running w/residual delays following an earlier medical emergency on the tracks near Austin. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running with residual delays following an earlier medical emergency on the tracks near Austin.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Shuttle buses will remain available between Forest Park and Pulaski to provide connecting service in both directions until 2:00pm.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-04-04T10:00:00",
-    "EventEnd": "2026-04-04T14:02:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114174"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "cd886369-7561-4c8b-a5e2-40dd1f0def35"
   }
 ]
