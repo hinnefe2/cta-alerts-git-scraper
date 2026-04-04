@@ -1,15 +1,15 @@
 [
   {
     "AlertId": "114169",
-    "Headline": "Blue Line Service Delayed near Pulaski/Congress",
-    "ShortDescription": "Blue Line trains are standing in both directions due to a loss of power near the area of Pulaski/Congress. Crews working to restore service.",
+    "Headline": "Trains bypassing Pulaski/Congress Station",
+    "ShortDescription": "Blue Line trains, in both directions, are running, but not stopping at Pulaski/Congress due to a loss of power.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>Blue Line trains are standing in both directions due to a loss of power near the area of Pulaski/Congress.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines. These may include <strong>#53 Pulaski</strong> buses.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>Blue Line trains, in both directions, are running, but not stopping at Pulaski/Congress due to a loss of power.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines. These may include: <strong>#53 Pulaski</strong> buses.</p>\r\n\r\n<ul>\r\n\t<li>As a result of the delay, shuttle buses are requested to provide connecting service from <strong>Kedzie-Homan</strong> to <strong>Cicero/Congress</strong>, in both directions.</li>\r\n</ul>\r\n\r\n<p>We apologize for this inconvenience and appreciate your understanding.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
     "EventStart": "2026-04-04T00:30:00",
     "EventEnd": null,
     "TBD": "1",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "84173c99-396f-41f4-8f08-c15483f8d69f"
+    "GUID": "0ee49d05-6a0c-4172-bfd1-30447a405a9c"
+  },
+  {
+    "AlertId": "114170",
+    "Headline": "#34 South Michigan Temporary Reroute at Michigan/114th",
+    "ShortDescription": "#34 South Michigan buses are temporarily rerouted in both directions via Michigan, 115th, State, 119th & Michigan due to localized flooding near Michigan/114th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#34 South Michigan buses are temporarily rerouted in both directions via Michigan, 115th, State, 119th and Michigan, then will resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to localized flooding near Michigan/114th.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-04T00:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114170"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Michigan",
+        "ServiceId": "34",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/34/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "dddbcdda-372b-49a7-a896-132fed12ff62"
   }
 ]
