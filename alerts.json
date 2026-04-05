@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "9d41c4bf-7c8b-4ba5-b1d7-525a4652deaa"
+  },
+  {
+    "AlertId": "114177",
+    "Headline": "#4 and #115 Temporary Reroute near Cottage Grove / 111th",
+    "ShortDescription": "Northbound #4 and #115 buses are temporarily rerouted via King Drive/107th/Cottage Grove due to Construction near Cottage Grove / 111th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #4 Cottage Grove and #115 Pullman / 115th&nbsp;buses are temporarily rerouted via King Drive,&nbsp;107th and Cottage Grove, then will resume their normal route due to Construction near Cottage Grove / 111th .</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-05T09:20:00",
+    "EventEnd": "2026-04-06T00:00:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114177"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Pullman/115th",
+          "ServiceId": "115",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/115/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "eecd92bb-ca2c-4962-97d7-b0a271b9b410"
   }
 ]
