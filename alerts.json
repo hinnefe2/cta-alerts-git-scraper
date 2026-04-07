@@ -48,18 +48,18 @@
   },
   {
     "AlertId": "114200",
-    "Headline": "39 Temporary Reroute at Indiana & 40th ",
-    "ShortDescription": "39 buses are temporarily rerouted via 39th, Prairie, 41st, State, Pershing, over regular route due to construction near Indiana & 40th.",
+    "Headline": "#39 Pershing Temporary Reroute at Indiana & 40th ",
+    "ShortDescription": "39 Pershing buses are temporarily rerouted in both directions, due to street blockage near Indiana & 40th.",
     "FullDescription": {
-      "#cdata-section": "<p>39 Pershing buses are temporarily rerouted via 39th, Prairie, 41st, State, Pershing, over regular route due to construction near Indiana &amp; 40th.&nbsp;</p>\r\n\r\n<p>Southbound in reverse</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>39 Pershing buses are temporarily rerouted in both directions via 39th, Prairie, 41st, State, Pershing, over regular route due to street blockage near Indiana &amp; 40th.&nbsp;</p>\r\n\r\n<p>Southbound in reverse</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
     "EventStart": "2026-04-07T09:56:00",
-    "EventEnd": "2026-04-14T09:00:00",
-    "TBD": "0",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114200"
@@ -78,6 +78,64 @@
       }
     },
     "ttim": "0",
-    "GUID": "28c2aa62-0949-4842-890e-79bd65c1f421"
+    "GUID": "724d613b-8a16-46e4-b21a-7e3dfee39108"
+  },
+  {
+    "AlertId": "114201",
+    "Headline": "#4 Cottage Grove, #X4 Cottage Grove Express and #1 Bronzeville/Union Station Temporary Northbound Reroute near 35th/Indiana",
+    "ShortDescription": "NB #4 Cottage Grove, #X4 Cottage Grove Express and #1 Bronzeville Union Station buses are temporarily rerouted, due to street blockage near 35th/Indiana.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #4 Cottage Grove, #X4 Cottage Grove Express and # 1 Bronzeville/Union Station&nbsp;buses are temporarily rerouted via 35th, State, 31st, Indiana and over normal route, due to street blockage near 35th/Indiana.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-07T13:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114201"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Bronzeville/Union Station",
+          "ServiceId": "1",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "565a5c",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/1/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove Express",
+          "ServiceId": "X4",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "495c3376-3a23-4fdc-ba96-3be30a7a6b21"
   }
 ]
