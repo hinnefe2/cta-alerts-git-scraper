@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "413af48f-586c-4a50-aa87-cdfc3b0516ac"
+  },
+  {
+    "AlertId": "114236",
+    "Headline": "Green and Pink Line Service Delayed at Chicago River",
+    "ShortDescription": "Green and Pink line trains are standing at Chicago River (near Clark/Lake) due to an extended bridge lift. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green and Pink line trains are standing at Chicago River (near Clark/Lake) due to an extended bridge lift. Crews working to restore service.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2026-04-09T10:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114236"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "3f78df77-5edf-4309-8e31-1e8e1df81c37"
   }
 ]
