@@ -34,40 +34,6 @@
     "GUID": "413af48f-586c-4a50-aa87-cdfc3b0516ac"
   },
   {
-    "AlertId": "114242",
-    "Headline": "#75 74th/75th Temporary Reroute at 75th/Yates",
-    "ShortDescription": "75 74th/75th buses are temporarily rerouted in both directions via 75th, Yates, 76th, Coles, 75th, and over normal route, due to police activity near 75th/Yates",
-    "FullDescription": {
-      "#cdata-section": "<p>#75 74th/75th buses are temporarily rerouted in both directions via 75th, Yates, 76th, Coles, 75th, and over normal route, due to police activity near 75th/Yates.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-04-09T16:17:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114242"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "74th-75th",
-        "ServiceId": "75",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/75/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "1c1e1f00-923f-4d4a-980c-f6f235435d59"
-  },
-  {
     "AlertId": "114243",
     "Headline": "#18 16th/18th Temporary Reroute at 16th/Lawndale",
     "ShortDescription": "18 16th/18th buses are temporarily rerouted in both directions, due to police activity near 16th/Lawndale.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "37a76112-5c3a-4ab1-b137-0faf6a7e3453"
+  },
+  {
+    "AlertId": "114244",
+    "Headline": "95th-bound Red Line Service Delayed at Howard",
+    "ShortDescription": "95th-bound Red Line trains are standing at Howard.  Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are standing at Howard.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-04-09T16:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114244"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a43f144e-ba4b-4950-9c3f-f0c2bc3139a1"
   }
 ]
