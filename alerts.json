@@ -34,37 +34,71 @@
     "GUID": "413af48f-586c-4a50-aa87-cdfc3b0516ac"
   },
   {
-    "AlertId": "114241",
-    "Headline": "Loop-bound Brown Line Delays",
-    "ShortDescription": "Loop-bound Brown Line trains are running with residual delays following an earlier mechanical problem at Kimball. Service is resuming, allow extra time.",
+    "AlertId": "114242",
+    "Headline": "#75 74th/75th Temporary Reroute at 75th/Yates",
+    "ShortDescription": "75 74th/75th buses are temporarily rerouted in both directions via 75th, Yates, 76th, Coles, 75th, and over normal route, due to police activity near 75th/Yates",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown Line trains are running with residual delays following an earlier mechanical problem at Kimball.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#75 74th/75th buses are temporarily rerouted in both directions via 75th, Yates, 76th, Coles, 75th, and over normal route, due to police activity near 75th/Yates.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-04-09T16:01:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-09T16:17:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114241"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114242"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "74th-75th",
+        "ServiceId": "75",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/75/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "40e11c21-da8e-4a91-bc73-3cdb086507c6"
+    "GUID": "1c1e1f00-923f-4d4a-980c-f6f235435d59"
+  },
+  {
+    "AlertId": "114243",
+    "Headline": "#18 16th/18th Temporary Reroute at 16th/Lawndale",
+    "ShortDescription": "18 16th/18th buses are temporarily rerouted in both directions, due to police activity near 16th/Lawndale.",
+    "FullDescription": {
+      "#cdata-section": "<p>#18 16th/18th buses are temporarily rerouted in both directions via 16th, Central Park, Roosevelt, Pulaski, 16th, and over normal route, due to police activity near 16th/Lawndale.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-09T16:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114243"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "16th-18th",
+        "ServiceId": "18",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/18/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "37a76112-5c3a-4ab1-b137-0faf6a7e3453"
   }
 ]
