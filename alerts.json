@@ -68,50 +68,37 @@
     "GUID": "a6922094-2987-49ce-a302-a9b663f47043"
   },
   {
-    "AlertId": "114254",
-    "Headline": "O'Hare- Bound Blue Line Delays",
-    "ShortDescription": "O'Hare- Bound Blue Line trains are running w/residual delays following an earlier sick rider at Clark/Lake. Service is resuming, allow extra time.",
+    "AlertId": "114255",
+    "Headline": "#88 Higgins Temporary Reroute at Higgins/Melvina",
+    "ShortDescription": "88 Higgins buses are temporarily rerouted via Higgins, Austin, Foster and Higgins: due to, fire department activity near Higgins/Melvina.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare- Bound Blue Line trains are running w/residual delays following an earlier sick rider at Clark/Lake.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#88 Higgins buses are temporarily rerouted via Higgins, Austin, Foster and Higgins: due to, fire department activity near Higgins/Melvina.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-04-10T07:39:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-10T08:02:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114254"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114255"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Clark/Lake",
-          "ServiceId": "40380",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=43"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Higgins",
+        "ServiceId": "88",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/88/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "f36a6b18-d922-4f56-bc9f-d575f883ac5e"
+    "GUID": "0c050470-8de5-4834-b48f-9c345c667e47"
   }
 ]
