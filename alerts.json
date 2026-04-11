@@ -72,7 +72,7 @@
     "Headline": "#3 King Drive Temporary Reroute near Chicago/Michigan",
     "ShortDescription": "3 King Drive buses temp. rerouted : due to, street blockage near Chicago/Michigan.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>#3 King Drive&nbsp; buses are temporarily rerouted in both directions near Chicago/ Michigan&nbsp;due to street blockage&nbsp;near Chicago/Michigan.</strong></p>\r\n\r\n<p>Northbound&nbsp;buses will operate via Michigan, Ontario, State, Chicago and Fairbanks&nbsp;including the normal route streets.</p>\r\n\r\n<p>Southbound buses will operate via Fairbanks, Chicago, State, Ohio and Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>#3 King Drive&nbsp; buses are temporarily rerouted in both directions near Chicago/ Michigan&nbsp;due to street blockage&nbsp;near Chicago/Michigan.</strong></p>\r\n\r\n<p>Northbound&nbsp;buses will operate via Michigan, Ohio, Fairbanks and Erie&nbsp;including the normal route streets.</p>\r\n\r\n<p>Southbound buses will operate via Fairbanks, Ontario and Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -99,7 +99,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "c37d6b31-bea9-43cf-b9ce-1679054ef84e"
+    "GUID": "d3380850-79b8-413c-b510-d4aefafc88c6"
   },
   {
     "AlertId": "114283",
@@ -226,5 +226,39 @@
     },
     "ttim": "0",
     "GUID": "494c5907-140e-4106-986d-c08f54e70fe5"
+  },
+  {
+    "AlertId": "114286",
+    "Headline": "#44 Wallace/Racine Temporary Reroute near Wallace/35th",
+    "ShortDescription": "44 Wallace/Racine buses temp. rerouted: due to, street blockage near Wallace/35th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#44 Wallace/Racine buses temp. rerouted: due to, street blockage near Wallace/35th.</strong></p>\r\n\r\n<p>Northbound buses will operate via Wallace, 35th, Halsted, 31st and Wallace including the normal route streets.</p>\r\n\r\n<p>Southbound buses will operate via Wallace, 31st, Halsted, 35th and Wallace.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-11T13:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114286"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Wallace/Racine",
+        "ServiceId": "44",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/44/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5c677487-039a-48c5-8cc0-5c878e9060b1"
   }
 ]
