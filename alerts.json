@@ -68,45 +68,11 @@
     "GUID": "8bbd4cb8-baba-43bd-b254-eae66f601fc3"
   },
   {
-    "AlertId": "114282",
-    "Headline": "#3 King Drive Temporary Reroute near Chicago/Michigan",
-    "ShortDescription": "3 King Drive buses temp. rerouted : due to, street blockage near Chicago/Michigan.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>#3 King Drive&nbsp; buses are temporarily rerouted in both directions near Chicago/ Michigan&nbsp;due to street blockage&nbsp;near Chicago/Michigan.</strong></p>\r\n\r\n<p>Northbound&nbsp;buses will operate via Michigan, Ohio, Fairbanks and Erie&nbsp;including the normal route streets.</p>\r\n\r\n<p>Southbound buses will operate via Fairbanks, Ontario and Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-04-11T09:49:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114282"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "King Drive",
-        "ServiceId": "3",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/3/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d3380850-79b8-413c-b510-d4aefafc88c6"
-  },
-  {
     "AlertId": "114283",
-    "Headline": "#146 Inner Lake Shore/Michigan Express, #147 Outer DuSable Lake Shore Express , #151 Sheridan Temporary Reroute near Chicago/Michigan",
-    "ShortDescription": "146 Inner Lake Shore/Michigan Express, 147 Outer DuSable Lake Shore Express , 151 Sheridan\tbuses temp. rerouted: due to, street blockage near Chicago/Michigan.",
+    "Headline": "#3 King Drive, #146 Inner Lake Shore/Michigan Express, #147 Outer DuSable Lake Shore Express , #151 Sheridan Temporary Reroute near Chicago/Michigan",
+    "ShortDescription": "3 King Drive, 146 Inner Lake Shore/Michigan Express, 147 Outer DuSable Lake Shore Express, 151 Sheridan buses rerouted near Chicago/Michigan.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>#146 Inner Lake Shore/Michigan Express, #147 Outer DuSable Lake Shore Express , #151 Sheridan<span style=\"white-space:pre\"> </span>buses temp. rerouted: due to, street blockage near Chicago/Michigan.</strong></p>\r\n\r\n<p>Northbound&nbsp;buses will operate via Michigan, Ontario, State, Chicago and Michigan including the normal route streets&nbsp;</p>\r\n\r\n<p>Southbound buses will operate via Michigan, Chicago, State, Ohio and Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>#3 King Drive&nbsp;</strong>&nbsp;buses are temporarily rerouted in both directions near Chicago/ Michigan due to street blockage near Chicago/Michigan.</p>\r\n\r\n<p>Northbound buses will operate via Michigan, Ohio, Fairbanks and Erie including the normal route streets.</p>\r\n\r\n<p>Southbound buses will operate via Fairbanks, Ontario and Michigan.</p>\r\n\r\n<p><strong>#146 Inner Lake Shore/Michigan Express, #147 Outer DuSable Lake Shore Express , #151 Sheridan&nbsp;</strong><span style=\"white-space:pre\"> </span>buses temp. rerouted: due to, street blockage near Chicago/Michigan.</p>\r\n\r\n<p>Northbound&nbsp;buses will operate via Michigan, Ontario, State, Chicago and Michigan including the normal route streets&nbsp;</p>\r\n\r\n<p>Southbound buses will operate via Michigan, Chicago, State, Ohio and Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -121,6 +87,17 @@
     },
     "ImpactedService": {
       "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "King Drive",
+          "ServiceId": "3",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/3/"
+          }
+        },
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
@@ -157,7 +134,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "ba129c27-1e2b-4f0a-9136-c91b2b2e3297"
+    "GUID": "6bb7ae9a-3223-4e1d-9e6a-4ed38a5cd16e"
   },
   {
     "AlertId": "114284",
@@ -192,52 +169,5 @@
     },
     "ttim": "0",
     "GUID": "68027800-b6f2-457c-9311-21009c12bf7d"
-  },
-  {
-    "AlertId": "114288",
-    "Headline": "#22 Clark and #152 Addison Temporary Reroute near Clark/Addison",
-    "ShortDescription": "#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
-    "FullDescription": {
-      "#cdata-section": "<p>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.</p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-04-11T14:56:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114288"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Clark",
-          "ServiceId": "22",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/22/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Addison",
-          "ServiceId": "152",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/152/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "714260e4-f85d-4083-b97d-0136429657b7"
   }
 ]
