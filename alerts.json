@@ -100,5 +100,97 @@
     },
     "ttim": "0",
     "GUID": "c37d6b31-bea9-43cf-b9ce-1679054ef84e"
+  },
+  {
+    "AlertId": "114283",
+    "Headline": "#146 Inner Lake Shore/Michigan Express, #147 Outer DuSable Lake Shore Express , #151 Sheridan Temporary Reroute near Chicago/Michigan",
+    "ShortDescription": "146 Inner Lake Shore/Michigan Express, 147 Outer DuSable Lake Shore Express , 151 Sheridan\tbuses temp. rerouted: due to, street blockage near Chicago/Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#146 Inner Lake Shore/Michigan Express, #147 Outer DuSable Lake Shore Express , #151 Sheridan<span style=\"white-space:pre\"> </span>buses temp. rerouted: due to, street blockage near Chicago/Michigan.</strong></p>\r\n\r\n<p>Northbound&nbsp;buses will operate via Michigan, Ontario, State, Chicago and Michigan including the normal route streets&nbsp;</p>\r\n\r\n<p>Southbound buses will operate via Michigan, Chicago, State, Ohio and Michigan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-11T10:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114283"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ba129c27-1e2b-4f0a-9136-c91b2b2e3297"
+  },
+  {
+    "AlertId": "114284",
+    "Headline": "#60 Blue Island/26th Temporary Reroute near Clinton/Monroe",
+    "ShortDescription": "60 Blue Island/26th buses temp. rerouted : due to, street blockage near Clinton/Monroe.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#60 Blue Island/26th buses temp. rerouted : due to, street blockage near Clinton/Monroe.</strong></p>\r\n\r\n<p>Eastbound&nbsp;buses will operate via Harrison, Jefferson, Washington, Michigan&nbsp;and Randolph including the normal route streets.</p>\r\n\r\n<p>Westbound buses will operate via Randolph, Michigan, Madison, Clinton and Harrison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-11T10:07:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114284"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Blue Island/26th",
+        "ServiceId": "60",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/60/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "68027800-b6f2-457c-9311-21009c12bf7d"
   }
 ]
