@@ -135,5 +135,73 @@
     },
     "ttim": "0",
     "GUID": "158ae6e7-bda0-4f79-bcbe-92a140226cfa"
+  },
+  {
+    "AlertId": "114290",
+    "Headline": "#66 Chicago Temporary Reroute near Chicago/Michigan.",
+    "ShortDescription": "#66 Chicago buses temp. rerouted in both directions due to construction near Chicago/Michigan.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>#66 Chicago buses temporarily&nbsp;rerouted in both directions</strong></p>\r\n\r\n<p><strong>Eastbound </strong>buses will operate via Chicago, Wabash, Pearson, Mies Van Der Roe Way and Chicago, then resume their normal route.</p>\r\n\r\n<p><strong>Westbound </strong>buses will operate via Chicago, Mies Van Der Roe Way, Chestnut, Wabash and Chicago, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted are rerouted due to construction near Chicago/Michigan.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-12T00:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114290"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "99bf8c03-7367-43e4-aaf8-d3182bca41d9"
+  },
+  {
+    "AlertId": "114291",
+    "Headline": "#72 North Temporary Reroute at North Avenue/Fairfield",
+    "ShortDescription": "#72 North buses are rerouted in both directions via North Avenue, California, Division, Western & North Avenue due to police activity nr North Avenue/Fairfield.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#72 North buses are temporarily rerouted in both directions via North Avenue, California, Division, Western, then resume their normal route on North Avenue.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to police activity near North Avenue/Fairfield.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-12T00:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114291"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "North",
+        "ServiceId": "72",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/72/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9c940129-bec9-4def-a527-29fff8bbd784"
   }
 ]
