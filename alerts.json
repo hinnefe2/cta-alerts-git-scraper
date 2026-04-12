@@ -169,5 +169,52 @@
     },
     "ttim": "0",
     "GUID": "99bf8c03-7367-43e4-aaf8-d3182bca41d9"
+  },
+  {
+    "AlertId": "114300",
+    "Headline": "#22 Clark and #152 Addison Temporary Reroute near Clark/Addison",
+    "ShortDescription": "22 Clark and 152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
+    "FullDescription": {
+      "#cdata-section": "<p>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.</p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-12T14:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114300"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Addison",
+          "ServiceId": "152",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/152/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "65c62573-efee-45e0-8f1d-4c87a7aa8e30"
   }
 ]
