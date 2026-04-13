@@ -203,5 +203,52 @@
     },
     "ttim": "0",
     "GUID": "0494b550-73e6-449a-abaa-b19709f0de9c"
+  },
+  {
+    "AlertId": "114308",
+    "Headline": "O'Hare- Bound BLue Line Service Delayed at Forest Park",
+    "ShortDescription": "Forest Park- Bound Blue Line trains are standing at Forest Park due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park- Bound Blue Line trains are standing at Forest Park due to police activity.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-04-13T06:56:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114308"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Forest Park",
+          "ServiceId": "40390",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=56"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "44e745a9-f7f2-4ef2-8202-2d4352f2f545"
   }
 ]
