@@ -171,40 +171,6 @@
     "GUID": "99bf8c03-7367-43e4-aaf8-d3182bca41d9"
   },
   {
-    "AlertId": "114301",
-    "Headline": "Service Between 54th/Cermak and Polk, then UIC/Halsted (Blue Line) Stations, Only",
-    "ShortDescription": "Pink Line service has been temporarily suspended between Polk and the Loop due signal problems at Ashland/Lake.",
-    "FullDescription": {
-      "#cdata-section": "<p>Pink Line service has been temporarily suspended between Polk and the Loop due signal problems at Ashland/Lake.</p>\r\n\r\n<p>As a result, Pink Line trains are running as follows:</p>\r\n\r\n<p>Between 54th/Cermak and Polk, and then are diverted to UIC/Halsted on the Blue Line for direct connections at UIC/Halsted to continuing Blue Line train service to/from downtown.</p>\r\n\r\n<p>Using connecting Blue Line service:</p>\r\n\r\n<p>For service to downtown from Pink Line stations between 54th/Cermak and Polk, take a Pink Line train toward the Loop and stay on board until the train reaches UIC/Halsted on the Blue Line. Transfer to an O&#39;Hare-bound Blue Line train from the same platform for service into downtown.</p>\r\n\r\n<p>For service from downtown to Pink Line stations between Polk and 54th/Cermak, take a Blue Line train toward Forest Park to UIC/Halsted. Stay on the same platform side and wait for a 54th/Cermak-bound Pink Line train.</p>\r\n\r\n<p>Shuttle buses are available from Ashland/Lake to Polk to provide connecting service in both directions.&nbsp;</p>\r\n\r\n<p>Other possible alternatives may include:&nbsp;</p>\r\n\r\n<p>#9 Ashland<br />\r\n#21 Cermak<br />\r\n#49 Western<br />\r\n#50 Damen<br />\r\n#52 Kedzie/California<br />\r\n#53 Pulaski<br />\r\n#54 Cicero<br />\r\n#60 Blue Island-26th<br />\r\n...including to/from and in combination with other &#39;L&#39; services.</p>\r\n\r\n<p>Note that if you take a bus to/from the Pink Line, you may also be able to connect to/from the Blue Line&#39;s Forest Park branch or Green Line along Lake Street directly via that bus route.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "88",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption / Major Delays",
-    "EventStart": "2026-04-12T16:34:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114301"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "f998fe51-2d3e-4722-8865-918c31598ae5"
-  },
-  {
     "AlertId": "114304",
     "Headline": "#63 63rd Temporary Eastbound Reroute at 63rd/Stony Island",
     "ShortDescription": "63 63rd buses will terminate at 63rd/Stony Island due to a beach terminal closure because of overcrowding.",
@@ -239,37 +205,37 @@
     "GUID": "1b68da6f-975e-4e4b-bfab-0508ecf492a6"
   },
   {
-    "AlertId": "114305",
-    "Headline": "Purple Line Service Running with Delays",
-    "ShortDescription": "Purple Line trains are running w/ significant delays following earlier signal problems near Linden. ",
+    "AlertId": "114306",
+    "Headline": "#28 Stony Island Temporary Northbound Reroute near Stony Island/85th",
+    "ShortDescription": "Northbound 28 Stony Island buses are temporarily rerouted, due to street blockage near Stony Island/85th.",
     "FullDescription": {
-      "#cdata-section": "<p>Purple Line trains are running w/ significant delays following earlier signal problems near Linden.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #28 Stony Island buses are temporarily rerouted via Stony Island, 87th, Jeffery, Anthony, 83rd and Stony Island over normal route, due to street blockage near Stony Island/85th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2026-04-12T20:24:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-12T21:51:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114305"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114306"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Purple Line",
-        "ServiceId": "P",
-        "ServiceBackColor": "522398",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Stony Island",
+        "ServiceId": "28",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/28/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "256367f3-8eb4-42ad-9fb4-91ad7c0077a2"
+    "GUID": "f3ea2979-477d-42e4-b075-91218ca6d026"
   }
 ]
