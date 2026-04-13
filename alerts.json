@@ -202,6 +202,74 @@
       }
     },
     "ttim": "0",
-    "GUID": "45444a3b-639d-46cf-9b48-a261dbebdb4c"
+    "GUID": "f998fe51-2d3e-4722-8865-918c31598ae5"
+  },
+  {
+    "AlertId": "114304",
+    "Headline": "#63 63rd Temporary Eastbound Reroute at 63rd/Stony Island",
+    "ShortDescription": "63 63rd buses will terminate at 63rd/Stony Island due to a beach terminal closure because of overcrowding.",
+    "FullDescription": {
+      "#cdata-section": "<p>#63 63rd buses will terminate at 63rd/Stony Island due to a beach terminal closure because of overcrowding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-12T20:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114304"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "1b68da6f-975e-4e4b-bfab-0508ecf492a6"
+  },
+  {
+    "AlertId": "114305",
+    "Headline": "Purple Line Service Delayed near Linden",
+    "ShortDescription": "Purple Line trains are standing near Linden due to signal problems. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Purple Line trains are standing near Linden due to signal problems.&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2026-04-12T20:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114305"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "fdb662af-d22a-4524-9c5c-1f2faf5e8ed5"
   }
 ]
