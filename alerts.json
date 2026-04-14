@@ -147,5 +147,73 @@
     },
     "ttim": "1",
     "GUID": "c50269ed-e52b-4797-9a8c-38b4fd924065"
+  },
+  {
+    "AlertId": "114336",
+    "Headline": "No trains between Howard and Belmont",
+    "ShortDescription": "Red Line service has been temporarily suspended between  Howard and Belmont due to a medical emergency on the tracks at Jarvis.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line service has been temporarily suspended between&nbsp; Howard and Belmont due to a medical emergency on the tracks at Jarvis.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between 95th and Belmont at this time.</strong></p>\r\n\r\n<p><strong>Shuttle buses are available&nbsp;from Howard to Belmont to provide connecting service through the affected area.&nbsp;</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2026-04-14T08:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114336"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "09f8737d-763a-4c6a-a276-302d9859ad38"
+  },
+  {
+    "AlertId": "114337",
+    "Headline": "No trains between Howard and Belmont",
+    "ShortDescription": "Purple Line service has been temporarily suspended between Howard and Belmont due to a medical emergency on the tracks at Jarvis.",
+    "FullDescription": {
+      "#cdata-section": "<p>Purple Line service has been temporarily suspended between Howard and Belmont due to a medical emergency on the tracks at Jarvis.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Belmont&nbsp;and Library at this time.</strong></p>\r\n\r\n<p><strong>Shuttle buses are available from Howard to Belmont to provide connecting service through the affected area.&nbsp;</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2026-04-14T08:31:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114337"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Purple Line",
+        "ServiceId": "P",
+        "ServiceBackColor": "522398",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/purpleline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "12532c8e-39d7-42e4-a2dc-89b3c9f64290"
   }
 ]
