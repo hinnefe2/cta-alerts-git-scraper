@@ -81,40 +81,6 @@
     "GUID": "22df3a34-247a-4d44-b984-d4a734b5b701"
   },
   {
-    "AlertId": "114330",
-    "Headline": "#67 67th-69th-71st Temporary Eastbound Reroute near 69th/Redline",
-    "ShortDescription": "Eastbound 67 67th-69th-71st buses are temporarily rerouted via Lafayette, 71st, State and 69th: due to, street blockage near 69th/Redline.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #67 67th-69th-71st buses are temporarily rerouted via Lafayette, 71st, State and 69th: due to, street blockage near 69th/Redline.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-04-14T02:01:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114330"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "67th-69th-71st",
-        "ServiceId": "67",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/67/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d62f0469-3597-4c94-bac8-267fb92335ac"
-  },
-  {
     "AlertId": "114336",
     "Headline": "Red Line Delays",
     "ShortDescription": "Red Line trains are running w/residual delays following an earlier medical emergency on the tracks at Jarvis. Service is resuming, allow extra time.",
@@ -181,5 +147,63 @@
     },
     "ttim": "0",
     "GUID": "22839eb6-757c-495b-abe0-c977d139fbc7"
+  },
+  {
+    "AlertId": "114341",
+    "Headline": "#6 Jackson Park Express,  #26 South Shore Express,  #71 71st/South Shore Temporary Reroute at South Shore/76th",
+    "ShortDescription": "6 Jackson Park Express,  26 South Shore Express,  71 71st/South Shore buses are temporarily rerouted : due to, street blockage near South Shore/76th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#6 Jackson Park Express,&nbsp;#26 South Shore Express,&nbsp; #71 71st/South Shore&nbsp;buses are temporarily rerouted via South Shore, 79th, Coles, 76th and South Shore: due to, street blockage near South Shore/76th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-14T11:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114341"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "71st/South Shore",
+          "ServiceId": "71",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/71/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "617b9492-9cc7-45c2-87ec-be8be9193bcc"
   }
 ]
