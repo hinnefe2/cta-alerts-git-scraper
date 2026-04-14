@@ -1,73 +1,15 @@
 [
   {
-    "AlertId": "114341",
-    "Headline": "#6 Jackson Park Express,  #26 South Shore Express,  #71 71st/South Shore Temporary Reroute at South Shore/76th",
-    "ShortDescription": "6 Jackson Park Express,  26 South Shore Express,  71 71st/South Shore buses are temporarily rerouted : due to, street blockage near South Shore/76th.",
-    "FullDescription": {
-      "#cdata-section": "<p>#6 Jackson Park Express,&nbsp;#26 South Shore Express,&nbsp; #71 71st/South Shore&nbsp;buses are temporarily rerouted via South Shore, 79th, Coles, 76th and South Shore: due to, street blockage near South Shore/76th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-04-14T11:47:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114341"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jackson Park Express",
-          "ServiceId": "6",
-          "ServiceBackColor": "b71234",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/6/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "South Shore Express",
-          "ServiceId": "26",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/26/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "71st/South Shore",
-          "ServiceId": "71",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/71/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "617b9492-9cc7-45c2-87ec-be8be9193bcc"
-  },
-  {
     "AlertId": "114347",
-    "Headline": "Loop-bound Brown, Purple and 95th-bound Red Line Service Running with Delays",
-    "ShortDescription": "Loop-bound Brown, Purple and 95th-bound Red Line trains are running with delays near Belmont due to signal problems.",
+    "Headline": "Loop-bound Brown and Purple Line Service Running with Delays",
+    "ShortDescription": "Loop-bound Brown and Purple Line trains are running with delays near Belmont due to signal problems.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown, Purple and 95th-bound Red Line trains are running with delays near Belmont due to signal problems.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Brown and Purple Line trains are running with delays near Belmont due to signal problems.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
+    "Impact": "Minor Delays",
     "EventStart": "2026-04-14T15:42:00",
     "EventEnd": null,
     "TBD": "1",
@@ -77,17 +19,6 @@
     },
     "ImpactedService": {
       "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
@@ -113,6 +44,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "db67df75-6cf6-4bcc-9279-32a3de74a2a7"
+    "GUID": "2cd5dfa3-85f9-465a-be61-94eae8221874"
   }
 ]
