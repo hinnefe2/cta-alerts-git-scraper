@@ -119,7 +119,7 @@
     "Headline": "Yellow Line Service Temporarily Suspended",
     "ShortDescription": "Service on the Yellow Line has been temporarily suspended due to an obstruction on the tracks. near Oakton.",
     "FullDescription": {
-      "#cdata-section": "<p>Service on the Yellow Line has been temporarily suspended due to an obstruction on the tracks near Oakton.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.&nbsp;</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#97 Skokie</p>\r\n\r\n<p><strong>Shuttles buses are available from Howard to Skokie to provide connecting service though the affected&nbsp;area.</strong></p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Service on the Yellow Line has been temporarily suspended due to an obstruction on the tracks near Oakton.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.&nbsp;</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p><strong>#97 Skokie</strong></p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "90",
     "SeverityColor": "c00c00",
@@ -146,7 +146,7 @@
       }
     },
     "ttim": "1",
-    "GUID": "c50269ed-e52b-4797-9a8c-38b4fd924065"
+    "GUID": "affb8609-ecf3-4c61-ba58-22b70feeff46"
   },
   {
     "AlertId": "114336",
@@ -187,7 +187,7 @@
     "Headline": "No trains between Howard and Wilson",
     "ShortDescription": "Purple Line service has been temporarily suspended between Howard and Wilson due to a medical emergency on the tracks at Jarvis.",
     "FullDescription": {
-      "#cdata-section": "<p>Purple Line service has been temporarily suspended between Howard and Wilson due to a medical emergency on the tracks at Jarvis.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Wilson and Library at this time.</strong></p>\r\n\r\n<p><strong>Shuttle buses are available from Howard to Wilson to provide connecting service through the affected area.&nbsp;</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Purple Line service has been temporarily suspended between Howard and Wilson due to a medical emergency on the tracks at Jarvis.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Wilson and Washington/Wells at this time.</strong></p>\r\n\r\n<p><strong>Shuttle buses are available from Howard to Wilson to provide connecting service through the affected area.&nbsp;</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "84",
     "SeverityColor": "c00c00",
@@ -214,6 +214,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "e8bb7339-f7dd-4904-8c99-34f43b3f1308"
+    "GUID": "43a1133f-3674-40fe-8e73-bbe931383eb0"
+  },
+  {
+    "AlertId": "114338",
+    "Headline": "#18 16th-18th Temporary Reroute at 16th/Lawndale",
+    "ShortDescription": "18 16th-18th  buses are temporarily rerouted via 16th, Central Park, Roosevelt, Pulaski and 16th due to, street blockage near 16th/Lawndale.",
+    "FullDescription": {
+      "#cdata-section": "<p>#18 16th-18th&nbsp; buses are temporarily rerouted via 16th, Central Park, Roosevelt, Pulaski and 16th due to, street blockage near 16th/Lawndale.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-14T09:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114338"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "16th-18th",
+        "ServiceId": "18",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/18/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "22839eb6-757c-495b-abe0-c977d139fbc7"
   }
 ]
