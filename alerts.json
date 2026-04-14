@@ -69,10 +69,10 @@
   },
   {
     "AlertId": "114328",
-    "Headline": "#79 79th Temporary Reroute at 79th/Cottage Grove",
-    "ShortDescription": "79 79th buses are temporarily rerouted in both directions, due to police activity near 79th/Cottage Grove.",
+    "Headline": "#79 79th and #4 Cottage Grove Temporary Reroute near 79th/Cottage Grove",
+    "ShortDescription": "#79 79th and #4 Cottage Grove buses are temporarily rerouted, due to police activity near 79th/Cottage Grove.",
     "FullDescription": {
-      "#cdata-section": "<p>#79 79th buses are temporarily rerouted in both directions via 79th, Cottage Grove, 76th, Greenwood, 79th, and over normal route, due to police activity near 79th/Cottage Grove.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>#79 79th and #4 Cottage Grove&nbsp;buses are temporarily rerouted, due to police activity near 79th/Cottage Grove.</strong></p>\r\n\r\n<p><strong>#79 79th buses are rerouted in both directions:</strong></p>\r\n\r\n<p><strong>Eastbound </strong>buses will operate via 79th, King Drive, 76th, Greenwood, 79th and over normal route.</p>\r\n\r\n<p><strong>Westbound </strong>buses will operate via 79th, Greenwood, 76th, Cottage Grove, 79th and over normal route.</p>\r\n\r\n<p><strong>#4 Cottage Grove buses:</strong></p>\r\n\r\n<p><strong>Northbound #4 Cottage Grove&nbsp;</strong>buses are temporarily rerouted via Cottage Grove, 83rd, King Drive, 76th, Cottage Grove&nbsp;and over normal route.</p>\r\n\r\n<p><strong>Eastbound buses are not affected.</strong></p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -86,19 +86,66 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114328"
     },
     "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "79th",
+          "ServiceId": "79",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/79/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "22df3a34-247a-4d44-b984-d4a734b5b701"
+  },
+  {
+    "AlertId": "114329",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following an earlier police activity near LaSalle. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/residual delays following an earlier police activity near LaSalle.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-04-14T00:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114329"
+    },
+    "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "79th",
-        "ServiceId": "79",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "b7e1107e-88a5-4511-adfa-d54c6369aecf"
+    "GUID": "9a6a9ee4-c344-4714-9662-1f042c8d5b80"
   }
 ]
