@@ -1,49 +1,36 @@
 [
   {
-    "AlertId": "114347",
-    "Headline": "Brown and Purple Line Service Running with Delays",
-    "ShortDescription": "Brown and Purple Line trains are running with delays near Belmont due to signal problems.",
+    "AlertId": "114350",
+    "Headline": "Loop-bound Brown Line Service Running with Delays",
+    "ShortDescription": "Loop-bound Brown Line trains are running with delays near Belmont due to earlier mechanical problems.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown and Purple Line trains are running with delays near Belmont due to signal problems.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop-bound Brown Line trains are running with delays near Belmont due to earlier mechanical problems.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Significant Delays",
-    "EventStart": "2026-04-14T15:42:00",
+    "EventStart": "2026-04-14T20:31:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114347"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114350"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "c7fdb73e-3853-4729-9c67-984165950270"
+    "GUID": "53107482-ec43-46a4-b7b5-ebc3073d4fee"
   }
 ]
