@@ -1,15 +1,15 @@
 [
   {
     "AlertId": "114347",
-    "Headline": "Loop-bound Brown and Purple Line Service Running with Delays",
-    "ShortDescription": "Loop-bound Brown and Purple Line trains are running with delays near Belmont due to signal problems.",
+    "Headline": "Brown and Purple Line Service Running with Delays",
+    "ShortDescription": "Brown and Purple Line trains are running with delays near Belmont due to signal problems.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown and Purple Line trains are running with delays near Belmont due to signal problems.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown and Purple Line trains are running with delays near Belmont due to signal problems.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "60",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
+    "Impact": "Significant Delays",
     "EventStart": "2026-04-14T15:42:00",
     "EventEnd": null,
     "TBD": "1",
@@ -44,87 +44,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "2cd5dfa3-85f9-465a-be61-94eae8221874"
-  },
-  {
-    "AlertId": "114348",
-    "Headline": "Kimball-bound Brown and Linden-bound Purple Line Service Running with Delays",
-    "ShortDescription": "Kimball-bound Brown and Linden-bound Purple Line trains are running with delays near Belmont due to an earlier mechanical problem.",
-    "FullDescription": {
-      "#cdata-section": "<p>Kimball-bound Brown and Linden-bound Purple Line trains are running with delays near Belmont due to an earlier mechanical problem.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>Bus shuttles have been requested from Kimball to Belmont in both directions to provide connecting service.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2026-04-14T18:27:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114348"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "f3763bf9-7310-44c3-bb2b-c1c15870d8cc"
-  },
-  {
-    "AlertId": "114349",
-    "Headline": "Orange Line trains bypassing Western",
-    "ShortDescription": "Orange Line trains are running, but not stopping at Western due to police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>Orange Line trains are running, but not stopping at Western due to police activity.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.&nbsp;</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
-    },
-    "SeverityScore": "58",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2026-04-14T18:38:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114349"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Orange Line",
-        "ServiceId": "Org",
-        "ServiceBackColor": "f9461c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/orangeline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "8ade54f4-943b-4b85-877d-6a78ab13cce7"
+    "GUID": "c7fdb73e-3853-4729-9c67-984165950270"
   }
 ]
