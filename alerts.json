@@ -1,70 +1,36 @@
 [
   {
-    "AlertId": "114374",
-    "Headline": "#54 Cicero Temporary Southbound Reroute near Cicero/Milwaukee",
-    "ShortDescription": "Southbound #54 Cicero buses are temp. rerouted via Cicero, Montrose, Milwaukee, and Cicero, then into the terminal due to street blockage near Cicero/Milwaukee.",
+    "AlertId": "114377",
+    "Headline": "#79 79th Temporary Reroute at 79th/Essex",
+    "ShortDescription": "#79 79th buses are temp. rerouted in both directions via 79th, Exchange, 83rd, Yates, then resume their normal route on 79th due to construction near 79th/Essex",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong> #54 Cicero buses are temporarily rerouted via Cicero, Montrose, Milwaukee, and Cicero, then into the terminal.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Cicero/Milwaukee.</p>\r\n\r\n<p><em><strong>(Revised)</strong></em></p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#79 79th buses are temporarily rerouted in both directions via 79th, Exchange, 83rd, Yates, then resume their normal route on 79th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to construction near 79th/Essex.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-04-16T05:14:00",
+    "EventStart": "2026-04-16T08:48:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114374"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114377"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cicero",
-        "ServiceId": "54",
+        "ServiceName": "79th",
+        "ServiceId": "79",
         "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/54/"
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "4eea60f9-aebc-403a-a185-d8f6c786561e"
-  },
-  {
-    "AlertId": "114375",
-    "Headline": "#54A North Cicero/Skokie Blvd Temporary Southbound Reroute near Cicero/Milwaukee",
-    "ShortDescription": "SB #54A North Cicero/Skokie Blvd. buses are temp. rerouted via Cicero, Montrose, Milwaukee, Irving Park and Cicer due to street blockage near Cicero/Milwaukee.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong> #54A North Cicero/Skokie Blvd. buses are temporarily rerouted via Cicero, Montrose, Milwaukee, Irving Park and Cicero, then resume their normal route.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Cicero/Milwaukee.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-04-16T06:23:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114375"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "North Cicero/Skokie Blvd.",
-        "ServiceId": "54A",
-        "ServiceBackColor": "ffffff",
-        "ServiceTextColor": "565a5c",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/54a/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "7ad62b90-6ee6-4294-95cd-f167bb2ec63c"
+    "GUID": "70ea081c-cc2d-48d1-b305-190eb16d372f"
   }
 ]
