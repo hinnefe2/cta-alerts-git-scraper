@@ -1,70 +1,60 @@
 [
   {
-    "AlertId": "114370",
-    "Headline": "#85 Central Temporary Reroute at Central/Lake",
-    "ShortDescription": "85 Central buses are temporarily rerouted in both directions, due to street blockage near Central/Lake.",
+    "AlertId": "114372",
+    "Headline": "Red Line Subway Trains Rerouted to Elevated Tracks",
+    "ShortDescription": "Red Line subway trains are rerouted to the elevated lines between Fullerton and Cermak-Chinatown due to fire department activity at Roosevelt.",
     "FullDescription": {
-      "#cdata-section": "<p>#85 Central buses are temporarily rerouted in both directions via Central, Chicago, Austin, Washington, Central, and resume normal route, due to street blockage near Central/Lake.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+      "#cdata-section": "<p><strong>Red Line subway trains are rerouted to the elevated lines between Fullerton and Cermak-Chinatown due to fire department activity at Roosevelt.</strong></p>\r\n\r\n<p>We apologize for the inconvenience and are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n\r\n<h4><b>#3 KingRed Line&nbsp;service to 95th/Dan Ryan </b></h4>\r\n\r\n<p>After stopping at Fullerton,&nbsp;95th-bound trains will be diverted and will make the following elevated station stops:</p>\r\n\r\n<ul>\r\n\t<li>Armitage (accessible)</li>\r\n\t<li>Sedgwick (accessible)</li>\r\n\t<li>Chicago (at Franklin; accessible)</li>\r\n\t<li>Merchandise Mart (accessible)</li>\r\n\t<li>Clark/lake (accessible)</li>\r\n\t<li>Washington/Wabash&nbsp;(accessible)</li>\r\n\t<li>Adams/Wabash</li>\r\n\t<li>Roosevelt (elevated station west of Wabash; accessible)</li>\r\n</ul>\r\n\r\n<p>Then, trains will stop at&nbsp;Cermak-Chinatown and make all normal stops to 95th/Dan Ryan.</p>\r\n\r\n<h4><b>Red Line&nbsp;service to Howard</b></h4>\r\n\r\n<p>For service toward Howard, after stopping at Cermak-Chinatown, trains will then be diverted to the above-listed elevated stations, in the opposite order, through Armitage and then make all normal stops from Fullerton to Howard.</p>\r\n\r\n<h4>For service in areas away from where the Red Line is running</h4>\r\n\r\n<p>Consider using local bus alternatives through the area where you&#39;re traveling, including those to other train lines or where Red Line service has been rerouted to operate. These may include:</p>\r\n\r\n<ul>\r\n\t<li><strong>#4 Cottage Grove</strong></li>\r\n\t<li><strong>#12 Roosevelt</strong></li>\r\n\t<li><strong>#29 State</strong></li>\r\n\t<li><strong>#62 Archer</strong></li>\r\n</ul>\r\n\r\n<p>Shuttle buses are available&nbsp;to provide connecting service in both directions as follows:</p>\r\n\r\n<ul>\r\n\t<li><strong>Red</strong> Line shuttle buses will operate between <strong>Fullerton to Sox-35th</strong></li>\r\n\t<li><strong>Green</strong> Line shuttle buses will operate between <strong>Adams/Wabash to 35th-Bronzeville-IIT</strong></li>\r\n</ul>\r\n"
     },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-04-15T20:04:00",
+    "SeverityScore": "88",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption / Major Delays",
+    "EventStart": "2026-04-15T23:23:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114370"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114372"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Central",
-        "ServiceId": "85",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/85/"
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "de142af3-cd3a-4c3e-92e9-e39b1f47baed"
-  },
-  {
-    "AlertId": "114371",
-    "Headline": "#9 Ashland Temporary Reroute at Ashland/61st",
-    "ShortDescription": "#9 Ashland buses are temporarily rerouted in both directions via Ashland. 63rd, Damen, 59th and Ashland due to police activity near Ashland/61st.\r\n\r\n",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#9 Ashland buses are temporarily rerouted in both directions via Ashland. 63rd, Damen, 59th, then resume their normal route on Ashland.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to police activity near Ashland/61st.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-04-15T22:36:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114371"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Ashland",
-        "ServiceId": "9",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/9/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d2dedddc-c52f-4fb1-9261-087271f509af"
+    "GUID": "2520b132-dee3-43e8-a5b9-e2e0098fdfec"
   }
 ]
