@@ -1,10 +1,10 @@
 [
   {
     "AlertId": "114374",
-    "Headline": "#54 Cicero Temporary Reroute at Cicero/Milwaukee",
-    "ShortDescription": "#54 Cicero buses are temporarily rerouted via Cicero, Milwaukee, Montrose and Cicero, then into the terminal due to street blockage near Cicero/Milwaukee.",
+    "Headline": "#54 Cicero Temporary Southbound Reroute near Cicero/Milwaukee",
+    "ShortDescription": "Southbound #54 Cicero buses are temp. rerouted via Cicero, Montrose, Milwaukee, and Cicero, then into the terminal due to street blockage near Cicero/Milwaukee.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#54 Cicero buses are temporarily rerouted in both directions via Cicero,&nbsp;Milwaukee, Montrose and Cicero, then into the terminal.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Cicero/Milwaukee.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong> #54 Cicero buses are temporarily rerouted in both directions via Cicero, Montrose, Milwaukee, and Cicero, then into the terminal.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Cicero/Milwaukee.</p>\r\n\r\n<p><em><strong>(Revised)</strong></em></p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "e8ba3454-484b-4a92-956c-6ee6b7f7e8c7"
+    "GUID": "ba7df38d-23d1-45c1-b184-088c8797e482"
+  },
+  {
+    "AlertId": "114375",
+    "Headline": "#54A North Cicero/Skokie Blvd Temporary Southbound Reroute near Cicero/Milwaukee",
+    "ShortDescription": "SB #54A North Cicero/Skokie Blvd. buses are temp. rerouted via Cicero, Montrose, Milwaukee, Irving Park and Cicer due to street blockage near Cicero/Milwaukee.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong> #54A North Cicero/Skokie Blvd. buses are temporarily rerouted via Cicero, Montrose, Milwaukee, Irving Park and Cicero, then resume their normal route.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Cicero/Milwaukee.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-16T06:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114375"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "North Cicero/Skokie Blvd.",
+        "ServiceId": "54A",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "565a5c",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54a/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7ad62b90-6ee6-4294-95cd-f167bb2ec63c"
   }
 ]
