@@ -34,37 +34,71 @@
     "GUID": "44bae952-dfa8-4e5a-ae87-0ddd05f441bb"
   },
   {
-    "AlertId": "114439",
-    "Headline": "#9 Ashland Temporary Northbound Reroute near Ashland/79th",
-    "ShortDescription": "Northbound 9 Ashland buses are temporarily rerouted via Ashland, 79th, Damen, 76th, Ashland and over normal route, due to street blockage near Ashland/79th.",
+    "AlertId": "114440",
+    "Headline": "#85 Central Temporary Reroute at Central/Belmont",
+    "ShortDescription": "#85 Central buses are rerouted via Central, Addison, Austin, Diversey, then resume their normal route on Central due to street blockage near Central/Belmont.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #9 Ashland buses are temporarily rerouted via Ashland, 79th, Damen, 76th, Ashland and over normal route, due to street blockage near Ashland/79th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#85 Central buses are temporarily rerouted in both directions via Central, Addison, Austin, Diversey, then resume their normal route on Central.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Central/Belmont.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-04-19T20:13:00",
+    "EventStart": "2026-04-19T22:12:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114439"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114440"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Ashland",
-        "ServiceId": "9",
+        "ServiceName": "Central",
+        "ServiceId": "85",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          "#cdata-section": "http://www.transitchicago.com/bus/85/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "75b80393-c7ca-4d86-aacb-a273b360001a"
+    "GUID": "02368aee-4a44-40d1-9533-d0be55d02fdb"
+  },
+  {
+    "AlertId": "114441",
+    "Headline": "#77 Belmont Temporary Reroute at Central/Belmont",
+    "ShortDescription": "#77 Belmont buses are temporarily rerouted in both directions via Belmont, Laramie, Diversey, Austin and Belmont due to street blockage near Central/Belmont.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#77 Belmont buses are temporarily rerouted in both directions via Belmont, Laramie, Diversey, Austin, then resume their normal route on Belmont.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Central/Belmont.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-19T22:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114441"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Belmont",
+        "ServiceId": "77",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/77/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b7b49b6d-af40-4ee4-9630-5965cdda37a7"
   }
 ]
