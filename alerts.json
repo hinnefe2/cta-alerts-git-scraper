@@ -1,83 +1,104 @@
 [
   {
-    "AlertId": "114462",
-    "Headline": "#77 Belmont Temporary Reroute at Belmont/Ravenwood",
-    "ShortDescription": "77 Belmont buses are temporarily rerouted via Belmont, Ashland, Addison, Damen and Belmont: due to, street blockage near Belmont/Ravenswood.",
+    "AlertId": "114464",
+    "Headline": "#72 North Temporary Eastbound Reroute near North Ave/Clark",
+    "ShortDescription": "Eastbound  72 North buses are temporarily rerouted via North Avenue, LaSalle, Clark and North Ave: due to, street blockage near North Ave/Clark.",
     "FullDescription": {
-      "#cdata-section": "<p>#77 Belmont buses are temporarily rerouted via Belmont, Ashland, Addison, Damen and Belmont: due to, street blockage near Belmont/Ravenswood.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Eastbound&nbsp;#72 North buses are temporarily rerouted via North Avenue, LaSalle, Clark and North Ave: due to, street blockage near North Ave/Clark.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-04-21T08:21:00",
+    "EventStart": "2026-04-21T08:43:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114462"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114464"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Belmont",
-        "ServiceId": "77",
-        "ServiceBackColor": "414145",
+        "ServiceName": "North",
+        "ServiceId": "72",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/77/"
+          "#cdata-section": "http://www.transitchicago.com/bus/72/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "118b6ebb-1e61-4afe-acb7-f59bc20f25ae"
+    "GUID": "f150f285-6c2c-4542-8452-b15358fa9dd9"
   },
   {
-    "AlertId": "114463",
-    "Headline": "O'Hare- Bound Blue Line Service Delayed at Oak Park",
-    "ShortDescription": "O'Hare- Bound Blue Line trains are standing at Oak Park due to a sick rider. Crews working to restore service.",
+    "AlertId": "114465",
+    "Headline": "395 95th Temporary Eastbound Reroute near 95th/Peoria",
+    "ShortDescription": "Eastbound 95 95th buses are temporarily rerouted via 95th, Vincennes, 99th, Halsted and 95th due to, street blockage near 95th/Peoria.",
     "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare- Bound Blue Line trains are standing at Oak Park due to a sick rider.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Eastbound #95 95th buses are temporarily rerouted via 95th, Vincennes, 99th, Halsted and 95th due to, street blockage near 95th/Peoria.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-04-21T08:32:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-21T08:47:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114463"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114465"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Oak Park",
-          "ServiceId": "40180",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=108"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Blue Line",
-          "ServiceId": "Blue",
-          "ServiceBackColor": "00a1de",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/blueline/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "95th",
+        "ServiceId": "95",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/95/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "05dc2029-1b23-4e5b-a48d-4471fea18932"
+    "GUID": "5a36c6cc-1b64-4e70-84b3-1337902baa91"
+  },
+  {
+    "AlertId": "114466",
+    "Headline": "#112 Vincennes/111th |Temporary Northbound Reroute near 95th/Peoria",
+    "ShortDescription": "Northbound 112 Vincennes/111th buses are temporarily rerouted via Vincennes, 99th, Halsted and 95th: due to, street blockage near 95th/Peoria.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #112 Vincennes/111th buses are temporarily rerouted via Vincennes, 99th, Halsted and 95th: due to, street blockage near 95th/Peoria.</p>\r\n\r\n<p>Southbound&nbsp;buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-21T08:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114466"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Vincennes/111th",
+        "ServiceId": "112",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/112/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "bdadc5bf-e63e-4e16-8d0e-a5f0cdb599d7"
   }
 ]
