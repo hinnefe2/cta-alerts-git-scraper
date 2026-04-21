@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "AlertId": "114462",
+    "Headline": "#77 Belmont Temporary Reroute at Belmont/Ravenwood",
+    "ShortDescription": "77 Belmont buses are temporarily rerouted via Belmont, Ashland, Addison, Damen and Belmont: due to, street blockage near Belmont/Ravenswood.",
+    "FullDescription": {
+      "#cdata-section": "<p>#77 Belmont buses are temporarily rerouted via Belmont, Ashland, Addison, Damen and Belmont: due to, street blockage near Belmont/Ravenswood.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-21T08:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114462"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Belmont",
+        "ServiceId": "77",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/77/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "118b6ebb-1e61-4afe-acb7-f59bc20f25ae"
+  },
+  {
+    "AlertId": "114463",
+    "Headline": "O'Hare- Bound Blue Line Service Delayed at Oak Park",
+    "ShortDescription": "O'Hare- Bound Blue Line trains are standing at Oak Park due to a sick rider. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare- Bound Blue Line trains are standing at Oak Park due to a sick rider.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-04-21T08:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114463"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Oak Park",
+          "ServiceId": "40180",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=108"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "05dc2029-1b23-4e5b-a48d-4471fea18932"
+  }
+]
