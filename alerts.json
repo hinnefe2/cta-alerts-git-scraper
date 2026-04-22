@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "994aed5b-dfb5-40f9-8b64-adfebcfd9f3e"
+  },
+  {
+    "AlertId": "114484",
+    "Headline": "#49 Western, #X49 Western Express Temporary Northbound Reroute near Western/45th Place",
+    "ShortDescription": "Northbound 49 Western, X49 Western Express buses are temporarily rerouted via Western, 45th, Western Blvd, 35th and Western : near Western/45th Place.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #49 Western, #X49 Western Express buses are temporarily rerouted via Western, 45th, Western Blvd, 35th and Western : due to, police activity near Western/45th Place.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-22T10:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114484"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western",
+          "ServiceId": "49",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western Express",
+          "ServiceId": "X49",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "211cd6ca-e5ee-4e07-92b8-f74cfe3f3a9e"
   }
 ]
