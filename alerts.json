@@ -45,5 +45,86 @@
     },
     "ttim": "0",
     "GUID": "f0a44278-ac08-4e34-a140-414284763e81"
+  },
+  {
+    "AlertId": "114519",
+    "Headline": "Yellow and Purple Line Service Temporarily Suspended",
+    "ShortDescription": "Service on the Yellow and Purple Line has been temporarily suspended due to track conditions near Howard.",
+    "FullDescription": {
+      "#cdata-section": "<p>Service on the Yellow and Purple Line has been temporarily suspended due to track conditions near Howard.</p>\r\n\r\n<p>Shuttle buses are available to provide connecting service through the affected area.</p>\r\n\r\n<p><strong>Yellow Line: Howard to Skokie in both directions.</strong></p>\r\n\r\n<p><strong>Purple Line: Howard to Linden in both directions.</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "90",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Suspended",
+    "EventStart": "2026-04-23T17:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "1",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114519"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Yellow Line",
+          "ServiceId": "Y",
+          "ServiceBackColor": "f9e300",
+          "ServiceTextColor": "000000",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/yellowline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "07694705-32b9-4ce9-86ff-a50be417534e"
+  },
+  {
+    "AlertId": "114520",
+    "Headline": "No trains between Howard and Thorndale ",
+    "ShortDescription": "Red Line service has been temporarily suspended between Howard and Thorndale due to track conditions near Howard.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line service has been temporarily suspended between Howard and Thorndale due to track conditions.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between 95th and Thorndale at this time.</strong></p>\r\n\r\n<p>Shuttle buses are available between Howard and Thorndale to provide connecting service.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#151 Sheridan&nbsp;</p>\r\n\r\n<p>#22 Clark</p>\r\n\r\n<p>#97 Skokie</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2026-04-23T17:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114520"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f4fdb350-7848-498d-ba14-90e7ce0b511e"
   }
 ]
