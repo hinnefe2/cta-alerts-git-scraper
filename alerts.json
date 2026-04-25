@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "02b830ce-21bb-4736-8da5-4cf3fb673183"
+  },
+  {
+    "AlertId": "114548",
+    "Headline": "#92 Foster, #93 California/Dodge Temporary Reroute at Foster/California",
+    "ShortDescription": "92 Foster, 93 California/Dodge buses are temporarily rerouted : due to, police activity near Foster/California.",
+    "FullDescription": {
+      "#cdata-section": "<p>#92 Foster, #93 California/Dodge buses are temporarily rerouted : due to, police activity near Foster/California.</p>\r\n\r\n<p>#92 Foster,&nbsp;&nbsp;buses are temporarily rerouted in both directions via Foster, Kedzie, Bryn Mawr, Western and Foster.</p>\r\n\r\n<p>#93 California/Dodge buses are temporarily rerouted in both directions via Kedzie, Bryn Mawr and California.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-25T12:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114548"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Foster",
+          "ServiceId": "92",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/92/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "California/Dodge",
+          "ServiceId": "93",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/93/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d89f4411-4a33-4ed5-849d-b598201c0dea"
   }
 ]
