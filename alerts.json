@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "114555",
+    "Headline": "#53 Pulaski Temporary Southbound Reroute near 47th/Pulaski",
+    "ShortDescription": "Southbound #53 Pulaski buses are rerouted via Pulaski, 47th, Lawndale, Archer. then resume their normal route on Pulaski due to police activity nr 47th/Pulaski.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong> #53 Pulaski buses are temporarily rerouted via Pulaski, 47th, Lawndale, Archer. then resume their normal route on Pulaski.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to police activity near 47th/Pulaski.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-26T22:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114555"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pulaski",
+        "ServiceId": "53",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/53/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "43f7dcdb-6a4a-4f1f-90c9-09022b1db32f"
+  },
+  {
+    "AlertId": "114556",
+    "Headline": "#47 47th Temporary Reroute at 47th/Pulaski",
+    "ShortDescription": "#47 47th buses are temporarily rerouted in both directions via 47th, Cicero, Archer, 47th, then resume their normal route due to police activity nr 47th/Pulaski",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#47 47th buses are temporarily rerouted in both directions via 47th, Cicero, Archer, 47th, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to police activity near 47th/Pulaski.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-04-26T22:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114556"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "47th",
+        "ServiceId": "47",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/47/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "dfdb309f-5666-40cc-8978-d478355b6a83"
+  }
+]
