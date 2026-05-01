@@ -1,18 +1,18 @@
 [
   {
     "AlertId": "114630",
-    "Headline": "50 Damen Temporary Reroute at Damen & Ainslie",
-    "ShortDescription": "50 Damen buses are temporarily rerouted via Damen, Lawrence, Ashland, over regular route due to a fallen tree near Damen & Ainslie.",
+    "Headline": "#50 Damen Temporary Reroute at Damen & Ainslie",
+    "ShortDescription": "#50 Damen buses are temporarily rerouted in both directions via  Damen, Lawrence, Ashland, over regular route due to street blockage near Damen/Ainslie.",
     "FullDescription": {
-      "#cdata-section": "<p>50 Damen buses are temporarily rerouted via Damen, Lawrence, Ashland, over regular route due to a fallen tree near Damen &amp; Ainslie. Opposite direction in reverse.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#50 Damen buses are temporarily rerouted in both directions via&nbsp; Damen, Lawrence, Ashland, over regular route due to street blockage near Damen/Ainslie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
     "EventStart": "2026-05-01T06:29:00",
-    "EventEnd": "2026-05-08T07:00:00",
-    "TBD": "0",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114630"
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "4ebd214f-29b7-43a6-a940-3c48e2bdad69"
+    "GUID": "9c779783-91db-4165-a027-6c03f911f51b"
+  },
+  {
+    "AlertId": "114631",
+    "Headline": "#35 31st/35th Temporary Eastbound Reroute near 31st/Kostner",
+    "ShortDescription": "Eastbound #35 31st/35th buses are temporarily rerouted via Cicero, Ogden, 26th, Kostner, 31st, and over normal route, due to street blockage near 31st/Kostner.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #35 31st/35th buses are temporarily rerouted via Cicero, Ogden, 26th, Kostner, 31st, and over&nbsp; normal route, due to street blockage near 31st/Kostner.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-01T09:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114631"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "31st/35th",
+        "ServiceId": "35",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/35/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2fad7b45-7992-4287-b46b-8e46e9a8d850"
   }
 ]
