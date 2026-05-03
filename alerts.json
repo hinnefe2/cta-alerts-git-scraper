@@ -45,5 +45,52 @@
     },
     "ttim": "0",
     "GUID": "4d191423-3d3e-41bc-8eeb-20e1110af759"
+  },
+  {
+    "AlertId": "114666",
+    "Headline": "#87 87th,  #95 95th Temporary Eastbound Reroute near 91st/Burley.",
+    "ShortDescription": "Eastbound  87 87th,  95 95th buses are temporarily rerouted due to street blockage near 91st/Burley.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound&nbsp; #87 87th,&nbsp; #95 95th buses are temporarily rerouted due to street blockage near 91st/Burley.</p>\r\n\r\n<p>#87 87th buses are temporarily rerouted via 87th, Buffalo, 92nd, Baltimore and&nbsp;91st&nbsp;including the normal route streets.</p>\r\n\r\n<p>#95 95th&nbsp;buses are temporarily rerouted via 91st, Brandon, 92nd, and Buffalo&nbsp;including the normal route streets.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-03T10:20:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114666"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "87th",
+          "ServiceId": "87",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/87/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "2c1270b6-1ddb-459d-8de0-91f177a97d7c"
   }
 ]
