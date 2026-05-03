@@ -126,5 +126,52 @@
     },
     "ttim": "0",
     "GUID": "5ab57b87-baab-4c9b-8d29-1c5b326abd1a"
+  },
+  {
+    "AlertId": "114670",
+    "Headline": "#147 Outer DuSable, #151 Sheridan Lake Shore Express Temporary Southbound Reroute near Sheridan/Thorndale",
+    "ShortDescription": "Southbound 147 Outer DuSable, 151 Sheridan Lake Shore Express buses are temporarily rerouted  due to, street blockage near Sheridan/Thorndale.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #147 Outer DuSable, #151 Sheridan Lake Shore Express buses are temporarily rerouted via Sheridan, Thorndale, Broadway, Bryn Mawr and Sheridan due to, street blockage near Sheridan/Thorndale</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-03T15:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114670"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "8e667da9-ed7f-4956-8d8a-74a1f9650085"
   }
 ]
