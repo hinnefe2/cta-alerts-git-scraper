@@ -1,36 +1,49 @@
 [
   {
-    "AlertId": "114733",
-    "Headline": "#62 Archer Temporary Reroute at Pulaski Orange Line.",
-    "ShortDescription": "62 Archer buses are temporarily rerouted in both directions due to street blockage near Pulaski Orange Line.",
+    "AlertId": "114748",
+    "Headline": "#4 Cottage Grove and #X4 Cottage Grove Express Temporary Northbound Reroute near Cottage Grove/58th",
+    "ShortDescription": "Northbound 4 Cottage Grove and X4 Cottage Grove Express buses are temporarily rerouted due to street blockage near Cottage Grove/58th.",
     "FullDescription": {
-      "#cdata-section": "<p>#62 Archer buses are temporarily rerouted in both directions via Archer, Pulaski, 51st - outside of the terminal, Karlov, Archer and over regular route, due to street blockage near Pulaski Orange Line.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #4 Cottage Grove and #X4 Cottage Grove Express buses are temporarily rerouted via Cottage Grove, Midway Plaisance, Payne Drive, 55th, Cottage Grove and over normal route, due to street blockage near Cottage Grove/58th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-05-05T18:03:00",
+    "EventStart": "2026-05-06T15:38:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114733"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114748"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Archer",
-        "ServiceId": "62",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/62/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove Express",
+          "ServiceId": "X4",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "5e3723a2-0813-4a9f-bc82-586bd68ee04a"
+    "GUID": "5d66139a-86de-4b91-871b-55879a43dae2"
   }
 ]
