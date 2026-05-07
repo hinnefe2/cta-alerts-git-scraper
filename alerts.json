@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "114761",
+    "Headline": "Blue Line Service Running with Delays",
+    "ShortDescription": "Blue Line trains are running with wait times of up to 30 minutes; we're working to restore service. Allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running, but with extended wait times. Some riders may experience wait times of up to 30 minutes while our crews work to restore regular service levels.</p>\r\n\r\n<p>Use trackers to look for live arrival information and consider available alternatives, such a local bus routes or buses to/from other &#39;L&#39; lines.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-05-07T00:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114761"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c9a0dfab-2e78-408b-b7bf-630f29fdb78f"
+  },
+  {
+    "AlertId": "114762",
+    "Headline": "Red Line Service Resuming Normal Routing",
+    "ShortDescription": "Red Line service is resuming its normal routing, via the subway, btwn Fullerton & Cermak-Chinatown after an earlier reroute.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line service is resuming its normal routing, via the subway, between Fullerton &amp; Cermak-Chinatown.</p>\r\n\r\n<p>Trains were temporarily rerouted via the elevated lines due to earlier fire department activity.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-05-07T00:51:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114762"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6bda5f16-3cb3-4902-ad9d-1cbf2349941e"
+  }
+]
