@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "e2621fa3-f5fb-4248-a2fa-96d8668dbdaf"
+  },
+  {
+    "AlertId": "114818",
+    "Headline": "#J14 Jeffery Jump & #15 Jeffery Local Temporary Southbound Reroute near Jeffrey/94th",
+    "ShortDescription": "SB J14 Jeffery Jump & 15 Jeffery Local buses are temporarily rerouted due to a street blockage near Jeffery/94th.\r\n\r\n",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #J14 Jeffery Jump &amp; #15 Jeffery Local buses are temporarily rerouted via&nbsp; Jeffery, 93rd, Paxton, 95th, Jeffery and over the regular route due to a street blockage near Jeffery/94th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-09T16:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114818"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Jump",
+          "ServiceId": "J14",
+          "ServiceBackColor": "0065BD",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "0ddc7aac-1a70-497d-8443-3032a03a99bf"
   }
 ]
