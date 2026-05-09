@@ -102,50 +102,50 @@
     "GUID": "29f8cf71-eb9c-4162-a027-a0161d125f66"
   },
   {
-    "AlertId": "114807",
-    "Headline": "Green and Pink Line Delays",
-    "ShortDescription": "Some Green and Pink Line trains are operating with residual delays after an earlier raised bridge at the Chicago River, downtown Service is resuming.",
+    "AlertId": "114809",
+    "Headline": "#54 Cicero and #66 Chicago Temporary Reroute near Chicago/Laramie",
+    "ShortDescription": "54 Cicero and 66 Chicago buses are temporarily rerouted due to street blockage near Chicago/Laramie.",
     "FullDescription": {
-      "#cdata-section": "<p>Some Green and Pink Line trains are operating with residual delays after an earlier raised bridge at the Chicago River, downtown.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#54 Cicero and&nbsp;#66 Chicago&nbsp;buses are temporarily rerouted due to street blockage near Chicago/Laramie.</p>\r\n\r\n<p><strong>Southbound #54 Cicero</strong> buses will operate via Cicero, Augusta, Laramie, Washington, Cicero and over normal route.</p>\r\n\r\n<p><strong>Westbound #66 Chicago</strong> buses will operate via Chicago, Cicero, Augusta, Laramie, Chicago and over normal route.</p>\r\n\r\n<p><br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-05-09T09:21:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-09T09:45:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114807"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114809"
     },
     "ImpactedService": {
       "Service": [
         {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cicero",
+          "ServiceId": "54",
+          "ServiceBackColor": "414145",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+            "#cdata-section": "http://www.transitchicago.com/bus/54/"
           }
         },
         {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Chicago",
+          "ServiceId": "66",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
+            "#cdata-section": "http://www.transitchicago.com/bus/66/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "fd4079f3-23d8-414d-a55d-d86f25abbc92"
+    "GUID": "30161837-6768-4a98-b3a4-d8ccdc2c3d1d"
   }
 ]
