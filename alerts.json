@@ -68,40 +68,6 @@
     "GUID": "9956f054-a7ba-48c1-8a22-7afae8347f60"
   },
   {
-    "AlertId": "114865",
-    "Headline": "#9 Ashland Temporary Northbound Reroute near Ashland/Wilson",
-    "ShortDescription": "Northbound 9 Ashland buses are temporarily rerouted via Ashland, Montrose, and Ravenswood into the terminal, due to, construction near Ashland/Wilson.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #9 Ashland buses are temporarily rerouted via Ashland, Montrose, and Ravenswood into the terminal, due to, construction near Ashland/Wilson.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-05-12T09:17:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114865"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Ashland",
-        "ServiceId": "9",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/9/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "59a891cb-f577-467f-b9cd-bce1ae631a68"
-  },
-  {
     "AlertId": "114866",
     "Headline": "#91 Austin Temporary Southbound Reroute near Austin/George",
     "ShortDescription": "Southbound 91 Austin buses are temporarily rerouted via Austin, Belmont, Central, Diversey, and Austin, due to, construction near Austin/George.",
@@ -134,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "74442170-3cbb-4360-a738-de4ebad45856"
+  },
+  {
+    "AlertId": "114870",
+    "Headline": "#15 Jeffery Local and #172 U. of Chicago/Kenwood Temporary Reroute at Hyde Park/Woodlawn",
+    "ShortDescription": "15 Jeffery Local buses rrted via 51st, Woodlawn, and Lake Pk. and 172 U. of Chicago/Kenwood buses rrted via Woodlawn, 53rd, and Lake Pk nr Hyde Park/Woodlawn. ",
+    "FullDescription": {
+      "#cdata-section": "<p>#15 Jeffery Local buses are temporarily rerouted in both directions via 51st, Woodlawn, and Lake Park.</p>\r\n\r\n<p>#172 U. of Chicago/Kenwood buses are temporarily rerouted in both directions&nbsp;via Woodlawn, 53rd, and Lake Park near Hyde Park/Woodlawn due to street blockage.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-12T12:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114870"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "U. of Chicago/Kenwood",
+          "ServiceId": "172",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/172/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d6f7866f-095d-497c-8710-22ae2744596b"
   }
 ]
