@@ -32,5 +32,63 @@
     },
     "ttim": "0",
     "GUID": "40be6963-ef53-4940-b772-09e219a9e28c"
+  },
+  {
+    "AlertId": "114860",
+    "Headline": "#N5 South Shore Night Bus Temporary Reroute at 83rd/Houston.",
+    "ShortDescription": "N5 South Shore Night buses are temporarily rerouted in both directions via South Shore, 79th, Exchange, 83rd, then resume their normal route.",
+    "FullDescription": {
+      "#cdata-section": "<p>How does this affect my trip?</p>\r\n\r\n<p>#N5 South Shore Night buses are temporarily rerouted in both directions via South Shore, 79th, Exchange, 83rd, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>Why is service being changed?</p>\r\n\r\n<p>Buses are rerouted due to street blockage near 83rd/Houston.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-12T01:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114860"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Night Bus",
+          "ServiceId": "N5",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "009999",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/n5/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "71st/South Shore",
+          "ServiceId": "71",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/71/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d546434c-4df7-40d3-8c3f-4aa9eb39bb7b"
   }
 ]
