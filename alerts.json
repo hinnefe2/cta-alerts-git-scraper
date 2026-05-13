@@ -102,50 +102,71 @@
     "GUID": "cf73a4c7-b666-4b47-badf-a1f4d745ca45"
   },
   {
-    "AlertId": "114886",
-    "Headline": "Green and Pink Line Delays",
-    "ShortDescription": "Some Green and Pink Line trains are operating with residual delays after an earlier raised bridge at the Chicago River, downtown. Allow extra travel time.",
+    "AlertId": "114890",
+    "Headline": "O'Hare-bound Blue Line Service Running with Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running with delays at Forest Park due to signal problems.",
     "FullDescription": {
-      "#cdata-section": "<p>Some Green and Pink Line trains are operating with residual delays after an earlier raised bridge at the Chicago River, downtown.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with delays at Forest Park due to signal problems.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2026-05-13T10:37:00",
+    "EventStart": "2026-05-13T11:24:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114886"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114890"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "deea75bc-4d94-4088-86f9-0eed606a5a0e"
+    "GUID": "5fb360fc-c027-4a09-8bb8-543a8979b62d"
+  },
+  {
+    "AlertId": "114891",
+    "Headline": "#152 Addison Temporary Westbound Reroute near Addison/Melvina",
+    "ShortDescription": "WB 152 Addison buses are temporarily rerouted due to street blockage near Addison/Melvina.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #152 Addison buses are temporarily rerouted via Addison, Austin, Irving Park, Narragansett &amp; Addison over normal route, due to street blockage near Addison/Melvina.</p>\r\n\r\n<p>Eastbound buses are not affected.&nbsp; Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-13T11:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114891"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Addison",
+        "ServiceId": "152",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/152/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d29de77b-9396-4fc0-be01-3e17fd7266cf"
   }
 ]
