@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "114821",
-    "Headline": "#72 North Temporary Eastbound Reroute near North Ave./Kolmar",
-    "ShortDescription": "EB 72 North buses are temporarily rerouted via North Avenue, Cicero, Grand, North Avenue and over regular route, due to street blockage near North Ave./Kolmar.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #72 North buses are temporarily rerouted via North Avenue, Cicero, Grand, North Avenue and over regular route, due to street blockage near North Ave./Kolmar.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-05-09T19:14:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114821"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "North",
-        "ServiceId": "72",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/72/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "40be6963-ef53-4940-b772-09e219a9e28c"
-  },
-  {
     "AlertId": "114864",
     "Headline": "Yellow Line Service Running with Delays",
     "ShortDescription": "Board/exit all Yellow line trains on platforms # 1and #2 at the Howard station due to a track condition near the area of Howard.",
@@ -68,50 +34,37 @@
     "GUID": "9956f054-a7ba-48c1-8a22-7afae8347f60"
   },
   {
-    "AlertId": "114870",
-    "Headline": "#15 Jeffery Local and #172 U. of Chicago/Kenwood Temporary Reroute at Hyde Park/Woodlawn",
-    "ShortDescription": "15 Jeffery Local buses rrted via 51st, Woodlawn, and Lake Pk. and 172 U. of Chicago/Kenwood buses rrted via Woodlawn, 53rd, and Lake Pk nr Hyde Park/Woodlawn. ",
+    "AlertId": "114877",
+    "Headline": "Blue Line Service Delayed at Grand",
+    "ShortDescription": "Blue Line trains are standing at Grand due to unauthorized person on tracks. Crews working to restore service. ",
     "FullDescription": {
-      "#cdata-section": "<p>#15 Jeffery Local buses are temporarily rerouted in both directions via 51st, Woodlawn, and Lake Park due to street blockage.</p>\r\n\r\n<p>#172 U. of Chicago/Kenwood buses are temporarily rerouted in both directions&nbsp;via Woodlawn, 53rd, and Lake Park near Hyde Park/Woodlawn due to street blockage.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Blue Line trains are standing at Grand due to unauthorized person on tracks. Crews working to restore service.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:&nbsp;</p>\r\n\r\n<p>#56 Milwaukee</p>\r\n\r\n<p>#22 Clark</p>\r\n\r\n<p>#8 Halsted</p>\r\n\r\n<p>Shuttle buses have been requested from Belmont to LaSalle in both directions to provide connecting service through the affected area.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-05-12T12:14:00",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-05-12T19:16:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114870"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114877"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Local",
-          "ServiceId": "15",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/15/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "U. of Chicago/Kenwood",
-          "ServiceId": "172",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/172/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "983597f8-af9b-4d42-a4f8-d2747c772c3d"
+    "GUID": "10b85b03-372f-4a5d-825f-9c4b5fe411bb"
   }
 ]
