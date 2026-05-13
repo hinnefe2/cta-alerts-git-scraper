@@ -66,5 +66,86 @@
     },
     "ttim": "0",
     "GUID": "44cdea50-9961-4396-a44c-f4b87e5d323c"
+  },
+  {
+    "AlertId": "114885",
+    "Headline": "#43 43rd Temporary Westbound Reroute near 43rd/King Dr.",
+    "ShortDescription": "WB 43 43rd buses are temp. rerouted via 43rd, Cottage Grove, Pershing, King Drive, 43rd and over regular route, due to street blockage near 43rd/King Drive.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #43 43rd buses are temporarily rerouted via 43rd, Cottage Grove, Pershing, King Drive, 43rd and over regular route, due to street blockage near 43rd/King Drive.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-13T10:05:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114885"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "43rd",
+        "ServiceId": "43",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/43/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cf73a4c7-b666-4b47-badf-a1f4d745ca45"
+  },
+  {
+    "AlertId": "114886",
+    "Headline": "Green and Pink Line Delays",
+    "ShortDescription": "Some Green and Pink Line trains are operating with residual delays after an earlier raised bridge at the Chicago River, downtown. Allow extra travel time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Some Green and Pink Line trains are operating with residual delays after an earlier raised bridge at the Chicago River, downtown.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-05-13T10:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114886"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "deea75bc-4d94-4088-86f9-0eed606a5a0e"
   }
 ]
