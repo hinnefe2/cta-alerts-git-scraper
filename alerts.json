@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "114925",
+    "Headline": "Temporary Reroute at Kedzie/65th",
+    "ShortDescription": "52A buses are temporarily rerouted via Kedzie, 63rd, California, 71st, and Kedzie due to, street blockage near Kedzie/65th.",
+    "FullDescription": {
+      "#cdata-section": "<p>52A buses are temporarily rerouted via Kedzie, 63rd, California, 71st, and Kedzie due to, street blockage near Kedzie/65th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-15T08:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114925"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Kedzie",
+        "ServiceId": "52A",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/52a/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "86ee1003-7a80-4d4d-b796-2a532d4f2c5c"
+  },
+  {
+    "AlertId": "114926",
+    "Headline": "#72 North buses Temporary Reroute near North Avenue/Elston",
+    "ShortDescription": "Westbound 72 North buses are temporarily rerouted due to street a blockage near North Avenue/Elston.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #72 North buses are temporarily rerouted via North Avenue, Elston, Cortland, Ashland, then resume normal route on North Avenue, due to street blockage near North Avenue/Elston.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-15T08:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114926"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "North",
+        "ServiceId": "72",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/72/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a519d14b-efa1-4d40-867c-0c3be7cee258"
+  }
+]
