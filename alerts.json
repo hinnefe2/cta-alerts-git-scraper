@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "114983",
+    "Headline": "#85 Central Temporary Reroute at Central/Grand",
+    "ShortDescription": "#85 Central buses are temporarily rerouted in both directions via Central, Grand, Laramie, North Avenue and Central due to street blockage near Central/Grand.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#85 Central buses are temporarily rerouted in both directions via Central, Grand, Laramie, North Avenue, then resume their normal route on Central.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Central/Grand.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-17T04:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114983"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Central",
+        "ServiceId": "85",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/85/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ec095405-6ae2-4bd6-8db5-e66450019f4b"
+  },
+  {
+    "AlertId": "114984",
+    "Headline": "#65 Grand Temporary Reroute near Central/Grand",
+    "ShortDescription": "#65 Grand buses are temporarily rerouted in both directions due to street blockage near Central/Grand.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>#65 Grand buses are temporarily rerouted in both directions. Buses will operate as follows:</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Westbound </strong>buses will operate via Grand, Central, Fullerton, Austin, then resume their normal route on Grand.</li>\r\n\t<li><strong>Eastbound</strong> buses will operate via Grand, Central, North Avenue, Laramie,, then resume their normal route on Central.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Central/Grand.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-17T04:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=114984"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Grand",
+        "ServiceId": "65",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/65/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "837e68d8-22ee-43e2-8d15-96f386657fcd"
+  }
+]
