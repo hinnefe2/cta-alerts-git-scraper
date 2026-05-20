@@ -192,5 +192,107 @@
     },
     "ttim": "0",
     "GUID": "768de166-66ef-4067-8ef5-7302c9e2d9ed"
+  },
+  {
+    "AlertId": "115051",
+    "Headline": "#8A South Halsted Temporary Northbound Reroute near Halsted/123rd",
+    "ShortDescription": "NB #8A South Halsted buses are rerouted via Halsted, 127th, State, 119th, then resume their normal route on Halsted due to construction near Halsted/123rd.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Northbound</strong> #8A South Halsted buses are temporarily rerouted via Halsted, 127th, State, 119th, then resume their normal route on Halsted.</p>\r\n\r\n<p><strong>Southbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to construction near Halsted/123rd.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-20T12:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115051"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Halsted",
+        "ServiceId": "8A",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/8a/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cb58441f-7c1c-4c28-ac91-57dc52c79161"
+  },
+  {
+    "AlertId": "115052",
+    "Headline": "Brown Line Service Experiencing Significant Delays Due to Raised Bridge",
+    "ShortDescription": "Brown Line service is experiencing delays due to a raised bridge over the Chicago River, downtown.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>Brown Line service is experiencing delays due to a raised bridge over the Chicago River, downtown.</strong></p>\r\n\r\n<p>Shuttle buses are available between Merchandise Mart and Clark/Lake to provide connecting service.<br />\r\n&nbsp;<br />\r\nSome trains may be held in stations or turned back towards Kimball before reaching the bridge to maintain service across the remainder of the route.</p>\r\n\r\n<p>Bus shuttle service is available at Merchandise Mart and Clark/Lake. Listen for announcements and check train destination signs when boarding. Crews are working to correct the problem to allow us to safely resume service.<br />\r\n&nbsp;<br />\r\nWe apology for this temporary inconvenience and appreciate your patience while the Dept. of Bridge works to complete the bridge lift operation.&nbsp; Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2026-05-20T12:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115052"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9d06efd5-5aea-4e3b-a9a2-abcf333c986c"
+  },
+  {
+    "AlertId": "115053",
+    "Headline": "111th/Throop Temporary Reroute near 111th/Throop",
+    "ShortDescription": "111 King Dr/111th rr EB via 119th, Ashland, 115th & Halsted; WB via 111th, Halsted, 115th, Marshfield, then into terminal due to construction nr 111th/Throop.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>#111 King Drive/111th buses are temporarily rerouted in both directions. Buses will operate as follows:</strong></p>\r\n\r\n<p><strong>Eastbound</strong> buses will operate via 119th, Ashland, 115th, Halsted, then resume their normal route.</p>\r\n\r\n<p><strong>Westbound </strong>buses will operate via 111th, Halsted, 115th, Marshfield, then into the terminal.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to construction near 111th/Throop.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-20T12:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115053"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "111th/King Drive",
+        "ServiceId": "111",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/111/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b33ce261-a469-420c-b04e-725ff8271cef"
   }
 ]
