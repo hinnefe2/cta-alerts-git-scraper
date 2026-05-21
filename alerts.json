@@ -58,40 +58,6 @@
     "GUID": "6a13c604-cea8-45dd-b886-75198b5bd5ed"
   },
   {
-    "AlertId": "115051",
-    "Headline": "#8A South Halsted Temporary Northbound Reroute near Halsted/123rd",
-    "ShortDescription": "NB #8A South Halsted buses are rerouted via Halsted, 127th, State, 119th, then resume their normal route on Halsted due to construction near Halsted/123rd.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Northbound</strong> #8A South Halsted buses are temporarily rerouted via Halsted, 127th, State, 119th, then resume their normal route on Halsted.</p>\r\n\r\n<p><strong>Southbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to construction near Halsted/123rd.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-05-20T12:11:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115051"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Halsted",
-        "ServiceId": "8A",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/8a/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "cb58441f-7c1c-4c28-ac91-57dc52c79161"
-  },
-  {
     "AlertId": "115053",
     "Headline": "111th/Throop Temporary Reroute near 111th/Throop",
     "ShortDescription": "111 King Dr/111th rr EB via 119th, Ashland, 115th & Halsted; WB via 111th, Halsted, 115th, Marshfield, then into terminal due to construction nr 111th/Throop.",
@@ -124,87 +90,6 @@
     },
     "ttim": "0",
     "GUID": "b33ce261-a469-420c-b04e-725ff8271cef"
-  },
-  {
-    "AlertId": "115064",
-    "Headline": "#22 Clark and #152 Addison Temporary Reroute near Clark/Addison",
-    "ShortDescription": "22 Clark and 152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.\r\n",
-    "FullDescription": {
-      "#cdata-section": "<p>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.</p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-05-20T20:13:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115064"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Clark",
-          "ServiceId": "22",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/22/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Addison",
-          "ServiceId": "152",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/152/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "00f1ef99-c427-45ed-983e-d367fed2cd63"
-  },
-  {
-    "AlertId": "115065",
-    "Headline": "#77 Temporary Reroute at Belmont/Pulaski",
-    "ShortDescription": "77 Belmont buses are temporarily rerouted via Belmont, Pulaski, Diversey, and Belmont: due to, street blockage near Belmont/Pulaski.",
-    "FullDescription": {
-      "#cdata-section": "<p>#77 Belmont buses are temporarily rerouted via Belmont, Pulaski, Diversey, and Belmont: due to, street blockage near Belmont/Pulaski.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-05-20T20:19:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115065"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Belmont",
-        "ServiceId": "77",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/77/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "5dc5d23d-a0dd-4b23-91c1-1581c656c612"
   },
   {
     "AlertId": "115066",
