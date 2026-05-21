@@ -126,37 +126,50 @@
     "GUID": "b33ce261-a469-420c-b04e-725ff8271cef"
   },
   {
-    "AlertId": "115062",
-    "Headline": "#3 King Drive Temporary Reroute near King Drive/86th",
-    "ShortDescription": "3 King Drive buses are temporarily rerouted in both directions near King Drive/86th, due to Street blockage near King Drive/86th",
+    "AlertId": "115064",
+    "Headline": "#22 Clark and #152 Addison Temporary Reroute near Clark/Addison",
+    "ShortDescription": "22 Clark and 152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.\r\n",
     "FullDescription": {
-      "#cdata-section": "<p><strong>#3 King Drive buses are temporarily rerouted in both directions near King Drive/86th, due to Street blockage near King Drive/86th</strong></p>\r\n\r\n<p><strong>Northbound</strong> buses will operate via King Drive, 87th, State, 83rd, King Drive and over normal route.</p>\r\n\r\n<p><strong>Southbound</strong> buses will operate via King Drive, 83rd, Lafayette, 87th, King Drive and over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.</p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-05-20T17:39:00",
+    "EventStart": "2026-05-20T20:13:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115062"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115064"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "King Drive",
-        "ServiceId": "3",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/3/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Addison",
+          "ServiceId": "152",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/152/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "0706e432-77ab-4757-bdb3-7b759fcb033a"
+    "GUID": "00f1ef99-c427-45ed-983e-d367fed2cd63"
   }
 ]
