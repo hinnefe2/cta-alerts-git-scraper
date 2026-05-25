@@ -1,49 +1,49 @@
 [
   {
-    "AlertId": "115132",
-    "Headline": "Yellow Line Experiencing Delays; Boarding change at Howard",
-    "ShortDescription": "Yellow Line service running w/delays due to signal problems at Howard board all trains on the 95th-bound Red Line side platform at Howard.",
+    "AlertId": "115139",
+    "Headline": "Delays near Ashland/Lake Affecting Green and Pink Line Service",
+    "ShortDescription": "Green and Pink Line trains are still experiencing delays near Ashland/Lake due to signal problems. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>Yellow Line service running w/delays due to signal problems at Howard board all trains on the 95th-bound Red&nbsp;Line side platform at Howard.</strong></p>\r\n\r\n<p>We&#39;re working to restore normal service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>Green and Pink Line trains are still experiencing delays near Ashland/Lake due to signal problems.</strong></p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines. These may include these buses:</p>\r\n\r\n<ul>\r\n\t<li><strong>#9 Ashland &nbsp;</strong></li>\r\n\t<li><strong>#50 Damen</strong></li>\r\n</ul>\r\n\r\n<p>As a result of the delay, shuttle buses for the Green and Pink Lines have been available&nbsp;as follows:</p>\r\n\r\n<ul>\r\n\t<li>Shuttle buses for the <strong>Green Line</strong> are available&nbsp;to provided connecting service between <strong>Clark/Lake </strong>and <strong>Harlem/Lake</strong> in both directions</li>\r\n\t<li>Shuttle buses for the <strong>Pink Line</strong> are available to provided connecting service between <strong>Clark/Lake</strong> and <strong>Polk</strong> in both directions</li>\r\n</ul>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "60",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Significant Delays",
-    "EventStart": "2026-05-24T14:14:00",
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2026-05-24T19:24:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115132"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115139"
     },
     "ImpactedService": {
       "Service": [
         {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Howard",
-          "ServiceId": "40900",
-          "ServiceBackColor": "c60c30",
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=71"
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
           }
         },
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Yellow Line",
-          "ServiceId": "Y",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/yellowline/"
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "19c93d52-476f-46c2-b09d-6ca235817bce"
+    "GUID": "7040a0e3-551f-4af3-aea0-ffc6e92bb7f0"
   }
 ]
