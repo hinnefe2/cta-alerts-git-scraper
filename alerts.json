@@ -100,5 +100,73 @@
     },
     "ttim": "0",
     "GUID": "6a2f9be1-5afd-43d8-80e8-3d2ccb47f84b"
+  },
+  {
+    "AlertId": "115150",
+    "Headline": "Trains bypassing Garfield Station",
+    "ShortDescription": "Red Line trains are running, but not stopping at Garfield due to heavy crowding.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>Red Line trains are running, but not stopping at Garfield due to heavy crowding.</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip such as nearby bus routes, or buses to other rail lines. These may include these buses:</p>\r\n\r\n<ul>\r\n\t<li><strong>#29 State</strong></li>\r\n\t<li><strong>#55 Garfield</strong></li>\r\n</ul>\r\n\r\n<p>We apologize for this inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2026-05-25T20:30:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115150"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f9971b76-189b-4e3e-8dcc-a1e2457b0478"
+  },
+  {
+    "AlertId": "115151",
+    "Headline": "Trains bypassing Garfield Station",
+    "ShortDescription": "Green Line trains are running, but not stopping at Garfield due to heavy crowding.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>Green Line trains are running, but not stopping at Garfield due to heavy crowding.</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip such as nearby bus routes, or buses to other rail lines. These may include these buses:</p>\r\n\r\n<ul>\r\n\t<li><strong>#3 King Drive</strong></li>\r\n\t<li><strong>#4 Cottage Grove</strong></li>\r\n\t<li><strong>#29 State</strong></li>\r\n\t<li><strong>#55 Garfield</strong></li>\r\n</ul>\r\n\r\n<p>We apologize for this inconvenience and appreciate your understanding.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2026-05-25T20:31:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115151"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "91c4917d-d1c5-49e9-9277-e6d4521ee50e"
   }
 ]
