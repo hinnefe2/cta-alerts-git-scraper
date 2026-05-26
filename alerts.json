@@ -68,40 +68,6 @@
     "GUID": "b4f6e40c-7007-4b40-88b6-1828068cad1d"
   },
   {
-    "AlertId": "115149",
-    "Headline": "#12 Roosevelt Temporary Eastbound Reroute near Roosevelt/Central Park",
-    "ShortDescription": "Eastbound #12 Roosevelt buses are temp. rerouted via Roosevelt, Central Park, Harrison, Homan & Roosevelt due to police activity near Roosevelt/Central Park.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Eastbound</strong> #12 Roosevelt buses are temporarily rerouted via Roosevelt, Central Park, Harrison, Homan, then resume their normal route on Roosevelt.</p>\r\n\r\n<p><strong>Westbound </strong>buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to police activity near Roosevelt/Central Park.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-05-25T19:05:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115149"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Roosevelt",
-        "ServiceId": "12",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/12/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6a2f9be1-5afd-43d8-80e8-3d2ccb47f84b"
-  },
-  {
     "AlertId": "115152",
     "Headline": "#63 63rd Temporary Reroute near 63rd Street Beach",
     "ShortDescription": "#63 63rd buses will terminate at 63rd/Stony Island due to a beach terminal closure because of overcrowding. Allow extra travel time.",
@@ -134,5 +100,73 @@
     },
     "ttim": "0",
     "GUID": "70dddd14-3569-4402-a1a4-c45e4f2b6c89"
+  },
+  {
+    "AlertId": "115153",
+    "Headline": "#6 Jackson Park Express Temporary Reroute at 57th/Cornell",
+    "ShortDescription": "#6 Jackson Park Express buses are rerouted via Stony Island, 56th, Lake Park, 51st, then resume their normal route due to police activity near 57th/Cornell.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#6 Jackson Park Express buses are temporarily rerouted in both directions via Stony Island, 56th, Lake Park, 51st, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to police activity near 57th/Cornell.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-25T23:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115153"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "b71234",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "db6b6f06-3c50-4268-bdca-33c6aa67124d"
+  },
+  {
+    "AlertId": "115154",
+    "Headline": "Temporary Reroute at 55th/Cornell",
+    "ShortDescription": "#55 Garfield buses are rerouted in both directions via 55th, Lake Park, Cottage Grove, then resume their normal route due to street blockage near 55th/Cornell.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#55 Garfield buses are temporarily rerouted in both directions via 55th, Lake Park, Cottage Grove, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near 55th/Cornell.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-25T23:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115154"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Garfield",
+        "ServiceId": "55",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/55/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a1788639-cfde-4b17-9ebd-23f70cab9992"
   }
 ]
