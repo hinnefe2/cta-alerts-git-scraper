@@ -34,71 +34,37 @@
     "GUID": "70dddd14-3569-4402-a1a4-c45e4f2b6c89"
   },
   {
-    "AlertId": "115175",
-    "Headline": "No trains between Clinton and Polk",
-    "ShortDescription": "Pink Line service has been temporarily suspended between Clinton and Polk due to a raised bridge at the Chicago River, downtown.",
+    "AlertId": "115185",
+    "Headline": "Brown Line Service Experiencing Significant Delays Due to Raised Bridge",
+    "ShortDescription": "Brown Line service is experiencing delays due to a raised bridge over the Chicago River, downtown.",
     "FullDescription": {
-      "#cdata-section": "<p>Pink Line service has been temporarily suspended between Clinton and Polk due to a raised bridge at the Chicago River, downtown.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between 54th/Cermak and Racine at this time.</strong></p>\r\n\r\n<p><strong>Shuttle buses are available&nbsp;from Clark/Lake to Polk&nbsp;to provide connecting service through the affected area.&nbsp;</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line service is experiencing delays due to a raised bridge over the Chicago River, downtown.</p>\r\n\r\n<p>Shuttle buses are available between Merchandise Mart and Clark/Lake to provide connecting service.<br />\r\n&nbsp;<br />\r\nSome trains may be held in stations or turned back towards Kimball before reaching the bridge to maintain service across the remainder of the route.&nbsp;</p>\r\n\r\n<p>Bus shuttle service is available at Merchandise Mart and Clark/Lake. Listen for announcements and check train destination signs when boarding. Crews are working to correct the problem to allow us to safely resume service.<br />\r\n&nbsp;<br />\r\nWe apology for this temporary inconvenience and appreciate your patience while the Dept. of Bridge works to complete the bridge lift operation.&nbsp; Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2026-05-27T11:37:00",
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2026-05-27T14:16:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115175"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115185"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "R",
         "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Pink Line",
-        "ServiceId": "Pink",
-        "ServiceBackColor": "e27ea6",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "a9d021e2-934d-451f-8519-2cfd719566f2"
-  },
-  {
-    "AlertId": "115176",
-    "Headline": "No trains between Clinton and Clark/Lake",
-    "ShortDescription": "Green Line service has been temporarily suspended between Clinton and Clark/Lake due to a raised bridge at the Chicago River, downtown.",
-    "FullDescription": {
-      "#cdata-section": "<p>Green Line service has been temporarily suspended between Clinton and Clark/Lake due to a raised bridge at the Chicago River, downtown.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Harlem/Lake and Clinton at this time.</strong></p>\r\n\r\n<p><strong>Shuttle buses are available from Clinton to Clark/Lake&nbsp;to provide connecting service through the affected area.&nbsp;</strong></p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2026-05-27T11:47:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115176"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "2b9f8c3a-e37d-49a8-9216-10a23fe756ad"
+    "GUID": "0aa288b7-5227-48ea-aba0-2c0f79bdbae6"
   }
 ]
