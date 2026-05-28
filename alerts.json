@@ -66,5 +66,73 @@
     },
     "ttim": "0",
     "GUID": "93d427e1-6269-4f01-bfbd-65274d982634"
+  },
+  {
+    "AlertId": "115192",
+    "Headline": "#112 Vincennes/111th Temporary Reroute at 111th/Whipple",
+    "ShortDescription": "#112 Vincennes/111th buses are rerouted via 111th, Western, 115th, Kedzie, then resume their normal route on 111th due to street blockage near 111th/Whipple.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#112 Vincennes/111th buses are temporarily rerouted in both directions via 111th, Western, 115th, Kedzie, then resume their normal route on 111th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near 111th/Whipple.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-28T07:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115192"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Vincennes/111th",
+        "ServiceId": "112",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/112/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "1ef8e957-d58c-4c96-9b80-2c646e755e9e"
+  },
+  {
+    "AlertId": "115193",
+    "Headline": "Orange Line service Delayed near Ashland",
+    "ShortDescription": "Orange Line trains are standing near Ashland due to an unauthorized person on the tracks. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Orange Line trains are standing near Ashland due to an unauthorized person on the tracks.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>As a result of the delay, shuttle buses are requested to provide connecting service between Midway and Roosevelt in both directions.</p>\r\n\r\n<p>Personnel are working to restore service.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2026-05-28T07:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115193"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "59cb0c72-ae41-471c-850d-bed235313a7b"
   }
 ]
