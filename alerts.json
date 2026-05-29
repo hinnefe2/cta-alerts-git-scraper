@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "810c4476-cabd-4df3-936e-15f268db6675"
+  },
+  {
+    "AlertId": "115210",
+    "Headline": "#51 51st and #94 California Temporary Reroute near 51st/Rockwell",
+    "ShortDescription": "51 51st and 94 California buses are temporarily rerouted in both directions due to street blockage near 51st/Rockwell.",
+    "FullDescription": {
+      "#cdata-section": "<p>#51 51st and&nbsp;#94 California buses are temporarily rerouted in both directions due to street blockage near 51st/Rockwell.</p>\r\n\r\n<p><strong>#94 California buses will operate via:</strong><br />\r\n<strong>Northbound</strong>: California, 55th, Western and over normal route.&nbsp;<br />\r\n<strong>Southbound</strong>: California, 47th, Western, 55th, California and over normal route.</p>\r\n\r\n<p><strong>#51 51st buses will operate via</strong>:<br />\r\n<strong>Eastbound</strong>: 51st, California, 55th, Western, 51st and over normal route.&nbsp;<br />\r\n<strong>Westbound</strong>: 51st, Western, 55th, California, 51st and over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-28T19:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115210"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "51st",
+          "ServiceId": "51",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/51/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "California",
+          "ServiceId": "94",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/california/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "222842ea-2efa-4b94-b8ab-4adc5fef9971"
   }
 ]
