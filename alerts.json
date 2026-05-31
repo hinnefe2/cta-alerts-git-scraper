@@ -34,40 +34,6 @@
     "GUID": "6e211639-2c16-4a4b-8048-6b5e1e2d28c7"
   },
   {
-    "AlertId": "115234",
-    "Headline": "#95 95th Temporary Reroute near Woodlawn/95th",
-    "ShortDescription": "95 95th buses are temporarily rerouted in both directions due to police activity near Woodlawn/95th.",
-    "FullDescription": {
-      "#cdata-section": "<p>#95 95th buses are temporarily rerouted in both directions due to police activity near Woodlawn/95th.</p>\r\n\r\n<p><strong>Westbound</strong> buses will operate via 95th, Cottage Grove and over regular route.&nbsp;</p>\r\n\r\n<p><strong>Eastbound</strong> buses will operate via 95th, Woodlawn and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-05-30T11:21:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115234"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "95th",
-        "ServiceId": "95",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/95/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "fb67dc3d-26b2-4663-bde2-764c25589e7b"
-  },
-  {
     "AlertId": "115236",
     "Headline": "#115 Pullman/115th Temporary Reroute at 115th/Wentworth",
     "ShortDescription": "115 Pullman/115th  buses are temporarily rerouted in both directions near 115th/Wentworth, due to street blockage.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "5b1ee40e-2684-4d7a-96d6-c66d1d91142d"
+  },
+  {
+    "AlertId": "115238",
+    "Headline": "#3 King Drive Temporary Reroute at King Drive/82nd",
+    "ShortDescription": "3 King Drive buses are temporarily rerouted in both directions, due to street blockage near King Drive/82nd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#3 King Drive buses are temporarily rerouted in both directions via King Drive, 79th, Cottage Grove, 83rd, King Drive and over regular route, due to street blockage near King Drive/82nd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-30T20:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115238"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "King Drive",
+        "ServiceId": "3",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/3/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2107c8ae-558f-4f8f-a621-83e61c3c32a2"
   }
 ]
