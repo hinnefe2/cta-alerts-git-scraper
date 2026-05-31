@@ -100,5 +100,63 @@
     },
     "ttim": "0",
     "GUID": "3527a94e-0474-4fe6-8745-c42ae2280e0c"
+  },
+  {
+    "AlertId": "115245",
+    "Headline": "Temporary Reroute at Cermak/Ashland",
+    "ShortDescription": "#60 Blue Island, #21 Cermak and #18 16th/18th buses are temporarily rerouted in both directions due to a marathon/race near Cermak/Ashland.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>#60 Blue Island, #21 Cermak and #18 16th/18th buses are temporarily rerouted in both directions as follows:</strong></p>\r\n\r\n<p>#60 Blue Island buses will operate via Blue Island, Ashland, Roosevelt, Racine, then resume their normal route.</p>\r\n\r\n<p>#21 Cermak buses will operate via Cermak, Ashland, Roosevelt, Halsted, then resume their normal route on Cermak.</p>\r\n\r\n<p>#18 16th/18th buses will operate:</p>\r\n\r\n<ul>\r\n\t<li><strong>Eastbound </strong>via 18th, Ashland, Roosevelt, Halsted and 18th, then resume their normal route.</li>\r\n\t<li><strong>Westbound</strong> via Roosevelt, Halsted and 18th, then resume their normal route.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to a marathon/race near Cermak/Ashland.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-31T08:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115245"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "16th-18th",
+          "ServiceId": "18",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/18/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cermak",
+          "ServiceId": "21",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/21/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Blue Island/26th",
+          "ServiceId": "60",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/60/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "fe6d9c13-091d-487e-8bfd-a075ac7e109b"
   }
 ]
