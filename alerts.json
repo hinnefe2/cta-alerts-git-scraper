@@ -34,64 +34,6 @@
     "GUID": "6e211639-2c16-4a4b-8048-6b5e1e2d28c7"
   },
   {
-    "AlertId": "115245",
-    "Headline": "Temporary Reroute at Cermak/Ashland",
-    "ShortDescription": "#60 Blue Island, #21 Cermak and #18 16th/18th buses are temporarily rerouted in both directions due to a marathon/race near Cermak/Ashland.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>#60 Blue Island, #21 Cermak and #18 16th/18th buses are temporarily rerouted in both directions as follows:</strong></p>\r\n\r\n<p>#60 Blue Island buses will operate via Blue Island, Ashland, Roosevelt, Racine, then resume their normal route.</p>\r\n\r\n<p>#21 Cermak buses will operate via Cermak, Ashland, Roosevelt, Halsted, then resume their normal route on Cermak.</p>\r\n\r\n<p>#18 16th/18th buses will operate:</p>\r\n\r\n<ul>\r\n\t<li><strong>Eastbound </strong>via 18th, Ashland, Roosevelt, Halsted and 18th, then resume their normal route.</li>\r\n\t<li><strong>Westbound</strong> via Roosevelt, Halsted and 18th, then resume their normal route.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to a marathon/race near Cermak/Ashland.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-05-31T08:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115245"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "16th-18th",
-          "ServiceId": "18",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/18/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Cermak",
-          "ServiceId": "21",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/21/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Blue Island/26th",
-          "ServiceId": "60",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/60/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "fe6d9c13-091d-487e-8bfd-a075ac7e109b"
-  },
-  {
     "AlertId": "115246",
     "Headline": "#79 79th Temporary Reroute at 79th/Commercial",
     "ShortDescription": "79 79th buses are temp. rerouted in both directions via 79th, Exchange, 83rd, South Shore, 79th & over normal route, due to street blockage near 79th/Commercial",
@@ -126,133 +68,6 @@
     "GUID": "a1bbd6cf-a893-4b8f-a684-aa854fef76a9"
   },
   {
-    "AlertId": "115247",
-    "Headline": "#4 Cottage Grove and #115 Pullman/115th Temporary Southbound Reroute near 95th/Cottage Grove",
-    "ShortDescription": "Southbound #4 Cottage Grove and #115 Pullman/115th buses are temporarily rerouted near 95th/Cottage Grove due to street blockage.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>Southbound</strong> #4 Cottage Grove and #115 Pullman/115th buses are temporarily rerouted near 95th/Cottage Grove due to street blockage.</p>\r\n\r\n<p><strong>#4 Cottage Grove</strong> buses will operate via Cottage Grove, 95th, King Drive,100th, and Cottage Grove, over to normal route.</p>\r\n\r\n<p><strong>#115 Pullman/115th</strong> buses will operate via 95th, King Drive, 100th, and Cottage Grove, over to normal route</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-05-31T09:21:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115247"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Cottage Grove",
-          "ServiceId": "4",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/4/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Pullman/115th",
-          "ServiceId": "115",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/115/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "b193811d-7baa-4e9b-af23-8d98cd8a2b43"
-  },
-  {
-    "AlertId": "115248",
-    "Headline": "Temporary Reroute",
-    "ShortDescription": "NB J14 and 56, and WB 20, 60 and 124 buses will operate via Madison, Franklin, Randolph, and Clinton; J14, 20, 56 via Madison. 60, 124 via Clinton. ",
-    "FullDescription": {
-      "#cdata-section": "<p><u><strong>How does this affect my trip?</strong></u><br />\r\n<strong>Northbound #J14 Jeffery Jump and #56 Milwaukee, and westbound #20 Madison, #60 Blue Island/26th and #124 Navy Pier buses will operate via Madison, Franklin, Randolph, and Clinton.</strong></p>\r\n\r\n<p><strong>#J14, #20 and #56 </strong>buses will resume their normal route on Madison.</p>\r\n\r\n<p><strong>#60 and #124 </strong>buses will resume their normal route on Clinton.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.&nbsp;</p>\r\n\r\n<p><strong>Why is service being changed?</strong><br />\r\nBuses are rerouted due to a helicopter lift.&nbsp;</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-05-31T09:29:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115248"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Jump",
-          "ServiceId": "J14",
-          "ServiceBackColor": "0065BD",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Madison",
-          "ServiceId": "20",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/20/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Milwaukee",
-          "ServiceId": "56",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/56/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Blue Island/26th",
-          "ServiceId": "60",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/60/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Navy Pier",
-          "ServiceId": "124",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/124/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "315d7b6e-5c1c-40d9-b827-f065cd79059f"
-  },
-  {
     "AlertId": "115249",
     "Headline": "#8 Halsted Temporary Southbound Reroute near Halsted/Cermak",
     "ShortDescription": "Southbound #8 Halsted buses are temporarily rerouted via  Halsted, Cermak, Canal, Archer and over regular route, due to street blockage near Halsted/Cermak.",
@@ -285,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "5157fe5b-b4d9-494a-9397-40bac98f8162"
+  },
+  {
+    "AlertId": "115250",
+    "Headline": "#51 51st Temporary Reroute at 51st/Paulina",
+    "ShortDescription": "51 51st buses are temporarily rerouted in both directions via 51st, Damen, 47th, Ashland, 51st, & resume normal route, due to street blockage near 51st/Paulina",
+    "FullDescription": {
+      "#cdata-section": "<p>#51 51st buses are temporarily rerouted in both directions via 51st, Damen, 47th, Ashland, 51st, and resume normal route, due to street blockage near 51st/Paulina.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-05-31T09:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115250"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "51st",
+        "ServiceId": "51",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/51/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "75890ec7-0efe-4090-b07e-efafc348bd9b"
   }
 ]
