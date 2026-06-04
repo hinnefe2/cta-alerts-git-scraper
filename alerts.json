@@ -68,84 +68,37 @@
     "GUID": "de4ecab1-5438-43ad-a933-aebfcf7d90b2"
   },
   {
-    "AlertId": "115305",
-    "Headline": "#50 Damen buses Temporary Reroute at Damen/Wabansia",
-    "ShortDescription": "50 Damen buses are temporarily rerouted in both directions due to a street blockage near Damen/Wabansia.",
+    "AlertId": "115308",
+    "Headline": "Forest Park-bound Blue Line Delays",
+    "ShortDescription": "Blue Line trains are operating in both directions on the O'Hare bound track due to police activity at Clinton. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>#50 Damen buses are temporarily rerouted in both directions via Damen, North Avenue, Ashland, Armitage, Damen and over regular route, due to street blockage near Damen/Wabansia.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are operating in both directions on the O&#39;Hare bound track due to police activity at Clinton.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-03T16:59:00",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-06-03T19:39:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115305"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115308"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Damen",
-        "ServiceId": "50",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/50/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "7a75b65d-32d3-49ae-91c8-fdc9a13741c5"
-  },
-  {
-    "AlertId": "115307",
-    "Headline": "#4 Cottage Grove and #X4 Cottage Grove Express Temporary Southbound Reroute near Cottage Grove/76th",
-    "ShortDescription": "SB #4 Cottage Grove and #X4 Cottage Grove Exp buses are rrtd via Cottage Grove, 76th, King Dr, 79th & Cottage Grove due to police activity nr Cottage Grove/76th",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong> #4 Cottage Grove and #&nbsp;X4 Cottage Grove Express&nbsp;buses are temporarily rerouted via Cottage Grove, 76th, King Drive, 79th and Cottage Grove, then resume their normal route.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to police activity near Cottage Grove/76th.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-03T18:22:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115307"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Cottage Grove",
-          "ServiceId": "4",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/4/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Cottage Grove Express",
-          "ServiceId": "X4",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "00a078",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "044f3965-9cfb-4635-855b-f541e4462a9a"
+    "GUID": "aa000170-6a4e-459d-83b7-66c91deb63f4"
   }
 ]
