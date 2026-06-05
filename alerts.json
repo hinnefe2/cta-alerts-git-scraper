@@ -34,84 +34,95 @@
     "GUID": "a73bf02c-8b73-44bf-a5ff-5462e66a8108"
   },
   {
-    "AlertId": "115355",
-    "Headline": "#22 Clark and #152 Addison Temporary Reroute near Clark/Addison",
-    "ShortDescription": "#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
+    "AlertId": "115372",
+    "Headline": "#146 Inner Drive/Michigan Express, #2 Hyde Park Express, and #148 Clarendon/Michigan Express Temporary Southbound Reroute near State/Randolph",
+    "ShortDescription": "NB 146 Inner Drive/Michigan Express, 2 Hyde Park Express, & 148 Clarendon/Michigan Express buses are temp. rerouted due to police activity near State/Randolph.",
     "FullDescription": {
-      "#cdata-section": "<p>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.</p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #146 Inner Drive/Michigan Express, #2 Hyde Park Express, and #148 Clarendon/Michigan Express buses are temporarily rerouted via State, Randolph, Dearborn, Wacker, Michigan and over the regular route, due to police activity near State/Randolph.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-05T16:13:00",
+    "EventStart": "2026-06-05T17:41:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115355"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115372"
     },
     "ImpactedService": {
       "Service": [
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Clark",
-          "ServiceId": "22",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
+          "ServiceName": "Hyde Park Express",
+          "ServiceId": "2",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+            "#cdata-section": "http://www.transitchicago.com/bus/2/"
           }
         },
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Addison",
-          "ServiceId": "152",
-          "ServiceBackColor": "565a5c",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "b71234",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/152/"
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clarendon/Michigan Express",
+          "ServiceId": "148",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/148/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "5c259e1e-5476-48b6-a0bb-b515140e053f"
+    "GUID": "fff13e48-e55b-4ee1-a74e-a1343b285f1b"
   },
   {
-    "AlertId": "115370",
-    "Headline": "Howard-bound Red Line Delays",
-    "ShortDescription": "Howard-bound Red Line trains are running with residual delays following an earlier door problem on a train near Armitage. Service is resuming, allow extra time.",
+    "AlertId": "115373",
+    "Headline": "#29 State Temporary Northbound Reroute near State/Randolph",
+    "ShortDescription": "NB 29 State buses are temporarily rerouted via State, Randolph, Dearborn, Wacker, State and over the regular route, due to police activity near State/Randolph.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are running with residual delays following an earlier door problem on a train near Armitage.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #29 State buses are temporarily rerouted via State, Randolph, Dearborn, Wacker, State and over the regular route, due to police activity near State/Randolph.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-06-05T17:19:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-05T17:42:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115370"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115373"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "c3537aa5-ad2b-4b2a-beee-8f62da641171"
+    "GUID": "89cb5c23-3a85-49d9-ba77-56cc23c92b1e"
   }
 ]
