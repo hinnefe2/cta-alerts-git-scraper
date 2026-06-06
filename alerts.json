@@ -32,5 +32,86 @@
     },
     "ttim": "1",
     "GUID": "a73bf02c-8b73-44bf-a5ff-5462e66a8108"
+  },
+  {
+    "AlertId": "115396",
+    "Headline": "#75 74th/75th Temporary Reroute at 75th/Yates",
+    "ShortDescription": "75 74th/75th buses are temp. rerouted in both directions via 75th, Yates, 76th, South Shore, 75th and over normal route, due to police activity near 75th/Yates.",
+    "FullDescription": {
+      "#cdata-section": "<p>#75 74th/75th buses are temporarily rerouted in both directions via 75th, Yates, 76th, South Shore, 75th and over normal route, due to police activity near 75th/Yates.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-06T14:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115396"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "74th-75th",
+        "ServiceId": "75",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/75/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "38b7e6dc-c297-4a48-8a31-072e7d5af4ba"
+  },
+  {
+    "AlertId": "115397",
+    "Headline": "#22 Clark and #152 Addison Temporary Reroute near Clark/Addison",
+    "ShortDescription": "22 Clark and 152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
+    "FullDescription": {
+      "#cdata-section": "<p>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.</p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-06T14:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115397"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Addison",
+          "ServiceId": "152",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/152/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "04488e99-fa03-46a0-b8f8-d78a85334494"
   }
 ]
