@@ -34,71 +34,37 @@
     "GUID": "a73bf02c-8b73-44bf-a5ff-5462e66a8108"
   },
   {
-    "AlertId": "115415",
-    "Headline": "#22 Clark Temporary Reroute at Clark/Addison",
-    "ShortDescription": "#22 Clark buses are rerouted in both directions via Clark, Racine, Belmont, then resume their normal route on Clark due to street blockage near Clark/Addison.",
+    "AlertId": "115417",
+    "Headline": "#71 71st/South Shore Temporary Northbound Reroute near 71st/Dante",
+    "ShortDescription": "NB #71 71st/South Shore buses rerouted via 71st, Stony Island, 67th, Cottage Grove, 71st, then resume their normal route due to street blockage near 71st/Dante.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#22 Clark buses are temporarily rerouted in both directions via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Clark/Addison.</p>\r\n"
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Northbound </strong>#71 71st/South Shore buses are temporarily rerouted via 71st, Stony Island, 67th, Cottage Grove, 71st, then resume their normal route.</p>\r\n\r\n<p><strong>Southbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near 71st/Dante.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-07T21:32:00",
+    "EventStart": "2026-06-07T23:14:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115415"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115417"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Clark",
-        "ServiceId": "22",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "1975b6dd-9706-4de1-a488-72599fba6553"
-  },
-  {
-    "AlertId": "115416",
-    "Headline": "#152 Addison Temporary Reroute at Clark/Addison",
-    "ShortDescription": "#152 Addison buses are temporarily rerouted in both directions via Addison, Racine, Belmont, Halsted & Addison, due to street blockage near Clark/Addison.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#152 Addison buses are temporarily rerouted in both directions via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Clark/Addison.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-07T21:36:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115416"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Addison",
-        "ServiceId": "152",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/152/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4827ba83-e221-4e58-9e2b-43e9b922fdfe"
+    "GUID": "ad2c2855-ecba-4744-b2dd-d30355e71584"
   }
 ]
