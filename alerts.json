@@ -32,5 +32,39 @@
     },
     "ttim": "1",
     "GUID": "eb09805b-f730-4f19-bb72-617ec83aa452"
+  },
+  {
+    "AlertId": "115432",
+    "Headline": "#62 Archer Temporary Southbound Reroute near Halsted/Archer",
+    "ShortDescription": "Southbound #62 Archer buses are temp. rerouted via Archer, Cermak, Canal and Archer, then resume their normal route due to street blockage near Halsted/Archer.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound </strong>#62 Archer buses are temporarily rerouted via Archer, Cermak, Canal and Archer, then resume their normal route.</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Halsted/Archer.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-09T02:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115432"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Archer",
+        "ServiceId": "62",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/62/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "59bc4a82-75e2-4ae6-830b-3cacdf522b90"
   }
 ]
