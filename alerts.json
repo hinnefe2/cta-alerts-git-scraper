@@ -34,22 +34,22 @@
     "GUID": "eb09805b-f730-4f19-bb72-617ec83aa452"
   },
   {
-    "AlertId": "115467",
-    "Headline": "63rd-bound Green Line Service Delayed at Garfield",
-    "ShortDescription": "Attention Green Line riders, at this time, trains are standing, with Major delays, at Garfield .Crews working to restore service.",
+    "AlertId": "115468",
+    "Headline": "Delays near Ashland affecting Green Line Service",
+    "ShortDescription": "Green Line trains are experiencing a delay near Ashland due to signal problems. Updates to follow as we work to restore service. Seek alternative routes.",
     "FullDescription": {
-      "#cdata-section": "<p>Attention Green Line riders, at this time, trains are standing, with Major delays, at Western.</p>\r\n\r\n<p>At this time, consider other alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines. See station personnel for further assistance. Updates will follow.</p>\r\n"
+      "#cdata-section": "<p>Green Line trains are experiencing a delay near Ashland due to signal problems. Update to follow.</p>\r\n\r\n<p>Personnel are working to restore service and provide service alternatives until the issue is resolved and&nbsp;we hope to resume service shortly.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>These may include using buses that reach Blue Line stations on the Forest Park branch for service into downtown, or east-west service on the #20 Madison or #21 Cermak, for example.</p>\r\n\r\n<p>Updates will be posted as new information becomes available.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-06-10T16:37:00",
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2026-06-10T16:30:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115467"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115468"
     },
     "ImpactedService": {
       "Service": {
@@ -65,6 +65,74 @@
       }
     },
     "ttim": "0",
-    "GUID": "761cf565-6118-469a-a715-8ff1467c8afb"
+    "GUID": "99fd978c-ffc2-4a04-9cab-cba1cc5020f2"
+  },
+  {
+    "AlertId": "115469",
+    "Headline": "Midway-bound Orange Line trains are standing Both Directions due to Weather.",
+    "ShortDescription": "Midway-bound Orange Line trains are standing Both Directions due to Weather.\r\nCrews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>&nbsp;</p>\r\n\r\n<p>Orang&nbsp;trains are standing due to weather</p>\r\n\r\n<p>At this time, also consider other alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "60",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Significant Delays",
+    "EventStart": "2026-06-10T16:46:00",
+    "EventEnd": "2026-06-10T20:46:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115469"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "49959f10-4c91-4389-b051-4a939b671f9a"
+  },
+  {
+    "AlertId": "115470",
+    "Headline": "Delays near Ashland affecting Pink Line service",
+    "ShortDescription": "Pink Line trains are experiencing a delay near Ashland due to signal problems. Updates to follow as we work to restore service. Seek alternative routes.",
+    "FullDescription": {
+      "#cdata-section": "<p>Pink Line trains are experiencing a delay near Ashland due to signal problems. Update to follow.</p>\r\n\r\n<p>Personnel are working to restore service and provide service alternatives until the issue is resolved and&nbsp;we hope to resume service shortly.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>These may include using buses that reach Blue Line stations on the Forest Park branch for service into downtown, or east-west service on the #20 Madison or #21 Cermak, for example.</p>\r\n\r\n<p>Updates will be posted as new information becomes available.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2026-06-10T16:30:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115470"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "25dc4c01-3860-4e53-ab9e-eb6fced80bdc"
   }
 ]
