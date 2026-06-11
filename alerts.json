@@ -68,40 +68,6 @@
     "GUID": "c28f678e-4627-469a-8665-b68f247e000f"
   },
   {
-    "AlertId": "115480",
-    "Headline": "#94 California Temporary Reroute near California/45th",
-    "ShortDescription": "#94 California buses are temporarily rerouted in both directions due to street blockage near California/45th.",
-    "FullDescription": {
-      "#cdata-section": "<p>#94 California buses are temporarily rerouted in both directions due to street blockage near California/45th</p>\r\n\r\n<p><strong>Northbound </strong>buses will operate via Western,35th and, California overt the&nbsp;normal route streets.</p>\r\n\r\n<p><strong>Southbound</strong> buses will operate via Pershing, Archer, Western, 51at and California over the normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-10T19:14:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115480"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "California",
-        "ServiceId": "94",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/california/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6cd54530-c5d8-456c-82a3-b233d456ae07"
-  },
-  {
     "AlertId": "115487",
     "Headline": "#3 King Drive buses Temporary Reroute near King Drive/87th",
     "ShortDescription": "#3 King Drive buses are temporarily rerouted in both directions, due to a street blockage near King Drive/87th.",
@@ -260,5 +226,39 @@
     },
     "ttim": "0",
     "GUID": "021d08ea-6ddc-4e16-96b0-9c4db08e761a"
+  },
+  {
+    "AlertId": "115492",
+    "Headline": "#78 Montrose Temporary Southbound Reroute near Marine Drive/Montrose",
+    "ShortDescription": "Southbound #78 Montrose buses are temp. rerouted via Wilson, Clarendon and Montrose (then wait recovery time) due to street blockage near Marine Drive/Montrose.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p><strong>Southbound</strong> #78 Montrose buses are temporarily rerouted via Wilson, Clarendon and Montrose (then wait recovery time).</p>\r\n\r\n<p><strong>Northbound</strong> buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near Marine Drive/Montrose.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-11T00:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115492"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Montrose",
+        "ServiceId": "78",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/78/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0adcb0c5-1e34-420f-8ac0-03460aae9099"
   }
 ]
