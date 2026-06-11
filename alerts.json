@@ -133,7 +133,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "d65a2861-3127-4518-ac17-e8f8dcc89536"
+    "GUID": "739260a9-9386-40fc-a5d6-e7b9d51717f7"
   },
   {
     "AlertId": "115474",
@@ -171,10 +171,10 @@
   },
   {
     "AlertId": "115475",
-    "Headline": "Purple Express and Red Line Service Running with Delays",
-    "ShortDescription": "Purple and Red Line trains are running with delays significant delays follow an earlier obstruction near Jarvis. ",
+    "Headline": "Red Line and Purple Line Express Service Running with Delays",
+    "ShortDescription": "Purple and Red Line trains are running with delays after an earlier obstruction near Jarvis. ",
     "FullDescription": {
-      "#cdata-section": "<p>Purple and Red Line trains are running with delays significant delays follow an earlier obstruction near Jarvis.&nbsp;</p>\r\n\r\n<p>At this time&nbsp;consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Purple and Red Line trains are running with following&nbsp;an earlier obstruction near Jarvis.&nbsp;</p>\r\n\r\n<p>At this time&nbsp;consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "60",
     "SeverityColor": "B45F04",
@@ -214,7 +214,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "1443b4ac-9323-4a74-845e-fce585d13888"
+    "GUID": "efe8e1c7-c0e3-448a-b035-f628511d4b9f"
   },
   {
     "AlertId": "115477",
@@ -317,5 +317,39 @@
     },
     "ttim": "0",
     "GUID": "c28f678e-4627-469a-8665-b68f247e000f"
+  },
+  {
+    "AlertId": "115480",
+    "Headline": "#94 California Temporary Reroute near California/45th",
+    "ShortDescription": "#94 California buses are temporarily rerouted in both directions due to street blockage near California/45th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#94 California buses are temporarily rerouted in both directions due to street blockage near California/45th</p>\r\n\r\n<p><strong>Northbound </strong>buses will operate via Western,35th and, California overt the&nbsp;normal route streets.</p>\r\n\r\n<p><strong>Southbound</strong> buses will operate via Pershing, Archer, Western, 51at and California over the normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-10T19:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115480"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6cd54530-c5d8-456c-82a3-b233d456ae07"
   }
 ]
