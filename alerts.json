@@ -464,5 +464,120 @@
     },
     "ttim": "0",
     "GUID": "8c1eae28-0c8d-478b-8f6b-c49c8b044a64"
+  },
+  {
+    "AlertId": "115513",
+    "Headline": "Westbound #63 63rd buses & Northbound #10 Museum of Science Temporary Reroute 64th/Blackstone near ",
+    "ShortDescription": "Westbound #63 63rd buses & Northbound #10 Museum of Science temporarily rerouted due, to street blockage near 64th/Blackstone.\r\n",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #63 63rd buses are temporarily rerouted via 63rd, Stony Island, 64th, Dorchester, and 63rd over normal route due to street blockage near 64th/Blackstone.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Northbound #10 Museum of Science &amp; Industry buses are temporarily rerouted via Stony Island, 64th, Dorchester, and 63rd over normal route due to street blockage near 64th/Blackstone.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-11T11:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115513"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Obama Presidential Center/Museum of Science & Industry Express",
+          "ServiceId": "10",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/obama-presidential-centermuseum-of-science-industry-express/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "63rd",
+          "ServiceId": "63",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/63/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "36caa1d8-67df-432b-9e27-0c2943a01782"
+  },
+  {
+    "AlertId": "115514",
+    "Headline": "Kimball-bound Brown Line Delays",
+    "ShortDescription": "Kimball-bound Brown Line trains are running w/residual delays and congestion following an mechanical problem at Kedzie. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Kimball-bound Brown Line trains are running w/residual delays and congestion following an mechanical problem at Kedzie.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-06-11T12:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115514"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a59348a0-1cef-4a09-9c96-aced6e9bdcab"
+  },
+  {
+    "AlertId": "115515",
+    "Headline": "#111A Pullman Shuttle buses Temporary Reroute at near 111th/Ellis",
+    "ShortDescription": "#111A Pullman Shuttle buses are temporarily rerouted in both directions, due to street blockage near 111th/Ellis.",
+    "FullDescription": {
+      "#cdata-section": "<p>#111A Pullman Shuttle buses are temporarily rerouted in both directions via Woodlawn, Doty, 115th, Cottage Grove and over regular route, due to street blockage near 111th/Ellis.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-11T12:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115515"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pullman Shuttle",
+        "ServiceId": "111A",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/111a/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "49f41a42-27e4-4fd9-a5ae-96e2581d6244"
   }
 ]
