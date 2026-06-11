@@ -34,40 +34,6 @@
     "GUID": "eb09805b-f730-4f19-bb72-617ec83aa452"
   },
   {
-    "AlertId": "115479",
-    "Headline": "#82 Kimball-Homan Temporary Reroute near Kimball/Armitage",
-    "ShortDescription": "#82 Kimball-Homan SB buses are temporarily rerouted via: Kimball, Kedzie, North Ave and Homan due to street blockage near Kimball/Armitage.   ",
-    "FullDescription": {
-      "#cdata-section": "<p>#82 Kimball-Homan Southbound buses are temporarily rerouted via: Kimball, Kedzie, North Ave and Homan due to street blockage near Kimball/Armitage.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-10T18:58:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115479"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c28f678e-4627-469a-8665-b68f247e000f"
-  },
-  {
     "AlertId": "115487",
     "Headline": "#3 King Drive buses Temporary Reroute near King Drive/87th",
     "ShortDescription": "#3 King Drive buses are temporarily rerouted in both directions, due to a street blockage near King Drive/87th.",
@@ -296,40 +262,6 @@
     "GUID": "b26dfb6f-ed46-42de-bf87-c84a20ade035"
   },
   {
-    "AlertId": "115497",
-    "Headline": "Yellow Line Service Temporarily Suspended",
-    "ShortDescription": "Service on the Yellow Line has been temporarily suspended due to an obstruction on the tracks near Oakton. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Service on the Yellow Line has been temporarily suspended due to an obstruction on the tracks near Oakton.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.&nbsp;</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#97 Skokie</p>\r\n\r\n<p>Shuttles buses are available from Howard to Skokie to provide connecting service though the affected area.</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "90",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Suspended",
-    "EventStart": "2026-06-11T05:36:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "1",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115497"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Yellow Line",
-        "ServiceId": "Y",
-        "ServiceBackColor": "f9e300",
-        "ServiceTextColor": "000000",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/yellowline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "88d0ddbd-a220-4769-8bc1-d0a71932a933"
-  },
-  {
     "AlertId": "115498",
     "Headline": "#3 King Drive buses Temporary Reroute at King Drive/86th",
     "ShortDescription": "3 King Drive buses are temporarily rerouted in both directions, due to street blockage near King Drive/86th.",
@@ -430,5 +362,39 @@
     },
     "ttim": "0",
     "GUID": "eb19ca9d-fdbd-48e2-b36d-0192390a41ec"
+  },
+  {
+    "AlertId": "115504",
+    "Headline": "#43 43rd buses Temporary Westbound Reroute near 43rd/Oakenwald",
+    "ShortDescription": "Westbound 43 43rd buses are temporarily rerouted via 43rd, Lake Park, 42nd, Berkley, 43rd and over regular route, due to street blockage near 43rd/Oakenwald.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #43 43rd buses are temporarily rerouted via 43rd, Lake Park, 42nd, Berkley, 43rd and over regular route, due to street blockage near 43rd/Oakenwald.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-11T08:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115504"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "43rd",
+        "ServiceId": "43",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/43/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0b9a266b-1a56-41d4-8852-b6ed8feef4e2"
   }
 ]
