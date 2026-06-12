@@ -226,5 +226,107 @@
     },
     "ttim": "0",
     "GUID": "c6dca518-dcb8-4a46-8384-a4cbcf8ee1c8"
+  },
+  {
+    "AlertId": "115532",
+    "Headline": "#111A Pullman Shuttle buses Temporary Reroute at 111th/Langley",
+    "ShortDescription": "111A Pullman Shuttle buses are temporarily rerouted in both directions, due to street blockage near 111th/Langley.",
+    "FullDescription": {
+      "#cdata-section": "<p>#111A Pullman Shuttle buses are temporarily rerouted in both directions via Woodlawn, Doty, 115th, Cottage Grove and over regular route, due to street blockage near 111th/Langley.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-12T07:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115532"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pullman Shuttle",
+        "ServiceId": "111A",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/111a/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "02ef9d65-43be-4e5e-af9d-db42deca98b6"
+  },
+  {
+    "AlertId": "115533",
+    "Headline": "Kimball-bound Brown Line Service Delayed at Damen",
+    "ShortDescription": "Kimball-bound Brown Line trains are standing at Damen due to a door problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Kimball-bound Brown Line trains are standing at Damen due to a door problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-06-12T08:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115533"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6321d307-48f5-4262-9ace-d94933ed3dc4"
+  },
+  {
+    "AlertId": "115534",
+    "Headline": "Blue Line Service Delayed at Division",
+    "ShortDescription": "Blue Line trains are standing at Division due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are standing at Division due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-06-12T08:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115534"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "da52b056-c0ea-4458-8c0b-f4b1b497c6ed"
   }
 ]
