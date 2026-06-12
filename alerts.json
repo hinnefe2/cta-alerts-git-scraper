@@ -168,5 +168,63 @@
     },
     "ttim": "0",
     "GUID": "3a20400c-7d82-4515-931e-a0e2c79bee9c"
+  },
+  {
+    "AlertId": "115528",
+    "Headline": "#15 Jeffery Local buses Temporary Southbound  Reroute near Stony Island/59th",
+    "ShortDescription": "Southbound #15 Jeffery Local,  #28 Stony Island, & #6 Jackson Park Express buses are temporarily rerouted, due to a street blockage near Stony Island/59th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #15 Jeffery Local,&nbsp; #28 Stony Island, &amp; #6 Jackson Park Express buses are temporarily rerouted via Stony Island, 59th, Dorchester, Midway Plaisance, and Stony Island then to resume over regular route, due to a street blockage near Stony Island/59th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-12T06:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115528"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stony Island",
+          "ServiceId": "28",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/28/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c6dca518-dcb8-4a46-8384-a4cbcf8ee1c8"
   }
 ]
