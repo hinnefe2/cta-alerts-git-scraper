@@ -168,5 +168,39 @@
     },
     "ttim": "0",
     "GUID": "3a20400c-7d82-4515-931e-a0e2c79bee9c"
+  },
+  {
+    "AlertId": "115548",
+    "Headline": "#70 Division Temporary Reroute near Division/Western",
+    "ShortDescription": "70 Division buses are temporarily rerouted in both directions, due to street blockage near Division/Western.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#70 Division buses are temporarily rerouted in both directions, due to street blockage near Division/Western.</strong></p>\r\n\r\n<p><strong>Westbound</strong> buses will operate via Division, Damen, Chicago, Grand, Homan, Division and resume normal route.</p>\r\n\r\n<p><strong>Eastbound </strong>buses will operate via Division, Homan, Grand, Chicago, Damen, Division and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-12T19:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115548"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Division",
+        "ServiceId": "70",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/70/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a8cb46c8-5325-485e-ae49-d44d74d2b917"
   }
 ]
