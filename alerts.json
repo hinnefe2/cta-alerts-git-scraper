@@ -208,7 +208,7 @@
     "Headline": "#72 North Temporary Eastbound Reroute near North Ave/Mohawk",
     "ShortDescription": "Eastbound 72 North buses are temporarily rerouted due to street blockage near North Ave/Mohawk.",
     "FullDescription": {
-      "#cdata-section": "<p>Eastbound #72 North buses are temporarily rerouted via North Ave, Halsted, Armitage, Lasalle,&nbsp;North Ave and over regular route, due to street blockage near North Ave/Mohawk.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Eastbound #72 North buses are temporarily rerouted via North Ave, Halsted, Armitage, Lasalle,&nbsp; North Ave and over regular route, due to street blockage near North Ave/Mohawk.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -235,6 +235,74 @@
       }
     },
     "ttim": "0",
-    "GUID": "ad55c6c4-262f-4c4c-9ce6-9691e95919ba"
+    "GUID": "503cd2d2-223f-472e-b50c-a93663951592"
+  },
+  {
+    "AlertId": "115567",
+    "Headline": "#43 43rdTemporary Westbound Reroute near 43rd/Cottage Grove",
+    "ShortDescription": "WB 43 43rd buses are temp. rerouted via 43rd, Cottage Grove, Pershing, King Drive, 43rd and over regular route, due to street blockage near 43rd/Cottage Grove.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #43 43rd buses are temporarily rerouted via 43rd, Cottage Grove, Pershing, King Drive, 43rd and over regular route, due to street blockage near 43rd/Cottage Grove.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-13T18:34:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115567"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "43rd",
+        "ServiceId": "43",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/43/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8aa57c12-0452-4870-bb5a-36a566f0d64d"
+  },
+  {
+    "AlertId": "115568",
+    "Headline": "#63 63rd Temporary Reroute at 63rd/Stony Island",
+    "ShortDescription": "63 63rd buses will terminate at 63rd/Stony Island due to a beach terminal closure because of overcrowding.",
+    "FullDescription": {
+      "#cdata-section": "<p>#63 63rd buses will terminate at 63rd/Stony Island due to a beach terminal closure because of overcrowding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-13T18:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115568"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b2ae387c-617d-48ec-be75-734a7932fd48"
   }
 ]
