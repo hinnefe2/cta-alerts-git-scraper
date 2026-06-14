@@ -100,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "559d8e70-51c6-4c56-b276-7fa30a44ad2e"
+  },
+  {
+    "AlertId": "115582",
+    "Headline": "#94 California Temporary Reroute at California/Division",
+    "ShortDescription": "94 California buses are temporarily rerouted in both directions, due to street blockage near California/Division.",
+    "FullDescription": {
+      "#cdata-section": "<p>#94 California buses are temporarily rerouted in both directions via California, Chicago, Western, Milwaukee, California and over regular route, due to street blockage near California/Division.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-14T16:16:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115582"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0ed97823-2528-4f3b-aefa-dbb57da42f34"
   }
 ]
