@@ -35,10 +35,10 @@
   },
   {
     "AlertId": "115572",
-    "Headline": "Eastbound #87 87th & #30 South Chicago buses Temporary Reroute near 91st/Burley",
-    "ShortDescription": "Eastbound #87 87th & #30 South Chicago buses in both directions are temporarily rerouted, due to street a blockage near 91st/Burley.",
+    "Headline": "Eastbound #87 87th, #95 95th & #30 South Chicago buses Temporary Reroute near 91st/Burley",
+    "ShortDescription": "Eastbound #87 87th, #95 95th & #30 South Chicago buses in both directions are temporarily rerouted, due to street a blockage near 91st/Burley.",
     "FullDescription": {
-      "#cdata-section": "<p>Eastbound #87 87th buses are temporarily rerouted via Buffalo, 92nd, Houston, 91st, then resume their normal route, due to street blockage near 91st/Burley.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>#30 South Chicago buses are are temporarily rerouted in both directions via South Chicago, 92nd, Burley, and 91st over regular route.</p>\r\n\r\n<p>Why is service being changed?</p>\r\n\r\n<p>Buses are rerouted due to a street blockage near 91st/Burley.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>How does this affect my trip?</p>\r\n\r\n<p>Eastbound #87 87th buses are temporarily rerouted via Buffalo, 92nd, Brandon, 93rd, Baltimore, 91st and over regular route, due to street blockage near 91st/Burley.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Northbound #30 South Chicago buses will operate via ewing, Harbor Avenue, 93rd, Baltimore, 91st and over regular route.<br />\r\nSouthbound #30 South Chicago buses will operate via South Chicago, 93rd, Brandon, and 91st over regular route.</p>\r\n\r\n<p>Eastbound #95 95th buses will operate via 92nd, Houston, 93rd, Burley, 91st and over regular route.<br />\r\nWestbound #95 95th will operate via 91st, Brandon, 93rd, Houston, 92nd and over regular route.</p>\r\n\r\n<p>Why is service being changed?</p>\r\n\r\n<p>Buses are rerouted due to a street blockage near 91st/Burley.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -74,10 +74,21 @@
           "ServiceURL": {
             "#cdata-section": "http://www.transitchicago.com/bus/87/"
           }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "52e6b429-5e73-4870-a466-ad5c88fb7497"
+    "GUID": "2d4ab718-6744-48f7-94e4-707232c48db2"
   }
 ]
