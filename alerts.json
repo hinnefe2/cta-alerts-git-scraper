@@ -34,74 +34,6 @@
     "GUID": "eb09805b-f730-4f19-bb72-617ec83aa452"
   },
   {
-    "AlertId": "115581",
-    "Headline": "#70 Division Temporary Reroute at Division/Western",
-    "ShortDescription": "70 Division buses are temporarily rerouted in both directions due to a street blockage near Division/Western.",
-    "FullDescription": {
-      "#cdata-section": "<p>#70 Division buses are temporarily rerouted in both directions via Division, Homan, Grand, Chicago, Western, Division and over normal route, due to a street blockage near Division/Western.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-14T15:43:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115581"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Division",
-        "ServiceId": "70",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/70/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "05abed0a-0cc0-4cf6-83c6-3c8c03869701"
-  },
-  {
-    "AlertId": "115582",
-    "Headline": "#94 California Temporary Reroute at California/Division",
-    "ShortDescription": "94 California buses are temporarily rerouted in both directions, due to street blockage near California/Division.",
-    "FullDescription": {
-      "#cdata-section": "<p>#94 California buses are temporarily rerouted in both directions via California, Chicago, Western, Milwaukee, California and over regular route, due to street blockage near California/Division.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-14T16:16:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115582"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "California",
-        "ServiceId": "94",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/california/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0ed97823-2528-4f3b-aefa-dbb57da42f34"
-  },
-  {
     "AlertId": "115585",
     "Headline": "#94 California Temporary Reroute at California/38th",
     "ShortDescription": "#94 California buses are temporarily rerouted in both directions, due to police activity near California/38th.",
@@ -134,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "a72bdbaa-2acd-4b37-99d7-451d20cc0883"
+  },
+  {
+    "AlertId": "115587",
+    "Headline": "#79 79th Temporary Reroute at 79th/Wolcott",
+    "ShortDescription": "79 79th buses are temporarily rerouted in both directions via 79th, Damen, 74th, Ashland, 79th, and over normal route, due to street blockage near 79th/Wolcott.",
+    "FullDescription": {
+      "#cdata-section": "<p>#79 79th buses are temporarily rerouted in both directions via 79th, Damen, 74th, Ashland, 79th, and over normal route, due to street blockage near 79th/Wolcott.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-15T00:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115587"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8598bae7-673c-4da1-95e6-37e7d4701ce2"
   }
 ]
