@@ -79,5 +79,63 @@
     },
     "ttim": "0",
     "GUID": "477b35c9-9035-4b2c-9dc2-b8f73a62cc6e"
+  },
+  {
+    "AlertId": "115622",
+    "Headline": "#95 95th, #108 Halsted/95th and #112 Vincennes/111th Temporary Reroute near 95th/Eggleston",
+    "ShortDescription": "#95 95th, #108 Halsted/95th and #112 Vincennes/111th buses are temporarily rerouted in both directions due to street blockage near 95th/Eggleston.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#95 95th, #108 Halsted/95th and #112 Vincennes/111th buses are temporarily rerouted in both directions due to street blockage near 95th/Eggleston.</strong></p>\r\n\r\n<p>#95 95th buses will be rerouted in both directions via 95th, Halsted, 87th, Lafayette, 95th and over regular route.</p>\r\n\r\n<p>#108 Halsted/95th and #112 Vincennes/111th buses will be rerouted in both directions via Halsted, 87th, Lafayette, 95th and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-16T20:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115622"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Halsted/95th",
+          "ServiceId": "108",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "565a5c",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/108/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Vincennes/111th",
+          "ServiceId": "112",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/112/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "61cb99d2-e84a-430e-b8f2-a9c315f80825"
   }
 ]
