@@ -1,70 +1,36 @@
 [
   {
-    "AlertId": "115640",
-    "Headline": "#34 South Michigan Temporary Reroute at Indiana/127th",
-    "ShortDescription": "#34 South Michigan buses are temporarily rerouted in both directions via 127th, Indiana, 134th, Langley and 131st over the normal route. ",
+    "AlertId": "115645",
+    "Headline": "#N66 Chicago Temporary Reroute at North Water/City Front Plaza",
+    "ShortDescription": "N66 Chicago buses are temporarily rerouted in both directions, due to street blockage near North Water/City Front Plaza. ",
     "FullDescription": {
-      "#cdata-section": "<p>How does this affect my trip?</p>\r\n\r\n<p>#34 South Michigan buses are temporarily rerouted in both directions via 127th, Indiana, 134th, Langley and 131st over the&nbsp;normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>Why is service being changed?</p>\r\n\r\n<p>Buses are rerouted due to street blockage near Indiana/127th.</p>\r\n"
+      "#cdata-section": "<p>#N66 Chicago buses are temporarily rerouted in both directions via North Water, Columbus, Randolph, Michigan, then resume their normal route, due to street blockage near North Water/City Front Plaza.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-17T19:57:00",
+    "EventStart": "2026-06-18T02:03:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115640"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115645"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Michigan",
-        "ServiceId": "34",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
         "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/34/"
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "d34c55c8-10eb-4e66-bb0c-5e6a6414585c"
-  },
-  {
-    "AlertId": "115643",
-    "Headline": "Northbound #50 Damen Temporary Reroute near  Damen/18th",
-    "ShortDescription": "Northbound #50 Damen buses are temporarily rerouted via Damen, 18th, Ashland, Roosevelt and Damen then resume their normal route.   ",
-    "FullDescription": {
-      "#cdata-section": "<p>How does this affect my trip?</p>\r\n\r\n<p>Northbound #50 Damen buses are temporarily rerouted via Damen, 18th, Ashland, Roosevelt and Damen then resume their normal route.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>Why is service being changed?</p>\r\n\r\n<p>Buses are rerouted due to street blockage near Damen/18th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-17T21:22:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115643"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Damen",
-        "ServiceId": "50",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/50/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "261dfc44-3144-4a4c-9e1d-af4b54c99529"
+    "GUID": "ceb021da-de5f-4b46-a528-c5beb4c00811"
   }
 ]
