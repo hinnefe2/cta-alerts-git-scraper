@@ -1,37 +1,50 @@
 [
   {
-    "AlertId": "115686",
-    "Headline": " #82 Temporary Reroute at Kimball/Bloomingdale",
-    "ShortDescription": "Northbound #82 Kimball-Homan buses are temporarily rerouted via Homan, North Avenue, Kedzie, Armitage and Homan near Kimball/Bloomingdale. ",
+    "AlertId": "115695",
+    "Headline": "Loop- Bound Brown Line Service Delayed at Western",
+    "ShortDescription": "Loop- Bound Brown Line trains are standing at Western due to a mechanical problem. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #82 Kimball-Homan buses are temporarily rerouted via Homan, North Avenue, Kedzie, Armitage and Homan due to street blockage near Kimball/Bloomingdale.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Loop- Bound Brown Line trains are standing at Western due to a mechanical problem.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-20T05:18:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-06-20T11:05:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115686"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115695"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Western",
+          "ServiceId": "41480",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=135"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "3d70a342-8151-4362-a778-73a240bb3d1c"
+    "GUID": "58175fa6-55f8-4906-9738-062f515fbad3"
   },
   {
     "AlertId": "115691",
@@ -66,5 +79,39 @@
     },
     "ttim": "0",
     "GUID": "d7882a3d-9c27-4d42-b005-3506c1587e55"
+  },
+  {
+    "AlertId": "115694",
+    "Headline": "#20 Madison Temporary Reroute at Madison/Sacramento",
+    "ShortDescription": "20 Madison buses are temporarily rerouted via Madison, California, Jackson, Central Park and Madison: due to, Festival near Madison/Sacramento.",
+    "FullDescription": {
+      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted via Madison, California, Jackson, Central Park and Madison: due to, Festival near Madison/Sacramento.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-20T10:56:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115694"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "db993286-4573-4f17-bfc8-84dfebd34b2a"
   }
 ]
