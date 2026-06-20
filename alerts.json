@@ -34,40 +34,6 @@
     "GUID": "f8d640ed-669f-4ecc-8613-ec1f71664408"
   },
   {
-    "AlertId": "115684",
-    "Headline": "#95 95th Temporary Reroute near 95th/Wentworth",
-    "ShortDescription": "#95 95th buses are temporarily rerouted in both directions due to street blockage near 95th/Wentworth.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>#95 95th </strong>buses are temporarily rerouted in both directions due to street blockage near 95th/Wentworth.</p>\r\n\r\n<ul>\r\n\t<li><strong>Westbound</strong> buses will operate via 95th, Wentworth, 97th, Normal and 95th then resume their regular route.&nbsp;</li>\r\n\t<li><strong>Eastbound</strong> buses will operate via 95th, Halsted, 87th, Lafayette and 95th then resume their regular route.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-20T02:09:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115684"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "95th",
-        "ServiceId": "95",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/95/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4e01f58f-988f-43f0-a913-7ab4c8a10998"
-  },
-  {
     "AlertId": "115685",
     "Headline": "#92 Foster Temporary Reroute near Foster/Kolmar",
     "ShortDescription": "Eastbound #92 Foster buses are temporarily rerouted via Foster, Elston, Lawrence, Pulaski and Foster near Foster/Kolmar.",
@@ -134,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "3d70a342-8151-4362-a778-73a240bb3d1c"
+  },
+  {
+    "AlertId": "115687",
+    "Headline": "#71 71st/South Shore Temporary Northbound Reroute near Yates/72nd",
+    "ShortDescription": "Northbound 71 71st/South Shore buses are temporarily rerouted via 75th, Exchange and 71st: due to, police activity near Yates/72nd.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #71 71st/South Shore buses are temporarily rerouted via 75th, Exchange and 71st: due to, police activity near Yates/72nd.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-20T05:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115687"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "71st/South Shore",
+        "ServiceId": "71",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/71/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c7528423-fae5-4e03-a758-e40d38d11a23"
   }
 ]
