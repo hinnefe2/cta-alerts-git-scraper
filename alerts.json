@@ -1,70 +1,36 @@
 [
   {
-    "AlertId": "115681",
-    "Headline": "#43 43rd Temporary Eastbound Reroute near LaSalle/43rd",
-    "ShortDescription": "Eastbound 43 43rd buses are temporarily rerouted via 47th, State, 43rd, resume their normal route due to street blockage near LaSalle/43rd.",
+    "AlertId": "115683",
+    "Headline": "Westbound #75 74th-75th buses are temporarily rerouted near 75th/Perry",
+    "ShortDescription": "Westbound #75 74th-75th buses are temporarily rerouted via 79th, Lafayette, 76th, Vincennes and 75th. ",
     "FullDescription": {
-      "#cdata-section": "<p>Eastbound #43 43rd buses are temporarily rerouted via 47th, State, 43rd, resume their normal route due to street blockage near LaSalle/43rd.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #75 74th-75th buses are temporarily rerouted via 79th, Lafayette, 76th, Vincennes and over the normal route, due to street blockage near 75th/Perry.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-19T21:19:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventStart": "2026-06-20T00:11:00",
+    "EventEnd": "2026-06-23T00:11:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115681"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115683"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "43rd",
-        "ServiceId": "43",
+        "ServiceName": "74th-75th",
+        "ServiceId": "75",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/43/"
+          "#cdata-section": "http://www.transitchicago.com/bus/75/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "415f59c0-9dab-4a46-a11c-ca61f698b784"
-  },
-  {
-    "AlertId": "115682",
-    "Headline": "#70 Division Temporary Reroute near Division/Lockwood",
-    "ShortDescription": "#70 Division buses are temporary rerouted in both direction due to police activity near Division/Lockwood.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>#70 Division </strong>buses are temporary rerouted due to&nbsp;police activity near Division/Lockwood.</p>\r\n\r\n<ul>\r\n\t<li><strong>Eastbound</strong> buses will operate via Division, Central, Augusta, Laramie and Division then over normal route.</li>\r\n\t<li><strong>Westbound</strong> buses will operate via Division, Laramie, Augusta, Central and Austin then over normal route.</li>\r\n</ul>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-19T23:46:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115682"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Division",
-        "ServiceId": "70",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/70/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d100ec9b-b0b8-4363-9b6b-5a0a90d2dbe4"
+    "GUID": "f8d640ed-669f-4ecc-8613-ec1f71664408"
   }
 ]
