@@ -1,5 +1,73 @@
 [
   {
+    "AlertId": "115705",
+    "Headline": "Howard- bound Red Line Service Delayed 79th.",
+    "ShortDescription": "Howard-bound Red Line trains are standing 79th due to mechanical problems. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red&nbsp;Line trains are&nbsp;standing 79th due to mechanical problems.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-06-21T17:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115705"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ac500b00-765b-47f8-a7a3-0ecdfd87b06e"
+  },
+  {
+    "AlertId": "115706",
+    "Headline": "Kimball-bound Brown Line trains are standing LaSalle/Van Buren ",
+    "ShortDescription": "Kimball-bound Brown Line trains are standing LaSalle/Van Buren due to door problems. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Kimball-bound Brown Line trains are&nbsp;standing&nbsp;LaSalle/Van Buren&nbsp;due to door problems.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-06-21T17:36:00",
+    "EventEnd": "2026-06-21T20:36:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115706"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f273f045-aa09-4f90-aab9-7910a9c8ace8"
+  },
+  {
     "AlertId": "115700",
     "Headline": "#63 63rd Temporary Reroute at 63rd/Stony Island",
     "ShortDescription": "#63 63rd buses will terminate at 63rd/Stony Island due to a beach terminal closure because of overcrowding.",
