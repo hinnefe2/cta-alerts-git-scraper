@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "115715",
-    "Headline": "#126 Jackson buses Temporary Eastbound Reroute near Jackson/Racine",
-    "ShortDescription": "Eastbound #126 Jackson buses are temporarily rerouted, due to a street blockage near Jackson/Racine.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #126 Jackson buses are temporarily rerouted via Jackson, Racine, Harrison, Morgan, and Jackson resuming over regular route, due to a street blockage near Jackson/Racine.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-22T10:01:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115715"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson",
-        "ServiceId": "126",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/126/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b8a2f881-8e1b-4e0e-aefb-a4647684d24a"
-  },
-  {
     "AlertId": "115700",
     "Headline": "#63 63rd Temporary Reroute at 63rd/Stony Island",
     "ShortDescription": "#63 63rd buses will terminate at 63rd/Stony Island due to a beach terminal closure because of overcrowding.",
@@ -100,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "2885ef9d-0b79-4c44-a218-08c3fcae2051"
+  },
+  {
+    "AlertId": "115715",
+    "Headline": "#126 Jackson buses Temporary Eastbound Reroute near Jackson/Racine",
+    "ShortDescription": "Eastbound #126 Jackson buses are temporarily rerouted, due to a street blockage near Jackson/Racine.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #126 Jackson buses are temporarily rerouted via Jackson, Racine, Harrison, Morgan, and Jackson resuming over regular route, due to a street blockage near Jackson/Racine.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-22T10:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115715"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson",
+        "ServiceId": "126",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/126/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b8a2f881-8e1b-4e0e-aefb-a4647684d24a"
   }
 ]
