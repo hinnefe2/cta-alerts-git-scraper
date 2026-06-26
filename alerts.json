@@ -65,6 +65,64 @@
       }
     },
     "ttim": "0",
-    "GUID": "42b0763c-ac7f-4d35-b37e-5d886ee4e412"
+    "GUID": "c315e964-f2ac-48d3-80c1-47c505a18bea"
+  },
+  {
+    "AlertId": "115803",
+    "Headline": "#136 Sheridan/LaSalle Express, #147 Outer DuSable Lake Shore Express, #151 Sheridan Temporary Reroute at Sheridan/Berwyn",
+    "ShortDescription": "136 , 147 , 151 buses are temporarily rerouted via Sheridan, Bryn Mawr, Broadway, Foster and Sheridan due to fire department activity near Sheridan/Berwyn.",
+    "FullDescription": {
+      "#cdata-section": "<p>#136 Sheridan/LaSalle Express, #147 Outer DuSable Lake Shore Express, #151 Sheridan&nbsp; buses are temporarily rerouted via Sheridan, Bryn Mawr, Broadway, Foster and Sheridan due to, fire department activity near Sheridan/Berwyn</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-26T07:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115803"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan/LaSalle Express",
+          "ServiceId": "136",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/136/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "402b6501-1ad3-46e8-b573-5f5b7a3be298"
   }
 ]
