@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "115812",
+    "Headline": "#66 Chicago and #82 Kimball/Homan  Temporary Reroute near Chicago/Homan",
+    "ShortDescription": "#66 Chicago and #82 Kimball/Homan buses are temporarily rerouted in both directions near Chicago/Homan due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#66 Chicago and #82 Kimball/Homan buses are temporarily rerouted in both directions near Chicago/Homan due to police activity.</strong></p>\r\n\r\n<p><strong>#66 Chicago </strong>buses are temporarily rerouted in both directions via Chicago, Kedzie, Augusta, Hamlin, Chicago and over normal route.&nbsp;</p>\r\n\r\n<p><strong>#82 Kimball/Homan</strong> buses are temporarily rerouted in both directions:</p>\r\n\r\n<p><strong>Southbound </strong><span style=\"font-weight: bolder;\">#82 Kimball/Homan&nbsp;</span><strong>buses</strong> will operate via Homan, Augusta, Hamlin, Ferdinand, Homan and over normal route.</p>\r\n\r\n<p><strong>Northbound </strong><span style=\"font-weight: bolder;\">#82 Kimball/Homan&nbsp;</span><strong>buses</strong> will operate via Homan, Franklin, Hamlin, Augusta, Homan and over normal route.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-06-26T16:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115812"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Chicago",
+          "ServiceId": "66",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/66/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Kimball-Homan",
+          "ServiceId": "82",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/82/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "60ba7d56-71c3-47f2-b157-b1039d1d74bf"
+  }
+]
