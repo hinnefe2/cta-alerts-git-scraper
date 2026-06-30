@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "6f7c5e50-9a5c-45ae-b2a5-947bc1479874"
+  },
+  {
+    "AlertId": "115881",
+    "Headline": "No trains between Belmont and Kimball",
+    "ShortDescription": "Brown Line service has been temporarily suspended between Belmont and Kimball due to a medical emergency on the track at Addison.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line service has been temporarily suspended between Belmont and Kimball due to a medical emergency on the track at Addison.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Clark/Lake and Belmont at this time.</strong></p>\r\n\r\n<p><strong>&nbsp;Shuttle buses&nbsp; have been requested from Belmont to Kimball&nbsp;to provide connecting service through the affected area</strong>.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p># 8 Halsted</p>\r\n\r\n<p>#81 W West Lawrence</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2026-06-30T09:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115881"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Addison",
+          "ServiceId": "41440",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=16"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ff2b7f62-06b2-4c5c-904c-9a87dfd956dc"
   }
 ]
