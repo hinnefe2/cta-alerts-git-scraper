@@ -1,55 +1,55 @@
 [
   {
-    "AlertId": "115878",
-    "Headline": "#30 South Chicago Temporary Reroute at South Chicago/75th",
-    "ShortDescription": "30 South Chicago buses are temporarily rerouted via South Chicago, 76th, Greenwood and South Chicago: due to, street blockage near South Chicago/75th.",
+    "AlertId": "115885",
+    "Headline": "#75 74th-75th Temporary Westbound Reroute near 75th/South Chicago",
+    "ShortDescription": "Westbound  75 74th-75th buses are temporarily rerouted via 75th, Stony Island, 76th, Greenwood and 75th: due to, street blockage near 75th/South Chicago.",
     "FullDescription": {
-      "#cdata-section": "<p>#30 South Chicago buses are temporarily rerouted via South Chicago, 76th, Greenwood and South Chicago: due to, street blockage near South Chicago/75th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound&nbsp;#75 74th-75th buses are temporarily rerouted via 75th, Stony Island, 76th, Greenwood and 75th: due to, street blockage near 75th/South Chicago.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-30T07:12:00",
+    "EventStart": "2026-06-30T13:01:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115878"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115885"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Chicago",
-        "ServiceId": "30",
+        "ServiceName": "74th-75th",
+        "ServiceId": "75",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/30/"
+          "#cdata-section": "http://www.transitchicago.com/bus/75/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "6f7c5e50-9a5c-45ae-b2a5-947bc1479874"
+    "GUID": "51feabf5-f4b2-49ed-bdf6-efd263385d81"
   },
   {
-    "AlertId": "115881",
-    "Headline": "Brown Line Trains bypassing Addison",
-    "ShortDescription": "Brown Line trains are running, but not stopping at  Addison due to a medical emergency on the tracks.",
+    "AlertId": "115884",
+    "Headline": "Brown Line Delays",
+    "ShortDescription": "Brown Line trains are running w/residual delays following an earlier medical emergency on the tracks at Addison. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are running, but not stopping at&nbsp; Addison due to a medical emergency on the tracks.</p>\r\n\r\n<p><strong>Shuttles buses are available from Irving Park to Paulina to provide connecting service through the affected area.</strong></p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+      "#cdata-section": "<p>Brown Line trains are running w/residual delays following an earlier medical emergency on the tracks at Addison</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "58",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2026-06-30T09:53:00",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-06-30T12:46:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115881"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115884"
     },
     "ImpactedService": {
       "Service": [
@@ -78,6 +78,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "c272645a-3cc8-4e27-a0a5-807d1263092f"
+    "GUID": "8896c4b4-e792-4686-a869-570a586494b2"
   }
 ]
