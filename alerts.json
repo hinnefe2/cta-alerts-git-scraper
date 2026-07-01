@@ -1,36 +1,60 @@
 [
   {
-    "AlertId": "115892",
-    "Headline": "#50 Damen Temporary Reroute at Damen/Irving Park",
-    "ShortDescription": "50 Damen buses are temp. rerouted in both directions via Damen, Montrose, Lincoln, Damen & over normal route, due to street blockage near Damen/Irving Park.",
+    "AlertId": "115898",
+    "Headline": "#95 95th, #108 Halsted/95th and #112 Vincennes/111th Temporary Reroute near 95th/Normal",
+    "ShortDescription": "#95 95th, #108 Halsted/95th and #112 Vincennes/111th buses are temporarily rerouted in both directions near 95th/Normal, due to a street blockage.",
     "FullDescription": {
-      "#cdata-section": "<p>#50 Damen buses are temporarily rerouted in both directions via Damen, Montrose, Lincoln, Damen and over normal route, due to street blockage near Damen/Irving Park.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><span style=\"font-weight: bolder;\">#95 95th, #108 Halsted/95th and #112 Vincennes/111th buses are temporarily rerouted in both directions near 95th/Normal, due to a street blockage.</span></p>\r\n\r\n<p><strong>#95 95th buses</strong> will be rerouted in both directions via 95th, Halsted, 87th, Lafayette, 95th and over regular route.</p>\r\n\r\n<p><strong>#108 Halsted/95th buses</strong> will operate in both directions via :</p>\r\n\r\n<p><strong>Southbound</strong>: 95th, State, 87th, Halsted, 95th, and over&nbsp;normal route.</p>\r\n\r\n<p><strong>Northbound</strong>: Halsted, 87th, Lafayette, 95th, and over&nbsp;normal route.</p>\r\n\r\n<p>Allow extra travel time.&nbsp;&nbsp;</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-30T16:18:00",
+    "EventStart": "2026-06-30T20:01:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115892"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115898"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Damen",
-        "ServiceId": "50",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/50/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Halsted/95th",
+          "ServiceId": "108",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "565a5c",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/108/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Vincennes/111th",
+          "ServiceId": "112",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/112/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "b2853cf0-f006-49f5-9379-dd9355903b2e"
+    "GUID": "7f9fc989-7e7e-4693-bd7d-778d23191b4e"
   }
 ]
