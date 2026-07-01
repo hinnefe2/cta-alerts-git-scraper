@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "115925",
+    "Headline": "#26 South Shore Express and #30 South Chicago Temporary Reroute at Ewing/Harbor",
+    "ShortDescription": "26 South Shore Express and 30 South Chicago buses are temporarily, due to street blockage near Ewing/Harbor/",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#26 South Shore Express and #30 South Chicago buses are temporarily rerouted via Harbor, South Chicago, 95th, Ewing and over normal route, due to street blockage near Ewing/Harbor.</strong></p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-01T16:35:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115925"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Chicago",
+          "ServiceId": "30",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/30/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "8e95addb-ad58-4d46-8567-c2a60835b27a"
+  },
+  {
     "AlertId": "115921",
     "Headline": "#22 Clark and #152 Addison Temporary Reroute near Clark/Addison",
     "ShortDescription": "22 Clark and 152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
