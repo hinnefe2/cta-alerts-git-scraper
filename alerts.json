@@ -1,60 +1,49 @@
 [
   {
-    "AlertId": "115898",
-    "Headline": "#95 95th, #108 Halsted/95th and #112 Vincennes/111th Temporary Reroute near 95th/Normal",
-    "ShortDescription": "#95 95th, #108 Halsted/95th and #112 Vincennes/111th buses are temporarily rerouted in both directions near 95th/Normal, due to a street blockage.",
+    "AlertId": "115900",
+    "Headline": "#22 Clark and #152 Addison Temporary Reroute near Clark/Addison",
+    "ShortDescription": "22 Clark and 152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
     "FullDescription": {
-      "#cdata-section": "<p><span style=\"font-weight: bolder;\">#95 95th, #108 Halsted/95th and #112 Vincennes/111th buses are temporarily rerouted in both directions near 95th/Normal, due to a street blockage.</span></p>\r\n\r\n<p><strong>#95 95th buses</strong> will be rerouted in both directions via 95th, Halsted, 87th, Lafayette, 95th and over regular route.</p>\r\n\r\n<p><strong>#108 Halsted/95th buses</strong> will operate in both directions via :</p>\r\n\r\n<p><strong>Southbound</strong>: 95th, State, 87th, Halsted, 95th, and over&nbsp;normal route.</p>\r\n\r\n<p><strong>Northbound</strong>: Halsted, 87th, Lafayette, 95th, and over&nbsp;normal route.</p>\r\n\r\n<p>Allow extra travel time.&nbsp;&nbsp;</p>\r\n"
+      "#cdata-section": "<p><strong>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.</strong></p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-06-30T20:01:00",
+    "EventStart": "2026-06-30T20:46:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115898"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115900"
     },
     "ImpactedService": {
       "Service": [
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Halsted/95th",
-          "ServiceId": "108",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "565a5c",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/108/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Vincennes/111th",
-          "ServiceId": "112",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
           "ServiceBackColor": "565a5c",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/112/"
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
           }
         },
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "95th",
-          "ServiceId": "95",
-          "ServiceBackColor": "414145",
+          "ServiceName": "Addison",
+          "ServiceId": "152",
+          "ServiceBackColor": "565a5c",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+            "#cdata-section": "http://www.transitchicago.com/bus/152/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "7f9fc989-7e7e-4693-bd7d-778d23191b4e"
+    "GUID": "34ab0713-fc0c-42dd-82cc-08fd87584c58"
   }
 ]
