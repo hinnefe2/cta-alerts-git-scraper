@@ -1,5 +1,73 @@
 [
   {
+    "AlertId": "115988",
+    "Headline": "Loop-bound Orange Line Service Delayed Pulaski ",
+    "ShortDescription": "Attention Loop-bound Orange Line Passengers we are being delayed at Pulaski due to a signal problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Attention Loop-bound Orange Line Passengers we are being delayed at Pulaski due to a signal problem.</p>\r\n\r\n<p>At this time we are unloading the delayed train. An immediate follower will be arriving shortly. Crews are working to correct this problem. We apologize for any inconvenience and we appreciate your patience.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-07-04T10:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115988"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a83ad58c-6bb3-478b-a49c-123f6d4d3fca"
+  },
+  {
+    "AlertId": "115986",
+    "Headline": "#28 Sony Island Temporary Northbound Reroute near Lake Park/47th",
+    "ShortDescription": "Northbound 28 Stony Island buses are temporarily rerouted, due to festival near Lake Park/47th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #28 Stony Island buses are temporarily rerouted via Lake Park, 51st, Cottage Grove, Midway Plaisance, and Stony Island over normal route due to festival near Lake Park/47th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-04T09:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115986"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Stony Island",
+        "ServiceId": "28",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/28/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8acf3269-3b5e-446d-8c32-2d3213504b9a"
+  },
+  {
     "AlertId": "115983",
     "Headline": "Southbound#9 Ashland Temporary Reroute near Ashland/80th",
     "ShortDescription": "Southbound#9 Ashland buses are temporarily rerouted due to, police activity near Ashland/80th.",
