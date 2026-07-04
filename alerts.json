@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "115986",
-    "Headline": "#28 Sony Island Temporary Northbound Reroute near Lake Park/47th",
-    "ShortDescription": "Northbound 28 Stony Island buses are temporarily rerouted, due to festival near Lake Park/47th.",
+    "AlertId": "115994",
+    "Headline": "#35 35th Temporary Eastbound Reroute near 31st/Rhodes",
+    "ShortDescription": "35 35th buses will terminate at 31st/Rhodes due to a beach terminal closure because of overcrowding.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #28 Stony Island buses are temporarily rerouted via Lake Park, 51st, Cottage Grove, Midway Plaisance, and Stony Island over normal route due to festival near Lake Park/47th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#35 35th buses will terminate at 31st/Rhodes due to a beach terminal closure because of overcrowding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-04T09:50:00",
+    "EventStart": "2026-07-04T16:09:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115986"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115994"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Stony Island",
-        "ServiceId": "28",
+        "ServiceName": "31st/35th",
+        "ServiceId": "35",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/28/"
+          "#cdata-section": "http://www.transitchicago.com/bus/35/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "8acf3269-3b5e-446d-8c32-2d3213504b9a"
+    "GUID": "4aa6ffac-e596-4f51-b34a-a13a38be3144"
   },
   {
     "AlertId": "115992",
@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "48baff8f-1742-410f-bc48-18a59fc97506"
+  },
+  {
+    "AlertId": "115986",
+    "Headline": "#28 Sony Island Temporary Northbound Reroute near Lake Park/47th",
+    "ShortDescription": "Northbound 28 Stony Island buses are temporarily rerouted, due to festival near Lake Park/47th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #28 Stony Island buses are temporarily rerouted via Lake Park, 51st, Cottage Grove, Midway Plaisance, and Stony Island over normal route due to festival near Lake Park/47th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-04T09:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115986"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Stony Island",
+        "ServiceId": "28",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/28/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8acf3269-3b5e-446d-8c32-2d3213504b9a"
   }
 ]
