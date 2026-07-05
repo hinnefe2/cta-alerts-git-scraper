@@ -1,83 +1,36 @@
 [
   {
-    "AlertId": "115994",
-    "Headline": "#35 35th Temporary Eastbound Reroute near 31st/Rhodes",
-    "ShortDescription": "35 35th buses will terminate at 31st/Rhodes due to a beach terminal closure because of overcrowding.",
+    "AlertId": "115999",
+    "Headline": " #53 Pulaski buses Temporary Reroute at Pulaski/Maypole",
+    "ShortDescription": " #53 Pulaski buses are temporarily rerouted in both directions, due to a street blockage near Pulaski/Maypole.",
     "FullDescription": {
-      "#cdata-section": "<p>#35 35th buses will terminate at 31st/Rhodes due to a beach terminal closure because of overcrowding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>&nbsp;#53 Pulaski buses are temporarily rerouted in both directions via Pulaski, Madison, Cicero, Chicago, Pulaski and over the regular route due to street blockage near Pulaski/Maypole.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-04T16:09:00",
+    "EventStart": "2026-07-05T00:49:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115994"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115999"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "31st/35th",
-        "ServiceId": "35",
-        "ServiceBackColor": "565a5c",
+        "ServiceName": "Pulaski",
+        "ServiceId": "53",
+        "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/35/"
+          "#cdata-section": "http://www.transitchicago.com/bus/53/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "4aa6ffac-e596-4f51-b34a-a13a38be3144"
-  },
-  {
-    "AlertId": "115998",
-    "Headline": "#35 35th and #52 Kedzie/California Temporary Reroute at Kedzie/36th",
-    "ShortDescription": "35 35th and 52 Kedzie/California buses are temporarily rerouted due to, street blockage near Kedzie/36th.",
-    "FullDescription": {
-      "#cdata-section": "<p>35 35th buses are temporarily rerouted in both directions via California, 31st, Kedzie, over normal route due to, street blockage near Kedzie/36th.</p>\r\n\r\n<p>52 Kedzie/California buses are temporarily rerouted in both directions via Kedzie, 31st, California, 39th over normal route: due to street blockage near Kedzie/36th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-04T21:04:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115998"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "31st/35th",
-          "ServiceId": "35",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/35/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Kedzie",
-          "ServiceId": "52",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/kedzie/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "36b02fc0-31e3-4552-ac6c-bc4990a0435f"
+    "GUID": "d69291f5-9ef2-4bac-966e-39908e90ca6d"
   }
 ]
