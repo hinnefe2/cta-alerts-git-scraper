@@ -1,73 +1,5 @@
 [
   {
-    "AlertId": "115997",
-    "Headline": "#52A Temporary Reroute at Kedzie/70th",
-    "ShortDescription": "52A buses are temporarily rerouted due to, street blockage near Kedzie/70th.",
-    "FullDescription": {
-      "#cdata-section": "<p>#52A buses are temporarily rerouted via Kedzie, 71st, California, Marquette, and Kedzie due to, street blockage near Kedzie/70th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-04T20:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115997"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kedzie",
-        "ServiceId": "52",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/kedzie/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "529f3890-f28a-469a-a003-5b01aeeb4e65"
-  },
-  {
-    "AlertId": "115992",
-    "Headline": "#201 Central/Ridge Temporary Reroute at Central/Prospect",
-    "ShortDescription": "201 Central/Ridge buses are temporarily rerouted in both directions, due to festival near Central/Prospect.",
-    "FullDescription": {
-      "#cdata-section": "<p>#201 Central/Ridge buses are temporarily rerouted in both directions via Central, Ridge, Emerson, Gulf, Crawford, Central&nbsp; and over regular route, due to festival near Central/Prospect.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-04T13:38:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115992"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Central/Ridge",
-        "ServiceId": "201",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/201/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "48baff8f-1742-410f-bc48-18a59fc97506"
-  },
-  {
     "AlertId": "115994",
     "Headline": "#35 35th Temporary Eastbound Reroute near 31st/Rhodes",
     "ShortDescription": "35 35th buses will terminate at 31st/Rhodes due to a beach terminal closure because of overcrowding.",
@@ -100,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "4aa6ffac-e596-4f51-b34a-a13a38be3144"
+  },
+  {
+    "AlertId": "115998",
+    "Headline": "#35 35th and #52 Kedzie/California Temporary Reroute at Kedzie/36th",
+    "ShortDescription": "35 35th and 52 Kedzie/California buses are temporarily rerouted due to, street blockage near Kedzie/36th.",
+    "FullDescription": {
+      "#cdata-section": "<p>35 35th buses are temporarily rerouted in both directions via California, 31st, Kedzie, over normal route due to, street blockage near Kedzie/36th.</p>\r\n\r\n<p>52 Kedzie/California buses are temporarily rerouted in both directions via Kedzie, 31st, California, 39th over normal route: due to street blockage near Kedzie/36th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-04T21:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=115998"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "31st/35th",
+          "ServiceId": "35",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/35/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Kedzie",
+          "ServiceId": "52",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/kedzie/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "36b02fc0-31e3-4552-ac6c-bc4990a0435f"
   }
 ]
