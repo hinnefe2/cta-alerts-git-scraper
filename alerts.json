@@ -1,70 +1,49 @@
 [
   {
-    "AlertId": "116002",
-    "Headline": "#21 Cermak Temporary Reroute at Cermak/Cicero",
-    "ShortDescription": "#21 Cermak buses are temporarily rerouted, due to parade/carnival/festival near Cermak/Cicero.\r\n\r\n",
+    "AlertId": "116006",
+    "Headline": "#22 Clark and #152 Addison Temporary Reroute near Clark/Addison",
+    "ShortDescription": "22 Clark and 152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
     "FullDescription": {
-      "#cdata-section": "<p>#21 Cermak buses are temporarily rerouted, due to parade/carnival/festival near Cermak/Cicero.</p>\r\n\r\n<p>#21 Cermak buses are temporarily rerouted in both directions via Cermak, Cicero,16th (by-pass 54th Station), Austin and&nbsp;Cermak then over their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.</strong></p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-05T09:46:00",
+    "EventStart": "2026-07-05T15:02:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116002"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116006"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cermak",
-        "ServiceId": "21",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/21/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Addison",
+          "ServiceId": "152",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/152/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "25dabb8d-0b17-41f2-b5d8-f08c29156c4d"
-  },
-  {
-    "AlertId": "116003",
-    "Headline": "#54B South Cicero Temporary Reroute at Cermak/Cicero",
-    "ShortDescription": "#54B South Cicero buses are temporarily rerouted due to, parade/carnival/festival near Cermak/Cicero.",
-    "FullDescription": {
-      "#cdata-section": "<p>#54B South Cicero buses are temporarily rerouted due to, parade/carnival/festival near Cermak/Cicero.</p>\r\n\r\n<p>#54B South Cicero buses are temporarily rerouted in both directions via Cicero and 16th (wait recovery at 47th court) then over their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-05T09:52:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116003"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Cicero",
-        "ServiceId": "54B",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/54b/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "1031c81c-932c-42ac-93cd-f9783acffb91"
+    "GUID": "bedb2d13-ef73-46b8-8d9b-5d683e04857d"
   }
 ]
