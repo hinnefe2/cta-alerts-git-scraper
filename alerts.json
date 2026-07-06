@@ -1,70 +1,36 @@
 [
   {
-    "AlertId": "116016",
-    "Headline": "#J14 Jeffery Jump Temporary Reroute at Jeffery/83rd",
-    "ShortDescription": "J14 Jeffery Jump  buses are temporarily rerouted via Jeffery, 85th, South Chicago and Jeffery: due to, street blockage near Jeffery/83rd.",
+    "AlertId": "116023",
+    "Headline": "#66 Chicago Temporary Eastbound Reroute near Chicago/Kilbourne",
+    "ShortDescription": "EB 66 Chicago buses are temp. rerouted via Chicago, Cicero, Augusta, Kostner, Chicago and over regular route: due to, street blockage near Chicago/Kilbourne.",
     "FullDescription": {
-      "#cdata-section": "<p>#J14 Jeffery Jump&nbsp; buses are temporarily rerouted via Jeffery, 85th, South Chicago and Jeffery: due to, street blockage near Jeffery/83rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Eastbound #66 Chicago buses are temporarily rerouted via Chicago, Cicero, Augusta, Kostner, Chicago and over regular route: due to, street blockage near Chicago/Kilbourne.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-06T09:44:00",
+    "EventStart": "2026-07-06T14:25:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116016"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116023"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jeffery Jump",
-        "ServiceId": "J14",
-        "ServiceBackColor": "0065BD",
+        "ServiceName": "Chicago",
+        "ServiceId": "66",
+        "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+          "#cdata-section": "http://www.transitchicago.com/bus/66/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "5926f1bb-0199-42dd-a8af-7780601c813c"
-  },
-  {
-    "AlertId": "116017",
-    "Headline": "#15 Jeffery Local Temporary Reroute at Jeffery/83rd",
-    "ShortDescription": "15 Jeffery Local buses are temporarily rerouted via Jeffery, 85th, South Chicago and Jeffery: due to, street blockage near Jeffery/83rd.",
-    "FullDescription": {
-      "#cdata-section": "<p>#15 Jeffery Local buses are temporarily rerouted via Jeffery, 85th, South Chicago and Jeffery: due to, street blockage near Jeffery/83rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-06T09:47:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116017"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jeffery Local",
-        "ServiceId": "15",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/15/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "83ab0ca0-5e66-406a-8132-71f79c95ae38"
+    "GUID": "68de2d56-dc4b-4179-b473-58b665ed3f4e"
   }
 ]
