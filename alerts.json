@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "116110",
-    "Headline": "Forest Park-bound Blue Line Delays",
-    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following an earlier mechanical problem near Clark/Lake. Service is resuming, allow extra time.",
+    "AlertId": "116111",
+    "Headline": "#79 79th Temporary Reroute at 79th/Central Park",
+    "ShortDescription": "79 79th buses are temp. rerouted in both directions via 79th, Kedzie, 71st, Pulaski, 79th and over normal route, due to street blockage near 79th/Central Park.",
     "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays following an earlier mechanical problem near Clark/Lake.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#79 79th buses are temporarily rerouted in both directions via 79th, Kedzie, 71st, Pulaski, 79th&nbsp;and over normal route, due to street blockage near 79th/Central Park.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-07-11T06:25:00",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-11T07:02:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116110"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116111"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "06b3061f-a4fd-40d2-8590-4df8405897a4"
+    "GUID": "3ebdc541-a57c-4989-9950-08b9df8dde69"
   }
 ]
