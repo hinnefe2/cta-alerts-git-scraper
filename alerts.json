@@ -1,36 +1,70 @@
 [
   {
-    "AlertId": "116096",
-    "Headline": "#67 67th/69th/71st buses Temporary Reroute at 67th/Rhodes",
-    "ShortDescription": "67 67th/69th/71st buses are temp rerouted in both directions via 67th, South Chicago, Keefe, 67th & over normal route, due to construction near 67th/Rhodes.",
+    "AlertId": "116105",
+    "Headline": "#95/95th Temporary Westbound Reroute near 95th/Bishop",
+    "ShortDescription": "Westbound #95/95th buses are temporarily rerouted due to, police activity near 95th/Bishop.",
     "FullDescription": {
-      "#cdata-section": "<p>#67 67th/69th/71st buses are temporarily rerouted in both directions via 67th, South Chicago, Keefe, 67th and over normal route, due to construction near 67th/Rhodes.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #95/95th buses are temporarily rerouted via 95th, Vincennes, 99th, Beverly, and 95th&nbsp;due to police activity&nbsp;near 95th/Bishop.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-10T13:58:00",
+    "EventStart": "2026-07-10T22:39:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116096"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116105"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "67th-69th-71st",
-        "ServiceId": "67",
-        "ServiceBackColor": "565a5c",
+        "ServiceName": "95th",
+        "ServiceId": "95",
+        "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/67/"
+          "#cdata-section": "http://www.transitchicago.com/bus/95/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "dc1e833f-6d72-4f43-a8ea-39056f28f512"
+    "GUID": "59cf8483-0ea3-4ae9-a3ee-89a4b2053b17"
+  },
+  {
+    "AlertId": "116106",
+    "Headline": "#9 Ashland Temporary Westbound Reroute near 95th/Bishop",
+    "ShortDescription": "Westbound #9 Ashland buses are temporarily rerouted due to, police activity near 95th/Bishop.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #9 Ashland&nbsp;buses are temporarily rerouted via 95th, Vincennes, 99th, Beverly, and 95th due to police activity&nbsp;near 95th/Bishop.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-10T22:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116106"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Ashland",
+        "ServiceId": "9",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/9/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "95e512af-9ae5-4157-b2f3-8349c09f3c71"
   }
 ]
