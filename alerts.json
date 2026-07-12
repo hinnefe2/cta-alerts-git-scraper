@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "116124",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line riders, trains are running with residual delays following an unauthorized person on the tracks near Jackson. Service is resuming.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line riders, trains are running with&nbsp;residual delays and congestion following an unauthorized person on the tracks near Jackson.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-07-11T23:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116124"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5170fae5-e6f7-4c47-a714-bd0bd7f34f86"
+  },
+  {
     "AlertId": "116122",
     "Headline": "#35 35th buses Temporary Eastbound Reroute near 31st/Rhodes",
     "ShortDescription": "Eastbound 35 35th buses will terminate at 31st/Rhodes due to a beach terminal closure because of a street blockage.",
