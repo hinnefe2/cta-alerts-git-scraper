@@ -1,5 +1,85 @@
 [
   {
+    "AlertId": "116158",
+    "Headline": "Loop \"L\" Line Service Running with Delays",
+    "ShortDescription": "Loop \"L\"  Line trains are running with delays near Clark/Lake due to track switching problems.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop &quot;L&quot;&nbsp; Line trains are running with delays near Clark/Lake due to track switching problems.</p>\r\n\r\n<p>At this time, also consider other service alternatives that might serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-07-14T09:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116158"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9d493ee3-7a1a-4702-a9e4-d9948d19ce20"
+  },
+  {
     "AlertId": "116155",
     "Headline": "#7 Harrison Temporary Eastbound Reroute near Harrison/Kedzie",
     "ShortDescription": "Eastbound 7 Harrison buses are temporarily rerouted, due to street blockage near Harrison/Kedzie.",
@@ -119,7 +199,7 @@
     "Headline": "Trains rerouted downtown: Stations along Lake and Wabash closed",
     "ShortDescription": "Orange, Green, Pink and Brown Line trains will be rerouted downtown for work on building a new State/Lake station.",
     "FullDescription": {
-      "#cdata-section": "<p><span style=\"color:#F9461C;\"><strong>Orange</strong></span>, <span style=\"color:#009B3A;\"><strong>Green</strong></span>, <strong><span style=\"color:#E27EA6;\">Pink</span> </strong>and <span style=\"color:#62361B;\"><strong>Brown </strong></span>Line trains will be rerouted downtown for work on building a new State/Lake station.</p>\r\n\r\n<p><span style=\"color:#F9461C;\"><strong>Orange</strong></span><strong><span style=\"color:#F9461C;\">&nbsp;</span></strong>and<span style=\"color:#62361B;\"> <strong>Brown </strong></span><strong>Lines<span style=\"color:#62361B;\">:</span> </strong>Trains will operate as one route between Kimball and Midway, via the Wells and Van Buren sides of the Loop, downtown.</p>\r\n\r\n<p><span style=\"color:#009B3A;\"><strong>Green Line</strong></span>: Trains will operate between Harlem/Lake and 63rd street terminals, but via Wells and Van Buren.</p>\r\n\r\n<p><span style=\"color:#E27EA6;\"><strong>Pink Line</strong><strong>:</strong></span>&nbsp;Trains will operate between 54th/Cermak and Clinton, only. For continuing service, transfer at Clinton to a Green Line train toward 63rd.</p>\r\n\r\n<p><strong>Loop &#39;L&#39; and subways: </strong>To transfer between the Loop elevated and the subways, transfer at H.W. Library (Loop elevated lines) and Jackson (Blue or Red lines via subway).</p>\r\n"
+      "#cdata-section": "<p><span style=\"color:#F9461C;\"><strong>Orange</strong></span>, <span style=\"color:#009B3A;\"><strong>Green</strong></span>, <strong><span style=\"color:#E27EA6;\">Pink</span> </strong>and <span style=\"color:#62361B;\"><strong>Brown </strong></span>Line trains will be rerouted downtown for work on building a new State/Lake station.</p>\r\n\r\n<p><span style=\"color:#F9461C;\"><strong>Orange</strong></span><strong><span style=\"color:#F9461C;\">&nbsp;</span></strong>and<span style=\"color:#62361B;\"> <strong>Brown </strong></span><strong>Lines<span style=\"color:#62361B;\">:</span> </strong>Trains will operate as one route between Kimball and Midway, via the Wells and Van Buren sides of the Loop, downtown.</p>\r\n\r\n<p><span style=\"color:#009B3A;\"><strong>Green Line</strong></span>: Trains will operate between Harlem/Lake and 63rd street terminals, but via Wells and Van Buren.</p>\r\n\r\n<p><span style=\"color:#E27EA6;\"><strong>Pink Line</strong><strong>:</strong></span>&nbsp;Trains will operate between 54th/Cermak and Clinton, only. For continuing service, transfer at Clinton to a Green Line train toward 63rd.</p>\r\n\r\n<p><strong>Loop &#39;L&#39; and subways: </strong>To transfer between the Loop elevated and the subways, transfer at H.W. Library (Loop elevated lines) and Jackson (Blue or Red lines via subway).</p>\r\n\r\n<p><em><strong>Tip: </strong>Exit at Washington/Wells and board any bus at the Washington/LaSalle Loop Link station for service to Michigan Avenue, Millennium and Grant parks.</em></p>\r\n"
     },
     "SeverityScore": "73",
     "SeverityColor": "06c",
@@ -181,6 +261,6 @@
       ]
     },
     "ttim": "1",
-    "GUID": "41c09fa1-03d6-4369-b10b-7e1631fce817"
+    "GUID": "1e489773-a486-4c31-aa45-8d4f302bca09"
   }
 ]
