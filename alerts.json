@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "116164",
+    "Headline": "#97 Skokie Temporary Reroute at Niles Center Road/Main",
+    "ShortDescription": "97 Skokie buses are temporarily rerouted in both directions due to, street blockage near Niles Center Road/Main.",
+    "FullDescription": {
+      "#cdata-section": "<p>#97 Skokie buses are temporarily rerouted in both directions via Howard, Dodge, Oakton, Skokie Blvd. Dempster and over normal route due to, street blockage near Niles Center Road/Main.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-14T15:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116164"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Skokie",
+        "ServiceId": "97",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/97/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ef1e7800-2d98-4f67-8eb1-09779c60e484"
+  },
+  {
     "AlertId": "116155",
     "Headline": "#7 Harrison Temporary Eastbound Reroute near Harrison/Kedzie",
     "ShortDescription": "Eastbound 7 Harrison buses are temporarily rerouted, due to street blockage near Harrison/Kedzie.",
@@ -113,87 +147,6 @@
     },
     "ttim": "0",
     "GUID": "76cb44d2-9de2-4f60-9163-bc48296df3b1"
-  },
-  {
-    "AlertId": "116164",
-    "Headline": "#97 Skokie Temporary Reroute at Niles Center Road/Main",
-    "ShortDescription": "97 Skokie buses are temporarily rerouted in both directions due to, street blockage near Niles Center Road/Main.",
-    "FullDescription": {
-      "#cdata-section": "<p>#97 Skokie buses are temporarily rerouted in both directions via Howard, Dodge, Oakton, Skokie Blvd. Dempster and over normal route due to, street blockage near Niles Center Road/Main.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-14T15:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116164"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Skokie",
-        "ServiceId": "97",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/97/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ef1e7800-2d98-4f67-8eb1-09779c60e484"
-  },
-  {
-    "AlertId": "116165",
-    "Headline": "#26 South Shore Express and #100 Jeffrey Manor Express Temporary Reroute at 106th/Buffalo",
-    "ShortDescription": "26 South Shore Express and 100 Jeffrey Manor Express buses are temporarily rerouted in both directions, due to street blockage near 106th/Buffalo.",
-    "FullDescription": {
-      "#cdata-section": "<p>#26 South Shore Express and #100 Jeffrey Manor Express buses are temporarily rerouted in both directions via 106th, Muskegon, 104th, Commercial, 100th, Ewing, 106th&nbsp;and over normal route, due to street blockage near 106th/Buffalo.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-14T15:46:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116165"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "South Shore Express",
-          "ServiceId": "26",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/26/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Manor Express",
-          "ServiceId": "100",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/100/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "aa37a5ce-3a02-4021-ac6d-4c9dddd1a213"
   },
   {
     "AlertId": "116089",
