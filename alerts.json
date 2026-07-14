@@ -1,5 +1,120 @@
 [
   {
+    "AlertId": "116155",
+    "Headline": "#7 Harrison Temporary Eastbound Reroute near Harrison/Kedzie",
+    "ShortDescription": "Eastbound 7 Harrison buses are temporarily rerouted, due to street blockage near Harrison/Kedzie.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #7 Harrison buses are temporarily rerouted via Harrison, Kedzie, Jackson, Sacramento, Harrison, and resume normal route, due to street blockage near Harrison/Kedzie.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-14T08:31:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116155"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Harrison",
+        "ServiceId": "7",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/7/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f094ee3c-9061-4421-b4bc-d76cfb64b272"
+  },
+  {
+    "AlertId": "116156",
+    "Headline": "#4 Cottage Grove Temporary Reroute at Cottage Grove/95th",
+    "ShortDescription": "4 Cottage Grove, X4 Cottage Grove Express buses are temporarily rerouted due to street blockage near Cottage Grove/95th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#4 Cottage Grove, #X4 Cottage Grove Express buses are temporarily rerouted via Cottage Grove, 100th, King Drive, 95th, Cottage Grove and resume normal : due to street blockage near Cottage Grove/95th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-14T09:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116156"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove Express",
+          "ServiceId": "X4",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ffef9367-d78c-4686-a59a-fed497e686d2"
+  },
+  {
+    "AlertId": "116157",
+    "Headline": "#115 Pullman/115th Temporary Reroute at Cottage Grove/95th",
+    "ShortDescription": "115 Pullman/115th buses are temporarily rerouted in both directions, due to a street blockage near Cottage Grove/95th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#115 Pullman/115th buses are temporarily rerouted in both directions via 95th, King Drive, 100th, Cottage Grove, over normal route, due to a street blockage near Cottage Grove/95th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-14T09:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116157"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pullman/115th",
+        "ServiceId": "115",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/115/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "76cb44d2-9de2-4f60-9163-bc48296df3b1"
+  },
+  {
     "AlertId": "116089",
     "Headline": "Trains rerouted downtown: Stations along Lake and Wabash closed",
     "ShortDescription": "Orange, Green, Pink and Brown Line trains will be rerouted downtown for work on building a new State/Lake station.",
