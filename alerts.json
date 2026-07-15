@@ -1,37 +1,84 @@
 [
   {
-    "AlertId": "116164",
-    "Headline": "#97 Skokie Temporary Reroute at Niles Center Road/Main",
-    "ShortDescription": "97 Skokie buses are temporarily rerouted in both directions due to, street blockage near Niles Center Road/Main.",
+    "AlertId": "116170",
+    "Headline": "#43 43rd Temporary Reroute at 43rd/Drexel",
+    "ShortDescription": "43 43rd buses are temp. rerouted in both directions via 43rd, Drexel, 42nd Pl., Cottage Grove and over normal route due to, street blockage near 43rd/Drexel.",
     "FullDescription": {
-      "#cdata-section": "<p>#97 Skokie buses are temporarily rerouted in both directions via Howard, Dodge, Oakton, Skokie Blvd. Dempster and over normal route due to, street blockage near Niles Center Road/Main.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#43 43rd buses are temporarily rerouted in both directions via 43rd, Drexel, 42nd Pl., Cottage Grove and over normal route due to, street blockage near 43rd/Drexel.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-14T15:06:00",
+    "EventStart": "2026-07-14T21:03:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116164"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116170"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Skokie",
-        "ServiceId": "97",
+        "ServiceName": "43rd",
+        "ServiceId": "43",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/97/"
+          "#cdata-section": "http://www.transitchicago.com/bus/43/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "ef1e7800-2d98-4f67-8eb1-09779c60e484"
+    "GUID": "0deb3522-5021-46bc-b3ce-154f53c0b7ca"
+  },
+  {
+    "AlertId": "116171",
+    "Headline": "#22 Clark and #152 Addison Temporary Reroute near Clark/Addison",
+    "ShortDescription": "22 Clark and 152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.</strong></p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-14T21:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116171"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Addison",
+          "ServiceId": "152",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/152/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "819f6ec5-53e2-453e-a627-6fc6fe8ede7b"
   },
   {
     "AlertId": "116155",
