@@ -1,5 +1,73 @@
 [
   {
+    "AlertId": "116177",
+    "Headline": "Howard-bound Red Line Service Delays at Fullerton",
+    "ShortDescription": "Howard-bound Red Line trains are standing at Fullerton due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing at Fullerton due to a sick customer.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-07-15T07:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116177"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "317c8d64-a143-4312-8a1a-1e497652fb52"
+  },
+  {
+    "AlertId": "116176",
+    "Headline": "#111 111th/King Drive buses Temporary Reroute near 115th/Marshfield",
+    "ShortDescription": "111 111th/King Drive buses are temporarily rerouted in both directions, due to a street blockage near 115th/Marshfield.",
+    "FullDescription": {
+      "#cdata-section": "<p>#111 111th/King Drive buses are temporarily rerouted in both directions, due to a street blockage near 115th/Marshfield.</p>\r\n\r\n<p>Southbound buses will operate via Vincennes, 119th, Ashland, Marshfield, 115th and over regular route.</p>\r\n\r\n<p>Northbound buses will operate via Ashland, 112th Place, Vincennes and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-15T07:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116176"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "111th/King Drive",
+        "ServiceId": "111",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/111/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "75377156-4110-4952-abf8-7e57d6fe0d40"
+  },
+  {
     "AlertId": "116155",
     "Headline": "#7 Harrison Temporary Eastbound Reroute near Harrison/Kedzie",
     "ShortDescription": "Eastbound 7 Harrison buses are temporarily rerouted, due to street blockage near Harrison/Kedzie.",
