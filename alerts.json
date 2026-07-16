@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "116198",
+    "Headline": "Blue Line Train Delays at Cumberland",
+    "ShortDescription": "Blue Line Trains, in both directions, are running on the same track at Cumberland.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line service is running with delays due to a medical emergency at&nbsp;Cumberland.</p>\r\n\r\n<p style=\"margin-top:0in;margin-right:0in;margin-bottom:12.0pt;margin-left:\r\n0in\"><span style=\"font-family:arial,helvetica,sans-serif;\">Trains, in both directions, are running on the same track at Cumberland.</span></p>\r\n\r\n<p>We&#39;re working to restore normal service as quickly as possible.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-07-16T03:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116198"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "791af926-2f44-454d-a471-1d28e1492a3c"
+  },
+  {
     "AlertId": "116155",
     "Headline": "#7 Harrison Temporary Eastbound Reroute near Harrison/Kedzie",
     "ShortDescription": "Eastbound 7 Harrison buses are temporarily rerouted, due to street blockage near Harrison/Kedzie.",
@@ -101,39 +135,5 @@
     },
     "ttim": "1",
     "GUID": "2fd623e9-3708-4b3b-988f-3d6af50d159f"
-  },
-  {
-    "AlertId": "116197",
-    "Headline": "Blue Line Service Delayed at Cumberland",
-    "ShortDescription": "Blue Line trains are standing with major delays at Cumberland due to a medical emergency.  Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are&nbsp;standing with major delays at&nbsp;Cumberland due to a medical emergency.&nbsp;</p>\r\n\r\n<p>Shuttle buses are available to provide connecting service through the affected area. Shuttle buses are available between O&#39;hare and Harlem&nbsp;to provide connecting service.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2026-07-16T03:07:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116197"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "bf0ea45d-9072-47c6-8421-caea6f676f4c"
   }
 ]
