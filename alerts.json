@@ -68,6 +68,53 @@
     "GUID": "0343754b-57b7-494a-889f-e53cac09950e"
   },
   {
+    "AlertId": "116220",
+    "Headline": " #37 Sedgwick buses Temporary Southbound Reroute near Chicago/Wells",
+    "ShortDescription": "Southbound 37 Sedgwick buses are temporarily rerouted via Chicago, LaSalle, Grand, Wells and over normal route: due to a street blockage near Chicago/Wells.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #37 Sedgwick buses are temporarily rerouted via Chicago,&nbsp;LaSalle, Grand, Wells and over normal route: due to a street blockage near Chicago/Wells.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-17T08:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116220"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Chicago",
+          "ServiceId": "66",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/66/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sedgwick",
+          "ServiceId": "37",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/37/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "e75e8762-12d7-4de3-a2f7-c606a14786e7"
+  },
+  {
     "AlertId": "116089",
     "Headline": "Trains rerouted downtown: Stations along Lake and Wabash closed",
     "ShortDescription": "Orange, Green, Pink and Brown Line trains will be rerouted downtown for work on building a new State/Lake station.",
