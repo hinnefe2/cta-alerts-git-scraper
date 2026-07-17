@@ -81,6 +81,132 @@
     "GUID": "e75e8762-12d7-4de3-a2f7-c606a14786e7"
   },
   {
+    "AlertId": "116222",
+    "Headline": "#87 87th Temporary Eastbound Reroute near 87th/Halsted",
+    "ShortDescription": "Eastbound 87 87th buses are temporarily rerouted due to street blockage near 87th/Halsted.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #87 87th buses are temporarily rerouted via 87th, Vincennes, 83rd, Lafayette, 87th, then resume their normal route on 87th due to street blockage near 87th/Halsted.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-17T15:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116222"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Halsted",
+          "ServiceId": "8A",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/8a/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Wentworth",
+          "ServiceId": "24",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/24/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "87th",
+          "ServiceId": "87",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/87/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d392abc9-5f68-4f05-a556-8f7c4a8b2694"
+  },
+  {
+    "AlertId": "116223",
+    "Headline": "#8A South Halsted Temporary Northbound Reroute near 87th/Halsted",
+    "ShortDescription": "Northbound 8A South Halsted buses are temporarily rerouted due to street blockage near 87th/ Halsted.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #8A South Halsted buses are temporarily rerouted via 87th, Vincennes, Summit, Halsted, then resume their normal route on Halsted, due to street blockage near 87th/ Halsted.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-17T16:04:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116223"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Halsted",
+        "ServiceId": "8A",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/8a/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e27e3a29-3691-4da3-85d9-f095258f58a2"
+  },
+  {
+    "AlertId": "116224",
+    "Headline": "#24 Wentworth Temporary Northbound Reroute near 87th/Halsted",
+    "ShortDescription": "NB 24 Wentworth buses are temporarily rerouted via 87th, Vincennes, 83rd, then resume their normal route on Halsted, due to street blockage near 87th/ Halsted.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #24 Wentworth buses are temporarily rerouted via 87th, Vincennes, 83rd, then resume their normal route on Halsted, due to street blockage near 87th/ Halsted.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-17T16:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116224"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Wentworth",
+        "ServiceId": "24",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/24/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "91cefaca-3101-446a-8478-bad637a21566"
+  },
+  {
     "AlertId": "116089",
     "Headline": "Trains rerouted downtown: Stations along Lake and Wabash closed",
     "ShortDescription": "Orange, Green, Pink and Brown Line trains will be rerouted downtown for work on building a new State/Lake station.",
@@ -148,5 +274,39 @@
     },
     "ttim": "1",
     "GUID": "2fd623e9-3708-4b3b-988f-3d6af50d159f"
+  },
+  {
+    "AlertId": "116225",
+    "Headline": "Howard-bound Red Line Service Delayed at Sheridan",
+    "ShortDescription": "Howard-bound Red Line Passengers we are being delayed at Sheridan due to a door problem.",
+    "FullDescription": {
+      "#cdata-section": "<p>Attention Howard-bound Red Line Passengers we are being delayed at Sheridan due to a door problem.</p>\r\n\r\n<p>At this time we are unloading the delayed train. An immediate follower will be arriving shortly. Crews are working to correct this problem. We apologize for any inconvenience and we appreciate your patience.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-07-17T16:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116225"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e6273bf7-cd37-4795-9890-b6e51b78b3a2"
   }
 ]
