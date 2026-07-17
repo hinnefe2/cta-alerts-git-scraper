@@ -1,71 +1,37 @@
 [
   {
-    "AlertId": "116211",
-    "Headline": "#81 Lawrence Temporary Reroute at Lawrence/Kenmore",
-    "ShortDescription": "81 Lawrence buses are temporarily rerouted in both directions, due to fire department activity near Lawrence/Kenmore.",
+    "AlertId": "116214",
+    "Headline": "#15 Jeffery Local Temporary Reroute near 51st/Perry",
+    "ShortDescription": "#15 Jeffery Local buses are temporarily rerouted in both directions, due to police activity near 51st/Perry.",
     "FullDescription": {
-      "#cdata-section": "<p>#81 Lawrence buses are temporarily rerouted in both directions via Lawrence, Broadway, Wilson, Sheridan, Lawrence and over regular route, due to fire department activity near Lawrence/Kenmore.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>#15 Jeffery Local&nbsp;buses</strong> are temporarily rerouted in both directions, due to police activity&nbsp;near 51st/Perry.</p>\r\n\r\n<p>#15 Jeffery <strong>Northbound</strong>&nbsp;buses will operate via 51st, King Drive, 47th, Michigan, and 51st then over the normal route.</p>\r\n\r\n<p>#15 Jeffery <strong>Southboun</strong>d&nbsp;buses will operate via 47th, Wells, 51st, Wentworth, 47th, King Drive, and 51st then over the normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-16T18:18:00",
+    "EventStart": "2026-07-16T22:20:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116211"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116214"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Lawrence",
-        "ServiceId": "81",
+        "ServiceName": "Jeffery Local",
+        "ServiceId": "15",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/81/"
+          "#cdata-section": "http://www.transitchicago.com/bus/15/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "a0ff2f61-9dd0-4194-9d9c-f2b832492689"
-  },
-  {
-    "AlertId": "116204",
-    "Headline": "#53 Pulaski buses Temporary Northbound Reroute near Pulaski/LeMoyne",
-    "ShortDescription": "Northbound #53 Pulaski buses are temporarily rerouted via Pulaski, Grand, North Avenue, Pulaski and then resume their normal route, due to construction.",
-    "FullDescription": {
-      "#cdata-section": "<p>How does this affect my trip?</p>\r\n\r\n<p>Northbound #53 Pulaski buses are temporarily rerouted via Pulaski, Grand, North Avenue, Pulaski and then resume their normal route.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>Why is service being changed?</p>\r\n\r\n<p>Buses are rerouted due to construction near Pulaski/LeMoyne.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-16T10:02:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116204"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pulaski",
-        "ServiceId": "53",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/53/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "16f1cdaa-7b45-469f-b799-83cdef7d0286"
+    "GUID": "5d5be9fc-13a6-4e98-aa68-d37bc899859a"
   },
   {
     "AlertId": "116089",
