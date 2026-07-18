@@ -1,5 +1,39 @@
 [
   {
+    "AlertId": "116235",
+    "Headline": "#82 Kimball/Homan buses Temporary Reroute at Homan/Chicago",
+    "ShortDescription": "The 82 Kimball/Homan buses are temporarily rerouted in both directions, due to a festival near Homan/Chicago.",
+    "FullDescription": {
+      "#cdata-section": "<p>The #82 Kimball/Homan buses are temporarily rerouted in both directions via Homan, Chicago, Kedzie, Grand, Augusta, Homan and then over normal route: due to a festival near Homan/Chicago.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-18T11:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116235"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kimball-Homan",
+        "ServiceId": "82",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/82/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "294c98fa-f24d-4a57-b093-8f280c94a272"
+  },
+  {
     "AlertId": "116238",
     "Headline": "#22 Clark and #152 Addison Temporary Reroute at Clark/Addison",
     "ShortDescription": "22 Clark and 152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
@@ -45,40 +79,6 @@
     },
     "ttim": "0",
     "GUID": "8db8e8a8-e8c8-4458-b8c6-426ce21ebc66"
-  },
-  {
-    "AlertId": "116235",
-    "Headline": "#82 Kimball/Homan buses Temporary Reroute at Homan/Chicago",
-    "ShortDescription": "The 82 Kimball/Homan buses are temporarily rerouted in both directions, due to a festival near Homan/Chicago.",
-    "FullDescription": {
-      "#cdata-section": "<p>The #82 Kimball/Homan buses are temporarily rerouted in both directions via Homan, Chicago, Kedzie, Grand, Augusta, Homan and then over normal route: due to a festival near Homan/Chicago.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-18T11:08:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116235"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "294c98fa-f24d-4a57-b093-8f280c94a272"
   },
   {
     "AlertId": "116089",
