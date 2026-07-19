@@ -34,6 +34,74 @@
     "GUID": "294c98fa-f24d-4a57-b093-8f280c94a272"
   },
   {
+    "AlertId": "116240",
+    "Headline": "#126 Jackson Temporary Reroute at Jackson/Homan",
+    "ShortDescription": "126 Jackson buses temporarily rerouted in both directions due to, street blockage near Jackson/Homan.",
+    "FullDescription": {
+      "#cdata-section": "<p>#126 Jackson buses temporarily rerouted in both directions due to, street blockage near Jackson/Homan.</p>\r\n\r\n<p>Eastbound buses will operate via Jackson, Kedzie, Madison, Homan, Jackson over normal route.</p>\r\n\r\n<p>Westbound buses will operate via Jackson, Homan, Madison, Kedzie, Jackson over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-18T18:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116240"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson",
+        "ServiceId": "126",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/126/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "205fce17-8af5-4d72-ba22-3bfc56e9e1ee"
+  },
+  {
+    "AlertId": "116241",
+    "Headline": "#3 King Drive Temporary Reroute at King Drive/61st",
+    "ShortDescription": "3 King Drive buses temporarily rerouted in both directions due to, street blockage near King Drive/61st.",
+    "FullDescription": {
+      "#cdata-section": "<p>#3 King Drive buses temporarily rerouted in both directions due to, street blockage near King Drive/61st.</p>\r\n\r\n<p>Northbound buses will operate via King Drive, 61st, Cottage Grove, 63rd, and King Drive over normal route.</p>\r\n\r\n<p>Southbound buses will operate via King Drive, 63rd, Cottage Grove, 61st, and King Drive over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-18T18:24:00",
+    "EventEnd": "2026-07-21T18:24:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116241"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "King Drive",
+        "ServiceId": "3",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/3/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "30876276-f35d-452a-8b90-a7d029a4a974"
+  },
+  {
     "AlertId": "116089",
     "Headline": "Trains rerouted downtown: Stations along Lake and Wabash closed",
     "ShortDescription": "Orange, Green, Pink and Brown Line trains will be rerouted downtown for work on building a new State/Lake station.",
