@@ -1,105 +1,71 @@
 [
   {
-    "AlertId": "116235",
-    "Headline": "#82 Kimball/Homan buses Temporary Reroute at Homan/Chicago",
-    "ShortDescription": "The 82 Kimball/Homan buses are temporarily rerouted in both directions, due to a festival near Homan/Chicago.",
+    "AlertId": "116243",
+    "Headline": "#35 35th Temporary Eastbound Reroute near 31st/Rhodes",
+    "ShortDescription": "Eastbound 35 35th buses will terminate at 31st/Rhodes due to a beach terminal closure because of a street blockage.",
     "FullDescription": {
-      "#cdata-section": "<p>The #82 Kimball/Homan buses are temporarily rerouted in both directions via Homan, Chicago, Kedzie, Grand, Augusta, Homan and then over normal route: due to a festival near Homan/Chicago.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Eastbound #35 35th buses will terminate at 31st/Rhodes due to a beach terminal closure because of a street blockage.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-18T11:08:00",
+    "EventStart": "2026-07-18T20:16:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116235"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116243"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kimball-Homan",
-        "ServiceId": "82",
+        "ServiceName": "31st/35th",
+        "ServiceId": "35",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/35/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c3429a8e-7f12-47f5-9611-970418bd627a"
+  },
+  {
+    "AlertId": "116244",
+    "Headline": "#63 63rd Temporary Eastbound Reroute near 63rd/Stony Island",
+    "ShortDescription": "63 63rd buses will terminate at 63rd/Stony Island due to a beach terminal closure because of overcrowding.",
+    "FullDescription": {
+      "#cdata-section": "<p>#63 63rd buses will terminate at 63rd/Stony Island due to a beach terminal closure because of overcrowding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-18T20:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116244"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
         "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/82/"
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "294c98fa-f24d-4a57-b093-8f280c94a272"
-  },
-  {
-    "AlertId": "116240",
-    "Headline": "#126 Jackson Temporary Reroute at Jackson/Homan",
-    "ShortDescription": "126 Jackson buses temporarily rerouted in both directions due to, street blockage near Jackson/Homan.",
-    "FullDescription": {
-      "#cdata-section": "<p>#126 Jackson buses temporarily rerouted in both directions due to, street blockage near Jackson/Homan.</p>\r\n\r\n<p>Eastbound buses will operate via Jackson, Kedzie, Madison, Homan, Jackson over normal route.</p>\r\n\r\n<p>Westbound buses will operate via Jackson, Homan, Madison, Kedzie, Jackson over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-18T18:11:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116240"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson",
-        "ServiceId": "126",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/126/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "205fce17-8af5-4d72-ba22-3bfc56e9e1ee"
-  },
-  {
-    "AlertId": "116241",
-    "Headline": "#3 King Drive Temporary Reroute at King Drive/61st",
-    "ShortDescription": "3 King Drive buses temporarily rerouted in both directions due to, street blockage near King Drive/61st.",
-    "FullDescription": {
-      "#cdata-section": "<p>#3 King Drive buses temporarily rerouted in both directions due to, street blockage near King Drive/61st.</p>\r\n\r\n<p>Northbound buses will operate via King Drive, 61st, Cottage Grove, 63rd, and King Drive over normal route.</p>\r\n\r\n<p>Southbound buses will operate via King Drive, 63rd, Cottage Grove, 61st, and King Drive over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-18T18:24:00",
-    "EventEnd": "2026-07-21T18:24:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116241"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "King Drive",
-        "ServiceId": "3",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/3/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "30876276-f35d-452a-8b90-a7d029a4a974"
+    "GUID": "bf602eaa-8c2b-49b7-b692-de3a470d479e"
   },
   {
     "AlertId": "116089",
