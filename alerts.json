@@ -69,10 +69,10 @@
   },
   {
     "AlertId": "116259",
-    "Headline": "#63 63rd Temporary Westbound Reroute near 63rd/State",
-    "ShortDescription": "Westbound 63 63rd buses are temporarily rerouted via 63rd, State, 59th, Yale and 63rd: due to, street blockage near 63rd/State.",
+    "Headline": "#63 63rd Temporary Reroute near 63rd/State",
+    "ShortDescription": "63 63rd buses temp. rerouted  due to, street blockage near 63rd/State.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound #63 63rd buses are temporarily rerouted via 63rd, State, 59th, Yale and&nbsp;63rd: due to, street blockage near 63rd/State.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#63 63rd buses are temporarily rerouted in both directions due to street blockage near 63rd/State.</p>\r\n\r\n<p>Westbound&nbsp; buses will operate via 63rd, State, 59th, Yale and 63rd including the normal route streets.</p>\r\n\r\n<p>Eastbound buses will operate via 63rd, Yale, Marquette, State and 63rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -99,6 +99,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "e447824b-151e-4a68-88af-9b90b81f61d7"
+    "GUID": "f78653cd-9bc7-474f-936d-47ae800f261b"
+  },
+  {
+    "AlertId": "116261",
+    "Headline": "#29 State Temporary Southbound Reroute near 63rd/State",
+    "ShortDescription": "Southbound 29 State are temporarily rerouted via State, 59th, Yale, Marquette and State due to, street blockage near 63rd/State.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #29 State are temporarily rerouted via State, 59th, Yale, Marquette and State due to, street blockage near 63rd/State.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-20T12:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116261"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "State",
+        "ServiceId": "29",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b88218be-e5f7-4268-84d6-a469b3332759"
   }
 ]
