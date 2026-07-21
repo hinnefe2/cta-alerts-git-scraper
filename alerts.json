@@ -1,104 +1,36 @@
 [
   {
-    "AlertId": "116258",
-    "Headline": "#4 Cottage Grove Temporary Reroute at Cottage Grove/72nd",
-    "ShortDescription": "4 Cottage Grove buses are temporarily rerouted via Cottage Grove, Anthony, Maryland, 73rd and Cottage Grove: due to, street blockage near Cottage Grove/72nd.",
+    "AlertId": "116289",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following earlier police activity at Medical District.  Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>#4 Cottage Grove buses are temporarily rerouted via Cottage Grove, Anthony, Maryland, 73rd and Cottage Grove: due to, street blockage near Cottage Grove/72nd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/residual delays following earlier police activity at Medical District.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-20T09:10:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-07-21T14:51:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116258"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116289"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cottage Grove",
-        "ServiceId": "4",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "84366fd8-d3e6-419f-9c70-8c1fb6bbc4bb"
-  },
-  {
-    "AlertId": "116274",
-    "Headline": "#92 Foster Temporary Westbound Reroute near Foster/Damen",
-    "ShortDescription": "Westbound #92 Foster buses are temporarily rerouted due to, street blockage near Foster/Damen.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>Westbound #92 Foster</strong> buses are temporarily rerouted due to, street blockage near Foster/Damen.</p>\r\n\r\n<p>Westbound #92 Foster&nbsp;buses are temporarily rerouted via Foster, Damen, Lawrence, Western then resume their normal route on Foster.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-21T05:14:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116274"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Foster",
-        "ServiceId": "92",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/92/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d13f4fb4-2a2f-4e48-a326-2527bd22d32f"
-  },
-  {
-    "AlertId": "116287",
-    "Headline": "#66 Chicago Temporary Eastbound Reroute near Orleans/Ontario",
-    "ShortDescription": "EB 66 Chicago buses are temporarily rerouted via Grand, Orleans, Ohio, LaSalle, Chicago and over regular route: due to, street blockage near Orleans/Ontario.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #66 Chicago buses are temporarily rerouted via Grand, Orleans, Ohio, LaSalle, Chicago and over regular route: due to, street blockage near Orleans/Ontario.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-21T13:36:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116287"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Chicago",
-        "ServiceId": "66",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/66/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "41f7a885-082b-4571-95c6-03f4f358b531"
+    "GUID": "d954970d-7ad8-4dcf-87bd-1b3f07ee1090"
   }
 ]
