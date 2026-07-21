@@ -32,5 +32,86 @@
     },
     "ttim": "0",
     "GUID": "84366fd8-d3e6-419f-9c70-8c1fb6bbc4bb"
+  },
+  {
+    "AlertId": "116273",
+    "Headline": "Purple and Yellow Line Boarding Change at Howard",
+    "ShortDescription": "Board/Exit all Purple and Yellow Line trains on the 95th-bound platform at Howard. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>Board/Exit all&nbsp;Purple and Yellow Line trains on the 95th-bound&nbsp;platform at Howard.&nbsp;</strong></p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-07-21T04:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116273"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Yellow Line",
+          "ServiceId": "Y",
+          "ServiceBackColor": "f9e300",
+          "ServiceTextColor": "000000",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/yellowline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "3cb170e4-1fa8-4238-bce6-706ba27119b6"
+  },
+  {
+    "AlertId": "116274",
+    "Headline": "#92 Foster Temporary Westbound Reroute near Foster/Damen",
+    "ShortDescription": "Westbound #92 Foster buses are temporarily rerouted due to, street blockage near Foster/Damen.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>Westbound #92 Foster</strong> buses are temporarily rerouted due to, street blockage near Foster/Damen.</p>\r\n\r\n<p>Westbound #92 Foster&nbsp;buses are temporarily rerouted via Foster, Damen, Lawrence, Western then resume their normal route on Foster.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-21T05:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116274"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Foster",
+        "ServiceId": "92",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/92/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d13f4fb4-2a2f-4e48-a326-2527bd22d32f"
   }
 ]
