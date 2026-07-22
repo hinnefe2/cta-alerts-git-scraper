@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "AlertId": "116282",
+    "Headline": "Trains rerouted downtown: Stations along Lake and Wabash closed",
+    "ShortDescription": "Orange, Green, Pink and Brown Line trains will be rerouted downtown for work on building a new State/Lake station.",
+    "FullDescription": {
+      "#cdata-section": "<p><span style=\"color:#F9461C;\"><strong>Orange</strong></span>, <span style=\"color:#009B3A;\"><strong>Green</strong></span>, <strong><span style=\"color:#E27EA6;\">Pink</span> </strong>and <span style=\"color:#62361B;\"><strong>Brown</strong></span><strong> </strong>line trains will be rerouted downtown for work on building a new State/Lake station.</p>\r\n\r\n<p><span style=\"color:#F9461C;\"><strong>Orange</strong></span><strong><span style=\"color:#F9461C;\">&nbsp;</span></strong>and<span style=\"color:#62361B;\"> <strong>Brown </strong></span><strong>Lines<span style=\"color:#62361B;\">:</span> </strong>Trains will operate as one route between Kimball and Midway, via the Wells and Van Buren sides of the Loop, downtown.</p>\r\n\r\n<p><span style=\"color:#009B3A;\"><strong>Green Line</strong></span>: Trains will operate between Harlem/Lake and 63rd street terminals, but via Wells and Van Buren.</p>\r\n\r\n<p><span style=\"color:#E27EA6;\"><strong>Pink Line</strong><strong>:</strong></span>&nbsp;Trains will operate between 54th/Cermak and Clinton, only. For continuing service, transfer at Clinton to a Green Line train toward 63rd.</p>\r\n\r\n<p><strong>Loop &#39;L&#39; and subways: </strong>To transfer between the Loop elevated and the subways, transfer at H.W. Library (Loop elevated lines) and Jackson (Blue or Red lines via subway).</p>\r\n\r\n<p><em><strong>Tip: </strong>Exit at Washington/Wells and board any bus at the Washington/LaSalle Loop Link station for service to Michigan Avenue, Millennium and Grant parks.</em></p>\r\n"
+    },
+    "SeverityScore": "73",
+    "SeverityColor": "06c",
+    "SeverityCSS": "planned",
+    "Impact": "Planned Work w/Part Closure",
+    "EventStart": "2026-07-25T02:00:00",
+    "EventEnd": "2026-07-27T03:00:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116282"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Brown Line",
+          "ServiceId": "Brn",
+          "ServiceBackColor": "62361b",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/brownline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "1",
+    "GUID": "b0217989-8127-433a-b9bd-1759a9aef72c"
+  }
+]
