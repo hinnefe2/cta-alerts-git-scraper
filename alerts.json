@@ -69,64 +69,6 @@
     "GUID": "b0217989-8127-433a-b9bd-1759a9aef72c"
   },
   {
-    "AlertId": "116338",
-    "Headline": "Orange, Green and Pink Line Service Running with Delays",
-    "ShortDescription": "Orange, Green and Pink Line trains are operating with delays due to congestion from heavy train traffic in the Loop 'L'.",
-    "FullDescription": {
-      "#cdata-section": "<p>Orange, Green and Pink Line&nbsp;trains are running with residual delay&nbsp;due to congestion from heavy train traffic in&nbsp;the Loop &#39;L&#39;.</p>\r\n\r\n<p><br />\r\nPersonnel are working to restore service. Allow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-07-23T11:21:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116338"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "6dd15037-a454-4d7f-9d84-d3c937a8701f"
-  },
-  {
     "AlertId": "116339",
     "Headline": "#9 Ashland and #9X Ashland Temporary Reroute near Ashland/Congress",
     "ShortDescription": "#9 Ashland and #9X Ashland buses temporarily rerouted in both directions due to street blockage at Ashland/Congress.",
@@ -172,5 +114,39 @@
     },
     "ttim": "0",
     "GUID": "0ddd4a7d-6c80-4198-8326-e4c469dd93ee"
+  },
+  {
+    "AlertId": "116341",
+    "Headline": "#52 Kedzie Temporary Reroute at Kedzie/15th",
+    "ShortDescription": "52 Kedzie buses are temp. rerouted in both directions via Kedzie, Douglas, Homan, 16th, Kedzie and over normal route, due to street blockage near Kedzie/15th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#52 Kedzie buses are temporarily rerouted in both directions via Kedzie, Douglas, Homan, 16th, Kedzie and over normal route, due to street blockage near Kedzie/15th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-23T13:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116341"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kedzie",
+        "ServiceId": "52",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/kedzie/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6185663a-c884-4655-b609-d37dfada3768"
   }
 ]
