@@ -69,53 +69,6 @@
     "GUID": "b0217989-8127-433a-b9bd-1759a9aef72c"
   },
   {
-    "AlertId": "116339",
-    "Headline": "#9 Ashland and #9X Ashland Temporary Reroute near Ashland/Congress",
-    "ShortDescription": "#9 Ashland and #9X Ashland buses temporarily rerouted in both directions due to street blockage at Ashland/Congress.",
-    "FullDescription": {
-      "#cdata-section": "<p>#9 Ashland and #9X Ashland&nbsp;buses are temporarily rerouted in both directions, due to street blockage near&nbsp;Ashland/Congress.</p>\r\n\r\n<p><strong>Southbound</strong>&nbsp;buses will operate via Ashland, Jackson, Racine, Roosevelt then resume their normal route on Ashland.</p>\r\n\r\n<p><strong>Northbound</strong> buses will operate via Ashland. Roosevelt, Racine, Madison then resume their normal route on Ashland.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-23T12:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116339"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ashland",
-          "ServiceId": "9",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/9/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Ashland Express",
-          "ServiceId": "X9",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "00a078",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/x9/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "0ddd4a7d-6c80-4198-8326-e4c469dd93ee"
-  },
-  {
     "AlertId": "116341",
     "Headline": "#52 Kedzie Temporary Reroute at Kedzie/15th",
     "ShortDescription": "52 Kedzie buses are temp. rerouted in both directions via Kedzie, Douglas, Homan, 16th, Kedzie and over normal route, due to street blockage near Kedzie/15th.",
@@ -148,5 +101,39 @@
     },
     "ttim": "0",
     "GUID": "6185663a-c884-4655-b609-d37dfada3768"
+  },
+  {
+    "AlertId": "116352",
+    "Headline": "Forest Park-bound Blue Line Service Delayed near O'Hare",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing near O'Hare due to mechanical problem. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing near O&#39;Hare due to mechanical problem.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>These may include:<br />\r\n#81 Lawrence<br />\r\n#81W West Lawrence<br />\r\n#56 Milwaukee</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-07-23T19:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116352"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "eb845f2b-72a3-45ef-b7ae-d912bbfc73c0"
   }
 ]
