@@ -4,7 +4,7 @@
     "Headline": "Trains rerouted downtown: Stations along Lake and Wabash closed",
     "ShortDescription": "Orange, Green, Pink and Brown Line trains will be rerouted downtown for work on building a new State/Lake station.",
     "FullDescription": {
-      "#cdata-section": "<p><span style=\"color:#F9461C;\"><strong>Orange</strong></span>, <span style=\"color:#009B3A;\"><strong>Green</strong></span>, <strong><span style=\"color:#E27EA6;\">Pink</span> </strong>and <span style=\"color:#62361B;\"><strong>Brown</strong></span><strong> </strong>line trains will be rerouted downtown for work on building a new State/Lake station.</p>\r\n\r\n<p><span style=\"color:#F9461C;\"><strong>Orange</strong></span><strong><span style=\"color:#F9461C;\">&nbsp;</span></strong>and<span style=\"color:#62361B;\"> <strong>Brown </strong></span><strong>Lines<span style=\"color:#62361B;\">:</span> </strong>Trains will operate as one route between Kimball and Midway, via the Wells and Van Buren sides of the Loop, downtown.</p>\r\n\r\n<p><span style=\"color:#009B3A;\"><strong>Green Line</strong></span>: Trains will operate between Harlem/Lake and 63rd street terminals, but via Wells and Van Buren.</p>\r\n\r\n<p><span style=\"color:#E27EA6;\"><strong>Pink Line</strong><strong>:</strong></span>&nbsp;Trains will operate between 54th/Cermak and Clinton, only. For continuing service, transfer at Clinton to a Green Line train toward 63rd.</p>\r\n\r\n<p><strong>Loop &#39;L&#39; and subways: </strong>To transfer between the Loop elevated and the subways, transfer at H.W. Library (Loop elevated lines) and Jackson (Blue or Red lines via subway).</p>\r\n\r\n<p><em><strong>Tip: </strong>Exit at Washington/Wells and board any bus at the Washington/LaSalle Loop Link station for service to Michigan Avenue, Millennium and Grant parks.</em></p>\r\n"
+      "#cdata-section": "<p><span style=\"color:#F9461C;\"><strong>Orange</strong></span>, <span style=\"color:#009B3A;\"><strong>Green</strong></span>, <strong><span style=\"color:#E27EA6;\">Pink</span> </strong>and <span style=\"color:#62361B;\"><strong>Brown</strong></span><strong> </strong>line trains will be rerouted downtown for work on building a new State/Lake station.</p>\r\n\r\n<p><span style=\"color:#F9461C;\"><strong>Orange</strong></span><strong><span style=\"color:#F9461C;\">&nbsp;</span></strong>and<span style=\"color:#62361B;\"> <strong>Brown </strong></span><strong>lines<span style=\"color:#62361B;\">:</span> </strong>Trains will operate as one route between Kimball and Midway, via the Wells and Van Buren sides of the Loop, downtown.</p>\r\n\r\n<p><span style=\"color:#009B3A;\"><strong>Green Line</strong></span>: Trains will operate between Harlem/Lake and 63rd street terminals, but via Wells and Van Buren.</p>\r\n\r\n<p><span style=\"color:#E27EA6;\"><strong>Pink Line</strong><strong>:</strong></span>&nbsp;Trains will operate between 54th/Cermak and Clinton, only. For continuing service, transfer at Clinton to a Green Line train toward 63rd.</p>\r\n\r\n<p><strong>Loop &#39;L&#39; and subways: </strong>To transfer between the Loop elevated and the subways, transfer at H.W. Library (Loop elevated lines) and Jackson (Blue or Red lines via subway).</p>\r\n\r\n<p><em><strong>Tip: </strong>Exit at Washington/Wells and board any bus at the Washington/LaSalle Loop Link station for service to Michigan Avenue, Millennium and Grant parks.</em></p>\r\n"
     },
     "SeverityScore": "73",
     "SeverityColor": "06c",
@@ -19,6 +19,83 @@
     },
     "ImpactedService": {
       "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Adams/Wabash",
+          "ServiceId": "40680",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=14"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Clark/Lake",
+          "ServiceId": "40380",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=43"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "LaSalle/Van Buren",
+          "ServiceId": "40160",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=90"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Harold Washington Library-State/Van Buren",
+          "ServiceId": "40850",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=92"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Washington/Wabash",
+          "ServiceId": "41700",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=96"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Quincy",
+          "ServiceId": "40040",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=116"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Washington/Wells",
+          "ServiceId": "40730",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=133"
+          }
+        },
         {
           "ServiceType": "R",
           "ServiceTypeDescription": "Train Route",
@@ -66,41 +143,7 @@
       ]
     },
     "ttim": "1",
-    "GUID": "b0217989-8127-433a-b9bd-1759a9aef72c"
-  },
-  {
-    "AlertId": "116371",
-    "Headline": "Temporary Eastbound Reroute near Jackson/Aberdeen",
-    "ShortDescription": "Eastbound 126 Jackson buses are temporarily rerouted due to, street blockage near Jackson/Aberdeen.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #126 Jackson buses are temporarily rerouted via Jackson, Racine, Harrison, Halsted, Jackson and over regular route: due to, street blockage near Jackson/Aberdeen.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-24T17:39:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116371"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson",
-        "ServiceId": "126",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/126/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "bd17a93d-a1e3-4d09-b110-7e8508c55aa5"
+    "GUID": "82ef8ccb-5bb8-4c85-9063-d183d6697cc2"
   },
   {
     "AlertId": "116373",
@@ -135,350 +178,5 @@
     },
     "ttim": "0",
     "GUID": "b8e4c4df-5bb9-40d4-936b-decabd75baf7"
-  },
-  {
-    "AlertId": "116375",
-    "Headline": " #79 79th buses Temporary Reroute near 79th/Oakley",
-    "ShortDescription": "The #79 79th buses are temporarily rerouted in both directions due to a street blockage near 79th/Oakley.",
-    "FullDescription": {
-      "#cdata-section": "<p>The #79 79th buses are temporarily rerouted in both directions due to a street blockage near 79th/Oakley.</p>\r\n\r\n<p>Eastbound buses are temporarily rerouted via 79th, Damen, 83rd, Western, 79th and into the terminal.</p>\r\n\r\n<p>Westbound buses are temporarily rerouted via 79th, Western, into the terminal, Claremont, 79th, Western, 83rd, Damen, 79th and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-24T22:27:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116375"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western",
-          "ServiceId": "49",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/49/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "74th-75th",
-          "ServiceId": "75",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/75/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "79th",
-          "ServiceId": "79",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/79/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "69th/UPS Express",
-          "ServiceId": "169",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/169/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "986191ea-2398-40f4-97d9-65543f65fa35"
-  },
-  {
-    "AlertId": "116376",
-    "Headline": "#49 Western buses Temporary Eastbound Reroute near 79th/Oakley",
-    "ShortDescription": "Eastbound 49 Western buses are temporarily rerouted, due to police activity near 79th/Oakley.",
-    "FullDescription": {
-      "#cdata-section": "<p>The North Park #49 Western Pull-ins will deviate as follows:</p>\r\n\r\n<p>Eastbound #49 Western buses are temporarily rerouted via 79th, Western, Into terminal, Claremont, 79th, Western, 83rd, Damen, 79th, and to the expressway, due to police activity near 79th/Oakley.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-24T22:37:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116376"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western",
-          "ServiceId": "49",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/49/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "74th-75th",
-          "ServiceId": "75",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/75/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "79th",
-          "ServiceId": "79",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/79/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "69th/UPS Express",
-          "ServiceId": "169",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/169/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "242707b7-91b7-4cea-9165-e47cce7b0539"
-  },
-  {
-    "AlertId": "116378",
-    "Headline": "#49 Western Pull-ins buses Temporary Reroute at 79th/Oakley",
-    "ShortDescription": "The 49 Western Pull-ins buses are temporarily rerouted in both directions, due to police activity near 79th/Oakley.",
-    "FullDescription": {
-      "#cdata-section": "<p>The 74th Garage #49 Western Pull-ins will deviate as follows:</p>\r\n\r\n<p>The #49 Western Pull-ins buses are temporarily rerouted in both directions via 79th, Western, Into terminal, Claremont, 79th, Western, 83rd, Damen and over regular route, due to police activity near 79th/Oakley.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-24T22:44:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116378"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western",
-          "ServiceId": "49",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/49/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "74th-75th",
-          "ServiceId": "75",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/75/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "79th",
-          "ServiceId": "79",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/79/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "69th/UPS Express",
-          "ServiceId": "169",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/169/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "c4723d41-7a07-4f51-86a7-6586694dbb39"
-  },
-  {
-    "AlertId": "116379",
-    "Headline": " #75 74th/75th buses Temporary Reroute at 79th/Oakley",
-    "ShortDescription": "The 75 74th/75th buses are temporarily rerouted in both directions via Damen, 83rd, Western, 79th and Into Terminal, due to police activity near 79th/Oakley.",
-    "FullDescription": {
-      "#cdata-section": "<p>The #75 74th/75th buses are temporarily rerouted in both directions via Damen, 83rd, Western, 79th and Into Terminal, due to police activity.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-24T22:50:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116379"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western",
-          "ServiceId": "49",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/49/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "74th-75th",
-          "ServiceId": "75",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/75/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "79th",
-          "ServiceId": "79",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/79/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "69th/UPS Express",
-          "ServiceId": "169",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/169/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "b910a6cc-ebb7-44ec-bbcb-6a4e9be4d821"
-  },
-  {
-    "AlertId": "116380",
-    "Headline": "#169 69th/UPS Express buses Temporary Reroute at 79th/Oakley",
-    "ShortDescription": "The #169 69th/UPS Express buses are temporarily rerouted in both directions, due to police activity near 79th/Oakley.",
-    "FullDescription": {
-      "#cdata-section": "<p>The #169 69th/UPS Express buses are temporarily rerouted in both directions via 79th, Damen, 83rd, Western, 79th and over regular route, due to police activity near 79th/Oakley.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-24T22:54:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116380"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western",
-          "ServiceId": "49",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/49/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "74th-75th",
-          "ServiceId": "75",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/75/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "79th",
-          "ServiceId": "79",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/79/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "69th/UPS Express",
-          "ServiceId": "169",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/169/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "4faa596f-be47-445e-9c6e-35fc04393a92"
   }
 ]
