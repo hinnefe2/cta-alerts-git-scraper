@@ -1,198 +1,36 @@
 [
   {
-    "AlertId": "116406",
-    "Headline": "#49 Western and #X49 Western Express buses Temporary Reroute near Western/51st",
-    "ShortDescription": "#49 Western and #X49 Western Express buses are temporarily rerouted in both directions, due to a street blockage near Western/51st.",
+    "AlertId": "116414",
+    "Headline": "Forest Park-bound Blue Line Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running with residual delays following a mechanical problem at Western (Congress). Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>#49 Western&nbsp;and #X49 Western Express buses are temporarily rerouted in both directions, due to a street blockage near Western/51st.</p>\r\n\r\n<p>Northbound buses will operate via Western, Garfield, Western Blvd, Garfield, Western and resume normal route.</p>\r\n\r\n<p>Southbound buses will operate via Western Orange Line, Western Blvd, Garfield, Western and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running with residual delays following a mechanical problem at Western (Congress)</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-26T23:58:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-07-27T08:49:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116406"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116414"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western",
-          "ServiceId": "49",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/49/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western Express",
-          "ServiceId": "X49",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "00a078",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "51st",
-          "ServiceId": "51",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/51/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "9f91f403-a4a7-4b93-b7ff-90f96e78d445"
-  },
-  {
-    "AlertId": "116408",
-    "Headline": "#51 51st buses Temporary Reroute at Western/51st",
-    "ShortDescription": "#51 51st buses are temporarily rerouted in both directions, due to a street blockage near Western/51st.",
-    "FullDescription": {
-      "#cdata-section": "<p>#51 51st buses are temporarily rerouted in both directions via 51st, Western Blvd, 47th, California, 51st and resume normal route, due to a street blockage near Western/51st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-27T04:26:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116408"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western",
-          "ServiceId": "49",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/49/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western Express",
-          "ServiceId": "X49",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "00a078",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "51st",
-          "ServiceId": "51",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/51/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "California",
-          "ServiceId": "94",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/california/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "5b487106-fba1-4a9b-9277-68054f447c89"
-  },
-  {
-    "AlertId": "116409",
-    "Headline": "#94 South California buses Temporary Reroute near Western/51st",
-    "ShortDescription": "#94 South California buses are temporarily rerouted in both directions, due to a street blockage near Western/51st.",
-    "FullDescription": {
-      "#cdata-section": "<p>#94 South California buses are temporarily rerouted in both directions, due to a street blockage near Western/51st.</p>\r\n\r\n<p>Northbound buses will operate via California, 47th, Western Blvd, Orange Line, Western Blvd, 50th, Western Ave, 47th, California and resume normal route.</p>\r\n\r\n<p>Southbound buses will operate via California, 47th, Western Blvd, Orange Line, 55th, California and resume normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-27T04:39:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116409"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western",
-          "ServiceId": "49",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/49/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western Express",
-          "ServiceId": "X49",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "00a078",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "51st",
-          "ServiceId": "51",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/51/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "California",
-          "ServiceId": "94",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/california/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "ce698895-7a2b-4cc2-892c-23a0cb3719cb"
+    "GUID": "9bc026c6-53c7-4274-97ad-abc41925f4a0"
   }
 ]
