@@ -31,23 +31,23 @@
       }
     },
     "ttim": "0",
-    "GUID": "cfce81f2-40bb-4c57-b19f-c25881c510f4"
+    "GUID": "b82a2e22-26df-4851-a54b-c7ce822b5f73"
   },
   {
     "AlertId": "116454",
-    "Headline": "Purple Line Service Temporarily Suspended",
-    "ShortDescription": "Service on the Purple Line has been temporarily suspended due to debris on the track near Central.",
+    "Headline": "No trains between Howard and Linden",
+    "ShortDescription": "Purple Line service has been temporarily suspended between Howard and Linden to debris on the tracks near Central.",
     "FullDescription": {
-      "#cdata-section": "<p>Service on the Purple Line has been temporarily suspended due to debris on the track near Central.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#201 Central/Ridge</p>\r\n\r\n<p>Shuttle buses are available from Howard to Linden to provide connecting service through the affected area.</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Purple Line service has been temporarily suspended between Howard and Linden to debris on the tracks near Central.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Howard and the Loop&nbsp;at this time.</strong></p>\r\n\r\n<p>Shuttle buses are available between Howard and Linden to provide connecting service through the affected area.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.<br />\r\n<br />\r\nThese may include:<br />\r\n#201 Central/Ridge</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "90",
+    "SeverityScore": "84",
     "SeverityColor": "c00c00",
     "SeverityCSS": "major",
-    "Impact": "Service Suspended",
+    "Impact": "Service Disruption",
     "EventStart": "2026-07-27T13:29:00",
     "EventEnd": null,
     "TBD": "1",
-    "MajorAlert": "1",
+    "MajorAlert": "0",
     "AlertURL": {
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116454"
     },
@@ -65,7 +65,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "1460871e-a038-41d2-bcb1-741c7dd4dd13"
+    "GUID": "9d3590e1-6e94-47d3-bfb6-31df2fdcd825"
   },
   {
     "AlertId": "116456",
@@ -134,5 +134,280 @@
     },
     "ttim": "0",
     "GUID": "8a52a851-feda-41e1-9b2c-ce0db99b6f9f"
+  },
+  {
+    "AlertId": "116474",
+    "Headline": "#92 Foster Temporary Reroute at California Ave/Summerdale",
+    "ShortDescription": "#92 Foster buses are temporarily rerouted  due to, street blockage near California Ave/Summerdale.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#92 Foster buses are temporarily rerouted in both directions via California, Bryn Mawr, Western, and Foster due to, street blockage near California Ave/Summerdale.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-27T14:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116474"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Foster",
+        "ServiceId": "92",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/92/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "03f7ce4a-9629-4853-91f2-e6743eca5377"
+  },
+  {
+    "AlertId": "116477",
+    "Headline": "Temporary Reroute near 51st/Shields",
+    "ShortDescription": "#51 51st buses temporarily rerouted in both directions due to, street blockage near 51st/Shield. ",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#51 51st buses temporarily rerouted in both directions due to, street blockage near 51st/Shield.</strong></p>\r\n\r\n<p><strong>Eastbound buses</strong> will operate via 51st, Halsted, 47th, and Wells then resume their normal route on 51st.</p>\r\n\r\n<p><strong>Westbound buses</strong> will operate via 51st, Wentworth, 47th, and Halsted then resume their normal route on 51st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-27T14:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116477"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "51st",
+        "ServiceId": "51",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/51/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e40f8247-4afa-4a2f-8558-8f55cd13be9d"
+  },
+  {
+    "AlertId": "116480",
+    "Headline": "#50 Damen buses Temporary Reroute near Damen/ Webster",
+    "ShortDescription": "#50 Damen buses temporarily rerouted in both directions due to street blockage near Damen/Webster.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#50 Damen buses temporarily rerouted in both directions due to street blockage near Damen/Webster.</strong></p>\r\n\r\n<p><strong>Northbound</strong> buses will operate via Damen, Armitage, Western, Fullerton, Damen then resume their normal route.</p>\r\n\r\n<p><strong>Southbound</strong> buses will operate via&nbsp;Damen, Fullerton, Western, Armitage, Damen then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-27T15:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116480"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Damen",
+        "ServiceId": "50",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/50/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a1666a16-8d58-4a2f-9458-04b9dfc67fc0"
+  },
+  {
+    "AlertId": "116481",
+    "Headline": "#79 79 and 8A Halsted Temporary Reroute at  79th/Lowe",
+    "ShortDescription": "#79 79 and 8A Halsted buses temporarily rerouted in both directions due to, street blockage  near 79th/Lowe.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#79 79 and 8A Halsted buses temporarily rerouted in both directions due to, street blockage&nbsp;near 79th/Lowe.</strong></p>\r\n\r\n<p><strong>Westbound</strong> buses will operate via 79th, Vincennes, 76th, Halsted, and 79th then resume their normal route.</p>\r\n\r\n<p><strong>Eastbound </strong>buses will operate via&nbsp;79th, Halsted, 76th, Vincennes, and 79th then resume&nbsp;their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-27T15:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116481"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Halsted",
+          "ServiceId": "8A",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/8a/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "79th",
+          "ServiceId": "79",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/79/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c976529e-2dcd-4549-b8fd-131b5b965776"
+  },
+  {
+    "AlertId": "116482",
+    "Headline": "#94 California Temporary Southbound Reroute near California/18th",
+    "ShortDescription": "SB 94 California buses are temp. rerouted via California, Roosevelt, Damen, Cermak, California & over normal route, due to street blockage near California/18th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #94 California buses are temporarily rerouted via California, Roosevelt, Damen, Cermak, California and over normal route, due to street blockage near California/18th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-27T15:23:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116482"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "California",
+        "ServiceId": "94",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/california/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "c092e6c6-2bce-4660-b80f-2df5512b6d04"
+  },
+  {
+    "AlertId": "116483",
+    "Headline": "#18 16th/18th Temporary Reroute at Ogden/Western",
+    "ShortDescription": "18 16th/18th buses are temporarily rerouted in both directions via, due to street blockage near Ogden/Western.",
+    "FullDescription": {
+      "#cdata-section": "<p>#18 16th/18th buses are temporarily rerouted in both directions via 16th, Ogden, California, Roosevelt, Damen, 18th and over normal route, due to street blockage near Ogden/Western.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-27T15:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116483"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "16th-18th",
+        "ServiceId": "18",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/18/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "66996b93-bd57-4740-850e-fd707921e683"
+  },
+  {
+    "AlertId": "116484",
+    "Headline": "#95 95th, 115 Pullman/115th and #4 Cottage Grove Temporary Reroute at 95th/ Cottage",
+    "ShortDescription": "#95 95th, 115 Pullman/115th and #4 Cottage Grove buses temporarily rerouted in both directions due to, street blockage near 95th/ Cottage.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#95 95th, 115 Pullman/115th and #4 Cottage Grove buses temporarily rerouted in both directions due to, street blockage near 95th/ Cottage.</strong></p>\r\n\r\n<p><strong>Southbound</strong> buses will operate via 95th, King Drive, 99th, Cottage Grove, and 95th over the regular route.</p>\r\n\r\n<p><strong>Northbound </strong>buses will operate via 95th, Cottage Grove, 99th, King Drive, and 95th over the regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-27T15:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116484"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Pullman/115th",
+          "ServiceId": "115",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/115/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "a689a6d6-975b-4fe9-856f-4a8761e1de4d"
   }
 ]
