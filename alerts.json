@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "116454",
-    "Headline": "No trains between Davis and Linden",
-    "ShortDescription": "Purple Line service has been temporarily suspended between Davis and Linden due to debris on the tracks near Central.",
-    "FullDescription": {
-      "#cdata-section": "<p>Purple Line service has been temporarily suspended between Davis and Linden due to debris on the tracks near Central.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between Davis and the Loop&nbsp;at this time.</strong></p>\r\n\r\n<p>Shuttle buses are available between Howard and Linden to provide connecting service through the affected area.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.<br />\r\n<br />\r\nThese may include:<br />\r\n#201 Central/Ridge</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "84",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Service Disruption",
-    "EventStart": "2026-07-27T13:29:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116454"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Purple Line",
-        "ServiceId": "P",
-        "ServiceBackColor": "522398",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/purpleline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6c2e1c70-4c3d-4917-9bc0-22dbbb907cf7"
-  },
-  {
     "AlertId": "116456",
     "Headline": "#55 Garfield Temporary Westbound Reroute near 55th/Aberdeen",
     "ShortDescription": "Westbound #55 Garfield buses are temporarily rerouted due to, street blockage near 55th/Aberdeen.",
@@ -134,53 +100,6 @@
     },
     "ttim": "0",
     "GUID": "03f7ce4a-9629-4853-91f2-e6743eca5377"
-  },
-  {
-    "AlertId": "116481",
-    "Headline": "#79 79 and 8A South Halsted Temporary Reroute at 79th/Lowe",
-    "ShortDescription": "#79 79 and 8A  South Halsted buses temporarily rerouted in both directions due to, street blockage  near 79th/Lowe.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>#79 79 and 8A South Halsted buses temporarily rerouted in both directions due to, street blockage&nbsp;near 79th/Lowe.</strong></p>\r\n\r\n<p><strong>Westbound</strong> buses will operate via 79th, Vincennes, 76th, Halsted, and 79th then resume their normal route.</p>\r\n\r\n<p><strong>Eastbound </strong>buses will operate via&nbsp;79th, Halsted, 76th, Vincennes, and 79th then resume&nbsp;their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-27T15:21:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116481"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "South Halsted",
-          "ServiceId": "8A",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/8a/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "79th",
-          "ServiceId": "79",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/79/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "08416c13-b35d-4714-b881-fd17a97bd878"
   },
   {
     "AlertId": "116482",
@@ -411,50 +330,37 @@
     "GUID": "e850bf50-9bd7-486a-b4b0-c0c2023ee8ac"
   },
   {
-    "AlertId": "116488",
-    "Headline": "#49 Western and #X49 Western Express Temporary Reroute at Western/75th",
-    "ShortDescription": "49 Western and X49 Western Express buses are temporarily rerouted in both directions, due to street blockage near Western/75th.",
+    "AlertId": "116489",
+    "Headline": "#51 51st Temporary Westbound Reroute near 51st/Shield",
+    "ShortDescription": "Westbound #51 51st buses are temporarily rerouted due to street blockage near 51st/Shield.",
     "FullDescription": {
-      "#cdata-section": "<p>#49 Western and #X49 Western Express buses are temporarily rerouted in both directions via Western, 71st, Damen, 79th, Claremont, and over normal route, due to street blockage near Western/75th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>Westbound buses will operate via 51st, Wentworth, 47th, Halsted and 51st then resume their normal route on 51st due to street blockage near&nbsp;51st/Shield.</strong></p>\r\n\r\n<p><strong>Eastbound buses are not affected.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-27T17:28:00",
+    "EventStart": "2026-07-27T18:44:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116488"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116489"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western",
-          "ServiceId": "49",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/49/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Western Express",
-          "ServiceId": "X49",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "00a078",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "51st",
+        "ServiceId": "51",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/51/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "d0a9246e-209a-4036-8857-dfac4ae0af41"
+    "GUID": "957426f9-75ea-4eca-8b40-1d4e40b7c046"
   }
 ]
