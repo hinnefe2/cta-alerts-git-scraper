@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "116497",
-    "Headline": "#100 Jeffery Manor Express Temporary Eastbound Reroute near 107th/Avenue C",
-    "ShortDescription": "Eastbound 100 Jeffery Manor Express buses are temporarily rerouted, due to street blockage near 107th/Avenue C.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #100 Jeffery Manor Express buses are temporarily rerouted via 106th, State Line Road, 108th, Avenue C and over normal route, due to street blockage near 107th/Avenue C.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-07-28T05:15:00",
-    "EventEnd": "2026-07-31T05:15:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116497"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jeffery Manor Express",
-        "ServiceId": "100",
-        "ServiceBackColor": "ffffff",
-        "ServiceTextColor": "b71234",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/100/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "526682d7-e182-4155-9743-144983582543"
-  },
-  {
     "AlertId": "116499",
     "Headline": "#54 Cicero Temporary Northbound Reroute near Cicero/21st",
     "ShortDescription": "Northbound #54 Cicero buses are temporarily rerouted due to, street blockage near Cicero/21st.",
@@ -66,5 +32,107 @@
     },
     "ttim": "0",
     "GUID": "9ac78266-2699-4751-8ad0-2be802ec02a5"
+  },
+  {
+    "AlertId": "116503",
+    "Headline": " #26 South Shore Express Temporary Northbound Reroute near 106th/Torrence",
+    "ShortDescription": "Northbound #26 South Shore Express buses are temporarily rerouted due to, street blockage near 106th/Torrence.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>Northbound #&nbsp;26 South Shore Express&nbsp;&nbsp;buses are temporarily rerouted via Torrence, 104th, Muskegon, and 106th&nbsp;due to street blockage near&nbsp;106th/Torrence.</strong></p>\r\n\r\n<p><strong>Southbound buses are not affected.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-28T09:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116503"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Shore Express",
+        "ServiceId": "26",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/26/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "68757dc6-89e1-47b8-aa30-645ea714260a"
+  },
+  {
+    "AlertId": "116504",
+    "Headline": " #100 Jeffrey Manor Express Temporary Reroute at 106th/Torrence",
+    "ShortDescription": " #100 Jeffrey Manor Express buses are temporarily rerouted due to, street blockage near 106th/Torrence.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>&nbsp;#100 Jeffrey Manor Express buses are temporarily rerouted in both directions via Torrence, 104th, Muskegon, and 106th due to street blockage near 106th/Torrence.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-07-28T09:50:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116504"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Manor Express",
+        "ServiceId": "100",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/100/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a0d681eb-c351-41ef-a256-0ea607d881dc"
+  },
+  {
+    "AlertId": "116505",
+    "Headline": "Loop-bound Pink Line Delays",
+    "ShortDescription": "Loop-bound Pink Line trains are running with residual delays following an earlier door problem at Washington/Wabash. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Loop-bound Pink Line trains are running with&nbsp;residual delays following an earlier door problem at&nbsp;Washington/Wabash.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-07-28T10:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116505"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "51832ce9-c019-4e59-a48f-f532a928be46"
   }
 ]
