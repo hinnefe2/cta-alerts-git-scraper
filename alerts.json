@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "116593",
-    "Headline": "#112 Vincennes/111th Temporary Reroute at 111th/Sacramento",
-    "ShortDescription": "112 Vincennes/111th buses are temporarily rerouted in both directions due to, street blockage near 111th/Sacramento.",
+    "AlertId": "116595",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare- bound Blue Line trains are running with residual delays near Logan Square.\r\n\r\nService is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>#112 Vincennes/111th buses are temporarily rerouted in both directions via 111th, Western, 115th, Kedzie and 111th over regular route: due to, street blockage near 111th/Sacramento.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare- bound Blue&nbsp;Line trains are running with&nbsp;residual delays near&nbsp;Logan&nbsp;Square.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-01T11:57:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-08-01T14:07:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116593"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116595"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Vincennes/111th",
-        "ServiceId": "112",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/112/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "2f997dba-fd34-4b65-80a2-092777b7c7d4"
+    "GUID": "45588e78-cbf7-4f04-8738-b70ff64b321d"
   },
   {
     "AlertId": "116587",
@@ -66,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "e1029337-9359-4736-8978-fd286d51583c"
-  },
-  {
-    "AlertId": "116589",
-    "Headline": "#70 Division Temporary Reroute at Division/Kolmar",
-    "ShortDescription": "70 Division buses are temporarily rerouted in both directions, due to a street blockage near Division/Kolmar.",
-    "FullDescription": {
-      "#cdata-section": "<p>#70 Division buses are temporarily rerouted in both directions via Division, Pulaski, North Ave., Cicero, Division and over the regular route due to a street blockage near Division/Kolmar.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-01T08:38:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116589"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Division",
-        "ServiceId": "70",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/70/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "9e889d51-62d4-4d16-8db5-760049424660"
   }
 ]
