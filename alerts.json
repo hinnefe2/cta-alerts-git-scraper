@@ -1,5 +1,73 @@
 [
   {
+    "AlertId": "116594",
+    "Headline": "95th-bound Red Line Delays",
+    "ShortDescription": "95th-bound Red Line trains are running w/residual delays following an earlier sick passenger at Lake. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are running w/residual delays following an earlier sick passenger at Lake<br />\r\n<br />\r\nSome trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-08-01T12:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116594"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "daf609cd-7e6a-403e-b0fd-26730108357e"
+  },
+  {
+    "AlertId": "116593",
+    "Headline": "#112 Vincennes/111th Temporary Reroute at 111th/Sacramento",
+    "ShortDescription": "112 Vincennes/111th buses are temporarily rerouted in both directions due to, street blockage near 111th/Sacramento.",
+    "FullDescription": {
+      "#cdata-section": "<p>#112 Vincennes/111th buses are temporarily rerouted in both directions via 111th, Western, 115th, Kedzie and 111th over regular route: due to, street blockage near 111th/Sacramento.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-01T11:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116593"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Vincennes/111th",
+        "ServiceId": "112",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/112/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2f997dba-fd34-4b65-80a2-092777b7c7d4"
+  },
+  {
     "AlertId": "116587",
     "Headline": "#82 Kimball/Homan Temporary Reroute at Homan/Franklin",
     "ShortDescription": "82 Kimball/Homan buses are temp. rerouted in both directions, due to street blockage near Homan/Franklin.",
