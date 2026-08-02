@@ -1,70 +1,36 @@
 [
   {
-    "AlertId": "116598",
-    "Headline": "#22 Clark Temporary Reroute at Clark/Addison",
-    "ShortDescription": "#22 Clark buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
+    "AlertId": "116601",
+    "Headline": "#60 Blue Island/26th buses Temporary Reroute at Cicero/24th",
+    "ShortDescription": "#60 Blue Island/26th buses are temporarily rerouted in both directions, due to a street blockage near Cicero/24th.",
     "FullDescription": {
-      "#cdata-section": "<p>How does this affect my trip?</p>\r\n\r\n<p>#22 Clark buses are temporarily rerouted in both directions via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>Why is service being changed?</p>\r\n\r\n<p>Buses are rerouted due to street blockage near Clark/Addison.</p>\r\n"
+      "#cdata-section": "<p>#60 Blue Island/26th buses are temporarily rerouted in both directions via Cicero, Cermak, Kostner, 26th and over regular route, due to a street blockage near Cicero/24th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-01T19:42:00",
+    "EventStart": "2026-08-02T01:49:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116598"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116601"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Clark",
-        "ServiceId": "22",
-        "ServiceBackColor": "565a5c",
+        "ServiceName": "Blue Island/26th",
+        "ServiceId": "60",
+        "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          "#cdata-section": "http://www.transitchicago.com/bus/60/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "7cdbfad6-e4bb-4b10-95ea-371aad0b556b"
-  },
-  {
-    "AlertId": "116599",
-    "Headline": "#152 Addison Temporary Reroute at Clark/Addison",
-    "ShortDescription": "#152 Addison buses are temporarily  rerouted in both directions due to street blockage near Clark/Addison",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>#152 Addison buses are temporarily rerouted in both directions via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><strong>Why is service being changed?</strong></p>\r\n\r\n<p>Buses are rerouted due to street blockage near&nbsp;Clark/Addison</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-01T19:46:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116599"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Addison",
-        "ServiceId": "152",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/152/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "4773cd92-02c6-475b-87ce-b8c82914e4e8"
+    "GUID": "190a2d50-565a-4153-9e72-b0add234785b"
   }
 ]
