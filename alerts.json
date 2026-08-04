@@ -1,37 +1,37 @@
 [
   {
-    "AlertId": "116639",
-    "Headline": "#12 Roosevelt Temporary Reroute at Roosevelt/Homan",
-    "ShortDescription": "12 Roosevelt buses are temporarily rerouted in both directions due to street blockage near Roosevelt/Homan.",
+    "AlertId": "116656",
+    "Headline": "O'Hare-bound Blue Line Delays",
+    "ShortDescription": "O'Hare-bound Blue Line trains are running w/residual delays following an earlier sick passenger at Damen. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>#12 Roosevelt buses are temporarily rerouted in both directions via Roosevelt, Homan, Douglas Blvd, Central Park, Roosevelt, over regular route due to street blockage near Roosevelt/Homan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/residual delays following an earlier sick passenger at Damen.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-04T12:08:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-08-04T17:36:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116639"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116656"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Roosevelt",
-        "ServiceId": "12",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/12/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "88df882f-c1a7-4c4f-8fca-bec2b75cdaaa"
+    "GUID": "5f2b5ec4-a3be-44b1-8230-e65a18fae81f"
   },
   {
     "AlertId": "116654",
@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "fac701af-e18a-4402-8810-fd94bc41ff11"
+  },
+  {
+    "AlertId": "116639",
+    "Headline": "#12 Roosevelt Temporary Reroute at Roosevelt/Homan",
+    "ShortDescription": "12 Roosevelt buses are temporarily rerouted in both directions due to street blockage near Roosevelt/Homan.",
+    "FullDescription": {
+      "#cdata-section": "<p>#12 Roosevelt buses are temporarily rerouted in both directions via Roosevelt, Homan, Douglas Blvd, Central Park, Roosevelt, over regular route due to street blockage near Roosevelt/Homan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-04T12:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116639"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Roosevelt",
+        "ServiceId": "12",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/12/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "88df882f-c1a7-4c4f-8fca-bec2b75cdaaa"
   }
 ]
