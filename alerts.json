@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "116631",
-    "Headline": "#103 West 103rd Temporary Reroute at 103rd/Princeton",
-    "ShortDescription": "103 West 103rd buses are temporarily rerouted in both directions, due to police activity near 103rd/Princeton.",
-    "FullDescription": {
-      "#cdata-section": "<p>#103 West 103rd buses are temporarily rerouted in both directions via 103rd, Wentworth, 111th, Halsted, 103rd and over regular route, due to police activity near 103rd/Princeton.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-04T07:59:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116631"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "West 103rd",
-        "ServiceId": "103",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/103/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "9a5accdd-7ded-406c-9fa2-2ce45f371f23"
-  },
-  {
     "AlertId": "116634",
     "Headline": "#86 Narragansett/Ridgeland Temporary Reroute at Ridgeland/Narragansett",
     "ShortDescription": "86 Narragansett/Ridgeland buses are temporarily rerouted in both directions, due to street blockage near Ridgeland/Narragansett.",
@@ -100,5 +66,73 @@
     },
     "ttim": "0",
     "GUID": "732bfce4-44d6-41ef-a6eb-4c73708dfa03"
+  },
+  {
+    "AlertId": "116639",
+    "Headline": "#12 Roosevelt Temporary Reroute at Roosevelt/Homan",
+    "ShortDescription": "12 Roosevelt buses are temporarily rerouted in both directions due to street blockage near Roosevelt/Homan.",
+    "FullDescription": {
+      "#cdata-section": "<p>#12 Roosevelt buses are temporarily rerouted in both directions via Roosevelt, Homan, Douglas Blvd, Central Park, Roosevelt, over regular route due to street blockage near Roosevelt/Homan.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-04T12:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116639"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Roosevelt",
+        "ServiceId": "12",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/12/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "88df882f-c1a7-4c4f-8fca-bec2b75cdaaa"
+  },
+  {
+    "AlertId": "116640",
+    "Headline": "#76 Diversey Temporary Reroute near Diversey/Sheridan",
+    "ShortDescription": "76 Diversey buses are temporarily rerouted in both directions, due to street blockage near Diversey/Sheridan.",
+    "FullDescription": {
+      "#cdata-section": "<p>#76 Diversey buses are temporarily rerouted in both directions, due to street blockage near Diversey/Sheridan.</p>\r\n\r\n<p>#76 Diversey buses will operate via Diversey, Halsted, Belmont, Sheridan, Cannon Drive and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-04T12:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116640"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Diversey",
+        "ServiceId": "76",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/76/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "031ece46-8b12-42fd-a15a-9d2f79df45f1"
   }
 ]
