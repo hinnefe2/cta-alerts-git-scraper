@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "116741",
+    "Headline": "Temporary Westbound Reroute near Van Buren/Clinton",
+    "ShortDescription": "WB 126 Jackson buses are temporarily rerouted via Clinton, Harrison, Jefferson, Van Buren and over normal route due to, street blockage near Van Buren/Clinton.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #126 Jackson buses are temporarily rerouted via Clinton, Harrison, Jefferson, Van Buren and over normal route due to, street blockage near Van Buren/Clinton.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-08T18:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116741"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson",
+        "ServiceId": "126",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/126/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "927b6d43-5996-4d51-be8f-180ca0e4d51f"
+  },
+  {
+    "AlertId": "116742",
+    "Headline": "#35 35th Temporary Reroute at 31st/Rhodes",
+    "ShortDescription": "35 35th buses will terminate at 31st/Rhodes due to a beach terminal closure because of overcrowding.",
+    "FullDescription": {
+      "#cdata-section": "<p>#35 35th buses will terminate at 31st/Rhodes due to a beach terminal closure because of overcrowding.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-08T18:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116742"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "31st/35th",
+        "ServiceId": "35",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/35/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "658a5608-03ed-44b7-8217-73c43755d30c"
+  }
+]
