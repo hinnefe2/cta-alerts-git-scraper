@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "116724",
-    "Headline": "#34 South Michigan Temporary Northbound Reroute near Eberhart/130th",
-    "ShortDescription": "NB 34 South Michigan buses are temporarily rerouted via 131st, Vernon, 134th, Indiana, 130th, and over normal route, due to street blockage near Eberhart/130th.",
+    "AlertId": "116731",
+    "Headline": "Loop-bound Orange Line Service Running with Delays",
+    "ShortDescription": "Orange Line trains are experiencing a service disruption at Midway due to signal problems..",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #34 South Michigan buses are temporarily rerouted via 131st, Vernon, 134th, Indiana, 130th, and over normal route, due to street blockage near Eberhart/130th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Orange Line trains are experiencing a service disruption at Midway due to signal problems.</p>\r\n\r\n<p>Bus shuttles have been requested from Midway to Western to provide connecting service through the affected area.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#63 63rd</p>\r\n\r\n<p>#54B South Cicero</p>\r\n\r\n<p>#47 47th</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-07T18:00:00",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-08-07T22:38:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116724"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116731"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Michigan",
-        "ServiceId": "34",
-        "ServiceBackColor": "414145",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/34/"
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "8a91683a-b847-4b6b-8ba9-f5e1d4eaaf40"
+    "GUID": "765611a8-1996-47c8-8eb4-b14815cf82ff"
   }
 ]
