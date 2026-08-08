@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "116722",
-    "Headline": "Brown Line Service Running with Delays",
-    "ShortDescription": "Brown Line trains are running with delays near Kedzie due to an obstruction.",
-    "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are running with delays near Kedzie due to an obstruction.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-08-07T16:41:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116722"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c9a090d5-4002-45fd-89ed-28ccdcb29377"
-  },
-  {
     "AlertId": "116724",
     "Headline": "#34 South Michigan Temporary Northbound Reroute near Eberhart/130th",
     "ShortDescription": "NB 34 South Michigan buses are temporarily rerouted via 131st, Vernon, 134th, Indiana, 130th, and over normal route, due to street blockage near Eberhart/130th.",
@@ -66,39 +32,5 @@
     },
     "ttim": "0",
     "GUID": "8a91683a-b847-4b6b-8ba9-f5e1d4eaaf40"
-  },
-  {
-    "AlertId": "116727",
-    "Headline": "Red Line Delays",
-    "ShortDescription": "Red Line trains are running w/major delays following earlier track switching problems at Howard. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running w/major delays following earlier track switching problems at Howard.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2026-08-07T19:28:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116727"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e24dc6bd-c500-4942-8739-1b40edf2887b"
   }
 ]
