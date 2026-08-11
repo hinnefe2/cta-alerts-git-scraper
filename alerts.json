@@ -1,117 +1,37 @@
 [
   {
-    "AlertId": "116797",
-    "Headline": "Loop \"L\" Line Service Running with Delays",
-    "ShortDescription": "Loop \"L\" Line trains are running with delays near Adams/Wabash due to signal problems.",
+    "AlertId": "116764",
+    "Headline": "#78 Montrose Temporary Eastbound Reroute near Wilson/Broadway",
+    "ShortDescription": "Eastbound #78 Montrose buses are temporarily rerouted due to street blockage near Wilson/Broadway.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop &quot;L&quot; Line trains are running with delays near Adams/Wabash due to signal problems.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.<br />\r\n<br />\r\nThese may include:<br />\r\n#22 Clark<br />\r\n#24 Wentworth<br />\r\n#126 Jackson</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-08-11T17:37:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116797"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Pink Line",
-          "ServiceId": "Pink",
-          "ServiceBackColor": "e27ea6",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/pinkline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Green Line",
-          "ServiceId": "G",
-          "ServiceBackColor": "009b3a",
-          "ServiceTextColor": "FFFFFF",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/greenline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Orange Line",
-          "ServiceId": "Org",
-          "ServiceBackColor": "f9461c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/orangeline/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "3eb423b1-254b-40a7-a18f-95593a303d98"
-  },
-  {
-    "AlertId": "116798",
-    "Headline": "#91 Austin Temporary Reroute at Austin/Chicago",
-    "ShortDescription": "91 Austin buses are temporarily rerouted in both directions, due to street blockage near Austin/Chicago.",
-    "FullDescription": {
-      "#cdata-section": "<p>#91 Austin buses are temporarily rerouted in both directions via Austin, Division, Central, Lake, Austin, and over normal route, due to street blockage near Austin/Chicago.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>Eastbound #78 Montrose buses are temporarily rerouted via Wilson, Broadway, Lawrence, Sheridan, and Wilson, due to street blockage near Wilson/Broadway.</strong></p>\r\n\r\n<p><strong>Westbound buses are not affected.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-11T18:05:00",
+    "EventStart": "2026-08-10T09:13:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116798"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116764"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Austin",
-        "ServiceId": "91",
+        "ServiceName": "Montrose",
+        "ServiceId": "78",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/91/"
+          "#cdata-section": "http://www.transitchicago.com/bus/78/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "39395367-746d-476f-9ec6-0a6523b12b73"
+    "GUID": "6f34612d-10b5-450b-8692-35d7901f65fa"
   },
   {
     "AlertId": "116782",
@@ -216,71 +136,37 @@
     "GUID": "cc8bd67d-a7bd-4195-a544-7cff7990e210"
   },
   {
-    "AlertId": "116764",
-    "Headline": "#78 Montrose Temporary Eastbound Reroute near Wilson/Broadway",
-    "ShortDescription": "Eastbound #78 Montrose buses are temporarily rerouted due to street blockage near Wilson/Broadway.",
+    "AlertId": "116798",
+    "Headline": "#91 Austin Temporary Reroute at Austin/Chicago",
+    "ShortDescription": "91 Austin buses are temporarily rerouted in both directions, due to street blockage near Austin/Chicago.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>Eastbound #78 Montrose buses are temporarily rerouted via Wilson, Broadway, Lawrence, Sheridan, and Wilson, due to street blockage near Wilson/Broadway.</strong></p>\r\n\r\n<p><strong>Westbound buses are not affected.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
+      "#cdata-section": "<p>#91 Austin buses are temporarily rerouted in both directions via Austin, Division, Central, Lake, Austin, and over normal route, due to street blockage near Austin/Chicago.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-10T09:13:00",
+    "EventStart": "2026-08-11T18:05:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116764"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116798"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Montrose",
-        "ServiceId": "78",
+        "ServiceName": "Austin",
+        "ServiceId": "91",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/78/"
+          "#cdata-section": "http://www.transitchicago.com/bus/91/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "6f34612d-10b5-450b-8692-35d7901f65fa"
-  },
-  {
-    "AlertId": "116796",
-    "Headline": "Howard-bound Red Line Delays",
-    "ShortDescription": "Howard-bound Red Line trains are running w/major delays following an earlier mechanical problem near 87th. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are running w/major delays following an earlier mechanical problem near 87th.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2026-08-11T17:25:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116796"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "957f456e-181c-4e94-8e6c-0ec4af11b6fe"
+    "GUID": "39395367-746d-476f-9ec6-0a6523b12b73"
   }
 ]
