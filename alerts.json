@@ -149,37 +149,37 @@
     "GUID": "a751a0cd-dd37-4f8e-bd79-cb37c8927441"
   },
   {
-    "AlertId": "116811",
-    "Headline": "#152 Addison Temporary Reroute at Clark/Addison",
-    "ShortDescription": "152 Addison buses are temporarily rerouted in both directions due to a street blockage near Clark/Addison.",
+    "AlertId": "116818",
+    "Headline": "Kimball-bound Brown Line Delays",
+    "ShortDescription": "Kimball-bound Brown Line trains are running w/major delays following an earlier mechanical problem near Washington/Wabash. Service is resuming, allow extra time",
     "FullDescription": {
-      "#cdata-section": "<p>#152 Addison buses are temporarily rerouted in both directions due to a street blockage near Clark/Addison.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Kimball-bound Brown Line trains are running w/major delays following an earlier mechanical problem near Washington/Wabash.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-12T12:49:00",
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-08-12T13:44:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116811"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116818"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Addison",
-        "ServiceId": "152",
-        "ServiceBackColor": "565a5c",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/152/"
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "c74013fc-def8-48f8-a481-e4951013b61b"
+    "GUID": "30b0e8a0-74cb-470f-9689-d1d45f36e533"
   }
 ]
