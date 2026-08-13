@@ -35,15 +35,15 @@
   },
   {
     "AlertId": "116830",
-    "Headline": "Green Line Experiencing Delays; Boarding change between 35th and King Dr./Halsted",
-    "ShortDescription": "Green Line service running w/delays due to track conditions near Garfield; board all trains on the Harlem-bound side between 35th and King Dr./Halsted. ",
+    "Headline": "Green Line Delays",
+    "ShortDescription": "Green Line trains are running w/residual delays and congestion following earlier track conditions near Garfield. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Green Line service running w/major delays due to track conditions near Garfield.</p>\r\n\r\n<p>Trains, in both directions, are running on the same track between 35th and King Drive / Halsted stations.</p>\r\n\r\n<p>Board/exit all trains on the Harlem-bound side of the platform at:</p>\r\n\r\n<ul>\r\n\t<li><strong>Indiana, 43rd, 47th, 51st and&nbsp;Garfield stations.</strong></li>\r\n</ul>\r\n\r\n<p>We&#39;re working to restore normal service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green Line trains are running w/residual delays and congestion following earlier track conditions near Garfield.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
     "EventStart": "2026-08-13T13:52:00",
     "EventEnd": null,
     "TBD": "1",
@@ -65,14 +65,14 @@
       }
     },
     "ttim": "0",
-    "GUID": "b2c0386b-d0e0-4e77-84e8-405555516430"
+    "GUID": "68e9e85c-97b6-47ce-9570-5412009a71b4"
   },
   {
     "AlertId": "116834",
-    "Headline": "Pink Line Trains on Loop 'L' rerouted",
-    "ShortDescription": "Pink Line Loop service has been rerouted via Brown Line Platforms (Wells, Van Buren), due to Green Line delays.",
+    "Headline": "Normal Pink 'L' Line Service Being Restored",
+    "ShortDescription": "Some Pink 'L' Line trains are running with residual delays after an earlier boarding change in the Loop. Service is resuming.",
     "FullDescription": {
-      "#cdata-section": "<p>Pink Line &#39;L&#39;&nbsp;Service has been rerouted via the Brown Line Platforms (Wells and Van Buren)&nbsp;leg&nbsp;of the Loop due to Green Line delays.</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We appreciate your patience as we work to restore normal service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Some Pink &#39;L&#39; Line trains are running with residual delays after being rerouted to the Outer Loop and boarding changes to Brown Line platforms.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are now moving and service is resuming; allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
@@ -99,6 +99,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "4d6c05f4-38ff-464a-90f3-97ee08435337"
+    "GUID": "1a19ce3f-4136-4cd9-ac07-e248f60025dd"
+  },
+  {
+    "AlertId": "116835",
+    "Headline": "Midway-bound Orange Line Delays",
+    "ShortDescription": "Midway-bound Orange Line trains are running w/major delays and congestion following an earlier door problem at Quincy. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Midway-bound Orange Line trains are running w/major delays and congestion following an earlier door problem at Quincy.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-08-13T16:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116835"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f28f5125-a223-40b0-8cbf-a1a27c521477"
   }
 ]
