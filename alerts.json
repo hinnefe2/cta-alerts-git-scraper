@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "618e14ef-ffc7-4200-a7bb-3366e93abf21"
+  },
+  {
+    "AlertId": "116826",
+    "Headline": "#100 Jeffery Manor Express and #26 South Shore Express Temporary Reroute at106th/Torrence",
+    "ShortDescription": "#100 Jeffery Manor Express and #26 South Shore Express buses are temporarily rerouted in both directions, due to street blockage at 106th/Torrence. ",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#100 Jeffery Manor Express and #26 South Shore Express buses are temporarily rerouted in both directions via Torrence, 104th, Muskegon, and 106th then resume their normal route, due to street blockage at 106th/Torrence.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-13T06:47:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116826"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Manor Express",
+          "ServiceId": "100",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/100/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9092a44e-bb10-47f8-83ee-791446f68b89"
   }
 ]
