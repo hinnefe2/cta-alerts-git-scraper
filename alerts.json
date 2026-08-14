@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "0896354b-e1d9-4bba-a5b1-63e9b5848d62"
+  },
+  {
+    "AlertId": "116841",
+    "Headline": "#N5 South Shore Night Bus and SB #15 Jeffery Local buses Temporary Reroute near 71st /Jeffrey",
+    "ShortDescription": "The #N5 South Shore Night Bus and SB #15 Jeffery Local buses are temporarily rerouted due to fire department activity near 71st /Jeffrey.",
+    "FullDescription": {
+      "#cdata-section": "<p>The #N5 South Shore Night Bus and Southbound #15 Jeffery Local buses are temporarily rerouted due to fire department activity near 71st /Jeffrey.</p>\r\n\r\n<p>The #N5 South Shore Night Bus buses will be rerouted in both directions via Jeffrey, Stony Island, 73rd, 67th and over regular route.</p>\r\n\r\n<p>The Southbound only #15 Jeffery Local buses will be reroute via Stony Island, 73rd, Jeffery, and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-14T01:29:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116841"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Night Bus",
+          "ServiceId": "N5",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "009999",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/n5/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Local",
+          "ServiceId": "15",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "ede6e03d-e0bb-4bcb-9959-33824ff2f276"
   }
 ]
