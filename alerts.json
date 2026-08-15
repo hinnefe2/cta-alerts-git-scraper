@@ -1,105 +1,37 @@
 [
   {
-    "AlertId": "116848",
-    "Headline": "#86 Narragansett/Ridgeland Temporary Reroute at Narragansett/North Avenue",
-    "ShortDescription": "86 Narragansett/Ridgeland buses are temporarily rerouted in both directions, due to street blockage near Narragansett/North Avenue.",
+    "AlertId": "116782",
+    "Headline": "#3 King Drive Temporary Reroute near King Drive/76th",
+    "ShortDescription": "#3 King Drive buses are temporarily rerouted in both directions due to, street blockage near King Drive/76th.",
     "FullDescription": {
-      "#cdata-section": "<p>#86 Narragansett/Ridgeland buses are temporarily rerouted in both directions via Narragansett, North Avenue, Austin, Division, Ridgeland and over regular route, due to street blockage near Narragansett/North Avenue.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>#3 King Drive buses are temporarily rerouted in both directions due to, street blockage near King Drive/76th.</strong></p>\r\n\r\n<p><strong>Southbound buses</strong> will operate via&nbsp;King Drive, 76th, Lafayette, 79th, and King Drive then over their normal route.</p>\r\n\r\n<p><strong>Northbound buses</strong> will operate via King Drive, 79th, State, 76th, and King Drive then over their normal route</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-14T08:29:00",
+    "EventStart": "2026-08-11T05:46:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116848"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116782"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Narragansett/Ridgeland",
-        "ServiceId": "86",
+        "ServiceName": "King Drive",
+        "ServiceId": "3",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/86/"
+          "#cdata-section": "http://www.transitchicago.com/bus/3/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "d74b9173-0615-48b8-aab9-10a7d58ae2f8"
-  },
-  {
-    "AlertId": "116850",
-    "Headline": "#151 Sheridan Temporary Reroute at Stockton/LaSalle",
-    "ShortDescription": "151 Sheridan buses are temporarily rerouted in both directions, due to street blockage near Stockton/LaSalle.",
-    "FullDescription": {
-      "#cdata-section": "<p>#151 Sheridan buses are temporarily rerouted in both directions via Michigan, Chicago, LaSalle, Stockton Drive, and over normal route, due to street blockage near Stockton/LaSalle.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-14T10:17:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116850"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Sheridan",
-        "ServiceId": "151",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/151/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "aef9c5f5-fa17-48f2-a196-b67948e812cf"
-  },
-  {
-    "AlertId": "116855",
-    "Headline": "Blue Line Delays",
-    "ShortDescription": "Blue Line trains are running with major delays following an earlier mechanical problem on a train near Kedzie(Congress). Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running with major delays following an earlier mechanical problem on a train near Kedzie.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Shuttle buses have been requested to provide connecting service between UIC/Halsted and Forest Park, in both directions until 7:50pm.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2026-08-14T19:12:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116855"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "dafde09b-cf7b-4c2b-b656-6cd4d8c91191"
+    "GUID": "3fe929e2-0699-4ef1-824b-6672dcbc4b30"
   },
   {
     "AlertId": "116856",
