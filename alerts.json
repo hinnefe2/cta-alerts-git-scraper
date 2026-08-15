@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "116856",
-    "Headline": "#22 Clark Temporary Northbound Reroute near Polk/Dearborn",
-    "ShortDescription": "Northbound 22 Clark buses are temporarily rerouted via Polk, State, Harrison, Dearborn and over normal route: due to, street blockage near Polk/Dearborn.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #22 Clark buses are temporarily rerouted via Polk, State, Harrison, Dearborn and over normal route: due to, street blockage near Polk/Dearborn.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-14T19:25:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116856"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Clark",
-        "ServiceId": "22",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/22/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "edd63c8e-6fd8-4cc2-89ba-dd65008c798e"
-  },
-  {
     "AlertId": "116857",
     "Headline": "#62 Archer Temporary Northbound Reroute near Polk/Dearborn",
     "ShortDescription": "Northbound #62 Archer buses are temporarily rerouted due to, street blockage near Polk/Dearborn.",
@@ -137,15 +103,15 @@
   },
   {
     "AlertId": "116865",
-    "Headline": "Blue Line Service Delayed at Cumberland",
-    "ShortDescription": "Blue Line trains are standing at Cumberland due to police activity. Crews working to restore service.",
+    "Headline": "Forest Park-bound Blue Line Delays",
+    "ShortDescription": "Forest Park-bound Blue Line trains are running w/residual delays following earlier police activity near Cumberland. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are standing at Cumberland due to police activity.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.<br />\r\n<br />\r\n<strong>These may include:</strong></p>\r\n\r\n<ul>\r\n\t<li>#56 Milwaukee</li>\r\n\t<li><strong>#81 Lawrence</strong></li>\r\n\t<li><strong>#81W West Lawrence</strong></li>\r\n</ul>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are running w/residual delays following earlier police activity near Cumberland.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
     "EventStart": "2026-08-15T10:17:00",
     "EventEnd": null,
     "TBD": "1",
@@ -167,6 +133,74 @@
       }
     },
     "ttim": "0",
-    "GUID": "2ba491bb-a58e-4f22-8baf-2b4d249efe6a"
+    "GUID": "fa7307d6-d7d8-4aad-a6e6-d17649ec6da2"
+  },
+  {
+    "AlertId": "116866",
+    "Headline": "#63 63rd Temporary Westbound Reroute near63rd/Cottage Grove",
+    "ShortDescription": "WB 63 63rd buses are temporarily rerouted via 63rd, Cottage Grove , 61st, Prairie, 63rd and over normal route, due to street blockage near 63rd/Cottage Grove.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #63 63rd buses are temporarily rerouted via 63rd, Cottage Grove , 61st, Prairie, 63rd and over normal route, due to street blockage near 63rd/Cottage Grove.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-15T10:31:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116866"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "20301d5f-f009-4664-8ad6-8caf1193f739"
+  },
+  {
+    "AlertId": "116867",
+    "Headline": "#4 Cottage Grove Temporary Southbound Reroute near Michigan/28th",
+    "ShortDescription": "Southbound 4 Cottage Grove buses are temporarily rerouted via Michigan, 26th, State, 31st and over normal route, due to street blockage near Michigan/28th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #4 Cottage Grove buses are temporarily rerouted via Michigan, 26th, State, 31st and over normal route, due to street blockage near Michigan/28th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-15T10:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116867"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cottage Grove",
+        "ServiceId": "4",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/4/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9ac80499-e1b1-43e2-828f-58013a7c23aa"
   }
 ]
