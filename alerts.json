@@ -1,37 +1,50 @@
 [
   {
-    "AlertId": "116857",
-    "Headline": "#62 Archer Temporary Northbound Reroute near Polk/Dearborn",
-    "ShortDescription": "Northbound #62 Archer buses are temporarily rerouted due to, street blockage near Polk/Dearborn.",
+    "AlertId": "116856",
+    "Headline": "#22 Clark and #62 Archer Temporary Northbound Reroute near Polk/Dearborn",
+    "ShortDescription": "Northbound #22 Clark and Northbound #62 Archer buses are temporarily rerouted due to street blockage near Polk/Dearborn.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>Northbound #62 Archer buses are temporarily rerouted via Polk, Clark, Harrison, and Dearborn over normal route: due to, street blockage near Polk/Dearborn.</strong></p>\r\n\r\n<p><strong>Southbound buses are not affected.</strong></p>\r\n\r\n<p><strong>Allow extra travel time</strong></p>\r\n"
+      "#cdata-section": "<p><strong>Northbound #22 Clark and Northbound #62 Archer buses are temporarily rerouted due to street blockage near Polk/Dearborn.</strong></p>\r\n\r\n<p><strong>NB #22 Clark</strong> buses will operate via Polk, State, Harrison, Dearborn and over normal route.</p>\r\n\r\n<p><strong>NB #62 Archer</strong> buses will operate via Polk, Clark, Harrison, Dearborn, and over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-15T00:25:00",
+    "EventStart": "2026-08-15T12:35:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116857"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116856"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Archer",
-        "ServiceId": "62",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/62/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "8a691ead-9eb3-444a-b69d-607f37b7bbd9"
+    "GUID": "0bdc669d-9a03-4816-a15a-4081d0ee54d7"
   },
   {
     "AlertId": "116859",
@@ -134,73 +147,5 @@
     },
     "ttim": "0",
     "GUID": "20301d5f-f009-4664-8ad6-8caf1193f739"
-  },
-  {
-    "AlertId": "116867",
-    "Headline": "#4 Cottage Grove Temporary Southbound Reroute near Michigan/28th",
-    "ShortDescription": "Southbound 4 Cottage Grove buses are temporarily rerouted via Michigan, 26th, State, 31st and over normal route, due to street blockage near Michigan/28th.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #4 Cottage Grove buses are temporarily rerouted via Michigan, 26th, State, 31st and over normal route, due to street blockage near Michigan/28th.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-15T10:36:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116867"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cottage Grove",
-        "ServiceId": "4",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/4/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "9ac80499-e1b1-43e2-828f-58013a7c23aa"
-  },
-  {
-    "AlertId": "116868",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running w/major delays following an earlier mechanical problem near Oak Park. Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running w/major delays following an earlier mechanical problem near Oak Park.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2026-08-15T11:46:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116868"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "898ba4c9-bded-4ee5-b06a-84f803d13bce"
   }
 ]
