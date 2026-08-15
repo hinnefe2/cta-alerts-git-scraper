@@ -66,5 +66,73 @@
     },
     "ttim": "0",
     "GUID": "aef9c5f5-fa17-48f2-a196-b67948e812cf"
+  },
+  {
+    "AlertId": "116855",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running with major delays following an earlier mechanical problem on a train near Kedzie(Congress). Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running with major delays following an earlier mechanical problem on a train near Kedzie.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Shuttle buses have been requested to provide connecting service between UIC/Halsted and Forest Park, in both directions until 7:50pm.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-08-14T19:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116855"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "dafde09b-cf7b-4c2b-b656-6cd4d8c91191"
+  },
+  {
+    "AlertId": "116856",
+    "Headline": "#22 Clark Temporary Northbound Reroute near Polk/Dearborn",
+    "ShortDescription": "Northbound 22 Clark buses are temporarily rerouted via Polk, State, Harrison, Dearborn and over normal route: due to, street blockage near Polk/Dearborn.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #22 Clark buses are temporarily rerouted via Polk, State, Harrison, Dearborn and over normal route: due to, street blockage near Polk/Dearborn.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-14T19:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116856"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Clark",
+        "ServiceId": "22",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/22/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "edd63c8e-6fd8-4cc2-89ba-dd65008c798e"
   }
 ]
