@@ -4,7 +4,7 @@
     "Headline": "#22 Clark and #62 Archer Temporary Northbound Reroute near Polk/Dearborn",
     "ShortDescription": "Northbound #22 Clark and Northbound #62 Archer buses are temporarily rerouted due to street blockage near Polk/Dearborn.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>Northbound #22 Clark and Northbound #62 Archer buses are temporarily rerouted due to street blockage near Polk/Dearborn.</strong></p>\r\n\r\n<p><strong>NB #22 Clark</strong> buses will operate via Polk, State, Harrison, Dearborn and over normal route.</p>\r\n\r\n<p><strong>NB #62 Archer</strong> buses will operate via Polk, Clark, Harrison, Dearborn, and over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>Northbound #22 Clark and Northbound #62 Archer buses are temporarily rerouted due to street blockage near Polk/Dearborn.</strong></p>\r\n\r\n<p><strong>NB #22 Clark</strong> buses will operate via Clark, Polk, State, Ida B. Wells, Dearborn and over normal route.</p>\r\n\r\n<p><strong>NB #62 Archer</strong> buses will operate via Polk, Clark, Harrison, Dearborn, and over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -44,7 +44,7 @@
       ]
     },
     "ttim": "0",
-    "GUID": "0bdc669d-9a03-4816-a15a-4081d0ee54d7"
+    "GUID": "3cc5eba1-2ab1-49c8-ab45-1dbdb7525694"
   },
   {
     "AlertId": "116859",
@@ -81,50 +81,37 @@
     "GUID": "422a13ac-c9cc-467f-8b23-b2a4fbed5e43"
   },
   {
-    "AlertId": "116882",
-    "Headline": "#J14 Jeffery Jump and #15 Jeffery Local Temporary Reroute at 67th/Jeffery ",
-    "ShortDescription": "#J14 Jeffery Jump and #15 Jeffery Local buses are temporarily rerouted in both directions, due to fire department activity near 67th/Jeffery.",
+    "AlertId": "116883",
+    "Headline": "#36 Broadway Temporary Reroute at State/Elm",
+    "ShortDescription": "36 Broadway buses are temporarily rerouted in both directions via Clark, LaSalle, Chicago, State and over regular route, due to street blockage near State/Elm.",
     "FullDescription": {
-      "#cdata-section": "<p>#J14 Jeffery Jump and #15 Jeffery Local buses are temporarily rerouted in both directions via Jeffery, 75th, Stony Island, 67th and over regular route, due to fire department activity near 67th/Jeffery.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#36 Broadway buses are temporarily rerouted in both directions via Clark, LaSalle, Chicago, State and over regular route, due to street blockage near State/Elm.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-16T07:43:00",
+    "EventStart": "2026-08-16T08:21:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116882"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116883"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Jump",
-          "ServiceId": "J14",
-          "ServiceBackColor": "0065BD",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Local",
-          "ServiceId": "15",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/15/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Broadway",
+        "ServiceId": "36",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/36/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "c3036ea9-4e05-4089-bea8-10e272d93bdc"
+    "GUID": "7ac76b14-c7ed-498f-9d28-d3cf8fd559f7"
   }
 ]
