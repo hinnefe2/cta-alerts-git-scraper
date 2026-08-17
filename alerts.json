@@ -45,5 +45,86 @@
     },
     "ttim": "0",
     "GUID": "6237ee7c-d14c-4b09-acb8-ec3a09955f8e"
+  },
+  {
+    "AlertId": "116913",
+    "Headline": "95th-bound Red Line Delays",
+    "ShortDescription": "95th-bound Red Line trains are running with residual delays following an earlier sick customer near Grand.  Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are running with residual delays following an earlier sick customer near Grand.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-08-17T17:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116913"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f422d6f8-bb29-4494-b312-be470109ad7e"
+  },
+  {
+    "AlertId": "116914",
+    "Headline": "#94 California and #48 South Damen Temporary Southbound Reroute at Damen/69th Pl",
+    "ShortDescription": "Northbound #94 California and #48 South Damen buses are temporarily, due to street blockage near Damen/69th Pl.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #94 California and #48 South Damen buses are temporarily rerouted via Damen, 71st, Ashland, 69th, Damen and over regular route, due to street blockage near Damen/69th Pl.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-17T17:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116914"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Damen",
+          "ServiceId": "48",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "565a5c",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/48/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "California",
+          "ServiceId": "94",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/california/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4dfa9959-7662-4337-9b22-e7c5cbde1e8f"
   }
 ]
