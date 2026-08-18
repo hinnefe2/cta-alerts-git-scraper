@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "683869ea-22f4-4808-a543-00a565e57f8b"
+  },
+  {
+    "AlertId": "116934",
+    "Headline": "#4 Cottage Grove and #X4 Cottage Grove Express Temporary Northbound Reroute near 115th/Front",
+    "ShortDescription": "Northbound 4 Cottage Grove and #X4 Cottage Grove Express buses are temporarily rerouted, due to street blockage near 115th/Front.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #4 Cottage Grove and #X4 Cottage Grove Express buses are temporarily rerouted via 115th, Cottage Grove, 113th, King Dr., 107th, Cottage Grove and over normal route, due to street blockage near 115th/Front.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-18T16:48:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116934"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove Express",
+          "ServiceId": "X4",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x4/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d5f8b889-a94f-46f4-b33a-5c72d60f1d9f"
   }
 ]
