@@ -1,107 +1,49 @@
 [
   {
-    "AlertId": "116912",
-    "Headline": "#J14 Jeffery Jump & #15 Jeffery Local Temporary Southbound Reroute near Jeffrey/83rd",
-    "ShortDescription": "Southbound J14 Jeffery Jump & 15 Jeffery Local buses are temporarily rerouted due to a street blockage near Jeffery/83rd.",
+    "AlertId": "116916",
+    "Headline": "#22 Clark and #152 Addison Temporary Reroute at Clark/Addison",
+    "ShortDescription": "22 Clark and 152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
     "FullDescription": {
-      "#cdata-section": "<p>Southbound #J14 Jeffery Jump &amp; #15 Jeffery Local buses are temporarily rerouted via Jeffery, 83rd, South Chicago, 85th, Jeffery and over the regular route due to a street blockage near Jeffery/83rd.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.</p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-17T15:38:00",
+    "EventStart": "2026-08-17T20:39:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116912"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116916"
     },
     "ImpactedService": {
       "Service": [
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Jump",
-          "ServiceId": "J14",
-          "ServiceBackColor": "0065BD",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
           }
         },
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Local",
-          "ServiceId": "15",
+          "ServiceName": "Addison",
+          "ServiceId": "152",
           "ServiceBackColor": "565a5c",
           "ServiceTextColor": "ffffff",
           "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/15/"
+            "#cdata-section": "http://www.transitchicago.com/bus/152/"
           }
         }
       ]
     },
     "ttim": "0",
-    "GUID": "6237ee7c-d14c-4b09-acb8-ec3a09955f8e"
-  },
-  {
-    "AlertId": "116914",
-    "Headline": "#94 California, #67 67th-69th-71st and #48 South Damen Temporary Reroute at Damen/69th Pl",
-    "ShortDescription": "94 California, 67 67th-69th-71st and 48 South Damen buses are temporarily rerouted due to street blockage near Damen/69th Pl.",
-    "FullDescription": {
-      "#cdata-section": "<p>#94 California and #48 South Damen buses are temporarily rerouted in both directions via via Damen, 71st, Ashland, 69th, Damen and over regular route, due to street blockage near Damen/69th Pl.</p>\r\n\r\n<p>Westbound #67 67th-69th-71st buses are temporarily rerouted via 69th, Damen, Marquette, California, 71st Western, 69th,&nbsp; layover (NB 69th/Western) Marquette over normal route, due to street blockage near Damen/69th Pl.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-17T18:03:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116914"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "South Damen",
-          "ServiceId": "48",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "565a5c",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/48/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "67th-69th-71st",
-          "ServiceId": "67",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/67/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "California",
-          "ServiceId": "94",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/california/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "bfacd45c-1506-476c-8169-fe739aa61dd6"
+    "GUID": "c4dd635f-fe4b-4748-80ff-5cb284e80123"
   }
 ]
