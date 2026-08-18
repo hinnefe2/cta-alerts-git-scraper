@@ -1,118 +1,36 @@
 [
   {
-    "AlertId": "116920",
-    "Headline": "#12 Roosevelt, #18 16th/18th, and #192 U. of Chicago/Hospitals Express buses Temporary Eastbound Reroute near Roosevelt/Clark",
-    "ShortDescription": "EB #12 Roosevelt, #18 16th/18th, and #192 U. of Chicago/Hospitals Express buses are temporarily rerouted, due to a street blockage near Roosevelt/Clark.",
+    "AlertId": "116922",
+    "Headline": "Yellow Line Service Temporarily Suspended",
+    "ShortDescription": "Service on the Yellow Line has been temporarily suspended due to signal problems.",
     "FullDescription": {
-      "#cdata-section": "<p>How does this affect my trip?</p>\r\n\r\n<p>The Eastbound #12 Roosevelt, #18 16th/18th, and #192 U. of Chicago/Hospitals Express buses are temporarily rerouted.</p>\r\n\r\n<p>Eastbound buses will operate via Roosevelt, Clark, Polk, State, then resume their normal route on Roosevelt.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>Why is service being changed?</p>\r\n\r\n<p>Buses are rerouted due to a street blockage near Roosevelt/Clark.</p>\r\n"
+      "#cdata-section": "<p>Service on the Yellow Line has been temporarily suspended due to signal problems.</p>\r\n\r\n<p>Shuttle buses are available between Howard and Skokie to provide connecting service for the Yellow Lines.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Bus Services may include:<br />\r\n#97 Skokie</p>\r\n\r\n<p>We are working to restore service as soon as possible. We apologize for the inconvenience and appreciate your understanding.</p>\r\n\r\n<p>Allow extra travel time</p>\r\n"
     },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-18T06:42:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116920"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Roosevelt",
-          "ServiceId": "12",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/12/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "16th-18th",
-          "ServiceId": "18",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/18/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "U. of Chicago Hospitals Express",
-          "ServiceId": "192",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/192/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "2b863243-92a6-4c48-bb18-c7ec1601faae"
-  },
-  {
-    "AlertId": "116921",
-    "Headline": "Yellow, Purple, and Red Lines Service Delayed at Howard",
-    "ShortDescription": "Yellow, Purple, and Red Line trains are standing at Howard due to signal problems. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Yellow, Purple, and Red Line trains are experiencing a delay at Howard due to signal problems.</p>\r\n\r\n<p>Shuttle buses are available between Howard and Skokie to provide connecting service for the Yellow Lines.</p>\r\n\r\n<p>Shuttle buses have been requested for Howard and Thorndale to provide connecting service for the Red Lines and Howard to Linden for the Purple Lines.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#151 Sheridan&nbsp;</p>\r\n\r\n<p>#22 Clark</p>\r\n\r\n<p>#97 Skokie</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
+    "SeverityScore": "90",
     "SeverityColor": "c00c00",
     "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2026-08-18T07:55:00",
+    "Impact": "Service Suspended",
+    "EventStart": "2026-08-18T09:14:00",
     "EventEnd": null,
     "TBD": "1",
-    "MajorAlert": "0",
+    "MajorAlert": "1",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116921"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116922"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Red Line",
-          "ServiceId": "Red",
-          "ServiceBackColor": "c60c30",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/redline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Purple Line",
-          "ServiceId": "P",
-          "ServiceBackColor": "522398",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/purpleline/"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Yellow Line",
-          "ServiceId": "Y",
-          "ServiceBackColor": "f9e300",
-          "ServiceTextColor": "000000",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/yellowline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Yellow Line",
+        "ServiceId": "Y",
+        "ServiceBackColor": "f9e300",
+        "ServiceTextColor": "000000",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/yellowline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "b35af1ff-e564-493e-8b8c-a2b135a9a9e4"
+    "GUID": "5fe9acc0-02e9-429e-a672-64f3a8ca3c39"
   }
 ]
