@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "AlertId": "116920",
+    "Headline": "#12 Roosevelt, #18 16th/18th, and #192 U. of Chicago/Hospitals Express buses Temporary Eastbound Reroute near Roosevelt/Clark",
+    "ShortDescription": "EB #12 Roosevelt, #18 16th/18th, and #192 U. of Chicago/Hospitals Express buses are temporarily rerouted, due to a street blockage near Roosevelt/Clark.",
+    "FullDescription": {
+      "#cdata-section": "<p>How does this affect my trip?</p>\r\n\r\n<p>The Eastbound #12 Roosevelt, #18 16th/18th, and #192 U. of Chicago/Hospitals Express buses are temporarily rerouted.</p>\r\n\r\n<p>Eastbound buses will operate via Roosevelt, Clark, Polk, State, then resume their normal route on Roosevelt.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>Why is service being changed?</p>\r\n\r\n<p>Buses are rerouted due to a street blockage near Roosevelt/Clark.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-18T06:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116920"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Roosevelt",
+          "ServiceId": "12",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/12/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "16th-18th",
+          "ServiceId": "18",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/18/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "U. of Chicago Hospitals Express",
+          "ServiceId": "192",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/192/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "2b863243-92a6-4c48-bb18-c7ec1601faae"
+  }
+]
