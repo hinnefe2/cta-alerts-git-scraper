@@ -113,5 +113,85 @@
     },
     "ttim": "0",
     "GUID": "76e5f550-036f-494d-bded-139efe078a8e"
+  },
+  {
+    "AlertId": "116942",
+    "Headline": " #3 King Drive, #4 Cottage Grove, #146 XP, #147 XP, and #151 Sheridan Temporary Reroute near Michigan/Wacker",
+    "ShortDescription": " #3 King Drive, #4 Cottage Grove, #146 XP, #147 XP, and #151 Sheridan buses temp. rerouted in both directions due to, Bridge lift near Michigan/Wacker.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>&nbsp;#3 King Drive, #4 Cottage Grove, #146 Inner Lake Shore/Michigan Express, #147 Outer DuSable Lake Shore Express, and #151 Sheridan buses are temporarily rerouted in both directions, due to Bridge lift near Michigan/Wacker.</strong></p>\r\n\r\n<p><strong>Southbound buses</strong> via Michigan, Ontario, Clark, Wacker, and Michigan over regular route.</p>\r\n\r\n<p><strong>Northbound buses</strong> via Michigan, Randolph, Dearborn, Ohio, and&nbsp;Michigan over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-18T23:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116942"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "King Drive",
+          "ServiceId": "3",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/3/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Inner Lake Shore/Michigan Express",
+          "ServiceId": "146",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/146/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Outer DuSable Lake Shore Express",
+          "ServiceId": "147",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/147/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Sheridan",
+          "ServiceId": "151",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/151/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b8e48990-bb2d-4ecc-8a59-2bba422c66ee"
   }
 ]
