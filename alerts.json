@@ -1,1 +1,96 @@
-[]
+[
+  {
+    "AlertId": "116952",
+    "Headline": "#53 Pulaski buses Temporary Reroute near Pulaski/Adams",
+    "ShortDescription": "#53 Pulaski buses are temporarily rerouted in both directions due to police activity near Pulaski/Adams.",
+    "FullDescription": {
+      "#cdata-section": "<p>#53 Pulaski buses are temporarily rerouted in both directions&nbsp;due to police activity near Pulaski/Jackson.</p>\r\n\r\n<p>Southbound buses will operate via Pulaski, Madison, Hamlin, Congress Parkway, Pulaski and over regular route.&nbsp;</p>\r\n\r\n<p>Northbound buses will operate via Pulaski, 5th, Harrison, Independence, Madison, Pulaski and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-19T12:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116952"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Pulaski",
+          "ServiceId": "53",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/53/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson",
+          "ServiceId": "126",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/126/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "7ec895ed-8318-42a7-a739-d89fceb35828"
+  },
+  {
+    "AlertId": "116953",
+    "Headline": "#126 Jackson buses Temporary Reroute near Pulaski/Adams",
+    "ShortDescription": "#126 Jackson buses are temporarily rerouted in both directions, due to police activity near Pulaski/Adams.",
+    "FullDescription": {
+      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted in both directions, due to police activity near Pulaski/Adams.</p>\r\n\r\n<p>Westbound buses will operate via Jackson, Central Park, Congress Parkway, Kostner, Jackson and over regular route.</p>\r\n\r\n<p>Eastbound buses will operate via Jackson, Kostner, 5th, Independence, Harrison, Jackson and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-19T12:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116953"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Pulaski",
+          "ServiceId": "53",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/53/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson",
+          "ServiceId": "126",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/126/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b5cde33f-54f9-44de-8711-e9e9e457b9f7"
+  }
+]
