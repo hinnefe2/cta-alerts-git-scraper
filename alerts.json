@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "116947",
+    "Headline": "Westbound #126 Jackson & Eastbound #124 Navy Pier buses Temporary Reroute near Van Buren/Clinton",
+    "ShortDescription": "Westbound #126 Jackson & Eastbound #124 Navy Pier buses temporarily rerouted, due to construction near Van Buren/Clinton.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #126 Jackson &amp; Eastbound #124 Navy Pier buses temporarily rerouted, due to construction near Van Buren/Clinton.</p>\r\n\r\n<p>Eastbound #124 Navy Pier buses will operate via Clinton, Harrison, Jefferson and over regular route.</p>\r\n\r\n<p>Westbound #126 Jackson buses will operate via Adams, Des Plaines, Van Buren and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-19T08:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116947"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Navy Pier",
+          "ServiceId": "124",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/124/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson",
+          "ServiceId": "126",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/126/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "b40af00d-b8e2-4515-9802-8ad4483cdfda"
+  }
+]
