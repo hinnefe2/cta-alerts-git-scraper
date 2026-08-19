@@ -69,10 +69,10 @@
   },
   {
     "AlertId": "116942",
-    "Headline": " #3 King Drive, #4 Cottage Grove, #146 XP, #147 XP, and #151 Sheridan Temporary Reroute near Michigan/Wacker",
-    "ShortDescription": " #3 King Drive, #4 Cottage Grove, #146 XP, #147 XP, and #151 Sheridan buses temp. rerouted in both directions due to, Bridge lift near Michigan/Wacker.",
+    "Headline": " #3 , #4, #146 XP, #147 XP, #151, and #66 Temporary Reroute near Michigan/Wacker",
+    "ShortDescription": " #3, #4, #146 XP, #147 XP,  #151, and #66 buses temporarily rerouted in both directions due to, bridge lift near Michigan/Wacker.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>&nbsp;#3 King Drive, #4 Cottage Grove, #146 Inner Lake Shore/Michigan Express, #147 Outer DuSable Lake Shore Express, and #151 Sheridan buses are temporarily rerouted in both directions, due to Bridge lift near Michigan/Wacker.</strong></p>\r\n\r\n<p><strong>Southbound buses</strong> via Michigan, Ontario, Clark, Wacker, and Michigan over regular route.</p>\r\n\r\n<p><strong>Northbound buses</strong> via Michigan, Randolph, Dearborn, Ohio, and&nbsp;Michigan over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>&nbsp;#3 King Drive, #4 Cottage Grove, #146 Inner Lake Shore/Michigan Express, #147 Outer DuSable Lake Shore Express,&nbsp;#151 Sheridan and&nbsp;#66 Chicago buses are temporarily rerouted in both directions, due to bridge lift near Michigan/Wacker.</strong></p>\r\n\r\n<p><strong>Southbound buses</strong> via Michigan, Ontario, Clark, Wacker, and Michigan over regular route.</p>\r\n\r\n<p><strong>Northbound buses</strong> via Michigan, Randolph, Dearborn, Ohio, and&nbsp;Michigan over regular route.</p>\r\n\r\n<p><strong>#66 Chicago</strong> buses are temporarily rerouted in both directions via Chicago, Fairbanks, Randolph, and Michigan due to bridge lift near Michigan/Wacker.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -112,6 +112,17 @@
         {
           "ServiceType": "B",
           "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Chicago",
+          "ServiceId": "66",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/66/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
           "ServiceName": "Inner Lake Shore/Michigan Express",
           "ServiceId": "146",
           "ServiceBackColor": "b71234",
@@ -145,6 +156,6 @@
       ]
     },
     "ttim": "0",
-    "GUID": "b8e48990-bb2d-4ecc-8a59-2bba422c66ee"
+    "GUID": "ddc6092e-1b0c-4005-b08a-9023a95a7371"
   }
 ]
