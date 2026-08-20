@@ -1,104 +1,36 @@
 [
   {
-    "AlertId": "116969",
-    "Headline": "#39 Pershing Temporary Reroute near Archer/Western",
-    "ShortDescription": "#39 Pershing buses are temporarily rerouted in both directions, due to street blockage near Archer/Western.",
+    "AlertId": "116973",
+    "Headline": "No trains between 54th/Cermak and Pulaski",
+    "ShortDescription": "Pink Line service has been temporarily suspended between 54th/Cermak and Pulaski due to an obstruction.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>#39 Pershing buses are temporarily rerouted in both directions, due to street blockage near Archer/Western.</strong></p>\r\n\r\n<p><strong>Westbound buses</strong> will operate via Pershing, Damen, 35th, Leavitt, Orange Line terminal and over normal route.</p>\r\n\r\n<p><strong>Eastbound buses</strong> will operate via Orange Line terminal, Archer, 35th, Damen, Pershing&nbsp;and over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Pink Line service has been temporarily suspended between 54th/Cermak and Pulaski due to an obstruction.</p>\r\n\r\n<p>As a result, <strong>trains are operating only between The Loop&nbsp;and Central Park at this time.</strong></p>\r\n\r\n<p>Shuttle buses have been requested between 54th/Cermak and Central Park in both directions provide connecting service through the affected area.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.<br />\r\n<br />\r\nThese may include:<br />\r\n#21 Cermak<br />\r\n#82 Kimball-Homan</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-19T18:01:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116969"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Pershing",
-        "ServiceId": "39",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/39/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "2288804f-7355-4e9b-95cd-73cbed996db1"
-  },
-  {
-    "AlertId": "116970",
-    "Headline": "O'Hare-bound Blue Line Service Delayed at Irving Park",
-    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Irving Park due to police activity. Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Irving Park due to police activity.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.<br />\r\n<br />\r\nThese may include:<br />\r\n#53 Pulaski<br />\r\n#80 Irving Park<br />\r\n#78 Montrose</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
+    "SeverityScore": "84",
     "SeverityColor": "c00c00",
     "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2026-08-19T20:02:00",
+    "Impact": "Service Disruption",
+    "EventStart": "2026-08-19T21:00:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116970"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116973"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "R",
         "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "5b6d0437-1ac4-4e54-ad06-25b273c8086c"
-  },
-  {
-    "AlertId": "116971",
-    "Headline": "Kimball-bound Brown Line Service Delayed near Belmont",
-    "ShortDescription": "Kimball-bound Brown Line trains are standing near Belmont due to a mechanical problem.? Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Kimball-bound Brown Line trains are standing near Belmont due to a mechanical problem.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "40",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-08-19T20:11:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116971"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
+        "ServiceName": "Pink Line",
+        "ServiceId": "Pink",
+        "ServiceBackColor": "e27ea6",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+          "#cdata-section": "http://www.transitchicago.com/pinkline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "a926df54-222b-45ba-be2d-398244ec64c8"
+    "GUID": "e5c5792d-395c-4021-955a-213b51310b33"
   }
 ]
