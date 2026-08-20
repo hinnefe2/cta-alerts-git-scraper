@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "AlertId": "116974",
+    "Headline": "#21 Cermak Temporary Eastbound Reroute near Cermak/Ogden",
+    "ShortDescription": "Eastbound 21 Cermak buses are temporarily rerouted, due to street blockage near Cermak/Ogden.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #21 Cermak buses are temporarily rerouted via Cermak, Ogden, Central Park, 16th, Kedzie, then resume their normal route, due to street blockage near Cermak/Ogden.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-19T23:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116974"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cermak",
+        "ServiceId": "21",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/21/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3ecb0175-8516-42a8-ac81-9386e30ba144"
+  },
+  {
+    "AlertId": "116975",
+    "Headline": "#52 Kedzie Temporary Reroute at Cermak/Ogden",
+    "ShortDescription": "52 Kedzie buses are temporarily rerouted in both directions, due to a street blockage near Cermak/Ogden.",
+    "FullDescription": {
+      "#cdata-section": "<p>#52 Kedzie buses are temporarily rerouted in both directions via Kedzie, Cermak, Trumbull, Cermak, Central Park, 16th, Kedzie, and over normal route, due to a street blockage near Cermak/Ogden.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-19T23:15:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116975"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kedzie",
+        "ServiceId": "52",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/kedzie/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cc912b85-2d83-4ff7-a3f9-5602a49da1ee"
+  }
+]
