@@ -1,99 +1,5 @@
 [
   {
-    "AlertId": "116952",
-    "Headline": "#53 Pulaski buses Temporary Reroute near Pulaski/Adams",
-    "ShortDescription": "#53 Pulaski buses are temporarily rerouted in both directions due to police activity near Pulaski/Adams.",
-    "FullDescription": {
-      "#cdata-section": "<p>#53 Pulaski buses are temporarily rerouted in both directions&nbsp;due to police activity near Pulaski/Jackson.</p>\r\n\r\n<p>Southbound buses will operate via Pulaski, Madison, Hamlin, Congress Parkway, Pulaski and over regular route.&nbsp;</p>\r\n\r\n<p>Northbound buses will operate via Pulaski, 5th, Harrison, Independence, Madison, Pulaski and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-19T12:44:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116952"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Pulaski",
-          "ServiceId": "53",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/53/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jackson",
-          "ServiceId": "126",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/126/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "7ec895ed-8318-42a7-a739-d89fceb35828"
-  },
-  {
-    "AlertId": "116953",
-    "Headline": "#126 Jackson buses Temporary Reroute near Pulaski/Adams",
-    "ShortDescription": "#126 Jackson buses are temporarily rerouted in both directions, due to police activity near Pulaski/Adams.",
-    "FullDescription": {
-      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted in both directions, due to police activity near Pulaski/Adams.</p>\r\n\r\n<p>Westbound buses will operate via Jackson, Central Park, Congress Parkway, Kostner, Jackson and over regular route.</p>\r\n\r\n<p>Eastbound buses will operate via Jackson, Kostner, 5th, Independence, Harrison, Jackson and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-19T12:49:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116953"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Pulaski",
-          "ServiceId": "53",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/53/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jackson",
-          "ServiceId": "126",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/126/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "b5cde33f-54f9-44de-8711-e9e9e457b9f7"
-  },
-  {
     "AlertId": "116969",
     "Headline": "#39 Pershing Temporary Reroute near Archer/Western",
     "ShortDescription": "#39 Pershing buses are temporarily rerouted in both directions, due to street blockage near Archer/Western.",
@@ -126,5 +32,73 @@
     },
     "ttim": "0",
     "GUID": "2288804f-7355-4e9b-95cd-73cbed996db1"
+  },
+  {
+    "AlertId": "116970",
+    "Headline": "O'Hare-bound Blue Line Service Delayed at Irving Park",
+    "ShortDescription": "O'Hare-bound Blue Line trains are standing at Irving Park due to police activity. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are standing at Irving Park due to police activity.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.<br />\r\n<br />\r\nThese may include:<br />\r\n#53 Pulaski<br />\r\n#80 Irving Park<br />\r\n#78 Montrose</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-08-19T20:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116970"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5b6d0437-1ac4-4e54-ad06-25b273c8086c"
+  },
+  {
+    "AlertId": "116971",
+    "Headline": "Kimball-bound Brown Line Service Delayed near Belmont",
+    "ShortDescription": "Kimball-bound Brown Line trains are standing near Belmont due to a mechanical problem.? Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Kimball-bound Brown Line trains are standing near Belmont due to a mechanical problem.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-08-19T20:11:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116971"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a926df54-222b-45ba-be2d-398244ec64c8"
   }
 ]
