@@ -1,70 +1,36 @@
 [
   {
-    "AlertId": "116992",
-    "Headline": "Brown Line Delays",
-    "ShortDescription": "Brown Line trains are running w/residual delays following earlier fire department activity at Western. Service is resuming, allow extra time.",
+    "AlertId": "116997",
+    "Headline": "63rd-bound Green Line Delays",
+    "ShortDescription": "63rd-bound Green Line trains are running with residual delays following an earlier sick customer at Indiana. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line trains are running w/residual delays following earlier fire department activity at Western.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>63rd-bound Green Line trains are running with residual delays following an earlier sick customer at Indiana.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2026-08-20T18:05:00",
+    "EventStart": "2026-08-20T20:45:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116992"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116997"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "R",
         "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
-        "ServiceTextColor": "ffffff",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "854a438e-fe86-4268-99a0-8855ba12345b"
-  },
-  {
-    "AlertId": "116995",
-    "Headline": "#21 Cermak Temporary Westbound Reroute near Cermak/Archer",
-    "ShortDescription": "Westbound #21 Cermak buses are temporarily rerouted via Cermak, Archer, Canal, Cermak and over normal route: due to a street blockage near Cermak/Archer.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #21 Cermak buses are temporarily rerouted via Cermak, Archer, Canal, Cermak and over normal route: due to a street blockage near Cermak/Archer.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-20T18:55:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=116995"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cermak",
-        "ServiceId": "21",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/21/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "1e073f9c-1e2e-4222-adab-7915cef9c5b5"
+    "GUID": "cdf131b6-e93c-4ade-a284-914f7991979c"
   }
 ]
