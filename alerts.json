@@ -38,7 +38,7 @@
     "Headline": "#J14 Jeffery Jump, #15 Jeffery Local and #N5 South Shore Night Temporary Southbound Reroute near Jeffery/73rd",
     "ShortDescription": "Southbound #J14 Jeffery Jump, #15 Jeffery Local and #N5 South Shore Night  buses are temporarily rerouted due to a street blockage near Jeffery/73rd.",
     "FullDescription": {
-      "#cdata-section": "<p>Southbound #J14 Jeffery Jump, #15 Jeffery Local and #N5 South Shore Night Bus buses are temporarily rerouted via Jeffery, 73rd, Stony Island, 75th, and Jeffery over the regular route due to a street blockage near Jeffery/73rd.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>Southbound #J14 Jeffery Jump, #15 Jeffery Local and #N5 South Shore Night&nbsp;buses are temporarily rerouted via Jeffery, 73rd, Stony Island, 75th, and Jeffery over the regular route due to a street blockage near Jeffery/73rd.</strong></p>\r\n\r\n<p><strong>Northbound buses are not affected.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -89,6 +89,40 @@
       ]
     },
     "ttim": "0",
-    "GUID": "540e80ff-efb0-4d4c-bad6-88d1b9645405"
+    "GUID": "3a907f71-f2f8-4361-a67f-ea4ac0235248"
+  },
+  {
+    "AlertId": "117016",
+    "Headline": "Howard-bound Red Line Delays",
+    "ShortDescription": "Howard-bound Red Line trains are running w/major delays following an earlier mechanical problem near Belmont. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are running w/major delays following an earlier mechanical problem near Belmont.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-08-21T17:28:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117016"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "edca2829-a8dc-48e2-9d6c-6c95ab5c0031"
   }
 ]
