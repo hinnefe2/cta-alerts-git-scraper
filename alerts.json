@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "05da24ee-e975-4fb2-a1b8-ba7f1d2db5b9"
+  },
+  {
+    "AlertId": "117014",
+    "Headline": "#35 31st/35th and #39 Pershing Temporary Westbound Reroute near 35th Red Line",
+    "ShortDescription": "Westbound #35 31st/35th and Westbound #39 Pershing are temporarily rerouted due to, street blockage near 35th Red Line. ",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>Westbound #35 31st/35th</strong> buses are temporarily rerouted via 35th, LaSalle, 31st, Wentworth, and 35th due to, street blockage near 35th Red Line.</p>\r\n\r\n<p><strong>Westbound #39 Pershing</strong>&nbsp;buses are temporarily rerouted via LaSalle, 31st, Wentworth, and 39th due to, street blockage near 35th Red Line.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-21T12:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117014"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "31st/35th",
+          "ServiceId": "35",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/35/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Pershing",
+          "ServiceId": "39",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/39/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "7a9b669b-c640-4ce6-8a3f-a373579fc67a"
   }
 ]
