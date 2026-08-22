@@ -195,10 +195,10 @@
   },
   {
     "AlertId": "117028",
-    "Headline": "Loop-bound Brown Line Service Delayed at Diversey",
-    "ShortDescription": "Loop-bound Brown Line trains are standing at Diversey due to a mechanical problem. Crews working to restore service.",
+    "Headline": "Brown Line Service Delayed at Diversey",
+    "ShortDescription": "Brown Line trains are standing at Diversey due to a mechanical problem. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown Line trains are standing at Diversey due to a mechanical problem.</p>\n\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.<br />\n<br />\nThese may include:<br />\n#8 Halsted<br />\n#22 Clark<br />\n#36 Broadway</p>\n\n<p>Personnel are working to restore service. Allow extra travel time.</p>\n"
+      "#cdata-section": "<p>Brown Line trains are standing at Diversey due to a mechanical problem.<br />\r\n<br />\r\nShuttle buses have been requested from Kimball to Belmont, in both directions to provide connecting service through the affected area.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.<br />\r\n<br />\r\nThese may include:<br />\r\n#8 Halsted<br />\r\n#22 Clark<br />\r\n#36 Broadway</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "80",
     "SeverityColor": "c00c00",
@@ -225,6 +225,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "429e365c-ddcc-4df6-9d7a-01256058eaec"
+    "GUID": "23fce4f4-d02c-4905-a78d-5ec5e8feaa0d"
+  },
+  {
+    "AlertId": "117029",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running w/residual delays following an earlier delay near Fullerton. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running w/residual delays following an earlier delay near Fullerton.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-08-22T13:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117029"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "9d034395-d857-46c7-8a6b-72c207b66061"
   }
 ]
