@@ -34,64 +34,6 @@
     "GUID": "30e26cd4-0197-41d3-8f4f-c9116050b338"
   },
   {
-    "AlertId": "117015",
-    "Headline": "#J14 Jeffery Jump, #15 Jeffery Local and #N5 South Shore Night Temporary Southbound Reroute near Jeffery/73rd",
-    "ShortDescription": "Southbound #J14 Jeffery Jump, #15 Jeffery Local and #N5 South Shore Night  buses are temporarily rerouted due to a street blockage near Jeffery/73rd.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>Southbound #J14 Jeffery Jump, #15 Jeffery Local and #N5 South Shore Night&nbsp;buses are temporarily rerouted via Jeffery, 73rd, Stony Island, 75th, and Jeffery over the regular route due to a street blockage near Jeffery/73rd.</strong></p>\r\n\r\n<p><strong>Northbound buses are not affected.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-21T17:07:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117015"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "South Shore Night Bus",
-          "ServiceId": "N5",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "009999",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/n5/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Jump",
-          "ServiceId": "J14",
-          "ServiceBackColor": "0065BD",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Local",
-          "ServiceId": "15",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/15/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "3a907f71-f2f8-4361-a67f-ea4ac0235248"
-  },
-  {
     "AlertId": "117024",
     "Headline": "#126 Jackson Temporary Reroute at Jackson/Central",
     "ShortDescription": "126 Jackson buses are temporarily rerouted in both directions, due to a street blockage near Jackson/Central.",
@@ -124,39 +66,5 @@
     },
     "ttim": "0",
     "GUID": "c57f390b-a146-4ff3-8807-9bec914dc53f"
-  },
-  {
-    "AlertId": "117025",
-    "Headline": "#78 Montrose Temporary Reroute at Marine Drive/Montrose",
-    "ShortDescription": "78 Montrose buses will terminate at Marine Drive/Montrose due to a beach terminal closure.",
-    "FullDescription": {
-      "#cdata-section": "<p>#78 Montrose buses will terminate at Marine Drive/Montrose due to a beach terminal closure.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-22T09:57:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117025"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Montrose",
-        "ServiceId": "78",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/78/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b0198ebf-1261-42cd-8c90-4f97f9b9f9c5"
   }
 ]
