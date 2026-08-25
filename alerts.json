@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "AlertId": "117066",
+    "Headline": "#3 King Drive, #4 Cottage Grove, #111 King Drive/111th, & #115 Pullman/115th Temporary Reroute at King Drive/95th",
+    "ShortDescription": "#3, #4, #111, & #115 route buses are temporarily rerouted in both directions, due to fire department activity near King Drive/95th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#3 King Drive, #4 Cottage Grove, #111 King Drive/111th, and #115 Pullman/115th buses are temporarily rerouted in both directions via 95th, Michigan, 100th, King Drive, 95th and over regular route, due to fire department activity near King Drive/95th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-24T22:40:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117066"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "King Drive",
+          "ServiceId": "3",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/3/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cottage Grove",
+          "ServiceId": "4",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "111th/King Drive",
+          "ServiceId": "111",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/111/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Pullman/115th",
+          "ServiceId": "115",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/115/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "95th",
+          "ServiceId": "95",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "2265fd58-b386-4f04-bee9-f88e7089f935"
+  },
+  {
+    "AlertId": "117068",
+    "Headline": "#20 Madison buses Temporary Reroute at Madison/Kostner",
+    "ShortDescription": "#20 Madison buses are temporarily rerouted in both directions, due to a street blockage near Madison/Kostner.",
+    "FullDescription": {
+      "#cdata-section": "<p>#20 Madison buses are temporarily rerouted in both directions via Madison, Kostner, Jackson, Cicero,&nbsp;Madison and over regular route, due to a street blockage near Madison/Kostner.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-24T22:55:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117068"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "82fdeba3-06c4-4f6a-afa3-be8ffd45ea96"
+  }
+]
