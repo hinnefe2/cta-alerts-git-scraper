@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "AlertId": "117127",
+    "Headline": "#12 Roosevelt and #18 16th/18th Temporary Eastbound Reroute near Roosevelt/Wabash",
+    "ShortDescription": "Eastbound #12 Roosevelt and #18 16th/18th buses are temporarily rerouted, due to street blockage near Roosevelt/Wabash. ",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>Eastbound #12 Roosevelt and #18 16th/18th&nbsp;buses are temporarily rerouted, due to street blockage near Roosevelt/Wabash.&nbsp;</strong><br />\r\n<br />\r\n<strong>EB #12 Roosevelt </strong>buses will operate via: Roosevelt, Wabash, 13th, Indiana and over normal route.<br />\r\n<br />\r\n<strong>EB #18 16th/18th</strong> buses will operate via: Roosevelt, State, 11th, Wabash and over normal route.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-08-27T16:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117127"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Roosevelt",
+          "ServiceId": "12",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/12/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "16th-18th",
+          "ServiceId": "18",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/18/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "869af963-b5b3-4dc1-8df8-f414f911469f"
+  }
+]
