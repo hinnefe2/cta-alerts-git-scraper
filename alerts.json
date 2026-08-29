@@ -34,84 +34,37 @@
     "GUID": "43a8e8d0-e59a-42b3-9b5f-7f597dcc35bd"
   },
   {
-    "AlertId": "117161",
-    "Headline": "#22 Clark and #152 Addison Temporary Reroute near Clark/Addison",
-    "ShortDescription": "#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
+    "AlertId": "117164",
+    "Headline": "#35 31st/35th Temporary Westbound Reroute near 35th/Normal",
+    "ShortDescription": "Westbound #35 31st/35th buses are temporarily rerouted due to, street blockage near 35th/Normal.\r\n\r\n",
     "FullDescription": {
-      "#cdata-section": "<p><strong>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.</strong></p>\r\n\r\n<p><strong>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</strong></p>\r\n\r\n<p><strong>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
+      "#cdata-section": "<p><strong>Westbound #35 31st/35th buses are temporarily rerouted via 35th, Wentworth, Pershing, Wallace, and 35th due to, street blockage near 35th/Normal.</strong></p>\r\n\r\n<p><strong>Eastbound buses are not affected.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-29T14:59:00",
+    "EventStart": "2026-08-29T16:47:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117161"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Clark",
-          "ServiceId": "22",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/22/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Addison",
-          "ServiceId": "152",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/152/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "d309dbd6-babf-4c5a-bfd8-2c53c615a105"
-  },
-  {
-    "AlertId": "117162",
-    "Headline": "#63 63rd Temporary Reroute at 63rd/Maplewood",
-    "ShortDescription": "#63 63rd buses are temporarily rerouted in both directions, due to police activity near 63rd/Maplewood. ",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>#63 63rd buses are temporarily rerouted in both directions via 63rd, Western, 59th, California, and 63rd then&nbsp;over their normal route, due to police activity near 63rd/Maplewood.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-29T15:35:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117162"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117164"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "63rd",
-        "ServiceId": "63",
+        "ServiceName": "31st/35th",
+        "ServiceId": "35",
         "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/63/"
+          "#cdata-section": "http://www.transitchicago.com/bus/35/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "69543119-0041-4a3e-aee3-88ce5fe0f032"
+    "GUID": "f1deb408-08fe-4adc-919d-a97b0febb376"
   }
 ]
