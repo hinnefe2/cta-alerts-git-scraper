@@ -1,70 +1,36 @@
 [
   {
-    "AlertId": "117188",
-    "Headline": "#50 Damen Temporary Reroute at Damen/16th",
-    "ShortDescription": "50 Damen buses are temp. rerouted in both directions via Damen, Roosevelt, Ashland, 18th, Damen and over normal route, due to street blockage near Damen/16th.",
+    "AlertId": "117192",
+    "Headline": "#87 87thTemporary Reroute at 87th/Halsted",
+    "ShortDescription": "87 87th buses are temporarily rerouted in both directions, due to street blockage near 87th/Halsted.",
     "FullDescription": {
-      "#cdata-section": "<p>#50 Damen buses are temporarily rerouted in both directions via Damen, Roosevelt, Ashland, 18th, Damen and over normal route, due to street blockage near Damen/16th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#87 87th buses are temporarily rerouted in both directions via 87th, Halsted, 83rd, Racine, 87th and over regular route, due to street blockage near 87th/Halsted.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-31T17:08:00",
+    "EventStart": "2026-08-31T21:48:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117188"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117192"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Damen",
-        "ServiceId": "50",
+        "ServiceName": "87th",
+        "ServiceId": "87",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/50/"
+          "#cdata-section": "http://www.transitchicago.com/bus/87/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "f3f3b102-40e7-4de7-8e07-05c0244dd888"
-  },
-  {
-    "AlertId": "117189",
-    "Headline": "#22 Clark Temporary Southbound Reroute near Clark/Ohio",
-    "ShortDescription": "SB 22 Clark buses are temporarily rerouted via Clark, Ontario, LaSalle, Kinzie, then resume their normal route on Clark, due to police activity near Clark/Ohio.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #22 Clark buses are temporarily rerouted via Clark, Ontario, LaSalle, Kinzie, then resume their normal route on Clark, due to police activity near Clark/Ohio.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-08-31T19:50:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117189"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Clark",
-        "ServiceId": "22",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/22/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "5cb160ad-16d3-4cf0-86dc-649ceff9e2a2"
+    "GUID": "48e82a48-1bf3-48fa-be0e-4f479be836db"
   }
 ]
