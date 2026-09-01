@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "f15a0d77-c231-4c71-b575-f3764180da45"
+  },
+  {
+    "AlertId": "117209",
+    "Headline": "Red and Purple Line Delays",
+    "ShortDescription": "Red and Purple Line trains are running w/major delays following earlier track switching problems at Howard. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red and Purple Line trains are running w/major delays following earlier track switching problems at Howard.</p>\r\n\r\n<p>Normal boarding/exiting for Purple Line service has been restored.&nbsp;</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-09-01T17:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117209"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Red Line",
+          "ServiceId": "Red",
+          "ServiceBackColor": "c60c30",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/redline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Purple Line",
+          "ServiceId": "P",
+          "ServiceBackColor": "522398",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/purpleline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "82821774-80a7-4cd9-9361-c04d158122c1"
   }
 ]
