@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "117195",
-    "Headline": "#85 Central buses Temporary Reroute at Central/Wabansia",
-    "ShortDescription": "The #85 Central buses are temporarily rerouted due to police activity near Central/Wabansia.",
-    "FullDescription": {
-      "#cdata-section": "<p>How does this affect my trip?</p>\r\n\r\n<p>#85 Central buses are temporarily rerouted in both directions via Central, North Avenue, Austin, Grand, Central and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>Why is service being changed?</p>\r\n\r\n<p>Buses are rerouted due to police activity near Central/Wabansia.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-01T06:40:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117195"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Central",
-        "ServiceId": "85",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/85/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "014f1972-814f-4934-8768-b85063826493"
-  },
-  {
     "AlertId": "117197",
     "Headline": "#94 California buses Temporary Northbound Reroute near California/Marquette",
     "ShortDescription": "Northbound #94 California buses are temporarily rerouted, due to construction near California/Marquette.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "f15a0d77-c231-4c71-b575-f3764180da45"
+  },
+  {
+    "AlertId": "117202",
+    "Headline": "#39 Pershing Temporary Reroute near Pershing/LaSalle",
+    "ShortDescription": "#39 Pershing buses are temporarily rerouted in both directions, due to street blockage near Pershing/LaSalle.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#39 Pershing buses are temporarily rerouted in both directions, due to street blockage near Pershing/LaSalle.</strong></p>\r\n\r\n<p>Eastbound buses will operate via Pershing, LaSalle, 35th, State, Pershing and over normal route.</p>\r\n\r\n<p>Westbound buses will operate via Pershing, State, 35th, Wentworth, Pershing and over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-01T13:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117202"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pershing",
+        "ServiceId": "39",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/39/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8c8e341f-52b3-4c7e-87af-ebc391c63352"
   }
 ]
