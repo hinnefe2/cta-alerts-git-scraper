@@ -100,5 +100,99 @@
     },
     "ttim": "0",
     "GUID": "6d8713ec-cda6-46a8-af59-87e521d9d95f"
+  },
+  {
+    "AlertId": "117239",
+    "Headline": "#26 South Shore Express buses Temporary Southbound Reroute near 106th/Torrence",
+    "ShortDescription": "SB #26 South Shore Express buses are temp rerouted via Ewing, 100th, Commercial, 104th and over regular route, due to a street blockage near 106th/Torrence.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound # 26 South Shore Express buses are temporarily rerouted via Ewing, 100th, Commercial, 104th and over regular route, due to a street blockage near 106th/Torrence.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-02T18:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117239"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Manor Express",
+          "ServiceId": "100",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/100/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "3e6c7f9b-30ac-48dd-a8d4-0aeca6998980"
+  },
+  {
+    "AlertId": "117240",
+    "Headline": "#100 Jeffrey Manor Express buses Temporary Reroute at 106th/Torrence",
+    "ShortDescription": "#100 Jeffrey Manor Express buses are temporarily rerouted in both directions, due to a street blockage near 106th/Torrence.",
+    "FullDescription": {
+      "#cdata-section": "<p>&nbsp;#100 Jeffrey Manor Express buses are temporarily rerouted in both directions via 104th, Commercial, 100th, Ewing and over regular route, due to street blockage near 106th/Torrence.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-02T18:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117240"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jeffery Manor Express",
+          "ServiceId": "100",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/100/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "446d7e74-de98-4fec-8bc7-8b15e198313a"
   }
 ]
