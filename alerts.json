@@ -1,198 +1,70 @@
 [
   {
-    "AlertId": "117224",
-    "Headline": "#55 Garfield Temporary Reroute at Garfield/St. Luis",
-    "ShortDescription": "#55 Garfield buses are temporarily rerouted in both directions due to, street blockage near Garfield/St. Luis.",
+    "AlertId": "117244",
+    "Headline": "#49 Western Temporary Reroute at Western/Jackson",
+    "ShortDescription": "49 Western buses are temporarily rerouted in both directions, due to street blockage near Western/Jackson.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>#55 Garfield buses are temporarily rerouted in both directions via Garfield, Pulaski, 59th, Kedzie, and Garfield then resume their regular route, due to street blockage near Garfield/St. Luis.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
+      "#cdata-section": "<p>#49 Western buses are temporarily rerouted in both directions via Western, Jackson, California, Harrison, Western and over normal route, due to street blockage near Western/Jackson.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-02T12:01:00",
+    "EventStart": "2026-09-02T22:59:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117224"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117244"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Garfield",
-        "ServiceId": "55",
+        "ServiceName": "Western",
+        "ServiceId": "49",
         "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/55/"
+          "#cdata-section": "http://www.transitchicago.com/bus/49/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "e1e393c2-ea1d-4cd5-829c-f801cb1588c6"
+    "GUID": "5e3efcab-445c-4747-a5e6-bb3cdc4df256"
   },
   {
-    "AlertId": "117227",
-    "Headline": "#66 Chicago Temporary Reroute at Chicago/Laramie",
-    "ShortDescription": "#66 Chicago buses are temporarily rerouted in both directions due to, street blockage near Chicago/Laramie. ",
+    "AlertId": "117245",
+    "Headline": "Yellow Line Service Delayed near Skokie",
+    "ShortDescription": "Yellow Line trains are standing near Skokie due to signal problems. Crews working to restore service.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>#66 Chicago buses are temporarily rerouted in both directions via Chicago, Laramie, Augusta, Central, and Chicago then resume their normal route, due to street blockage near Chicago/Laramie.&nbsp;</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
+      "#cdata-section": "<p>Yellow Line trains are standing near Skokie due to signal problems.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-02T12:25:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-09-02T23:47:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117227"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117245"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Chicago",
-        "ServiceId": "66",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Yellow Line",
+        "ServiceId": "Y",
+        "ServiceBackColor": "f9e300",
+        "ServiceTextColor": "000000",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/66/"
+          "#cdata-section": "http://www.transitchicago.com/yellowline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "2db86ab8-98e4-4cd4-8aba-905db30f3213"
-  },
-  {
-    "AlertId": "117234",
-    "Headline": "#71 71st/South Shore buses Temporary Southbound Reroute near 71st/Oglesby",
-    "ShortDescription": "SB #71 71st/South Shore buses are temporarily rerouted via 71st, Stony Island, 75th, Exchange and over regular route, due to construction near 71st/Oglesby.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound&nbsp;#71 71st/South Shore buses are temporarily rerouted via 71st, Stony Island, 75th, Exchange and over regular route, due to construction near 71st/Oglesby.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-02T13:55:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117234"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "71st/South Shore",
-        "ServiceId": "71",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/71/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6d8713ec-cda6-46a8-af59-87e521d9d95f"
-  },
-  {
-    "AlertId": "117239",
-    "Headline": "#26 South Shore Express buses Temporary Southbound Reroute near 106th/Torrence",
-    "ShortDescription": "SB #26 South Shore Express buses are temp rerouted via Ewing, 100th, Commercial, 104th and over regular route, due to a street blockage near 106th/Torrence.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound # 26 South Shore Express buses are temporarily rerouted via Ewing, 100th, Commercial, 104th and over regular route, due to a street blockage near 106th/Torrence.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-02T18:06:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117239"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "South Shore Express",
-          "ServiceId": "26",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/26/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Manor Express",
-          "ServiceId": "100",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/100/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "3e6c7f9b-30ac-48dd-a8d4-0aeca6998980"
-  },
-  {
-    "AlertId": "117240",
-    "Headline": "#100 Jeffrey Manor Express buses Temporary Reroute at 106th/Torrence",
-    "ShortDescription": "#100 Jeffrey Manor Express buses are temporarily rerouted in both directions, due to a street blockage near 106th/Torrence.",
-    "FullDescription": {
-      "#cdata-section": "<p>&nbsp;#100 Jeffrey Manor Express buses are temporarily rerouted in both directions via 104th, Commercial, 100th, Ewing and over regular route, due to street blockage near 106th/Torrence.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-02T18:08:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117240"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "South Shore Express",
-          "ServiceId": "26",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/26/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Manor Express",
-          "ServiceId": "100",
-          "ServiceBackColor": "ffffff",
-          "ServiceTextColor": "b71234",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/100/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "446d7e74-de98-4fec-8bc7-8b15e198313a"
+    "GUID": "45a7e830-10b1-4f8e-9d04-5292471329a8"
   }
 ]
