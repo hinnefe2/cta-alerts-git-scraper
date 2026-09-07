@@ -1,70 +1,36 @@
 [
   {
-    "AlertId": "117321",
-    "Headline": "#9 Ashland buses Temporary Northbound Reroute near Ashland/53rd",
-    "ShortDescription": "Northbound #9 Ashland buses are temporarily rerouted via Ashland, 55th, Damen, 51st, Ashland and over normal route, due to a street blockage near Ashland/53rd.",
+    "AlertId": "117325",
+    "Headline": "Green Line Delays",
+    "ShortDescription": "Some Green Line trains are running with residual delays after earlier signal problems at Cottage Grove. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #9 Ashland buses are temporarily rerouted via Ashland, 55th, Damen, 51st, Ashland and over normal route, due to a street blockage near Ashland/53rd.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Some Green Line trains are running with residual delays after earlier signal problems at Garfield.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Shuttle buses are available between Garfield and Cottage Grove to provide connecting service through the affected area on both directions.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-07T05:01:00",
+    "SeverityScore": "90",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Suspended",
+    "EventStart": "2026-09-07T09:42:00",
     "EventEnd": null,
     "TBD": "1",
-    "MajorAlert": "0",
+    "MajorAlert": "1",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117321"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117325"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Ashland",
-        "ServiceId": "9",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/9/"
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "20eacddb-2749-4f35-8ec4-b6a724c76a71"
-  },
-  {
-    "AlertId": "117322",
-    "Headline": " #60 Blue Island/26th buses Temporary Westbound Reroute near Blue Island/Western",
-    "ShortDescription": "Westbound #60 Blue Island/26th buses are temporarily rerouted, due to a street blockage near Blue Island/Western.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #60 Blue Island/26th buses are temporarily rerouted via Blue Island, Western, Cermak, California, 26th and over regular route: due to a street blockage near Blue Island/Western.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-07T05:12:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117322"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Blue Island/26th",
-        "ServiceId": "60",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/60/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "2147b8cd-98bc-46fa-8fe1-7ad2f3ae1d76"
+    "GUID": "694719b8-ef82-4012-82f2-311067596d91"
   }
 ]
