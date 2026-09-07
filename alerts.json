@@ -1,36 +1,70 @@
 [
   {
-    "AlertId": "117319",
-    "Headline": "#55 Garfield buses Temporary Eastbound Reroute near Garfield/Oakley",
-    "ShortDescription": "Eastbound #55 Garfield buses are temporarily rerouted via 55th, Western, 59th, Damen, 55th & over normal route due to a street blockage near Garfield/Oakley.\r\n",
+    "AlertId": "117321",
+    "Headline": "#9 Ashland buses Temporary Northbound Reroute near Ashland/53rd",
+    "ShortDescription": "Northbound #9 Ashland buses are temporarily rerouted via Ashland, 55th, Damen, 51st, Ashland and over normal route, due to a street blockage near Ashland/53rd.",
     "FullDescription": {
-      "#cdata-section": "<p>Eastbound #55 Garfield buses are temporarily rerouted via 55th, Western, 59th, Damen, 55th and over normal route due to a street blockage near Garfield/Oakley.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #9 Ashland buses are temporarily rerouted via Ashland, 55th, Damen, 51st, Ashland and over normal route, due to a street blockage near Ashland/53rd.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-06T23:40:00",
+    "EventStart": "2026-09-07T05:01:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117319"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117321"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Garfield",
-        "ServiceId": "55",
-        "ServiceBackColor": "414145",
+        "ServiceName": "Ashland",
+        "ServiceId": "9",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/55/"
+          "#cdata-section": "http://www.transitchicago.com/bus/9/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "a2f2754c-cea8-4b40-b27f-09c671bbf720"
+    "GUID": "20eacddb-2749-4f35-8ec4-b6a724c76a71"
+  },
+  {
+    "AlertId": "117322",
+    "Headline": " #60 Blue Island/26th buses Temporary Westbound Reroute near Blue Island/Western",
+    "ShortDescription": "Westbound #60 Blue Island/26th buses are temporarily rerouted, due to a street blockage near Blue Island/Western.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #60 Blue Island/26th buses are temporarily rerouted via Blue Island, Western, Cermak, California, 26th and over regular route: due to a street blockage near Blue Island/Western.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-07T05:12:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117322"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Blue Island/26th",
+        "ServiceId": "60",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/60/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2147b8cd-98bc-46fa-8fe1-7ad2f3ae1d76"
   }
 ]
