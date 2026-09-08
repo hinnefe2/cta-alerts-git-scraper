@@ -31,7 +31,7 @@
       }
     },
     "ttim": "0",
-    "GUID": "57f0b75f-b4bc-4116-8684-6b12770b1301"
+    "GUID": "1a9acdf2-5841-4fef-b0fc-c4ef628c3dae"
   },
   {
     "AlertId": "117329",
@@ -66,5 +66,39 @@
     },
     "ttim": "0",
     "GUID": "28431b67-e728-46e7-b012-3854d298f070"
+  },
+  {
+    "AlertId": "117333",
+    "Headline": "#20 Madison buses Temporary Reroute at Madison/Kostner",
+    "ShortDescription": "#20 Madison buses are temporarily rerouted in both directions, due to police activity near Madison/Kostner.",
+    "FullDescription": {
+      "#cdata-section": "<p>The #20 Madison buses are temporarily rerouted in both directions via Madison, Kostner, Jackson, Cicero, Madison and over regular route, due to police activity near Madison/Kostner.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-07T23:54:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117333"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Madison",
+        "ServiceId": "20",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/20/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2ed35405-2307-4283-84ff-62d7ebaaf2a7"
   }
 ]
