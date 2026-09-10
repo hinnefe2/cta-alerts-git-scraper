@@ -1,21 +1,21 @@
 [
   {
-    "AlertId": "117390",
-    "Headline": "#8 Halsted Temporary Reroute at Halsted/Cermak",
-    "ShortDescription": "8 Halsted buses are temporarily rerouted in both directions, due to street blockage near Halsted/Cermak.",
+    "AlertId": "117400",
+    "Headline": "#8 Halsted Temporary Southbound Reroute near Halsted/Roosevelt",
+    "ShortDescription": "SB 8 Halsted  buses are temp. rerouted via Halsted, Roosevelt, Racine, 16th, Halsted and over regular route: due to a street blockage near Halsted/Roosevelt. ",
     "FullDescription": {
-      "#cdata-section": "<p>#8 Halsted buses are temporarily rerouted in both directions via Halsted, Cermak, Canal, Archer, Halsted Orange Line and over regular route due to street blockage near Halsted/Cermak.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #8 Halsted&nbsp; buses are temporarily rerouted via Halsted, Roosevelt, Racine, 16th, Halsted and over regular route: due to a street blockage near Halsted/Roosevelt.&nbsp;</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-10T08:21:00",
+    "EventStart": "2026-09-10T16:23:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117390"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117400"
     },
     "ImpactedService": {
       "Service": {
@@ -31,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "74f01e9d-85cc-4ab0-8400-2abc502b33af"
+    "GUID": "704de4ee-e0c9-42bf-8e94-80557a1b43f8"
+  },
+  {
+    "AlertId": "117401",
+    "Headline": "#18 16th/18th Temporary Westbound Reroute near Halsted/Roosevelt",
+    "ShortDescription": "Westbound #18 16th/18th buses are temporarily rerouted via Roosevelt, Racine, 18th and over normal route: due to a street blockage near Halsted/Roosevelt.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #18 16th/18th buses are temporarily rerouted via Roosevelt, Racine, 18th and over normal route: due to a street blockage near Halsted/Roosevelt.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-10T16:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117401"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "16th-18th",
+        "ServiceId": "18",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/18/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "63c1783a-1014-4b18-8968-aa6a47b69bf7"
   }
 ]
