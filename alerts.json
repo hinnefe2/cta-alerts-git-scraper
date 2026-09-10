@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "AlertId": "117390",
+    "Headline": "#8 Halsted Temporary Reroute at Halsted/Cermak",
+    "ShortDescription": "8 Halsted buses are temporarily rerouted in both directions, due to street blockage near Halsted/Cermak.",
+    "FullDescription": {
+      "#cdata-section": "<p>#8 Halsted buses are temporarily rerouted in both directions via Halsted, Cermak, Canal, Archer, Halsted Orange Line and over regular route due to street blockage near Halsted/Cermak.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-10T08:21:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117390"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Halsted",
+        "ServiceId": "8",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/8/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "74f01e9d-85cc-4ab0-8400-2abc502b33af"
+  },
+  {
+    "AlertId": "117391",
+    "Headline": "#60 Blue Island/26th and #21 Cermak Temporary Westbound Reroute near Loomis/Cermak",
+    "ShortDescription": "Westbound 60 Blue Island/26th and 21 Cermak buses are temporarily rerouted due to a street blockage near Loomis/Cermak. ",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #60 Blue Island/26th buses are temporarily rerouted via Blue Island, 18th, Ashland, Blue Island and over regular route: due to a street blockage near Loomis/Cermak.&nbsp;</p>\r\n\r\n<p>Westbound #21 Cermak buses are temporarily rerouted via Cermak, Halsted, 18th, Ashland, Cermak and over normal route: due to a street blockage near Loomis/Cermak.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-10T08:31:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117391"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Cermak",
+          "ServiceId": "21",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/21/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Blue Island/26th",
+          "ServiceId": "60",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/60/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4e39c28a-a53b-47d2-b97e-a2404ef7fe0f"
+  }
+]
