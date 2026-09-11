@@ -34,37 +34,118 @@
     "GUID": "d5272c1d-048d-4198-b4e1-8fa5cee8118a"
   },
   {
-    "AlertId": "117414",
-    "Headline": "#84 Peterson Temporary Eastbound Reroute near Bryn Mawr/Broadway",
-    "ShortDescription": "Eastbound 84 Peterson buses are temporarily rerouted, due to street blockage near Bryn Mawr/Broadway.",
+    "AlertId": "117415",
+    "Headline": "#34 South Michigan Temporary Reroute near  Michigan/122nd",
+    "ShortDescription": "34 South Michigan buses are temporarily rerouted in both directions due to street blockage near Michigan/122nd.",
     "FullDescription": {
-      "#cdata-section": "<p>Eastbound #84 Peterson buses are temporarily rerouted via Ridge, Hollywood, Sheridan, Bryn Mawr over to regular route, due to street blockage near Bryn Mawr/Broadway.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>How does this affect my trip?</p>\r\n\r\n<p>#34 South Michigan buses are temporarily rerouted in both directions:</p>\r\n\r\n<p>Northbound buses will operate via 124th Street, State, 119th, then resume their normal route.</p>\r\n\r\n<p>Southbound buses will operate via 121st Place, State, 127th, then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>Why is service being changed?</p>\r\n\r\n<p>Buses are rerouted due to street blockage near Michigan/122nd.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-11T12:15:00",
+    "EventStart": "2026-09-11T13:19:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117414"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117415"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Peterson",
-        "ServiceId": "84",
-        "ServiceBackColor": "565a5c",
+        "ServiceName": "South Michigan",
+        "ServiceId": "34",
+        "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/84/"
+          "#cdata-section": "http://www.transitchicago.com/bus/34/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "f79ef19b-5987-4b00-a805-a5764ac900ba"
+    "GUID": "60ac4699-b6a9-4e91-be2a-adff425cc82d"
+  },
+  {
+    "AlertId": "117417",
+    "Headline": " #21 Cermak Temporary Westbound Reroute near Cermak/Central Park",
+    "ShortDescription": "WB 21 Cermak buses are temp. rerouted via Cermak, Kedzie, Ogden, Central Park, Cermak and over normal route: due to a street blockage near Cermak/Central Park.",
+    "FullDescription": {
+      "#cdata-section": "<p>Westbound #21 Cermak buses are temporarily rerouted via Cermak, Kedzie, Ogden, Central Park, Cermak and over normal route: due to a street blockage near Cermak/Central Park.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-11T14:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117417"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cermak",
+        "ServiceId": "21",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/21/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "fab93173-e31d-4ce9-8d76-5c18b32844bb"
+  },
+  {
+    "AlertId": "117418",
+    "Headline": "#22 Clark and #152 Addison Temporary Reroute near Clark/Addison",
+    "ShortDescription": "#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
+    "FullDescription": {
+      "#cdata-section": "<p>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.</p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-11T15:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117418"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Addison",
+          "ServiceId": "152",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/152/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "fad372df-bdb8-4b75-b448-56c48cef98a3"
   }
 ]
