@@ -147,5 +147,39 @@
     },
     "ttim": "0",
     "GUID": "fad372df-bdb8-4b75-b448-56c48cef98a3"
+  },
+  {
+    "AlertId": "117420",
+    "Headline": "#70 Division Temporary Reroute at Division/Cicero",
+    "ShortDescription": "70 Division buses are temp. rerouted in both directions, due to street blockage near Division/Cicero.",
+    "FullDescription": {
+      "#cdata-section": "<p>#70 Division buses are temporarily rerouted in both directions via Division, Cicero, Chicago, Kostner, Division and over the regular route due to street blockage near Division/Cicero.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-11T17:46:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117420"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Division",
+        "ServiceId": "70",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/70/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "056d63e5-a0e8-43d4-af7c-4fac38404aa8"
   }
 ]
