@@ -1,36 +1,70 @@
 [
   {
-    "AlertId": "117466",
-    "Headline": "Red Line Service Delayed at 95th",
-    "ShortDescription": "UPDATE! Red Line riders trains are standing at 95th due to signal problems. Crews working to restore service.",
+    "AlertId": "117469",
+    "Headline": "#6 Jackson Park Express Temporary Northbound Reroute near Stetson/Lake",
+    "ShortDescription": "Northbound 6 Jackson Park Express buses are temporarily rerouted, due to street blockage near Stetson/Lake.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line riders trains are standing at 95th due to signal problems.&nbsp;</p>\r\n\r\n<p>Shuttles buses have been requested from Garfield to 95th to provide connecting service through the affected area in both directions.</p>\r\n\r\n<p>At this time also consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#29 State</p>\r\n\r\n<p>#24 Wentworth</p>\r\n\r\n<p>#95 95th</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #6 Jackson Park Express buses are temporarily rerouted via Michigan, Randolph, Columbus, Wacker and sit layover, due to street blockage near Stetson/Lake.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2026-09-15T09:06:00",
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-15T12:30:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117466"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117469"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson Park Express",
+        "ServiceId": "6",
+        "ServiceBackColor": "b71234",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/6/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "13fbc418-83be-44b3-a47d-96509259903e"
+    "GUID": "28c4dea9-7cd1-45a0-abdd-9ba39e261824"
+  },
+  {
+    "AlertId": "117470",
+    "Headline": "#9 Ashland Temporary Northbound Reroute near Ashland/95th",
+    "ShortDescription": "Northbound 9 Ashland buses are temporarily rerouted, due to street blockage near Ashland/95th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #9 Ashland buses are temporarily rerouted via: Exit the terminal to 95th, Vincennes, 87th, Ashland and over regular route, due to street blockage near Ashland/95th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-15T12:38:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117470"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Ashland",
+        "ServiceId": "9",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/9/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3920f8b6-7ff0-4b51-aecb-080357b0df56"
   }
 ]
