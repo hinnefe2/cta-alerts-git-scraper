@@ -1,36 +1,60 @@
 [
   {
-    "AlertId": "117500",
-    "Headline": "#11 Lincoln Temporary Reroute at Lincoln/Bryn Mawr",
-    "ShortDescription": "11 Lincoln buses are temporarily rerouted in both directions, due to street blockage near Lincoln/Bryn Mawr.",
+    "AlertId": "117503",
+    "Headline": "#29 State, #36 Broadway, and #62 Archer Temporary Reroute at State/Wacker",
+    "ShortDescription": "#29 State, #36 Broadway, and #62 Archer buses are temporarily rerouted, due to a street blockage near State/Wacker.",
     "FullDescription": {
-      "#cdata-section": "<p>#11 Lincoln buses are temporarily rerouted in both directions via Lincoln, Foster, Western, Bryn Mawr and Lincoln over to regular route, due to street blockage near Lincoln/Bryn Mawr.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#29 State, #36 Broadway, and #62 Archer buses are temporarily rerouted, due to a street blockage near State/Wacker.</p>\r\n\r\n<p>#29 State will reroute as follows:</p>\r\n\r\n<p>Northbound buses will operate via State, Wacker, Dearborn, Illinois and over regular route.</p>\r\n\r\n<p>Southbound buses will operate via State, Kinzie, Clark and over regular route.</p>\r\n\r\n<p>#36 Broadway will reroute as follows:</p>\r\n\r\n<p>Southbound: State, Kinzie, Clark and over regular route.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>#62 Archer will reroute as follows:</p>\r\n\r\n<p>Northbound: Dearborn, Kinzie, Clark and take layover.</p>\r\n\r\n<p>Southbound: Clark, Washington, State and over regular route.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-16T06:43:00",
+    "EventStart": "2026-09-16T09:55:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117500"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117503"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Lincoln",
-        "ServiceId": "11",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/11/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "State",
+          "ServiceId": "29",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/29/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Broadway",
+          "ServiceId": "36",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/36/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Archer",
+          "ServiceId": "62",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/62/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "b93f5aba-7c75-4b17-a22a-7ba2b958b2db"
+    "GUID": "204f58f2-b4de-464a-9daf-aca933f25b57"
   }
 ]
