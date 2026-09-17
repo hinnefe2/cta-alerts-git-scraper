@@ -1,63 +1,5 @@
 [
   {
-    "AlertId": "117532",
-    "Headline": "#29 State, #36 Broadway, and #62 Archer Temporary Reroute at State/Wacker",
-    "ShortDescription": "29 State, 36 Broadway, and 62 Archer buses are temporarily rerouted, due to a street blockage near State/Wacker.",
-    "FullDescription": {
-      "#cdata-section": "<p>#29 State, #36 Broadway, and #62 Archer buses are temporarily rerouted, due to a street blockage near State/Wacker.</p>\r\n\r\n<p>#29 State will reroute as follows:</p>\r\n\r\n<p>Northbound buses will operate via State, Wacker, Dearborn, Illinois and over regular route.</p>\r\n\r\n<p>Southbound buses will operate via State, Kinzie, Clark, Washington, State and over regular route.</p>\r\n\r\n<p>#36 Broadway will reroute as follows:</p>\r\n\r\n<p>Southbound: State, Kinzie, Clark and over regular route.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>#62 Archer will reroute as follows:</p>\r\n\r\n<p>Northbound: Dearborn, Kinzie, Clark and take layover.</p>\r\n\r\n<p>Southbound: Clark, Washington, State and over regular route.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-17T08:45:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117532"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "State",
-          "ServiceId": "29",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/29/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Broadway",
-          "ServiceId": "36",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/36/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Archer",
-          "ServiceId": "62",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/62/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "1591320b-c130-44f8-a22b-4019c81471e9"
-  },
-  {
     "AlertId": "117536",
     "Headline": "#86 Narragansett/Ridgeland Temporary Reroute at Narragansett/Byron",
     "ShortDescription": "86 Narragansett/Ridgeland buses are temporarily rerouted in both directions, due to a street blockage near Narragansett/Byron.",
@@ -90,5 +32,63 @@
     },
     "ttim": "0",
     "GUID": "e91ee163-29ba-4d28-81da-b2484daa3897"
+  },
+  {
+    "AlertId": "117545",
+    "Headline": "#28 Stony Island, #6 Jackson Park Express, and #2 Hyde Park Express Temporary Reroute near Hyde Park/Lake Park",
+    "ShortDescription": "28 Stony Island, 6 Jackson Park Express, and 2 Hyde Park Express buses are temp. rerouted in both directions, due to police activity near Hyde Park/Lake Park.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#28&nbsp;Stony Island, #6 Jackson Park Express, and #2 Hyde Park Express buses are temporarily rerouted in both directions, due to police activity near Hyde Park/Lake Park.</strong></p>\r\n\r\n<p><strong>#28&nbsp;Stony Island and #6 Jackson Park Express buses</strong> will reroute in both directions via 47th, Drexel, 51st, Lake Park and over normal route.&nbsp;</p>\r\n\r\n<p><strong>#2 Hyde Park Express buses</strong> will reroute in both directions via 47th, Woodlawn, 51st and over normal route.&nbsp;<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-17T18:03:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117545"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Hyde Park Express",
+          "ServiceId": "2",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/2/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Jackson Park Express",
+          "ServiceId": "6",
+          "ServiceBackColor": "b71234",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/6/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Stony Island",
+          "ServiceId": "28",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/28/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "7b134cc8-714c-4065-87de-a6d9fd9bf863"
   }
 ]
