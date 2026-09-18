@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "AlertId": "117551",
+    "Headline": "#68 Northwest Highway, #85 Central, #85A North Central and #92 Foster Temporary Reroute near Milwaukee/Carmen",
+    "ShortDescription": "68 Northwest Highway, 85 Central, 85A North Central and 92 Foster buses are temporarily rerouted, due to a street blockage near Milwaukee/Carmen.",
+    "FullDescription": {
+      "#cdata-section": "<p>#68 Northwest Highway, #85 Central, #85A North Central and #92 Foster buses are temporarily rerouted, due to a street blockage near Milwaukee/Carmen.</p>\r\n\r\n<p>#68 Northwest Highway, #85 Central, and #85A North Central will reroute in both directions as follows:</p>\r\n\r\n<p>Westbound: Milwaukee, Gale, Higgins, Central and over regular route.</p>\r\n\r\n<p>Eastbound: Reverse</p>\r\n\r\n<p>#92 Foster will reroute in both directions as follows:</p>\r\n\r\n<p>Eastbound:&nbsp; Milwaukee, Gale, Higgins, Central, Foster and over regular route.</p>\r\n\r\n<p>Westbound: Reverse</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-18T08:44:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117551"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Northwest Highway",
+          "ServiceId": "68",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/68/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Central",
+          "ServiceId": "85",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/85/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "North Central",
+          "ServiceId": "85A",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/85a/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Foster",
+          "ServiceId": "92",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/92/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4a4d5fc0-25c4-4971-87fd-a39579985b10"
+  }
+]
