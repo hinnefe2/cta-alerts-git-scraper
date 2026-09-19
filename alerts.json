@@ -1,117 +1,70 @@
 [
   {
-    "AlertId": "117563",
-    "Headline": "#95 95th Temporary Reroute at 95th/Prospect",
-    "ShortDescription": "#95 95th buses are temporarily rerouted in both directions due to, street blockage near 95th/Prospect.",
+    "AlertId": "117566",
+    "Headline": "#85 Central Temporary Reroute at Central/Chicago",
+    "ShortDescription": "85 Central buses are temporarily rerouted in both directions, due to street blockage near Central/Chicago.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>#95 95th buses are temporarily rerouted in both directions via 95th, Beverly Blvd, 99th, Longwood Drive, and 95th then resume their normal route, due to street blockage near 95th/Prospect.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
+      "#cdata-section": "<p>#85 Central buses are temporarily rerouted in both directions via Central, Madison, Austin, Division, and Central, over normal route, due to street blockage near Central/Chicago.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-19T04:58:00",
+    "EventStart": "2026-09-19T08:29:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117563"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117566"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "95th",
-        "ServiceId": "95",
+        "ServiceName": "Central",
+        "ServiceId": "85",
         "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/95/"
+          "#cdata-section": "http://www.transitchicago.com/bus/85/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "8c32de43-f3b7-4b45-9249-c393607e2baf"
+    "GUID": "09eb39c8-faf8-4eca-887e-18c20bd362fe"
   },
   {
-    "AlertId": "117564",
-    "Headline": "#22 Clark and #36 Broadway Temporary Southbound Reroute near Clark/Huron",
-    "ShortDescription": "Southbound #22 Clark and #36 Broadway buses are temporarily rerouted due to, police activity near Clark/Huron.",
+    "AlertId": "117568",
+    "Headline": "#57 Laramie Temporary Reroute at Laramie/Chicago",
+    "ShortDescription": "57 Laramie buses are temporarily rerouted in both directions, due to street blockage near Laramie/Chicago.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>Southbound #22 Clark and #36 Broadway&nbsp;buses are temporarily rerouted via Clark, Chicago, LaSalle, Ohio and Clark, due to, police activity near Clark/Huron.</strong></p>\r\n\r\n<p><strong>Northbound buses are not affected.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
+      "#cdata-section": "<p>#57 Laramie buses are temporarily rerouted in both directions via Laramie, Division, Cicero, Washington, Laramie and over to regular route, due to street blockage near Laramie/Chicago.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-19T06:41:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "EventStart": "2026-09-19T10:31:00",
+    "EventEnd": "2026-09-22T10:31:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117564"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Clark",
-          "ServiceId": "22",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/22/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Broadway",
-          "ServiceId": "36",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/36/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "f75c50ab-57cb-4ee2-b54f-6a00655fc028"
-  },
-  {
-    "AlertId": "117565",
-    "Headline": "Blue Line Service Running with Delays",
-    "ShortDescription": "UPDATE: Blue Line trains are running with delays near Clinton due to a police investigation.",
-    "FullDescription": {
-      "#cdata-section": "<p>Blue Line trains are running with delays near Clinton due to a police investigation.</p>\r\n\r\n<p>As a result, trains are operating only between O&#39;Hare to Lasalle and Forest Park to Western-cn at this time.</p>\r\n\r\n<p>Shuttles buses have been requested from Lasalle to Western-cn providing&nbsp;connecting service through the affected area in both directions.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#56 Milwaukee</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2026-09-19T06:29:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117565"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117568"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Laramie",
+        "ServiceId": "57",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/57/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "dc258169-9cd6-4a64-a0d0-f251ab5b92b6"
+    "GUID": "97fcd683-b755-4a00-a96c-242d504a677c"
   }
 ]
