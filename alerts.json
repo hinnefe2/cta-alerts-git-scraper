@@ -34,37 +34,84 @@
     "GUID": "15d23b7f-6d3e-4314-973b-20a2f90c0cc9"
   },
   {
-    "AlertId": "117660",
-    "Headline": "#68 Northwest Highway Temporary Reroute near Northwest Highway/ Berry Pkwy",
-    "ShortDescription": "68 Northwest Highway buses are temporarily rerouted in both directions, due to street blockage near Northwest Highway/ Berry Pkwy.",
+    "AlertId": "117664",
+    "Headline": "#22 Clark and #152 Addison Temporary Reroute near Clark/Addison",
+    "ShortDescription": "#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
     "FullDescription": {
-      "#cdata-section": "<p>#68 Northwest Highway buses are temporarily rerouted in both directions, due to street blockage near Northwest Highway/ Berry Pkwy.</p>\r\n\r\n<p>Westbound: #68 Northwest buses are temporarily rerouted via Northwest Hwy, Ozark, Summit, and into terminal.</p>\r\n\r\n<p>Eastbound: #68 Northwest buses are temporarily rerouted via Touhy, Harlem, Northwest Hwy, and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.</p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-24T12:25:00",
+    "EventStart": "2026-09-24T14:49:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117660"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117664"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Clark",
+          "ServiceId": "22",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/22/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Addison",
+          "ServiceId": "152",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/152/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d3ac03dc-04ce-4347-aa26-2c3ee9c9cebe"
+  },
+  {
+    "AlertId": "117667",
+    "Headline": "Howard-bound Red Line trains bypassing Addison and Sheridan",
+    "ShortDescription": "Howard-bound Red Line trains are running, but not stopping at Addison, due to track conditions. ",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are running, but not stopping at Addison due to track conditions.</p>\r\n\r\n<p>As a result, where riders needing station Addison, can transfer to 95th-bound service and ride back to bypassed stops at Sheridan.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#8 Halsted</p>\r\n\r\n<p>#22 Clark</p>\r\n\r\n<p>#36 Broadway</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2026-09-24T15:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117667"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Northwest Highway",
-        "ServiceId": "68",
-        "ServiceBackColor": "565a5c",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/68/"
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "69d796c9-d3c2-4cd8-a128-18fa99cc32b1"
+    "GUID": "ae73ab4d-22ff-45c0-8806-e9943170c2d6"
   }
 ]
