@@ -81,37 +81,84 @@
     "GUID": "d3ac03dc-04ce-4347-aa26-2c3ee9c9cebe"
   },
   {
-    "AlertId": "117667",
-    "Headline": "Howard-bound Red Line trains bypassing Addison and Sheridan",
-    "ShortDescription": "Howard-bound Red Line trains are running, but not stopping at Addison, due to track conditions. ",
+    "AlertId": "117669",
+    "Headline": "#67 67th-69th-71st Temporary Reroute near 67th/Rhodes",
+    "ShortDescription": "#67 67th-69th-71st buses temporarily rerouted in both directions, due to street blockage near 67th/Rhodes.",
     "FullDescription": {
-      "#cdata-section": "<p>Howard-bound Red Line trains are running, but not stopping at Addison due to track conditions.</p>\r\n\r\n<p>As a result, where riders needing station Addison, can transfer to 95th-bound service and ride back to bypassed stops at Sheridan.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#8 Halsted</p>\r\n\r\n<p>#22 Clark</p>\r\n\r\n<p>#36 Broadway</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>#67 67th-69th-71st buses temporarily rerouted in both directions, due to street blockage near 67th/Rhodes.</strong></p>\r\n\r\n<p><strong>Eastbound</strong>&nbsp;buses will operate via Rhodes, 68th, St. Lawrence, 67th and over regular route.</p>\r\n\r\n<p><strong>Westbound&nbsp;</strong>buses will operate via 67th, Eberhart, South Chicago, Keefe and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "58",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2026-09-24T15:36:00",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-24T16:34:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117667"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117669"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "67th-69th-71st",
+        "ServiceId": "67",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/67/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "ae73ab4d-22ff-45c0-8806-e9943170c2d6"
+    "GUID": "a24fe0b7-74a5-47f3-9e2c-04b1c1e6c9b7"
+  },
+  {
+    "AlertId": "117670",
+    "Headline": "#171 U. of Chicago/Hyde Park and #172 U. of Chicago/Kenwood Temporary Northbound Reroute near 60th/Woodlawn",
+    "ShortDescription": "Northbound 171 U. of Chicago/Hyde Park and 172 U. of Chicago/Kenwood buses are temporarily rerouted, due to street blockage near 60th/Woodlawn.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #171 U. of Chicago/Hyde Park and #172 U. of Chicago/Kenwood buses are temporarily rerouted via 60th, Woodlawn, Midway Plaisance, Dorchester and resume normal route, due to street blockage near 60th/Woodlawn.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-09-24T17:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117670"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "U. of Chicago/Hyde Park",
+          "ServiceId": "171",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/171/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "U. of Chicago/Kenwood",
+          "ServiceId": "172",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/172/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "9b6c2cdf-3541-4b28-8ebf-e687a3aa0567"
   }
 ]
