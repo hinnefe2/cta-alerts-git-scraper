@@ -1,86 +1,5 @@
 [
   {
-    "AlertId": "117656",
-    "Headline": "#21 Cermak Temporary Eastbound Reroute near 26th/Michigan",
-    "ShortDescription": "Eastbound 21 Cermak buses are temporarily rerouted via Cermak, Michigan, 25th, and to layover, due to street blockage near 26th/Michigan.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #21 Cermak buses are temporarily rerouted via Cermak, Michigan, 25th, and to layover, due to street blockage near 26th/Michigan.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-24T08:08:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117656"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cermak",
-        "ServiceId": "21",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/21/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "15d23b7f-6d3e-4314-973b-20a2f90c0cc9"
-  },
-  {
-    "AlertId": "117664",
-    "Headline": "#22 Clark and #152 Addison Temporary Reroute near Clark/Addison",
-    "ShortDescription": "#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.",
-    "FullDescription": {
-      "#cdata-section": "<p>#22 Clark and #152 Addison buses are temporarily rerouted in both directions due to street blockage near Clark/Addison.</p>\r\n\r\n<p>#22 Clark buses will operate via Clark, Racine, Belmont, then resume their normal route on Clark.</p>\r\n\r\n<p>#152 Addison buses will operate via Addison, Racine, Belmont, Halsted, then resume their normal route on Addison.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-24T14:49:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117664"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Clark",
-          "ServiceId": "22",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/22/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Addison",
-          "ServiceId": "152",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/152/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "d3ac03dc-04ce-4347-aa26-2c3ee9c9cebe"
-  },
-  {
     "AlertId": "117669",
     "Headline": "#67 67th-69th-71st Temporary Reroute near 67th/Rhodes",
     "ShortDescription": "#67 67th-69th-71st buses temporarily rerouted in both directions, due to street blockage near 67th/Rhodes.",
@@ -115,50 +34,37 @@
     "GUID": "a24fe0b7-74a5-47f3-9e2c-04b1c1e6c9b7"
   },
   {
-    "AlertId": "117670",
-    "Headline": "#171 U. of Chicago/Hyde Park and #172 U. of Chicago/Kenwood Temporary Northbound Reroute near 60th/Woodlawn",
-    "ShortDescription": "Northbound 171 U. of Chicago/Hyde Park and 172 U. of Chicago/Kenwood buses are temporarily rerouted, due to street blockage near 60th/Woodlawn.",
+    "AlertId": "117672",
+    "Headline": "#12 Roosevelt Temporary Reroute at #12 Roosevelt/Canal",
+    "ShortDescription": "#12 Roosevelt buses are temporarily rerouted in both directions due to, due to bridge maintenance near Roosevelt/Canal.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #171 U. of Chicago/Hyde Park and #172 U. of Chicago/Kenwood buses are temporarily rerouted via 60th, Woodlawn, Midway Plaisance, Dorchester and resume normal route, due to street blockage near 60th/Woodlawn.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>#12 Roosevelt buses are temporarily rerouted in both directions via Roosevelt, Clark, 18th, Canal, and Roosevelt then resume their regular route, due to bridge maintenance, near Roosevelt/Canal.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-24T17:53:00",
+    "EventStart": "2026-09-25T00:28:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117670"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117672"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "U. of Chicago/Hyde Park",
-          "ServiceId": "171",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/171/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "U. of Chicago/Kenwood",
-          "ServiceId": "172",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/172/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Roosevelt",
+        "ServiceId": "12",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/12/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "9b6c2cdf-3541-4b28-8ebf-e687a3aa0567"
+    "GUID": "c4c271b9-c954-42d7-adbe-a887016b76ce"
   }
 ]
