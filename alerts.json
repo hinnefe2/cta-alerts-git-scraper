@@ -1,70 +1,36 @@
 [
   {
-    "AlertId": "117669",
-    "Headline": "#67 67th-69th-71st Temporary Reroute near 67th/Rhodes",
-    "ShortDescription": "#67 67th-69th-71st buses temporarily rerouted in both directions, due to street blockage near 67th/Rhodes.",
+    "AlertId": "117676",
+    "Headline": "#90 Harlem Temporary Southbound Reroute near Harlem Green Line",
+    "ShortDescription": "Southbound 90 Harlem buses are temporarily rerouted due to street blockage near Harlem Green Line.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>#67 67th-69th-71st buses temporarily rerouted in both directions, due to street blockage near 67th/Rhodes.</strong></p>\r\n\r\n<p><strong>Eastbound</strong>&nbsp;buses will operate via Rhodes, 68th, St. Lawrence, 67th and over regular route.</p>\r\n\r\n<p><strong>Westbound&nbsp;</strong>buses will operate via 67th, Eberhart, South Chicago, Keefe and over regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #90 Harlem buses are temporarily rerouted via Harlem, Lake, Forest Avenue, South Boulevard, and over regular route, due to street blockage near Harlem Green Line.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-24T16:34:00",
+    "EventStart": "2026-09-25T06:16:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117669"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117676"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "67th-69th-71st",
-        "ServiceId": "67",
+        "ServiceName": "Harlem",
+        "ServiceId": "90",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/67/"
+          "#cdata-section": "http://www.transitchicago.com/bus/90/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "a24fe0b7-74a5-47f3-9e2c-04b1c1e6c9b7"
-  },
-  {
-    "AlertId": "117672",
-    "Headline": "#12 Roosevelt Temporary Reroute at #12 Roosevelt/Canal",
-    "ShortDescription": "#12 Roosevelt buses are temporarily rerouted in both directions due to, due to bridge maintenance near Roosevelt/Canal.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>#12 Roosevelt buses are temporarily rerouted in both directions via Roosevelt, Clark, 18th, Canal, and Roosevelt then resume their regular route, due to bridge maintenance, near Roosevelt/Canal.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-25T00:28:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117672"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Roosevelt",
-        "ServiceId": "12",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/12/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c4c271b9-c954-42d7-adbe-a887016b76ce"
+    "GUID": "cbd3ae6b-f496-4c6a-a118-db7f617a9a68"
   }
 ]
