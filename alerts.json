@@ -32,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "bc769c19-dad5-4278-9524-368e7f883622"
+  },
+  {
+    "AlertId": "117712",
+    "Headline": "No trains between Harlem/Lake and Ashland/Lake",
+    "ShortDescription": "Green-Line service has been temporarily suspended between Harlem/Lake and Ashland/Lake due to track conditions.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green-Line service has been temporarily suspended between Harlem/Lake and Ashland/Lake due to track conditions.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Theses may include:</p>\r\n\r\n<p>#90 Harlem<br />\r\nPace #307<br />\r\nPace #305</p>\r\n\r\n<p>Shuttle buses are available from Harlem/Lake to Ashland/Lake in both directions to provided service through the affected area.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "84",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Service Disruption",
+    "EventStart": "2026-09-26T15:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117712"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "45c3abba-4164-4edc-8ce8-f488cef99dad"
   }
 ]
