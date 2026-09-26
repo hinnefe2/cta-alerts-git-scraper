@@ -1,70 +1,36 @@
 [
   {
-    "AlertId": "117676",
-    "Headline": "#90 Harlem Temporary Southbound Reroute near Harlem Green Line",
-    "ShortDescription": "Southbound 90 Harlem buses are temporarily rerouted due to street blockage near Harlem Green Line.",
+    "AlertId": "117703",
+    "Headline": "#54 Cicero Temporary Reroute near Cicero/19th",
+    "ShortDescription": "#54 Cicero buses are temporarily rerouted in both directions due to, police activity near Cicero/19th.",
     "FullDescription": {
-      "#cdata-section": "<p>Southbound #90 Harlem buses are temporarily rerouted via Harlem, Lake, Forest Avenue, South Boulevard, and over regular route, due to street blockage near Harlem Green Line.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>#54 Cicero buses are temporarily rerouted in both directions via Cicero, 16th, Kostner, Cermak, and Cicero then resume their normal route, due to police activity near Cicero/19th.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-25T06:16:00",
+    "EventStart": "2026-09-26T03:44:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117676"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117703"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Harlem",
-        "ServiceId": "90",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/90/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "cbd3ae6b-f496-4c6a-a118-db7f617a9a68"
-  },
-  {
-    "AlertId": "117701",
-    "Headline": "#4 Cottage Grove Temporary Reroute at Cottage Grove/75th",
-    "ShortDescription": "4 Cottage Grove buses are temporarily rerouted in both directions due to street blockage near Cottage Grove/75th.",
-    "FullDescription": {
-      "#cdata-section": "<p>#4 Cottage Grove buses are temporarily rerouted in both directions via Cottage Grove, 75th, King Drive, 71st,Cottage Grove and over normal route, due to street blockage near Cottage Grove/75th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-09-25T20:08:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117701"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cottage Grove",
-        "ServiceId": "4",
+        "ServiceName": "Cicero",
+        "ServiceId": "54",
         "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/4/"
+          "#cdata-section": "http://www.transitchicago.com/bus/54/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "0c2ce6d1-ce83-4aa9-b81a-3b8b323c4c52"
+    "GUID": "ad1fc19b-52ec-4110-a980-3b4e497654e8"
   }
 ]
