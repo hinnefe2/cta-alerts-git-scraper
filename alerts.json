@@ -32,5 +32,52 @@
     },
     "ttim": "0",
     "GUID": "8d839cd7-574f-4db9-9899-1c0ce74c4cc5"
+  },
+  {
+    "AlertId": "117801",
+    "Headline": "Green and Pink Line Delays ",
+    "ShortDescription": "Green and Pink Line trains are running w/residual delays following an earlier raised bridge at the Chicago River, downtown.  Service is resuming.",
+    "FullDescription": {
+      "#cdata-section": "<p>Green and Pink Line trains are running w/residual delays following&nbsp; an earlier raised bridge at the Chicago River, downtown.&nbsp;</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-09-30T13:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117801"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c0e71430-2f04-436d-8d3d-868f936ab487"
   }
 ]
