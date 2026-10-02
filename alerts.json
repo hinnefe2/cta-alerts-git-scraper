@@ -1,36 +1,138 @@
 [
   {
-    "AlertId": "117830",
-    "Headline": "#70 Division Temporary Reroute at Division/Cicero",
-    "ShortDescription": "70 Division buses are temporarily rerouted in both directions, due to street blockage near Division/Cicero.",
+    "AlertId": "117837",
+    "Headline": "Orange Line Delays",
+    "ShortDescription": "Orange trains are running with residual delays following earlier track conditions near Midway. \r\n\r\nService is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>#70 Division buses are temporarily rerouted in both directions via Division, Cicero, Augusta, Kostner, Division and over regular route due to street blockage near Division/Cicero.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Orange&nbsp;trains are running with&nbsp;residual delays following&nbsp;earlier track conditions near Midway.&nbsp;</p>\r\n\r\n<p>Shuttle buses are available between Pulaski&nbsp;and Midway to provide connecting service through the affected area.</p>\r\n\r\n<p>Trains in both directions will operate on the same track between Pulaski&nbsp;and Midway, resulting in minor delays.&nbsp;</p>\r\n\r\n<p>Board/exit all trains on the Midway-bound side on&nbsp;the platform at the Pulaski&nbsp;station.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-10-02T06:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117837"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Orange Line",
+        "ServiceId": "Org",
+        "ServiceBackColor": "f9461c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/orangeline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ede51c3a-2817-47a6-b0f7-6d4c6e3bced7"
+  },
+  {
+    "AlertId": "117842",
+    "Headline": "#21 Cermak Temporary Reroute at Cermak/58th Avenue",
+    "ShortDescription": "#21 Cermak buses are temporarily rerouted in both directions due to, police activity near Cermak/58th Avenue.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#21 Cermak buses are temporarily rerouted in both directions via Cermak, Austin, 16th, Central, and Cermak then resume their normal route, due to police activity near Cermak/58th Avenue.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-01T20:39:00",
+    "EventStart": "2026-10-02T09:18:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117830"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117842"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Division",
-        "ServiceId": "70",
+        "ServiceName": "Cermak",
+        "ServiceId": "21",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/70/"
+          "#cdata-section": "http://www.transitchicago.com/bus/21/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "5a600dc3-9dca-47c0-8ab7-1223a259e37b"
+    "GUID": "07836aa0-35a2-49f0-b0c6-3803ed8e99be"
+  },
+  {
+    "AlertId": "117845",
+    "Headline": "#95 95th  Temporary Eastbound Reroute near 95th/Throop",
+    "ShortDescription": "Eastbound #95 95th buses are temporarily rerouted due to, street blockage near 95th/Throop.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>Eastbound #95 95th buses are temporarily rerouted via 95th, Ashland, Beverly, 99th, Vincennes and 95th due to, street blockage near 95th/Throop.</strong></p>\r\n\r\n<p><strong>Westbound buses are not affected.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-10-02T09:33:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117845"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "95th",
+        "ServiceId": "95",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/95/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "3a9db932-4e06-4074-9d77-acaba6922e4e"
+  },
+  {
+    "AlertId": "117847",
+    "Headline": "Red Line Service Delayed at Argyle",
+    "ShortDescription": "Red Line trains are standing at Argyle due to fire department activity. Crews are working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are&nbsp;standing&nbsp;at Argyle due to fire department activity.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-10-02T10:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117847"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5e404710-7c74-46dc-8c66-8d44b573fa72"
   }
 ]
