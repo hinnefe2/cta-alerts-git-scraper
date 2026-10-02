@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "117818",
-    "Headline": "#56 Milwaukee Temporary Reroute at California/Milwaukee ",
-    "ShortDescription": "#56 Milwaukee buses are temporarily rerouted in both directions due to, street blockage near California/Milwaukee.",
-    "FullDescription": {
-      "#cdata-section": "<p>#56 Milwaukee buses are temporarily rerouted in both directions via Milwaukee, Armitage, California and Milwaukee, over normal route, due to street blockage near California/Milwaukee.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-01T09:27:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117818"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Milwaukee",
-        "ServiceId": "56",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/56/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "e0259e55-0533-46be-b0e9-740785ca0d30"
-  },
-  {
     "AlertId": "117823",
     "Headline": "#97 Skokie Temporary Reroute at Oakton/Hartery",
     "ShortDescription": "97 Skokie buses are temporarily rerouted in both directions via Oakton, McCormick, Howard and over the regular route due to street blockage near Oakton/Hartery.",
@@ -66,5 +32,39 @@
     },
     "ttim": "0",
     "GUID": "dbb54bbd-1fa7-4659-8683-bb48b3a7212e"
+  },
+  {
+    "AlertId": "117830",
+    "Headline": "#70 Division Temporary Reroute at Division/Cicero",
+    "ShortDescription": "70 Division buses are temporarily rerouted in both directions, due to street blockage near Division/Cicero.",
+    "FullDescription": {
+      "#cdata-section": "<p>#70 Division buses are temporarily rerouted in both directions via Division, Cicero, Augusta, Kostner, Division and over regular route due to street blockage near Division/Cicero.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-10-01T20:39:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117830"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Division",
+        "ServiceId": "70",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/70/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "5a600dc3-9dca-47c0-8ab7-1223a259e37b"
   }
 ]
