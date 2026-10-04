@@ -1,143 +1,70 @@
 [
   {
-    "AlertId": "117891",
-    "Headline": "Temporary Reroute at Jeffery/71st",
-    "ShortDescription": "#J14 Jeffery Jump buses are temporarily rerouted in both directions, due to a street blockage near Jeffery/71st.",
+    "AlertId": "117895",
+    "Headline": "#28 Stony Island Temporary Reroute near Stony Island/71st",
+    "ShortDescription": "28 Stony Island buses are temporarily rerouted in both directions near Stony Island/71st, due to street blockage.",
     "FullDescription": {
-      "#cdata-section": "<p>#J14 Jeffery Jump buses are temporarily rerouted in both directions via Jeffery, 67th, Stony Island, 73rd, Jeffrey and over regular route, due to a street blockage near Jeffery/71st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#28 Stony Island buses are temporarily rerouted in both directions near Stony Island/71st, due to street blockage.</p>\r\n\r\n<p>Southbound:&nbsp;Stony Island, 71st, Dorchester, 73rd, Stony Island and over the regular route.&nbsp;</p>\r\n\r\n<p>Northbound: Stony Island, 71st, South Shore. 67th, Stony Island and over the regular route.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-03T20:24:00",
+    "EventStart": "2026-10-03T22:31:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117891"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117895"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Jump",
-          "ServiceId": "J14",
-          "ServiceBackColor": "0065BD",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Local",
-          "ServiceId": "15",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/15/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Stony Island",
+        "ServiceId": "28",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/28/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "c0c1eaa4-30e3-4be0-a63a-deac5eb04159"
+    "GUID": "000c983c-8236-4fe6-bb28-d4800a12e396"
   },
   {
-    "AlertId": "117892",
-    "Headline": "#15 Jeffery Local buses Temporary Reroute at Jeffery/71st",
-    "ShortDescription": "#15 Jeffery Local buses are temporarily rerouted in both directions, due to a street blockage near Jeffery/71st.",
+    "AlertId": "117898",
+    "Headline": "#62 Archer Temporary Reroute at Archer/Kedzie",
+    "ShortDescription": "62 Archer buses are temporarily rerouted in both directions due to street blockage near Archer/Kedzie.",
     "FullDescription": {
-      "#cdata-section": "<p>#15 Jeffery Local buses are temporarily rerouted in both directions via Stony Island, 73rd, Jeffrey and over regular route, due to a street blockage near Jeffery/71st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#62 Archer buses are temporarily rerouted in both directions via Archer, 39th, California, Archer, and over the regular route due to street blockage near Archer/Kedzie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-03T20:25:00",
+    "EventStart": "2026-10-04T01:43:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117892"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117898"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Jump",
-          "ServiceId": "J14",
-          "ServiceBackColor": "0065BD",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Local",
-          "ServiceId": "15",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/15/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Archer",
+        "ServiceId": "62",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/62/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "019f41d5-754b-49cd-b534-85f956b3961c"
-  },
-  {
-    "AlertId": "117893",
-    "Headline": "#15 Jeffery Local buses Temporary Reroute at Jeffery/71st",
-    "ShortDescription": "#15 Jeffery Local buses are temporarily rerouted in both directions, due to a street blockage near Jeffery/71st.",
-    "FullDescription": {
-      "#cdata-section": "<p>#15 Jeffery Local buses are temporarily rerouted in both directions via Stony Island, 73rd, Jeffrey and over regular route, due to a street blockage near Jeffery/71st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-03T20:25:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117893"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Jump",
-          "ServiceId": "J14",
-          "ServiceBackColor": "0065BD",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/j14/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Jeffery Local",
-          "ServiceId": "15",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/15/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "a4722f2e-43a0-4601-89bf-f69819aec500"
+    "GUID": "8a2b6663-710d-4400-b0f6-f1c4ea504a16"
   }
 ]
