@@ -1,70 +1,36 @@
 [
   {
-    "AlertId": "117910",
-    "Headline": "#29 State Temporary Southbound Reroute near 79th/Lafayette",
-    "ShortDescription": "SB 29 State buses are temporarily rerouted via Lafayette, 79th, Vincennes, 83rd, Lafayette and over normal route, due to a street blockage near 79th/Lafayette.",
+    "AlertId": "117913",
+    "Headline": "#36 Broadway Temporary Southbound Reroute near LaSalle Metra Station",
+    "ShortDescription": "Southbound 36 Broadway buses are temporarily rerouted via Clark, Harrison, Dearborn and over regular route, due to street blockage near LaSalle Metra Station.",
     "FullDescription": {
-      "#cdata-section": "<p>Southbound #29 State buses are temporarily rerouted via Lafayette, 79th, Vincennes, 83rd, Lafayette and over normal route, due to a street blockage near 79th/Lafayette.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Southbound #36 Broadway buses are temporarily rerouted via Clark, Harrison, Dearborn and over regular route, due to street blockage near LaSalle Metra Station.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-04T16:01:00",
+    "EventStart": "2026-10-04T23:45:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117910"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117913"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "State",
-        "ServiceId": "29",
+        "ServiceName": "Broadway",
+        "ServiceId": "36",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/29/"
+          "#cdata-section": "http://www.transitchicago.com/bus/36/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "c8930515-0da5-42f5-aec3-04c0367b0a75"
-  },
-  {
-    "AlertId": "117911",
-    "Headline": "#60 Blue Island/26th Temporary Westbound Reroute near Harrison/Halsted",
-    "ShortDescription": "WB 60 Blue Island/26th buses are temp. rerouted via Harrison, Halsted, Van Buren, Racine and over regular route: due to a street blockage near Harrison/Halsted.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #60 Blue Island/26th buses are temporarily rerouted via Harrison, Halsted, Van Buren, Racine and over regular route: due to a street blockage near Harrison/Halsted.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-04T18:08:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117911"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Blue Island/26th",
-        "ServiceId": "60",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/60/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0c9ed5dd-4d02-4c7f-a580-efbede94585e"
+    "GUID": "679ffae6-3391-457e-8737-b36715feeb51"
   }
 ]
