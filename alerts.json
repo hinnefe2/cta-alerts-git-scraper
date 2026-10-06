@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "AlertId": "117930",
+    "Headline": "#2 Hyde Park Express and #59 59th/61st Temporary Reroute near Stony Island/60th",
+    "ShortDescription": "2 Hyde Park Express and 59 59th/61st buses are temporarily rerouted due to a street blockage near Stony Island/60th.",
+    "FullDescription": {
+      "#cdata-section": "<p>#2 Hyde Park Express buses are temporarily rerouted in both directions Stony Island, Midway Plaisance, Dorchester, 60th and over regular route due to a street blockage near Stony Island/60th.</p>\r\n\r\n<p>#59 59th/61st:</p>\r\n\r\n<p>Westbound: Stony Island, Midway Plaisance, Dorchester and over the regular route.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-10-06T10:19:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117930"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Hyde Park Express",
+          "ServiceId": "2",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/2/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "59th/61st",
+          "ServiceId": "59",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/59/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "d4026c74-7b8b-421c-81f5-e57e434ddd68"
+  },
+  {
+    "AlertId": "117949",
+    "Headline": "#9 Ashland Temporary Northbound Reroute near Ashland/Berteau",
+    "ShortDescription": "NB 9 Ashland buses are temp. rerouted via Ashland, Irving Park, Clark, Montrose, Ashland and over normal route, due to street blockage near Ashland/Berteau.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #9 Ashland buses are temporarily rerouted via Ashland, Irving Park, Clark, Montrose, Ashland and over normal route, due to street blockage near Ashland/Berteau.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-10-06T14:18:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117949"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Ashland",
+        "ServiceId": "9",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/9/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6fdf8100-2b13-43b8-87e8-faf50d9e7ffc"
+  }
+]
