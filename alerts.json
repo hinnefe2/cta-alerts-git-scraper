@@ -102,50 +102,37 @@
     "GUID": "ba62db15-a915-4dc8-956a-5cb7bb3dadf7"
   },
   {
-    "AlertId": "117978",
-    "Headline": "Loop-bound Brown Line Service Delayed at Damen",
-    "ShortDescription": "Loop-bound Brown Line trains are standing at Damen due to a door problem.",
+    "AlertId": "117981",
+    "Headline": "Green Line trains bypassing Damen/Lake",
+    "ShortDescription": "Green Line trains are running, but not stopping at Damen/Lake due to police activity.",
     "FullDescription": {
-      "#cdata-section": "<p>Loop-bound Brown Line trains are standing at Damen due to a door problem.</p>\r\n\r\n<p>At this time, also consider other alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Green Line trains are running, but not stopping at Damen/Lake due to police activity.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#50 Damen</p>\r\n\r\n<p>#20 Madison</p>\r\n\r\n<p><strong>Bus shuttles are available from California/Lake and Ashland/Lake in both directions to provide service through the affected area.</strong></p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "58",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-10-08T14:45:00",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2026-10-08T15:59:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117978"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117981"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "T",
-          "ServiceTypeDescription": "Train Station",
-          "ServiceName": "Damen",
-          "ServiceId": "40090",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=141"
-          }
-        },
-        {
-          "ServiceType": "R",
-          "ServiceTypeDescription": "Train Route",
-          "ServiceName": "Brown Line",
-          "ServiceId": "Brn",
-          "ServiceBackColor": "62361b",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/brownline/"
-          }
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "66bc75e9-fa93-45b5-8945-241ff24eea45"
+    "GUID": "0a2e12a3-662f-48b3-aa68-ffa601666879"
   }
 ]
