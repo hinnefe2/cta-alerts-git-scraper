@@ -1,138 +1,36 @@
 [
   {
-    "AlertId": "117956",
-    "Headline": "#85 Central Temporary Reroute at Central/Lemoyne",
-    "ShortDescription": "85 Central buses are temporarily rerouted in both directions due to street blockage near Central/Lemoyne.",
+    "AlertId": "117986",
+    "Headline": "#87 87th Temporary Eastbound Reroute near 91st/Brandon",
+    "ShortDescription": "Eastbound 87 87th buses are temporarily rerouted via 91st, Brandon, 92nd, Houston, 91st, and over the regular route due to street blockage near 91st/Brandon.",
     "FullDescription": {
-      "#cdata-section": "<p>#85 Central buses are temporarily rerouted in both directions via Central, North Avenue, Laramie, Division, Central, and over the regular route due to street blockage near Central/Lemoyne.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Eastbound #87 87th buses are temporarily rerouted via 91st, Brandon, 92nd, Houston, 91st, and over the regular route due to street blockage near 91st/Brandon.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-07T10:24:00",
+    "EventStart": "2026-10-08T23:53:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117956"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117986"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Central",
-        "ServiceId": "85",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/85/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b572b805-0e64-4f59-a7e7-c07e399d4ae8"
-  },
-  {
-    "AlertId": "117971",
-    "Headline": "Temporary Northbound Reroute near Michigan/Roosevelt",
-    "ShortDescription": "Northbound J14 Jeffery Jump buses are temporarily rerouted via Roosevelt, State, Madison over the regular route due to street blockage near Michigan/Roosevelt.",
-    "FullDescription": {
-      "#cdata-section": "<div>Northbound J14 Jeffery Jump buses are temporarily rerouted via Roosevelt, State, Madison over the regular route due to street blockage near Michigan/Roosevelt.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>Southbound buses are not affected.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>Allow extra travel time.</div>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-08T10:33:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117971"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jeffery Jump",
-        "ServiceId": "J14",
-        "ServiceBackColor": "0065BD",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/j14/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "54de6da1-5f54-479d-8db7-74dc07de26f8"
-  },
-  {
-    "AlertId": "117973",
-    "Headline": "#52 Temporary Southbound Reroute near Kedzie/Roosevelt",
-    "ShortDescription": "Southbound 52 Kedzie buses are temp. rerouted via Kedzie, Roosevelt, Homan, Douglas, Kedzie, and over the regular due to, street blockage near Kedzie/Roosevelt.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #52 Kedzie buses are temporarily&nbsp;rerouted via Kedzie, Roosevelt, Homan, Douglas, Kedzie, and over the regular due to, street blockage near Kedzie/Roosevelt.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-08T13:57:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117973"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Kedzie",
-        "ServiceId": "52",
+        "ServiceName": "87th",
+        "ServiceId": "87",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/kedzie/"
+          "#cdata-section": "http://www.transitchicago.com/bus/87/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "ba62db15-a915-4dc8-956a-5cb7bb3dadf7"
-  },
-  {
-    "AlertId": "117981",
-    "Headline": "Green Line trains bypassing Damen/Lake",
-    "ShortDescription": "Green Line trains are running, but not stopping at Damen/Lake due to police activity.",
-    "FullDescription": {
-      "#cdata-section": "<p>Green Line trains are running, but not stopping at Damen/Lake due to police activity.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#50 Damen</p>\r\n\r\n<p>#20 Madison</p>\r\n\r\n<p><strong>Bus shuttles are available from California/Lake and Ashland/Lake in both directions to provide service through the affected area.</strong></p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "58",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2026-10-08T15:59:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117981"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Green Line",
-        "ServiceId": "G",
-        "ServiceBackColor": "009b3a",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/greenline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "0a2e12a3-662f-48b3-aa68-ffa601666879"
+    "GUID": "28184dbe-427b-415c-b050-db770c8e080c"
   }
 ]
