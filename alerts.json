@@ -1,16 +1,16 @@
 [
   {
     "AlertId": "117986",
-    "Headline": "#87 87th Temporary Eastbound Reroute near 91st/Brandon",
-    "ShortDescription": "Eastbound 87 87th buses are temporarily rerouted via 91st, Brandon, 92nd, Houston, 91st, and over the regular route due to street blockage near 91st/Brandon.",
+    "Headline": "#87 87th, #26 South Shore Express, and #30 South Chicago Temporary Reroute near 91st/Brandon",
+    "ShortDescription": "#87 87th, #26 South Shore Express, and #30 South Chicago buses are temporarily rerouted due to a street blockage near 91st/Brandon.",
     "FullDescription": {
-      "#cdata-section": "<p>Eastbound #87 87th buses are temporarily rerouted via 91st, Brandon, 92nd, Houston, 91st, and over the regular route due to street blockage near 91st/Brandon.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#87 87th, #26 South Shore Express, and #30 South Chicago buses are temporarily rerouted due to a street blockage near 91st/Brandon.</p>\r\n\r\n<p>Eastbound #87 87th and 26th South Shore Express buses are temporarily rerouted via 91st, Brandon, 92nd, Houston, 91st, and over the regular route due to street blockage near 91st/Brandon.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>#30 South Shore Express</p>\r\n\r\n<p>Southbound: 92nd, Burley, 91st and over the regular route.&nbsp;</p>\r\n\r\n<p>Northbound: 91st, Branden, 92nd&nbsp; and over the regular route.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-08T23:53:00",
+    "EventStart": "2026-10-09T05:10:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
@@ -18,19 +18,77 @@
       "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117986"
     },
     "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Shore Express",
+          "ServiceId": "26",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "b71234",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "South Chicago",
+          "ServiceId": "30",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/30/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "87th",
+          "ServiceId": "87",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/87/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "10f1287f-76a6-4c16-9c77-2302391f54dc"
+  },
+  {
+    "AlertId": "117988",
+    "Headline": "95th-bound Red Line trains bypassing Wilson",
+    "ShortDescription": "UPDATE: 95th-bound Red Line trains are running, but not stopping at Wilson due to police activity.",
+    "FullDescription": {
+      "#cdata-section": "<p>95th-bound Red Line trains are running, but not stopping at Wilson due to police activity.</p>\r\n\r\n<p>As a result, where riders needing station Wilson, can transfer to 95th-bound service and ride back to bypassed stop at Sheridan.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#70&nbsp; Montrose</p>\r\n\r\n<p>#81 Lawrence</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "58",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2026-10-09T04:43:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117988"
+    },
+    "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "87th",
-        "ServiceId": "87",
-        "ServiceBackColor": "565a5c",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/87/"
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "28184dbe-427b-415c-b050-db770c8e080c"
+    "GUID": "8d6d2939-2627-4217-935f-976485609435"
   }
 ]
