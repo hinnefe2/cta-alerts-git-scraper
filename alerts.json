@@ -58,37 +58,37 @@
     "GUID": "10f1287f-76a6-4c16-9c77-2302391f54dc"
   },
   {
-    "AlertId": "117988",
-    "Headline": "95th-bound Red Line trains bypassing Wilson",
-    "ShortDescription": "UPDATE: 95th-bound Red Line trains are running, but not stopping at Wilson due to police activity.",
+    "AlertId": "117990",
+    "Headline": "Temporary Northbound Reroute near Michigan/Roosevelt",
+    "ShortDescription": "Northbound J14 Jeffery Jump buses are temp rerouted via Columbus, Roosevelt, State,  Madison over regular route due to, street blockage near Michigan/Roosevelt",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are running, but not stopping at Wilson due to police activity.</p>\r\n\r\n<p>As a result, where riders needing station Wilson, can transfer to 95th-bound service and ride back to bypassed stop at Sheridan.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#70&nbsp; Montrose</p>\r\n\r\n<p>#81 Lawrence</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>We are working to restore service as quickly as possible. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #J14 Jeffery Jump buses are temporarily rerouted via Columbus, Roosevelt, State, 87th Madison over regular route due to, street blockage near Michigan/Roosevelt</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
-    "SeverityScore": "58",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2026-10-09T04:43:00",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-10-09T07:42:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117988"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117990"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jeffery Jump",
+        "ServiceId": "J14",
+        "ServiceBackColor": "0065BD",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/j14/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "8d6d2939-2627-4217-935f-976485609435"
+    "GUID": "421cb666-3946-4843-be24-850a1a7d7603"
   }
 ]
