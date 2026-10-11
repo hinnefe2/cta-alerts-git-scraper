@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "118008",
-    "Headline": "Temporary Eastbound #95 95th buses Reroute near 95th/Wentworth",
-    "ShortDescription": "Eastbound 95 95th buses are temporarily rerouted via 95th, Halsted, 87th, Lafayette and 95th due to, street blockage near 95th/Wentworth.",
-    "FullDescription": {
-      "#cdata-section": "<p>Eastbound #95 95th buses are temporarily rerouted&nbsp;via 95th, Halsted, 87th, Lafayette and 95th then over their normal route due to, street blockage near 95th/Wentworth.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-10T12:38:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118008"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "95th",
-        "ServiceId": "95",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/95/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "ad7f9f29-eeaa-45ca-b870-834e164cfc3e"
-  },
-  {
     "AlertId": "118009",
     "Headline": "Temporary Northbound Reroute near State/Randolph",
     "ShortDescription": "Northbound 6, 10, 62 buses are temporarily rerouted via State, Randolph, Dearborn, Wacker and State due to, street blockage near State/Randolph. ",
@@ -158,5 +124,39 @@
     },
     "ttim": "0",
     "GUID": "43431242-e38f-4681-a9a8-c8dcbb1b161b"
+  },
+  {
+    "AlertId": "118017",
+    "Headline": "#77 Belmont Temporary Eastbound Reroute near Belmont/Sayre",
+    "ShortDescription": "Eastbound 77 Belmont buses are temporarily rerouted due to, street blockage near Belmont/Sayre.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #77 Belmont buses are temporarily rerouted via Belmont, Harlem, Diversey, Oak Park, Belmont, and over the regular route due to, street blockage near Belmont/Sayre.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-10-10T18:09:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118017"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Belmont",
+        "ServiceId": "77",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/77/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "90d3a5cb-9387-4c82-a1e8-d97ada926c5c"
   }
 ]
