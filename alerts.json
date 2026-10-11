@@ -1,73 +1,5 @@
 [
   {
-    "AlertId": "118022",
-    "Headline": "Temporary Reroute near Chicago/Franklin",
-    "ShortDescription": "66 Chicago buses are temporarily rerouted in both directions due to street blockage near Chicago/Franklin. ",
-    "FullDescription": {
-      "#cdata-section": "<p>#66 Chicago buses are temporarily rerouted in both directions due to street blockage near Chicago/Franklin.&nbsp;</p>\r\n\r\n<p>Eastbound buses will operate via: Milwaukee, Grand, Orleans, Superior, Franklin and Chicago.&nbsp;</p>\r\n\r\n<p>Westbound buses will operate via: Chicago, Kingsbury, Grand, Milwaukee, Chicago and over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-11T07:47:00",
-    "EventEnd": "2026-10-14T07:47:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118022"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Chicago",
-        "ServiceId": "66",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/66/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b0a75d05-3919-4255-b9a4-1f9f0acca6bf"
-  },
-  {
-    "AlertId": "118023",
-    "Headline": "Temporary Northbound Reroute near Irving Park/Inner Lake Shore Drive",
-    "ShortDescription": "Northbound #151 Sheridan buses are temporarily rerouted, due to a street blockage near Irving Park/Inner Lake Shore Drive.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #151 Sheridan buses are temporarily rerouted via Inner Lake Shore Drive, Irving Park, Broadway, Sheridan and over regular route, due to a street blockage near Irving Park/Inner Lake Shore Drive.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-11T08:41:00",
-    "EventEnd": "2026-10-14T08:41:00",
-    "TBD": "0",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118023"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Sheridan",
-        "ServiceId": "151",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/151/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "389bc1dc-0ef9-40ba-a970-73166e5d97c9"
-  },
-  {
     "AlertId": "118025",
     "Headline": "Red Line Service Running with Delays",
     "ShortDescription": "Red Line trains are running with delays near Fullerton due to heavy train traffic & congestion.",
@@ -99,6 +31,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "0030968d-2255-49c6-872c-ec7ff18200ff"
+    "GUID": "35aae34f-f421-40cc-bca5-06df595da9b5"
+  },
+  {
+    "AlertId": "118034",
+    "Headline": "Harlem-bound Green Line Delays",
+    "ShortDescription": "UPDATE: Harlem-bound Green trains are running with residual delays following earlier police activity at California. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green trains are running with residual delays following earlier police activity at California.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-10-11T16:41:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118034"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b1c49f76-bc65-4b6e-bff6-7e9cb59015e8"
   }
 ]
