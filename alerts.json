@@ -4,7 +4,7 @@
     "Headline": "Temporary Reroute near Chicago/Franklin",
     "ShortDescription": "66 Chicago buses are temporarily rerouted in both directions due to street blockage near Chicago/Franklin. ",
     "FullDescription": {
-      "#cdata-section": "<p>#66 Chicago buses are temporarily rerouted in both directions&nbsp;due to street blockage near Chicago/Franklin.&nbsp;<br />\r\n<br />\r\nEastbound&nbsp;buses will operate via: Milwaukee, Grand, Orleans, Superior, Franklin and Chicago.&nbsp;<br />\r\n<br />\r\nWestbound&nbsp;buses will operate via:&nbsp;Chicago, Orleans, Ontario and Grand over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#66 Chicago buses are temporarily rerouted in both directions due to street blockage near Chicago/Franklin.&nbsp;</p>\r\n\r\n<p>Eastbound buses will operate via: Milwaukee, Grand, Orleans, Superior, Franklin and Chicago.&nbsp;</p>\r\n\r\n<p>Westbound buses will operate via: Chicago, Kingsbury, Grand, Milwaukee, Chicago and over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
@@ -31,6 +31,74 @@
       }
     },
     "ttim": "0",
-    "GUID": "043cb339-0f5f-4fe0-a1dc-6e095905dba8"
+    "GUID": "b0a75d05-3919-4255-b9a4-1f9f0acca6bf"
+  },
+  {
+    "AlertId": "118023",
+    "Headline": "Temporary Northbound Reroute near Irving Park/Inner Lake Shore Drive",
+    "ShortDescription": "Northbound #151 Sheridan buses are temporarily rerouted, due to a street blockage near Irving Park/Inner Lake Shore Drive.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #151 Sheridan buses are temporarily rerouted via Inner Lake Shore Drive, Irving Park, Broadway, Sheridan and over regular route, due to a street blockage near Irving Park/Inner Lake Shore Drive.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-10-11T08:41:00",
+    "EventEnd": "2026-10-14T08:41:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118023"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Sheridan",
+        "ServiceId": "151",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/151/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "389bc1dc-0ef9-40ba-a970-73166e5d97c9"
+  },
+  {
+    "AlertId": "118025",
+    "Headline": "Red Line Service Running with Delays",
+    "ShortDescription": "Red Line trains are running with delays near Fullerton due to heavy train traffic & congestion.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running with delays near Fullerton due to heavy train traffic &amp; congestion.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes&nbsp;or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore normal service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-10-11T12:45:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118025"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0030968d-2255-49c6-872c-ec7ff18200ff"
   }
 ]
