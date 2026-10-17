@@ -66,5 +66,73 @@
     },
     "ttim": "0",
     "GUID": "b7c390e8-49ed-45b6-9234-30cd020bd64c"
+  },
+  {
+    "AlertId": "118135",
+    "Headline": "#4 Cottage Grove Temporary Northbound Reroute near Front Street/113th",
+    "ShortDescription": "NB #4 Cottage Grove buses are temporarily rerouted via Cottage Grove, 115th, King Drive and over normal route, due to construction near Front Street/113th.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #4 Cottage Grove are temporarily rerouted via Cottage Grove, 115th,&nbsp;King Drive and over normal route, due to construction near Front Street/113th.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-10-17T09:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118135"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cottage Grove",
+        "ServiceId": "4",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/4/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "833dbca1-53d8-4c10-be01-60b2aa5f52e2"
+  },
+  {
+    "AlertId": "118136",
+    "Headline": "Brown Line Service Experiencing Delays Due to Raised Bridge",
+    "ShortDescription": "Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line service is experiencing delays due to a raised bridge&nbsp;at the Chicago River, downtown.</p>\r\n\r\n<p>Some trains may be either held or&nbsp;rerouted before reaching the bridge (in order&nbsp;to maintain service across the remainder of the route). Listen for announcements and check train destination signs when boarding.</p>\r\n\r\n<p>We apologize for this temporary inconvenience and appreciate your patience while the Chicago Department of Transportation works to complete the bridge operation. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-10-17T10:47:00",
+    "EventEnd": "2026-10-17T11:18:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118136"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "315c288b-e30f-4737-a6f2-719ff740e13b"
   }
 ]
