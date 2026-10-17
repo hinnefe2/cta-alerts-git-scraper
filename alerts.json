@@ -102,37 +102,37 @@
     "GUID": "833dbca1-53d8-4c10-be01-60b2aa5f52e2"
   },
   {
-    "AlertId": "118136",
-    "Headline": "Brown Line Service Experiencing Delays Due to Raised Bridge",
-    "ShortDescription": "Brown Line service is experiencing delays due to a raised bridge at the Chicago River, downtown",
+    "AlertId": "118140",
+    "Headline": "#73 Armitage buses Temporary Reroute at Armitage/Sheffield",
+    "ShortDescription": "#73 Armitage buses are temporarily rerouted in both directions via Armitage, Sheffield, Fullerton, Halsted, Armitage and over normal route.",
     "FullDescription": {
-      "#cdata-section": "<p>Brown Line service is experiencing delays due to a raised bridge&nbsp;at the Chicago River, downtown.</p>\r\n\r\n<p>Some trains may be either held or&nbsp;rerouted before reaching the bridge (in order&nbsp;to maintain service across the remainder of the route). Listen for announcements and check train destination signs when boarding.</p>\r\n\r\n<p>We apologize for this temporary inconvenience and appreciate your patience while the Chicago Department of Transportation works to complete the bridge operation. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>How does this affect my trip?</p>\r\n\r\n<p>#73 Armitage buses are temporarily rerouted in both directions via Armitage, Sheffield, Fullerton, Halsted, Armitage and over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>Why is service being changed?</p>\r\n\r\n<p>Buses are rerouted due to a street blockage near Armitage/Sheffield.</p>\r\n"
     },
-    "SeverityScore": "40",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays",
-    "EventStart": "2026-10-17T10:47:00",
-    "EventEnd": "2026-10-17T11:18:00",
-    "TBD": "0",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-10-17T12:57:00",
+    "EventEnd": null,
+    "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118136"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118140"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Brown Line",
-        "ServiceId": "Brn",
-        "ServiceBackColor": "62361b",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Armitage",
+        "ServiceId": "73",
+        "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/brownline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/73/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "315c288b-e30f-4737-a6f2-719ff740e13b"
+    "GUID": "c5ce3922-8bf3-4b78-9a10-7bdcaec74d5a"
   }
 ]
