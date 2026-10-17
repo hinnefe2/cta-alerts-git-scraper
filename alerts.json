@@ -68,40 +68,6 @@
     "GUID": "a8511600-0c83-4f29-a02a-9b220f74751b"
   },
   {
-    "AlertId": "118128",
-    "Headline": "#15 Jeffery Local Temporary Northbound Reroute near 56th/Lake Park",
-    "ShortDescription": "Northbound 15 Jeffery Local buses are temporarily rerouted due to street blockage near 56th/Lake Park.",
-    "FullDescription": {
-      "#cdata-section": "<p>Northbound #15 Jeffery Local buses are temporarily rerouted via 56th, Harper, 55th, Lake Park and over to regular route due to street blockage near 56th/Lake Park.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-16T22:23:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118128"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jeffery Local",
-        "ServiceId": "15",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/15/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "07ba058d-5a8c-4dcd-858b-779e2a54b58a"
-  },
-  {
     "AlertId": "118129",
     "Headline": "#119 Michigan/119th Temporary Reroute near 119th/Morgan",
     "ShortDescription": "119 Michigan/119th buses are temporarily rerouted in both directions due to street blockage near 119th/Morgan.",
@@ -134,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "2074365b-54fd-48b8-92d9-407cb58b8cc4"
+  },
+  {
+    "AlertId": "118131",
+    "Headline": "Howard-bound Red Line Service Delayed at Loyola",
+    "ShortDescription": "Howard-bound Red Line trains are standing near Loyola while we assist a sick passenger. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Howard-bound Red Line trains are standing near Loyola while we assist a sick passenger.&nbsp;</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-10-17T03:37:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118131"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "f2eff655-3fa6-4d9c-ab54-1bd42cf69d30"
   }
 ]
