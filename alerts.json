@@ -1,39 +1,5 @@
 [
   {
-    "AlertId": "118101",
-    "Headline": "#65 Grand Temporary Westbound Reroute near Grand/California",
-    "ShortDescription": "Westbound 65 Grand buses are temporarily rerouted due to construction near Grand/California.",
-    "FullDescription": {
-      "#cdata-section": "<p>Westbound #65 Grand buses are temporarily rerouted via Grand, California. Chicago, Grand and over the regular route, due to construction near Grand/California.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-16T04:18:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118101"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Grand",
-        "ServiceId": "65",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/65/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "c1e67ad1-6951-42c1-8e3b-2d5459db8afa"
-  },
-  {
     "AlertId": "118146",
     "Headline": "#55 Garfield buses Temporary Reroute at 55th/Kolmar",
     "ShortDescription": "#55 Garfield buses are temporarily rerouted in both directions, due to a street blockage near 55th/Kolmar.\r\n",
@@ -66,5 +32,73 @@
     },
     "ttim": "0",
     "GUID": "06ccc828-38bf-4025-a498-ba4090af737a"
+  },
+  {
+    "AlertId": "118152",
+    "Headline": "#65 Grand Temporary Eastbound Reroute near Grand/Chicago",
+    "ShortDescription": "Eastbound 65 Grand buses are temporarily rerouted via Grand, Chicago, California, Grand and over the regular route, due to construction near Grand/Chicago.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #65 Grand buses are temporarily rerouted via Grand, Chicago, California, Grand and over the regular route, due to construction near Grand/Chicago.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-10-19T04:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118152"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Grand",
+        "ServiceId": "65",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/65/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "aaa02da0-b9fc-4e5f-bce6-36ff4bee3ac3"
+  },
+  {
+    "AlertId": "118155",
+    "Headline": "Brown Line Service Running with Delays",
+    "ShortDescription": "Brown Line trains are running with reduced frequency due to an earlier incident involving a train at Kimball.",
+    "FullDescription": {
+      "#cdata-section": "<p>Brown Line trains are running with reduced frequency&nbsp;due to an earlier incident involving a train at Kimball.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#11 Lincoln</p>\r\n\r\n<p>#81 Lawrence</p>\r\n\r\n<p>#82 Kimball-Homan</p>\r\n\r\n<p>See station personnel for further assistance, and pay attention to announcements on trains and at stations for service information.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-10-19T05:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118155"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "7107b144-f462-41b8-9e1c-5e68b2ee1556"
   }
 ]
