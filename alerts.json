@@ -136,40 +136,6 @@
     "GUID": "ed0a4ecd-66ee-4552-86af-3b0d2f4095a1"
   },
   {
-    "AlertId": "118213",
-    "Headline": "#54 Cicero Temporary Reroute at Cicero/Arthington",
-    "ShortDescription": "#54 Cicero buses are temporarily rerouted in both directions due to street blockage near Cicero/Arthington.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>#54 Cicero buses are temporarily rerouted in both directions via Cicero, Harrison, Kostner, Roosevelt, and Cicero then resume their normal route, due to street blockage near Cicero/Arthington.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-22T12:13:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118213"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cicero",
-        "ServiceId": "54",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/54/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "b78a3c95-20ed-45b3-8976-74d8113f590a"
-  },
-  {
     "AlertId": "118214",
     "Headline": "#43 43rd Temporary Westbound Reroute near 43rd/Langley",
     "ShortDescription": "Westbound #43 43rd buses are temporarily rerouted due to construction near 43rd/Langley.",
@@ -202,5 +168,39 @@
     },
     "ttim": "0",
     "GUID": "f28389ae-d5d7-4368-b6b9-00cd4f2f0cf0"
+  },
+  {
+    "AlertId": "118222",
+    "Headline": "#43 43rd Temporary Reroute at Root/Princeton",
+    "ShortDescription": "43 43rd buses are temporarily rerouted in both directions via 43rd, Wallace, Root and over normal route due to, street blockage near Root/Princeton.",
+    "FullDescription": {
+      "#cdata-section": "<p>#43 43rd buses are temporarily rerouted in both directions via 43rd, Wallace, Root and over normal route due to, street blockage near Root/Princeton.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-10-22T17:13:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118222"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "43rd",
+        "ServiceId": "43",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/43/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "e3bb68f6-b81f-4804-a861-e6e9be8993b7"
   }
 ]
