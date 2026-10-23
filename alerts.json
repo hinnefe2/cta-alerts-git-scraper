@@ -34,40 +34,6 @@
     "GUID": "aaa3ba53-0f10-4517-af33-5b5c57051207"
   },
   {
-    "AlertId": "118168",
-    "Headline": "#126 Jackson Temporary Westbound Reroute near Jackson/Lotus",
-    "ShortDescription": "Westbound 126 Jackson buses are temporarily rerouted, due to construction near Jackson/Lotus.",
-    "FullDescription": {
-      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted in both directions via Jackson, Central, Madison, Laramie, Jackson and over normal route, due to construction near Jackson/Lotus.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-20T08:08:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118168"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Jackson",
-        "ServiceId": "126",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/126/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "6263c855-2183-4b05-ae33-48deb0624b10"
-  },
-  {
     "AlertId": "118204",
     "Headline": "#56 Milwaukee Temporary Reroute at Milwaukee/Noble",
     "ShortDescription": "#56 Milwaukee buses are temporarily rerouted in both directions due to, construction near Milwaukee/Noble.",
@@ -134,5 +100,39 @@
     },
     "ttim": "0",
     "GUID": "f28389ae-d5d7-4368-b6b9-00cd4f2f0cf0"
+  },
+  {
+    "AlertId": "118226",
+    "Headline": "#55 Garfield Temporary Reroute at 55th/Kilpatrick",
+    "ShortDescription": "55 Garfield buses are temporarily rerouted via 55th, Pulaski, 59th and Midway (Orange Line): due to, street blockage near 55th/Kilpatrick.",
+    "FullDescription": {
+      "#cdata-section": "<p>#55 Garfield buses are temporarily rerouted via 55th, Pulaski, 59th and Midway (Orange Line): due to, street blockage near 55th/Kilpatrick</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-10-23T07:36:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118226"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Garfield",
+        "ServiceId": "55",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/55/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "cc42a8d6-000e-4f3d-b99a-8af3c93f7cc7"
   }
 ]
