@@ -100,5 +100,52 @@
     },
     "ttim": "0",
     "GUID": "f28389ae-d5d7-4368-b6b9-00cd4f2f0cf0"
+  },
+  {
+    "AlertId": "118228",
+    "Headline": "#65 Grand and #73 Armitage Temporary Reroute near Grand/Central",
+    "ShortDescription": "#65 Grand and #73 Armitage buses are temporarily rerouted in both directions, due to a festival near Grand/Central.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#65 Grand and #73 Armitage buses are temporarily rerouted in both directions, due to a festival near Grand/Central.</strong></p>\r\n\r\n<p><strong>Eastbound buses </strong>will operate via Grand, Central, Fullerton, Laramie, Grand and resume normal route</p>\r\n\r\n<p><strong>Westbound buses</strong> will operate via Grand, Laramie, Fullerton, Central, Grand, and resume normal route.&nbsp; &nbsp;</p>\r\n\r\n<p><strong>#73 Armitage buses </strong>are temporarily rerouted in both directions via Armitage, Grand, Laramie, Fullerton, Cicero and Armitage then resume normal route.&nbsp; &nbsp;</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-10-23T16:26:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118228"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Grand",
+          "ServiceId": "65",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/65/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Armitage",
+          "ServiceId": "73",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/73/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "4bd548f2-c2b9-4dbe-b61f-f27b70355625"
   }
 ]
