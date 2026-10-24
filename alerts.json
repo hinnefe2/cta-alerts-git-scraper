@@ -34,6 +34,40 @@
     "GUID": "aaa3ba53-0f10-4517-af33-5b5c57051207"
   },
   {
+    "AlertId": "118168",
+    "Headline": "#126 Jackson Temporary Westbound Reroute near Jackson/Lotus",
+    "ShortDescription": "Westbound 126 Jackson buses are temporarily rerouted, due to construction near Jackson/Lotus.",
+    "FullDescription": {
+      "#cdata-section": "<p>#126 Jackson buses are temporarily rerouted in both directions via Jackson, Central, Madison, Laramie, Jackson and over normal route, due to construction near Jackson/Lotus.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-10-20T08:08:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118168"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Jackson",
+        "ServiceId": "126",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/126/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "fc88ff9d-e648-4956-a854-f3580b4391a3"
+  },
+  {
     "AlertId": "118204",
     "Headline": "#56 Milwaukee Temporary Reroute at Milwaukee/Noble",
     "ShortDescription": "#56 Milwaukee buses are temporarily rerouted in both directions due to, construction near Milwaukee/Noble.",
@@ -102,50 +136,37 @@
     "GUID": "f28389ae-d5d7-4368-b6b9-00cd4f2f0cf0"
   },
   {
-    "AlertId": "118228",
-    "Headline": "#65 Grand and #73 Armitage Temporary Reroute near Grand/Central",
-    "ShortDescription": "#65 Grand and #73 Armitage buses are temporarily rerouted in both directions, due to a festival near Grand/Central.",
+    "AlertId": "118231",
+    "Headline": "#79 79th Temporary Reroute at 79th/Stony Island",
+    "ShortDescription": "#79 79th buses are temporarily rerouted in both directions due to, construction near 79th/Stony Island.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>#65 Grand and #73 Armitage buses are temporarily rerouted in both directions, due to a festival near Grand/Central.</strong></p>\r\n\r\n<p><strong>Eastbound buses </strong>will operate via Grand, Central, Fullerton, Laramie, and&nbsp;Grand&nbsp;then resume their normal route.</p>\r\n\r\n<p><strong>Westbound buses</strong> will operate via Grand, Laramie, Fullerton, Central, and Grand&nbsp;then&nbsp;resume&nbsp;their normal route.&nbsp; &nbsp;</p>\r\n\r\n<p><strong>#73 Armitage buses </strong>are temporarily rerouted in both directions via Armitage, Grand, Laramie, Fullerton, Cicero, and Armitage then resume&nbsp;their normal route.&nbsp; &nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>#79 79th buses are temporarily rerouted in both directions via 79th, Greenwood, 76th, Stony Island, and 79th then resume their normal route, due to construction near 79th/Stony Island.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-23T16:26:00",
+    "EventStart": "2026-10-23T20:24:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118228"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118231"
     },
     "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Grand",
-          "ServiceId": "65",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/65/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Armitage",
-          "ServiceId": "73",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/73/"
-          }
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "79th",
+        "ServiceId": "79",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
         }
-      ]
+      }
     },
     "ttim": "0",
-    "GUID": "d5dfaf78-3f94-4653-8afb-5072d01fa034"
+    "GUID": "763847ea-fd6d-40a8-b7d0-838b3c671596"
   }
 ]
