@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "117819",
+    "Headline": "CDOT Work on Lake St Bridge Extended Thru Tuesday Night/Wednesday morning",
+    "ShortDescription": "WORK EXTENDED: Lake Street Bridge closed for CDOT reconstruction work; Pink and Green lines interrupted. More: transitchicago.com/lakebridge",
+    "FullDescription": {
+      "#cdata-section": "<p><strong><span style=\"color:#009B3A;\">Green Line</span> trains </strong>run in two sections:</p>\r\n\r\n<ul>\r\n\t<li><strong>Green Line trains will make all stops between Harlem/Lake and Clinton</strong> stations with riders connecting to free bus substitutions between Clinton and Clark/Lake stations.<br />\r\n\t&nbsp;</li>\r\n\t<li><strong>Green Line trains will make all stops between Ashland/63rd or Cottage Grove and Loop stations</strong> with connection to free bus shuttles between Clark/Lake and Clinton Stations. Trains will make all stops around the entire Loop, following the Orange Line direction and platforms.</li>\r\n</ul>\r\n\r\n<p><strong><span style=\"color:#E27EA6;\">Pink Line</span> trains </strong>connect to <strong><span style=\"color:#00A1DE;\">Blue Line-Racine </span>station </strong>for connecting service to downtown:</p>\r\n\r\n<ul>\r\n\t<li><strong>Pink line trains will make all stops between 54th/Cermak and Polk stations and then connect to Racine Station</strong> where riders will transfer to Blue Line trains for continuing service downtown.<br />\r\n\t&nbsp;</li>\r\n\t<li><strong>Pink Line riders going to/from Ashland, Morgan, Clinton stations or West Loop transfer to #9/#X9 Ashland buses</strong> near either Polk or Racine stations or other north-south bus routes (free transfer when you tap) to reach the Green Line over Lake St.</li>\r\n</ul>\r\n\r\n<p>For more info about this and related work, visit <strong>transitchicago.com/lakebridge<br />\r\n<br />\r\n<!--StartFragment-->Why is this work extended:</strong><br />\r\nCDOT crews require additional time to complete complex structural, electrical, and mechanical alignments on the newly replaced bridge leaf.<!--EndFragment--></p>\r\n"
+    },
+    "SeverityScore": "39",
+    "SeverityColor": "06c",
+    "SeverityCSS": "planned",
+    "Impact": "Planned Work w/Reroute",
+    "EventStart": "2026-10-13T04:00:00",
+    "EventEnd": "2026-10-28T04:00:00",
+    "TBD": "0",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117819"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "1",
+    "GUID": "0c43020a-9e93-4cbb-bf49-9f21931cca9e"
+  },
+  {
     "AlertId": "118231",
     "Headline": "#79 79th Temporary Reroute at 79th/Stony Island",
     "ShortDescription": "#79 79th buses are temporarily rerouted in both directions due to, construction near 79th/Stony Island.",
@@ -32,5 +79,39 @@
     },
     "ttim": "0",
     "GUID": "763847ea-fd6d-40a8-b7d0-838b3c671596"
+  },
+  {
+    "AlertId": "118253",
+    "Headline": "#111 111th/King Drive Temporary Reroute at 95th/King Drive",
+    "ShortDescription": "111 111th/King Drive buses are temp rerouted in both directions, due to street blockage near 95th/King Drive.",
+    "FullDescription": {
+      "#cdata-section": "<p>#111 111th/King Drive buses are temporarily rerouted in both directions via 95th, Michigan, 100th, King Drive and over regular route, due to street blockage near 95th/King Drive.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-10-25T15:14:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118253"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "111th/King Drive",
+        "ServiceId": "111",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/111/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "ff09cc86-a81f-4bcf-9bd1-1d2c2bcfdad5"
   }
 ]
