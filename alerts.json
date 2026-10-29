@@ -1,5 +1,52 @@
 [
   {
+    "AlertId": "117819",
+    "Headline": "Normal Pink and Green line services restored",
+    "ShortDescription": "Pink/Green lines: Work by the Chicago Dept of Transport on Lake Street Bridge requiring service disruption has completed, service resuming.",
+    "FullDescription": {
+      "#cdata-section": "<p><span data-teams=\"true\">The recent phase of work by the Chicago Department&nbsp;of Transportation on replacing part of the Lake Street Bridge has completed, allowing us to resume normal service over the bridge. See <a href=\"https://www.transitchicago.com/lake-street-bridge-west-leaf-reconstruction-complete-cta-green-and-pink-line-service-to-return-to-normal-thursday-morning-/\">Press Release</a> for more info.</span></p>\r\n"
+    },
+    "SeverityScore": "59",
+    "SeverityColor": "06c",
+    "SeverityCSS": "special-note",
+    "Impact": "Special Note",
+    "EventStart": "2026-10-29T03:00:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=117819"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Pink Line",
+          "ServiceId": "Pink",
+          "ServiceBackColor": "e27ea6",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/pinkline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "5aea7aed-9a29-4207-8123-0c3fddb117e3"
+  },
+  {
     "AlertId": "118312",
     "Headline": "#71 Temporary Southbound Reroute near Exchange/74th ",
     "ShortDescription": "Southbound  71 71st/South Shore buses are temporarily rerouted via Exchange, 74th, Coles, and 75th over regular route, near Exchange/74th street",
@@ -32,39 +79,5 @@
     },
     "ttim": "0",
     "GUID": "4b2b5364-aefe-4cd5-9d58-64537251ca48"
-  },
-  {
-    "AlertId": "118324",
-    "Headline": "Forest Park-bound Blue Line Service Delayed at UIC/Halsted",
-    "ShortDescription": "Forest Park-bound Blue Line trains are standing at UIC/Halsted due to police activity.   Crews working to restore service.",
-    "FullDescription": {
-      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing at UIC/Halsted due to police activity.&nbsp;&nbsp;</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.<br />\r\n<br />\r\nThese may include:<br />\r\n#7 Harrison<br />\r\n#8 Halsted<br />\r\n#22 Clark<br />\r\n<br />\r\nBus shuttles have been requested from Forest Park to LaSalle, in both directions to provide service through&nbsp;the affected area.&nbsp;</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2026-10-28T20:28:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118324"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "83c89ec3-7167-4b75-b449-0e7a07328a0a"
   }
 ]
