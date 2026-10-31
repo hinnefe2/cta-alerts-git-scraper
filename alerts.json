@@ -58,37 +58,61 @@
     "GUID": "87b093bf-8a85-43ef-b7f9-0ef690446450"
   },
   {
-    "AlertId": "118345",
-    "Headline": "#31 31st Temporary Reroute near 31st/ King Drive",
-    "ShortDescription": "31 31st buses temp. rerouted : due to, street blockage near 31st/King Drive",
+    "AlertId": "118346",
+    "Headline": "Bus Substitution Between Jefferson Park and Harlem (O’Hare branch) Stations",
+    "ShortDescription": "Shuttle buses will replace Blue Line service between Jefferson Park and Harlem (O’Hare branch).",
     "FullDescription": {
-      "#cdata-section": "<p>#31 31st&nbsp; buses are temporarily rerouted in both directions near 31st/ King Drive due to street blockage near 31st/King Drive.</p>\r\n\r\n<p><strong>How does this affect my trip?</strong></p>\r\n\r\n<p>Eastbound buses will operate via 31st, Michigan, 33rd Street, King Drive and 31st including the normal route streets.</p>\r\n\r\n<p>Westbound&nbsp;buses will operate via 33rd, Indiana and 31st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<div class=\"responsive-table\"><span style=\"font-weight: bolder;\">How does this affect my trip?</span><br />\r\nShuttle buses will replace rail service between Jefferson Park and Harlem (O&rsquo;Hare branch).</div>\r\n\r\n<p>Trains will operate between O&rsquo;Hare and Harlem (O&rsquo;Hare branch), and between Jefferson Park, downtown, and Forest Park.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p><span style=\"font-weight: bolder;\">Why is service being changed?</span><br />\r\nCTA is performing track maintenance for a safer, smoother commute. This work is funded via the Northern Illinois Transit Authority (NITA) Act.</p>\r\n\r\n<div class=\"responsive-table\">\r\n<table>\r\n\t<caption><span style=\"font-weight: bolder; color: rgb(255, 255, 255); font-size: 19.2px;\">Bus shuttle boarding locations</span></caption>\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\">Station</th>\r\n\t\t\t<th scope=\"col\">Direction</th>\r\n\t\t\t<th scope=\"col\">Shuttle stop</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody style=\"vertical-align:top;\">\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\">Jefferson Park</th>\r\n\t\t\t<td>to Harlem</td>\r\n\t\t\t<td>in bus terminal, at stop (A)</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\">Harlem</th>\r\n\t\t\t<td>to Jefferson Park</td>\r\n\t\t\t<td>in bus terminal, south bays near Harlem Ave</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n</div>\r\n"
     },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-10-30T12:22:00",
-    "EventEnd": null,
-    "TBD": "1",
+    "SeverityScore": "73",
+    "SeverityColor": "06c",
+    "SeverityCSS": "planned",
+    "Impact": "Planned Work w/Part Closure",
+    "EventStart": "2026-11-13T22:00:00",
+    "EventEnd": "2026-11-16T04:00:00",
+    "TBD": "0",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118345"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118346"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "31st",
-        "ServiceId": "31",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/31/"
+      "Service": [
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Harlem (O'Hare Branch)",
+          "ServiceId": "40750",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=69"
+          }
+        },
+        {
+          "ServiceType": "T",
+          "ServiceTypeDescription": "Train Station",
+          "ServiceName": "Jefferson Park",
+          "ServiceId": "41280",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/travel_information/station.aspx?StopId=78"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Blue Line",
+          "ServiceId": "Blue",
+          "ServiceBackColor": "00a1de",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/blueline/"
+          }
         }
-      }
+      ]
     },
-    "ttim": "0",
-    "GUID": "158bfe39-4a29-4f99-a397-7fb0ec91a159"
+    "ttim": "1",
+    "GUID": "b89152e3-2ef5-4cbc-829b-c23723deeee6"
   }
 ]
