@@ -150,37 +150,71 @@
     "GUID": "b591d3b6-dbcd-4acb-a37f-5da8a89538e2"
   },
   {
-    "AlertId": "118370",
-    "Headline": "95th-bound Red Line Service Delayed at Clark/Division",
-    "ShortDescription": "95th-bound Red Line trains are standing at Clark/Division due to police activity. Crews working to restore service.",
+    "AlertId": "118371",
+    "Headline": "#36 Broadway buses Temporary Reroute at Clark/Division",
+    "ShortDescription": "#36 Broadway buses are temporarily rerouted in both directions via Clark, Oak, State and over the regular route, due to a street blockage near Clark/Division.",
     "FullDescription": {
-      "#cdata-section": "<p>95th-bound Red Line trains are standing at Clark/Division due to police activity.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#36 Broadway buses are temporarily rerouted in both directions via Clark, Oak, State and over the regular route, due to a street blockage near Clark/Division.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-11-01T00:58:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118371"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Broadway",
+        "ServiceId": "36",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/36/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "b14288d2-3499-4e6c-bf08-45b5b2450358"
+  },
+  {
+    "AlertId": "118372",
+    "Headline": "Blue Line Delays",
+    "ShortDescription": "Blue Line trains are running with residual delays an congestion following an earlier medical emergency. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue Line trains are running with residual delays an congestion following an earlier medical emergency.</p>\r\n\r\n<p>Shuttles buses are in place in both directions from&nbsp;Montrose to Addison. Irving Park Station will be bypassed.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays",
-    "EventStart": "2026-11-01T00:00:00",
+    "EventStart": "2026-11-01T03:06:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118370"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118372"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "R",
         "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
-        "ServiceTextColor": "ffffff",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "cc973978-05cc-4138-b959-c8ebf6abbea9"
+    "GUID": "d4333047-efd3-4b19-8312-db8be9e3688c"
   }
 ]
