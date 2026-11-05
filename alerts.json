@@ -184,40 +184,6 @@
     "GUID": "e762cf2d-0168-44b9-9cba-b4277118eb60"
   },
   {
-    "AlertId": "118428",
-    "Headline": "#75 Temporary Reroute at 75th/Kingston",
-    "ShortDescription": " 75 74th/75th buses are temporarily rerouted in both directions due to a street blockage near 75th/Kingston.\r\n\r\n",
-    "FullDescription": {
-      "#cdata-section": "<p># 75 74th/75th buses are temporarily rerouted in both directions via 75th, Yates ,76th, Coles, 75th, and over regular route due to a street blockage near 75th/Kingston.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-11-05T09:07:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118428"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "74th-75th",
-        "ServiceId": "75",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/75/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d20943c8-f0a5-4b01-91d2-1e946ff8c815"
-  },
-  {
     "AlertId": "118429",
     "Headline": "#28 Temporary Southbound Reroute near 55th/Hyde Park",
     "ShortDescription": "Southbound 28 Stony Island buses are temporarily rerouted via Hyde Park, 55th, Lake Park, 56th and Stony Island: due to, street blockage near 55th/Hyde Park.",
@@ -250,40 +216,6 @@
     },
     "ttim": "0",
     "GUID": "4ef8f9e2-c946-4355-ba38-c1791e22738f"
-  },
-  {
-    "AlertId": "118430",
-    "Headline": "#54 Temporary Southbound Reroute near Cicero/Cermak",
-    "ShortDescription": "Southbound #54 Cicero buses are temporarily rerouted via Cicero, 16th, Kostner, Cermak and Cicero: due to, street blockage near Cicero/Cermak.",
-    "FullDescription": {
-      "#cdata-section": "<p>Southbound #54 Cicero buses are temporarily rerouted via Cicero, 16th, Kostner, Cermak and Cicero: due to, street blockage near Cicero/Cermak.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-11-05T09:22:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118430"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Cicero",
-        "ServiceId": "54",
-        "ServiceBackColor": "414145",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/54/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "9fd5a906-94b3-45f6-ab91-7b8760fecc78"
   },
   {
     "AlertId": "118431",
@@ -433,5 +365,73 @@
     },
     "ttim": "0",
     "GUID": "071146cc-537c-4b6d-af1c-e8cf60b1ebf9"
+  },
+  {
+    "AlertId": "118448",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running w/residual delays following an earlier mechanical problem near Fullerton. Service is resuming, allow extra time.",
+    "FullDescription": {
+      "#cdata-section": "<p>Red Line trains are running w/residual delays following an earlier mechanical problem near Fullerton.</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-11-05T17:25:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118448"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/redline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "33b2330b-a125-4872-836c-26dc15b9eb1b"
+  },
+  {
+    "AlertId": "118449",
+    "Headline": "#54 Cicero Temporary Southbound Reroute near Cicero/Wrightwood",
+    "ShortDescription": "SB 54 Cicero buses are temp. rerouted via Cicero, Diversey, Pulaski, Fullerton, Cicero and over normal route, due to street blockage near Cicero/Wrightwood.",
+    "FullDescription": {
+      "#cdata-section": "<p>Southbound #54 Cicero buses are temporarily rerouted via Cicero, Diversey, Pulaski, Fullerton, Cicero and over normal route, due to street blockage near Cicero/Wrightwood.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-11-05T17:42:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118449"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cicero",
+        "ServiceId": "54",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/54/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "76180418-7953-4434-998b-fd6000d1d584"
   }
 ]
