@@ -56,5 +56,120 @@
     },
     "ttim": "1",
     "GUID": "b89152e3-2ef5-4cbc-829b-c23723deeee6"
+  },
+  {
+    "AlertId": "118492",
+    "Headline": "#44 Wallace/Racine Temporary Reroute at Racine/75th",
+    "ShortDescription": "44 Wallace/Racine buses are temporarily rerouted via Racine, 76th, Loomis, 74th and Racine : due to, street blockage near Racine/75th.",
+    "FullDescription": {
+      "#cdata-section": "<p>44 Wallace/Racine buses are temporarily rerouted via Racine, 76th, Loomis, 74th and Racine : due to, street blockage near Racine/75th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-11-09T08:02:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118492"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Wallace/Racine",
+        "ServiceId": "44",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/44/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "8d8dde0e-ee0d-4380-bc52-543bc48e0338"
+  },
+  {
+    "AlertId": "118495",
+    "Headline": "#49 Western, #X49 Western Express Temporary Reroute at Western/31st",
+    "ShortDescription": "49 Western, X49 Western Express buses are temporarily rerouted via Western, 26th, California Ave, 35th and Western: due to, street blockage near Western/31st.",
+    "FullDescription": {
+      "#cdata-section": "<p>#49 Western, #X49 Western Express buses are temporarily rerouted via Western, 26th, California Ave, 35th and Western: due to, street blockage near Western/31st.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-11-09T13:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118495"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western",
+          "ServiceId": "49",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/49/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Western Express",
+          "ServiceId": "X49",
+          "ServiceBackColor": "ffffff",
+          "ServiceTextColor": "00a078",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/x49/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "1c4b6b6e-f728-4a50-a8bb-95e1ab0b0560"
+  },
+  {
+    "AlertId": "118496",
+    "Headline": "Temporary Reroute near 75th/Racine",
+    "ShortDescription": "#75 74th/75th buses temporarily rerouted in both directions due to street blockage near 75th/Racine.",
+    "FullDescription": {
+      "#cdata-section": "<p>#75 74th/75th buses temporarily rerouted in both directions due to street blockage near 75th/Racine.</p>\r\n\r\n<p>Eastbound #75 74th/75th buses rerouted via 74th, Continue to Racine over the regular route.&nbsp;</p>\r\n\r\n<p>Westbound #75 74th/75th buses rerouted via 74th, Continue to Loomis over the regular route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-11-09T14:32:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118496"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "74th-75th",
+        "ServiceId": "75",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/75/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "675f5092-718f-48d1-85a7-a5873c5bc24a"
   }
 ]
