@@ -92,37 +92,71 @@
     "GUID": "675f5092-718f-48d1-85a7-a5873c5bc24a"
   },
   {
-    "AlertId": "118502",
-    "Headline": "#94 California Temporary Reroute at California/59th",
-    "ShortDescription": "94 California buses are temporarily rerouted, due to a street blockage near California/59th.",
+    "AlertId": "118505",
+    "Headline": "#87 Temporary Westbound Reroute near Commercial/91st",
+    "ShortDescription": "Westbound 87 87th buses are temporarily rerouted via 91st, Houston, 87th and Exchange over regular route due to, street blockage near Commercial/91st.",
     "FullDescription": {
-      "#cdata-section": "<p>#94&nbsp;California buses are temporarily rerouted via California, 59th, Western, 55th, California and over normal route, due to a street blockage near California/59th.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #87 87th buses are temporarily rerouted via 91st, Houston, 87th and Exchange over regular route due to, street blockage near Commercial/91st.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-11-09T21:51:00",
+    "EventStart": "2026-11-10T05:51:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118502"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118505"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "California",
-        "ServiceId": "94",
+        "ServiceName": "87th",
+        "ServiceId": "87",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/california/"
+          "#cdata-section": "http://www.transitchicago.com/bus/87/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "b7a785a2-5315-4344-82ad-bf4cf36d6f92"
+    "GUID": "3332230b-5aef-4165-8ff9-6db352dea841"
+  },
+  {
+    "AlertId": "118506",
+    "Headline": "#26 Temporary Northbound Reroute near Commercial/91st",
+    "ShortDescription": "Northbound 26 South Shore Express buses are temporarily rerouted due to, street blockage near Commercial/91st.",
+    "FullDescription": {
+      "#cdata-section": "<p>Northbound #26 South Shore Express buses are temporarily rerouted via 91st, Houston, 87th and Exchange over regular route due to, street blockage near Commercial/91st.</p>\r\n\r\n<p>Southbound buses are not affected</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-11-10T05:53:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118506"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "South Shore Express",
+        "ServiceId": "26",
+        "ServiceBackColor": "ffffff",
+        "ServiceTextColor": "b71234",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/26/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "af5e47f0-9e71-4984-9d9c-d3e2485266de"
   }
 ]
