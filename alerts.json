@@ -92,71 +92,71 @@
     "GUID": "675f5092-718f-48d1-85a7-a5873c5bc24a"
   },
   {
-    "AlertId": "118505",
-    "Headline": "#87 Temporary Westbound Reroute near Commercial/91st",
-    "ShortDescription": "Westbound 87 87th buses are temporarily rerouted via 91st, Houston, 87th and Exchange over regular route due to, street blockage near Commercial/91st.",
+    "AlertId": "118518",
+    "Headline": "#7 Harrison Temporary Reroute near Harrison/Kilpatrick",
+    "ShortDescription": "7 Harrison buses are temporarily rerouted in both directions, due to street blockage near Harrison/Kilpatrick.",
     "FullDescription": {
-      "#cdata-section": "<p>Westbound #87 87th buses are temporarily rerouted via 91st, Houston, 87th and Exchange over regular route due to, street blockage near Commercial/91st.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>#7 Harrison buses are temporarily rerouted in both directions, due to street blockage near Harrison/Kilpatrick.</strong></p>\r\n\r\n<p><strong>Westbound </strong>buses will operate via Congress, Kostner, Jackson, Cicero, Harrison and over normal route.</p>\r\n\r\n<p><strong>Eastbound </strong>buses will operate via Harrison, Cicero, Jackson, Kostner, 5th Ave, Harrison and over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-11-10T05:51:00",
+    "EventStart": "2026-11-10T16:26:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118505"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118518"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "87th",
-        "ServiceId": "87",
+        "ServiceName": "Harrison",
+        "ServiceId": "7",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/87/"
+          "#cdata-section": "http://www.transitchicago.com/bus/7/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "3332230b-5aef-4165-8ff9-6db352dea841"
+    "GUID": "571380d4-ea2a-4a49-9a34-a48efafc1af6"
   },
   {
-    "AlertId": "118506",
-    "Headline": "#26 Temporary Northbound Reroute near Commercial/91st",
-    "ShortDescription": "Northbound 26 South Shore Express buses are temporarily rerouted due to, street blockage near Commercial/91st.",
+    "AlertId": "118524",
+    "Headline": "Brown Line Trains bypassing Montrose",
+    "ShortDescription": "Brown Line trains are running, but not stopping at Montrose due to police activity.",
     "FullDescription": {
-      "#cdata-section": "<p>Northbound #26 South Shore Express buses are temporarily rerouted via 91st, Houston, 87th and Exchange over regular route due to, street blockage near Commercial/91st.</p>\r\n\r\n<p>Southbound buses are not affected</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Brown Line trains are running, but not stopping at Montrose due to police activity.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.<br />\r\n<br />\r\nAlso consider using nearby Irving Park station for Brown Line train service.&nbsp;</p>\r\n\r\n<p>We apologize for this inconvenience and appreciate your understanding.</p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "58",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-11-10T05:53:00",
+    "SeverityCSS": "planned",
+    "Impact": "Station(s) Bypassed",
+    "EventStart": "2026-11-10T18:25:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118506"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118524"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "South Shore Express",
-        "ServiceId": "26",
-        "ServiceBackColor": "ffffff",
-        "ServiceTextColor": "b71234",
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Brown Line",
+        "ServiceId": "Brn",
+        "ServiceBackColor": "62361b",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/26/"
+          "#cdata-section": "http://www.transitchicago.com/brownline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "af5e47f0-9e71-4984-9d9c-d3e2485266de"
+    "GUID": "9157747a-fab6-4b7e-ad19-fee1ed799fb0"
   }
 ]
