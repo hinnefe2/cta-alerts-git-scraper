@@ -56,5 +56,86 @@
     },
     "ttim": "1",
     "GUID": "b89152e3-2ef5-4cbc-829b-c23723deeee6"
+  },
+  {
+    "AlertId": "118528",
+    "Headline": "#44 Wallace/Racine and #35 35th Temporary Reroute at Wallace/35th",
+    "ShortDescription": "#44 Wallace/Racine and #35 35th buses are temporarily rerouted in both directions due to, street blockage near Wallace/35th.",
+    "FullDescription": {
+      "#cdata-section": "<p><strong>#44 Wallace/Racine </strong>buses are temporarily rerouted in both directions via Racine, 39th, Halsted, 35th, and Wallace then resume their normal route due to, street blockage near Wallace/35th.</p>\r\n\r\n<p><strong>#35 35th buses</strong> are temporarily rerouted in both directions via 33th, Halsted, 39th, Lasalle, and 35th then resume their normal route due to, street blockage near Wallace/35th.</p>\r\n\r\n<p>Allow extra travel time.&nbsp;</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-11-11T08:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118528"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "31st/35th",
+          "ServiceId": "35",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/35/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Wallace/Racine",
+          "ServiceId": "44",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/44/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "04ed2033-031f-4967-855a-d091de0d76a1"
+  },
+  {
+    "AlertId": "118529",
+    "Headline": "Forest Park-bound Blue Line Service Delayed at Clark/ Lake",
+    "ShortDescription": "Forest Park-bound Blue Line trains are standing near Clark/Lake due to a mechanical problem. Crews are working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Forest Park-bound Blue Line trains are standing near Clark/Lake due to a mechanical problem.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-11-11T08:52:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118529"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "14826278-defa-4c26-8f2b-2249be8cafc2"
   }
 ]
