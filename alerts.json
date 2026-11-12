@@ -56,5 +56,86 @@
     },
     "ttim": "1",
     "GUID": "b89152e3-2ef5-4cbc-829b-c23723deeee6"
+  },
+  {
+    "AlertId": "118535",
+    "Headline": "#39 Pershing Temporary Eastbound Reroute near Pershing/Western",
+    "ShortDescription": "EB 39 Pershing buses are temp. rerouted via Archer Orange Line, 35th, Ashland, Pershing and over regular route, due to street blockage near Pershing/Western.",
+    "FullDescription": {
+      "#cdata-section": "<p>Eastbound #39 Pershing buses are temporarily rerouted via Archer Orange Line, 35th, Ashland, Pershing and over regular route, due to street blockage&nbsp;near Pershing/Western.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-11-11T16:57:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118535"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Pershing",
+        "ServiceId": "39",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/39/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "6957a483-5cb9-4de3-818d-56f523ee2559"
+  },
+  {
+    "AlertId": "118536",
+    "Headline": "Harlem-bound Green and Loop-bound Orange Line Service Delayed at Roosevelt",
+    "ShortDescription": "Harlem-bound Green and Loop-bound Orange Line trains are standing at Roosevelt due to a sick customer. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>Harlem-bound Green and Loop-bound Orange&nbsp;Line trains are standing at Roosevelt due to a sick customer.</p>\r\n\r\n<p>At this time, also consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-11-11T20:24:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118536"
+    },
+    "ImpactedService": {
+      "Service": [
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Green Line",
+          "ServiceId": "G",
+          "ServiceBackColor": "009b3a",
+          "ServiceTextColor": "FFFFFF",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/greenline/"
+          }
+        },
+        {
+          "ServiceType": "R",
+          "ServiceTypeDescription": "Train Route",
+          "ServiceName": "Orange Line",
+          "ServiceId": "Org",
+          "ServiceBackColor": "f9461c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/orangeline/"
+          }
+        }
+      ]
+    },
+    "ttim": "0",
+    "GUID": "c50058d0-c06f-4243-91eb-e70ceae79ad0"
   }
 ]
