@@ -58,22 +58,22 @@
     "GUID": "b89152e3-2ef5-4cbc-829b-c23723deeee6"
   },
   {
-    "AlertId": "118535",
-    "Headline": "#39 Pershing Temporary Eastbound Reroute near Pershing/Western",
-    "ShortDescription": "EB 39 Pershing buses are temp. rerouted via Archer Orange Line, 35th, Ashland, Pershing and over regular route, due to street blockage near Pershing/Western.",
+    "AlertId": "118541",
+    "Headline": "#39 Pershing Temporary Eastbound Reroute near 39th/Cottage Grove",
+    "ShortDescription": "Eastbound 39 Pershing buses are temporarily rerouted via 39th, Cottage Grove, Oakwood, Vincennes and 39th: due to, street blockage near 39th/Cottage Grove.",
     "FullDescription": {
-      "#cdata-section": "<p>Eastbound #39 Pershing buses are temporarily rerouted via Archer Orange Line, 35th, Ashland, Pershing and over regular route, due to street blockage&nbsp;near Pershing/Western.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Eastbound #39 Pershing buses are temporarily rerouted via 39th, Cottage Grove, Oakwood, Vincennes and 39th: due to, street blockage near 39th/Cottage Grove.</p>\r\n\r\n<p>Westbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-11-11T16:57:00",
+    "EventStart": "2026-11-12T07:34:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118535"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118541"
     },
     "ImpactedService": {
       "Service": {
@@ -89,6 +89,40 @@
       }
     },
     "ttim": "0",
-    "GUID": "6957a483-5cb9-4de3-818d-56f523ee2559"
+    "GUID": "73080057-e0a7-4052-8f1f-665b9596cc6e"
+  },
+  {
+    "AlertId": "118551",
+    "Headline": "#92 Foster Temporary Reroute at Foster/Kedzie",
+    "ShortDescription": "92 Foster buses are temporarily rerouted in both directions due to fire department activity near Foster/Kedzie.",
+    "FullDescription": {
+      "#cdata-section": "<p>#92 Foster buses are temporarily rerouted in both directions via Foster, Kimball, Bryn Mawr, California and Foster: due to fire department activity near Foster/Kedzie.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-11-12T12:01:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118551"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Foster",
+        "ServiceId": "92",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/92/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "338c939b-b9b5-4bef-af4d-c79e541c99a7"
   }
 ]
