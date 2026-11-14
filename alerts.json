@@ -58,37 +58,61 @@
     "GUID": "b89152e3-2ef5-4cbc-829b-c23723deeee6"
   },
   {
-    "AlertId": "118564",
-    "Headline": "#91 Austin Temporary Southbound Reroute near Austin/Belden",
-    "ShortDescription": "Southbound 91 Austin buses are temporarily rerouted, due to street blockage near Austin/Belden.",
+    "AlertId": "118580",
+    "Headline": "#3 King Drive, # 66 Chicago and #157 Streeterville buses Temporary Reroute near Fairbanks/Superior",
+    "ShortDescription": "#3 King Drive, # 66 Chicago and #157 Streeterville buses are temporarily rerouted in both directions, due to construction at Fairbanks/Superior.",
     "FullDescription": {
-      "#cdata-section": "<p>Southbound #91 Austin buses are temporarily rerouted via Austin, Fullerton, Central, Grand, Austin and over normal route, due to street blockage near Austin/Belden.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>#3 King Drive, # 66 Chicago and #157 Streeterville buses are temporarily rerouted in both directions, due to construction at Fairbanks/Superior.</p>\r\n\r\n<p>Southbound #3 King Drive buses will operate via Ontario, Michigan, and over regular route.</p>\r\n\r\n<p>Northbound #3 King Drive buses will operate via Michigan, Ohio, Fairbanks, Erie and into the terminal.</p>\r\n\r\n<p>Eastbound #66 Chicago buses will operate via Chicago, Michigan, Ohio, Fairbanks, Illinois and over regular route</p>\r\n\r\n<p>Westbound #66 Chicago buses will operate via Grand, Fairbanks, Ontario, Michigan and over regular route.</p>\r\n\r\n<p>The #157 Streeterville buses will operate via Michigan, Chicago, and over regular route in both directions.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-11-13T08:38:00",
+    "EventStart": "2026-11-13T20:54:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118564"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118580"
     },
     "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Austin",
-        "ServiceId": "91",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/91/"
+      "Service": [
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "King Drive",
+          "ServiceId": "3",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/3/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Chicago",
+          "ServiceId": "66",
+          "ServiceBackColor": "414145",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/66/"
+          }
+        },
+        {
+          "ServiceType": "B",
+          "ServiceTypeDescription": "Bus Route",
+          "ServiceName": "Streeterville/Taylor",
+          "ServiceId": "157",
+          "ServiceBackColor": "565a5c",
+          "ServiceTextColor": "ffffff",
+          "ServiceURL": {
+            "#cdata-section": "http://www.transitchicago.com/bus/157/"
+          }
         }
-      }
+      ]
     },
     "ttim": "0",
-    "GUID": "41094d46-ca13-4767-9446-39c3269762e1"
+    "GUID": "67305d18-d4a9-4d45-aa61-4d1fe12f0177"
   }
 ]
