@@ -1,83 +1,104 @@
 [
   {
-    "AlertId": "118580",
-    "Headline": "#3 King Drive and # 66 Chicago buses Temporary Reroute near Fairbanks/Superior",
-    "ShortDescription": "#3 King Drive and # 66 Chicago buses are temporarily rerouted in both directions, due to construction at Fairbanks/Superior.",
+    "AlertId": "118611",
+    "Headline": "#96 Temporary Westbound Reroute near Sheridan/Glenlake",
+    "ShortDescription": "Westbound 96 Lunt buses are temporarily rerouted via Sheridan, Touhy, Clark and Lunt over regular route, due to street blockage near Sheridan/Glenlake.",
     "FullDescription": {
-      "#cdata-section": "<p>#3 King Drive and&nbsp;#66 Chicago buses are temporarily rerouted in both directions, due to construction at Fairbanks/Superior.</p>\r\n\r\n<p>Southbound #3 King Drive buses will operate via Ontario, Michigan, and over regular route.</p>\r\n\r\n<p>Northbound #3 King Drive buses will operate via Michigan, Ohio, Fairbanks, Erie and into the terminal.</p>\r\n\r\n<p>Eastbound #66 Chicago buses will operate via Chicago, Michigan, Ohio, Fairbanks, Illinois and over regular route</p>\r\n\r\n<p>Westbound #66 Chicago buses will operate via Grand, Fairbanks, Ontario, Michigan and over regular route.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Westbound #96 Lunt buses are temporarily rerouted via Sheridan, Touhy, Clark and Lunt over regular route, due to street blockage near Sheridan/Glenlake.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-11-13T20:54:00",
+    "EventStart": "2026-11-16T09:57:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118580"
-    },
-    "ImpactedService": {
-      "Service": [
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "King Drive",
-          "ServiceId": "3",
-          "ServiceBackColor": "565a5c",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/3/"
-          }
-        },
-        {
-          "ServiceType": "B",
-          "ServiceTypeDescription": "Bus Route",
-          "ServiceName": "Chicago",
-          "ServiceId": "66",
-          "ServiceBackColor": "414145",
-          "ServiceTextColor": "ffffff",
-          "ServiceURL": {
-            "#cdata-section": "http://www.transitchicago.com/bus/66/"
-          }
-        }
-      ]
-    },
-    "ttim": "0",
-    "GUID": "eeaa51e9-7d75-4f20-81c1-b35e4ee53298"
-  },
-  {
-    "AlertId": "118599",
-    "Headline": "#67 67th-69th-71st Temporary Reroute near 69th/Damen",
-    "ShortDescription": "#67 67th-69th-71st buses temporarily rerouted in both directions, due to street blockage near 69th/Damen.",
-    "FullDescription": {
-      "#cdata-section": "<p><strong>#67 67th-69th-71st buses temporarily rerouted in both directions, due to street blockage near 69th/Damen.</strong></p>\r\n\r\n<p><strong>Westbound buses</strong> will operate via 69th, Damen, Marquette, California, 71st, Western, and 69th then resume their normal route.</p>\r\n\r\n<p><strong>Eastbound buses</strong> will operate via Western, Marquette, Damen, and 69th then resume their normal route.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
-    },
-    "SeverityScore": "55",
-    "SeverityColor": "B45F04",
-    "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-11-15T03:10:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118599"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118611"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "67th-69th-71st",
-        "ServiceId": "67",
+        "ServiceName": "Lunt",
+        "ServiceId": "96",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/67/"
+          "#cdata-section": "http://www.transitchicago.com/bus/96/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "351e26d2-5708-4020-b2cf-2145afe4185b"
+    "GUID": "2937da0f-b459-48fb-bc63-5195196a3694"
+  },
+  {
+    "AlertId": "118613",
+    "Headline": "#4 Temporary Reroute at Cottage Grove/93rd",
+    "ShortDescription": "4 Cottage Grove buses are temporarily rerouted in both directions due to street blockage near Cottage Grove/93rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#4 Cottage Grove buses are temporarily rerouted in both directions via Cottage Grove, 87th, King Drive, 95th, Cottage Grove and over regular route, due to street blockage near Cottage Grove/93rd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-11-16T14:59:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118613"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Cottage Grove",
+        "ServiceId": "4",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/4/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "319b2598-e53b-4490-9897-b546ff0f9311"
+  },
+  {
+    "AlertId": "118614",
+    "Headline": "#95 Temporary Reroute near Cottage Grove/93rd",
+    "ShortDescription": "95 95th buses temporarily rerouted in both directions due to, street blockage near Cottage Grove/93rd.",
+    "FullDescription": {
+      "#cdata-section": "<p>#95 95th buses temporarily rerouted in both directions due to, street blockage near Cottage Grove/93rd.</p>\r\n\r\n<p>Westbound buses will operate via 95th, Woodlawn, Continue on 95th over the regular route.</p>\r\n\r\n<p>Eastbound buses will operate via 95th, Cottage Grove, Continue on 95th over the regular route.&nbsp;</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-11-16T15:06:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118614"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "95th",
+        "ServiceId": "95",
+        "ServiceBackColor": "414145",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/95/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "a296946f-55e9-4114-ae63-0307fade7c94"
   }
 ]
