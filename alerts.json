@@ -1,36 +1,36 @@
 [
   {
-    "AlertId": "118665",
-    "Headline": "Red Line Trains bypassing Morse ",
-    "ShortDescription": "Red Line trains are running, but not stopping at Morse due to police activity.",
+    "AlertId": "118669",
+    "Headline": "#63 63rd buses Temporary Reroute near 63rd/Stewart",
+    "ShortDescription": "The #63 63rd buses are temporarily rerouted, due to construction near 63rd/Stewart.",
     "FullDescription": {
-      "#cdata-section": "<p>Red Line trains are running, but not stopping at Morse due to police activity.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes, or using buses to other rail lines.</p>\r\n\r\n<p>These may include:</p>\r\n\r\n<p>#151 Sheridan</p>\r\n\r\n<p>#155 Devon</p>\r\n\r\n<p>#36 Broadway</p>\r\n\r\n<p>We apologize for this&nbsp;inconvenience and appreciate your understanding.</p>\r\n"
+      "#cdata-section": "<p>How does this affect my trip?</p>\r\n\r\n<p>Eastbound #63 63rd buses are temporarily rerouted via 63rd, Halsted, 59th, Wells, 63rd and then resume their normal route.</p>\r\n\r\n<p>Westbound #63 63rd buses are temporarily rerouted via 63rd, Wentworth, 59th, Halsted, 63rd and then resume their normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n\r\n<p>Why is service being changed?</p>\r\n\r\n<p>Buses are rerouted due to construction near 63rd/Stewart.</p>\r\n"
     },
-    "SeverityScore": "58",
+    "SeverityScore": "55",
     "SeverityColor": "B45F04",
-    "SeverityCSS": "planned",
-    "Impact": "Station(s) Bypassed",
-    "EventStart": "2026-11-19T01:50:00",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-11-19T09:49:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118665"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118669"
     },
     "ImpactedService": {
       "Service": {
-        "ServiceType": "R",
-        "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Red Line",
-        "ServiceId": "Red",
-        "ServiceBackColor": "c60c30",
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "63rd",
+        "ServiceId": "63",
+        "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/redline/"
+          "#cdata-section": "http://www.transitchicago.com/bus/63/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "e7b58281-c1b1-46cb-ac45-a010ab6664c4"
+    "GUID": "044e3f6f-09aa-41b7-911d-ad75fe25a0a3"
   }
 ]
