@@ -34,71 +34,37 @@
     "GUID": "044e3f6f-09aa-41b7-911d-ad75fe25a0a3"
   },
   {
-    "AlertId": "118675",
-    "Headline": "#44 Wallace/Racine Temporary Reroute at Racine/82nd",
-    "ShortDescription": "44 Wallace/Racine buses are temporarily rerouted in both directions, due to police activity near Racine/82nd.",
+    "AlertId": "118680",
+    "Headline": "Red Line Delays",
+    "ShortDescription": "Red Line trains are running with residual delays following an earlier injured customer at Clark/Division. Service is resuming, allow extra time.",
     "FullDescription": {
-      "#cdata-section": "<p>#44 Wallace/Racine buses are temporarily rerouted in both directions via Racine, 79th, Loomis, 83rd, Racine and over regular route, due to police activity near Racine/82nd.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p><strong>Red Line trains are running with&nbsp;residual delays following an earlier injured customer at&nbsp;Clark/Division.</strong></p>\r\n\r\n<p><strong>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nTrains are moving and normal service is being restored.<br />\r\n<br />\r\nAllow extra travel time.</strong></p>\r\n"
     },
-    "SeverityScore": "55",
+    "SeverityScore": "40",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
-    "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-11-19T15:54:00",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-11-19T22:09:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118675"
-    },
-    "ImpactedService": {
-      "Service": {
-        "ServiceType": "B",
-        "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Wallace/Racine",
-        "ServiceId": "44",
-        "ServiceBackColor": "565a5c",
-        "ServiceTextColor": "ffffff",
-        "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/44/"
-        }
-      }
-    },
-    "ttim": "0",
-    "GUID": "d57d3271-d69d-4536-acd7-18f6871ae7fe"
-  },
-  {
-    "AlertId": "118677",
-    "Headline": "O'Hare-bound Blue Line Delays",
-    "ShortDescription": "O'Hare-bound Blue Line trains are running w/major delays following an earlier mechanical problem near Cicero (Congress). Service is resuming, allow extra time.",
-    "FullDescription": {
-      "#cdata-section": "<p>O&#39;Hare-bound Blue Line trains are running with major delays following an earlier mechanical problem on a train near Cicero (Congress).</p>\r\n\r\n<p>Some trains and platforms may be busier than usual as crews work to restore normal service.<br />\r\n<br />\r\nShuttle buses have been requested to provide connecting service between UIC/Halsted and Forest Park, in both directions until 5:45pm.</p>\r\n\r\n<p>Trains are moving and normal service is being restored.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
-    },
-    "SeverityScore": "80",
-    "SeverityColor": "c00c00",
-    "SeverityCSS": "major",
-    "Impact": "Major Delays",
-    "EventStart": "2026-11-19T17:25:00",
-    "EventEnd": null,
-    "TBD": "1",
-    "MajorAlert": "0",
-    "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118677"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118680"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "R",
         "ServiceTypeDescription": "Train Route",
-        "ServiceName": "Blue Line",
-        "ServiceId": "Blue",
-        "ServiceBackColor": "00a1de",
-        "ServiceTextColor": "FFFFFF",
+        "ServiceName": "Red Line",
+        "ServiceId": "Red",
+        "ServiceBackColor": "c60c30",
+        "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/blueline/"
+          "#cdata-section": "http://www.transitchicago.com/redline/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "57c4be43-5108-4e1a-b7c5-abf5d5f779ff"
+    "GUID": "4d8c384e-0515-4f11-a4f1-155c2af0d663"
   }
 ]
