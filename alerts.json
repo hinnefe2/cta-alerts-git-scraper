@@ -34,37 +34,139 @@
     "GUID": "044e3f6f-09aa-41b7-911d-ad75fe25a0a3"
   },
   {
-    "AlertId": "118702",
-    "Headline": "#55 Garfield Temporary Westbound Reroute near 55th/Throop",
-    "ShortDescription": "Westbound #55 Garfield buses are temporarily rerouted due to, police activity near 55th/Throop.",
+    "AlertId": "118705",
+    "Headline": "#79 Temporary Westbound Reroute near 79th/South Chicago",
+    "ShortDescription": "Westbound 79 79th buses are temporarily rerouted due to street blockage near 79th/South Chicago.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>Westbound #55 Garfield buses are temporarily rerouted via 55th, Racine, 51st, Ashland, and 55th then resume their normal route&nbsp;due to, police activity near 55th/Throop.</strong></p>\r\n\r\n<p><strong>Eastbound buses are not affected.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
+      "#cdata-section": "<p>Westbound #79 79th buses are temporarily rerouted via 79th, South Chicago, Dante, Kenwood and 79th over regular route due to street blockage near 79th/South Chicago.</p>\r\n\r\n<p>Eastbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-11-21T02:26:00",
+    "EventStart": "2026-11-21T06:48:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118702"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118705"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Garfield",
-        "ServiceId": "55",
+        "ServiceName": "79th",
+        "ServiceId": "79",
         "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/55/"
+          "#cdata-section": "http://www.transitchicago.com/bus/79/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "da316fdf-8fbd-4163-a3e4-07d0ed9981d5"
+    "GUID": "17a57e3d-f72f-41c1-8ed3-143a6f5e8bbb"
+  },
+  {
+    "AlertId": "118706",
+    "Headline": "#119 Temporary Reroute near 119th/Page",
+    "ShortDescription": "#119 Michigan/119th buses are temporarily rerouted in both directions due to street blockage near 119th/Page.",
+    "FullDescription": {
+      "#cdata-section": "<p>#119 Michigan/119th buses are temporarily rerouted in both directions due to street blockage near 119th/Page.</p>\r\n\r\n<p>Southbound buses will operate via 119th, Ashland, 115th, Vincennes, 119th, over normal route.</p>\r\n\r\n<p>Northbound buses will operate via 119th, Vincennes, Marshfield and 119th, over normal route.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-11-21T07:49:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118706"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Michigan/119th",
+        "ServiceId": "119",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/bus/119/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "d9ab0c5b-c982-48e7-ab24-314e54e3fca2"
+  },
+  {
+    "AlertId": "118710",
+    "Headline": "Green-Line Service Delayed",
+    "ShortDescription": "Green Line trains will operate in both directions on the same track between 35th-Bronzeville-IIT & Halsted and 35th-Bronzeville-IIT and King Drive. ",
+    "FullDescription": {
+      "#cdata-section": "<p style=\"color: rgb(35, 31, 32);\"><span style=\"font-weight: bolder;\">How does this affect my trip?</span>&nbsp;<br />\r\nGreen Line trains will operate in both directions on the same track between 35th-Bronzeville-IIT and Halsted and 35th-Bronzeville-IIT and King Drive, resulting in delays</p>\r\n\r\n<p style=\"color: rgb(35, 31, 32);\">Allow extra travel time.</p>\r\n\r\n<p style=\"color: rgb(35, 31, 32);\"><span style=\"font-weight: bolder;\">Why is service being changed?</span><br />\r\nWe are performing track power maintenance to ensure that trains continue to operate efficiently and safely along the Green Line.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-11-21T08:29:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118710"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Green Line",
+        "ServiceId": "G",
+        "ServiceBackColor": "009b3a",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/greenline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "4be083fe-bd47-4315-8da8-0edfb8e29b87"
+  },
+  {
+    "AlertId": "118711",
+    "Headline": "O'hare -bound Blue Line Service Delayed Irving Park",
+    "ShortDescription": "UPDATE: O'hare -bound Blue Line trains are standing due to a delay near Irving Park. Crews working to restore service.",
+    "FullDescription": {
+      "#cdata-section": "<p>O&#39;hare -bound Blue Line trains are standing due to a delay near Irving Park.</p>\r\n\r\n<p>Consider other service alternatives that may serve your trip, such as nearby bus routes or using buses to other rail lines.</p>\r\n\r\n<p>Personnel are working to restore service. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "40",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays",
+    "EventStart": "2026-11-21T11:10:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118711"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "0082f62e-d05f-495f-a100-c991c5395451"
   }
 ]
