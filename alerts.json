@@ -1,70 +1,138 @@
 [
   {
-    "AlertId": "118745",
-    "Headline": "SB #56 Milwaukee busesTemporary Southbound Reroute near Milwaukee/Campbell",
-    "ShortDescription": "SB #56 Milwaukee buses are temporarily rerouted due to a street blockage near Milwaukee/Campbell.",
+    "AlertId": "118753",
+    "Headline": "#85 Central Temporary Northbound Reroute near Central/Hirsch",
+    "ShortDescription": "Northbound 85 Central buses are temporarily rerouted via Central, Division, Austin, North Avenue and Central: due to, street blockage near Central/Hirsch.",
     "FullDescription": {
-      "#cdata-section": "<p>Southbound #56 Milwaukee buses are temporarily rerouted via Milwaukee, California, Armitage, Milwaukee and&nbsp;over the regular route, due to a street blockage near Milwaukee/Campbell.</p>\r\n\r\n<p>Northbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+      "#cdata-section": "<p>Northbound #85 Central buses are temporarily rerouted via Central, Division, Austin, North Avenue and Central: due to, street blockage near Central/Hirsch.</p>\r\n\r\n<p>Southbound buses are not affected.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-11-23T20:26:00",
+    "EventStart": "2026-11-24T08:39:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118745"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118753"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Milwaukee",
-        "ServiceId": "56",
-        "ServiceBackColor": "565a5c",
+        "ServiceName": "Central",
+        "ServiceId": "85",
+        "ServiceBackColor": "414145",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/56/"
+          "#cdata-section": "http://www.transitchicago.com/bus/85/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "6e28d8bb-2ad8-4820-8d71-16e307595014"
+    "GUID": "f0030a4d-aa0f-42e7-a920-1fb0cedd788c"
   },
   {
-    "AlertId": "118746",
-    "Headline": "#78 Montrose Temporary Reroute at Montrose/Milwaukee",
-    "ShortDescription": "#78 Montrose buses are temporarily rerouted in both directions, due to fire department activity near Montrose/Milwaukee.",
+    "AlertId": "118755",
+    "Headline": "#51 51st Temporary Reroute at 51st/Ashland",
+    "ShortDescription": "51 51st buses are temporarily rerouted via 51st, Damen, 55th, Ashland and 51st: due to, street blockage near 51st/Ashland.",
     "FullDescription": {
-      "#cdata-section": "<p><strong>#78 Montrose buses are temporarily rerouted in both directions via Montrose, Milwaukee, Sunnyside, Laramie, and Montrose then resume their regular route, due to fire department activity near Montrose/Milwaukee.</strong></p>\r\n\r\n<p><strong>Allow extra travel time.</strong></p>\r\n"
+      "#cdata-section": "<p>#51 51st buses are temporarily rerouted via 51st, Damen, 55th, Ashland and 51st: due to, street blockage near 51st/Ashland.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
     },
     "SeverityScore": "55",
     "SeverityColor": "B45F04",
     "SeverityCSS": "minor",
     "Impact": "Minor Delays / Reroute",
-    "EventStart": "2026-11-23T22:25:00",
+    "EventStart": "2026-11-24T10:15:00",
     "EventEnd": null,
     "TBD": "1",
     "MajorAlert": "0",
     "AlertURL": {
-      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118746"
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118755"
     },
     "ImpactedService": {
       "Service": {
         "ServiceType": "B",
         "ServiceTypeDescription": "Bus Route",
-        "ServiceName": "Montrose",
-        "ServiceId": "78",
+        "ServiceName": "51st",
+        "ServiceId": "51",
         "ServiceBackColor": "565a5c",
         "ServiceTextColor": "ffffff",
         "ServiceURL": {
-          "#cdata-section": "http://www.transitchicago.com/bus/78/"
+          "#cdata-section": "http://www.transitchicago.com/bus/51/"
         }
       }
     },
     "ttim": "0",
-    "GUID": "504f4e05-0664-4fd9-801f-205ecdff5c53"
+    "GUID": "f7f006e4-fe01-4ab2-95b6-b5a4adb46597"
+  },
+  {
+    "AlertId": "118757",
+    "Headline": "Blue Line Experiencing Delays; Boarding change between California and Damen",
+    "ShortDescription": "Blue Line service running w/delays due to track conditions near California; board all trains on the O'Hare-bound side at California, Western and Damen.",
+    "FullDescription": {
+      "#cdata-section": "<p>Blue&nbsp;Line service is running with delays due to track conditions&nbsp;near California.</p>\r\n\r\n<p>Trains, in both directions, are running on the same track between California&nbsp;and Damen.</p>\r\n\r\n<p>Board/exit all trains on the O&#39;Hare- bound side of the platform at California, Western, and Damen.</p>\r\n\r\n<p><strong>Shuttle buses are available from California to Damen to provide connecting service through the affected area.</strong></p>\r\n\r\n<p>We&#39;re working to restore normal service as quickly as possible. Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "80",
+    "SeverityColor": "c00c00",
+    "SeverityCSS": "major",
+    "Impact": "Major Delays",
+    "EventStart": "2026-11-24T12:17:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118757"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "R",
+        "ServiceTypeDescription": "Train Route",
+        "ServiceName": "Blue Line",
+        "ServiceId": "Blue",
+        "ServiceBackColor": "00a1de",
+        "ServiceTextColor": "FFFFFF",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/blueline/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2e8ffb56-812e-4893-9bf4-208244dac4a5"
+  },
+  {
+    "AlertId": "118758",
+    "Headline": "#52 Kedzie Temporary Reroute at Kedzie/Lexington",
+    "ShortDescription": "52 Kedzie buses are temporarily rerouted via Kedzie, Roosevelt, Sacramento, Harrison and Kedzie: due to, police activity near Kedzie/Lexington.",
+    "FullDescription": {
+      "#cdata-section": "<p>#52 Kedzie buses are temporarily rerouted via Kedzie, Roosevelt, Sacramento, Harrison and Kedzie: due to, police activity near Kedzie/Lexington.</p>\r\n\r\n<p>Allow extra travel time.</p>\r\n"
+    },
+    "SeverityScore": "55",
+    "SeverityColor": "B45F04",
+    "SeverityCSS": "minor",
+    "Impact": "Minor Delays / Reroute",
+    "EventStart": "2026-11-24T12:22:00",
+    "EventEnd": null,
+    "TBD": "1",
+    "MajorAlert": "0",
+    "AlertURL": {
+      "#cdata-section": "http://www.transitchicago.com/travel_information/alert_detail.aspx?AlertId=118758"
+    },
+    "ImpactedService": {
+      "Service": {
+        "ServiceType": "B",
+        "ServiceTypeDescription": "Bus Route",
+        "ServiceName": "Kedzie",
+        "ServiceId": "52",
+        "ServiceBackColor": "565a5c",
+        "ServiceTextColor": "ffffff",
+        "ServiceURL": {
+          "#cdata-section": "http://www.transitchicago.com/kedzie/"
+        }
+      }
+    },
+    "ttim": "0",
+    "GUID": "2481b6df-05b9-4010-a332-02deebf89523"
   }
 ]
